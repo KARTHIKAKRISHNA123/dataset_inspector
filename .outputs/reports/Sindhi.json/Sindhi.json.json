@@ -1,0 +1,107 @@
+{
+  "dataset": "Sindhi.json",
+  "file_name": "Sindhi.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "sd",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "instruction",
+    "input",
+    "output"
+  ],
+  "preview": [
+    "هدايتون",
+    "ايليگيٽر ۽ مگرمڇ ساڳئي حڪم، ڪروڪوڊيليا سان تعلق رکن ٿا، پر انهن ۾ ڪيترائي اختلاف آهن. 1) ننڊ جي شڪل: ايليگيٽرن کي يو جي شڪل، وسيع ننڊ آهي، جڏهن ته مگرمڇن کي وڌيڪ نوڪدار، وي جي شڪل وارو اسنوٽ آهي. 2) ڏندن جي پوزيشن: هڪ مگرمچھ ۾، هيٺيون دانت گهڻو ڪري لڪيل هوندا آهن جڏهن ان جو منهن بند هوندو آهي، جڏهن ته مگرمڇ ۾، چوٿون هيٺيون دانت ان وقت به ظاهر ٿيندو آهي جڏهن منهن بند هوندو آهي. 3) رهائش گاهه: ايليگيٽر گهڻو ڪري مٺي پاڻي جي رهائشگاهن جهڙوڪ دلدل ۽ درياهن ۾ ملن ٿا، جڏهن ته مڇي ٻنهي مٺي پاڻي ۽ لوڻ وار"
+  ],
+  "statistics": {
+    "records_sampled": 44244,
+    "missing_text": 670,
+    "text_length_min": 7,
+    "text_length_max": 7872,
+    "text_length_avg": 484.28,
+    "duplicate_estimate": 34783,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 0.9983,
+      "Latin": 0.0017
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 52094001,
+    "estimated_records": 107188
+  },
+  "schema": {
+    "columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "estimated_records": 107188,
+    "raw_schema": {
+      "instruction": "str",
+      "input": "str",
+      "output": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": [
+      "sd"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "sd",
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.75
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "Sindhi.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Sindhi.json",
+    "relative_path": "Sindhi.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Sindhi.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 52094001,
+    "mtime": 1782815130.4666014,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4f5f73d1a7e157dbfc583342971391f0db195c94",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

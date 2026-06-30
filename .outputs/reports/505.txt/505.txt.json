@@ -1,0 +1,96 @@
+{
+  "dataset": "505.txt",
+  "file_name": "505.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अजो नित्य्ः शाश्वतोयं पुराणो न हन्यते हन्यमाने शरीरे ॥ - १२१८",
+    "अणोरणीयान्महतो महीयानात्मास्य जन्तोर्निहितो गुहायाम् ।"
+  ],
+  "statistics": {
+    "records_sampled": 9195,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2511,
+    "text_length_avg": 67.55,
+    "duplicate_estimate": 335,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001,
+      "Gujarati": 0.0,
+      "Tamil": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 4,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1716013,
+    "estimated_records": 32949
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32949,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "505.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\505.txt",
+    "relative_path": "505.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "505.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1716013,
+    "mtime": 1782814615.5638995,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "4f4004fb07851421f817eea25f69d955d03a8185",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

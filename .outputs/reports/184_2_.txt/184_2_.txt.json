@@ -1,0 +1,102 @@
+{
+  "dataset": "184 (2).txt",
+  "file_name": "184 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वारं न देवः सविता वयूर्णुते ",
+    "धातूनां नामानि ।"
+  ],
+  "statistics": {
+    "records_sampled": 9329,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2836,
+    "text_length_avg": 61.5,
+    "duplicate_estimate": 342,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0003,
+      "Arabic": 0.0001,
+      "Tamil": 0.0001,
+      "Kannada": 0.0,
+      "Gujarati": 0.0,
+      "Gurmukhi": 0.0,
+      "Telugu": 0.0,
+      "Malayalam": 0.0,
+      "Bengali": 0.0,
+      "Oriya": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1590523,
+    "estimated_records": 30717
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 30717,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "184 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\184 (2).txt",
+    "relative_path": "184 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "184 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1590523,
+    "mtime": 1782814610.0470781,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.867,
+    "sha1_quick": "533841ab3eb75e0507db3a3be19b33bf86817059",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

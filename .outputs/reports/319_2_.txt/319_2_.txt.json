@@ -1,0 +1,95 @@
+{
+  "dataset": "319 (2).txt",
+  "file_name": "319 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्तन्त्राश्रयणेनैव मत्पूजा च कृता त्वया । तपसा प्रीतवानस्मि तव शाण्डिल्य",
+    "कुमार्गेणापि शाण्डिल्य मम पूजा त्वया कृता । अतः कालेन महता वेदमार्गं"
+  ],
+  "statistics": {
+    "records_sampled": 9583,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1741,
+    "text_length_avg": 54.53,
+    "duplicate_estimate": 151,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001,
+      "Arabic": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 7,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1438388,
+    "estimated_records": 25130
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25130,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "319 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\319 (2).txt",
+    "relative_path": "319 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "319 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1438388,
+    "mtime": 1782814612.0471778,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "10cabc048dd70551a8114fce50b529dd2c83275f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

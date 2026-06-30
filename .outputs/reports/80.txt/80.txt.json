@@ -1,0 +1,96 @@
+{
+  "dataset": "80.txt",
+  "file_name": "80.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अनेन सह सम्बद्धाः",
+    "३ दिसम्बर २०१६  दिनाङ्के अन्तिमपरिवर्तनं १०४४ समये अभवत्"
+  ],
+  "statistics": {
+    "records_sampled": 9429,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1936,
+    "text_length_avg": 52.24,
+    "duplicate_estimate": 295,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001,
+      "Gujarati": 0.0,
+      "Tamil": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1372412,
+    "estimated_records": 27070
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27070,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "80.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\80.txt",
+    "relative_path": "80.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "80.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1372412,
+    "mtime": 1782814616.5314517,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "78378638d1b6edfabe39b1283c7a4c10a087d7c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

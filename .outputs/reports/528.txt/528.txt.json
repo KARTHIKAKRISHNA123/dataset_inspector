@@ -1,0 +1,99 @@
+{
+  "dataset": "528.txt",
+  "file_name": "528.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अथात्मने । यथा वागादिभिरात्मार्थमागानं कृतम् ; तथा मुख्योऽपि प्राणः सर्वप्राणसाधारणं प्राजापत्यफलमागानं कृत्वा त्रिषु पवमानेषु, अथ अनन्तरं शिष्टेषु नवसु स्तोत्रेषु, आत्मने आत्मार्थम् , अन्नाद्यम् अन्नं च तदाद्यं च अन्नाद्यम् , आगायत् । कर्तुः कामसंयोगो वाचनिक इत्युक्तम् । कथं पुनस्तदन्नाद्यं प्राणेनात्मार्थमागीतमिति गम्यत इत्यत्र हेतुमाह — यत्किञ्चेति — सामान्यान्नमात्रपरामर्शार्थः ; हीति हेतौ ; यस्माल्लोके प्राणिभिर्यत्किञ्चिदन्नमद्यते भक्ष्यते तदनेनैव प्राणेनैव ; अन इति प्राणस्याख्या प्रसिद्धा",
+    "ते देवाः । नन्ववधारणमयुक्तम् ‘प्राणेनैव तदद्यते’ इति, वागादीनामप्यन्ननिमित्तोपकारदर्शनात् ; नैष दोषः, प्राणद्वारत्वात्तदुपकारस्य । कथं प्राणद्वारकोऽन्नकृतो वागादीनामुपकार इत्येतमर्थं प्रदर्शयन्नाह — ते वागादयो देवाः, स्वविषयद्योतनाद्देवाः, अब्रुवन् उक्तवन्तो मुख्यं प्राणम् — ‘इदम् एतावत् , नातोऽधिकमस्ति ; वा इति स्मरणार्थः ; इदं तत्सर्वमेतावदेव ; किम् ? यदन्नं प्राणस्थितिकरमद्यते लोके, तत्सर्वमात्मने आत्मार्थम् , आगासीः आगीतवानसि आगानेनात्मसात्कृतमित्यर्थः ; वयं चान्नमन्तरेण स्थातुं नोत्सहामहे ;"
+  ],
+  "statistics": {
+    "records_sampled": 9988,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 15502,
+    "text_length_avg": 381.34,
+    "duplicate_estimate": 4099,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Bengali": 0.0004,
+      "Kannada": 0.0,
+      "Latin": 0.0,
+      "Gujarati": 0.0,
+      "Arabic": 0.0,
+      "Oriya": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10432006,
+    "estimated_records": 20341
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20341,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "528.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\528.txt",
+    "relative_path": "528.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "528.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10432006,
+    "mtime": 1782814616.0846014,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "75a8d37a008197fdff07d2f7f9bda725dfdf3287",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

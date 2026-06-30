@@ -1,0 +1,96 @@
+{
+  "dataset": "362 (2).txt",
+  "file_name": "362 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ई स ११२३ तमे वर्षे ‘मुहमद् आवफी’ भारतदेशे आसीत् । तस्मिन् काले खम्भात-पत्तने एकं ‘मस्जिद्’ आसीत् । किन्तु तत्रत्यैः अन्यपूजकैः तत् ‘मस्जिद्’ दाहितम् । अनन्तरं तैः ८० मुस्लिम्-जनानां हत्या अपि कृता आसीत् ।",
+    "अयं एकः हृदयद्रावकः प्रसङ्गः आसीत् । अतः ‘मस्जिद्’ इत्यस्य केनचित् पूजकेन जयसिंहाय प्रसङ्गाधारितम् एकं काव्यं प्रेषितम् आसीत् । काव्यं पठित्वा जयसिंहः स्वयमेव खम्भात-पत्तनं गत्वा तस्य प्रसङ्गस्य सम्पूर्णविषयम् अवगतवान् । तदनन्तरं जयसिंहेन ‘मस्जिद्’ इत्यस्य पुनर्निर्माणार्थं १ लक्षं चलितमुद्राणि प्रदत्तानि । अनन्तरं ये अभियुक्ताः आसन्, तेभ्यः दण्डः अपि प्रदत्तः ।"
+  ],
+  "statistics": {
+    "records_sampled": 9272,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1677,
+    "text_length_avg": 62.45,
+    "duplicate_estimate": 301,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0003,
+      "Tamil": 0.0,
+      "Kannada": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1593119,
+    "estimated_records": 26433
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26433,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "362 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\362 (2).txt",
+    "relative_path": "362 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "362 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1593119,
+    "mtime": 1782814613.3770542,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8c9cee62b93c904cbb285f61d25a01a7e97f49c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

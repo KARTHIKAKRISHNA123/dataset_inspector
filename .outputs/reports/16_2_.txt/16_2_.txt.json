@@ -1,0 +1,96 @@
+{
+  "dataset": "16 (2).txt",
+  "file_name": "16 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अयमनुप्रयोगः निशन इत्यस्य तत्त्वावधाने कृतानांमनुवादानां समीक्षणे विशेषज्ञानांन्वेषणे सहायको भविष्यति। समीक्षकाः विशेषज्ञाः अनूदितज्ञानपाठ्यानां भाषादृष्ट्या विषयदृष्ट्या च अपेक्षिताः सन्ति। विशेषज्ञानां सङ्ग्राहकाः न केवलं विषयमधिकृत्य अपि तु भाषाविशेषज्ञानामपि ज्ञानं प्रयच्छति। अयमभिकल्पितानुप्रयोगः रा अ मि इत्यस्य क्रियाकलापान् यथा अनुवादकानां कृते प्रशिक्षण-कार्यक्रमः संगोष्ठ्यः, कार्यशालाश्चेत्येतेषां कृते उपयोगी वर्तते।",
+    "वर्णस्वरूप  विषयः "
+  ],
+  "statistics": {
+    "records_sampled": 9336,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1764,
+    "text_length_avg": 68.04,
+    "duplicate_estimate": 284,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001,
+      "Malayalam": 0.0,
+      "Arabic": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1757104,
+    "estimated_records": 33286
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33286,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16 (2).txt",
+    "relative_path": "16 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1757104,
+    "mtime": 1782814609.8206606,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fd5d09bb3c24c312f18469e2e7674f05b1f007a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

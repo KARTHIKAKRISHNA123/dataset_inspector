@@ -1,0 +1,101 @@
+{
+  "dataset": "142.txt",
+  "file_name": "142.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीयसमाजाय कार्यं कर्तुं प्रयत्नशीला सा परिषद् समाजहिताय अन्यानि कार्याणि अपि करोति । परिषद् प्रतिवर्षं प्रभावशालिवैज्ञानिकेभ्यः शान्तिस्वरूप भटनागर-पुरस्कारं प्रददाति । परिषद् विश्वविद्यालय-संशोधकेन्द्राणां संशोधकेभ्यः छात्रेभ्यः शिष्यवृत्तेः प्रबन्धं करोति । परिषद् शोधछात्रेभ्यः साहाय्यम् अपि प्रयच्छति । साहाय्यम् इत्यस्य कृते अखिलभारतीयपरीक्षायाः आयोजनम् अपि भवति ।",
+    "भारतस्य चत्वारिंशत् राष्ट्रियप्रयोगशालाः, द्वादश सहकारी-औद्यौगिकसंस्थाः च तस्यां परिषदि अन्तिर्भवन्ति । वैज्ञानिकक्षेत्रे देशस्य सम्माननं वर्धयितुम् एताः संस्थाः अविरतं कार्यं कुर्वन्त्यः सन्ति । तासां मुख्यभूमिकया एव भारतदेशस्य वैज्ञानिकक्षेत्रे विकासः जायमानः अस्ति । राष्ट्रियप्रयोगशालाः भारतीयविद्यार्थिभ्यः शोधकार्यार्थं सुविधां यच्छन्ति । राष्ट्रियप्रयोगशालासु भारतीयविद्यार्थिनः शोधकार्ये स्वप्रतिभायाः, ज्ञानस्य च उपयोगं कर्तुम् उचितम् अवसरं प्राप्नुवन्ति । तेन माध्यमेन भारतस्य आर्थिकविकासः "
+  ],
+  "statistics": {
+    "records_sampled": 7565,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 4312,
+    "text_length_avg": 335.2,
+    "duplicate_estimate": 1594,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9993,
+      "Gujarati": 0.0005,
+      "Kannada": 0.0001,
+      "Bengali": 0.0,
+      "Tamil": 0.0,
+      "Latin": 0.0,
+      "Telugu": 0.0,
+      "Oriya": 0.0,
+      "Gurmukhi": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6967986,
+    "estimated_records": 18478
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18478,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "142.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\142.txt",
+    "relative_path": "142.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "142.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6967986,
+    "mtime": 1782814609.602199,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dedbd7369689e7c1ba5ef34a26f0d8e632e6e7f6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

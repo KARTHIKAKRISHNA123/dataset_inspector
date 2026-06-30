@@ -1,0 +1,109 @@
+{
+  "dataset": "Sindhi_Legal_Dataset.csv",
+  "file_name": "Sindhi_Legal_Dataset.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "sd",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "﻿input_sd",
+    "output_sd"
+  ],
+  "preview": [
+    "سپريم ڪورٽ مڙس ۽ سسرال جي ظلم ۽ نازيبا سلوڪ جي بنياد تي تنسيخ نڪاح کي جائز قرار ڏنو آهي۔",
+    "سپريم ڪورٽ جي ٽن رڪني بينچ، جنهن جي سربراهي جسٽس سردار طارق مسعود ڪئي، تنسيخ نڪاح بابت فيصلو ڪيو آهي۔"
+  ],
+  "statistics": {
+    "records_sampled": 1059,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 308,
+    "text_length_avg": 75.77,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 0.9978,
+      "Latin": 0.0022
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 219695,
+    "estimated_records": 2899
+  },
+  "schema": {
+    "columns": [
+      "﻿input_sd",
+      "output_sd"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "﻿input_sd",
+      "output_sd"
+    ],
+    "estimated_records": 2899,
+    "raw_schema": {
+      "﻿input_sd": "str",
+      "output_sd": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": [
+      "sd"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "sd",
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.75
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "﻿input_sd",
+      "output_sd"
+    ],
+    "n_columns": 2
+  },
+  "meta": {
+    "file_name": "Sindhi_Legal_Dataset.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Sindhi_Legal_Dataset.csv",
+    "relative_path": "Sindhi_Legal_Dataset.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Sindhi_Legal_Dataset.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 219695,
+    "mtime": 1782814845.751143,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "39df628287d6c7906b9630249b197d9e4fef844a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

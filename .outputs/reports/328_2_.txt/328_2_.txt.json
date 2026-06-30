@@ -1,0 +1,98 @@
+{
+  "dataset": "328 (2).txt",
+  "file_name": "328 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आधिक्यमुपमानानां न्याय्यं नाधिकता भवेत् ।",
+    "गोक्षीरकुन्दहलिनां विशुद्ध्या सदृशं यशः ।"
+  ],
+  "statistics": {
+    "records_sampled": 9299,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1424,
+    "text_length_avg": 61.2,
+    "duplicate_estimate": 348,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0001,
+      "Gujarati": 0.0001,
+      "Kannada": 0.0,
+      "Bengali": 0.0,
+      "Gurmukhi": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 1,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1567152,
+    "estimated_records": 32001
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32001,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "328 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\328 (2).txt",
+    "relative_path": "328 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "328 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1567152,
+    "mtime": 1782814612.2493408,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6d9a4591d685b312b95ef64404af78454bd5c149",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

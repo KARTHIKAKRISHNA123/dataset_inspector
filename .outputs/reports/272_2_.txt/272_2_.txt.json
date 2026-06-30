@@ -1,0 +1,98 @@
+{
+  "dataset": "272 (2).txt",
+  "file_name": "272 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दह्याम्येकोऽहमत्यन्तं गतास्ते फलभोगिनः । यन्ममत्वाभिभृतेन मया पापमुपाजिंतम् ‍ ।",
+    "व तदन्यस्य कस्यापि केवलं मम दुष्कृतम् ‍ । अन्तर्दुःखेन दग्धोऽहं बहिर्दह्यामि भावयन् ‍ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9234,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2011,
+    "text_length_avg": 56.83,
+    "duplicate_estimate": 364,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0001,
+      "Arabic": 0.0,
+      "Telugu": 0.0,
+      "Tamil": 0.0,
+      "Malayalam": 0.0,
+      "Gujarati": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1453901,
+    "estimated_records": 29799
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29799,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "272 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\272 (2).txt",
+    "relative_path": "272 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "272 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1453901,
+    "mtime": 1782814611.2782476,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d6d694d4da0cf2a59397141e7afae1e836c4f251",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

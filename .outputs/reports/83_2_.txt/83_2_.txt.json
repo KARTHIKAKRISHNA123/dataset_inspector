@@ -1,0 +1,95 @@
+{
+  "dataset": "83 (2).txt",
+  "file_name": "83 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "असङ्करेण विज्ञेयस्तेषां योगस्तु वै बुधैः ।। ५३१०१ ।।",
+    "इत्येष सन्निवेशो वः पृथिव्यां ज्यौतिषस्य च।"
+  ],
+  "statistics": {
+    "records_sampled": 9383,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2425,
+    "text_length_avg": 54.91,
+    "duplicate_estimate": 354,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003,
+      "Arabic": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1421619,
+    "estimated_records": 33504
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33504,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "83 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\83 (2).txt",
+    "relative_path": "83 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "83 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1421619,
+    "mtime": 1782814616.6468673,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "999defc1141443a17f1938bf028abba2ca30d772",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

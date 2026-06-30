@@ -1,0 +1,97 @@
+{
+  "dataset": "4 (2).txt",
+  "file_name": "4 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिलोक्याम् अपि यद् दानं नास्ति, तत् सज्जनाः कुर्वन्ति।तेषां साधूनां महिमानं कथम् इव वर्णनीयम्?॥१५२४",
+    "उषःकाले तु सम्प्राप्ते अर्चयित्वा जनार्दनम् । उपचारैः षोडशभिर्मुद्गान्नं च निवेदयेत् ।। ब्रह्माण्डपुराणे"
+  ],
+  "statistics": {
+    "records_sampled": 9999,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 11790,
+    "text_length_avg": 501.53,
+    "duplicate_estimate": 5545,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Arabic": 0.0001,
+      "Latin": 0.0,
+      "Gujarati": 0.0,
+      "Gurmukhi": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 4,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13731689,
+    "estimated_records": 43949
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 43949,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4 (2).txt",
+    "relative_path": "4 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13731689,
+    "mtime": 1782814613.96919,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "71546d37fa1f54b0269bdeaf61a37c58a5bfe944",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,101 @@
+{
+  "dataset": "459 (2).txt",
+  "file_name": "459 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्द्रो नयतु वृत्रहा । यतो न पुनरायसि । शश्वतीभ्यः समाभ्य इति । त्रिवृद्वा एष वज्रो ब्रह्मणा सँ शितः । शुचैवैनं विद्ध्वा । एभ्यो लोकेभ्यो निर्णुद्य । वज्रेण ब्रह्मणा स्तृणुते । हतोऽसाववधिष्मामुमित्याह स्तृत्यै । यं द्विष्यात्तं ध्यायेत् । शुचैवैनमर्पयति ७९ ३",
+    "\"?=तैत्तिरीयब्राह्मणम्काण्डः३प्रपाठकः०३&=\" इत्यस्माद् पुनः प्राप्तिः"
+  ],
+  "statistics": {
+    "records_sampled": 9396,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1455,
+    "text_length_avg": 67.44,
+    "duplicate_estimate": 352,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0006,
+      "Telugu": 0.0002,
+      "Gujarati": 0.0,
+      "Bengali": 0.0,
+      "Arabic": 0.0,
+      "Oriya": 0.0,
+      "Tamil": 0.0,
+      "Kannada": 0.0
+    },
+    "unicode_replacement_chars": 22,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1749346,
+    "estimated_records": 24409
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24409,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9986,
+      "Gujarati": 0.0014
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "459 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\459 (2).txt",
+    "relative_path": "459 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "459 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1749346,
+    "mtime": 1782814614.8555636,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1f69271c179d464934c777754c8f9d0a4857c9fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

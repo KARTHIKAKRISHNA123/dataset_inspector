@@ -1,0 +1,98 @@
+{
+  "dataset": "30 (2).txt",
+  "file_name": "30 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "च यत एव संशयस्तत एव निर्णयो युक्तः । तस्माद्युक्तमेतद्",
+    "किं चान्यत् । स्वभावानवधारणादनुपादानप्रसंगात् । सुखाद्यात्मकाः"
+  ],
+  "statistics": {
+    "records_sampled": 9327,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1406,
+    "text_length_avg": 62.37,
+    "duplicate_estimate": 366,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0002,
+      "Arabic": 0.0001,
+      "Tamil": 0.0001,
+      "Gujarati": 0.0,
+      "Telugu": 0.0,
+      "Bengali": 0.0
+    },
+    "unicode_replacement_chars": 5,
+    "unicode_control_chars": 16,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1610653,
+    "estimated_records": 27082
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27082,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30 (2).txt",
+    "relative_path": "30 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1610653,
+    "mtime": 1782814611.7357895,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e1e785dffc9907fb40d1a824251fab174994de0e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,100 @@
+{
+  "dataset": "338 (2).txt",
+  "file_name": "338 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उदयपुरमण्डलं राजस्थानराज्ये स्थितं किञ्चन मण्डलम् अस्ति । अस्य मण्डलस्य केन्द्रमस्ति उदयपुरम् इत्येतत् नगरम् ।",
+    "उदयपुरमण्डलस्य विस्तारः , चतुरस्रकिलोमीटर्मितः अस्ति । अस्य मण्डलस्य पूर्वे चित्तौडगढमण्डलं, पश्चिमे गुजरातराज्यम्, अरावली पर्वतश्रेणी च, उत्तरे राजसमन्दमण्डलं, दक्षिणे डुङ्गरपुरमण्डलम् अस्ति । अस्मिन् मण्डले  मिल्लीमीटर्मितः वार्षिकवृष्टिपातः भवति । अस्मिन् मण्डले बानस, अहर, माही इत्येताः तिस्रः नद्यः प्रवहन्ति ।"
+  ],
+  "statistics": {
+    "records_sampled": 7336,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 11465,
+    "text_length_avg": 334.52,
+    "duplicate_estimate": 1576,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Gujarati": 0.001,
+      "Bengali": 0.0001,
+      "Kannada": 0.0,
+      "Latin": 0.0,
+      "Tamil": 0.0,
+      "Telugu": 0.0,
+      "Malayalam": 0.0,
+      "Oriya": 0.0
+    },
+    "unicode_replacement_chars": 1,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6748925,
+    "estimated_records": 18124
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18124,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "338 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\338 (2).txt",
+    "relative_path": "338 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "338 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6748925,
+    "mtime": 1782814612.594936,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "97f10ab44f2608422e03b31ee64f3bbe7b35e6f5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

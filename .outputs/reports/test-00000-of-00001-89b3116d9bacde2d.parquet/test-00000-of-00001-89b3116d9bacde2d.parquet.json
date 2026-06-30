@@ -1,0 +1,118 @@
+{
+  "dataset": "test-00000-of-00001-89b3116d9bacde2d.parquet",
+  "file_name": "test-00000-of-00001-89b3116d9bacde2d.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "instruction",
+    "input",
+    "output"
+  ],
+  "preview": [
+    " श्रेणी 1 (छोटे चिड़ियां): हमिंगबर्ड, तोता श्रेणी 2 (बड़े चिड़ियां): कबूतर, बाज",
+    "(अपने दफ्तर च बैठे दे, उंदे मंदरे गी रगड़दे, तनाव च दिक्खे दे इक माह्नू गी कटौती) कथानक: क्या तुस रोजमर्रा दे तनाव दे कारणें कन्नै अभिभूत महसूस करा करदे ओ? (व्यक्ति आह भरदा ऐ ते अपनी कुर्सी उप्पर पिच्छें झुकदा ऐ) कथाकार: साढ़े नमें वेलनेस प्रोडक्ट दा परिचय! (उत्पाद गी कट, अपनी सारी शान च प्रदर्शित) कथानक: कुदरती अर्क ते आवश्यक तेलें दे अपने शांत मिश्रण कन्नै, एह् उत्पाद तुसेंगी शांत, केंद्रित, ते ताजा महसूस करने च मदद करने आस्तै डिजाइन कीता गेदा ऐ। (उत्पाद गी अपने मंदिरें च लाने ते गहरी सांस लैन"
+  ],
+  "statistics": {
+    "records_sampled": 10401,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 3286,
+    "text_length_avg": 690.87,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7884388,
+    "estimated_records": 10401
+  },
+  "schema": {
+    "columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "estimated_records": 10401,
+    "raw_schema": {
+      "instruction": "str",
+      "input": "str",
+      "output": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "n_columns": 3,
+    "num_rows": 10401,
+    "num_row_groups": 11,
+    "arrow_schema": {
+      "instruction": "string",
+      "input": "string",
+      "output": "string"
+    }
+  },
+  "meta": {
+    "file_name": "test-00000-of-00001-89b3116d9bacde2d.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\test-00000-of-00001-89b3116d9bacde2d.parquet",
+    "relative_path": "test-00000-of-00001-89b3116d9bacde2d.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "test-00000-of-00001-89b3116d9bacde2d.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 7884388,
+    "mtime": 1782813799.959484,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b033fe3e22e0627732c8e2256dcab5e59f69c684",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

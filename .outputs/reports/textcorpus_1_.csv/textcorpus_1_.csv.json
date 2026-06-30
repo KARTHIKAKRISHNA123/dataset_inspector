@@ -1,0 +1,105 @@
+{
+  "dataset": "textcorpus (1).csv",
+  "file_name": "textcorpus (1).csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "﻿id",
+    "sentence"
+  ],
+  "preview": [
+    "زِپھ نہ کران  زۄل نہ کران",
+    "لال اوس نپہٕ نپہٕ کران"
+  ],
+  "statistics": {
+    "records_sampled": 2984,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 127,
+    "text_length_avg": 58.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 340221,
+    "estimated_records": 7401
+  },
+  "schema": {
+    "columns": [
+      "﻿id",
+      "sentence"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": "sentence",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "﻿id"
+    ],
+    "estimated_records": 7401,
+    "raw_schema": {
+      "﻿id": "str",
+      "sentence": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "﻿id",
+      "sentence"
+    ],
+    "n_columns": 2
+  },
+  "meta": {
+    "file_name": "textcorpus (1).csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\textcorpus (1).csv",
+    "relative_path": "textcorpus (1).csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "textcorpus (1).csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 340221,
+    "mtime": 1782813869.6376934,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.934,
+    "sha1_quick": "3057720c2b55851c75fa959cd75a269a4ad64858",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

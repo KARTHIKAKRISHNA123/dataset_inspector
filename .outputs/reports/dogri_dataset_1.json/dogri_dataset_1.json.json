@@ -1,0 +1,91 @@
+{
+  "dataset": "dogri_dataset_1.json",
+  "file_name": "dogri_dataset_1.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "doi",
+  "dataset_type": "Unknown",
+  "columns": [
+    "messages"
+  ],
+  "preview": [],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 6,
+    "text_length_min": 0,
+    "text_length_max": 0,
+    "text_length_avg": 0.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {},
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4048,
+    "estimated_records": null
+  },
+  "schema": {
+    "columns": [
+      "messages"
+    ],
+    "n_columns": 1,
+    "nested": true,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "messages"
+    ],
+    "estimated_records": null,
+    "raw_schema": {
+      "messages": "list"
+    }
+  },
+  "classification": {
+    "dataset_type": "Unknown",
+    "confidence": 0.2,
+    "reasoning": "no language field, no translation columns, no scripted text observed",
+    "languages_seen": [
+      "doi"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "doi",
+    "script_hint": null,
+    "dominant_script": null,
+    "script_distribution": {},
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.5
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "dogri_dataset_1.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\dogri_dataset_1.json",
+    "relative_path": "dogri_dataset_1.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "dogri_dataset_1.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 4048,
+    "mtime": 1782813479.2987037,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f7f50ad165ba27e56ee399732ef4472c842a2297",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

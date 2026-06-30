@@ -1,0 +1,117 @@
+{
+  "dataset": "train-00000-of-00001-d16246d9d72bc9e9.parquet",
+  "file_name": "train-00000-of-00001-d16246d9d72bc9e9.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "instruction",
+    "input",
+    "output"
+  ],
+  "preview": [
+    " जेकर तुस होमवर्क खत्म नेईं करोगे तां इसदा नतीजा निकली जाग।",
+    "1. किफायती सेह् त सेवाएं दी उपलब्धता गी बधाना : घट्ट आमदनी आह् ले परिवारें लेई सस्ती ते व्यापक देखभाल विकल्पें दी उपलब्धता गी बधाने लेई मकामी प्रदाताएं कन्नै सहयोग करना, ते जरूरतमंद लोकें लेई मेडिकल बिलें पर सब्सिडी जां छूट उपलब्ध करोआना। 2. देखभाल दी गुणवत्ता च सुधार : चिकित्सा देखभाल च बेहतरीन प्रथाएं ते नवीनतम प्रगति कन्नै तालमेल बनाने आस्तै सेह्त देखभाल प्रैक्टिशनरें आस्तै जारी प्रशिक्षण कार्यक्रमें ते वर्कशॉपें गी लागू करना। 3. समुदाय दे आउटरीच गी मजबूत करना : समुदाय च सेह्त दी देखभाल दी जा"
+  ],
+  "statistics": {
+    "records_sampled": 41601,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 3446,
+    "text_length_avg": 686.41,
+    "duplicate_estimate": 35,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 31302464,
+    "estimated_records": 41601
+  },
+  "schema": {
+    "columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "estimated_records": 41601,
+    "raw_schema": {
+      "instruction": "str",
+      "input": "str",
+      "output": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "instruction",
+      "input",
+      "output"
+    ],
+    "n_columns": 3,
+    "num_rows": 41601,
+    "num_row_groups": 42,
+    "arrow_schema": {
+      "instruction": "string",
+      "input": "string",
+      "output": "string"
+    }
+  },
+  "meta": {
+    "file_name": "train-00000-of-00001-d16246d9d72bc9e9.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train-00000-of-00001-d16246d9d72bc9e9.parquet",
+    "relative_path": "train-00000-of-00001-d16246d9d72bc9e9.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train-00000-of-00001-d16246d9d72bc9e9.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 31302464,
+    "mtime": 1782813803.0537071,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8aef4e1fe642bc90f45936bf3c4cf5b6575165ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

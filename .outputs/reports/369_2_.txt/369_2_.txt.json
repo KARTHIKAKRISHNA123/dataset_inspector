@@ -1,0 +1,92 @@
+{
+  "dataset": "369 (2).txt",
+  "file_name": "369 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यत्र दण्डः सुविहितश चरत्य अरिविनाशनः",
+    "हविः शवा परपिबेद धृष्टॊ दण्डश चेन नॊद्यतॊ भवेत"
+  ],
+  "statistics": {
+    "records_sampled": 10000,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 74,
+    "text_length_avg": 38.86,
+    "duplicate_estimate": 264,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1076001,
+    "estimated_records": 27759
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27759,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "369 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\369 (2).txt",
+    "relative_path": "369 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "369 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1076001,
+    "mtime": 1782814613.4564495,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "388f2f2d50f89b0031c9d92e2477e039f764d8ae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,95 @@
+{
+  "dataset": "414 (2).txt",
+  "file_name": "414 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रवेश्चक्- भोगोऽर्कव- ्षं प्रदिष्टं द्युरात्रं- च देवासुराणा- ं तदेव ।",
+    "गायन्ति देवा किल गीतकानि धन्‍यास्‍तु ते भारतभूमिभागे । स्‍वर्गापवर्गास्‍पदमार्गभूते भवन्‍तु भूया पुरुषा सुरत्‍वात् ।।"
+  ],
+  "statistics": {
+    "records_sampled": 9358,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1647,
+    "text_length_avg": 58.36,
+    "duplicate_estimate": 382,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001,
+      "Arabic": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 3,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1513942,
+    "estimated_records": 19994
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 19994,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "414 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\414 (2).txt",
+    "relative_path": "414 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "414 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1513942,
+    "mtime": 1782814614.2266226,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e106a5f7136776858300de1fd8a5344d1ffb42af",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

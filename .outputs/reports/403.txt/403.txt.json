@@ -1,0 +1,97 @@
+{
+  "dataset": "403.txt",
+  "file_name": "403.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"यदिदं किञ्च जगत्सर्वं प्राण एजति निःसृतम् ।",
+    "महद्भयं वज्रमुद्यतं य एतद्विदुरमृतास्ते भवन्ति॥\" इति ।"
+  ],
+  "statistics": {
+    "records_sampled": 9295,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2296,
+    "text_length_avg": 70.24,
+    "duplicate_estimate": 339,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0001,
+      "Arabic": 0.0,
+      "Telugu": 0.0,
+      "Tamil": 0.0,
+      "Gujarati": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1809585,
+    "estimated_records": 18737
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18737,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "403.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\403.txt",
+    "relative_path": "403.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "403.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1809585,
+    "mtime": 1782814614.104872,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fda7a8d22b30783d3f463138dbfc23d494650d93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

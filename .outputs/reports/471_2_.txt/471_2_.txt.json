@@ -1,0 +1,103 @@
+{
+  "dataset": "471 (2).txt",
+  "file_name": "471 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दानं प्रतिग्रहश्चैव षट्कर्माण्यग्रजन्मनः ।।",
+    "छात्राणां बोधनं, स्वाध्यायः, यज्ञस्य ऋत्विक्त्वं, स्वयं यज्ञनिर्वहणं, दानस्वीकरणं, दानं च ब्राह्मणानां कर्तव्यानि इति । "
+  ],
+  "statistics": {
+    "records_sampled": 9181,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 5238,
+    "text_length_avg": 327.64,
+    "duplicate_estimate": 2226,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Gujarati": 0.0011,
+      "Tamil": 0.0,
+      "Bengali": 0.0,
+      "Latin": 0.0,
+      "Telugu": 0.0,
+      "Kannada": 0.0,
+      "Malayalam": 0.0,
+      "Oriya": 0.0,
+      "Gurmukhi": 0.0,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8280268,
+    "estimated_records": 25757
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25757,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "471 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\471 (2).txt",
+    "relative_path": "471 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "471 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8280268,
+    "mtime": 1782814615.0647943,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7d15e132c026e77db3aed31f15869ae473d7f6d0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

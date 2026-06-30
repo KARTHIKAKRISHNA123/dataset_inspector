@@ -1,0 +1,101 @@
+{
+  "dataset": "462.txt",
+  "file_name": "462.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतपाकिस्थानदेशयोः मध्ये वारचतुष्टयं युद्धम् अभवत् । उभयोः पक्षयोः असङ्ख्याकाः सैनिकाः, जनसामान्याः मृताः । उभयोः देशयोः आर्थिकस्थितेः उपरि अतिगभीरः कुठाराघातः अभवत् । तथापि केषाञ्चन दिनानां मध्यान्तरे सीमावर्तिक्षेत्रेषु युद्धविरामोल्लङ्घनस्य वार्ताः दूरदर्शने आगच्छन्ति । , , ,तमे वर्षे भारत-पाकिस्थानदेशयोः मध्ये भीषणानि युद्धानि अभवन् । सर्वेषु युद्धेषु भारतस्य विजयः अभवत् । सर्वेषु युद्धेषु युद्धारम्भः पाकिस्थानदेशेन कृतः आसीत्, अन्तश्च भारतेन ।तमस्य वर्षस्य युद्धं कारगिलयुद्धत्वेन प्रख्यातम",
+    "अष्टभिः अध्यायैः समन्विता, सूत्रात्मिका च महर्षिणा पाणिनिना विरचिता 'अष्‍टाध्‍यायी',इति जगत्प्रसिद्धः संस्‍कृतव्‍याकरणग्रन्थः अस्ति । अधुनापि भारते विदेशेषु च भाषाविज्ञानिनां प्रेरणास्‍थानं वर्तते अयं ग्रन्थः । एवं श्रूयते यत् ताण्डवनृत्यानन्तरं शिवः स्वढक्कां चतुर्दशवारम् अवादयत् । ततः 'अ इ उ ण्' इत्यादीनि चतुर्दश सूत्राणि निर्गतानि । तानि महेश्वरप्रदत्तानि आसन् । अतः एव \"महेश्वरादागतानि माहेश्वराणि\" माहेश्वरसूत्राणि इति कथ्यन्ते । तेषाम् आधारेण एव पाणिनिः अष्टाध्यायी इति व्याकरणग्रन्थं लिखितवा"
+  ],
+  "statistics": {
+    "records_sampled": 9159,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 11509,
+    "text_length_avg": 331.65,
+    "duplicate_estimate": 1986,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Gujarati": 0.0004,
+      "Tamil": 0.0,
+      "Kannada": 0.0,
+      "Telugu": 0.0,
+      "Arabic": 0.0,
+      "Malayalam": 0.0,
+      "Latin": 0.0,
+      "Oriya": 0.0,
+      "Gurmukhi": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8363316,
+    "estimated_records": 26520
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26520,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "462.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\462.txt",
+    "relative_path": "462.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "462.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8363316,
+    "mtime": 1782814614.9030423,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.9,
+    "sha1_quick": "7b3d897582c02aa56338153f952f98e3d8295d13",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

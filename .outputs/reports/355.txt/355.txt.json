@@ -1,0 +1,96 @@
+{
+  "dataset": "355.txt",
+  "file_name": "355.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यथा  नित्यः शब्द इत्ययं प्रथमोऽवयवः। कृतकत्वादिति द्वितीयोऽवयवः। यद्वस्तु कृतकं तदनित्यं यथा घटः कृतकोऽनित्यश्चेति तृतीयोऽवयवः। शब्दोऽपि तथेति चतुर्थोऽवयवः। तस्माच्छब्दोऽनित्य इति पञ्चमोऽवयवः। पञ्चावयवानामन्यतमेन न्यूनता न्यूननिग्रहस्थानापत्तिरित्युच्यते।",
+    "१२ अधिकम्। बहुहेतूदाहरणोक्तिरधिकम्। यथा  च्छब्दोऽनित्यः। कस्मात् ?। प्रयत्नानन्तरीयकत्वादमूर्तत्वादैन्द्रियकत्वादुत्पादविनाशाभ्यां वाच्यत्वाच्चैतद्धेतुबाहुल्यमित्युच्यते। अपि च शब्दोऽनित्यः कृतकत्वाद् घटवत्पटवत्गृहवत्कर्म्मवत्। एतद्दृष्टान्तबाहुल्यमित्युच्यते।"
+  ],
+  "statistics": {
+    "records_sampled": 9325,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2520,
+    "text_length_avg": 78.95,
+    "duplicate_estimate": 397,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0001,
+      "Arabic": 0.0,
+      "Telugu": 0.0,
+      "Gujarati": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2036957,
+    "estimated_records": 28253
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28253,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "355.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\355.txt",
+    "relative_path": "355.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "355.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2036957,
+    "mtime": 1782814613.2636702,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "914b5632d1ec2a0659fa9fa2c8a41284f86af089",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

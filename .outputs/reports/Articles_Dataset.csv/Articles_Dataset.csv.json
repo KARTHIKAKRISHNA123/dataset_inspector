@@ -1,0 +1,124 @@
+{
+  "dataset": "Articles Dataset.csv",
+  "file_name": "Articles Dataset.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "col_0",
+    "article",
+    "link",
+    "title",
+    "genre"
+  ],
+  "preview": [
+    " ڪراچي(ويب ڊيسڪ)قومي ڪرڪيٽ ٽيم جو اڳوڻو ناليوارو آل رائونڊر شاهد آفريدي ڪشمير پريميئر ليگ ۾ جوهر ڏيکارڻ لاءِ پرجوش نظر اچي رهيو آهي. شاهد آفريدي ٽوئيٽر تي پنهنجي مظفرآباد جي حسين نظارن مان لطف اندوز ٿيڻ واري هڪ تصوير ۽ هڪ ڪشمير جي نظارن جي تصوير شيئر ڪئي آهي. هُن تصوير جي ڪيپشن ۾لکيو آهي ته ”خوبصورت مظفرآباد“، ڪي پي ايل کيڏڻ لاءِ هتي اچڻ تمام سٺو احساس آهي. اڳوڻي ڪپتان چيو ته ڪشمير جي نوجوانن لاءِ اهو هڪ بهترين موقعو آهي ته اهي هڪ وڏي مرحلي ۾ پنهنجي صلاحيتن جو مظاهرو ڪن. واضح رهي ته مظفرآباد ۾ ا",
+    " ممبئي(ويب ڊيسڪ)انگلينڊ پاڪستان جا سڀ ٿورا وساري ڇڏيا ۽ ڪورونا وبا ۾ به ٽيم موڪلڻ جو لحاظ به نه ڪيو. انگلينڊ ڀارتي خواهش تي پنهنجي رانديگرن کي ڪشمير پريميئر ليگ ۾ شرڪت کان روڪڻ جو فيصلو ڪري ڇڏيو آهي. اها ڳالهه ڀارتي ڪرڪيٽ بورڊ جي هڪ سرڪاري عهديدار صحافين کي ٻڌائي، ان موجب اها ڳالهه درست آهي ته اي سي بي پنهنجي رانديگرن کي ڪشمير جي لاءِ نه ڇڏيندو، اسان کي پاڪستان سپر ليگ مان ڪو به مسئلو ناهي پر ڪشمير ۾ اهڙو ايونٽ نه ٿيڻ ڏينداسين، اسان پنهنجي حڪومتي موقف تي قائم آهيون. واضح رهي ته گذريل سال ڪورونا "
+  ],
+  "statistics": {
+    "records_sampled": 3366,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 29375,
+    "text_length_avg": 1274.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 0.9609,
+      "Latin": 0.0391,
+      "Gurmukhi": 0.0,
+      "Devanagari": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7950267,
+    "estimated_records": 7221
+  },
+  "schema": {
+    "columns": [
+      "col_0",
+      "article",
+      "link",
+      "title",
+      "genre"
+    ],
+    "n_columns": 5,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "col_0",
+      "article",
+      "link",
+      "title",
+      "genre"
+    ],
+    "estimated_records": 7221,
+    "raw_schema": {
+      "col_0": "str",
+      "article": "str",
+      "link": "str",
+      "title": "str",
+      "genre": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "col_0",
+      "article",
+      "link",
+      "title",
+      "genre"
+    ],
+    "n_columns": 5
+  },
+  "meta": {
+    "file_name": "Articles Dataset.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Articles Dataset.csv",
+    "relative_path": "Articles Dataset.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Articles Dataset.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 7950267,
+    "mtime": 1782815431.7585576,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b6474bc7bb33c05e7f524e98b8fa892d0144912f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

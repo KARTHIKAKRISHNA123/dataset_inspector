@@ -1,0 +1,100 @@
+{
+  "dataset": "351 (2).txt",
+  "file_name": "351 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नौशाद अली हिन्दीभाषाचलच्चित्रस्य प्रसिद्धः सङ्गीतकारः । वर्षाणि यावत् कार्याणि कुर्वन् अपि केवलंचलच्चित्राणां सङ्गीतस्वरसंयोजनं कृतवान् । गुणाः सङ्ख्यायाः अपेक्षया गरीयाः इति अस्य विषये लोकः वदति स्म ।",
+    "कोकिलसन्देशः ˈʊəəɛʃəə) इति उद्दण्डशास्त्रिविरचितं संस्कृतभाषायाः सन्देशकाव्यम् । द्विषष्ट्यधिकशतपद्यात्मकं खण्डकाव्यमेतत् । अस्मिन् काव्ये कोऽपि प्रेमी स्वपत्नीसकाशात् दिव्यमहिलाभिरपहृयते । विरहपीडितेन तेन कोकिलेन प्रेयस्यै सन्देशः प्रेष्यते । एतत् सन्देशकाव्यं कालिदासस्य मेघदूतनाम्नः काव्यस्य अनुसरणं करोति। केरलीयसन्देशकाव्येषु कोकिलसन्देशः अतिप्रसिद्धतां गतोऽस्ति । "
+  ],
+  "statistics": {
+    "records_sampled": 8910,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 4312,
+    "text_length_avg": 348.65,
+    "duplicate_estimate": 1985,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Gujarati": 0.0008,
+      "Kannada": 0.0,
+      "Tamil": 0.0,
+      "Latin": 0.0,
+      "Oriya": 0.0,
+      "Arabic": 0.0,
+      "Telugu": 0.0,
+      "Gurmukhi": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8519044,
+    "estimated_records": 24117
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24117,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "351 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\351 (2).txt",
+    "relative_path": "351 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "351 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8519044,
+    "mtime": 1782814613.1805623,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "17d9ac1bdb2de2f2fb8348f59585f1b308a34fd5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

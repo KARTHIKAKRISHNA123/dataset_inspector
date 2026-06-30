@@ -1,0 +1,97 @@
+{
+  "dataset": "140 (2).txt",
+  "file_name": "140 (2).txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तस्मात सर्वेषु कालेषु मां अनुस्मर युध्य च ",
+    "मयि अरपित मनः बुद्धिः मां एव एस्यसि असंशयःश्लोक "
+  ],
+  "statistics": {
+    "records_sampled": 9433,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1491,
+    "text_length_avg": 69.56,
+    "duplicate_estimate": 199,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0001,
+      "Gujarati": 0.0,
+      "Arabic": 0.0,
+      "Kannada": 0.0,
+      "Tamil": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1814124,
+    "estimated_records": 21135
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21135,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "140 (2).txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\140 (2).txt",
+    "relative_path": "140 (2).txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "140 (2).txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1814124,
+    "mtime": 1782814609.547862,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0da596b69a494461f452b6591de91fbe62ed569e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}
