@@ -1,0 +1,92 @@
+{
+  "dataset": "16688.txt",
+  "file_name": "16688.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राज कुमार राई",
+    "धनकुटा, चुङमाङ निवासी 48 वर्षीय राजकुमार राई नेकपा-एमालेका सभासद हुनुहुन्छ। 2056को संसदीय निर्वाचनमा धनकुटा क्षेत्र नं.2 बाट मालेका उम्मेदवार रहेका राइले विद्यार्थी राजनीति मार्फत 2034 सालमा राजनीतिक जीवन शुरु गर्नुभएको हो। त्यसपछि शिक्षक आन्दोलनमा सक्रिय हुँदै पार्टी राजनीतिमा संलग्न भएका राईले 2042 सालमा पाँच वामपन्थीको संयुक्त आन्दोलनमा पाँच महिना नख्खु जेलमा बिताउनुभएको छ। हाल उहाँ नेकपा‍-एमालेका धनकुटा जिल्ला कमिटी उपसचिव, नेपाल लोकतान्त्रिक किरात राई संघका केन्द्रीय अध्यक्ष र नेपाल लोकतान्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 996,
+    "text_length_avg": 504.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2715,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16688.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16688.txt",
+    "relative_path": "16688.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16688.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2715,
+    "mtime": 1782796473.4788582,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "cab76e7913f860d152cc36ab3d6ec83922299e54",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

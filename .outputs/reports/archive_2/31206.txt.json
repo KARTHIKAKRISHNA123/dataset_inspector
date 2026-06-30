@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31206.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाङ्लादेश राष्ट्रिय फुटबल टिम अन्तर्राष्ट्रिय फुटबल प्रतियोगितामा बाङ्लादेशको प्रतिनिधित्व गर्ने फुटबल टिम हो । यो बाङ्लादेश फुटबल सङ्घद्वारा नियन्त्रित छ । यो एशियाली फुटबल कन्फिडेरेशनको सदस्य हो, र 1974 मा फिफाको सदस्य बनेको भए तापनि बाङ्लादेश फुटबल सङ्घ 1972 मा स्थापना भएको थियो । बाङ्लादेशलाई एएफसीको कार्यकारी समितिको रूपमा 1982-86 र 1998-02 मा निर्वाचित गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 374,
+    "text_length_max": 374,
+    "text_length_avg": 374.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 966,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31206.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31206.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31206.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 966,
+    "mtime": 1782796648.5156808,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6f8d03fd91669ef89e3d0c2906888c56d195b18e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

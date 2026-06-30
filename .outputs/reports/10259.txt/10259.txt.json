@@ -1,0 +1,92 @@
+{
+  "dataset": "10259.txt",
+  "file_name": "10259.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दूध कुमारी हमाल",
+    "दुनै गाविस, डोल्पाकी बासिन्दा दुध कुमारी हमाल समानुपातिक तर्फबाट नेपाली कांग्रेसकी सभासद हुनुहुन्छ। 46 वर्षीया हमाल 2046 साल देखि राजनीतिमा सक्रिय हुनुहुन्छ। नेपाली कांग्रेसको नीति, विचार र प्रजातन्त्रप्रतिको प्रतिबद्धताबाट प्रभावित भई राजनीतिमा होमिएकी हमाल पार्टीको महाधिवेशन प्रतिनिधि हुनुहुन्छ। उहाँले स्थानीय मालिका मा.वि.बाट माध्यमिक तहसम्मको शिक्षा हासिल गर्नुभएको छ। उहाँका दुई छोरा छन्।महिला हक-हितका कार्यमा रुचि राख्ने सभासद दूध कुमारी हमाल गैर सरकारी क्षेत्रमा कार्यरत महिला जागरण विकास स"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 771,
+    "text_length_avg": 393.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2125,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10259.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10259.txt",
+    "relative_path": "10259.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10259.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2125,
+    "mtime": 1782796443.720331,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4419410973c73e1b353bbb2772828378b08954b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

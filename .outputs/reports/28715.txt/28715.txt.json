@@ -1,0 +1,94 @@
+{
+  "dataset": "28715.txt",
+  "file_name": "28715.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृथ्वी सौर्यमण्डलको तेस्रो ग्रह हो। यसलाई विश्व पनि भनिन्छ। यो सौर्य परिवारका ग्रहहरू मध्ये जिवावाशेष भेटिएको एक मात्र ग्रह हो । यो ग्रह करिव 4.57 अर्ब बर्ष अगाडि उत्पन्न भएको हो। त्यसको केही पछि यसले एकमात्र प्राकृतिक उपग्रह, चन्द्रमा, प्राप्त गर्‍यो।",
+    "पृथ्वीको आकृति केही चेप्टो अण्डाकार रहेको छ, यसको व्यास करिब् 12,742 किमि छ। यसको अधिकतम झुकावका कारण पृथ्वीमा सबैभन्दा अग्लो स्थान र सबैभन्दा होचो स्थान रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 253,
+    "text_length_avg": 160.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.875,
+      "Latin": 0.125
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1928,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.875,
+      "Latin": 0.125
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28715.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28715.txt",
+    "relative_path": "28715.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28715.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1928,
+    "mtime": 1782796529.5211833,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "94530a026b0109b973e22dce0fc46a0605f5f832",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "31554.txt",
+  "file_name": "31554.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अपरिश्कृत वित्तीय विवरणहरू भन्नाले कुनै पनि संस्थाले आवधिक रूपमा तयार गरेको तर लेखापरीक्षण नभएको वित्तीय विवरणहरूलाई जनाउँदछ । यस्तो अपरिश्कृत वित्तीय विवरणहरू संस्थाले आवधिक रूपमा प्रकाशन समेत गर्ने गर्दछ । नेपाल स्टक एक्सचेन्जमा सूचीकृत भएका संस्थाहरूले सामान्यतया त्रैमासिक रूपमा अपरिश्कृत वित्तीय विवरणहरू प्रकाशन गर्ने गर्दछन् । अपरिश्कृत वित्तीय विवरण धितोपत्र बोर्डले जारी गरेको नियम अनुसार तथा नेपाल लेखामान 34 \"Interim Financial Reporting\" अनुसार तयार गरि प्रकाशन गर्ने गरिन्छ ।",
+    "अपरिश्कृत वित्तीय विवरणहरूमा संस्थाको बासलात तथा आय विवरण तयार गरि प्रकाशन गरिन्छ भने यसमा चालु आर्थिक वर्षको अवधि तथा सो अवधिको गत आर्थिक वर्षको तुलनात्मक विवरण समेत राखि प्रकाशन गर्ने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 487,
+    "text_length_avg": 270.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9635,
+      "Latin": 0.0365
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2131,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9635,
+      "Latin": 0.0365
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31554.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31554.txt",
+    "relative_path": "31554.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31554.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2131,
+    "mtime": 1782796543.103191,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "05f8340502cf5f8e3504956ac38bd0ddafa520de",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

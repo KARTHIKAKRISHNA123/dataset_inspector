@@ -1,0 +1,101 @@
+{
+  "dataset": "Kannada.jsonl",
+  "file_name": "Kannada.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "kn",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ಇವರು ಸಂಶೋಧಕ ಸ್ವಭಾವದವರು.",
+    "\"ಆದರೆ ಸತ್ಯ ಹೊರ ಬಂದೇ ಬರುತ್ತದೆ ಎಂದು ಹೇಳಿದ ರಾಹುಲ್ ಗಾಂಧಿ, \"\"ಸೂರತ್ ಜನರು ಚೀನಾದ ಜತೆ ಸ್ಪರ್ಧೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ\""
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 639,
+    "text_length_avg": 55.94,
+    "duplicate_estimate": 90,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Kannada": 0.9974,
+      "Latin": 0.0026,
+      "Devanagari": 0.0,
+      "Tamil": 0.0,
+      "Telugu": 0.0,
+      "Arabic": 0.0,
+      "Malayalam": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 49494430,
+    "estimated_records": 887649
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 887649,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Kannada",
+    "languages_seen": [
+      "kn"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "kn",
+    "script_hint": "kn",
+    "dominant_script": "Kannada",
+    "script_distribution": {
+      "Kannada": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Kannada.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Kannada.jsonl",
+    "relative_path": "Kannada.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Kannada.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 49494430,
+    "mtime": 1782728816.6560643,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9a32994eec6b120d9e9bcc771f90ff1c8b9efacc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "10808.txt",
+  "file_name": "10808.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संसारमा धार्मिक क्रियाकलापतिर रुचि र आस्था घटेर मानव समाज जुन बेला स्वर्थान्धता र निन्दनीय कामतिर प्रवृत्ति बढाउन थाल्दछ त्यस ",
+    "समयमा भगवान्ले अवतार ग्रहण गरेर सन्मार्गको निर्देश गर्नुहुन्छ भन्ने भाव उपर्युक्त श्लोकमा प्रकट भएको छ । यज्ञादिकर्म, वेदाध्ययन, सर्वभूत "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 40,
+    "text_length_max": 137,
+    "text_length_avg": 115.79,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5915,
+    "estimated_records": 51
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 51,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10808.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10808.txt",
+    "relative_path": "10808.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10808.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5915,
+    "mtime": 1782796446.4607637,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ae404c623eb4beb90710097113e3447f22730405",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

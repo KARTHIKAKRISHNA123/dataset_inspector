@@ -1,0 +1,92 @@
+{
+  "dataset": "30217.txt",
+  "file_name": "30217.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "बृहदारण्यक उपनिषद महत्वपूर्ण उपनिषद हो जसको प्रमुख ऋषि याज्ञवल्क्य हुन्। सामवेदीय तलवकार ब्राह्मण अन्तर्गत वर्णित यो उपनिषद् महत्त्वपूर्ण छ। यसको शैली अत्यन्त क्रमबद्ध र युक्तिपूर्ण छ। यसमा तत्त्वज्ञान र तदुपयोगी कर्म तथा उपासनाहरूको सुन्दर वर्णन छ्। यो अत्यन्त प्राचीन उपनिषद हो यस्मा ब्रह्म, माया, ईश्वर, अविद्या, जीव तथा जगत् ब्रह्माण्डको बारेमा विशेष कुराहरू छन् | अतः यो दार्शनिक उपनिषद हो |यस्मा आदि शंकराचार्य द्वारा भाष्य पनि लेखिएको छ । आकारका दृष्टिले यो सबैभन्दा ठुलो उपनिषद् हो । यो शतपथ "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 751,
+    "text_length_avg": 378.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2016,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30217.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30217.txt",
+    "relative_path": "30217.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30217.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2016,
+    "mtime": 1782796536.7994416,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1801bd7e3915d3577d76217de1b01fd20f37caa3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

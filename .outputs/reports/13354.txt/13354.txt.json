@@ -1,0 +1,94 @@
+{
+  "dataset": "13354.txt",
+  "file_name": "13354.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एक base transceiver station अथवा cell site एक उपकरणीय एकाइ हो जासले ) जस्तै मोबाइल फोनहरू, डब्लुएलएल फोनहरू, वेतार इन्टरनेट जडान भएका कम्प्युटरहरू ,वाइफाइ तथा वाइम्याक्स जस्ता वेतार सञ्चार प्रणालीमा सेवा प्रदानगर्ने कार्य गर्दछ । कुनै जिएसएम, सिडिएमए, डब्लोएलएल, वान, वाइफाइ, वाइम्याक्स प्रणालीको वेतार सञ्चार प्रविधि प्रयोग गर्न सकिन्छ र प्रयोग भएका हुनसक्छन् । बिटिएस लाई रेडियो बेस स्टेशन, नोड B वा साधारण रूपमा, बेस स्टेशन भनेर पनि बुझिन्छ ।",
+    "एक GSM सञ्जाल निम्न उपप्रणालीले बनेको हुन्छ :"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 445,
+    "text_length_avg": 245.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9154,
+      "Latin": 0.0846
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1228,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9154,
+      "Latin": 0.0846
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13354.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13354.txt",
+    "relative_path": "13354.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13354.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1228,
+    "mtime": 1782796458.2050185,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b37d58ee6b91eacc863b736143a7aa39c7226596",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

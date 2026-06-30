@@ -1,0 +1,92 @@
+{
+  "dataset": "7237.txt",
+  "file_name": "7237.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साउन पन्ध्र काठमाडौं उपत्यकामा खीर खाएर मनाउने प्रचलन रहेको छ।",
+    "हुन त साउन महिनाभर खीर खानु राम्रो हुने विश्वास पश्चिम नेपालमा रहेको छ। नेपाली सस्कृतिमा ‘असार 15 दही चिउरा खानू, साउनको 15 खीर’ भन्ने भनाई छ । नेपाल कृषिप्रधान देश भएको र बहुसंख्यक नेपाली कृषि पेसामा आश्रित भएकोले कृषिकहरूले धान रोपेर काम सकेपछि खुसीयालीस्वरूप खीर खाने परम्परा विकास भएको संस्कृतिविद् डा। विष्णु दाहालले भनाई छ । भारतमा पनि साउन महिनामा खीर खाएमा धेरै शुभ हुने मान्यता रहेको छ।साउन महिनाको सुरुवातमा मासुभन्दा पहिले दुधको परिकार खानुपर्छ भनेर नेपालीहरूले साउने संक्रान्तिमा खीर खाने"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 510,
+    "text_length_avg": 334.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3557,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7237.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7237.txt",
+    "relative_path": "7237.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7237.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3557,
+    "mtime": 1782796593.5395586,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "15f471de9c90a281e18e4561c8f792db768a8722",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

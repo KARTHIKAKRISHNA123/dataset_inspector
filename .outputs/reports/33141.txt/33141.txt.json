@@ -1,0 +1,92 @@
+{
+  "dataset": "33141.txt",
+  "file_name": "33141.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तीज हिन्दू नारीहरूले मनाउने एउटा महत्त्वपूर्ण चाड हो । यो चाड भाद्र शुक्ल द्वीतिया देखि पञ्चमी सम्म 4 दिन मनाइन्छ । तीजमा भगवान शिवको आराधना गरिनुका साथै नाचगान मनोरञ्जन समेत गर्ने गरिन्छ । नेपाली हिन्दू महिलाहरूद्वारा स्वतन्त्र र आनन्दमय रूपमा मनाइने तीज अन्य धर्म र जातजातिका नेपाली महिलाहरूले पनि हर्षोल्लासका साथ मनाउन थालेका छन् । ",
+    "यो पर्व मुख्य रूपले नेपालभर मनाईन्छ भने भारतका कुनै कुनै प्रान्तमा मनाइन्छ । भनिन्छ, आद्य शक्ति भगवानशिवकी अर्धाङ्गीनी हिमालय पुत्री पार्वतीले भगवान शिवको स्वास्थ्य तथा शरीरमा कुनै वाधा उत्पन्न नहोस् भनेर पहिलो वत्र राखेकि थिईन् त्यो दिन यहि हरितालिका तिजको दिन थियो त्यसै दिन आजसम्म हिन्दु नारीहरूले यो पर्व मनाउदै आएका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 85,
+    "text_length_max": 1772,
+    "text_length_avg": 755.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 30084,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33141.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33141.txt",
+    "relative_path": "33141.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33141.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 30084,
+    "mtime": 1782796550.2330613,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "22dec247d4aca6e930d176a012728047631725c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

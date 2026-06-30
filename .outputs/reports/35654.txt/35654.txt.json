@@ -1,0 +1,94 @@
+{
+  "dataset": "35654.txt",
+  "file_name": "35654.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फैसलाबाद पाकिस्तानको तेस्रो सबैभन्दा जनघनत्व बढी भएको र पञ्जाब प्रन्तको पुर्वीय क्षेत्रको दोश्रो ठूलो सहर हो । यो क्षेत्र सबै भन्दा पहिला नगरपालिका भएको थयो । फैसलाबाद जिल्लाको क्षेत्रफल 5,856 बर्ग किलो मिटर रहेको छ भने फैसलाबाद सरकार प्राधिकरणले नियन्त्रण गरेको क्षेत्र 1,280 बर्ग किलोमिटर मात्र रहेको छ ।फैसलाबाद रहेका हवाईयात्रा, सडकको सैलियत र रेलहरूको कारणले फैसलाबाद पाकिस्तानकै सबैभन्दा ठूलो अौधोगिक क्षेत्रको रुपमा रहेको छ ।फैसलाबादलाई पाकिस्तानको म्यानचेस्टरले पनि चिनिन्छ । पाकिस्तानको कुल ",
+    "फैसलाबादको छेउछाउमा रहेका भागहरूको चेनाब नदिले संचाइ प्रधान गर्छ र त्यसबाट गँहु ,मकौ, उखु र फलफूलहरूको उत्पादन हुने गरेको छ । यो शहर पाकिस्तानको अौधोगिक शहर हुनुको साथसाथै यहाँ रेलमार्ग ,भवनहरूको निर्माण ,मिल र अरु सबैको सुबिधा भएको हुँदा यस क्षेत्रबाट चिनी, तेल ,अन्य खाद्यान्न समाग्रीहरूको निर्यात हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 534,
+    "text_length_avg": 305.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9951,
+      "Latin": 0.0049
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6492,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9951,
+      "Latin": 0.0049
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35654.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35654.txt",
+    "relative_path": "35654.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35654.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6492,
+    "mtime": 1782796561.6713068,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "86943969f70c7ef6ecba78390e7f69ca6b97f88d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

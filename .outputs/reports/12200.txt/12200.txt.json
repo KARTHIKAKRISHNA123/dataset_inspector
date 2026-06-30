@@ -1,0 +1,92 @@
+{
+  "dataset": "12200.txt",
+  "file_name": "12200.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्र बहादुर पाण्डे नेकपा एमालेका पोलिटब्युरो सदस्य हुन् । उनले सुशील कोइरालाको सरकारमा परराष्ट्र मन्त्रीको भूमिका निर्वाह गरेका छन् ।",
+    "उनको जन्म नुवाकोटमा भएको हो । उनले त्रि.वि. मा 20 वर्ष सन् 1975 देखि 1995 सम्म अङ्ग्रेजी प्राध्यापकको काम गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 117,
+    "text_length_max": 137,
+    "text_length_avg": 127.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 660,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12200.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12200.txt",
+    "relative_path": "12200.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12200.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 660,
+    "mtime": 1782796452.8988805,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9711d957d4de7015b3beaee2776a198426ac6302",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

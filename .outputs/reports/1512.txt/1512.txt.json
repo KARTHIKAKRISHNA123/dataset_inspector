@@ -1,0 +1,92 @@
+{
+  "dataset": "1512.txt",
+  "file_name": "1512.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिठो अथवा आटा, अन्नका दानालाई पीसेर प्राप्त गरिने एक पाउडर वा चुर्ण हो । यो रोटी बनाउने काममा आउँछ, राटी धेरै सभ्यताहरूमा एक मुख्य भोजन हो । इतिहासमा विभिन्न समयमा पिठोलाई पर्याप्त आपूर्ति एक प्रमुख आर्थिक र राजनीतिक मुद्दा रहेको छ । गहुँको पिठो उत्तर भारत, यूरोप र उत्तर अमेरिकाको संस्कृतिमा सबैभन्दा महत्वपूर्ण खाद्य पदार्थहरूमध्येको एक हो । पिठो धेरै प्रकारका रोटी, डबल रोटी र अधिकांश यूरोपीय शैलिहरूका ब्रेड र पेस्ट्री बनाउने प्रमुख संघटक हो । मकैको पीठो प्राचीन कालदेखि ल्याटिन अमेरिकी भोजनको एक",
+    "पिठोमा ठूलो अनुपातमा मण्ड उपस्थित हुन्छ जो कि एक जटिल कार्बोहाइड्रेट हो र जसलाई पोलीसैक्राइड पनि भन्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 106,
+    "text_length_max": 515,
+    "text_length_avg": 291.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2327,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1512.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1512.txt",
+    "relative_path": "1512.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1512.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2327,
+    "mtime": 1782796466.0709946,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9ceff46bffe237aa2bbc28152fa0e54a72a81a45",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

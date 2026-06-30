@@ -1,0 +1,94 @@
+{
+  "dataset": "36545.txt",
+  "file_name": "36545.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुसिकोट रुकुम जिल्लाको सदरमुकामको रुपमा रहेको मुसिकोट जिल्लाकै विकसित वडा हो । यो अग्लो र केहि भिरालो भु-भागमा रहेको छ। यो जिल्लाको मुख्य आकर्षण स्थल हो। यहाँ सम्पूर्ण किसिमका सरकारी तथा गैरसरकारी कार्यालयहरु रहेकाले जुनसुकै काम गर्न मुसिकोट खलगां धाउनै पर्छ। यो खलगां गाविस अन्तर्गत पर्ने भएकोले गर्दा कतिपयले खलगां भनेर चिन्छन्। सरकारले हालै थप गरेका नयाँ 72 वटा नगरपालिका मध्ये खलगां र साख गाविस मिलाई खलगां नगरपालिका बनाइएको छ।जसको मुसिकोट नाम राखियो ।फेरि पछिल्लो पटक चौरजहारी पनि नगरपालिका बनाई",
+    "पहिला नेपालमा बाइसे राज्य र चौबिसे राज्य हुँदा एकजना राजाले आफनी मुसी नाम गरेकि एक नोकर्निलाई रुकुममा पठाए। उसले राजालाई रुकुमको कोट भन्ने ठाउँ स्वर्ग झैं सुन्दर भएको भनेर बताईन। राजालाई पनि त्यो ठाउँ निकै मन परेछ र उनले आफ्नो दरबार रुकुममै सारेछन्। उनै राजाले त्यो ठाउँलाई मुसिको नामबाट मुसिकोट राखेछन। उनको दरबारको आजपनि भग्नावशेष छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 504,
+    "text_length_avg": 294.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9752,
+      "Latin": 0.0248
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3833,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9752,
+      "Latin": 0.0248
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36545.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36545.txt",
+    "relative_path": "36545.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36545.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3833,
+    "mtime": 1782796565.875417,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8ab1e787a0e82bc2d67d5526b3e5bb9260b18333",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17493.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिड्नी बन्दरगाह बाँध सिड्नी बन्दरगाहमा निर्मित एउटा फलामे चापको आकारको बाँध हो जसमाथि रेल, सवारीसाधन, साइकल र बटुवा पैदल यातायातको व्यवस्था छ । यो बाँध सिड्नीको केन्द्रीय व्यावसायिक जिल्ला र उत्तरी तटको मध्यमा रहेको छ । बाँध, बन्दरगाह र छेउमा अवस्थित सिड्नी ओपेरा हाउसको नाटकीय दृश्य सिड्नी र अस्ट्रेलिया दुवैको मूर्त छवि हो । बाँधलाई स्थानीयले उसको चापीय आकारको डिजाइनको कारणले यसलाई मायाले “द कोट ह्याङ्गर” पनि भन्ने गरेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 430,
+    "text_length_max": 430,
+    "text_length_avg": 430.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1145,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17493.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17493.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17493.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1145,
+    "mtime": 1782796621.4582944,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3462bf025ad3554fdee60bbf8d8d4a2b9a873087",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

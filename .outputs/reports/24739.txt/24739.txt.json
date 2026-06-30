@@ -1,0 +1,92 @@
+{
+  "dataset": "24739.txt",
+  "file_name": "24739.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाबना बङ्गलादेशको राजशाही विभागमा पर्ने एक जिल्ला हो । यस जिल्ला राजधानी पाबना सहर हो । ",
+    "यो जिल्ला 23°48' देखि 24°21' उत्तर अक्षांश र 89°00' देखि 89°44' पुर्व देशान्तरणमा अवस्थित छ । पाबना जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 2371.50 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई नटोर र सिराजगञ्ज जिल्लाले उत्तरबाट घेरेका छन् भने यस जिल्लाको दक्षिण राजबारा र कुष्टिया जिल्ला रहेका छन् । त्यस्तै गरि पर्वमा मिनाकगञ्ज जिल्ला रहेको छ भने पश्चिमा पद्मा नदि र कुष्टिया जिल्ला रहेका छन् । यस जिल्लाको वार्सिक अधिकतम तापक्रम 36.8 डिग्री रहेको छ भने न्युनतम 9.6 डिग्री रहेको छ । यस जिल्लामा वार्सिक 1"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 597,
+    "text_length_avg": 334.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4954,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24739.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24739.txt",
+    "relative_path": "24739.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24739.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4954,
+    "mtime": 1782796511.1375344,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fcb426a3091fe6a8db85c5f1271acf50b5bb34d8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "30902.txt",
+  "file_name": "30902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बादी ससमुदाय वा बादी जाती नेपालमा बसोवास गर्ने एक जाति हो । अल्पसंख्यकको रूपमा चिनिने बादी समुदाय नेपालका 75 जिल्लामध्ये 72 जिल्लामा 9 हजारको संख्यामा बसोबास गर्दै आएको तथ्याङ्कमा पाइएको छ। दाङमा भने तुलसीपुर नगरपालिकामा करिब 650, घोराही नगरपालिकामा करिब 12 सय र दाङका 39 गाविसमा गरी बादी समुदायको संख्या जम्मा चार हजारको हाराहारीमा रहेको छ।",
+    "बादीहरू 14 औं शताब्दीतिर भारतबाट सल्यान हुँदै रुकुम, रोल्पा, जाजरकोट र दैलेखमा बसोबास गर्न आइपुगेको बताइन्छ। जतिबेला उनीहरूको मुख्य पेशा थियो– चाडपर्व, विवाह–ब्रतबन्ध, भोज–भतेर आदि अवसरमा राजामहाराजा र सामन्तहरूको दरबारमा नाचगान गर्नु। त्यसबापत बक्सिस्मा प्राप्त हुने जग्गा–जमिन, घर अनि नगद–जिन्सीबाट उनीहरूको गुजारा चल्थ्यो। राणाशासनको अन्त्यपछि भएको रेडियो, टेपरेकर्डर, सिनेमा आदिको लहरले उनीहरूको त्यो परम्परागत पेशा खोसिन थाल्यो। त्यो अवस्थामा गाउँका सामन्त–धनाढ्यहरूलाई बादी महिलाको अस्मितामा खे"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 341,
+    "text_length_max": 2620,
+    "text_length_avg": 1219.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12984,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30902.txt",
+    "relative_path": "30902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30902.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12984,
+    "mtime": 1782796540.0273364,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3bf4379ee18d1a76269e69552e0ffb4f20e69feb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "30501.txt",
+  "file_name": "30501.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्टुनिस्ट",
+    "अविनको उपनामबाट बिक्यात अविन्द्रमान श्रेष्ठ कला-सिर्जनालाई बाल्यकालदेखिकै साथी ठान्छन्। व्यवस्थापनका स्नातक अविनले कलाशिल्प तिखार्न ब्याचलर अफ फाइनआर्टस् समेत पढे। कार्टर्ुसिर्जनामा 2050 सालदेखि निरन्तर सक्रिय रहे। उनले व्यावसायिक कार्टर्ुष्टका रूपमा गोरखापत्र, नेपालटाइम्स, विश्वभूमि, सन्ध्याटाइम्स, हिमालय टाइम्स, हिमाल, बस, न्यू बिजनेस एज हुँदै समय साप्ताहिकसम्मको यात्रा तय गरिसकेका छन् र सँगसँगै भ्याइरहेका छन् इलस्ट्रेशन, डिजाइन, पेन्टिङ र एनिमेशनको काम। कार्टर्ुप्रतियोगिताहरूमा पटकपटक पुरस्कृ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 825,
+    "text_length_avg": 417.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9874,
+      "Latin": 0.0126
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2247,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9874,
+      "Latin": 0.0126
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30501.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30501.txt",
+    "relative_path": "30501.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30501.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2247,
+    "mtime": 1782796538.1061728,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f1e61b481db1ac9802ace5b42b4059c84d7d28a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

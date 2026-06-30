@@ -1,0 +1,91 @@
+{
+  "dataset": "5083.txt",
+  "file_name": "5083.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पहाडी प्रदेशको उत्तरतर्फ 3360 मी. भन्दा बढी उचाइको क्षेत्रमा पूर्व-पश्चिम फैलिएको हिमाली प्रदेश छ। यस प्रदेशले नेपालको कूल भू-भागको 15 प्रतिशत क्षेत्रफल ओगटेको छ। नेपालको उत्तरतर्फ पूर्वी सिमादेखी पश्चिमी सिमासम्म लमतन्न परेर बसेको यो क्षेत्र करिब 25 देखि 30 किमि को चौडाई र पूर्व पश्चिम लम्बाई 885 किमि रहेको छ । पत्रे चट्टान्द्वारा निर्मित यो क्षेत्र पूर्वमा खुम्चिएको र पश्चिममा फुकेको छ । यस प्रदेशमा 5000 मीटरमा हिमरेखा पर्ने र यहाँ नेपालका विश्व-प्रसिद्ध हिमशिखरहरू पर्ने भएकाले यहाँ मानव बस्ती"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 981,
+    "text_length_max": 981,
+    "text_length_avg": 981.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2546,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5083.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5083.txt",
+    "relative_path": "5083.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5083.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2546,
+    "mtime": 1782796582.8957992,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d2c456906a336ce4224e0bbbdb068aa83ac5fb54",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

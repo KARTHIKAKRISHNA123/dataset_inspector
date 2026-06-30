@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20492.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ताओ धर्म चीनको एक मूल धर्म र दर्शन हो। असलमा पहिले ताओ एक धर्म नभएर एउटा दर्शन र जीवनशैली थियो। पछि गएर बौद्ध धर्म जब चीन पुग्यो त्यसपछि ताओले बौद्धहरूबाट धेरै धारणाहरू उधारो लिए र एउटा \"धर्म\" बन्यो। बौद्ध धर्म र ताओ धर्ममा आपसमा समय समयमा अहिंसात्मक संघर्ष पनि भइहन्छ। ताओ धर्म र दर्शन, दुइटैको स्त्रोत दार्शनिक लाओ-त्सीद्वारा रचित ग्रन्थ दाओ-दे-चिंग र जुआंग-जी हुन्।",
+    "ताओ धर्ममा धेरै देवी-देवता छन्, र यिनीहरू प्रेतात्माहरूमा पनि विश्वास राख्दछन्। यो एउटा बहु ईश्वरवादी धर्म हो। सर्वोच्च देवी र देवता यिन र यांग हुन्। देवताहरूको पूजाको लागि कर्मकाण्ड गरिन्छ र पशुहरू र अन्य चीजहरूको बलि दिइन्छ। चीनबाट अधिकतर चीजहरू, जस्तै चीनी व्यंजन, चीनी रसायनविद्या, चीनी कुंग-फू, फेंग-शुई, चीनी दवाईहरू, आदि कुनै न कुनै रूपमा ताओ धर्मसित सम्बन्धित रहेकाछन्। किन भनें ताओ धर्म एक संगठित धर्म होइन, यसकारण यसका अनुयायीहरूको संख्या पता लाउन कठिन छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 465,
+    "text_length_avg": 285.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2254,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20492.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20492.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20492.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2254,
+    "mtime": 1782796627.388078,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2542ab2a98e1cbb35a69a5b5ed7626478edb84c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

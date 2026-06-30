@@ -1,0 +1,94 @@
+{
+  "dataset": "34080.txt",
+  "file_name": "34080.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पोखरा विमानस्थल नेपालको राजधानी काठमाडौंबाट 200 किलोमिटर टाढा पोखरा उपत्यकाको पोखरा सहरमा रहेको छ। यो विमानस्थल 1958 देखि शुरू भएको हो। हाल पश्चिम नेपालको प्रमुख यो विमानस्थल नजीकै रहेको अर्को जग्गामा सरकारले क्षेत्रिय स्तरको अन्तराष्ट्रिय विमानस्थल बनाउने भनेर चर्चा भइरहेको छ। विमानस्थल निर्माणका लागी सरकारले जग्गा समेत किनी सकेको छ अन्य भौतिक सुविधा निर्माणका लागि हालको विमानस्थललाई बेचि जुटाउने प्रयासको सोच राखीएको छ। हाल यो विमानस्थलबाट दैनिक 21 वटा सम्म उडान हुने गरेको छ। नेपालको राजधानी बा",
+    "यो विमानस्थलको नाम नेपाल पोखरा सहरको नामबाट राखिएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 56,
+    "text_length_max": 539,
+    "text_length_avg": 212.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2264,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34080.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34080.txt",
+    "relative_path": "34080.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34080.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2264,
+    "mtime": 1782796554.5330615,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "338f759f5d6282e90bcea298579fb4a293ca603e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

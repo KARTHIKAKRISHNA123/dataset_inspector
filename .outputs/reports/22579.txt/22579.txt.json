@@ -1,0 +1,91 @@
+{
+  "dataset": "22579.txt",
+  "file_name": "22579.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनगाभा सन् 2012 को नाट्य चलचित्र हो जसको निर्देशक तथा लेखक सुवर्ण थापा हुन् । यस चलचित्रको मुख्य पात्रहरूमा दिया मास्के, निशा अधिकारी र सौगात मल्ल रहेका छन् । यो नेपालको पहिलो समलिङ्गी चलचित्र हो । यस चलचित्रलाई नेपालको तर्फबाट 86औं एकेडमी अवार्डमा उत्कृष्ट विदेशी भाषाको लागि छानिएको थियो तर यो नामङ्कनमा पर्न सकेन ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 318,
+    "text_length_max": 318,
+    "text_length_avg": 318.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 834,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22579.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22579.txt",
+    "relative_path": "22579.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22579.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 834,
+    "mtime": 1782796501.4199018,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "cb54c7be57a351aa2c4f935321dd53bd7cfe52d1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

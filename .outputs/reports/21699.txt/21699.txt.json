@@ -1,0 +1,92 @@
+{
+  "dataset": "21699.txt",
+  "file_name": "21699.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टीकापुर पार्क नेपालकै सबैभन्दा ठुलो मानव निर्मित पार्क हो।कैलाली जिल्लाको टीकापुर नगरपालिका को दक्षिण पुर्वमा अवस्थित यो पार्क पर्यटकहरूको गन्तव्यका रूपमा विकसित छ।",
+    "टीकापुर पार्क लाई टीकापुर बृहत उद्यान नामले पनि चिनिन्छ।यो पार्कको वास्तबिक नाम बङ्गला हो।यो पार्क राजा महेन्द्रका पालामा स्थापना भएको थियो।कुनैताका यो पार्कमा राजामहाराजा आउने बस्ने गर्दथे। राजा बीरेन्द्र पनि रानी ऐश्वर्य र अन्य राज परिवारका निकटहरूसंग यो पार्क मा आउने गरेका थिए।वर्षेनी लाखौको संख्यामा पर्यटकहरू यो पार्क घुम्न आउछन।प्रयटकको संख्या कार्तिक मंसिरमा बढी हुने गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 466,
+    "text_length_avg": 333.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3621,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21699.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21699.txt",
+    "relative_path": "21699.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21699.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3621,
+    "mtime": 1782796497.5301578,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5a1d519339ec29b3e6c50fc0d8e0111cfd58c820",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7465.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डग हल अमेरिकाको न्यू ह्याम्सर राज्यको प्रतिनिधिसभाका पूर्व सदस्य हुन्। उनको पूरा नाम डगलस हल हो। हलको जन्म सन् 1943 मे 11मा भएको हो। उनले लोअर मेरिअन हाइस्कूल पढे। स्टानफोर्ड विश्वविद्यालयबाट इलेक्ट्रीकल इन्जिनियरिङ सकेका हुन्। उनले अमेरिकी स्वयंसेवी संस्था पिस कोर्प अन्तर्गत नेपाल गएर काम पनि गरेका छन्।",
+    "उनले सन् 1968-1969मा नेपालमा विज्ञान र अङ्ग्रेजी पढाए। उनी दरबार हाइस्कूल र आनन्द कुटीमा शिक्षक थिए। पिस कर्प स्वयंसेवक भएर उनी नेपाल पुगेका थिए। अनि उनलाई अमेरिकी सहयोग नियोग मा सल्लाहकार बनाइयो। उनले विज्ञान कसरी पढाउनुपर्छ भन्ने सिकाए। संयुक्त राष्ट्रसंघीय बालकोष का धेरैथरि काम गरे। नेपालको न्यू एरा नामक संस्था स्थापना गर्ने धेरैजनामध्ये उनी एक हुन्। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 366,
+    "text_length_avg": 285.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3783,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7465.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7465.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7465.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3783,
+    "mtime": 1782796670.7768831,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "e422711e0b345394737cc9ee88c1851455321b3f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

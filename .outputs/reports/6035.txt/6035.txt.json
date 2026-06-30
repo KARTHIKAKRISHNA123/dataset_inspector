@@ -1,0 +1,92 @@
+{
+  "dataset": "6035.txt",
+  "file_name": "6035.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दुस्तानी शास्त्रीय संगीत भारतीय शास्त्रीय संगीतको दुई प्रमुख आयामहरू मध्ये एक हो । दोस्रो प्रमुख आयाम हो - कर्नाटक संगीत ।",
+    "11औं र 12औं शताब्दीमा मुस्लिम सभ्यताको प्रसारले भारतीय संगीतको दिशालाई नयाँ आयाम दियो। यो दिशा प्रोफेसर ललित किशोर सिंहको अनुसार यूनानी पाइथागोरसको ग्राम तथा अरबी फारसी ग्रामको अनुरूप आधुनिक बिलावल ठाठको स्थापना भएको बुझ्न सकिन्च। यसको पूर्व एकदम ठाठ शुद्ध मेल थियो। तर शुद्ध मेलको अतिरिक्त उत्तर भारतीय संगीतमा अरबी-फारसी अथवा अन्य विदेशी संगीतको कुनै प्रभाव परेको छैन। \"मध्यकालीन मुसलमान गायकहरू र नायकहरूले भारतीय संस्कारहरूलाई जोगाएर राखे।\" "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 445,
+    "text_length_avg": 284.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2288,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6035.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6035.txt",
+    "relative_path": "6035.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6035.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2288,
+    "mtime": 1782796587.860815,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "fd70e6158f6b0395edaf05da2e8458a262814f39",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

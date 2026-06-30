@@ -1,0 +1,91 @@
+{
+  "dataset": "11848.txt",
+  "file_name": "11848.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कैलाशनाथ महादेव मन्दिर ) भक्तपुर जिल्ला चित्तपोल गाविसको वडा नम्बर 5मा रहेको छ । काभ्रेपलाञ्चोक जिल्ला र भक्तपुर जिल्लाको सिमानामा रहेको यो महादेवको मुर्ति 143 फिट अग्लो छ । उक्त मुर्ति विश्वकै सबभन्दा अग्लो महादेवको मुर्ति भएको दावी गरिएको छ । भाटभटेनीमा बस्दै आएका भारतीय नागरिक कमल जैनले एकल लगानीमा मूर्ति बनाएका हुन । विश्वकै अग्लो भनिएको 143 फिट अग्लो कैलाशनाथ महादेव मूर्तिको बदि्रकाधाम पिठाधिश्वर अनन्त श्री विभूषित शंकराचार्य स्वामी श्री माधवश्रम जी महाराजले प्रतिष्थापन गरेका हुन । मूर्ति न"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 853,
+    "text_length_max": 853,
+    "text_length_avg": 853.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2251,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11848.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11848.txt",
+    "relative_path": "11848.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11848.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2251,
+    "mtime": 1782796451.2483714,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "8f92a00fea418931488e48d85042383091f90fbb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

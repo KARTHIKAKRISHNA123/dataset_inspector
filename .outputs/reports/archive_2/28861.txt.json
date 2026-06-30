@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28861.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारती सिंह जुलाई 3, 1980 ) एक स्टंड अप हास्य कलाकार रव अभिनेत्रीहुन् र उनी भारतको पन्जाबबाट हुन्।",
+    "भारती स्टार वनमा आउने द ग्रेट इंडियन लाफ्टर चेलेंज को दोस्रो रनर अप रहिन्, जहाँ उनको स्टंड अप कमेडीको काल्पनिक पात्र लल्लीको धेरै प्रशंसा भयो। उनी एक प्रतियोगीको रूपमा कमेडी सर्कस 2010को सीरीज कमेडी सर्कसको सुपरस्टार्स र कमेडी सर्कसको जादूमा पनि उपस्थित भइन् ,र 2011मा जुबली कमेडी सर्कस, कमेडी सर्कसको तानसेन र कमेडी सर्कसको नया दौरमा पनि भाग लीइन् जो सोनीमा प्रसारित भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 97,
+    "text_length_max": 378,
+    "text_length_avg": 237.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1231,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28861.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28861.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28861.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1231,
+    "mtime": 1782796643.8856769,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "20a7faec9c61f490126488bd33ff7c4c6aae38e8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

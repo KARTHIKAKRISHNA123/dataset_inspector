@@ -1,0 +1,91 @@
+{
+  "dataset": "24459.txt",
+  "file_name": "24459.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिल्लीको मुटू अर्थात नेहरू प्लेस नजीक स्थित छ लोटस टेंपल, आफैमा अनौठो छ। यसले हरेक प्रकारको पर्यटकहरूलाई आफू तर्फ तान्छ। यस्तो भनाई छ कि प्रतिदिन लोटस टेंपलमा करीब आठदेखि दस हजार पर्यटक यहाँ आँउछन। यहाँको निर्मल वातावरण प्रार्थना र ध्यानको लागि सहायक छ। यहाँ न त कुनै मूर्ति छ, न कुनै कर्म-कांड हुन्छ। यहाँ विभिन्न धर्मको पवित्र लेखहरू पढिन्छन्। भारतीयहरूको लागि कमलको फूल पवित्रता तथा शान्तिको प्रतीक हो र ईश्वरको अवतारको संकेत चिह्न पनि हो। यो फूल हिलोमा भएपनि पवित्र तथा स्वच्छ रहेर फुलछ, यसले सिक"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 604,
+    "text_length_max": 604,
+    "text_length_avg": 604.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1601,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24459.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24459.txt",
+    "relative_path": "24459.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24459.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1601,
+    "mtime": 1782796509.8893678,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "57b29447a3e972da92244b327e28cdcfb7741607",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

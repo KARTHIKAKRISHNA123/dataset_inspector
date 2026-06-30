@@ -1,0 +1,92 @@
+{
+  "dataset": "30819.txt",
+  "file_name": "30819.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टेलि 2 रूस एक रूसी दूरसञ्चार कम्पनी हो । याे सन् 2001 मा स्वीडिस समूह टेलि 2 द्वारा स्थापित गरिएको थियोे । यसले 40 लाख भन्दा अधिक प्रयाेगकर्ताहरूका लागि मोबाइल टेलिफोन र अन्य सेवाहरू प्रदान गर्दछ । कम्पनीकाे मुख्यालय रूसकाे राजधानी मस्कोमा रहेकाे छ भने यसका प्रमुख कार्यकारी अधिकृत सर्जी एड्मिन हुन् । कम्पनी सन् 2001 मा सिमित दायित्व कम्पनीकाे रूपमा स्थापित भएकाे थियोे र भिटिबि र राेस दूरसञ्चारकाे सहायक कम्पनीकाे रूपमा सेवा प्रदान गर्दै अाइरहेकाे छ । हालैकाे एक तथ्याङ्क अनुसार कम्पनीमा 8,000 जना ",
+    "सञ्चालनकाे पहिलाे 2 वर्षमा कम्पनीले रूसमा 12 प्रदेशहरूमा सेवाकाे सुरूवात गरेको थियोे । 27 मार्च 2013 मा स्विडिस समूह टेलि 2 ले आफ्नो रूसी सहायक कम्पनी टेलि 2 रूसलाई भिटिबि समूहमा बेच्ने निर्णयकाे धाेषणा गरेकाे थियोे । अप्रिल 4 मा यस सम्झौता सम्पन्न भएको थियो । 24 जुन 2013 मा कम्पनीले मोबाइल सञ्चालक भाेरोनेज कोडो टेललाई अधिग्रहण गरेकाे थियोे ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 94,
+    "text_length_max": 575,
+    "text_length_avg": 305.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4680,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30819.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30819.txt",
+    "relative_path": "30819.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30819.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4680,
+    "mtime": 1782796539.641214,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fc6a73dbb4f1c8232f36b00ce59849359d5468c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

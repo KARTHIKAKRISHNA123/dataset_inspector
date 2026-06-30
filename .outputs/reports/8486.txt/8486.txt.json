@@ -1,0 +1,92 @@
+{
+  "dataset": "8486.txt",
+  "file_name": "8486.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्व्होलासोथार गाउँपालिका लमजुङ जिल्लामा अवस्थित छ । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा लमजुङ जिल्लामा साविकका बाग्लुङपानीको 1,2,5,6 वडाहरू, मालिङ, उत्तरकन्या, भुजुङ, पसगाउँ, भोजे र गिलुङ गाउँ विकास समितिहरूलाई समेटेर क्व्होलासोथार गाउँपालिका घोषणा गरिएको हो ।",
+    "क्व्होलासोथार गाउँपालिकाको क्षेत्रफल 175.37 वर्गकिलोमिटर रहेको छ । यो गाउँपालिका 9 वडाहरूमा विभाजन गरिएको छ । यस गाउँपालिकको कूल जनसङ्ख्या 10,032 रहेको छ । यस गाउँपालिकाको सिमाना पूर्वमा बेसीसहर नगरपालिका र मर्स्याङ्दी गाउँपालिका, पश्चिममा कास्की जिल्ला, उत्तरमा कास्की जिल्ला र मर्स्याङ्दी गाउँपालिका र दक्षिणमा मध्यनेपाल र बेसीसहर नगरपालिका रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 310,
+    "text_length_max": 354,
+    "text_length_avg": 332.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1740,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8486.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8486.txt",
+    "relative_path": "8486.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8486.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1740,
+    "mtime": 1782796599.5417178,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "227cb29a3f6cfc17c62434cefeedb65c10ed30ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

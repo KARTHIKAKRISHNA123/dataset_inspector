@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "16442.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 क्रिकेट विश्वकप 11 औ विश्वकप क्रिकेट प्रतियोगिता हो जुन अस्ट्रेलिया तथा न्युजिल्यान्डमा संयुक्तरूपमा 14 फेब्रुअरी 2015 देखि 29 मार्च 2015 सम्म आयोजना भएको थियो । 49 वटा म्याच मध्ये अस्ट्रेलियामा 26 वटा म्याच खेलाईयो भने बाँकी रहेका 23 वटा म्याच न्युजिल्यान्डमा खेलाईयो । अस्ट्रेलियाको 7 वटा सहरको 14 वटा ग्राउन्डमा म्याच संचालित गरिएको थियो । अस्ट्रेलियाको एडिलेड,ब्रिसबेन, क्यानबरा, होबार्ट, मेलबर्न, पर्थ तथा सिड्नी मा म्याच संचालित गरिएको थियो । त्यस्तै न्युजिल्यान्डको पनि 7 वटा सहरमा म्याच ",
+    "क्रिकेट विश्वकप कहाँ आयोजना गर्ने प्रश्नको निधो एकै समयमा लगाइएको थियो । सन् 2011 क्रिकेट विश्वकप - भारत, पाकिस्तान, श्रीलङ्का तथा बङ्गलादेश, त्यस्तै सन् 2015 क्रिकेट विश्वकप - अस्ट्रेलिया तथा न्युजिल्यान्ड मा र सन् 2019 क्रिकेट विश्वकप - इङ्ल्यान्डमा हुनेछ भनी आधिकारिक रुपमा पुष्टि गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 760,
+    "text_length_avg": 395.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10238,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16442.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\16442.txt",
+    "relative_path": "archive (2)\\valid\\valid\\16442.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10238,
+    "mtime": 1782796619.3247533,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4d5ed9030e6056f57555779a59c17b06db30e8a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

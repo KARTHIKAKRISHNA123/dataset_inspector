@@ -1,0 +1,92 @@
+{
+  "dataset": "22219.txt",
+  "file_name": "22219.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल प्रिमियर लिग 2016 वा एभरेस्ट प्रिमियर लिग 2016 नेपाल प्रिमियर लिग को दोस्रो संस्करण हो । जुन वाई वाई नेपाल प्रिमियर लिगका नामले 20-20 फर्मेटमा 26 मार्च देखि 4 अप्रिल 2015 मा काठमाडौं हुने भनिएको थियो, तर क्रिकेट एसोसिएसन नेपालले यसको नाम परिवर्तन हुनु पर्ने अडान लिएपछि खेल हुन सकेन र पछि एभरेष्ट प्रिमियर लिगका नामले 24 सेप्टेम्बर देखि 4 अक्टोबर 2016 सम्मको तालिका बनाइयो ।",
+    "एभरेस्ट प्रिमियर लिग 2016 को प्रमुख अायोजम सिजि फुड्स रहेको छ भने साथमा जोहरा स्पोर्ट्स म्यानेजमेन्ट पनि सह-अायोजकका रुपमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 380,
+    "text_length_avg": 141.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1450,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22219.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22219.txt",
+    "relative_path": "22219.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22219.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1450,
+    "mtime": 1782796499.8265336,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9edaf5ce0a39f74db0f245c570d26895f5a4d844",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

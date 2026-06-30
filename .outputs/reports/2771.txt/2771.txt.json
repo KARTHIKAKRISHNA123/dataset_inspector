@@ -1,0 +1,92 @@
+{
+  "dataset": "2771.txt",
+  "file_name": "2771.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कत्था खयर बाट निकालिने रसायन हो। यो मसला र औषधि दुबै रूपमा प्रयोग हुन्छ।",
+    "20–30 वर्ष पुरानो अन्दाजी 0.6 मी. गोलाइ भएको खयरको रुख काट्न लायकको हुन्छ। रुख ढाले पछि यसलाई 0.6 देखि 0.9 मी. लम्बाई पारी टुक्रा-टुक्रा गरी काटिन्छ। बोक्रा झिकेर फालिन्छ। काठको भित्री भागको रङ्ग रातो हुन्छ। यसलाई अन्दाजी 2.5 स्क्वायर सेन्टीमिटर साईजमा सानो सानो टुक्रा गरी काटिन्छ। यी टुक्राहरू माटोको भाँडामा 12 घण्टासम्म् पानीसँग उमालिन्छ। बाक्लो झोल भएपछि काठको बाकसमा खन्याई चिसो पारिन्छ। यसरी कत्था तयार गरिन्छ। काठको तौलमा औसत 3–10 % सम्म कत्था उत्पादन हुन सक्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 72,
+    "text_length_max": 470,
+    "text_length_avg": 271.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1402,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2771.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2771.txt",
+    "relative_path": "2771.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2771.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1402,
+    "mtime": 1782796524.8493285,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5d5a48e11b0b306fd245ed0c24cac14e6615b563",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

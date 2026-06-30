@@ -1,0 +1,94 @@
+{
+  "dataset": "8192.txt",
+  "file_name": "8192.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीलकण्ठ उप्रेती नेपालका वर्तमान प्रमुख निर्वाचन आयुक्त हुन् । उप्रेती चैत्र 11 गते दोश्रो कार्यकालका लागि प्रमुख निर्वाचन आयुक्तको रुपमा नियुक्त भएका हुन् । ",
+    "पश्चिम नेपालको पर्वत जिल्लामा जन्मेका नीलकण्ठ उप्रेतीले 2025 सालमा चितवनको गीतानगरस्थित अरुणोदय माविबाट द्वितीय श्रेणीमा एसएलसी गरेपछि राजधानी छिरी त्रिभुवन विश्वविद्यालयबाट अर्थशास्त्रमा स्नातकोत्तर गरे । बेलायतको स्टाफोर्डसायर विश्वविद्यालयबाट कम्प्युटर विज्ञानमा एमएस गरे । निर्वाचनका सबै प्रक्रिया कागजी फाइल र लिखितममा चलेको आयोगलाई 'डिजिटलाईज्ड' गर्ने अभियन्ता हुन् उप्रेती ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 1574,
+    "text_length_avg": 704.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5657,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8192.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8192.txt",
+    "relative_path": "8192.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8192.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5657,
+    "mtime": 1782796598.031128,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9cf15b5a0e85db3e5ed464360562c74ea57efce0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "8160.txt",
+  "file_name": "8160.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यस नैतिक दृष्टान्त कविका रचनाकार कविशिरोमणि लेखनाथ पाैड्याल हुन् । उनी नेपाली साहित्यका परिष्कारवादी धारका छन्दोबद्ध कवि थिए । उनलाई नेपाली साहित्यमा आधुनिक युगको जन्मदाता, आध्यात्मिक पुनर्जागरण ल्याउने तथा आध्यात्मिक मानवतावादी कविका रूपमा पनि चिनिन्छ ।",
+    "यस कवितामा कवि लेखनाथ पाैड्यालले प्रकृति र धर्म/संस्कृतिबाट विविध उदाहरणहरूका साथ नीतिशिक्षा दिएका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 40,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 254,
+    "text_length_avg": 48.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5135,
+    "estimated_records": 105
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 105,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8160.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8160.txt",
+    "relative_path": "8160.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8160.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5135,
+    "mtime": 1782796597.8973503,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1a368cb8f8b8379b167b4e1bea88ed7f7e97f944",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

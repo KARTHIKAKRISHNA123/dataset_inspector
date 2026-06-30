@@ -1,0 +1,92 @@
+{
+  "dataset": "5053.txt",
+  "file_name": "5053.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिनियाँ नयाँ वर्ष विश्व भर फैलिएर रहेका चीनियाँ जनताका लागि एक महत्वपूर्ण पर्व हो । चीनिया पात्रो र मितिहरू सूर्यमा आधारित नभई परम्परागत रुपमा चन्द्रमामा आधारित हुन्छन् । यो नयाँ वर्ष लुनार पात्रोको शुरूवात संगै सुरु हुन्छ र 15औं दिन लालटिन पर्व का साथ अन्त्य हुन्छ ।",
+    "चीनियाँहरू यो पर्वलाई 15 दिन सम्म मनाउने गर्दछन । बिदाको दिन साँझमा उनीहरू परिवारमा जम्मा भइ खाना खान आउने गर्दछन । त्यो खानालाई \"रेयुनिनल डिनर\" भन्ने गरिन्छ । जतिसुकै टाढा भएपनि चीनियाहरू कम्तिमा बर्षमा एकपल्ट यो समय आफ्नो परिवारसँग भेट्ने कोसिस गर्छन । खानामा रमाइलो गर्नुको साथसाथै परिवार सँगै नयाँ वर्षको सन्ध्याको पर्व पनि हेर्ने गर्छन । विवाहित छोरीहरू पनि आफ्नो आमाबुबालाई भेट्न माइतमा जाने गर्छन ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 138,
+    "text_length_max": 420,
+    "text_length_avg": 290.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4648,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5053.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5053.txt",
+    "relative_path": "5053.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5053.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4648,
+    "mtime": 1782796582.6769812,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9aaa622a4546833baf84dab07b31cf61b00dc84a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26612.txt",
+  "file_name": "26612.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धानलाई भिजाएर ओखल वा मिलमा कुटेर तयार गरिएको खाध्यप‍दार्थ नेपालीको खानामा चिउराको ठूलो महत्व छ।",
+    "धानलाई भिजाएर ढिकी वा मीलमा कुटेर तयार पारिएको अन्नलाई च्युरा भनिन्छ|सजिलै सँग जताततै उपलब्ध हुने, भण्डारण गर्न सकिने तथा 'जुठो'मा नगनिने भएकोले खानपिनमा यो एकदमै प्रचलित छ । दहि, मासु, मिठाई लगाएत अन्य धेरै परिकार सँग पस्किन सकिने भएकोले च्युरा अति प्रचलित छ । चामललाई पकाउन पर्ने तर च्युरा पकाउन नपर्ने भएकोले यसले जुन सुकै अवस्थामा पनि 'भात'को सट्टामा प्रयोग गर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 375,
+    "text_length_avg": 235.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1245,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26612.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26612.txt",
+    "relative_path": "26612.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26612.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1245,
+    "mtime": 1782796519.91556,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "2f8cb0e94e5888ca7be5245301f4d6394aae20e3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

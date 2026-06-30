@@ -1,0 +1,94 @@
+{
+  "dataset": "4463.txt",
+  "file_name": "4463.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सत्य सन्देश लेखनाथ पौड्यालद्वारा लेखिएको कविता हो । परिष्कारवादी धारका प्रमुख कवि लेखनाथ पौड्यालको यस कवितामास्रग्धरा छन्द, अन्त्यानुप्रास अलङ्कार र शान्त रसको प्रयोग पाइन्छ । ",
+    "कविताको भावार्थ \"व्यक्ति राम्रो भए संसार राम्रो लाग्ने तर व्यक्ति स्वयं नराम्रो भए संसार नराम्रो देखिन्छ\" भन्ने रहेको छ । यस सत्य सन्देश कविताले प्रसिद्ध कवि दुर्गालाल श्रेष्ठका शब्दमा न्ह्यू वज्राचार्यको सङ्गीतमा गायिका अानी छोयङ डोल्माले गाएका \"फूलको आखाँमा फुलै संसार, काँडाको आखाँमा काँडा संसार\" को अर्थ दिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 315,
+    "text_length_avg": 69.7,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9974,
+      "Latin": 0.0026
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4983,
+    "estimated_records": 71
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 71,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9974,
+      "Latin": 0.0026
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4463.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4463.txt",
+    "relative_path": "4463.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4463.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4983,
+    "mtime": 1782796579.8118825,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bb191cd5633e3c88cf08267555a7a3e8c4b5f0b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

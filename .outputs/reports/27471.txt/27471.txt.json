@@ -1,0 +1,92 @@
+{
+  "dataset": "27471.txt",
+  "file_name": "27471.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अँडिर अथवा अंडी औषधीय गुणभएको फूल फुल्ने वनस्पति हो ।",
+    "कब्जियत, ज्वरो, ब्रोङकाइटिस, कफ, कुष्ठरोग, चर्मरोग, साइटिका लगायका नसाका रोग, पेटको रोग, पेट भित्र पानी जमेमा जराको सेवन गरिन्छ। जलेको, घाउ–खटिरा, रतन्धो, जोर्नी दुखेको, पिसाव पोल्ने रोगमा पातको रस दलिन्छ/खाइन्छ। घाउ र जीउमा आएको गाँठागुँठीमा फूल र फलको रस दलिन्छ। कमजोर यौनशक्ति, कब्जियत, अजीर्ण–अपचमा बीउ उपयोगी छ। कुर्कुच्चा र छाला फुटेको र मांशपेशी तथा जोर्नी दुखेकोमा बीउको लेदो वा बीउबाट निकालिएको तेल दलिन्छ। बिच्छीले टोकेकोमा अँडिरको तेल दलिन्छ। हरियो पातलाई तताएर स्तन र छातीलाई सेक्दा सुत्क"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 559,
+    "text_length_avg": 306.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1623,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27471.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27471.txt",
+    "relative_path": "27471.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27471.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1623,
+    "mtime": 1782796523.79783,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "62f6fa560e8c063a092ada047752c01cf6f732c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14721.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्प्युटर हाडवेर भनेकेा कम्प्युटरका विभिन्न भागहरू हुन। जसलार्इ हामीहरूले छुन र महसुस गर्न सक्छै। कम्प्युटर चलाउनमा कम्प्युटर हाडवेरकेा प्रयेाग गरिन्छ। कम्प्युटर हाडवेर अन्तर्गत आदि पर्दछन्।",
+    "इनपुट युनिट अन्तर्गत माउस, किबेार्ड, ज्वाइस्टिक लगायतका धेरै डिभाइसहरू पर्दछन्। यी डिभाइसहरूकेा प्रयेाग गरेर कम्प्युटरमा प्रेासेसिङकेा लागि डाटा तथा इन्स्ट्रक्सनहरू पठाउन सकिन्छ । आजकाल बजारमा धेरै प्रकारका इनपुट डिभाइसहरू आइसकेका छन्। जसमध्ये केही इनपुट डिभाइसहरूकेा संक्षिप्त विवरण तल उल्लेख गरिएकेा छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 304,
+    "text_length_avg": 160.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2187,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14721.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14721.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14721.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2187,
+    "mtime": 1782796615.9732046,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2cbd1d8223fb25c79753b6a041a75b0d5454278d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

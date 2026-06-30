@@ -1,0 +1,94 @@
+{
+  "dataset": "11314.txt",
+  "file_name": "11314.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सरस्वती चौधरी एक नेपाली महिला राष्ट्रिय भलिबल टिमका खेलाडी हुन्।उनि एपीएफको पनि उत्कृष्ट खेलाडी हुन्।उनी स्पाइकरबाट खेल्ने गर्दछिन्।",
+    "एपिएफ नेपाली भलिबलको सर्वाधिक सफलटोली हो। पछिल्लो समय एपिएफ प्रायःसबै घरेलु प्रतियोगिताको फाइनलमा पुग्ने गरेको छ। एपिएफलाई बलियो टोली बनाउनमा 6 फिट उचाइकी सरस्वतीले मुख्य स्पाइकरको भूमिका निभाउँदै आएकी छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 441,
+    "text_length_avg": 234.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5103,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11314.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11314.txt",
+    "relative_path": "11314.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11314.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5103,
+    "mtime": 1782796448.813059,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0dbf3a0c5d802848c98412f82f378de75d6fbf06",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

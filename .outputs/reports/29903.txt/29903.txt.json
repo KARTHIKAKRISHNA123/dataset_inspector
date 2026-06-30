@@ -1,0 +1,92 @@
+{
+  "dataset": "29903.txt",
+  "file_name": "29903.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोपा अमेरिका 2016 प्रतियोगिताको 100 बर्ष पूरा भएको अवसरमा आयोजना गरिएको हो । पहिलोपटक यो प्रतियोगिता दक्षिण अमेरिका भन्दा बाहिर सञ्चालन गरिएको हो, भने यो प्रतियोगिता विगतका प्रतियोगिताहरू जस्तो आधिकारिक नभई राष्ट्रहरूको प्रतिष्ठासँग जोडिएको मात्र छ। किनभने प्रथम हुनेले कन्फिडरेसन कपमा सहभागी हुन पाउने हो तर त्यसको हैसियत चिलीले 2015 मै राखिसकेको छ।",
+    "यस प्रतियोगितामा जम्मा 16 राष्ट्रहरूले सहभागीता जनाएका थिए।जसले कुनै छनोट प्रतियोगिता बिनानै यश प्रतियोगितामा सहभागीताको हैसियत राखेका थिए सहभागी राष्ट्रहरू:-"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 350,
+    "text_length_avg": 68.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1450,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29903.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29903.txt",
+    "relative_path": "29903.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29903.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1450,
+    "mtime": 1782796535.3824034,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "00e2244dd2a855a1b8ef0663c3f25e104169f3b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

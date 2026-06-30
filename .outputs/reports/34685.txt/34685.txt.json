@@ -1,0 +1,94 @@
+{
+  "dataset": "34685.txt",
+  "file_name": "34685.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एन्ड्र्यु रस्सल गारफिल्ड एक ब्रिटिश-अमेरिकी अभिनेता हुन जो थुप्रै रेडियो, टेलिभिजन, चलचित्र, तथा नाटकमा प्रस्तुत भएका छन। उनको पूर्व भूमिकाहरूमा चलचित्र लायन्स फर ल्याम्बस, द ईम्याजिनेरियम अफ डक्टर पारन्यासस, र बोइ ए पर्दछन र 'बोइ ए'का लागि उनलाई 2007मा बाफ्टा पुरस्कार प्राप्त गरेका छन।",
+    "गारफिल्डले 2010को चलचित्र द सोसियल नेटवर्कमा एड्वार्डो साभरिनको भुमिका निभाए पछि व्यापक नाम र समालोचकहरूको प्रशंसा प्राप्त गरे। यसको लागि उनले दुई बाफ्टा र एक गोल्डेन ग्लोब नामांकन पनि प्राप्त गरे। गारफिल्डसँग संयुक्त राज्य अमेरिका र युनाइटेड किंगडमको दोहोरो नागरिकता छ। उनी 2012को सुपर हिरो चलचित्र द अमेजिन्ग स्पाइडर-म्यानमा स्पाइडर-म्यानको मुख्य भुमिका निर्वाह गर्दैछन।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 149,
+    "text_length_max": 724,
+    "text_length_avg": 377.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9086,
+      "Latin": 0.0914
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10234,
+    "estimated_records": 27
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9419,
+      "Latin": 0.0581
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34685.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34685.txt",
+    "relative_path": "34685.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34685.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10234,
+    "mtime": 1782796557.2965107,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "92d667c0b9a739b618a45a761b472f578e9df10a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

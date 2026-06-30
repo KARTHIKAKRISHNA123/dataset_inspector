@@ -1,0 +1,92 @@
+{
+  "dataset": "10820.txt",
+  "file_name": "10820.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सम्भोट लिपि सातौं शताब्दीमा तिब्बतको धर्म राजा स्रोङ्चन गम्पो का मन्त्री थोन्मि सम्भोट ले विकास गरेका लिपि हुन् । सम्भोटले राजाको अज्ञानुसार भारतको विद्वान लिपिकारहरूबाट शब्द-विद्याको ज्ञान हासिल गरी तिब्बतमा फर्के पछि अविष्कार गरेका थिए। यस लिपिमा चार स्वरवर्ण र तीस व्यंजन वर्णहरू रहेका छन्।",
+    "सम्भोट लिपिको आविष्कार सातौं शताब्दीको मध्य तिर तिब्बतको धर्म राजा स्रोङ्चन गम्पोको शासनकालमा थोन्मि सम्भोटले गर्नुभएको थियो। राजा स्रोङ्चन गम्पोले आफ्नो देशमा पनि छिमेकी मुलुक चीन, नेपाल र भारत इत्यादि झैँ लिपिको प्रयोग द्वारा देशको इतिहास र संविधान आदिको निर्माणकार्य साथै विशेष गरि भारतबाट बौद्ध ग्रन्थहरू तिब्बती भाषामा अनुवाद गर्नुको लागि थोन्मि सम्भोटलाई भारतमा शब्दविद्यको शिक्षा आर्जनको निम्ति पठाएको र थोन्मिले भारतको विद्वानहरू बाट शिक्ष प्राप्त गरि आफ्नो देशमा फर्के पछि रञ्जना लिपिको आधार"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 993,
+    "text_length_avg": 568.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6142,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10820.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10820.txt",
+    "relative_path": "10820.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10820.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6142,
+    "mtime": 1782796446.52764,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e836085f7c9d51c251f91dfd59e7292c44375796",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

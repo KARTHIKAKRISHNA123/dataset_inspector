@@ -1,0 +1,94 @@
+{
+  "dataset": "9204.txt",
+  "file_name": "9204.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झापा जिल्ला ; अङ्ग्रेजी Jhapa District) नेपालको पूर्वाञ्चल विकास क्षेत्रको, मेची अञ्चलमा पर्ने अत्याधिक उर्वर तथा घना वस्ती भएको जिल्ला हो। यसको उत्तरी भाग पहाडी पर्वतमालाले सजिएको छ भने अतिरिक्त सम्पूर्ण भूभाग तराई पर्दछ । विसं 2068 सालको जनगणना अनुसार यहाँको जनसङ्ख्या 81,2650 रहेको छ । यो जिल्लाको क्षेत्रफल 1606 बर्ग कि.मी. रहेको छ । यो जिल्लाको पूर्वमा मेची नदीले भारतको पश्चिम बङ्गालसँग सिमाना छुट्याएको तथा यस जिल्लाको दक्षिणमा भारतको बिहार रहेको छ। उत्तरमा इलाम, पश्चिममा मोरङ जिल्ला रहेका छन",
+    "पहिले झापा जिल्लाको सम्पूर्ण प्रशासनिक कार्य मोरङ गोश्वाराले हेर्ने गर्दथ्यो। पछि उक्त मोरङ गोश्वारा हालको कुमरखोद गाविस अन्तरगत पर्ने झापा गाउँमा सारियो जुन गाउँ हाल पनि कुमरखोद गाविसमा झापा बजार नामले चिनिन्छ। तसर्थ त्यस झापा गाउँको नामबाटै कालान्तरमा यस ठाउँ को नाम झापा रहन पुग्यो। झापा जिल्लाका आदिवासी जाति राजवंशीहरूको राजवंशी भाषामा झापाको अर्थ ढकनी वा विर्को भन्ने अर्थ लाग्ने र शताब्दीऔं देखि वन जंगलबाट ढाकिएको वा छोपिएको हुँदा यस ठाउँको नाम झापा रहन गएको भन्ने भनाई रहिआएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 1341,
+    "text_length_avg": 359.15,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Latin": 0.0013
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 31404,
+    "estimated_records": 87
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 87,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.996,
+      "Latin": 0.004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9204.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9204.txt",
+    "relative_path": "9204.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9204.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 31404,
+    "mtime": 1782796603.0987682,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6fea541ac1827f369c348536c18f15b14e1b1a54",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "19162.txt",
+  "file_name": "19162.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोमाको जन्म संवत् 1982 साल जेठ 15 गते पर्वतको राम्जामणि चौरमा भएको थियो । लक्ष्मीकान्त उपाध्याय र नन्दकुमारी उपाध्यायकी उनी प्रथम सन्तान थिइन् ।",
+    "गोमा सानै हुँदा यिनकी आमा दिवङ्गत भएकाले जीवन र जगत्को कारुणिक खेल यिनले आफ्नो जीवनभर देखिरहिन् । गोमा सानैदेखि तीक्ष्ण थिइन् । त्यसैले उनका असी बर्षिय हजुरबुबाले उनलाई बाल्यकालमै भानुभक्तको रामायण, महाभारत, दुर्गाकवच कण्ठ गराएका थिए । गोमालाई आठ वर्षै उमेरदेखि अमरकोश घोकाउन सुरु गरिएको थियो । बाल्यावस्थामा गोमाले सातआठ वर्षसौतेनी आमाका गाली, कुटाइ र यातनामा बिताइन् । त्यो दुःख देख्न नसकेर यिनलाई यिनका हजुरबुबा र फुपूले पालोपालो गरी पालेका थिए । त्यसपछि यिनी दश वर्षटेक्तानटेक्तै बिहेको बन्धनमा प"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 506,
+    "text_length_avg": 259.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2067,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19162.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19162.txt",
+    "relative_path": "19162.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19162.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2067,
+    "mtime": 1782796485.7296731,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2535de265de5c53be6aedc8d0e4488d3377495a2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

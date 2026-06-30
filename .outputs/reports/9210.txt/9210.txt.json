@@ -1,0 +1,94 @@
+{
+  "dataset": "9210.txt",
+  "file_name": "9210.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सङ्घीय शासन प्रणालीको विकास",
+    "सङ्घीयताको आधुनिक अवधारणा संयुक्त राज्य अमेरिकामा सन् 1776 देखि 1789 बीचमा भएको मानिन्छ। यो अवधारणा प्राचीन गि्रस, संयुक्त निदरल्यान्डस र बि्रटिस साम्राज्यबाट आएको हो। यो अवधारणामा दुई तहका सरकारहरूको स्वतन्त्रतालाई जोड दिइएको थियो। सङ्घीयता शासन प्रणाली अपनाउने अर्को पुरानो मुलुक स्विट्जरल्यान्ड हो। सन् 1291मा तीनवटा मुलुकबीच सम्झौता भई महासङ्घ बनेको थियो। पछि सन् 1848मा केन्द्रलाई बढी अधिकार दिइएपछि सङ्घीय स्वरूपमा आएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 83,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 853,
+    "text_length_avg": 233.22,
+    "duplicate_estimate": 32,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Latin": 0.0013
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 51745,
+    "estimated_records": 221
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 221,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9210.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9210.txt",
+    "relative_path": "9210.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9210.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 51745,
+    "mtime": 1782796603.135145,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "d11d3f7bc0d08763b9d7f7de24d404ac542c0827",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

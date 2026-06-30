@@ -1,0 +1,92 @@
+{
+  "dataset": "22449.txt",
+  "file_name": "22449.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गणतन्त्र दिवस भारत को एक राष्ट्रीय पर्व हो । जो प्रतेक वर्ष 26 जनवरीमा मनाउने गरिन्छ । ",
+    "सन 1929को डिसेम्बरमा लाहौरमा भारतीय राष्ट्रिय कांग्रेसको अधिवेशन पण्डित जवाहर लाल नेहरूको अध्यक्षतामा भयो, जसमा प्रस्ताव पारित गरेर यस कुराको घोषणा गरिएको थियो कि यदि अङ्ग्रेज सरकारले 26 जनवरी, 1930 सम्म भारतलाई उपनिवेशको पद प्रदान गरेन भने भारतले स्वयंलाई पूर्ण स्वतन्त्र राष्ट्र घोषित गर्नेछ। 26 जेनवरी, 1930 सम्म जब अङ्ग्रेज सरकारले केही गरेन तब कांग्रेसले त्यस दिन भारतको पूर्ण स्वतंत्रताको निश्चयको घोषणा गरियो र सक्रिय आन्दोलन आरंभ गरियो। त्यस दिनदेखि 1947मा स्वतंत्रता प्राप्त नभएसम्म 26 जेनवर"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 87,
+    "text_length_max": 736,
+    "text_length_avg": 411.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2163,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22449.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22449.txt",
+    "relative_path": "22449.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22449.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2163,
+    "mtime": 1782796500.8744931,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "b12ee70eea70e9aaec7a59ab121653dddc223efd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

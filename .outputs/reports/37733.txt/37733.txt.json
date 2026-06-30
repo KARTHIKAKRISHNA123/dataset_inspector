@@ -1,0 +1,94 @@
+{
+  "dataset": "37733.txt",
+  "file_name": "37733.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 23°07′उत्तर 83°12′पूर्व / 23.12° उत्तर 83.2° पूर्व / 23.12; 83.2अम्बिकापुर भारतका छत्तीसगढ राज्य उत्तरमा स्थित छ। यो सरगुजा जिलेको मुख्यालय छ। यसको नाम हिन्दुहरूको देवी दुर्गाका एक रूप 'अम्बिका'का नामले बनाएको छ। सहरको जनसङ्ख्या लगभग 1 लाख छ। ",
+    "अम्बिकापुर सहरको नाम छ र यो सरगुजा जिल्लाको मुख्यालय छ। सहरमा महामाया देवीको मंदिर छ। यस मंदिरको पर्याप्त मान्य्दछ। पहिला मानिस यहाँ आफ्नो मनता पूर्ण भएमा देवीलाई बोकाको बलि अर्पित गरे गरिन्थ्यो। तर अब यो परम्परा पर्याप्त कम हो गई छ। यो स्थानीय बोली सरगुजिया छ। आदिवासी क्षेत्र हुने कारण यो बरसहरूदेखि उपेक्षित रहेकोछ। छत्तीसगढ एक अलग राज्य बन्नका पछि यहाँ पनि विकास हुने लागेको छ।सरगुजा जिल्लाको सीमाहरू उडीसा,झारखण्ड,उत्तर प्रदेश र मध्य प्रदेशलाई छू्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 566,
+    "text_length_avg": 206.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9449,
+      "Latin": 0.0551
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7860,
+    "estimated_records": 38
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 38,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9449,
+      "Latin": 0.0551
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37733.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37733.txt",
+    "relative_path": "37733.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37733.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7860,
+    "mtime": 1782796571.9409,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a3a1ffcfc7b2f15b794cd7c9cf5b8bd2cfb46758",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

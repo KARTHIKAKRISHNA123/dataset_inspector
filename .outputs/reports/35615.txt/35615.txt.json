@@ -1,0 +1,92 @@
+{
+  "dataset": "35615.txt",
+  "file_name": "35615.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मातृ दिवस वा आमा दिवस आमाप्रति सम्मान गर्ने र आमालाई सम्झने दिन हो। यो दिवस विश्वका धेरै देशहरूमा अलग अलग दिनमा आ-आफ्नो परम्परा अनुसार मनाइने गरिन्छ। नेपालमा यो दिवस मातातीर्थ औंसीको दिनमा मनाइन्छ।",
+    "नेपालमा हिन्दू संस्कृति अनुसार यो दिवस वैशाख कृष्ण औंसीको दिन आमाको मुख हेर्ने दिन वा मातातीर्थ औंसीको रूपमा परिचित छ। उक्त दिन आफूलाई जन्म दिने आमाको मुख हेर्न छोराछोरीहरू आमा भएको ठाउँमा गएर आफ्नो गच्छेअनुसारका खाद्यपदार्थ ख्वाउनुका साथै उपहार दिएर आमालाई प्रसन्न तुल्याउँछन्। आमा जीवित हुनेहरूले आमालाई मीठा-मीठा परिकार बनाएर ख्वाउँछन्, लुगाफाटो तथा अन्य विविध उपहार दिएर कृतज्ञता जाहेर गर्छन्। आमा नहुनेहरू भने यस दिन काठमाडौं उपत्यकाको पश्चिम दिशातर्फ थानकोट जाने बाटोमा पर्ने गुर्जुधारादेखि माथ"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 197,
+    "text_length_max": 896,
+    "text_length_avg": 630.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6789,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35615.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35615.txt",
+    "relative_path": "35615.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35615.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6789,
+    "mtime": 1782796561.4975996,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "12dda8fabbf97a7fddc07c8b33d718bf3c637dea",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

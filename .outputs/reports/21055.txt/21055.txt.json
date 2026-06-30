@@ -1,0 +1,92 @@
+{
+  "dataset": "21055.txt",
+  "file_name": "21055.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिरण्यकश्यपु  एक हिन्दु पौराणिक पात्र हुन् ।उनका दाजु हिरण्याक्षलाई भगवान विष्णुको बराह अवतार ले मरेको थियो । जसको बदला लिन हिरण्याक्षका भार्इ हिरण्यकश्यपुले भगवान ब्रह्मलार्इ प्रशन्न पारी वरदान लिनका लागि कठोर तपस्य गर्यो । कठोर तपस्याबाट प्रभावित भएर दर्शन दिनुभयो र वरदान के माग्छाै भनेर अाज्ञा भयो । ऊ पनि पछि विष्णुकै अवतार नृसिँह अवतार का हातबाट मारिए । ",
+    "श्रीमद्भागवत् पुराण अनुसार, हिरण्यकश्यपु र हिरण्याक्ष विष्णुका द्वारपाले जय र विजयको पुनर्जन्म थिए जो चार कुमारको श्राप को कारण पृथ्वीमा जन्मेका थिए । सत्य युगमा, हिरण्यकश्यपु र हिरण्याक्ष दितिको गर्भबाट र कश्यप ऋषिबाट जन्मे । उनी हरुको जन्म अशुभ समयमा भएको हुनाले उनीहरु असुर भएर जन्मे।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 25,
+    "text_length_max": 518,
+    "text_length_avg": 220.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7617,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21055.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21055.txt",
+    "relative_path": "21055.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21055.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7617,
+    "mtime": 1782796494.622536,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "02fed3f88b1f9f9c34206bb1335d333366a8200a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

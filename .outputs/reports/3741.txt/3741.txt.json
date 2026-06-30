@@ -1,0 +1,94 @@
+{
+  "dataset": "3741.txt",
+  "file_name": "3741.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विलियम हेनरी \"बिल\" गेट्स तृतिय एक अमेरिकी ब्यापारी, आविष्कारक तथा माइक्रोसफ्ट कम्पनीका संस्थापक अध्यक्ष हुन । उनी विश्वकै दोस्रो धनी व्यक्ति हुन्। उनले 30 वर्षको उमेरमा लखपति बन्ने सपना देखेका थिए तर 31 वर्षको उमेरमा नै उनी करोडपति बन्न सफल भए।",
+    "गेट्स 28 सेप्टेम्बर 1955 मा सियेटल, वाशिंगटनमा जन्मिए। उहाँ विलियम एच गेट्स सिनियर र मैरी मैक्सवेल गेट्सका छोरा हुन्। उनको पिता एक प्रमुख वकील थिए, र उनको आमाले पहिलो इन्टर्स्टेट ब्यानसिस्टम र युनाइटेड वे को बोर्ड मा सेवा गरे। गेट्स को मातृ हजुरबुवा जे.डब्लु. मैक्सवेल, एक राष्ट्रीय बैंक अध्यक्ष हुन्। गेट्सको एक ठूलो दिदि, क्रिस्टी र एक सानो बहिनी, लिब्बी छन्। उनले 13 सालको उमेरमा एक निजी तैयारी विद्यालय, लेक्साइडाइड स्कूल मा दाखिला लिए।उनले आफ्नो पहिलो कम्प्यूटर प्रोग्राम यस मेशिनमा लेखे: टिक-टे"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 765,
+    "text_length_avg": 356.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9896,
+      "Latin": 0.0104
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2790,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9896,
+      "Latin": 0.0104
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3741.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3741.txt",
+    "relative_path": "3741.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3741.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2790,
+    "mtime": 1782796570.123222,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "27359b7cef8b3182107299af89a6e961c0a222ae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

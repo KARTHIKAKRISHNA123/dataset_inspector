@@ -1,0 +1,92 @@
+{
+  "dataset": "18622.txt",
+  "file_name": "18622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रथम जलबिद्युत अनी यसको ईतिहास :",
+    "सन् 1911 अर्थात् वि.सं. 1968मा काठमाडौं उपत्यकामा निर्मित 500 किलोवाट क्षमताको फर्पिङ लघु जलविद्युत् परियोजना एसियाकै दोस्रो जलविद्युत परियोजना हो। तत्कलिन प्रधानमन्त्री चन्द्रशमशेरको पालामा गेहेन्द्र शमशेरले निर्माण गर्न लगाएको हुनाले यस केन्द्रबाट उत्पादित बिजुलीलाई 'श्री चन्द्रज्योति प्रकाश' भन्ने गरिन्थ्यो। फर्पिङ जलविद्युत् गृहको उद्घाटन राजा पृथ्वी वीरविक्रमले बिसं 1968 साल जेठ 9 गते गरेका थिए। यस केन्द्रबाट उत्पादित विद्युत वितरण सुव्यवस्था गर्न 'बिजुली अड्डा'को नामले एउटा अड्डा स्थापना ग"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 1006,
+    "text_length_avg": 459.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8537,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18622.txt",
+    "relative_path": "18622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8537,
+    "mtime": 1782796483.0039663,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "5193690f76e33cd079be81fb4a3817aedd936305",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

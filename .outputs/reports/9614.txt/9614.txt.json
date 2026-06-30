@@ -1,0 +1,92 @@
+{
+  "dataset": "9614.txt",
+  "file_name": "9614.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नारायण मन्दिर दैलेख जिल्लाको सदरमुका दैलेख बजारमा पर्ने पुरानो बजारको बीच बजारमा रहेको छ। यसै नारायण मन्दिरको नामबाट यो नगरपालिकाको नाम नारायण नगरपालिका राखिएको हो। यो मन्दिर बनेको ठाउँमा पहिले के रहेको थियो भन्ने कुनै प्रमाण भेटिएको छैन। मन्दिरमा रहेको अभिलेख अनुसार यस मन्दिरको स्थापना विक्रम सम्वत 1916 मा काजी जयमानसिंह बस्नेत क्षेत्रीले निर्माण गराएका थिए। मन्दिर परिसर भित्र रहेको मुख्य मन्दिरमा कालो ढुङ्गाद्वारा निर्मित गरुड नारायण, राम, भगवती, सरस्वती, गणेश, शिवलिङ्ग र शिलाभिलेख राखिएका छन्",
+    "मन्दिरमा रहेको अभिलेखबमोजिम काजी जयमानसिंह बस्नेत क्षेत्रीले पाञ्चायन देवता, देवालय र धर्मशाला स्थापना गरेको बेहोरा उल्लेख गरिएको छ। झिँगटीको छाना रहेको यस मन्दिरमा विक्रम सम्वत 2038 मा जस्तापाताको छाना लगाइको थियो। विक्रम सम्वत 2027 सम्म दैनिक पूजापाठको लागी गुठीबाट आयस्ता प्राप्त भैरहेकोमा रैकर गुठी खारेज भएपछि दैनिख पूजामा प्राप्त भएको भेटी दक्षिणाबाट नै पूजापाठ गर्ने गरिएको छ। बडा दशैं र चैते दशैंमा पूजाको लागि जिल्ला मालपोत कार्यलयबाट वार्षिक 1800 रूपैयाँ पूजा खर्च उपलब्ध हुने गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 495,
+    "text_length_max": 666,
+    "text_length_avg": 580.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3073,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9614.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9614.txt",
+    "relative_path": "9614.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9614.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3073,
+    "mtime": 1782796604.904193,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9321df40f6729e11b3488bafc997253029f2df80",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

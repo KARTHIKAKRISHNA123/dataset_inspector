@@ -1,0 +1,94 @@
+{
+  "dataset": "22038.txt",
+  "file_name": "22038.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्योटो ; युके /kɪˈəʊtəʊ/, युएस /kiˈoʊʔ/, वा /ˈkjoʊʔ/) होन्शु टापुको मध्यमा अवस्थित जापानको एक महानगर हो । क्वामू शासन कालमा यस सहरलाई 'हे यान जो' अर्थात् 'शान्तिको नगर' को संज्ञा दिइएको थियो । 11औँ शताब्दी सम्म क्योटो जापानको राजधानी थियो र आज पनि पश्चिमी प्रदेशको राजधानी हो । यस सहरलाई आधुनिकीकरण तथा यसको पुनर्संरचनाको लागि सन् 1890 मा यस नगरसँगै रहेका बिवा ताललाई लगभग 7 माइल लामो नहरद्वारा बाँधियो र आकर्षक बनाइयो । यो सहरलाई आज पनि हजारौ वर्षको राजधानी भन्ने गरिन्छ ।",
+    "विशाल मन्दिरहरू, कलात्मक भवनहरूको लागि क्योटो सम्पूर्ण जापानमा प्रसिद्ध छ । यहाँ रेशमको कपडा, चिनिया माटोको भाडा, खेलौना र अन्य प्रकारका धातुका भाडाकुडाको उद्योग अधिक विकसित छन् । यो जापानमा बौद्ध धर्मको सबैभन्दा ठुलो केन्द्र हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 473,
+    "text_length_avg": 262.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9904,
+      "Latin": 0.0096
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4735,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9904,
+      "Latin": 0.0096
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22038.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22038.txt",
+    "relative_path": "22038.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22038.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4735,
+    "mtime": 1782796499.0275702,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.934,
+    "sha1_quick": "fcd563359705284c980164ad97d2e47809924c10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

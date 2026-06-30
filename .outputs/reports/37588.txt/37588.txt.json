@@ -1,0 +1,93 @@
+{
+  "dataset": "37588.txt",
+  "file_name": "37588.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ली लियांजी (अङ्ग्रेजी: Li Lianjie, को जन्म 26 अप्रिल स.न्.1963मा चीनको राजधानी बेजिंगमा भएको थियो ।जेट ली एक अभिनेता, मार्शल आर्टिस्ट तथा चलचित्र-निर्माता हुन् । जेट लीले स.न्. 1998 ताका हलिवुडमा प्रवेश गरी विभिन्न हलिवुड चलचित्रमा अभिनय गरी सकेका छन् । उनले 2009 मा चीनको राष्ट्रियता त्यागेका थिए । हाल उनी सिंगापुरका नागरीक हुन् । जेट ली विश्वचर्चित कलाकार मध्यका एक हुन् । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 376,
+    "text_length_max": 376,
+    "text_length_avg": 376.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.969,
+      "Latin": 0.031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 939,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.969,
+      "Latin": 0.031
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37588.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37588.txt",
+    "relative_path": "37588.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37588.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 939,
+    "mtime": 1782796571.1341946,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "51b2aec65a604fe95a0c969047ab38fd63c25b27",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

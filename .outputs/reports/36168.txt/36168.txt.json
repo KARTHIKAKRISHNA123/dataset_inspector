@@ -1,0 +1,92 @@
+{
+  "dataset": "36168.txt",
+  "file_name": "36168.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जगदम्बाश्री पुरस्कार नेपालको एउटा प्रतिष्ठित साहित्यिक पुरस्कार हो । यो पुरस्कार मदन पुरस्कार गुठीले प्रदान गर्दछ। गुठीकी संस्थापिका रानी जगदम्बाकुमारीदेवी राणाको 2045",
+    "साल साउन 29 गते निधन भएपछि गुठीकी संस्थापिकाको स्मृतिलाई चिरस्थायी राख्ने उद्देश्यले निधनको 45 औँ दिन जगदम्बाश्री पुरस्कार विधिवत् स्थापना गरिएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 150,
+    "text_length_max": 583,
+    "text_length_avg": 330.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4405,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36168.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36168.txt",
+    "relative_path": "36168.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36168.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4405,
+    "mtime": 1782796564.0988564,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "637ad05e34f57b8883117959f5ea2cbe2c614abb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

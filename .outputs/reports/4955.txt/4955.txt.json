@@ -1,0 +1,91 @@
+{
+  "dataset": "4955.txt",
+  "file_name": "4955.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डाउन सिन्ड्रोम भनेको जन्मजात उपचार नहुने क्रोमोसोम असामान्यता हो । यो अवस्था क्रोमोसोम-21 मा एउटा अतिरिक्त क्रोमोसोमको पूरा वा सानो अंश जोडिएको कारणले हुन्छ । यसलाई ट्राइसोमी-21 पनि भनिन्छ । सामान्य व्यक्तिमा 46 क्रोमोसोम हुन्छ भने डाउन सिन्ड्रोम भएकामा 47 क्रोमोसोम हुन्छ । यो क्रोमोसोम असामान्यता साधारणतया अधिकांश देखिने मध्ये हो र बौध्दिक अपाङ्गताको कारण पनि हो ।यो संज्ञान क्षमता र शारीरिक विकासको ढिलाई र अनुहारको आकारको विशिष्ट समूहसँग जोडिएको हुन्छ । सन् 1866 मा ब्रिटिस चिकित्सक जोन ल्याङडन "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 610,
+    "text_length_max": 610,
+    "text_length_avg": 610.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1615,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4955.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4955.txt",
+    "relative_path": "4955.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4955.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1615,
+    "mtime": 1782796582.18376,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "555e8fe6df0e2da03234e6dbe05e3e5c8ebd2d2e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

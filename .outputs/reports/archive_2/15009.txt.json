@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15009.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "शान्तनु महाभारतका एक प्रमुख पात्र छन्। ती हस्तिनापुरका महाराज प्रतीपका पुत्र थिए। तिनको विवाह गङ्गासँग भएको थियो। गङ्गाबाट उनको देवव्रत नामको पुत्र भयो। यही देवव्रत पछि गएर महाभारतका प्रमुख पात्र भीष्मका नामले परिचित भए। शान्तनुको अर्को विवाह निषाद कन्या सत्यवतीसँग भएको थियो। यस विवाहलाई गराउनका लागि नै देवव्रतले शाही अधिकार त्यागी ब्रह्मचारी बस्ने भीष्म प्रतिज्ञा गरेका थिए, जसका कारण तिनको नाम भीष्म रहन गयो। सत्यवतीका चित्राङ्गद र विचित्रवीर्य नामक दुइ छोरा भए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 466,
+    "text_length_avg": 280.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1513,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15009.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15009.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15009.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1513,
+    "mtime": 1782796616.5772483,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bfdeadbe2fc02ca662f109dfdd00064a71ed8dc7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

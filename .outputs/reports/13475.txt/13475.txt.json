@@ -1,0 +1,92 @@
+{
+  "dataset": "13475.txt",
+  "file_name": "13475.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भक्ति शर्मा, एक भारतीय पौडी खेल्ने महिला हुन् । उनलाई 14 जनवरी, 2015 मा अन्टार्कटिका महासागरमा एक डिग्री सेल्सियस तापमानमा 1.4 मील को दुरी 52 मिनटमा पौडी खेलेर विश्व रिकार्ड बनाउने गौरव हासिल छ । यो उपलब्धि हासिल गर्ने उनी विश्वको सबभन्दा कम उमेरको युवा तथा प्रथम एसियाई महिला हुन् । उनलाई वर्ष-2011 मा तेनजिंग नोर्गे राष्ट्रीय साहसिक पुरस्कार बाट सम्मानित गरिएको थियो ।",
+    "भक्तिको जन्म मुम्बई मा भयो र उदयपुर, राजस्थानमा लालनपालन । उनले सिम्बायोसिस अंतर्राष्ट्रीय विश्वविद्यालय बाट संचारमा प्रबन्धनमा मास्टर डिग्री सम्मको शिक्षा प्राप्त गरेकी छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 176,
+    "text_length_max": 370,
+    "text_length_avg": 273.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1428,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13475.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13475.txt",
+    "relative_path": "13475.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13475.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1428,
+    "mtime": 1782796458.7419932,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "193814653721d3123f14bff6ebac7e6b930c91ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

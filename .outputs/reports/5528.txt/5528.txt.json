@@ -1,0 +1,94 @@
+{
+  "dataset": "5528.txt",
+  "file_name": "5528.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अनेकौं दर्शन शास्त्र र धर्म शास्त्रहरू अनुसार आत्मा जीवनको एउटा अंग हो। मानव प्राणी जुन अलौकिक छन्,को मृत्यु पश्चात पनि आत्माको मृत्यु हुँदैन। विज्ञानले आज सम्म यस बारे केही पनि पतो लगाउन सकेको छैन, किन भनें आत्माको जाँचको लागि कुनै पनि नियन्त्रण मार्ग छैन। मृत्यु पश्चात के हुन्छ? भन्ने बारेमा धेरै प्रकारका अनेकौं मान्छेहरूका आफ्नो आफ्नो विचारहरू छन्। धेरै नास्तिकहरू भन्छन् आत्मा जस्तो कुनै वस्तु छैन, र ब्यक्तिको एकमात्र हिस्सा शरीर मात्र हो।",
+    "आत्माको बारेमा श्रीमद्भगवद गीताममा यसो भनिएको छ; किन व्यर्थ चिन्ता गर्छौ? को सग व्यर्थ डराउछौ? कसले तिमीलाई मार्न सक्छ ? आत्मा न पैदा हुन्छ, न त मारिन्छ नै ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 117,
+    "text_length_max": 446,
+    "text_length_avg": 240.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9054,
+      "Latin": 0.0946
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1796,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9054,
+      "Latin": 0.0946
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5528.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5528.txt",
+    "relative_path": "5528.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5528.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1796,
+    "mtime": 1782796585.4911897,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2f5e214f1b21ae5103701f7734a6adeb9d6201cd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

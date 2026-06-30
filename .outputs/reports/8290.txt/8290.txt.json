@@ -1,0 +1,91 @@
+{
+  "dataset": "8290.txt",
+  "file_name": "8290.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्जेन्टिना राष्ट्रिय फुटबल टिम सेलेक्सीयोन डे फुटबल डे आर्हेन्टीना अन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा अर्जेन्टिनाको प्रतिनिधित्व गर्ने गर्छ । अर्जेन्टिनाले 1978 फिफा विश्वकप र 1986 फिफा विश्वकप गरि दुईवटा विश्वकपको उपाधि जितिसकेको छ भने 1930 फिफा विश्वकप, 1990 फिफा विश्वकप र 2014 फिफा विश्वकपको उप-विजेता राष्ट्र रहेको थियो । अर्जेन्टिना फुटबल टिमको लागि विश्व फुटबलको इतिहासमा प्रसिद्धि पाएका फुटबल खेलाडीहरू डिएगो म्याराडोना, ग्याब्रिएल बाटिस्टुटा, लियोनेल मेस्सीले आफ्नो योगदान दिएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 498,
+    "text_length_max": 498,
+    "text_length_avg": 498.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1311,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8290.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8290.txt",
+    "relative_path": "8290.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8290.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1311,
+    "mtime": 1782796598.576537,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "70381d6930f105efd3d14c8c756c32e6d6b34642",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

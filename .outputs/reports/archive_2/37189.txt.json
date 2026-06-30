@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37189.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " राजनीति पोर्टल",
+    "नेपालको सङ्घीय संसद सङ्घीय गणतन्त्र नेपालको सर्वोच्च व्यवस्थापकीय निकाय हो । नेपालको सङ्घीय संसदमा राष्ट्रपति तथा दुई सदन- प्रतिनिधि सभा तथा राष्ट्रिय सभा हुने गर्छन् । नेपालको संविधान अनुसार राष्ट्रपतिसँग संसदको दुई अथवा कुनै पनि सदनलाई आह्वान गर्न सक्ने तथा स्थगित गर्ने अथवा प्रतिनिधि सभालाई भङ्ग गर्ने शक्ति हुन्छ । नेपालको वर्तमान नेपालको व्यवस्थापिका संसदको अवधि वि.सं. 2074 माघ 7 मा पुरा हुनेछ । सन् 2002 को मे महिनामा प्रतिनिधि सभाको नयाँ निर्वाचन गराउनका लागि पूर्व राजा ज्ञानेन्द्र शाहको सल"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 922,
+    "text_length_avg": 468.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2463,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37189.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37189.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37189.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2463,
+    "mtime": 1782796660.681865,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6eb033c0fa209b1af93a213dcb8fc0387fda9226",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

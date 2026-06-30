@@ -1,0 +1,91 @@
+{
+  "dataset": "26307.txt",
+  "file_name": "26307.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनआन्दोलन 2062/63 को जगमा भएको निर्वाचनबाट गठित संविधानसभाको पहिलो बैठकले 2065 जेठ 15 गते नेपाललाई सङ्घीय लोकतान्त्रिक गणतन्त्र घोषणा गरेको थियो । 238 वर्ष लामो शाह वंश राजपरम्पराको अन्त्यको घोषणा भएको उक्त दिनलाई प्रत्येक वर्ष गणतन्त्र दिवसका रुपमा मनाउन थालिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 267,
+    "text_length_max": 267,
+    "text_length_avg": 267.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 688,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26307.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26307.txt",
+    "relative_path": "26307.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26307.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 688,
+    "mtime": 1782796518.525604,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f4d39741d56017fa26a66594fc8303c7d92c3809",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

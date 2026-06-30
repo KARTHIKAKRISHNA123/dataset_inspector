@@ -1,0 +1,92 @@
+{
+  "dataset": "22202.txt",
+  "file_name": "22202.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल शसस्त्र वन रक्षक वि.सं. 1987 मा गठन भएको नेपाली सेना पछिको दोस्रो पुरानो तथा वन र वन्यजन्तुहरूको सुरक्षा गर्ने फौज हो ।",
+    "77 वर्षको इतिहास बोकेको यो फौज नेपालको नेपाली सेना पछिको दोस्रो पुरानो फौज हो । चितवनको गैंडा संरक्षणका लागि राणाकालमै वि.सं. 1987 मा सशस्त्र वनरक्षकनामक छुट्टै फोर्सको गठन भएको थियो । यसलाई शुरुमा गैंडा गस्ती टोली भनिन्थ्यो । सुरुमा 205 जनाको दरबन्दी रहेको यो फोर्सको जम्मा दरबन्दी भने 15 हजार 82 जनाको छ। यससँग 8 हजार 32 नाल हतियार छन् जसमध्ये अधिकांश थ्रीनट थ्री राइफल छन् । 48 बोरका बन्दुक 22 वटा र 35 बोरका बन्दुक 30 वटा रहेको बताइएको छ। एक दर्जनजति हतियार भने संकटकालमा माओवादीले कब्जा गरेका थि"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 125,
+    "text_length_max": 638,
+    "text_length_avg": 433.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6868,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22202.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22202.txt",
+    "relative_path": "22202.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22202.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6868,
+    "mtime": 1782796499.7545743,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "035289a92550e7272fdc3448b3267adbc88f115c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

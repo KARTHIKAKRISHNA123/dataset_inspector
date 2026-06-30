@@ -1,0 +1,94 @@
+{
+  "dataset": "24205.txt",
+  "file_name": "24205.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लिनक्स युनिक्स जस्तै लिनक्स कर्नेल प्रयोग गर्ने कम्प्युटर सञ्चालन प्रणालीलाई दिने नाम हो। लिनक्स खुला तथा स्वतन्त्र सफ्टवेयरमध्यको अभूतपूर्ण उदाहरण हो। लिनक्स अथवा जिएनयु/लिनक्स कम्प्यूटरकोलागि एयुटा free and open source software, operating system हो। Free and Open Source Software भनेको स्वतन्त्र तथा खुल्ला स्रोत सफ्टवेर हो। यसमा \"free\" भनेको निसुल्क होइन स्वतन्त्रतापूर्वक प्रयोग हो। लिनक्स एउटा कम्प्युटर सञ्चालन प्रणाली हो। लिनक्सलाई मोबाईल फोन, ट्याब्लेट कम्प्युटर, भिडियो गेम कन्सोल, मेनफ्रेम ",
+    "खुला तथा स्वतन्त्र भएका कारण लिनक्स तथा अन्य सफ्टवेयरहरू सित्तैमा पाइन्छ । यी सफ्टवेयरहरूलाई इन्टरनेटबाट कुनै शुल्कविना डाउनलोड गरी प्रयोग गर्न सकिन्छ । त्यस्तै यी सफ्टवेयरहरूको चाहेजति प्रतिलिपि बनाउन सकिन्छ, जुन सुविधा माइक्रोसफ्ट विन्डोज जस्ता सफ्टवेयरमा छैन । लिनक्सको स्रोत खुला भएका कारण यसलाई आफूले चाहेजस्तै परिवर्तन गरी चलाउन सकिन्छ । लिनक्स तथा अन्य खुला तथा स्वतन्त्र सफ्टवेयरले खुला file format हरू प्रयोग गर्ने गर्दछन्, जसले गर्दा कुनै फाइल खोल्नका लागि एउटै सफ्टवेयरमा बाँधिएर बस्नु पर्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 593,
+    "text_length_max": 1023,
+    "text_length_avg": 808.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9256,
+      "Latin": 0.0744
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4156,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9256,
+      "Latin": 0.0744
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24205.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24205.txt",
+    "relative_path": "24205.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24205.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4156,
+    "mtime": 1782796508.6896281,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5c8d07bdec8bb2b027779aff1830a2e6c4d2ce46",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

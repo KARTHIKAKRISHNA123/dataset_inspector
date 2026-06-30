@@ -1,0 +1,88 @@
+{
+  "dataset": "4543.txt",
+  "file_name": "4543.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Unknown",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " •1 •2 •3 •4 •5 •6 •7 •8 •9 •10 •11 •12 •13 •14 •15 •16 •17 •18 •19 •20 •21 •22 •23 •24 •25 •26 •27 •28 •29",
+    " •1 •2 •3 •4 •5 •6 •7 •8 •9 •10 •11 •12 •13 •14 •15 •16 •17 •18 •19 •20 •21 •22 •23 •24 •25 •26 •27 •28 •29 •30 •31"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 115,
+    "text_length_avg": 108.67,
+    "duplicate_estimate": 8,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {},
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2022,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Unknown",
+    "confidence": 0.2,
+    "reasoning": "no language field, no translation columns, no scripted text observed",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": null,
+    "script_distribution": {},
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.0
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4543.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4543.txt",
+    "relative_path": "4543.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4543.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2022,
+    "mtime": 1782796580.1598742,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3829e432356e712ff0524907f488dc2cbbf7988c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

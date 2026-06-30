@@ -1,0 +1,92 @@
+{
+  "dataset": "12779.txt",
+  "file_name": "12779.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूर्यग्रहण एक प्रकारको ग्रहण हो जब चन्द्रमा, पृथ्वी र सूर्यको बीचबाट जान्छ तथा पृथ्वीबाट हेर्दा सूर्य पूर्ण अथवा आंशिक रूपमा चन्द्रमाद्वारा छेकिन्छ । भौतिक विज्ञानको दृष्टिले हेर्दा यदि सूर्य र पृथ्वीको बीचमा चन्द्रमा आउँछ भने चन्द्रमाको पछाडि सूर्यका किरणहरू केही समयका लागि छेकिन्छन, त्यसै अवस्थालाई सूर्यग्रहण भनिन्छ। पृथ्वीले सूर्यको परिक्रमा गर्छ भने चन्द्रमाले पृथ्वीको परिक्रमा गर्छ । कहिले काहीँ चन्द्रमा, सूर्य र पृथ्वीको बीचमा आउँछ। त्यसबेला सूर्यको केही या सबै प्रकाश छेक्दछ । जसले गर्दा ध",
+    "धेरै जसो चन्द्रमाले सूर्यको केही भागलाई मात्र छेक्दछ । यो स्थितिलाई खण्डग्रास-ग्रहण भनिन्छ । कहिले कहीँ मात्र चन्द्रमाले सूर्यलाई पूरा छेक्दछ । यसलाई पूर्ण-ग्रहण अथवा खग्रास ग्रहण भनिन्छ । पूर्ण-ग्रहण धर्तीको धेरै कम क्षेत्रमा मात्र देख्न सकिन्छ । अधिकतम दुई सय पचास किलोमीटरको सम्पर्कमा मात्र पूर्ण ग्रहण देख्न सकिन्छ । यस क्षेत्र भन्दा बाहिर खण्डग्रास-ग्रहण मात्र देखिन्छ । पूर्ण-ग्रहणको समयमा चन्द्रमालाई सूर्यको अगाडिबाट जानमा दुई घण्टाको समय लाग्दछ । चन्द्रमाले सूर्यलाई अधिकतम, सात मिनटसम्म पुर"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 1267,
+    "text_length_avg": 516.61,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24739,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12779.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12779.txt",
+    "relative_path": "12779.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12779.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24739,
+    "mtime": 1782796455.6484642,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c127a556395ccdaaf1376d144efb7e390717850b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

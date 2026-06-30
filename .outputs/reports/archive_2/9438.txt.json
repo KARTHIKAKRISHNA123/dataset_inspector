@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9438.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारत सरकार, जो आधिकारिक रूपमा संघीय सरकार अनि केन्द्रीय सरकारको नामले जानिन्छ, 28 राज्यहरू तथा सात केन्द्र शासित प्रदेशहरूको संघीय एकाई जो संयुक्त रूपले भारतीय गणराज्य भनिन्छ, भारतीय संविधानद्नारा स्थापित भारत सरकार नयाँ दिल्ली, दिल्लीबाट कार्य सञ्चालन गरिन्छ.",
+    "भारतका नागरिकहरूसित संबंधित बुनियादी दीवानी र फौजदारी कानुन जस्ता नागरिक प्रक्रिया संहिता, भारतीय दंड संहिता, अपराध प्रक्रिया संहिता, आदि मुख्यतः संसदद्नारा बनाइन्छ. संघ र प्रत्येक राज्य सरकार तीन वटै अंगहरू कार्यपालिका, विधायिका अनि न्यायपालिकाका अन्तर्गत काम गर्दछ। संघीय र राज्य सरकारहरूमाथिर लागू कानुनी प्रणाली मुख्यतः अङ्ग्रेजी साझा र वैधानिक कानुनमा आधारित छ। . भारत केही अपवादहरूका साथ अन्तरराष्ट्रिय न्यायालयको न्याय अधिकारितालाई स्वीकार गर्छ। स्थानीय स्तरमा पंचायती राज प्रणालीद्वारा शासनको"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 105,
+    "text_length_max": 524,
+    "text_length_avg": 285.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3085,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9438.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9438.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9438.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3085,
+    "mtime": 1782796674.554277,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ffab8ac34e501f3d8c56508d4d3dd966c099be1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

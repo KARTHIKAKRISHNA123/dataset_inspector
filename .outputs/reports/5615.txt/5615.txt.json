@@ -1,0 +1,93 @@
+{
+  "dataset": "5615.txt",
+  "file_name": "5615.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डग जाल्मर अग्ने कार्ल हमरसल्ड i/Dag Hjalmar Agne Karl Hammarskjöld/, एउटा स्वीडेनी अधिकारी, राष्ट्रिय आर्थिक सल्लाहकार, कुटनीतिज्ञ, लेखक, नोबेल पुरस्कार विजेता, स्वीडिस एकेडमीका सदस्य र संयुक्त राष्ट्रका दोश्रो महासचिवको रुपमा आफ्नो सेवा दिएका छन्। उम्मेदवारहरुको एउटा लामो शृंखलापछी जब कुनै प्रतिनिधि छान्न सकिएन त्यस बखत संयुक्त राष्ट्र सुरक्षा परिषद द्वारा ड्याग ह्यामरसोल्डलाई विकल्पको रुपमा छानियो, तर उनी पछी पुन: सन् 1957 मा निर्विरोध छानिए । सोभियत संघ उनको नेतृत्वमा कङ्गो समस्याको दौरान खिन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 771,
+    "text_length_max": 771,
+    "text_length_avg": 771.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9514,
+      "Latin": 0.0486
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1987,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9514,
+      "Latin": 0.0486
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5615.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5615.txt",
+    "relative_path": "5615.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5615.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1987,
+    "mtime": 1782796585.8975806,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b6897f0230656cb51c77bab884aeaac0dc5811f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

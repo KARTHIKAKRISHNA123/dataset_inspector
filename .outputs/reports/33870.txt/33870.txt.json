@@ -1,0 +1,91 @@
+{
+  "dataset": "33870.txt",
+  "file_name": "33870.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फास्ट ट्र्याक काठमाडौंबाट तराई प्रदेश जोड्ने द्रुत मार्गनै फास्ट ट्र्याक हाे । भारतीय कम्पनी आइएल एन्ड एफसीलाई निमार्णाका लागि दिने प्रस्ताव रद्द गर्दै नेपाल सरकार आफैँले निर्माण गर्न गरी नेपाली सेनालाइ यसकाे जिम्मा दिएकाे हाे । नेपाली सेनाकाे व्यवस्थापनमा निर्माण हुने उक्त सडककाे दूरी 76;2 किमी रहनेछ । ललितपुरको खोकनाबाट सुरु भई काठमाडौं, मकवानपुर हुँदै बारा जोडिने गरि उक्त सडक निर्माण गरिदै छ । 2074 जेष्ठ 14 गतेका दिन प्रधानमन्त्री पुष्पकमल दाहालले यसकाे शिलानायास गरेका हुन । यस सडक एक खर्ब 12"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 612,
+    "text_length_max": 612,
+    "text_length_avg": 612.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1614,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33870.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33870.txt",
+    "relative_path": "33870.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33870.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1614,
+    "mtime": 1782796553.6092868,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fc72581df238a1652d071f117537fecfa30e22ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

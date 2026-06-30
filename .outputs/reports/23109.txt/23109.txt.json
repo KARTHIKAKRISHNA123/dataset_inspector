@@ -1,0 +1,92 @@
+{
+  "dataset": "23109.txt",
+  "file_name": "23109.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व सम्पदा समिति ती महत्वपूर्ण स्थलहरूको चयन गर्दछ जसलाई युनेस्कोको विश्व सम्पदा क्षेत्रको रूपमा सूचीवद्ध गर्न सकियोस । यो विश्व सम्पदा सभाको कार्यान्वयनको लागि जिम्मेवार संस्था हो । यस समितिले विश्व धरोहर कोषको प्रयोगलाई परिभाषित गर्नुका साथै राष्ट्र दलहरूको अनुरोधमा वित्तीय सहायताको आवंटन गर्ने गर्दछ । यसको गठन 21 राष्ट्र दलहरू सँग सहकार्यमा हुन्छ, जसको चुनाव राष्ट्र दलहरूको महासभाद्वारा चार वर्षको कार्यकालको लागि हुने गर्छ। ",
+    "विश्व सम्पदा सभाको नियमानुसार समितिको सदस्य राष्ट्रको कार्यकाल 6 वर्षको लागि हुन्छ, तर कतिपय राष्ट्र दल स्वेच्छाले मात्रै चार वर्षको लागि समितिको सदस्य बन्न स्वीकार गर्छन जसले अन्य अर्को राष्ट्र दलहरू पनि यस समितिको सदस्य बन्न मौका पाउन सकोस । उदाहरणको लागि, 15औं महासभा को लागि निर्वाचित सबै सदस्य राष्ट्रले स्वेच्छाले आफ्नो कार्यकाल 6 वर्ष बाट घटाएर 4 वर्ष गर्ने निर्णय गरेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 167,
+    "text_length_max": 433,
+    "text_length_avg": 328.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2630,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23109.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23109.txt",
+    "relative_path": "23109.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23109.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2630,
+    "mtime": 1782796503.7012835,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "0a938c01ed4e60b2123fa6df592d0ea8748259f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

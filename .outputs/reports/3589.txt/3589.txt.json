@@ -1,0 +1,93 @@
+{
+  "dataset": "3589.txt",
+  "file_name": "3589.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साउथह्याम्प्टन फुटबल क्लब /saʊθˈæmptən,_ʔhæmptən/ एक प्रसिद्ध अङ्ग्रेजी फुटबल क्लब हो जुन इङ्गल्याण्डको साउथह्याम्प्टन नगरको ह्याम्पशिरमा स्थित छ । यो क्लबको घरेलु मैदान सेन्ट मेरिज स्टेडियम हो । यो क्लब वर्तमानमा इङ्गलिस प्रिमियर लिग खेल्ने गर्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 248,
+    "text_length_max": 248,
+    "text_length_avg": 248.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.936,
+      "Latin": 0.064
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 638,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.936,
+      "Latin": 0.064
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3589.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3589.txt",
+    "relative_path": "3589.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3589.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 638,
+    "mtime": 1782796562.7627559,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "e9c5c00ee290de818b9ac04d763dcdab0a3e23d8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "9710.txt",
+  "file_name": "9710.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कमलामाई नगरपालिका नेपालको मध्यमाञ्चल विकास क्षेत्रको जनकपुर अञ्चल, सिन्धुली जिल्लामा अवस्थित छ। कमला उपत्यकाको सिन्धुली माढीमा अवस्थीत कमलामाई सिन्धुली जिल्लाको सदरमुकाम हो । यो नगरपालिकाको स्थापना विसं 2053 सालमा भएको हो । पहिलेका सिद्धेश्वर र भिमान दुई गाविस समेटेर यो नगरपालिका बनेको हो । यसको पूर्वमा रानिचुरी, रानिबास, भिमस्थान र बेलघारी गाविसहरू पर्दछन् भने पश्चिममा डाँडिगुराँसे र भद्रकाली गाविसहरू छन् । उत्तरमा रतनचुरा र भद्रकाली गाविसहरू पर्दछन् भने दक्षिणमा सर्लाही, महोत्तरी र धनुषा जिल्ल",
+    "नगरपालिकाको कूल जनसङ्ख्या 32838 रहेको छ । त्यस मध्ये 16450 महिला र 16388 पुरुष रहेका छन् । कूल जनसङ्ख्या मध्ये 44% साक्षर भने 56% निरक्षर छन् । निरक्षर जनसङ्ख्या मध्ये 42% पुरुष र 58% महिला रहेका छन् । नगरपालिकाको औसत वाषिर्क जनसङ्ख्या वृद्धि दर 2% रहेको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 263,
+    "text_length_max": 1086,
+    "text_length_avg": 748.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7792,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9710.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9710.txt",
+    "relative_path": "9710.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9710.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7792,
+    "mtime": 1782796605.3448591,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "143577159f6fce0d9ac5559987d991b464c6de1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "20725.txt",
+  "file_name": "20725.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनकपुरका सञ्चार व्यवसायी अरुण सिंघानियाको जन्म सन् 1961 अगस्ट 23मा भएको हो। उनी मारवाडी सेवा समिति जनकपुरका अध्यक्ष थिए। उनी जनकपुरबाट प्रकाशित हुने जनकपुर टुडे र एफएम रेडियो टुडेका अध्यक्ष थिए।उनका एक छोरा, एक छोरी र श्रीमती छन्। उनको सन् 2010 मार्च 1मा जनकपुरमा हत्या भयो। सिंघानिया राज्यमा मारिएका पत्रकार तथा सञ्चार उद्यमीमध्ये 31 औं व्यक्ति हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 351,
+    "text_length_max": 351,
+    "text_length_avg": 351.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 914,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20725.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20725.txt",
+    "relative_path": "20725.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20725.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 914,
+    "mtime": 1782796493.0529597,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "e3fd6128a67f3e3cacb2d7d50f7bb08022e658e2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

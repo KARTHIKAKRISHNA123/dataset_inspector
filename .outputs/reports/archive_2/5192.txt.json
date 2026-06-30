@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5192.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महिला, बालबालिका तथा जेष्ठ नागरिक मन्त्रालय",
+    "महिला, बालबालिका तथा जेष्ठ नागरिक मन्त्रालय नेपाल सरकारको मन्त्रालय हो जुन महिला, बाल बालिका, जेष्ठ नागरिक, अपाङ्ग एवं अनाथहरूको हित र समाज कल्याण सम्बन्धी कार्य गर्न आबश्यक राष्ट्रिय नीति, योजना र कार्यक्रम तयार गरी सम्वन्धित सबै निकायसँग समन्वय राखी कार्यान्वयन गर्ने गराउने उद्देश्य सहित बि.सं. 2052 मा स्थापना भएको हो। सुरूमा यसको नाम महिला तथा समाज कल्याण मन्त्रालय थियो। तर वि.सं. 2057 सालमा महिला, बालबालिका तथा समाज कल्याण मन्त्रालय नाममा नामाकरण गरिएको हो। पछि वि.सं. 2075 सालमा महिला, बालबा"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 557,
+    "text_length_avg": 152.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9596,
+      "Latin": 0.0404
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2301,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9596,
+      "Latin": 0.0404
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5192.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5192.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5192.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2301,
+    "mtime": 1782796666.0318558,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "edc70087893e1170959f7e3ffb50b3ad6ee16f67",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

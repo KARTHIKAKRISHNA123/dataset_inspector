@@ -1,0 +1,91 @@
+{
+  "dataset": "37345.txt",
+  "file_name": "37345.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै आकाशीय पिण्ड पृथ्वीतिर नजिकिँँदै छ वा पृथ्वीबाट टाढिँदैछ भन्ने पत्ता लगाउन खगोलविद्हरू ती पिण्डबाट निस्कने प्रकाशको रंगको वैज्ञानिक परीक्षण गर्ने गर्छन्। कुनै पिण्ड पृथ्वीबाट टाढिँदै जाँदा पृथ्वीबाट हेर्दा ती पिण्डबाट निस्कने प्रकाशमा रातोपनको मात्रा बढी हुने गर्छ। यस खगोलीय प्रक्रियालाई वैज्ञानिक भाषामा 'रेडसिफ्ट' भन्ने गरिन्छ। सन् 1920 को दशकमा एडविन हबल र उनका सहकर्र्मीले धेरैजसो आकाशगंगा ले यस प्रकारको 'रेडसिफ्ट' प्रक्रिया प्रदर्शन गर्ने गरेको पाएका थिए। उनीहरूका अनुसार 'रेडसिफ्ट'को मात"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 672,
+    "text_length_max": 672,
+    "text_length_avg": 672.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1808,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37345.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37345.txt",
+    "relative_path": "37345.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37345.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1808,
+    "mtime": 1782796569.7548547,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46b81012e4b8744de493cd0617790468c6e27702",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

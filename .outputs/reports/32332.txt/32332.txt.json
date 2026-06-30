@@ -1,0 +1,96 @@
+{
+  "dataset": "32332.txt",
+  "file_name": "32332.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नगरकुरनूल भारतका सहरहरू मध्येको एउटा सहर हो। ",
+    "Govt. Junior College, Nagarkurnool"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 45,
+    "text_length_avg": 36.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5914,
+      "Devanagari": 0.4086
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 191,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.5914,
+      "Devanagari": 0.4086
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32332.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32332.txt",
+    "relative_path": "32332.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32332.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 191,
+    "mtime": 1782796546.6209695,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "649f06fb52d7f0b814e7d9fe4ad19a2581ec220d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36695.txt",
+  "file_name": "36695.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चण्डीगढ, भारतको एउटा केन्द्र शासित प्रदेश हो, जुन दुई भारतको राज्य, पञ्जाब र हरियाणाको राजधानी पनि हो । यसको नामको अर्थ हो चण्डीको किला । यो हिन्दू देवी दुर्गाको एउटा रूप चण्डिका वा चण्डीको एउटा प्रसिद्ध मन्दिरको कारण राखिएको हो । यो मन्दिर अझै पनि यस सहरमा अवस्थित छ । यस सहरलाई सिटी अफ ब्यूटीफुल पनि भनिने गरिन्छ । चण्डीगढ राजधानी क्षेत्रमा मोहाली, पन्चकुला र जीरकपुर आउछन्, जसको सन् 2001 को जनगणना अनुसार जनसङ्ख्या 11,65,111 रहेको छ । भारतको लोकसभामा प्रतिनिधित्व गर्नका लागि एउटा सिट आरक्षित गरिए",
+    "अन्तर्राष्ट्रिय स्तरमा सहरी योजनाबद्धता र वास्तु-स्थापत्यको लागि प्रसिद्ध यस सहर आधुनिक भारतको प्रथम योजनाबद्ध सहर हो । चण्डीगढ सहरको मुख्य वास्तुकार फ्रान्सेली वास्तुकार ली कार्बूजियर हुन् । यस सहरलाई भारतको समृद्ध राज्यहरू र संघ शसित प्रदेसहरूको सूचीमा अग्रणी नाम आउछ, जसको प्रति व्यक्ति आय 99,262 रु तथा स्थिर मूल्य अनुसार 70,361 रु रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 597,
+    "text_length_avg": 178.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4227,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36695.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36695.txt",
+    "relative_path": "36695.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36695.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4227,
+    "mtime": 1782796566.6076057,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c42b4d5709002400d6d7467430ea571da8d17ec3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "23703.txt",
+  "file_name": "23703.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समाचारपाटी डटकम पोखराबाट संचालित राष्ट्रिय स्तरको एक अनलाईन खबर पत्रिका हो । यस समाचारपाटीको स्थापना पत्रकार प्रल्हाद चन्द्र घिमिरेले गरेका हुन् । समाचारपाटी डटकममा पोखराको ताजा समाचार, राजनीति, समाज, बिजनेस, खेलकुद, प्रवास, बिचार/ब्लग आदि समाचार पढ्न र हेर्न पाइन्छ । समाचारपाटी पोखराको लोकप्रिय अनलाईन समाचार पत्रिका हो । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 324,
+    "text_length_max": 324,
+    "text_length_avg": 324.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 863,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23703.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23703.txt",
+    "relative_path": "23703.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23703.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 863,
+    "mtime": 1782796506.4072187,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4dd0fea995f50bb083dfc3edfde01c764ec211c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

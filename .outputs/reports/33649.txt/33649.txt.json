@@ -1,0 +1,92 @@
+{
+  "dataset": "33649.txt",
+  "file_name": "33649.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " राममान तृषितको खास नाम डा. राममान श्रेष्ठ हो। नेपाली साहित्यमाका राममान तृषित नामले स्थापित र प्रिय रहिआएका थिए। उनको जन्म विस 1997 माघमा काठमाडौंको ओमबहालमा भएको थियो।",
+    "खासगरी कविता, गजल, मुक्तक, भजन र गीत रचनाको क्षेत्रमा आजीवन सक्रिय उनका 13 वटा विभिन्न साहित्यिक कृतिहरू प्रकाशित छन्। उनीद्वारा रचित 172 वटा गीतहरू रेकर्ड भएका छन। 'मान्छेको माया यहाँ खोलाको पानी जस्तो, किनारालाई छोई भाग्ने लहरेको बानी जस्तो..', मैले पुण्य मन पराएँ या पाप मन पराएँ, जे होस मैले तिमीलाई चुपचाप मनपराएँ' आदि चर्चित गीतका रचनाकार तृषितका कविता, मुक्तक र निबन्धका एक दर्जनभन्दा बढी कृति प्रकाशित छन। वि.सं 2041 सालमा प्रबल गोरखा दक्षिण बाहु, छिन्नलता पुरस्कार, व्यथित काव्य पुरस्कार, ना"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 169,
+    "text_length_max": 829,
+    "text_length_avg": 499.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2613,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33649.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33649.txt",
+    "relative_path": "33649.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33649.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2613,
+    "mtime": 1782796552.530652,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "23b414054bd88ec4c4a22a818716f63336b1dad2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

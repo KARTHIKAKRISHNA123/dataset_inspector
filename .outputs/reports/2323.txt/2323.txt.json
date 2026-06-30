@@ -1,0 +1,94 @@
+{
+  "dataset": "2323.txt",
+  "file_name": "2323.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रणबहादुर शाह नेपालका शाहबंशीय राजा थिए। राजा प्रताप सिँह शाहको देहान्तपछि उनका अढाई वर्षका बालक छोरा रणबहादुर शाह नेपालको राजा भए। उनकी माता राजेन्द्रलक्ष्मीले अभिभावकका रूपमा नयाबी पद ग्रहण गरेर शासनको वागडोर हातमा लिइन्। रणबहादुर शाहलाई इतिहासकारहरूले अविवेकी, हतार गर्ने स्वभावका, सत्य असत्य छुट्टयाउने विवेक नभएका, अदूरदर्शी भनी टिप्पणी गरेका छन्। तर जीवनको उत्तरार्द्धमा यिनमा राजनीतिक व्यवहार विकसित भएको थियो। 1863 साल वैशाख महिनामा शेरबहादुर शाहले हानेको खुकुरीको चोटबाट यिनको मृत्यु भयो।",
+    "बडा महाराजाधिराज पृथ्वीनारायण शाह का नाती तथा राजा प्रताप सिँह शाह का छोरा राजा रण बहादुर शाह सानैमा नेपालको राजा भएका थिए भने अत्यन्तै सन्की स्वभावका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 648,
+    "text_length_avg": 312.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9815,
+      "Latin": 0.0185
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7374,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9815,
+      "Latin": 0.0185
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2323.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2323.txt",
+    "relative_path": "2323.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2323.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7374,
+    "mtime": 1782796504.2301712,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b8ecbe452f2d39ccfae110b5f27c67c3255d418d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

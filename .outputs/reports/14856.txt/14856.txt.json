@@ -1,0 +1,92 @@
+{
+  "dataset": "14856.txt",
+  "file_name": "14856.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्री शिव पञ्चाक्षर स्तोत्र एउटा संस्कृत स्तोत्र हो । यो स्तोत्रका रचयिता श्री आदि शंकराचार्य महान् शिवभक्त अद्वैतवादी एवं धर्मचक्रप्रवर्तक हुनुहुन्थ्यो । उहाँलाई भगवान् शिवकै अवतार मानिन्छ । ",
+    "स्तोत्र "
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 191,
+    "text_length_avg": 59.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2435,
+    "estimated_records": 41
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 41,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14856.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14856.txt",
+    "relative_path": "14856.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14856.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2435,
+    "mtime": 1782796464.967939,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2626efa957c887b6ab1b9b4bf27d38f8383f7781",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

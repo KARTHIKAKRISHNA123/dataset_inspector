@@ -1,0 +1,92 @@
+{
+  "dataset": "36107.txt",
+  "file_name": "36107.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 डिसेम्बर देखि 2016 जनवरी सम्मश्रीलङ्काले न्युजिल्यान्डको भ्रमण गरेको छ । यस भ्रमणमा रहदा 2 टेस्ट, 5 एकदिवसीय अन्तर्राष्ट्रिय र 2 टि20 अन्तर्राष्ट्रिय खेल खेलेको छ ।",
+    "न्युजिल्यान्डले टेस्ट शृङ्खला 2-0, एकदिवसीय अन्तर्राष्ट्रिय शृङ्खला 3-1 र टि20 अन्तर्राष्ट्रिय शृङ्खला 2-0 ले जित्यो ।टि20 अन्तर्राष्ट्रियमा पराजित भए सँगै श्रीलङ्काले टि20 वरियताक्रममा प्रथम स्थान 16 महिना पछि गुमाउन पुगेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 697,
+    "text_length_avg": 170.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3581,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36107.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36107.txt",
+    "relative_path": "36107.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36107.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3581,
+    "mtime": 1782796563.8324487,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "42fa23ebee497a82e760d4a744dd3e733714f039",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

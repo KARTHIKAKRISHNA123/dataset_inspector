@@ -1,0 +1,91 @@
+{
+  "dataset": "12852.txt",
+  "file_name": "12852.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चित्रकुट नेपाल लगायतका दक्षिण तथा पूर्वी एसियामा पाइने एक प्रकारको चराको प्रजाति हो । यसको लम्बाई लगभग 25 सेन्टिमिटर तथा तौल 50 देखि 60 ग्रामसम्म हुन्छ । यसको तिखो आवाजबाट यसलाई पहिचान गर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 198,
+    "text_length_max": 198,
+    "text_length_avg": 198.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 515,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12852.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12852.txt",
+    "relative_path": "12852.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12852.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 515,
+    "mtime": 1782796456.0129101,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "436bf12412ff50629ba25847a5413bd50ac9c090",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

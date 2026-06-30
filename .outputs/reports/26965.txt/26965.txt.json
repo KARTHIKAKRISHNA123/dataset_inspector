@@ -1,0 +1,94 @@
+{
+  "dataset": "26965.txt",
+  "file_name": "26965.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "{{Infobox football match| title       = 1999 UEFA Super Cup| image       = | team1       = Manchester United F.C.| team1association  = | team1score     = 0| team2       = S.S. Lazio| team2association  = | team2score     = 1| details      = | date        = 27 August 1999| stadium      = Stade Louis II| city        = Monaco| man_of_the_match1a = Juan Sebastián Verón | referee      = Ryszard Wójcik | attendance     = 14,461| weather      = | previous      = | next        = 2000",
+    "}}"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 479,
+    "text_length_avg": 240.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 486,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26965.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26965.txt",
+    "relative_path": "26965.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26965.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 486,
+    "mtime": 1782796521.5329401,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6c246a49403213001982a56b5e93cb4e3e5b373e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

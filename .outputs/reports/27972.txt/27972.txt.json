@@ -1,0 +1,96 @@
+{
+  "dataset": "27972.txt",
+  "file_name": "27972.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "See List of Rosa species",
+    "गुलाव एउटा फूलको प्रजाति हो। यो फूल विश्वकै प्रसिद्ध फूल हो। यो फूललाई प्रेमको प्रतिक पनि मानिन्छ, प्रेम दिवसमा आफ्नो प्रेमी/प्रेमिकालाई गुलाफ दिएर प्रेम व्यक्त गरिन्छ |"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 169,
+    "text_length_avg": 33.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.6533,
+      "Devanagari": 0.3467
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 974,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.6533,
+      "Devanagari": 0.3467
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27972.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27972.txt",
+    "relative_path": "27972.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27972.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 974,
+    "mtime": 1782796526.0412722,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "bd82483508fcc08eb17656ef524da3675360de81",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

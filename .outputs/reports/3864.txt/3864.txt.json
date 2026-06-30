@@ -1,0 +1,92 @@
+{
+  "dataset": "3864.txt",
+  "file_name": "3864.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ललिता सहरावत एक भारतीय महिला पहलवान हुन्, उनीले 2014म ग्लासगो कामनवेल्थ गेम्समा 53 किलोग्राम भार वर्ग कुश्तीमा भारतको पहलवान ललिता सहरावतले सिल्वर मेडल जितिन्। ",
+    "20 वर्षीय ललिता सहरावतले 9 सालको उमेरबाट नै कुश्तीमा हाथ हाल्न शुरू गरिन्। मूल रूपमा हिसार जिल्लाको गाउँ खरड अलिपुरको हिसारको जवाहर नगरमा बसोबास गर्ने वाली ललिता यो भन्दा आगाडि जूनियर एशियन चेम्पियनशिपमा कांस्य पदक जीत सकेकी छिन्। यसको साथै ललिताले जूनियर वर्गमा नेशनल र इंटरनैशनल लेवलमा दुई दर्जन भन्दा धेरै पदक र कुश्ती दंगल अपने नाम गरेकी छिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 160,
+    "text_length_max": 347,
+    "text_length_avg": 253.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1339,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3864.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3864.txt",
+    "relative_path": "3864.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3864.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1339,
+    "mtime": 1782796576.2421975,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "d0fbf1d3c2b2cf9feb9ed46b93763a14ed99e25e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

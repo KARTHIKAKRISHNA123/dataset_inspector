@@ -1,0 +1,92 @@
+{
+  "dataset": "32556.txt",
+  "file_name": "32556.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "]हिसिला यमी नयाँ शक्ति पार्टी को केन्द्रीय नेता हुनुहुन्छ। उहाँ नेपालको पहिलो संविधानसभामा काठमाडौं क्षेत्र नम्बर 7 बाट एकिकृत नेकपा माओवादीबाट प्रत्यक्ष निर्वाचित सभासद् हुनुहुन्थ्यो। उहाँ पहिलो संविधानसभा निर्वाचन अगाडिको भौतिक योजना मन्त्री हुनुहुन्थ्यो। पछि उहाँले पर्यटन मन्त्रालय पनि सम्हाल्नुभयो । ",
+    "यमी पदमा बहाल रहेकै बेला संविधानसभाको सभासद्मा विजयी हुने मध्ये एक हुनुहुन्छ। यमी विगतमा एकीकृत नेपाल कम्युनिष्ट पार्टी को केन्द्रीय सदस्य हुनुहुन्थ्यो। उहाँले केही समयसम्म प्राध्यापन पनि गर्नुभयो। उहाँ माओवादी निकट महिला संघको केन्द्रीय अध्यक्ष पनि बन्नुभयो। पूर्वमन्त्री धर्मरत्न यमीकी छोरी भएकाले राजनीतिक वातावरणमा हुर्कनुभएकी यमी सानैदेखि नै राजनीतिप्रति रुची थियो। उहाँ 036 देखि मोहनविक्रम सिंहले नेतृत्व गरेको मसालबाट राजनीति यात्रा थाल्नुभएको थियो। यमी 062मा आफ्ना पति डा.बाबुराम भट्टराई, दीन"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 579,
+    "text_length_avg": 269.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3643,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32556.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32556.txt",
+    "relative_path": "32556.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32556.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3643,
+    "mtime": 1782796547.5828142,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ae263c6e7936588902789356f09ae894f3551f4f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

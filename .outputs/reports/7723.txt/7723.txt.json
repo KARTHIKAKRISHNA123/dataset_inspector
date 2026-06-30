@@ -1,0 +1,92 @@
+{
+  "dataset": "7723.txt",
+  "file_name": "7723.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फिजी हिन्दी, जस्लाई फिजियन हिन्दी वा फिजियन हिन्दुस्तानी पनि भन्छन, फिजीमा बोलिने एउटा प्रमुख भाषा हो। यो फिजीको आधिकारिक भाषाहरू मध्य एउटा हो। यो अधिकांशतः भारतीय मूलको फिजीयन मानिसद्वारा बोलिन्छ। यो मुख्यतः हिन्दीको बोली, अवधी र भोजपुरीबाट व्युत्पन्न भएको भाषा हो। जहाँ हिन्दी देवनागरी लिपिमा लेखिन्छ, त्यही फिजी हिन्दी रोमन लिपिमा लेखिन्छ।",
+    "आरम्भमा अङ्ग्रेजहरूद्वारा भारतको उत्तर प्रदेशको पूर्वी जिल्लाहरू तथा बिहारबाट श्रमिक फिजीमा लगिएको थियो। उनीहरू आफ्नो मूल निवास स्थानको हिन्दीको बोली बोल्ने गर्थे। यसलाई तलको सारणीमा दर्शाइयेको छ:"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 342,
+    "text_length_avg": 214.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2279,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7723.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7723.txt",
+    "relative_path": "7723.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7723.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2279,
+    "mtime": 1782796595.8071506,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7316ea5574de733c373ecbb3c10aec3ee450e340",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

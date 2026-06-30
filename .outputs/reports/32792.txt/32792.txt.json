@@ -1,0 +1,94 @@
+{
+  "dataset": "32792.txt",
+  "file_name": "32792.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मकै  ऐतिहासिक अमेरिकाली महाद्दिपमा बिभिन्न प्रकारको घासे बालीको वर्णशंकर स्वरूपमा विकास भएको विश्वास गरिन्छ । यो संसारमा सबै भन्दा धेरै क्षेत्रफलमा लगाईने तथा सबै भन्दा धेरै खपत हुने बालीमा पर्दछ । बहु उपयोगि, यो बाली बाट, बिभिन्न परिकार, तेल, इन्धन, चीनी, रक्सी आदि बनाउने गरिन्छ । धेरै मानिसहरुले उसिनिएका मकै वा पोलिएका मकै खान मन पराउंछन् । यस किसिमका मकै खाएमा स्वास्थ्यका लागि के के फाइदा हुन्छ । मकैमा प्रशस्त्र पोषण तत्व हुन्छ । मकै खाएर मानिसका अनुहारमा हुने चाउरी हटाउन र बुढोपनबाट अलग्ग गर",
+    "विशेषत: नेपालमा मकै भुटेर वा पिठो बनाई ढिंडो बनाई खाइन्छ । नेपालमा मकै अनुसन्धान केन्द्र रामपुर, चितवनमा रेहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 38,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 950,
+    "text_length_avg": 197.97,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9889,
+      "Latin": 0.0111
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19844,
+    "estimated_records": 100
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 100,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9881,
+      "Latin": 0.0119
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32792.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32792.txt",
+    "relative_path": "32792.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32792.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19844,
+    "mtime": 1782796548.6294017,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "331c5a230b7c0b3afe7950145be5b65d71b339d9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "19070.txt",
+  "file_name": "19070.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिंहदेदी निम्न माध्यमिक विद्यालय कनपा 4, टेक्रामा अवस्थित छ । 2040 सालमा स्थापना भएकाे यस विद्यालयमा हाल कक्षा 1 देखि 8 सम्म अध्ययन अध्यापन हुदैछ । झापा जिल्लाकाे नमुना विद्यालयका रूपमा यसले अाफ्नाे प्रतिष्ठा कायम गरेकाे छ । ",
+    "स्थानीय समाजसेवी श्री नरनाथ फुयाल, लेखबहादुर कोइराला तथा अन्य स्थानीय अभिभावकहरूको अगुवाइमा जि.शि.का. झापाबाट श्री सिंहमाई जनमुखी प्रा.वि. नामकरण गरी कक्षा सञ्चालन अनुमति लिई एउटा आँपको रुखमुनि विधिवत कक्षा – 3 सम्मको विद्यालयको सुरुवात 2040 सालमा भयो । केही समय यसरी नै पठन पाठन सुचारु भएपछि श्री नरनाथ फुयालले तत्कालीन अवस्थामा पठन पाठनको जिम्मा लिन शिक्षकको रूपमा श्री लेखबाहादुर कोइराला, श्री डम्बरप्रसाद फुयाल र श्री पुरनकुमार फुयाललाई स्वयंसेवकका रूपमा नियुक्ति गर्नुभयो । आफूले भोगेको 0–5–0 कठ"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 225,
+    "text_length_max": 937,
+    "text_length_avg": 529.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9635,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19070.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19070.txt",
+    "relative_path": "19070.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19070.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9635,
+    "mtime": 1782796485.2697937,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d3de380257f83db3dcea6426f93e053d186433df",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

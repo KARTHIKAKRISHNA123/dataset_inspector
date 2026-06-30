@@ -1,0 +1,92 @@
+{
+  "dataset": "24312.txt",
+  "file_name": "24312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नालापानीको युद्ध नेपालले ब्रिटिश सरकारसँग लडेको पहिलो साहसिक युद्ध थियो जसमा गोर्खाको घर अधीनमा ब्रिटिश इस्ट इन्डिया कम्पनी र नेपाली सेना बीच लडाईं भएको थियो । नेपालको इतिहासमा उल्लेख गरिए अनुसार सन् 1814 अक्टोबर 22 का दिन अङ्ग्रेज सेनानायक जनरल गिलेस्पीले आफ्ना फौज लिएर देहरादून प्रवेश गरेका थिए । देहरादून कब्जा गर्ने अङ्ग्रेजहरूको योजना विफल पार्न नेपालका सेनापति अमरसिंह थापाले उक्त इलाकाको रक्षार्थ कप्तान बलभद्र कुँवरलाई खटाएका थिए । नालापानीको सबैभन्दा उच्च स्थानमा पर्ने खलङ्गा किल्लामा वीर ",
+    "माँबीको पटक-पटकको आक्रमण असफल भएपछि अङ्ग्रेजहरू युद्धद्वारा नेपाली वीर गोर्खालीलाई परास्त गर्ने आशा मारे । त्यसपछि अङ्ग्रेजहरूले कूटनीति अपनाई किल्लाभित्र गएर र पानीको मुहान थुनिदिए । अङ्ग्रेजहरूको उक्त धोकापूर्ण चालले नेपालीले पानीसमेत पिउन पाएनन् । पानीको प्यासले किल्लाभित्र हाहाकार मच्चिन थाल्यो । बाहिरबाट शत्रुका तोपहरूको अग्निवर्षा जारी थियो भने भित्र सारा फौज प्यासले तड्पिरहेका थिए । त्यस्तो दर्दनाक परिस्थितिमा जीवित रहेका बाँकी वीर सेनाको हितका लागि बलभद्रले स्वतः किल्ला छोड्नुपरेको थियो "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 1230,
+    "text_length_max": 1307,
+    "text_length_avg": 1268.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6798,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24312.txt",
+    "relative_path": "24312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6798,
+    "mtime": 1782796509.228642,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ca42afcf87373364e035cab5bbac232e68472b1a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

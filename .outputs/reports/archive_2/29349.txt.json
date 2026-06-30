@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29349.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टीका पुन एक नेपाली लोक गायिका हुन्। उनी हाल नेपालको चर्चित तथा उत्कृष्ट लोक गायिकाहरू मध्ये एक हुन्।",
+    "टीका पुन नेपाली चर्चित लोक गायिका हुन् ।यिनले हालसम्म सयौंनेपाली लोक गितहरूमा स्वर दिइसकेकि छिन् ।भने सिजन अनुसारका विभिन्न गितहरूमा पनि आफ्नो सुमधुर स्वरको प्रयोग गरि लोक गितका दर्शकहरूमाझ झन् लोकप्रिय हुने गर्दछिन्।जस्तै उनी दशै,तिहार,तिजका गितहरू गाउन चर्चित मानिन्छन् ।साथै पछिल्लो समय देखि उनको सफलता देउडा गितहरूमा पनि क्रमश दिनप्रतिदिन बर्दो छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 100,
+    "text_length_max": 351,
+    "text_length_avg": 200.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1624,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29349.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29349.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29349.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1624,
+    "mtime": 1782796644.806645,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "39379fcfedf63ee1240cad7d98a2ae7e14709c67",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

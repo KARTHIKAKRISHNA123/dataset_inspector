@@ -1,0 +1,91 @@
+{
+  "dataset": "6568.txt",
+  "file_name": "6568.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ट्याम्को स-साना दुई गजाको सहयोगले बजाइने हाते बाजा हो । ट्याम्को दमाहाजस्तै तर सानो खालको हुन्छ । यो छाला मोहोरेर बनाइएको तालबाजा हो । यो पञ्चैबाजा र नौमती बाजाअन्तर्गतका सबैभन्दा सानो बाजा हो । यो कम्मरमा भिरेर बजाइन्छ । यो बाजालाई दुई वटा स-साना गजोले हिर्काएर टुनपुल्टुन........टुनपुल्टुन.......को तालमा बजाइन्छ । ट्याम्को अर्धव्यासमा लगभग एक बित्ता हुन्छ । यो माटो वा काठको पात्रमा छालाले मोरेर बनाइएको हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 414,
+    "text_length_max": 414,
+    "text_length_avg": 414.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1079,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6568.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6568.txt",
+    "relative_path": "6568.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6568.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1079,
+    "mtime": 1782796590.310519,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d2b926a3ef362838d99d10519ccbdeb8f97666d6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

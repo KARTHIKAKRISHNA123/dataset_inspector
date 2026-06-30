@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32445.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ध्वनी कम्पन हो, जसलाई सुन्ने ईन्द्रीय, कानले महसुस् गर्छ। मेकानिकल कम्पन र हावाको चाप द्वारा ध्वनी उत्पादन हुन्छ। हामीले ध्वनि कसरी सुन्छौ त? ध्वनि सुनिनको लानि ध्वनिको स्रोतबाट हाम्रो कान सम्म ध्वनिको स्थान्तरण हुन जरुरी हुन्छ|ध्वनिको स्रोतबाट उत्त्पन्न भएको तरन्ग हावामा अवस्थित शुक्ष्म molecules हरू एक आपसमा एक पछि अर्को गर्दै ठोकिएर हाम्रो कान सम्म पुग्छ| र ती molecules हरूको मात्रा जति धेरै हुन्छ त्यतिनै तरंगको गति उतिनै छिटो हुन्छ|",
+    "ध्वनी ठोस, तरल र वायु बाट हिड्न सक्छ तर भ्याक्युमबाट भने सक्दैन। हावामा ध्वनीको गति 331.5 मिटर प्रति सेकेण्ड हुन्छ। हावाको तापक्रम बढ्दै जाँदा ध्वनीको गति बढ्दै जान्छ। किनकि हावाको तापक्रम बढ्दै जादा मोल्युकल्सहरू छुट्टिदै जान्छ |ध्वनी एक लङ्गिच्युडनल् तरङ्ग हो। यसले रिफ्लेक्सन, रिफ्र्याक्सन, डिफ्र्याक्सन र इन्टरफरेन्स जस्ता गुणहरू देखाउँछ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 661,
+    "text_length_avg": 304.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9859,
+      "Latin": 0.0141
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4045,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9859,
+      "Latin": 0.0141
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32445.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32445.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32445.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4045,
+    "mtime": 1782796651.0108674,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5ca5d79fae332c7d4470c85aed41748ff11d3749",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

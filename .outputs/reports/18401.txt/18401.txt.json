@@ -1,0 +1,92 @@
+{
+  "dataset": "18401.txt",
+  "file_name": "18401.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूरत गुजरात प्रान्तको एक प्रमुख शहर हो । यो शहर सूरत जिल्लाको प्रशासनिक मुख्यालय पनि हो । तापी नदी सूरत शहरको मध्यदेखि बहन्छ । सूरत मुख्यत: कपडा उद्योग र डायमन्ड कटिङ्ग र पोलिशिंगको लागि प्रसिद्ध छ, त्यसैले यस शहरलाई सिल्क सिटी र डायमन्ड सिटीको नामले पनि जनिन्छ | ",
+    "यसो मानिन्छ कि आधुनिक सूरत शहरको स्थापना पन्ध्रौ सताब्दीको अन्तिम वर्षमा भएको हो | मानिन्छ कि 1516 मा एक हिन्दू ब्राह्मण गोपीले यसलाई बसाएका थिए । 12औ देखि 15औ शताब्दी सम्म यो शहर मुस्लिम शासकहरू, पुर्तगालिहरू, मुगलहरू र मराठहरूको आक्रमणहरूको शिकार भएको थियो । 1514 मा पुर्तगाली यात्री दुआरते बारबोसाले सूरतको वर्णन एक महत्त्वपूर्ण बंदरगाहको रूपमा गरेका थिए । 18औ शताब्दीमा बिस्तारै-बिस्तारै सूरतको पतन हुदै गएको थियो । त्यस समय अंग्रेज र डच, दुवैले सूरतमा नियन्त्रणको दावा गरेका थिए तर 1800 मा अंग्र"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 686,
+    "text_length_avg": 255.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5264,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18401.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18401.txt",
+    "relative_path": "18401.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18401.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5264,
+    "mtime": 1782796481.9221864,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "355f35444073f6529ceaef6d088b363243b2e4f0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

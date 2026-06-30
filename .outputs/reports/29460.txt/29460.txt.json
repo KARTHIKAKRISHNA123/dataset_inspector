@@ -1,0 +1,92 @@
+{
+  "dataset": "29460.txt",
+  "file_name": "29460.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोर्खा भाषा प्रकाशिनी समितिको स्थापना श्री 3 महाराज चन्द्र शमशेरद्वारा वि.सं. 1971 मा गोर्खा भाषा प्रकाशिनी समितिको नाममा भएको हो । उक्त प्रकाशन संस्थाको नाम वि.सं. 1991 तिर नेपाल भाषा प्रकाशिनी समिति भएको थियो। वि.सं. 2021 साल मंसिर 17 गतेदेखि उक्त संस्था साझा प्रकाशनको नामबाट सञ्चालन हुँदै आएको छ।",
+    "नेपाली भाषामा पाठ्यसामग्री निर्माण गर्न र शासकहरूका लागि अवाञ्छित प्रकाशनको नियन्त्रण गर्न गोर्खा भाषा प्रकाशिनी समितिको स्थापना भएको थियो र पछि त्यो नेपाली भाषा प्रकाशिनी समितिमा रूपान्तर भएको हो जहाँ महाकवि लक्ष्मीप्रसाद देवकोटा लगायत त्यस समयका विशिष्ट साहित्यकार साहित्य सिर्जना र अनुवाद कार्य अनि शब्दकोश निर्माणको अभ्यास गर्थे ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 300,
+    "text_length_max": 334,
+    "text_length_avg": 317.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1670,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29460.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29460.txt",
+    "relative_path": "29460.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29460.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1670,
+    "mtime": 1782796533.1838703,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d1fcd4dce2cf2e15ffe224452b6a19b93e121f84",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

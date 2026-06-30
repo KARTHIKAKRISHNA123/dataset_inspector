@@ -1,0 +1,92 @@
+{
+  "dataset": "24199.txt",
+  "file_name": "24199.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नगरा एक प्रकारको नेपाली बाजा हो । नगरा पिँध तीखो भएको भिउँट जस्तो, तामाका भाँडामा छालाले मोहोरेको, गजोले बजाइने एक पुरानो तालबाजा हो । यो ठूलो दमाहा हो । यसलाई दुई वटा गजोले ठोकेर बजाइन्छ । नगरा तामाबाट बनेको हुन्छ । मन्दिरहरूमा आरती गर्ने बेलामा यो बाजा बजाउने चलन छ । विभिन्न चाडपर्वमा यो बाजा बजाउने चलन थियो । यस बाजालाई डङ्का पनि भनेको सुनिन्छ । ",
+    "नेपालका विभिन्न स्थानमा विशेष पर्वहरूको समयमा बजाइने एक प्रकारको बाजा हो । नेपालका विभिन्न जिल्लामा अहिलेपनि दसैँ सुरु भएको सङ्केत नगराले गर्छ । नगराको एकोहोरो आवाज सुन्न थालेपछि दसैँ सुरु भयो भनेर गाउँवासीलाई सूचना दिने परम्परागत चलन अझै कायमै छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 249,
+    "text_length_max": 351,
+    "text_length_avg": 300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1587,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24199.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24199.txt",
+    "relative_path": "24199.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24199.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1587,
+    "mtime": 1782796508.6468716,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b9bdb5198f3317b14f0a9c497dbaf080e26dd696",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

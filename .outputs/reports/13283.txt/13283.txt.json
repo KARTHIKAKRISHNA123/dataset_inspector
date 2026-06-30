@@ -1,0 +1,92 @@
+{
+  "dataset": "13283.txt",
+  "file_name": "13283.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालीमा 'तोप चरा' वा 'कोटेरो' भनेर चिनिने यस चरा भँगेरा वर्गका हुन| यसलाई कतै कतै 'सुजेरो', 'बकेचो' पनि भनिन्छ । धादिङ जिल्लातिर भने 'तोलायँ' भनेर पनि चिनिन्छ । समूहमा बस्न रुचाउँछन् । त्यसैले कोटेरोका गुँड एकै ठाउँमा यसरी भेटिने गरेका हुन् ।",
+    "नेपालमा खासगरी हिउँद याममा मंसिर लागेपछि उच्च पहाडी भागबाट पोथीहरूभन्दा केही दिन अगाडि नै भालेहरू तराईतिर लाग्छन| मध्य नेपाल को उच्च पहाड बाट भने केही काठमाडौं उपत्यकातिरै पनि बस्छन्जा। अनि उपयुक्त ठाउँमा गुँड बनाउन अडिन्छन् । यस्तै तराईमा पाइने तोप चराहरू जेठ लागेपछि पुन उकालो लाग्छन| तोप चराको मुख्य आहार धान र गेडागुडी हो । बालीनाली र पानी भएका पोखरीको छेउछाउमा बस्न रुचाउने तोप चराले कहिल्यै पनि कीरा फट्याङ्ग्रा खाँदैनन् । यी चरामा भालेहरूको टाउको र घाँटी वरिपरि पहेंलो हुन्छ । पोथी फुस्रा हुन्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 40,
+    "text_length_max": 1857,
+    "text_length_avg": 710.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7510,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13283.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13283.txt",
+    "relative_path": "13283.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13283.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7510,
+    "mtime": 1782796457.904194,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fecfe75ce0ca463153b156303fe94763e63313c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

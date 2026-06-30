@@ -1,0 +1,92 @@
+{
+  "dataset": "18086.txt",
+  "file_name": "18086.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अशोक स्तम्भ मौर्य सम्राट अशोकद्वारा संसारको विभिन्न भागमा राखिएका प्रसिद्ध स्मारकहरू हुन्। सबै भन्दा प्रसिद्ध अशोक स्तम्भ नेपालको लुम्बिनीमा रहेको अशोक स्तम्भ हो। यो लुम्बिनीको कपिलवस्तु जिल्लामा पर्दछ । यो पुरानो स्तम्भ हो।यस स्थलमा धेरै धर्मावलम्बीहरू आउने गर्दछन्।यो स्तम्भ 6 मिटर अग्लो छ।",
+    "अशोक स्तम्भमा रहेको शिलालेखले लुम्बिनीमा नै भगवान् गौतम बुद्धको जन्म भएको किटान गरेको छ। लुम्बिनीको मायादेवी मन्दिरसँग रहेको यस स्तम्भले नै लुम्बिनीलाई सिद्धार्थ गौतम बुद्धको जन्म स्थलको रूपमा प्रमाणिकरण गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 766,
+    "text_length_avg": 263.64,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7736,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18086.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18086.txt",
+    "relative_path": "18086.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18086.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7736,
+    "mtime": 1782796480.4184926,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7c8cf052e2c9b9c4dcee9467c5fa2b416935d249",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

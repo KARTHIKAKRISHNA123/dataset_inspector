@@ -1,0 +1,94 @@
+{
+  "dataset": "20860.txt",
+  "file_name": "20860.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिशेल लिन मोनाघन एक अमेरिकी अभिनत्री हुन् जो मिशन: इम्पसिबल III, किस किस बैंग बैंग, गोन बेबी गोन, मेड अफ अनर, द हार्टब्रेक किड, ईगल आई र सोर्स कोडमा अभिनयको लागि जनिने गर्छिन्।",
+    "उनको जन्म मार्च 23, 1976मा विन्थ्रोप, आयोवा, अमेरिकामा भएको थियो। उनका बब र जोन नाम गरेका दुई भइहरू रहेका छन् । उनले कोलम्बिया कलेजमा पढिन र त्यही बाट मोडलिङ सुरु गरिन् । सन् 2000मा उनले एक पार्टीमा पिटर वाइट सँग भेटिन् र 5 वर्ष पछि अगष्ट 2005 मा विवाह गरिन् । उनका दुई सन्तानहरू छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 176,
+    "text_length_max": 285,
+    "text_length_avg": 230.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1157,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20860.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20860.txt",
+    "relative_path": "20860.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20860.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1157,
+    "mtime": 1782796493.707583,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "8ed81fbeb4688bcaa271c3933b92123265d5132f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

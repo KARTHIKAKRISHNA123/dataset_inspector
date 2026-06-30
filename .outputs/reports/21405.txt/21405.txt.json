@@ -1,0 +1,91 @@
+{
+  "dataset": "21405.txt",
+  "file_name": "21405.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कालिका नेपालको मध्यमाञ्चल विकास क्षेत्र, बागमती अञ्चलको सिन्धुपाल्चोक जिल्लामा अवस्थित एक गाउँ विकास समिति हो। कालिका गाविस जिल्ला सदरमुकाम चौताराबाट 6 कोष टाढा पर्दछ। कालिका गाविस कुल 10.47 वर्ग किलोमिटर क्षेत्रफल ओगटेको छ। यस गाविसको पूर्वमा र दक्षिणमा ठोकर्पा पश्चिममा साँगाचोक र कदमबास र उत्तरमा यमुनाडाँडा, सुनखानी गाविसहरू पर्दछन।यस गाबिस लाई काठमाडौ सङ्ग जोड्ने काम सागाचोक गाबिसको सुकुटेमा सुनकोशी नदि माथी रहेको पुलले गरेको छ। यो पुल बि.स. 2072 सालबाट सुचारु भएको हो। भौगोलिक रूपमा उष्ण हावा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1141,
+    "text_length_max": 1141,
+    "text_length_avg": 1141.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3053,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21405.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21405.txt",
+    "relative_path": "21405.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21405.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3053,
+    "mtime": 1782796496.2660832,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b5c36e403ae62ee5cdc744734872406192b8546d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

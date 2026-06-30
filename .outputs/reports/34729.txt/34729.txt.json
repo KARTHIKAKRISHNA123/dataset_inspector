@@ -1,0 +1,92 @@
+{
+  "dataset": "34729.txt",
+  "file_name": "34729.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बालन अथवा बालुन विशेष धार्मिक पर्व आदिमा एक जनाले भट्याउने र अरूले सामुहिक रूपमा स्वर मिलाउने गरी गाइने राम, कृष्ण, महादेव आदि देवताको चरित्रगाथा हो। शिव पुराण, महाभारत र रामायणका विभिन्न प्रसंगलाई लयात्मक रूपमा एक विशेष प्रकारको नृत्यको साथमा बालन प्रस्तुत गरिन्छ। बालन सुरुगर्दा सबैभन्दा पहिले मंगलाचरण गाउने गरिन्छ। बालन खेल्न साधारण तया आठ/आठ जनाको समूह बनाइन्छ। बालनका साथमा खैंजडी र मुजुरा जस्ता वाद्ययन्त्र पनि प्रयोग गरिन्छ। बालनमा संगीत, गायन र नृत्यका साथमा ईश्वरीय शक्तिको उपासना गरिने हुन",
+    "विशेष गरी एकादशी महात्म्यको महिमालाई श्लोकबद्द गाइने र नाँचिने बालनले बृद्दाबृद्दादेखि बालबालिकासम्मलाई मोहित बनाउँदछ । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 711,
+    "text_length_avg": 189.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3020,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34729.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34729.txt",
+    "relative_path": "34729.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34729.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3020,
+    "mtime": 1782796557.5067503,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8fdbb29a4dbc0b489bdc7590359782119b1c102d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

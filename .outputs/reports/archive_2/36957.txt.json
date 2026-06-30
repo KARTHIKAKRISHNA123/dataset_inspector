@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36957.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Anas anser Linnaeus, 1758",
+    "कलहाँस नेपालमा पाइने एक प्रकारको चराको नाम हो । यसलाई अङ्ग्रेजीमा ग्रेलग गुज भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 85,
+    "text_length_avg": 50.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.7552,
+      "Devanagari": 0.2448
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 503,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7552,
+      "Devanagari": 0.2448
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36957.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36957.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36957.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 503,
+    "mtime": 1782796660.2472599,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "bec39526c94a78e328ea80366e28a223772ad4b6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

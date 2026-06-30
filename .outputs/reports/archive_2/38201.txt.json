@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38201.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेभोल्युशन  अधिकारहरु वा संस्थानात्मक संरचनामा हुने एक मूलभूत परिवर्तन हो जो अपेक्षाकृत कम समयमा नैं घटित हुन्छ. राजनीतिक परिवर्तनहरुतर्फ संकेत गर्नका लागि यसको प्रयोग कोपरनिकसको प्रसिद्द डि रिवौल्युश्निबस तर्फ्बियम कोलेस्तियम,को वैज्ञानिक क्रान्तिका कालदेखि नैं मिल्दछ.अरस्तूले दुइ प्रकारका राजनीतिक क्रान्तिहरुको वर्णन गरेकोछ:",
+    "मानव इतिहासमा अनेकौं क्रान्तिहरु घटित हुँदै आएकाछन् र ती पद्धति, अवधि अनि प्रेरक वैचारिक सिद्धान्तका मामलामा पर्याप्त भिन्न छन्. यिनको परिणामहरुका कारण संस्कृति, अर्थव्यवस्था र सामाजिक-राजनीतिक संस्थाहरुमा वृहद परिवर्तन भए।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 808,
+    "text_length_avg": 362.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9948,
+      "Latin": 0.0052
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20320,
+    "estimated_records": 56
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 56,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38201.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38201.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38201.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20320,
+    "mtime": 1782796662.5647178,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4d525da23a7c3396b3fd6a14e1efaadd384cb131",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

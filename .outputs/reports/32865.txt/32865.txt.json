@@ -1,0 +1,92 @@
+{
+  "dataset": "32865.txt",
+  "file_name": "32865.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डिल्लीबजार कारागार काठमाडौंको डिल्लीबजारमा रहेको नेपालका प्रमुख कारागार मध्य एक हो । हाल कारागार ऐन 2019 अन्तरगत सञ्चालनमा रहेको यो कारागार 150 बर्ष पुरानो राणाकालीन समयमा निर्मित भवनमा रहेको छ । 4 रोपनि जग्गामा फैलिएको यस कारागारमा पुरुष कैदी तथा थुनुवा मात्रै राख्ने गरिन्छ जसमा विदेशी कैदी पनि पर्दछन । सरकारी न्यायिक तथा अर्ध-न्यायिक कार्यालयहरुबाट निर्णय भएर थुनामा बस्नुपर्ने कैदीको रुपमा वा अनुशन्धानको शिलशिलामा थुनामा राख्नुपर्ने व्यक्तिहरुलाई यस कारागारमा राख्ने गरिन्छ । विदेशी कैदी बन्दी ",
+    "यस कारागारमा विभिन्न अपराध गरि आएका कैदीहरुलाई एकैसाथ राख्ने गरिन्छ। यस कारागारको नियम अनुसार यहाँका कैदीहरुलाई सुविधा दिइन्छ।यहाँ भएका पढ्न चाहाने कैदीहरुले प्राइभेट ट्युसन मार्फत परिक्षा दिन पाउने सुविधा रहेको छ । यसै अनुसार कैदीहरुको औषधि उपचार, खान बस्ने सुविधाको रुपमा दैनिक रु 45, 700 ग्राम चामल प्रधान गरिन्छ। थप सुविधाका रुपमा बार्षिक 2 जोर लुगा र 2 बर्षको अवदिमा सिरक, डस्ना पनि दिने गरिन्छ। यहाँ भएका कैदीहरु कामको रुपमा मुडा तथा हस्तकलाका सामग्रीहरू बनाउने गर्छन्। यस कारागारमा 633 कैदीहरु"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 728,
+    "text_length_avg": 361.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3826,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32865.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32865.txt",
+    "relative_path": "32865.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32865.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3826,
+    "mtime": 1782796548.956866,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "93a4255445ab26c9951c047e58ddd69e25859a18",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

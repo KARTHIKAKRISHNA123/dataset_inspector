@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23053.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दक्षिणकाली मन्दिर राजधानी काठमाडौंबाट दक्षिण भेगमा करिब 17 किमिको दुरीमा रहेको छ। यो कालीदेवीको मन्दिर हो। यो मन्दिर राजा प्रताप मल्लद्वारा निर्माण गरिएको हो। यो फर्पिङको मुटुस्थित ऐतिहासिक महत्त्वले भरिपूर्ण मन्दिर हो। चारैतिर हरियालीले सजिएको यो मन्दिर दुई नदीको दोभानमा छ। यो मन्दिरमा कालीको मूर्तिबोहक अन्य देवी देवताको मूर्ति पनि छन्। ",
+    "यहाँ केवल एक मन्दिरमात्र नभई वनभोजका लागि अत्यन्त रमणीय र मनोरञ्जनात्मक दृष्टिले भरिएको स्थल पनि छन्।राजाहरू पनि यहाँ बर्सेनि वैशाखमा आफ्नो देवाली मनाउन आउँथे। यो शान्त वातावरणमा रमेको छ। त्यहाँ पर्यटन व्यवसाय पनि फस्टाउन सक्छ। यो मन्दिरमा बर्सेनि हजारौं भक्तजन आफ्नो मनोकाङ्क्षा पूरा गर्न आउँछन्। मूलत: दसैंको बेला यहाँ विशेष मेला लाग्छ। दसैंको नवरात्रीमा यहाँ कैयौं भक्तजनहरू हाँस, कुखुरा राँगो, बोकाको बलि दिन्छन्। यो मन्दिर धार्मिक र सांस्कृतिक दृष्टिकोटले धनी छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 468,
+    "text_length_avg": 301.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2431,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23053.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23053.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23053.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2431,
+    "mtime": 1782796632.5164325,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6b6a7c35921d62e9051a0728c5984bdd2562d106",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

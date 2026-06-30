@@ -1,0 +1,92 @@
+{
+  "dataset": "31089.txt",
+  "file_name": "31089.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मध्य नेपालको चितवन जिल्लामा रहेको खैरहनी नगरपालिका द्रुततर गतिमा बढीरहेको नगर हो । साबिक खैरहनी गाविसको पर्सा बजार रहेको ठाँउलाई नगरपालिकाको केन्द्र बनाइएको छ । यो नगरपालिका 2068 साउन 1 देखि लागू हुने गरी बनाइएको हो तर कार्यन्वयनमा हाल 2071 वैशाख 25 देखि आएको हो । यसलाई नगरपालिका घोषणा गर्दा खैरहनी, कुमरोज र चैनपुर गाउँ विकास समितिहरू समावेश गरिएका हुन् । आर्थिक वर्ष 2068/69को बजेटमार्फत् मुलुकमा 41 नयाँ नगरपालिका थपिंदा खैरहनी पनि नगरपालिका बनेको हो । महानगरपालिका, उपमहानगरपालिका र नगरपालिका गर",
+    "खैरहनी, कुमरोज, चैनपुर र कठार गाविसहरूलाई मिलाएर खैरहनी नगरपालिका बनाइएको हो । त्यसैले बि.स.2068 को जनगणना अनुसार यी ठाउँहरूको जनसङ्ख्यालाई जोडेर 46,398 रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 598,
+    "text_length_avg": 380.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1932,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31089.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31089.txt",
+    "relative_path": "31089.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31089.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1932,
+    "mtime": 1782796540.8060536,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "2803049ca6e79e3674fe20620da09231559c2377",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

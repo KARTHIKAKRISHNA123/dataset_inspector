@@ -1,0 +1,93 @@
+{
+  "dataset": "29125.txt",
+  "file_name": "29125.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नाभिकीय अस्त्र वा परमाणु बम एउटा विस्फोटक युक्ति हो जसको विध्वंशक शक्तिको आधार नाभिकीय प्रतिक्रिया हुन्छ। यो नाभिकीय संलयन वा नाभिकीय विखण्डन वा यी दुइटै प्रकारको नाभिकीय प्रतिक्रियाहरूका सम्मिलनदेखि बनाउन सकिन्छ। दुइटै नैं प्रकारका प्रतिक्रियाहरूका परिणामस्वरूप केही सामग्रीदेखि भारी मात्रामा उर्जा उत्पन्न हुन्छ। आजको एउटा हजार किलोदेखि थोरै ठूलो नाभिकीय हथियार यति उर्जा उत्पन्न गर्न सक्छ जति धेरै अरब किलोका परम्परागत विस्फोटकहरूबाट उत्पन्न हुन सक्छ। नाभिकीय हथियार महाविनाशकारी हथियार भनिन्छन्। ",
+    "दोस्रो विश्वयुद्धमा सबैभन्दा अधिक शक्तिशाली विस्फोटक, जो प्रयुक्त भएको थियो, त्यसको नाम 'ब्लकबस्टर' थियो। यसको निर्माणमा तबसम्म ज्ञात प्रबलतम विस्फोटक ट्राईनाइट्रीटोलीन को 11 टन प्रयुक्त भएको थियो। यस विस्फोटकदेखि 2000 गुना अधिक शक्तिशाली प्रथम परमाणु बम थियो जसको विस्फोट टी. एन. टी.का 22,000 टनका विस्फोटका बराबर थियो। अब त प्रथम परमाणु बम भन्दा अधिक शाक्तिशाली परमाणु बम बनेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 211,
+    "text_length_max": 743,
+    "text_length_avg": 432.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9992,
+      "Latin": 0.0008
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12597,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29125.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29125.txt",
+    "relative_path": "29125.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29125.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12597,
+    "mtime": 1782796531.4760766,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3f52b996bfcdca7b6fd750348da5e897d7c7d207",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

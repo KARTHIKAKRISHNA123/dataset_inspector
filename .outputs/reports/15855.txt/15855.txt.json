@@ -1,0 +1,94 @@
+{
+  "dataset": "15855.txt",
+  "file_name": "15855.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो मिर्मिरे एक समाचारमुलक ,सुचना ,शिक्षा र मनोरञ्जनात्मक नेपाली एफ एम च्यानल हो।रेडियो मिर्मिरे आवाज विहिनहरूको आवाज भन्ने नाराका साथ 2064 साल चैत्रमा स्थापना भएको हो। यो एफएम मनोरञ्जनात्मक कार्यक्रमहरू मात्र प्रसारण गर्ने नभई राजनीतिक परिवर्तनहरूको लागि पनि उत्तिकै भूमिका खेल्दै आएको एफएम पनि हो। अग्रगामी परिवर्तनको आवाज बुलन्द गर्ने र परिवर्तनको चेतना वृद्धि गर्ने यो एफएमले लक्ष्य राखेको छ। दैनिक 18 घण्टा प्रशारण हुदै आएको यो एफएमले नेपाली भाषाका साथै नेपाल भाषा, तामाङ् भाषाका समाचारहरू प्",
+    "यसको फ्रिक्वेन्सी 89.4 मेगाहर्ज हो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 643,
+    "text_length_avg": 195.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9422,
+      "Latin": 0.0578
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2451,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9422,
+      "Latin": 0.0578
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15855.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15855.txt",
+    "relative_path": "15855.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15855.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2451,
+    "mtime": 1782796469.5193067,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "c83381420f42f85dc57963872c7f4080fd81f8b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

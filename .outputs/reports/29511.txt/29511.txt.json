@@ -1,0 +1,94 @@
+{
+  "dataset": "29511.txt",
+  "file_name": "29511.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खोटे सल्लो हिमाली क्षेत्रमा प्राकृतिक फैलावट भएको एक प्रकारको कोणधारी वनस्पति हो। विश्वमा पाईने धेरै प्रजातिहरूको सल्लाहरू मध्थे यो प्रजातिको वैज्ञानिक नाम, विलियम रक्सबर्घको नामको आधारमा राखिएको हो। नेपालका विभिन्न स्थानमा यसलाई अौले सल्लो वा दियाले सल्लो पनि भनेर चिनिन्छ।",
+    "यसको फैलावटको क्षेत्र उत्तरी पाकिस्तानको NWFP प्रान्त देखी जम्मू र काश्मिर, पञ्जाब, हिमाचल प्रदेश, उत्तराखणड, नेपाल, सिक्किम हुँदै भुटान सम्म फैलिएका हिमाली क्षेत्रहरू हुन । यो प्रजातिको सल्लो हिमाली क्षेत्रका अरू सल्लाहरू भन्दा कम उचाइ भएका भूभागहरूमा फैलिएका छन्। इनिहरू फैलिएका क्षेत्रहरूको उचाइ 500–2,000 मिटर र बिरलै मात्र 2,300 मिटर रहेका छन्। अन्य हिमाली क्षेत्रका सल्लाहरू Pinus wallichiana, Pinus bhutanica, Pinus armandii, Pinus gerardiana र Pinus densata हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 706,
+    "text_length_avg": 343.69,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9648,
+      "Latin": 0.0352
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14227,
+    "estimated_records": 41
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 41,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9541,
+      "Latin": 0.0459
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29511.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29511.txt",
+    "relative_path": "29511.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29511.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14227,
+    "mtime": 1782796533.479647,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ea708cee8a73f41b034f61ed4545e1f7acbb662b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

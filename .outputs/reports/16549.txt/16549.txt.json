@@ -1,0 +1,92 @@
+{
+  "dataset": "16549.txt",
+  "file_name": "16549.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुइस अलबर्टो स्वारेज डियाज उरुग्वेन फुटबल खेलाडी हुन् । उनीएफसी बार्सिलोना र उरुग्वेको राष्ट्रिय टिम मा स्ट्राइकर का रुपमा खेल्छन ।",
+    "स्वारेज हाल विश्व चर्चित फुटबल क्लब बार्सिलोनाबाट व्यवसायीक फुटबल खेल्ने गर्दछन्।भने उनी बार्सिलोनाका एक महत्त्वपूर्ण स्ट्राइकर समेत हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 139,
+    "text_length_avg": 135.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 737,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16549.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16549.txt",
+    "relative_path": "16549.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16549.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 737,
+    "mtime": 1782796472.8148096,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "43eb4c6bd2c00ab9d59b1cb74432d8b0d09de20b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

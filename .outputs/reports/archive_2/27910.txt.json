@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27910.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुराण, वैदिक कालका काफी पछिका ग्रन्थ छन्, जुन स्मृति विभागमा आउँछन्। भारतीय जीवन-धारामा जस ग्रन्थहरूका महत्वपूर्ण स्थान छ तीमा पुराण भक्ति-ग्रन्थहरूका रूपमा धेरै महत्वपूर्ण माले जान्छन्। अठारह पुराणहरूमा अलग-अलग देवी-देवताहरूलाई केन्द्र मानेर पाप र पुण्य, धर्म र अधर्म, गर्म, र अकर्मको गाथाहरू भन्ीएको छन्। केही पुराणहरूमा सृष्टिका आरम्भबाट अन्तसम्मको विवरण गरिएको छ। इनमा हिन्दू देवी-देवताहरूको र पौराणिक मिथकहरूका धेरै राम्रो वर्णन छ। ",
+    "कर्मकांड बाट ज्ञान तर्फ आउँदै भारतीय मानसमा पुराणहरूका माध्यमबाट भक्तिको अविरल धारा प्रवाहित भए छ। विकासको यसी प्रक्रियामा बहुदेववाद र निर्गुण ब्रह्मको स्वरूपात्मक व्याख्या बाट विस्तारो-विस्तारो मानस अवतारवाद वा सगुण भक्तितर्फ प्रेरित भयो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 239,
+    "text_length_max": 1170,
+    "text_length_avg": 748.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8019,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27910.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27910.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27910.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8019,
+    "mtime": 1782796642.0481806,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f1fc88f3556b8f88e4047e765acde20aad59b50e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

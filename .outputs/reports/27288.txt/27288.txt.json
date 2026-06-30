@@ -1,0 +1,92 @@
+{
+  "dataset": "27288.txt",
+  "file_name": "27288.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हज वार्षिक रूपमा हुने इस्लाम तिर्थयात्रीहरूको मक्का सम्मको तिर्थ यात्रा हो र यो यात्रा हरेक इस्लाम धर्मालम्वीहरू जो शारिरीक रूपमा सबल छन् तथा आफु नहुँदाको परिवारको खर्च धान्न सक्ने व्यक्तिको लागी आफ्नो जीवनकालमा कम्तिमा एक पटक गर्नु पर्ने अनिवार्य तिर्थयात्रा हो । यो इस्लाम धर्मको पाँच स्तम्बहरू मध्ये एक स्तम्ब हो । हज विश्वको सबैभन्दा ठूलो वार्षिक भेला हो । ",
+    "हज गर्नको लागी शारिरीक तथा आर्थिक रूपमा सक्षम हुने अवस्थालाई इस्लाममा इस्तिता'अह भनिन्न र यो अवस्थामा पुग्ने मुसलमानलाई मस्तानी भनिन्छ । हजले मुस्लिमहरूको एकता तथा आफुलाई परमेश्वर लाई निहित गर्ने भावलाई प्रदर्शन गर्दछ । हज शब्दको अर्थ \"यात्रा गर्ने सोच\" भन्ने हुन्छ, यसले दुबै वाहिरी र भित्री यात्रालाई जनाउँदछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 785,
+    "text_length_avg": 282.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5266,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27288.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27288.txt",
+    "relative_path": "27288.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27288.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5266,
+    "mtime": 1782796523.010959,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1fcaa9382cdea5a6b14b03f82b0a0fdc19d371cb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24914.txt",
+  "file_name": "24914.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कञ्चनपुर जिल्ला महेन्द्रनगर बजार नजिक रहेका सिद्धनाथ देवता ब्रह्मदेव मण्डि नजिक रहेका खल्ला भन्ने स्थानबाट शिला ल्याएर स्थापना गरेका देवता हुँन् ।",
+    " कञ्चनपुर जिल्ला भीमदत्तनगरपालीका वार्ड नम्बर 4 बजार नजिक भगतपुरमा स्थापित सिद्धनाथलाई ब्रह्मदेव खल्लाबाट ल्याएर स्थापना गरेका कारण नयाँ सिद्धनाथ देवता पनि भन्ने गरिन्छ । 2018 सालमा राजा महेन्द्रबाट उहाँ स्थापित सिद्धनाथको मन्दिर सिलन्यास गरेपछि यी सिद्धनाथको महत्व वढ्दै गयो । 2050 साल यता भारतबाट आउने भक्तजनहरुको ठूलो भिड लाग्न थालेपछि यहाँका सिद्धनाथ चर्चामा आएका हुँन् । फागुन पूर्णिमा देखि वैशाख पूर्णिमा सम्म एक महिना सिद्धनाथ मन्दिरमा भक्तजनहरुको घुईचो लाग्ने गर्दछ । पूर्णा गिरिमाताको दर्शन "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 96,
+    "text_length_max": 720,
+    "text_length_avg": 279.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2998,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24914.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24914.txt",
+    "relative_path": "24914.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24914.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2998,
+    "mtime": 1782796511.902574,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fad2e8b4734687a94c172d8ff3cd51ac07d0ca9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

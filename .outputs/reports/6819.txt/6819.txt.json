@@ -1,0 +1,92 @@
+{
+  "dataset": "6819.txt",
+  "file_name": "6819.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुडुला कार्की नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बी विशेषतया नेपालीहरूको थर कार्कीको एक कुलघरान हो। यिनीहरू मौदगल्य गोत्रका हुन् ।",
+    "नेपालीहरुले आ आफ्नो वंशावलीको इतिहास संकलनगर्ने क्रममा म्यान्मार मा रहेका मुडुला कार्कीहरुको पनि आ आफ्नो वंशेलीइतिहास संकलनगर्ने जमर्को भएको छ । पुर्बकाल बाट नै मुडुला कार्कीहरुको वंशको इतिहास लाई विद्वानहरु आ-आफ्नो पबित्र बिचार साथै आफ्नो वंशका रहन सहन र रिति स्थिति परम्परागत चलन हरुको प्रमाण संग प्रस्तुत गरेको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 1494,
+    "text_length_avg": 492.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7936,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6819.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6819.txt",
+    "relative_path": "6819.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6819.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7936,
+    "mtime": 1782796591.543166,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7cc0b23fb08eb20760ace8f67ab96feb030f0cdf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

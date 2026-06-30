@@ -1,0 +1,91 @@
+{
+  "dataset": "980.txt",
+  "file_name": "980.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उदयपुर उपत्यका मध्य पूर्वी नेपालमा कोशी नदीको पश्चिम क्षेत्रमा पर्दछ । कमला नदीले सिंचित यो उपत्यकाको मुख्य नदी पनि कमला नै हो । त्रियुगा लगायतका अन्य नदीहरू पनि यहाँ प्रवाहित छन् । उत्तरमा महाभारत पर्वत श्रृङ्खला तथा दक्षिणमा चुरे पहाडको सबैभन्दा होचो खण्डले घेरिएको यो उपत्यका प्रदेश नं. 1 र प्रदेश नं. 2 तथा सिन्धुली र उदयपुर दुई जिल्लाको प्रशासनिक संरचनामा रहेको छ । सिन्धुली तथा गाइघाट जस्ता नगरपालिका भएको यस उपत्यकामा कटारी,घुर्मी, भिमान लगायतका बजार समेत छन। महेन्द्रराज मार्गको लाहानबाट गाईघ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 972,
+    "text_length_max": 972,
+    "text_length_avg": 972.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2569,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "980.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\980.txt",
+    "relative_path": "980.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "980.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2569,
+    "mtime": 1782796605.7364402,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6c2550fc88e1ca75fe9e07c36b78c53a9528b923",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

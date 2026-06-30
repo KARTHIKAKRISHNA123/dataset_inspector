@@ -1,0 +1,91 @@
+{
+  "dataset": "36361.txt",
+  "file_name": "36361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शोभा पण्डित  एक पूर्व भारतीय महिला क्रिकेट खेलाडी हुन् जो भारतको राष्ट्रिय महिला क्रिकेट टिमको लागि 1978 मा टेस्ट क्रिकेट र वनडे क्रिकेट प्रारूपमा खेल्ने गर्थिन् । उनले कुल 8 टेस्ट र दुई वनडे खेलेकी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 206,
+    "text_length_max": 206,
+    "text_length_avg": 206.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 535,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36361.txt",
+    "relative_path": "36361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36361.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 535,
+    "mtime": 1782796564.9875193,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8a31e74d630534a2acba921b56ae125d0b90845f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

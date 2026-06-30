@@ -1,0 +1,92 @@
+{
+  "dataset": "37882.txt",
+  "file_name": "37882.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रकुवा गाउँ विकास समिती लुम्बिनी अञ्चल नवलपरासी जिल्ला को उत्तरपश्चिम मा अबस्थित गाबिस हो । यस गाउ को पुर्ब र दक्षिण मा नवलपरासी कै डेढ्गाउँ र रुचाङ गाबिस पर्दछन् भने उत्तरमा तनहुँ र पश्चिम मा पाल्पाको बाकामलाङ गाबिस पर्दछ। हाल यो गाउँ बौदिकाली गाउँपालिकामा पर्दछ । नवलपरासी जिल्ला देश कै बिकसित जिल्ला को रुपमा चिनिए पनि रकुवा गाबिस भने निकै बिकट छ । ",
+    "सन् 1991 को जनगणना अनुसार जनसंख्या 2248 रहेको छ भने जम्मा घरधुरी 419 रहेका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 351,
+    "text_length_avg": 216.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1120,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37882.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37882.txt",
+    "relative_path": "37882.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37882.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1120,
+    "mtime": 1782796572.7326765,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a02705b725bdad165da2ec0f08af6c9c86f8c8b0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

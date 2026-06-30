@@ -1,0 +1,96 @@
+{
+  "dataset": "3288.txt",
+  "file_name": "3288.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "औपचारिक नाम साउदी अरब अधिराज्य अरबी: المملكة العربية السعودية‎ अरबी प्रायदिपको सबैभन्दा ठूलो देश हो। यसको सिमानामा उत्तर-पश्चिममा जोर्डन उत्तर पश्चिममा, ईराक, कुवेत, कतार, बहराइन, र संयुक्त अरव इमिरेट्स पर्दछन त्यसैगरी पूर्वमा, ओमन दक्षिण-पूर्वमा यमन लगायतका देश रहेका छन केहीक्षेत्र सँग दक्षिण पूर्वमा पर्सियन खाडी अरवको खाडीले छोएको छ भने उत्तर-पूर्वमा ] रहेको छ। यो अधिराज्यको अनुमानीत जनसंख्या करिब 2 करोड 75 लाख र यसको क्षेत्रफल 2,150,000 वर्ग किलोमीटर रहेको छ।",
+    "इस्लाम धर्मवलम्वीका पवित्र मक्का र मदिनाका मस्जिदका आधारमा यो अधिराज्यलाई कहिलेकाही \"दुई पवित्र मस्जिदको भूमी \" पनि भनिन्छ। साधरणतया नेपालीमा यसलाई साउदी अरब भनिन्छ। यो अधिराज्यको स्थापना अव्दुल अजिज विन साउद बाट भएको हो उनले सन् 1902 मा सुरू गरी सन् 1932मा अल साउदको गृह नगर रियाद कब्जा गरेको घोषणा गरी साउदी अरब राज्यको स्थापना गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 466,
+    "text_length_avg": 162.77,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9396,
+      "Latin": 0.0476,
+      "Arabic": 0.0128
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5387,
+    "estimated_records": 33
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9396,
+      "Latin": 0.0476,
+      "Arabic": 0.0128
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3288.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3288.txt",
+    "relative_path": "3288.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3288.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5387,
+    "mtime": 1782796549.0384817,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7c71586ea65f70a52c6f948d992cc3438c0bc4b4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

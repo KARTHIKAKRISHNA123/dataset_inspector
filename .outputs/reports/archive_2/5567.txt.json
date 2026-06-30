@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5567.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 28°32′46″ उत्तर 77°16′19″ पूर्व / 28.54611° उत्तर 77.27194° पूर्व / 28.54611; 77.27194 ",
+    "इन्द्रप्रस्थ सुचना प्रविधि संस्थानभारतमा एक स्वायत्त विश्वविद्यालयको संस्थान हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 37,
+    "missing_text": 0,
+    "text_length_min": 25,
+    "text_length_max": 698,
+    "text_length_avg": 114.03,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7586,
+      "Latin": 0.2414
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9264,
+    "estimated_records": 81
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 81,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7991,
+      "Latin": 0.2009
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5567.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5567.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5567.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9264,
+    "mtime": 1782796666.811842,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f35b87e08e1e90e1d0d38dd4afc9db61312d76a2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

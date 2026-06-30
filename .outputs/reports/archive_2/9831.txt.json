@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9831.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चितवनिक्स लिनक्स कर्नल प्रयोग गरी डेवियनमा आधारीत नेपालमा बनेको अपरेटिङ्ग सिस्टम हो। अपरेटिङ्ग सिस्टम भन्नाले कम्प्यूटरलाई जीवन दिने र प्रयोगकर्ताको रुची अनुसारको काम गर्न सफ्टवेयरलाई हार्डवेयर संग जोड्ने एउटा अत्यन्तै उपयोगी सफ्टवेयर हो। प्रचलित अपरेटीङ्ग सिस्टम विन्डोज ओएस र म्याक एप्पल ओएस जस्तै कम्प्यूटरमा राखेर यसलाई चलाउन सकिन्छ। चितवनिक्स सैधान्तिक तवरले फोस मान्यतामा बनेको हुँदा प्रयोगकर्ताहरूले यो नि:शुल्क डाउनलोड गरी विना लाईसन्स आजिवन चलाउन पाउँछन्।",
+    "चितवनिक्सको डिभिडि संगै अथवा डाउनलोड गरिएको आईएसओमा दैनिक प्रयोगमा आउने सफ्टवेयरहरू जस्तै अफिस प्याकेज, ईमेल-ईन्टरनेटहरू छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 464,
+    "text_length_avg": 212.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1726,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9831.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9831.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9831.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1726,
+    "mtime": 1782796675.4362068,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "65fb2393866adbb96be2cf8e639d23298ade1885",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

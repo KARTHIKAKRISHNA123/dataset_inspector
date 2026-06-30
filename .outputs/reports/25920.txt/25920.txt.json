@@ -1,0 +1,93 @@
+{
+  "dataset": "25920.txt",
+  "file_name": "25920.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रविचन्द्रन अश्विन pronunciation  भारतीय क्रिकेट खेलाडी हुन् । हाल उनी अन्तर्राष्ट्रिय क्रिकेट जगतमा टेस्ट क्रिकेटका क्रम 2 का अल-राउन्डर हुन् । उनी दायाँ-हाते ब्याट्सम्यान तथा दायाँ हाते अफ ब्रेक स्पीन बलर हुन् । उनी घरेलु क्रिकेट तमिलनाडु क्रिकेट टिम तथा आइपिएल चेन्नई सुपरकिङ्गसबाट खेल्छन । उनी भारतका तर्फबाट सबैभन्दा चाँडो टेस्ट क्रिकेटमा 50 तथा 100 विकेट लिने बलर हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 375,
+    "text_length_max": 375,
+    "text_length_avg": 375.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9577,
+      "Latin": 0.0423
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 966,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9577,
+      "Latin": 0.0423
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25920.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25920.txt",
+    "relative_path": "25920.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25920.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 966,
+    "mtime": 1782796516.624648,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0b4a2019e11efaed75e1d86a3ebba42016a0e074",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

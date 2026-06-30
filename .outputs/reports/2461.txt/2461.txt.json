@@ -1,0 +1,92 @@
+{
+  "dataset": "2461.txt",
+  "file_name": "2461.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थाई खाना थाइल्याण्डको राष्ट्रिय खाना हो। यो विश्वभरमा प्रसिद्ध खानामध्येमा पर्दछ। थाई शताब्दी पुराना पूर्वीया र पश्चिमी खानाको संयोजन गरेर बनाइएको नयाँ खाना हो। यस खानामा बास्नादार मसलाहरू, समुन्द्री माछा र वनस्पति तथा अन्य मासुजन्य परिकार रहने गर्दछन्। थाई खाना तयार गर्दा बास्नादार तथा मसलादार तर हल्का किसिमले तयार गरिन्छ। ",
+    "खानामा खासगरी बास्ना, बुट्टा, रङ, स्वाद र सजावट सबै कुरामा ध्यान दिँदै मिठास युक्त र औषधिय गुण भएका सामग्री प्रयोग गर्नमा विशेष ध्यान दिइन्छ। सीएनएन ट्राभल ले प्रकाशित गरेको सन् 2017 को “विश्वका उत्कृष्ट 50 खाना” को सूचीमा थाइल्याण्डका 7 वटा परिकार परेका थिए। जसमा तोम याम गुङ चौथो, पाड थाई पाचौं, सोम ताम छैटौं, मासामान करी दशौं, ग्रीन करी उन्नाइसौं, थाइ फ्राइ राइस चौविसौं र सोम तम पु प्ला रा छत्तिसौं स्थानमा परेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 423,
+    "text_length_avg": 88.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4615,
+    "estimated_records": 52
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 52,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2461.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2461.txt",
+    "relative_path": "2461.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2461.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4615,
+    "mtime": 1782796510.5574563,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "5d5d1df13716126f8998ccee56737b04d38fc142",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

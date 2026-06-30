@@ -1,0 +1,91 @@
+{
+  "dataset": "15505.txt",
+  "file_name": "15505.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पर्वतको सबैभन्दा उचाईमा रहेको हम्पाल क्षेत्र समुद्री सतहबाट 3 हजार 3 सय 9 मिटरको उचाईमा रहेको छ।पर्वतका शालिजा, लेकफाँट, धाईरिङ, बनौ र क्याङ गाविसमा अवस्थित हम्पाल खासगरी सयौं थरीका जडिबुटी, लोपोन्मुख रुखहरु, वन्यजन्तु रहेका छन् । लालीगुँरासको पहाडका नामले पनि परिचित यो क्षेत्रमा हम्पाल डाँडा, जलजला, फलेक खर्क, सिर्पु चर्चित नामहरु हुन् ।यहाँबाट सूर्योदय र सूर्यास्तको सहज रुपमा अवलोकन गर्न सकिन्छ । हम्पाल लेकबाट पर्वत, बागलुङ, म्याग्दी, कास्की, स्याङ्जा, गुल्मी, पाल्पा, गोरखा, तनहुँ, लमजुङ लगायत"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 532,
+    "text_length_max": 532,
+    "text_length_avg": 532.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1399,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15505.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15505.txt",
+    "relative_path": "15505.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15505.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1399,
+    "mtime": 1782796467.911128,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8fe0c31af2e2af2edf5b918905ea338b6d9d2e3b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

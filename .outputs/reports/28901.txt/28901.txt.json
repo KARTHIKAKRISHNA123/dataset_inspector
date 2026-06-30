@@ -1,0 +1,91 @@
+{
+  "dataset": "28901.txt",
+  "file_name": "28901.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाटी प्राचिन कालमा बटुवाहरूकालाई आश्रय लिनको लागि निर्माण गरिएका भवनहरू हुन् । पाटी तथा पौवाहरूको निर्माण त्यो बेलाका राजा, रानी, मन्त्री, काजी, जरनेल, करनेल जस्ता ठुलो पद धारण गरेका व्याक्तिहरूले गराउँथे । यस्ता पाटी र पौवाहरूको निर्माण सार्वजनिक स्थान, बाटो, तत्कालिन राज्यका राजधानी, तिर्थस्थल, तत्कालिन व्यापारिक स्थानहरू वरिपरी गरिन्थे । दैलेख जिल्लाको दुल्लु नगरपालिका स्थित काजि जसपाउको पौवा, भक्तपुर दरवार क्षेत्रमा रहेको पाटी जस्ता विभिन्न स्थानमा निर्मित पाटी तथा पौवाहरू अहिले जिर्ण अवस्था"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 519,
+    "text_length_max": 519,
+    "text_length_avg": 519.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1388,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28901.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28901.txt",
+    "relative_path": "28901.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28901.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1388,
+    "mtime": 1782796530.3421066,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "eea3b93670316b3d078f76a3f002122040c3a484",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "33872.txt",
+  "file_name": "33872.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुस्तक वा किताब शव्दहरू, चित्रहरू, लगायत बिभिन्न चिजहरू छापिएका कागजहरूको समूह हो। आजको नया समयमा किताब बिधुतीय पनि हुन सक्छ जस्लाई भनिन्छ . केही पुस्तकहरूमा तस्बीर पनि हुन्छन् त केहीमा हुँदैनन्। सामान्यतया पुस्तकमा धेरै पानाहरू हुन्छन् जसलाई एकापट्टी बाँधेर बाहिर दुई जिल्लाले ढाकिन्छ। पुस्तकहरूका ठूला समूहलाई पुस्तकालय भनिन्छ। कुनै साहित्यिक कार्य वा त्यस्तो कामको मुख्य शाखालाई पनि किताब भनिन्छ। ",
+    "पुस्तकहरूलाई दुई मुख्य श्रेणीहरूमा बिभाजन गरिन्छ, परिकथा र गैरपरिकथा। कथाहरू सत्य होइनन्, कपोलकल्पित हुन भने त्यसलाई परिकथा भनिन्छ। सत्य घटनामा आधारित पुस्तक तर काल्पनिक पात्रहरू वा संबादहरू भएका छन् भनेपनि सामान्यतया त्यो मात्र परिकथा हुन जान्छ। गैरपरिकथा सत्य तथ्य, जस्तै इतिहास, बिज्ञान, वा जीवनीको बारेमा पुस्तक हो।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 400,
+    "text_length_avg": 193.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4156,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33872.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33872.txt",
+    "relative_path": "33872.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33872.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4156,
+    "mtime": 1782796553.62011,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7e09560fea927b895062c31967e23a53a1bac0b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

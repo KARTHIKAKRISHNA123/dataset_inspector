@@ -1,0 +1,94 @@
+{
+  "dataset": "9615.txt",
+  "file_name": "9615.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इबोला भाइरस रोग वा इबोला रक्तस्रावी ज्वरो इबोला भाइरस को कारणले हुने एक मानव रोग हो।",
+    "यो रोगको पहिचान पहिलो 1976 मा इबोलाको नदी नजिकको एक गाउँमा गएको थियो यसको कारण यस रोगको नाम इबोला राखिएको हो। इबोला एक प्रकारको रोग हो जो रोजीसँग सम्पर्क गर्न मानिसलाई सर्ने गर्छ। यदी रोगीको पसिना, रगत वा श्वास प्रश्वासमा कोही मानिस आयो भने उसलाई टाइफाइड, कोलेरा, ज्वरो, मंसपेसिहरू दुख्ने र कपाल झर्ने गर्छ। इबोलाका रोगहरू 50 देखि 80 प्रतिशत मानिसको मृत्यु हुने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 84,
+    "text_length_max": 1019,
+    "text_length_avg": 532.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9977,
+      "Latin": 0.0023
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8456,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9977,
+      "Latin": 0.0023
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9615.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9615.txt",
+    "relative_path": "9615.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9615.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8456,
+    "mtime": 1782796604.9112751,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a4f09f4cbae0bbf9b3ad0cf956fd7ef7c83beaf4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

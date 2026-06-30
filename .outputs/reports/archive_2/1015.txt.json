@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1015.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिमाचल प्रदेश ) उत्तर-पश्चिमी भारत मा स्थित एक राज्य हो । यो 21,629 मील²  भन्दा धेरै क्षेत्रमा फैलिएको छ तथा उत्तरमा जम्मू कश्मीर, पश्चिम तथा दक्षिण-पश्चिममा पञ्जाब, दक्षिणमा हरियाणा एवं उत्तर प्रदेश, दक्षिण-पूर्वमा उत्तराखण्ड तथा पूर्वमा तिब्बत बाट घेरिएको छ। हिमाचल प्रदेशको शाब्दिक अर्थ हिउले भरिएको पहाडहरुको प्रान्त हो। हिमाचल प्रदेशलाई देव भूमि पनि भनिन्छ। यस क्षेत्रमा आर्यहरुको प्रभाव ऋग्वेद भन्दा पनि पुरानो हो। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 421,
+    "text_length_max": 421,
+    "text_length_avg": 421.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1107,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1015.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1015.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1015.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1107,
+    "mtime": 1782796606.917952,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "24c8c47e5db0cec6802395954b0be66bc55a481b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

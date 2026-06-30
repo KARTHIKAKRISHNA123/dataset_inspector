@@ -1,0 +1,92 @@
+{
+  "dataset": "7159.txt",
+  "file_name": "7159.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेकर्ड निर्माता वा सङ्गीत निर्माताले ब्याण्ड वा कलाकारहरूका सङ्गीतहरूमा ध्वनि रेकर्डिङ र उत्पादनको निरीक्षण र प्रबन्ध गर्ने काम गर्दछन्। रेकर्ड निर्माता रेकर्डिङ प्रक्रियाको बेलामा धेरै, फरक फरक भूमिकाहरूमा रहेका हुन्छन्। उनीहरूले यस परियोजनाको लागि सङ्गीत विचारहरू सङ्कलन गर्न सक्छन्, ब्याण्ड वा कलाकारहरूसँग काम गर्नका लागि कभर गीत वा मूल गीतहरू चयन गर्न र तिनीहरूका गीत वा शब्दहरू सुधार गर्न मद्दत गर्दछन्।",
+    "एक सङ्गीतकारले:"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 517,
+    "text_length_avg": 338.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4574,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7159.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7159.txt",
+    "relative_path": "7159.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7159.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4574,
+    "mtime": 1782796593.224849,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "40a447206bd6ba1fbda0df01baf7d3e3b59b0f95",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

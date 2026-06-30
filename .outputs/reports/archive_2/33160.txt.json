@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33160.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेटि विलियम्स सन 1976 मा मैरेड मगुइरे संगै नोबेल शान्ति पुरस्कार शान्ति मान्छेहरुको समुदाय, उत्तरी आयरल्याण्ड मा समस्याहरूको शान्तिपूर्ण संकल्प प्रचार गरे बाफत सह-प्राप्तकर्ताका रुपमा प्राप्त गरेकी थिईन् ।",
+    "विलियम्सको जन्म 22 मे 1943 बेलफास्ट, उत्तरी आयरल्याण्ड मा भएको थियो। उनका बुबा एक कसाई काम र आमा घरको काम गर्ने थिइन्। बेटि विलियम्सले प्राथमिक शिक्षा बेलफास्ट मा सेन्ट टेरेसा प्राथमिक विद्यालयबाट र उच्च विद्यालय अध्ययनको लागि सेन्ट डोमिनिक विद्यालयबाट प्राप्त गरेकी थिइन्। आफ्नो औपचारिक शिक्षा पूरा गरेपछी उनले कार्यालय पाहुनालाइ स्वागत गर्ने व्यक्ति रुपमा काम थालिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 140,
+    "text_length_max": 537,
+    "text_length_avg": 312.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3334,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33160.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33160.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33160.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3334,
+    "mtime": 1782796652.4685693,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6010f97f7f6d5858801d68cd78850658c85c89bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

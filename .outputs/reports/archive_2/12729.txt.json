@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12729.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीमद्भगवद गीता वा श्रीमद्भागवत गीताहिन्दू धर्मका पवित्रतम ग्रन्थहरूमा एक हो ।यो ऐतिहासिक हिन्दूग्रन्थ महाभारतको भीष्म पर्वबाट लिएको एक सानो ग्रन्थ हो । यसमा 18 अध्याय छन् । यसलाई मोक्षशास्त्र पनि भनिन्छ ।",
+    "हिन्दू धर्मअन्तर्गत एक शृङ्खलाको भाग"
+  ],
+  "statistics": {
+    "records_sampled": 122,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 816,
+    "text_length_avg": 164.66,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 53783,
+    "estimated_records": 326
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 326,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12729.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12729.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12729.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 53783,
+    "mtime": 1782796611.8133633,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "58cb1a178e86a7d0593ea400c5d6bf07b001e277",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

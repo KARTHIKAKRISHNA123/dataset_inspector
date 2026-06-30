@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "11633.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेमी मुरको पूरा नाम डेमी गिनेस कुचर हो। टेलिभिजन शृंखला जेनरल हस्पिटलबाट अभिनययात्रा प्रारम्भ गरेकी डेमी से न्ट एल्मोज् फायर -1885) बाट हलिउडमा स्थापित नायिकाका रूपमा प्रख्यात भइन्। सन् 1990मा चलचित्र घोष्टका लागि 1 करोड डलर लिएर सबैभन्दा महँगी नायिकाका रूपमा आफूलाई उभ्याइन्। त्यसपछि 1 करोड डलर लिएर उनले लगातार अ फ्यु गुड मेन -1992), इन्डिसेन्ट प्रपोजल -1 993) एवं डिस्किलोजर -1994) जस्ता चलचित्रमा अभिनय गरिन्।",
+    "न्यू मेक्सिकोको रसवेलमा जन्मिएकी मुरको बाल्यकाल दुःखद थियो। दुई महिनाकी छँदा उनका बुबा उनकी आमालाई छाडेर बेपत्ता भएका थिए। उनकी आमाले ड्यानी गिन्स नामका पुरुषसँग दोस्रो विवाह गरिन् तर ड्यानीले त्यसको एक वर्षमै आत्महत्या गरे। यसले कलिली मुरको मनमा त्रासयुक्त जीवनको बोध गरायो। उनले आफ्नो बाल्यकालमा करिब 40 वटा डेरा सरेको अनुभव सुनाएकी छिन्। आमा र सौतेनि बुवा दुवैमा रक्सीको लत बसेका कारण दुबै बेलाबेलामा मारपिटमा ओर्लन्थे। त्यही पीडामा ड्यानीले आत्महत्या गरेको हुनसक्ने मुरको अनुभव छ। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 1309,
+    "text_length_avg": 633.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8402,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11633.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\11633.txt",
+    "relative_path": "archive (2)\\valid\\valid\\11633.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8402,
+    "mtime": 1782796609.703869,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "22c372df77081d817162bcc0a522e824995cb8c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

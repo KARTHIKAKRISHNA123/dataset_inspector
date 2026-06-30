@@ -1,0 +1,92 @@
+{
+  "dataset": "19232.txt",
+  "file_name": "19232.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साधारण बोलचालको भाषामा कर्मको अर्थ हुन्छ 'क्रिया'। व्याकरणमा क्रिया भन्नाले निष्पाद्यमान फलको आश्रयलाई कर्म भन्छन्। \"राम घर जान्छ' यस उदाहरणमा \"घर\" गमन क्रियाको फलको आश्रय हुने नाताले \"जानु क्रिया'लाई कर्म मानिन्छ।",
+    "दर्शनमा कर्म एक विशेष अर्थमा प्रयुक्त हुन्छ। जे पनि मनुष्यले गर्छ जसबाट कुनै फल उत्पन्न हुन्छ। यो फल शुभ, अशुभ अथवा दुवैभन्दा भिन्न हुन्छ। फलको यो रूप क्रिया द्वारा स्थिर हुन्छ। दान शुभ कर्म हो र हिंसा अशुभ कर्म हो। यहाँ कर्म शब्द क्रिया र फल दुवैको लागि प्रयुक्त हुन्छ्स्। यो कुरा यस भावनामा आधारित छ कि क्रिया सर्वदा फलसँग संलग्न हुन्छ। क्रियाबाट फल अवश्य उत्पन्न हुन्छ। यहाँ ध्यान राख्नु पर्छ कि शरीरका स्वाभाविक क्रियाहरू यसमा समावेश छैनन्। आँखाका पलकहरू उठ्नु, बन्द हुनु पनि क्रिया हो, तर यसले फ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 214,
+    "text_length_max": 1707,
+    "text_length_avg": 960.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5124,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19232.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19232.txt",
+    "relative_path": "19232.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19232.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5124,
+    "mtime": 1782796486.0707011,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "2db9fc79f8a30d8c563ad082f2ed88728bf9e290",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

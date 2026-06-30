@@ -1,0 +1,92 @@
+{
+  "dataset": "4168.txt",
+  "file_name": "4168.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आमाको गर्भबाट बच्चा निकाल्न गरिने शल्यक्रिया पध्दतिलाई सिजरियन सेक्सन भनिन्छ। सामान्य तरिका अथवा योनिमार्गबाट बच्चा जन्माउनु वा सिजेरियन पध्दतिबाट बच्चा जन्माउनुमा खासै फरक हुदैँन। सिजरियन शल्यक्रियाका क्रममा आवश्यक सबै सावधानी अपनाइने भएकाले केहिगरी सामान्य प्रक्रिया, शल्यक्रियामा रुपान्तरण भएको खण्डमा हिचकिचाउनु पर्दैन। आमा र नवजात शिशु दुबैलाई सुरक्षित गराउनु यसको मुख्य उद्देश्य रहेको हुन्छ। कतिपय अवस्थामा तुलनात्मक रुपमा शल्यक्रिया बढि सजिलो, सुरक्षित र भरपर्दो माध्यम बन्न सक्दछ।",
+    "सिजरियन शल्यक्रिया मुख्यतया दुई प्रकारबाट गरिन्छ। ती हुन्:"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 488,
+    "text_length_avg": 278.1,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7551,
+    "estimated_records": 27
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4168.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4168.txt",
+    "relative_path": "4168.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4168.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7551,
+    "mtime": 1782796578.3018155,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "59c540f53f4838508efceaef2362b707802301e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

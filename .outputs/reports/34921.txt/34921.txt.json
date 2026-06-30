@@ -1,0 +1,94 @@
+{
+  "dataset": "34921.txt",
+  "file_name": "34921.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोमन लिपि लिखावटको त्यो तरिका हो जसमा अङ्ग्रेजी सहित पश्चिमी र मध्य यूरोपको सारी भाषाहरू लेखिन्छन्, जस्तै जर्मन, फ्रांसिसी, स्पैनिश, पोर्चुगली, इतालवी, डच, नर्वेजियन, स्वीडिश, रोमानियाई, इत्यादि। यी बायाँबाट दाहिनेतर्फ लेखिन्छ।",
+    "अङ्ग्रेजीका अतिरिक्त लगभग सबै यूरोपीय भाषाहरू रोमन लिपिका केही अक्षरहरूमा अतिरिक्त चिन्ह पनि प्रयुक्त गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 278,
+    "text_length_avg": 137.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9726,
+      "Latin": 0.0274
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3207,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9726,
+      "Latin": 0.0274
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34921.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34921.txt",
+    "relative_path": "34921.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34921.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3207,
+    "mtime": 1782796558.3275433,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.926,
+    "sha1_quick": "3421ab838cb0295eb7787b98192ca6b1d3bbdc7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

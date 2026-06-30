@@ -1,0 +1,92 @@
+{
+  "dataset": "28331.txt",
+  "file_name": "28331.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जवाहरलाल नेहरू रङ्गशाला, भारतको राजधानी नयाँ दिल्लीमा स्थित एक बहुउद्देशीय रङ्गशाला हो, जहाँ ठूलो स्तरमा खेल प्रतियोगिताहरू र संगीतको कार्यक्रम आयोजित गरिन्छ। भारतका प्रथम प्रधानमन्त्री पंडित जवाहरलाल नेहरूको नाममा स्थापित यस रङ्गशालाको निर्माण सन 1982 मा नवौं एसियाली खेलकुदको आयोजनको निम्ति गरिएको थियो, साथै 3 अक्टूबर देखि 14 अक्टूबर 2010, सम्म भएकोप कमनवेल्थ खेलहरूको आयोजना पनि यही रङ्गशालामा भएको थियो। भारतीय ओलम्पिक सङ्घको मुख्यालय पनि यसै रङ्गशालामा रहेको छ। यस रङ्गशालामा कुनै खेल प्रतियोगि",
+    "रङ्गशालाको निर्माण सन 1882 मा नवौं एसियाली खेलहरूको आयोजनको लागि गरिएको थियो। यहाँ यी खेलहरूको उद्घाटन र समापन समारोहको अतिरिक्त एथेलेटिक्स प्रतियोगिताहरू पनि आयोजना गरिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 607,
+    "text_length_avg": 237.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5516,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28331.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28331.txt",
+    "relative_path": "28331.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28331.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5516,
+    "mtime": 1782796527.716871,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "e80f7ae7c0923b7fabda92b7605de86770ed9646",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

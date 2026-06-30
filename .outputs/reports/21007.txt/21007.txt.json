@@ -1,0 +1,92 @@
+{
+  "dataset": "21007.txt",
+  "file_name": "21007.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुशीला रायमाझी नेपाली चलचित्र कलाकार थिइन्। रेडियो नाटक बाट अभिनय यात्रा सुरू गरेकी रायमाझीले रङ्गमञ्च, ठूलो पर्दा, सानो पर्दामा समेत अभिनय गरेकी थिइन्। सुशीलाले प्रकाश थापाले निर्देशन गरेको चलचित्र सिन्दूर बाट चलचित्र अभिनय यात्रा थालेकी थिइन् । उनले युगदेखि युगसम्म, आमा, सुपरस्टार, कहाँ भेटिएला, सानो संसार, नाता रगतको, माया नगर, म तिमी विना मरिहाल्छु नाता रगतको, लगायतका चलेका चलचित्रमा अभिनय गरेकी छन्। उनले मह जोडीले बनाएको टेलिचलचित्र रङ नम्बर मा पनि अभिनय गरेकी थिइन्। ",
+    "अभिनय यात्राकै क्रममा सुशीला रायमाझीले 2032 सालमा सांस्कृतिक संस्थानमा जागिर पाइन्। जहाँ उनले विभिन्न नाटकहरूमा अभिनय गरिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 477,
+    "text_length_avg": 217.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3503,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21007.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21007.txt",
+    "relative_path": "21007.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21007.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3503,
+    "mtime": 1782796494.4202578,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "eba07d7881fc9e783b75955ebf3fb2b4e59710f4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

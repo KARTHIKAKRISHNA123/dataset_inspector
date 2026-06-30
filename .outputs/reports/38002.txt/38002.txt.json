@@ -1,0 +1,93 @@
+{
+  "dataset": "38002.txt",
+  "file_name": "38002.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हालको लागिमको माइकाथान भन्ने स्थानमा राजा नरसिंग मल्लले दरबार बनाएकै स्थानमा रहेको जमिनको आकृति पाला आकारको भएकोले राजाले स्वच्छिक नाम पालाकोट नाम रहेको किम्बदन्ती छ ।",
+    "रुकुम जिल्लको मध्यभाग तथा सदरमुकाम बाट करिब 9 किलोमीटर उत्तरपुर्व तथा रुकुमकोट देखि 5 किलोमीटर पश्चिम क्षेत्रमा अवस्थीत हाल पीपल गाविस वडा नं.1र2 लागिम भन्ने गाँउमा पर्दछ। पुर्वमा पोखरा गाविस,रेवत खोला ,पश्चिममा पुमाखोला,जिपु पीपल गाविसकै 3 र 4 वडा,दक्षिणमा सानिभेरी नदी तथा स्यालपाखा गाविस र उत्तरमा स्यालाखदी,प्वाँङ्ग र सिस्नेहिमाल,करिव 700मीटर देखि3000 मीटर सम्म फैलियको छ । यस क्षेत्रको बस्ती भन्दा धेरै जंगल,अग्ला अग्ला पहाड पर्वत,चुचरा आदि छन । सिस्ने हिमालको काखमा अवस्थित डल्सीङ्गे लेक जिल्लक"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 1980,
+    "text_length_avg": 696.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9903,
+      "Latin": 0.0097
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22041,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38002.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38002.txt",
+    "relative_path": "38002.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38002.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22041,
+    "mtime": 1782796573.2969127,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "148afda17d32b9f6a3a439a7fa8987573846c156",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

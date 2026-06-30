@@ -1,0 +1,92 @@
+{
+  "dataset": "18368.txt",
+  "file_name": "18368.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पञ्चासे ताल कास्की, पर्वत र स्याङ्जाको सिमानामा पर्ने पञ्चासे लेकमा अवस्थित ताल हो। यो ताल समुद्र सतहदेखि 2 हजार 509 मिटरको उचाइमा छ। तालको लम्बाइ 110 मिटर र चौडाइ 20 देखि 25 मिटर तथा झण्डै 10 मिटर गहिरो छ। चारैतिर जंगलले घेरिएको मनोरंजन भएको स्थलमा रहेको यो तालको विशेषता हो- पात-पतिङ्गर तालमा तैरेर नरही सफा पानी बसिरहनु। यस पञ्चासे ताल लाई ‘’’पंच्धाम’’’ पनि भनिन्छ किन भने यो पांच वटा टुप्पो बाट घेरिएको छ।",
+    "ताल अवस्थित पञ्चासे लेकबाट उत्तरतर्फ माछापुच्छ्रे, अन्नपूर्ण, धवलागिरी, धवलश्रीलगायतका हिमश्रृंखला, दक्षिणतर्फ पाल्पाको श्रीनगर एवम् तराई फाँट देखिन्छ भने फेदीमा फेवाताल, पोखरा उपत्यका, स्याङ्जा, कुश्मा, बाग्लुङका साथै राम्जा, सल्यान, आर्थरजस्ता सुन्दर वस्तीको दृश्यावलोकन सजिलै गर्न सकिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 409,
+    "text_length_avg": 238.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1883,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18368.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18368.txt",
+    "relative_path": "18368.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18368.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1883,
+    "mtime": 1782796481.773894,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f76696c4930c6af336fd522ce0469d8ce3288605",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

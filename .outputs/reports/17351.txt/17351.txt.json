@@ -1,0 +1,92 @@
+{
+  "dataset": "17351.txt",
+  "file_name": "17351.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिमालय बैँक लिमिटेडको स्थापना विसं. 2049 सन् 1993मा पाकिस्तानको हबिब बैक लिमिटेडसँगको संयुक्त लगानिको रूपमा सुरू गरिएको थियो। यो नेपालको पहिले निजी बैक पनि हो, स्थापना काल देखि हालसम्मको समयमा आफूलाई निजी बैकहरूको समूहमा आफूलाई अग्र स्थानमा राख्दै आउन सफल भएको छ। यसले आफ्नो मुख्य कार्यहरू निक्षेप संकलन र ऋण लगानीमा लगाउँदै आएको छ।",
+    "यस बैकले नेपालभर आफ्नो परिचय स्थापना गराउन सफल भइएको छ र ग्राहको चाहना अनुरूपका सेवा सुविधाहरूलाई व्यवसायीक रूपमा प्रदान गर्न सफल भएको छ। यसका केही उल्लेखनीय सेवाहरूमा :"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 332,
+    "text_length_avg": 180.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1430,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17351.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17351.txt",
+    "relative_path": "17351.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17351.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1430,
+    "mtime": 1782796476.9583442,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "e599b7a4f0d03da9410519a1da4372fb349fb821",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

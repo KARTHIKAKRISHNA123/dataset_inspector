@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21646.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रशीद जहाँ अगस्ट 5, 1905 –जुलाई 29, 1952, उर्दू:ڈاکٹر رشید جہاں), भारतको उर्दूकी एक प्रगतिशील लेखिका, कथाकार र उपन्यासकार थिइन्, जनले महिलाहरू द्वारा लिखित उर्दू साहित्यको एक नयाँ युगको शुरुआत गरिन्। उनी पेशेमा एक चिकित्सक थिइन्। ",
+    "उनको जन्म 5 अगष्ट 1905म उत्तर प्रदेशको अलीगढ शहरमा भएको थियो। उनकी आमाको नाम वहीद शाहजहां बेगम र पिताको नाम शेख अबदुल्लाह थियो। उनको पिता अलीगढको चर्चित शिक्षाविद र लेखक तथा अलीगढ महिला कलेजको संस्थापकहरू मध्ये एक थिए, जसले साहित्य एवं शिक्षाको क्षेत्रमा सन 1964मा भारत सरकार द्वारा, पद्म भूषणले सम्मानित गरिएको थियो। राशिदको प्रारंभिक शिक्षा अलीगढमा भयो। तत्पश्चात उनी लखनऊको ईजा बेला थोबरोन कलेज प्रबेश गरे पछि दिल्लीको लर्ड हार्डिंग मेडिकल कलेजबाट सन् 1934मा डक्टर बनिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 474,
+    "text_length_avg": 276.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9851,
+      "Arabic": 0.0149
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2843,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9851,
+      "Arabic": 0.0149
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21646.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21646.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21646.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2843,
+    "mtime": 1782796629.532871,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "819abee57c76bb91b561af501f21263deb4b8cb2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

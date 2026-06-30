@@ -1,0 +1,94 @@
+{
+  "dataset": "35393.txt",
+  "file_name": "35393.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फल राम्रोसँग पाकेको तर नगलेको, रङ आकर्षक, पेक्रिन पूरा भएको हुनु पर्दछ। जाम जमाउने मुख्य तत्त्व पेक्रिन हो। काँचो, सडेगलेको, चोट पटक लागेको फल छान्नु हुँदैन। छानेर तयारी फललाई 1-2 प्रतिशत सोडियम हाइडाक्साइडले छोएर सफा गर्ने र गुदी निकाल्ने अलिकति पानी राखेर पकाउने। एक किलो गुलियो आँपको गुदीमा 800 ग्राम चिनी राख्ने तर फलको अमिलोपना हेरेर बराबर चिनी वा सवा किलोसम्म राख्न सकिन्छ। ",
+    "एक किलो ग्राम गुदीमा सोडियम वा पोटासियम मेटावाई सल्फाइड 1.5-2 ग्रामसम्म राख्ने गरिन्छ तर अति सफा गरी बनाएमा परिरक्षाको आवश्यकता पर्दैन र स्वस्थकर हुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 380,
+    "text_length_avg": 254.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3332,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35393.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35393.txt",
+    "relative_path": "35393.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35393.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3332,
+    "mtime": 1782796560.4201317,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a984dce716f34a228b6e61b2a9873334bb217b04",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

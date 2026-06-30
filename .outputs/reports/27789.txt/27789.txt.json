@@ -1,0 +1,92 @@
+{
+  "dataset": "27789.txt",
+  "file_name": "27789.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिनावाङ रोल्पा जिल्लामा अवस्थित एक गाउँ विकास समिति हो । यो गाविस जिल्लाको पश्चिम भेगमा पर्छ । यो गा.बि.स. स्याउ खेतिको लागि उपर्युक्त ठाउँ हो । स्याउ उत्पादन भयपनि बजार पाएको छैन । साथै बर्षादमा आलु खेतीको लागि पनि उपयुक्त मानिन्छ । ",
+    "सिमाना: पूर्व पाखापानी गा.बि.स. र ओत गा.बि.स., दक्षिण जुँगार गा.बि.स., पश्चिम सल्यान जिल्ला पर्दछ भने उत्तर पाखापानी गा.बि.स. पर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 286,
+    "text_length_avg": 105.21,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3748,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27789.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27789.txt",
+    "relative_path": "27789.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27789.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3748,
+    "mtime": 1782796525.2063062,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c2d198fa6cca54216cbe4387502c51c8e7fc2dc6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "31401.txt",
+  "file_name": "31401.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाल विकास खजना ",
+    "बाल विकास खुत्रुकेलाई नेपाल बाहेकका देशहरूमा बाल विकास खजना नामले चिनिन्छ . यो कार्यक्रम बाल सहभागिताको सिध्दान्तमा आधारित छ . यो कार्यक्रम केवल सुरक्षित रूपमा पैसा जम्मा गर्नकालागि मात्र होइन, यसले त पैसाको प्रयोग गर्न योजना बनाउन सिकाउछ . नेत्रित्व प्रदान तथा कार्यहरूलाई व्यबस्थित रूपमा सञ्चालन गर्न सहायता गर्दछ . साथे बाल्बालिका आफैले यस कार्यक्रमलाई कसरी सॅचालन गर्ने भन्ने बारेमा पनि सिकाइन्छ जुन सिकाई जीवन भर अन्यत्र पनि काम लाग्दछ . भाइ बहिनीलाई बजेट कसरी बनाउने, कुन कुन कुरामा पहिले खर्च "
+  ],
+  "statistics": {
+    "records_sampled": 37,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 1077,
+    "text_length_avg": 135.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9958,
+      "Latin": 0.0042
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13076,
+    "estimated_records": 96
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 96,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9947,
+      "Latin": 0.0053
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31401.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31401.txt",
+    "relative_path": "31401.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31401.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13076,
+    "mtime": 1782796542.3283577,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5b95031608730ab76de2c1e29aec8b746dfaa2a8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

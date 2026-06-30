@@ -1,0 +1,92 @@
+{
+  "dataset": "7304.txt",
+  "file_name": "7304.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रविन्द्र भारती विश्वविद्यालय भारतीय राज्य पश्चिम बङ्गालको राजधानी कोलकातामा अवस्थित यक विश्वविद्यालय हो। कवि रविन्द्रनाथ टैगोरको जन्म शताब्दीलाई चिह्नित गर्नको लागि सन् 1961 मा पश्विम बङ्गाल सरकारले रविन्द्र भारती ऐन अन्तर्गत 08 मे 1962 मा यस विश्वविद्यालयको स्थापना गरेको थियो। यो विश्वविद्यालय टैगोर परिवार निवास, जोरसंको ठाकुर बारीमा स्थित छ।",
+    "यस विश्वविद्यालयले स्नातक र स्नातकोत्तर तहमा ललित कला संकाय अन्तर्गत कला प्रदर्शन र दृश्य कला कार्यक्रमहरू पढाउँदछ साथै मानविकी, सामाजिक विज्ञान र अन्य विषयहरू कला संकाय अन्तर्गत पढाउँदछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 345,
+    "text_length_avg": 193.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1993,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7304.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7304.txt",
+    "relative_path": "7304.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7304.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1993,
+    "mtime": 1782796593.8519435,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "15fca33f9c236552fdc8ed749cd16d9d9b06a6f7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

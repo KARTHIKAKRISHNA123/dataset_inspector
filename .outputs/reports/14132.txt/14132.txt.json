@@ -1,0 +1,92 @@
+{
+  "dataset": "14132.txt",
+  "file_name": "14132.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकलब्य हिन्दू धर्मग्रन्थका एक पौराणिक पात्र हुन्। यिनको चर्चा महान हिन्दू ग्रन्थ महाभारतमा गरिएको छ। ",
+    "उनी गुरुभक्ति अनुपम पात्र मानिन्छन् र विशेष किसिमको गुरुभक्तिको उदाहरण दिन पर्‍यो भने उनको नाम लिने गरिन्छ। तत्कालीन परिवेशअनुसार उनी जन्मको आधारमा त्यति सम्पन्न र समुन्नत मानिंदैनन्। तर कर्मले सारा विश्वलाई झुकाइदिएका छन्। कुरो त्यतिबेलाको हो जति बेला धनुर्विद्याका धुरन्धर विद्वान् गुरु द्रोणाचार्य कौरवकुमारहरूलाई धनुर्विद्या सिकाउन नियुक्त भएका थिए। भिल्लकुमार एकलव्यलाई पनि उनीसित धनुर्विद्या सिक्न मन लाग्यो र आएर निवेदन गरे तर गुरु द्रोणाचार्यले आफू राजकुमारहरूलाई मात्र विद्या सिकाउन नियुक्त "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 925,
+    "text_length_avg": 606.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4899,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14132.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14132.txt",
+    "relative_path": "14132.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14132.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4899,
+    "mtime": 1782796461.6383452,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.975,
+    "sha1_quick": "312b4c2c35f04f07bfaee2a20af800515015b52f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

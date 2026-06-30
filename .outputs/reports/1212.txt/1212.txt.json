@@ -1,0 +1,93 @@
+{
+  "dataset": "1212.txt",
+  "file_name": "1212.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिभुवन विश्वविद्यालय अन्तर्गतका पाँच अध्ययन संस्थानहरु मध्ये इन्जिनियरिङ अध्ययन संस्थान एक हो । यसको स्थापना नयाँ शिक्षा योजना सँगै वि.सं. 2029 सालमा भएको हो । स्थापना कालमा यसले राष्ट्रिय आवश्यकता अनुरूपका मध्यम तथा उच्च तहका इन्जिनियरिङ जनशक्ति अर्थात् ओभरसियर र इन्जिनियरहरू उत्पादन गर्ने, विभिन्न तहका जनशक्तिलाई तालिम दिने र देशको इन्जिनियरिङ क्षेत्रको प्राविधिक क्षमता अभिवृद्धि गर्ने उद्देश्य राखी अनुसन्धान गर्ने तथा परामर्श सेवा उपलब्ध गराउने मूलभूत उद्देश्यहरू राखेको थियो । यी उद्देश्यहर",
+    "इन्जिनियरिङ अध्ययन संस्थानअन्तर्गत केन्द्रीय क्याम्पस, पुल्चोक, पश्चिमाञ्चल क्याम्पस, पूर्वाञ्चल क्याम्पस, थापाथली क्याम्पस तथा त्रि.वि.बाट सम्बन्धन प्राप्त कलेजहरूमा भर्ना भई अध्ययन गर्न चाहने आवेदकहरूले अनिवार्यरूपमा इन्जिनियरिङ अध्ययन संस्थानले सञ्चालन गरेको प्रवेश–परीक्षा दिई विद्यापरिषदले तोके अनुसार न्यूनतम् अंकभार तथा मापदण्ड पूरा गरी प्रबेश परीक्षामा सफल भएको हुनुपर्नेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 84,
+    "text_length_max": 2341,
+    "text_length_avg": 842.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.962,
+      "Latin": 0.038
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 32539,
+    "estimated_records": 38
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 38,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1212.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1212.txt",
+    "relative_path": "1212.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1212.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 32539,
+    "mtime": 1782796452.4810407,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a4588c983ac703a6891be232c0b4e6a1fa2bed25",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

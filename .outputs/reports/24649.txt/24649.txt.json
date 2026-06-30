@@ -1,0 +1,92 @@
+{
+  "dataset": "24649.txt",
+  "file_name": "24649.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एमिली मार्गारेट वाट्सन एक अङ्ग्रेज चलचित्र अभिनेत्री हुन् । एमिली वाट्सनले दुई पटक एकेडमी अवार्ड र चार पटक बाफ्टा अवार्ड नामाङ्कनमा परेकी छिन् । वाट्सनले सन् 1992 मा अभिनयको सुरूवात गरेकी हुन् । उनले ड्रामा स्टुडियो लन्डनबाट अभिनयको प्रशिक्षण लिएकी हुन् ",
+    "वाट्सनको जन्म इसलिङ्गटन, लन्डन इङ्गल्याण्डमा भएको हो । उनको बुवा रिचार्ड वाट्सन एक शिल्पकार थिए भने आमा क्याथरिन अङ्ग्रेजी भाषाको शिक्षक थिइन ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 254,
+    "text_length_avg": 198.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1057,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24649.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24649.txt",
+    "relative_path": "24649.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24649.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1057,
+    "mtime": 1782796510.7121959,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8e96979b5dde21c92e7a00473c060dc4e2a232a1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

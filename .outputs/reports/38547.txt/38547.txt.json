@@ -1,0 +1,94 @@
+{
+  "dataset": "38547.txt",
+  "file_name": "38547.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू धर्मका अनुसार नृसिँह \"नरसिँह\" अवतार भगवान विष्णु चौथो अवतार हो। दैत्यराज हिरण्यकश्यपुको बध गर्नको निमित्त र भक्त प्रह्लादको उदार गर्नका निमित्त विष्णु भगवानले नरसिँहावतार धारण गर्नु परेको थियो।",
+    "हिन्दु धर्म ग्रन्थका अनुसार कश्यप ऋषिको पत्नी दितीको गर्भबाट दुईटा बालक हिरण्याक्ष र हिरण्यकश्यपु पैदा भएका थिए यिनिहरू ठुले भए पछि जता ततै उप्रदव मचाउन थाले। हिरण्याक्षलाई बराह भगवानले मारेका थिए। हिरण्य कशेपुले ब्रह्मा जिको घोर तपश्या गर्दा हिरण्य कशेपुको शरिरबाट आगोको ज्वाला निस्किन्थ्यो। यो देखेर ब्रह्मा जीले हिरण्यकशेपु भएको ठाउँ गएर इछ्छा अनुसार वरदान माग्ने आज्ञा गरे यो सुनेर हिरण्यकशेपुले ब्रह्माजी सँग अमर रहने वरदान माग्यो। ब्रह्माजीले जन्मे पछि मर्नै पर्ने सृष्ठीको निएम भएकाले कोही अरु"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 1275,
+    "text_length_avg": 762.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10224,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38547.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38547.txt",
+    "relative_path": "38547.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38547.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10224,
+    "mtime": 1782796575.761324,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "a506361ddd67dc250af1c02efe2f7407249f3d7c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

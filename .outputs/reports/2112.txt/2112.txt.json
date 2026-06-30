@@ -1,0 +1,96 @@
+{
+  "dataset": "2112.txt",
+  "file_name": "2112.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Circus hudsonius",
+    "चल्लाचोर भुइँचील नेपालमा पाइने एक प्रकारको चराको नाम हो । यसलाई अङग्रेजीमा हेन ह्यारिअर भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 95,
+    "text_length_avg": 55.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8438,
+      "Latin": 0.1562
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 275,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8438,
+      "Latin": 0.1562
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2112.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2112.txt",
+    "relative_path": "2112.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2112.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 275,
+    "mtime": 1782796494.9204695,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "c998f7e4deda7b600682d7489a664c2ce84ed1ab",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

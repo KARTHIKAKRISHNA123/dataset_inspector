@@ -1,0 +1,94 @@
+{
+  "dataset": "33735.txt",
+  "file_name": "33735.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिस्टिना अखिवा रूसी - अस्ट्रेलियाली मोडल र अभिनेत्री हुन् । उनले यमला पगला दीवाना 2बाट बलिउडमा आफ्नो अभिनयको सुरुवात गरेकी हुन् । उनले सन् 2014 मा भारतका सुपरस्टार धर्मेन्द्र, सन्नी देवल र बबी देवल अभिनित चलचित्र यमला पगला दिवानाको दोस्रो भागमा अभिनय गरेकी हुन् ।",
+    "क्रिस्टिनाको जन्म रसियामा भएको हो । उनको आमा र बुवा दुवै रसियाली हुन् । उनी 7 वर्षको उमेरमा रसियाबाट अस्ट्रेलिया सरेकी थिइन् जहाँ उनले आफ्नो सुरुवाती शिक्षा ग्रहण गरेकी थिइन् ।\"Kristina Akheeva acting career\"। </ref"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 265,
+    "text_length_avg": 174.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9294,
+      "Latin": 0.0706
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1318,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9294,
+      "Latin": 0.0706
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33735.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33735.txt",
+    "relative_path": "33735.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33735.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1318,
+    "mtime": 1782796552.89792,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "dcf29fb87eaad9b7db2cd049438d416f29505bb4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

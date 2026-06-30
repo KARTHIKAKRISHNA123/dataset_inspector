@@ -1,0 +1,91 @@
+{
+  "dataset": "9922.txt",
+  "file_name": "9922.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अदिति गुप्ता एक भारतीय टेलिभिजन अभिनेत्री हुन्। अदितिले आफ्नो पहिलो अभिनय बालाजी टेलिभिजनको किस देशमा हे मेरा दिल नामक कार्यक्रममा गरेकी थिइन्। त्यस बेला उनी केवल 19 वर्षकी थिइन् । उनको गृहनगर पुणे हो उनी एक फेशन डिजाइनर बन्न चाहान्थिन् । तर परिस्थितिहरुको कारणले उनीलाई मुख्य भूमिका निभाउने अवसर प्राप्त भयो। अहिले उनी बालाजी टेलिफिल्म्सको धरावाहिक \"किस देशमा हे मेरा दिल\"मा हीर नामको केटीको मुख्य भूमिका निभाउँदै छिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 420,
+    "text_length_max": 420,
+    "text_length_avg": 420.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1120,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9922.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9922.txt",
+    "relative_path": "9922.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9922.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1120,
+    "mtime": 1782796606.2851348,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "232245a7c1a262c16c3d19b6339da50e80e2ab84",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

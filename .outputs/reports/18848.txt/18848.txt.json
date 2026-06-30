@@ -1,0 +1,91 @@
+{
+  "dataset": "18848.txt",
+  "file_name": "18848.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1960 बि.सं ताका लेखिएको मौलिक नेपाली तिलस्मी उपन्यास वीरचरित्र का उपन्यासकार |पेशाले उनी कविराज हुन र आफ्नो परम्परागत ओखतिमुलो संवन्धि ज्ञान र सीप का कारण त्यस समयको उच्च समुदायमा स्थापित थिए| मुद्रण सुविधा का अभावमा आफ्ना लेखनदास लगाएर गिरिश बल्लभले समग्र पुस्तकका दशौँ प्रतिलिपि बनाउदथे र माग भएका बेला उपलव्ध गराउदथे भन्ने भनाई छ| आज भोलि पाइने मुद्रित संस्करण उनको मृत्यु पछि पुराना पाण्डुलिपि बाट छपाइएका प्रतिहरू हुन|"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 423,
+    "text_length_max": 423,
+    "text_length_avg": 423.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1120,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18848.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18848.txt",
+    "relative_path": "18848.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18848.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1120,
+    "mtime": 1782796484.1089685,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ceb0e7e06884182368de1cb22fc8d0f82ae4842f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "847.txt",
+  "file_name": "847.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अंकिता लोखन्डे भारतीय टेलिभिजन अभिनेत्री हुन्। सन् 2009 बाट उनी पवित्र रिश्ता नामक धारावाहिकमा मुख्य भूमिका अर्चनालाई निभाई रहेकी थिइन्। उनी झलक दिखला जाको चौथो संस्करणमा समाबेश हुनको साथै कमेडी सर्कस, एक थी नायिका, पवित्र रिश्ता जस्ता कार्यक्रममा पनि अभिनय गरेकी छिन् ।",
+    "उनको जन्म डिसेम्बर 19, 1984 मा भारतको इन्दौरमा भएको थियो। उनी जातीयताको रुपमा हेर्ने हो भने मराठी हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 270,
+    "text_length_avg": 186.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 977,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "847.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\847.txt",
+    "relative_path": "847.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "847.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 977,
+    "mtime": 1782796599.478917,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72d9eb3dfa4825ab96c3e8c497073c662a84ca42",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

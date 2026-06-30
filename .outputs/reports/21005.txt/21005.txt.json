@@ -1,0 +1,96 @@
+{
+  "dataset": "21005.txt",
+  "file_name": "21005.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Zoothera cinerea",
+    "सुन्तले चाँचर नेपालमा पाइने एक प्रकारको चराको नाम हो। यसलाई अङ्ग्रेजीमा अरेन्ज-हेडेड थ्रस भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 97,
+    "text_length_avg": 56.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8469,
+      "Latin": 0.1531
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 282,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8469,
+      "Latin": 0.1531
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21005.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21005.txt",
+    "relative_path": "21005.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21005.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 282,
+    "mtime": 1782796494.4078958,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "a4a717675ea15a74655c0b3217a012ddf4f145b2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

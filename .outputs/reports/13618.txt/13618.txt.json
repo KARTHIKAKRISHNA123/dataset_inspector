@@ -1,0 +1,94 @@
+{
+  "dataset": "13618.txt",
+  "file_name": "13618.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिल्ली विश्वविद्यालय, भारत सरकार द्वारा वित्त पोषित एक केन्द्रीय विश्वविद्यालय हो र भारतको राजधानी दिल्लीमा अवस्थित छ। 1922मा स्थापित यस विश्वविद्यालयले स्नातक र स्नातकोत्तर स्तरको निम्ति पाठ्यक्रम उपलब्ध गराउँछ। भारतका उपराष्ट्रपति मोहम्मद हामिद अंसारी विश्वविद्यालयका कुलपति हुन्। THES-QSको विश्वका विश्वविद्यालयहरूको रैंकिंग अनुसार यो भारतको शीर्ष गैर-आईआईटी विश्वविद्यालय हो। दिल्ली विश्वविद्यालयका दुई परिसर छन् जो दिल्लीका उत्तरी र दक्षिणी भागमा स्थित छन् र जसलाई क्रमश:उत्तरी परिसर र दक्षिणी प",
+    "विश्वविद्यालयका केही प्रख्यात स्नातकहरू निम्न हुन्:"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 720,
+    "text_length_avg": 270.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2183,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13618.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13618.txt",
+    "relative_path": "13618.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13618.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2183,
+    "mtime": 1782796459.3640852,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "4deba6ab4a00364a14365382e612c36869242b5b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

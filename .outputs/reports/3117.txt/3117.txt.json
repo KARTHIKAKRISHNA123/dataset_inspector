@@ -1,0 +1,92 @@
+{
+  "dataset": "3117.txt",
+  "file_name": "3117.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2003 महिला च्याम्पियनसिप वा ओएफसी महिला राष्ट्र कप, ओशेनिया फुटबल संघद्वरा आयोजना गरिएको महिला राष्ट्रिय टोलीहरूको अन्तर्राष्ट्रिय फुटबल प्रतियोगिता हो जुन 5 अप्रिल देखि 13 अप्रिल 2003 सम्म अष्ट्रेलियामा आयोजित भएको थियो । यो प्रतियोगिता ओएफसी महिला राष्ट्र कपको 7 औँ संस्करण थियो ।",
+    "यो प्रतियोगिता 19-29 नोभेम्बर 2002 मा आयोजना गरिने निर्धारित गरियता पनि प्रतियोगिताबाट अमेरिकी समोआ, ताहिती र टोंगा प्रतिस्पर्धाबाट हटेपछि यो स्थगित भएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 282,
+    "text_length_avg": 194.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1515,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3117.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3117.txt",
+    "relative_path": "3117.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3117.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1515,
+    "mtime": 1782796541.176742,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a45e65abf432ecb15f6cedfda232d645ceed2370",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

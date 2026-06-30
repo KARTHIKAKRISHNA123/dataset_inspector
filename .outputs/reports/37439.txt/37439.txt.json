@@ -1,0 +1,91 @@
+{
+  "dataset": "37439.txt",
+  "file_name": "37439.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्णाली पुल नेपालको सबैभन्दा लामो पुल मध्येको एक हो जुन कर्णाली नदी माथि चिसापानी भन्ने स्थानमा छ। यो पूर्व-पश्चिम राजमार्ग को भाग हो जसले नेपालको सुदुर पश्चिमाञ्चल विकास क्षेत्र लाई नेपालको अन्य भाग सँग जोड्ने गर्दछ। यसको निर्माण सन् 1993 मा पूरा भएको हो। यो तार पुल हो जसको बिचमा ठूलो खम्बा हुन्छ र त्यसमा स्टीलका तारहरू बाँधेर ट्रस लाई अड्याइएको हुन्छ। यो 500 मिटर लामो तथा 10 मिटर चौडा छ। बिचको खम्बाको एक भाग तिर 325 मिटर छ भने अर्को भाग तिर 175 मिटर छ। यसको निर्माणमा 3,870 टन स्टील प्रयोग गरिए"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 565,
+    "text_length_max": 565,
+    "text_length_avg": 565.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1450,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37439.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37439.txt",
+    "relative_path": "37439.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37439.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1450,
+    "mtime": 1782796570.279892,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "468c47b03f2e189e546c52319333734ec06be39b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

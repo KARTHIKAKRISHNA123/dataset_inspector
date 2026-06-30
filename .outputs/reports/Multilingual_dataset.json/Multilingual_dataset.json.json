@@ -1,0 +1,107 @@
+{
+  "dataset": "Multilingual_dataset.json",
+  "file_name": "Multilingual_dataset.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "_note",
+    "_partial"
+  ],
+  "preview": [
+    "{\"ID\":1,\"English\":\"Awesome\",\"Marathi\":\"झकास (Jhakaas)\",\"Hindi\":\"झकास (Jhakaas)\",\"Tamil\":\"அதிசயமான (Adhisayamaana)\",\"Telugu\":\"అద్భుతమైన (Adbhutamaina)\"}\n{\"ID\":2,\"English\":\"Outspoken\",\"Marathi\":\"फटकळ (Fattkal)\",\"Hindi\":\"मुखर (Mukhar) \\/साफगोई(Saafgoi)\",\"Tamil\":\"நேரடியான (Neradiyana)\",\"Telugu\":\"ప్రగటంగామాట్లాడే (PragatangaMatlade)\"}\n{\"ID\":3,\"English\":\"Fit or in Good Shape\",\"Marathi\":\"फिट्ट (Fitt)\",\"Hindi\":\"टनाटन (TanaTan)\",\"Tamil\":\"உடற்தகுதி (Udartaguthi)\",\"Telugu\":\"ఫిట్గాఉన్న (Fit Ga Unna)\"}\n{\"ID\""
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 500,
+    "text_length_max": 500,
+    "text_length_avg": 500.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.7286,
+      "Telugu": 0.1032,
+      "Devanagari": 0.0944,
+      "Tamil": 0.0737
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 28705,
+    "estimated_records": 57
+  },
+  "schema": {
+    "columns": [
+      "_note",
+      "_partial"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "_note",
+      "_partial"
+    ],
+    "estimated_records": 57,
+    "raw_schema": {
+      "_note": "str",
+      "_partial": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7286,
+      "Telugu": 0.1032,
+      "Devanagari": 0.0944,
+      "Tamil": 0.0737
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "object"
+  },
+  "meta": {
+    "file_name": "Multilingual_dataset.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Multilingual_dataset.json",
+    "relative_path": "Multilingual_dataset.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Multilingual_dataset.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 28705,
+    "mtime": 1782737458.6311853,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "911b88f77d3fe58c2f9de196673f2b83734f8f1a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

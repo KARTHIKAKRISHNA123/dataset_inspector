@@ -1,0 +1,92 @@
+{
+  "dataset": "24671.txt",
+  "file_name": "24671.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विज्ञान त्यो व्यवस्थित ज्ञान अथवा विद्या हो जो विचार, अवलोकन, अध्ययन, र प्रयोगले प्राप्त गर्न सकिन्छ, जो कि कुनै अध्ययनको विषयको प्रकृति वा सिद्धान्तहरू जानका लागि गरिन्छ। विज्ञान शब्दको प्रयोग ज्ञानको यस्तो शाखाको निम्ति पनि गरिन्छ, जो तथ्य, सिद्धान्त र तरीकाहरूलाई प्रयोग र परिकल्पनाद्वारा स्थापित अनि व्यवस्थित गरिन्छ। यस प्रकार ब्कह्हान्न सकिन्छ कि कुनै पनि विषयको क्रमबद्ध ज्ञानलाई विज्ञान भनिन्छ । यस्तो पनि भनिन्छ कि विज्ञानको 'ज्ञान-भण्डार'को अतिरिक्त वैज्ञानिक विधि विज्ञानको असली कसौटी हो ।",
+    "प्राकृतिक विज्ञान प्रकृति र भौतिक संसारको व्यवस्थित ज्ञान हुन्छ, अथवा यसको अध्ययन गर्ने यसको कुनै शाखा। वास्तवामा विज्ञान शब्दको उपयोग प्रायः सधैं प्राकृतिक विज्ञानहरूको निम्ति गरिन्छ। यसका तीन मुख्य शाखाहरू छन्: भौतिक शास्त्र, रसायन शास्त्र र जीव विज्ञान।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 591,
+    "text_length_avg": 242.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3255,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24671.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24671.txt",
+    "relative_path": "24671.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24671.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3255,
+    "mtime": 1782796510.7987638,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6f04540c08a09233eaf4c6fadd98202d2165b416",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

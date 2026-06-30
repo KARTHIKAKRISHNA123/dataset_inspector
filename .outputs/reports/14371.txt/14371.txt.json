@@ -1,0 +1,92 @@
+{
+  "dataset": "14371.txt",
+  "file_name": "14371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीर शाह नेपाली सिनेकलाकार हुन् ।नीर शाहको आवाज दमदार रहेकाले पनि उनी नेपाली सिनेजगतमा अझ प्रसिद्ध छन।",
+    "शाहले वि.सं. 2024 सालमा हीरासिंह खत्री निर्देशित परिवर्तनबाट चलचित्रको यात्रा सुरु गरेका हुन्। करिब 3 सय चलचित्रमा सफल अभिनय गरिसकेका छन्। सुरुमा 7 सय रूपैयाँबाट अभिनययात्रा सुरु गरेका शाह महँगा चरित्र अभिनेताका रूपमा समेत परिचित छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 234,
+    "text_length_avg": 161.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1291,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14371.txt",
+    "relative_path": "14371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14371.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1291,
+    "mtime": 1782796462.7259667,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fba96805eb0962ad64d4086e4c9eb13ff947e967",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36173.txt",
+  "file_name": "36173.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुलको पानी समेटिने गरी, जमीनको सतह भन्दा केही खाल्डोमा बनाईएको धारा, सामान्य ढुङ्गाको टुटि देखि, धातुको टुटि भएको लाई पनि ढुङ्गे धारा भन्ने गरिन्छ।",
+    "ढुङ्गे धाराको इतिहासलाई नियाल्दा काठमाडौंको हाडीगाउँमा उत्खननबाट फेला परेको अनुमानित सन् 550मा निर्माण गरिएको एक ढुङ्गे धारालाई नै सबैभन्दा पुरानो ढुङ्गे धाराको रूपमा मानिन्छ भने 570मा निर्माण भएको पाटनको गङ्गा हिटीलाई अर्को पुरानो धाराको रूपमा चिनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 875,
+    "text_length_avg": 247.83,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8027,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36173.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36173.txt",
+    "relative_path": "36173.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36173.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8027,
+    "mtime": 1782796564.1262712,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "a1a35878e0e96ee1484292bbce037ebd06e0f76a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

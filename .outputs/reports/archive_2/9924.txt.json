@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9924.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2018 युइएफए च्याम्पियन्स लिग फाइनल 2017-18 च्याम्पियन्स लिग सिजनको अन्तिम खेल थियो । यो युइएफएले अायोजना गरेको 63 अौँ संस्करणको खेल थियो । यो कीवको एनएससी ओलिम्पियस्की स्टेडियममा, 26 मे 2018 मा युक्रेनमा खेलीएको थयो । स्पेनको च्याम्पियन क्लब रियल म्याड्रिड, जसले अन्तिम दुई सीजनहरूमा प्रतिस्पर्धा पाएका थिए, र अंग्रेजी पक्ष लिभरपुलले खेलेको थियो जहाँ पुण समयमा रियल म्याड्रिडले लिभरपुललाई 3-0 गोल अन्तरले हराएको थियो ।",
+    "युक्रेनको किव सहरमा रहेको एनएससी खेलकुद रङ्गशालामा युइएफए 2018 को फाइनल खेल भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 87,
+    "text_length_max": 418,
+    "text_length_avg": 252.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1301,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9924.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9924.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9924.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1301,
+    "mtime": 1782796675.6299908,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2778b16a9fd252127248d83b3d0eb41913c6fe5c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

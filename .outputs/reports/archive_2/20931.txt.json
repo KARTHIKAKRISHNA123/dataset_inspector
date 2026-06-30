@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20931.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइतवार अथवा आदित्यवार अथवा रविवार अथवा भानुवार शनिवार र सोमवारको बिचको दिन हो। ज्योतिष शास्त्र अनुसार यसलाई सूर्यको नामले नामाकरण गरिएको हो। बिक्रम संबत पात्रो अनुसार यो दिन हाप्ताको पहिलो दिन हो। क्रिश्चियन पात्रो अनुसार पनि आइतबारलाई हप्ताको पहिलो दिन माने पनि युरोपमा 20औं शताब्दीको मध्य देखि यसलाई हप्ताको सातौं दिन मान्न थालिएको छ। ",
+    "हिन्दू धर्मावलम्बीहरू आइतवारमा सूर्य देवताको पूजा गर्दछन्। इसाईहरू आइतवारलाई पवित्र दिवस मान्दछन् र हरेक कामबाट छुट्टी लिन्छन् र चर्च जाने गर्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 337,
+    "text_length_avg": 181.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1455,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20931.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20931.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20931.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1455,
+    "mtime": 1782796628.0963876,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "f8e0ce4e6019174e9e3c28dd191639e349629ffb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

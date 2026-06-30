@@ -1,0 +1,92 @@
+{
+  "dataset": "14673.txt",
+  "file_name": "14673.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फलादेश जन्म समयको आधारमा राशिहरूको भाव निर्धाण गरेर र अन्य जानकारीको आधारमा गरिने ब्यक्तिको भविष्यवाणीहो।अरूको भविश्यवाणी गर्ने व्यक्तिलाई ज्योतिष भनिन्छ। कुनै एउटा ग्रहको फलादेश गर्दा अरू सबै ग्रहहरूसँगको सम्बन्धलाई केलाएर मात्र गरिन्छ। ग्रहहरू गतिशील भएकाले आफ्नै भावमा फेला नपर्न पनि सक्छन्। ",
+    "चित्रमा 1 लेखिएको कोठालाई लग्न भनिन्छ। लग्न जहिले पनि त्यही कोठा हो। 1 लेखेको घर प्रथम भाव भयो जसको राशी मेश हो । यो ब्यक्तिको कुन्डलिको चित्रमा प्रथम भावमै 1 भएपनि, त्यो अरु कुनै ब्यक्तिको भए 12 पनि हुनसक्थ्यो, अर्थात मीन राशि। प्रथम भावबाट घडीको उल्टो दिशातिर अन्य भावहरू गन्दै लगिन्छ। चित्रमा भाव र राशि सन्योगबश एउटै अङ्क परेका छन्। कुण्डलीमा प्रथम, चतुर्थ, सप्तम र दशम भावहरूलाई केन्द्र भनिन्छ। पहिलो भावबाट कुण्डलीवाला व्यक्तिको निजी चरित्र अनुमान गरिन्छ। चौँथो भावबाट मातृपक्ष, शरीर आदि, सातौँ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 295,
+    "text_length_max": 1011,
+    "text_length_avg": 653.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3470,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14673.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14673.txt",
+    "relative_path": "14673.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14673.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3470,
+    "mtime": 1782796464.1537566,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "06012f9a4a0c59d7bcc980f905f9c3d04311dfe8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

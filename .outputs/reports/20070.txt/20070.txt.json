@@ -1,0 +1,96 @@
+{
+  "dataset": "20070.txt",
+  "file_name": "20070.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Sypheotis aurita",
+    "सानो खरमुजुर नेपालमा पाइने एक प्रकारको चराको नाम हो । यसलाई अङ्ग्रेजीमा लेसर फ्लोरिक्यान भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 97,
+    "text_length_avg": 56.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8454,
+      "Latin": 0.1546
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 279,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8454,
+      "Latin": 0.1546
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20070.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20070.txt",
+    "relative_path": "20070.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20070.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 279,
+    "mtime": 1782796489.9983802,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "0061e114ce4bb2d71e55213a43a328afc7f8d3f5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

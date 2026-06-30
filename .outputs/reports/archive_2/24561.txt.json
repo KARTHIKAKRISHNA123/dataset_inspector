@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24561.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धरणीधर कोईराला नेपाली भाषासेवी तथा शिक्षाविद् धरणीधर एक कुशल कवि पनि हुन् ।",
+    "धरणीधरको जन्म तात्कालिन पूर्व 2 नम्बर, दुम्जामा वि.सं. 1949 साल माघ 24 गते भएको हो । माता पूण्यमातादेवी तथा पिता आवन्तिनाथ कोईरालाका पुत्र धरणीधरको बाल्यकाल हजुरबुबा पूर्णानन्दको काखमा बित्यो । बनारसबाट आई ए को अध्ययन पुरा गरेका कवि धरणीधर नेपालमा जागिर नमिलेपछि आफ्ना समकालिन मित्र पारसमाणि प्रधानको सहयोगमा वि.सं.1976 मा दार्जिलिङको एक सरकारी विद्यालयमा नेपाली शिक्षकको रूपमा प्रवेश गरे । शिक्षकको रुपमा रहेकै बेला कलकत्ता विश्वविद्यालयबाट स्नातक तथा ढाका विश्वविद्यालयबाट बि टि परिक्षा उत्तिर्ण गर"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 1102,
+    "text_length_avg": 365.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4838,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24561.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24561.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24561.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4838,
+    "mtime": 1782796635.463387,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "17b2c28bab66c80ee0b21e829b517f2bb522f1f5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11706.txt",
+  "file_name": "11706.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द्वितीय चीन-जापान युद्ध चीन तथा जापानका बीच 1937-45का बीच लडिएको थियो । 1945मा अमेरिका द्वारा जापानमा परमाणु बम खसाए पछि जापानले समर्पण गरे र युद्धको समाप्ति भयो । यसका परिणामस्वरूप मंचूरिया तथा ताईवान चीनलाई फिर्ता सुम्पिए जसलाई जापानले प्रथम चीन-जापान युद्धमा त्यससित लिएको थियो ।",
+    "1941सम्म चीन यसमा एक्लो रहयो । 1941मा जापान द्वारा पर्ल हार्बरमा गरियो आक्रमण पछि यो द्वितीय विश्व युद्धको अंग बन्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 282,
+    "text_length_avg": 200.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1032,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11706.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11706.txt",
+    "relative_path": "11706.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11706.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1032,
+    "mtime": 1782796450.6468272,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.98,
+    "sha1_quick": "e094696e7274c92fe47f56c3cce91db9458dfd47",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

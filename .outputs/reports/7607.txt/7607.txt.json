@@ -1,0 +1,92 @@
+{
+  "dataset": "7607.txt",
+  "file_name": "7607.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"हिमाल\" लेख यहाँ रिडाइरेक्ट हुन्छ। कृपया लेखको अरू उपयोगका लागि हिमाल हेर्नुहोला। ",
+    "हिमालय एसियामा अवस्थित एक हिमश्रृङ्खला हो, जुन दक्षिण-पश्चिमबाट पाकिस्तान, भारत हुँदै तिब्बत, नेपाल र भूटानसम्म फैलिएको छ। हिमालय अफगानिस्तानको हिन्दूकुश हिमश्रृङ्खलासँग जोडिएको छ। हिमालय शब्दको उत्पति संस्कृतबाट भएको हो, जसको अर्थ हुन्छ - \"हिउँको बासस्थान\" ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 259,
+    "text_length_avg": 72.88,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1577,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7607.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7607.txt",
+    "relative_path": "7607.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7607.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1577,
+    "mtime": 1782796595.287572,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "07700ec849e3e83c64b52597885491f890dacb66",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

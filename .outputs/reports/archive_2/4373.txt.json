@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4373.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "उप–नी–षद् को अर्थ हुन्छ गुरुको चरण नजीक आसनमा बस्नु । उपनिषदहरुलाई श्रुति पनि भनिन्छ किनभने उपनिषदहरुलाई वेदको ज्ञानकाण्ड मानिन्छ । वेदको अन्त मानिएकोले वेदान्त पनि भनिन्छ । जंगलको एकान्तमा शिष्यको जिज्ञासा मेटाउन रचना गरिएका ग्रन्थ भएकोले यिनीहरुलाई आरण्यक पनि भनिन्छ । उपनिषदमा जीवनको सबभन्दा गूढ विषय छलफल गरिएकोले उपनिषदलाई रहस्यविद्या पनि भनिन्छ । उपनिषदहरु हिन्दु र बौद्ध अध्यात्म दर्शनका आधार भएकोले अध्यात्म विद्या पनि भनिन्छ । सुफि दर्शनमा उपनिषद्को निकै प्रभाव परेको हुनाले यसलाई हिन्दू तथा"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 2291,
+    "text_length_avg": 653.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24164,
+    "estimated_records": 36
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 36,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9976,
+      "Latin": 0.0024
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4373.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4373.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4373.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24164,
+    "mtime": 1782796664.4454224,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4d137b8b9ad143837c42ff57dff9ecb340358d32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

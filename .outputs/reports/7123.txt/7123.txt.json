@@ -1,0 +1,92 @@
+{
+  "dataset": "7123.txt",
+  "file_name": "7123.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुक्तकलाई गजल कै लघु रुपमा बुझ्न सकिन्छ | मुक्तक साहित्यको एउटा बिधा हो। खास गरि मुक्तक आफैमा एउटा स्वतन्त्र बिधा हो। मुक्त रुपमा आफ्ना भाव र अभिव्यक्ति पोख्ने साहित्यिक बिधा नै मुक्तक हो । तर यसमा गजल जस्तो असिमित हरफ राख्न मिल्दैन | मुक्तकमा बढीमा पनि चार र घटीमा पनि चार हरफ नै हुनुपर्छ | तेस्रो हरफ स्वतन्त्र हुन्छ भने बाँकी हरफमा काफिया मिलेको हुनुपर्छ।",
+    "मुक्तकमा राखिएका काफियालाई भने अनुप्रास भन्ने गरिन्छ। |"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 584,
+    "text_length_avg": 157.41,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9135,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7123.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7123.txt",
+    "relative_path": "7123.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7123.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9135,
+    "mtime": 1782796593.0484767,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8505eb204344d699ca25bb21a473d4490db9656b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

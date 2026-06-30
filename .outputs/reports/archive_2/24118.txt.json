@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24118.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समय दैनिक भारतको सिक्किम राज्यको राजधानी गान्तोकबाट प्रकाशित हुने एक नेपाली दैनिक समाचार पत्र हो, जो 2004 देखि प्रकाशित हुँदै आएको छ। यसका संस्थापक सम्पादक पदम क्षेत्री थिए भने उनी पछि जेभियर सुब्बा यसका सम्पादक बने। मे 2007-मा पारसमणि शम यसका सम्पादक बन्न पुगे। शमले 2014 को सेप्टेम्बर 7 तारिकसम्म यसको सफलतापूर्वक सम्पादन गरेपछि आफ्ना अनुज डिल्लीराम दुलाललाई यसको सम्पादकको जिम्मेवारी सुम्पिए। समय दैनिकका प्रकाशक एसके प्रधान हुन्।",
+    "जम्मा 8 पृष्ठमा रङ्गीन रूपमा दैनिक प्रकाशित हुने यो समाचार पत्र सिक्किमको सर्वाधिक बिक्री हुने लोकप्रिय समाचार पत्र हो। यसमा स्थानीय समाचार, क्षेत्रीय महत्वका समाचार, राष्ट्रिय तथा अन्तरराष्ट्रिय समाचार निरन्तर प्रकाशित हुन्छन् भने कला, संस्कृति, साहित्य, खेलकूद, विज्ञान, सौन्दर्य, आदि विविध विषयका पठन योग्य सामग्री पाइन्छ। यति मात्र होइन यसमा सामाजिक गतिविधिलाई लिएर लेखिएका रचनाहरूको पनि उपस्थिति रहन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 407,
+    "text_length_max": 433,
+    "text_length_avg": 420.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2226,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24118.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24118.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24118.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2226,
+    "mtime": 1782796634.552642,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9507162b1558669f2d8b0f3860f2756f4555b157",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

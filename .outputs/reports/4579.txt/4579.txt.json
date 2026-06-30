@@ -1,0 +1,92 @@
+{
+  "dataset": "4579.txt",
+  "file_name": "4579.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नूतन समर्थ बहल भारतीय चलचित्र क्षेत्रकी एक बहुप्रसिद्ध अभिनेत्री थिइन्। नूतनले 70 भन्दा बढी चलचित्रमा अभिनय गरिन् र उनलाई भारतीय चलचित्र इतिहासमा सबभन्दा सफल अभिनेत्री मध्ये एक मानिनछ। ",
+    "सन 1950मा 14 वर्षको आयुमा नूतनले \"हमारी बेटी\" भन्ने चलचित्रबाट आफ्नो व्यवसायिक जीवनको शुरुवात गरिन्। उक्त चलचित्र नूतनकी आमा शोभना समर्थले निर्देशन गरेकी थिइन्। नूतनले सीमा, सुजाता, बन्दिनी, मिलन, मैं तूलसी तेरे आँगन की जस्ता चलचित्रमा आफ्नो सशक्त अभिनयको परिचय दिइन्। नूतनका नाममा फिल्मफेयर सर्वश्रेष्ठ अभिनेत्री सबैभन्दा बढी जित्ने किर्तिमान छ जुन उनकी भाञ्जी काजोलले बराबरी गरेकी छिन्। साथै उनले फिल्मफेयरमा सबैभन्दा पुरस्कृित अभिनेत्रीको किर्तिमान जया बच्चनसँगै बाडेकी छिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 154,
+    "text_length_max": 478,
+    "text_length_avg": 275.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2925,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4579.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4579.txt",
+    "relative_path": "4579.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4579.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2925,
+    "mtime": 1782796580.3476202,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "bcf9a5b1a1b3b2a2753e5f0e2bdcb708c13d2a69",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

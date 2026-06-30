@@ -1,0 +1,92 @@
+{
+  "dataset": "17379.txt",
+  "file_name": "17379.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमार षष्टि अथवा सिठी हिन्दू धर्मावलम्बीहरूको एक बिशेष पर्व हो । भगवान शिवजीका पुत्र कुमार अथवा कार्तिकेयको जन्मोत्सव का अवसरमा मनाइने यो पर्व ज्येष्ठ शुक्ल षष्ठी तिथिका दिनमा पर्दछ । हिन्दूहरू यस पर्वलाई कुमार षष्टि पर्वको रूपमा मनाउछन् भने नेपाल भाषामा यस पर्वलाई सिठी भनिन्छ । ",
+    "यस पर्वका सम्बन्धमा विभिन्न किंवदन्ती छन् ।यहाँ स्वस्थानी व्रतकथा तथा ब्रह्मवैवर्त पुराणलाई मात्र आधार बनाएर हेर्ने हो भन्ने पनि गंगाका पुत्रको रुपमा जन्मेका कुमारको पालन पोषण 6 वटी कृतिकाहरूले गरेको उल्लेख छ । कुमारषष्ठी पर्व कहिलेदेखि सुरू भयो र यसको विशेषताका सम्बन्धमा केही ग्रन्थमा यसरी उल्लेख गरेको पाइन्छ- मार्कण्डेय शिव पुराण अनुसार 6 वटा शिरसहितका कर्तिकेय कुमारको ज्येष्ठ महिनाको शुक्ल पक्षको षष्ठीका दिन श्री शङ्कर भगवान शिवजीका ज्येष्ठ पुत्र श्री कार्तिकेय कुमारको जन्म भएको हुँदा त्यस दि"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 280,
+    "text_length_max": 4890,
+    "text_length_avg": 2024.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21547,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17379.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17379.txt",
+    "relative_path": "17379.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17379.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21547,
+    "mtime": 1782796477.0646565,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "763b247b91dcfcd348e7bcc4ee0df8e4f0e18a76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

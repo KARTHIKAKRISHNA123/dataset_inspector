@@ -1,0 +1,91 @@
+{
+  "dataset": "31620.txt",
+  "file_name": "31620.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मलातो पहाडी भेकमा पाइने चाँडो बढ्ने एक प्रकारको रूख हो। यसको पात पिपलको जस्तै आकारको हुने भएकाले कतै कतै यसलाई \"खोली पिपल\" भनेको पनि सुनिन्छ। यसको पातको आकार पिपलको पातको आकार जस्तो भए पनि साइज धेरै ठूलो हुन्छ। मलातो धेरै छिटो बढेर ठूलो हुन्छ तर यसको काठ कमजोर हुने भएकाले धेरै जसो दैनिक उपभोग्य वस्तुमा प्रयोग ल्याउँन भने सकिदैन। दाउरा बाल्ने काम बाहेक कतै कतै मादल बनाउने काममा मलातोको काठ प्रयोगमा ल्याएको पाइन्छ। यसको पात भने ठूलो हुने हुनाले दैनिक उपभोग्यको लागि प्रयोग गरिएको पाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 489,
+    "text_length_max": 489,
+    "text_length_avg": 489.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1298,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31620.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31620.txt",
+    "relative_path": "31620.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31620.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1298,
+    "mtime": 1782796543.4118047,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ca0e8ed9b92b1ef72d2d2c4b693514988a80af16",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

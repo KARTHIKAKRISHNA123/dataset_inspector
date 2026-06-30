@@ -1,0 +1,92 @@
+{
+  "dataset": "22313.txt",
+  "file_name": "22313.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मदन भण्डारी राजमार्ग निर्माणाधीन राष्ट्रिय राजमार्ग परियोजना हो। यो राजमार्ग नेपालको पूर्वी सीमा देखि चुरेभावर तथा भित्री मधेश छिचोल्दै पश्चिमी सिमा सम्म करिव 12 सय किलोमीटर लामो हुनेछ। ",
+    "राजमार्ग झापा बाहुण्डाँगी बाट सुरू भै शान्तिनगर, चुलाचुली, धरान, चतरा, गाईघाट, सप्तरी, सिन्धुलीमाडी, हेटौंडा, गैडाकोट, रामपुर, राम्दी, रिडी, तम्घास सिमलटारी, प्युठानको मच्छी, घोराही, तुलसीपुर, बोटेचौर, सुर्खेत, बडिचौर, सिमचौर, बीपीनगर, सहजपुर, जोगबुडा हुँदै रुपालसम्म पुग्ने छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 278,
+    "text_length_avg": 176.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1823,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22313.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22313.txt",
+    "relative_path": "22313.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22313.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1823,
+    "mtime": 1782796500.2038407,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fc93f243c81916b642f1f517f603badea8b32e17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

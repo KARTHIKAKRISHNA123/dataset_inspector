@@ -1,0 +1,92 @@
+{
+  "dataset": "737.txt",
+  "file_name": "737.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जसबीरे इलाम जिल्लाको उत्तरी क्षेत्रमा अवस्थित रमणीय गाउँ हो । इलामका प्रमूख पर्यटकीय गन्तव्य माईपोखरी, टोड्के झरना, सन्दकपुर र छिन्तापु जाने प्रवेशद्वार पनि हो यो स्थान । माइपोखरी गाउँ विकास समिति अन्र्तगत वार्ड नम्वर 1मा पर्ने जसबीरे फूलहरूको लागि प्रख्यात छ । यहाँ हरेक घरको बार्दलीभरी फुलेका फूलहरूले जो कोहीको मन लोभ्याउँछ । यो सानो वस्तीमा सुनुवार र लिम्बु जातिको वाहुल्यता छ । यसैगरी यहाँ राई, वाहुन, क्षेत्री, गुरूङ, सेर्पा, कामी जातिको पनि वसोवास छ । इलाम सदारमुकामवाट करिब 8 किलोमिटरको दुरीम",
+    "वस्तीको हिसवाले सानो भएपनि जसबीरे आफैंमा समृद्ध छ । कुनैवेला यस स्थानलाई नमूना गाँउको रूपमा हेरिन्थ्यो । त्यसताका यही ठाँउमा तत्कालिन राजा विरेन्द्र, रानी ऐश्वर्य र राजकुमार दिपेन्द्रले भ्रमण गरेका थिए । जस्ताअलैंची,चिया,ओलन यहाँको प्रमूख उत्पादन हुन् । यहाँ उच्च माध्यमिक विद्यालय, चिया विस्तार योजनाको शाखा कार्यालय, सन्दकफू चिया उद्योग र माइ इलाम गुराँसे चिया स्टेट रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 378,
+    "text_length_max": 11265,
+    "text_length_avg": 3262.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34536,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "737.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\737.txt",
+    "relative_path": "737.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "737.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34536,
+    "mtime": 1782796594.1467793,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e7113d2d70869cf97be5dbb13a9965c5c0cda3b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

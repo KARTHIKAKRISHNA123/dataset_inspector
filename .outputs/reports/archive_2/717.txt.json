@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "717.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिडन ट्रिजर फेन्टा मिस नेपाल प्रतियोगिता 2017 मिस नेपाल प्रतियोगिताको 22औं संस्करण रहेको थियो जुन सन् 2017 जुन 2 मा काठमाडौंको अन्नपूर्ण होटलमा सम्पन्न भयो थियो। मिस नेपाल 2016 को विजेता अस्मी श्रेष्ठले 2017 को उपाधि नितिका चन्दकलाई प्रदान गरिन् । विजेता निकिता चन्दकले अब 2017 विश्व सुन्दरी प्रतियोगितामा नेपालको प्रतिनिधित्व गर्ने छिन ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 338,
+    "text_length_avg": 338.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 865,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "717.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\717.txt",
+    "relative_path": "archive (2)\\valid\\valid\\717.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 865,
+    "mtime": 1782796670.074485,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "56c1a3d84ecd9b65726844ad504a962e4fe77b32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

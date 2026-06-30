@@ -1,0 +1,94 @@
+{
+  "dataset": "32329.txt",
+  "file_name": "32329.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2007 सालको क्रान्ति लाई नेपालको प्रजातन्त्रिक आन्दोलन पनि भनिन्छ। देशमा विद्यमान एकतन्त्रीय राणा शासन विरूद्ध सुरू भएको जनताको क्रान्ति 2007 फागुन 7 गते नेपालमा राणा शासनको अन्त्य गरी प्रजातन्त्रको स्थापनामा आएर रोकिएको थियो। यस क्रान्तिमा नेपाल प्रजा परिषद् नेपाली कांग्रेस पार्टीहरूले भाग लिएका थिए। नेपाली कांग्रेसको नेतृत्त्वमा भएको देशव्यापी शसस्त्र क्रान्ति पछि विभिन्न ठाउँमा राणा बडाहाकिमहरूले आत्मसमर्पण गर्दै आए। ती ती ठाउँमा जनताको सरकार स्थापना हुँदै आयो र अन्त्यमा तत्कालिन भारतीय प्रधान",
+    "लामो समयदेखि आफ्नो परिवार सहित भारत गएका राजा त्रिभुवन 2007 फागुन 6 गते नेपाल आए र 7 गते प्रजातन्त्रको घोषणा गरियो।"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 772,
+    "text_length_avg": 248.72,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11940,
+    "estimated_records": 48
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 48,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32329.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32329.txt",
+    "relative_path": "32329.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32329.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11940,
+    "mtime": 1782796546.5977645,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "12e0125f61ebeb704993832a8f02d07f0782f8b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

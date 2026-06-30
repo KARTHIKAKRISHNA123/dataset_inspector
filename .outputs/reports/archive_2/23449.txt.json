@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23449.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भुटीनी देवी खवास",
+    "मोरङ, बैजनाथपुर निवासी 40 वर्षीया भोटनीदेवी खवास समानुपातिकतर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। 2036 सालदेखि राजनीति र त्यसका साथै समाजसेवामा समेत सक्रिय रहँदै आएकी खवास नेपाली काङ्ग्रेस महासमिति सदस्य तथा नेपाल महिला संघका केन्द्रीय सदस्य हुनुहुन्छ। प्रजातन्त्र एवम् नागरिक अधिकारका निम्ति भएका आन्दोलनहरूमा उहाँ सक्रिय रहँदै आउनुभएको छ। पछिल्लो पटक, पूर्व राजा ज्ञानेन्द्रको शासनकालमा भएको प्रतिगमन विरोधी आन्दोलनमा मोरङ र काठमाडौंमा समेत उहाँ पटक―पटक पक्राउ पर्नुभएको थियो। संविधानमा सबैको अधिक"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 1014,
+    "text_length_avg": 515.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2775,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23449.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23449.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23449.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2775,
+    "mtime": 1782796633.297223,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4853b0852152be1aa39af391b280b66729df015c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

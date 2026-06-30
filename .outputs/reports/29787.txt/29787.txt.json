@@ -1,0 +1,92 @@
+{
+  "dataset": "29787.txt",
+  "file_name": "29787.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुव्वा कृष्णलाल अधिकारी द्वारा लिखित नेपाली खेती किसानी संबन्धित पुस्तक हो। वि.सं. 1944 माघ 24 गते हालको रामेछाप जिल्लाको कठजोर तिल्पुङ गाउँमा जन्मेका सुव्वा कृष्णलाल अधिकारी लाई नेपालका प्रथम साहित्यिक/भाषिक शहीद पनि भनिन्छ ।",
+    "प्रमाणिक अभिलेख अनुसार उहाले वि.सं. 1946 तिर 'मकैको खेती' नामक पुस्तक लेख्न थाली वि.सं. 1977मा पूरा गर्नुभएको थियो । 60 पृष्ठको उक्त पुस्तक नक्साल भगवती नजीकै पशुपति छापाखानामा 1 हजारप्रति छापिएको थियो। तत्कालिन प्रधान मन्त्री चन्द्र शमशेरले सुव्वा कृष्णलाल अधिकारी लाई 'पुस्तक लेखेर गाथगादी ताकेको' कारण सजाय भै उनको जेलमा नै मृत्यु भएकोले यो पुस्तक प्रकाशन राणा विरोधि अभियानमा 'कोशे ढुगां'को रूपमा गणना गरिन्छ| उहा वि.सं. 1977 श्रावण 11मा पक्राउ पर्नुभयो र जेल सजाय तोकियो । साथै प्रकाशित पुस्तक म"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 869,
+    "text_length_avg": 524.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4118,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29787.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29787.txt",
+    "relative_path": "29787.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29787.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4118,
+    "mtime": 1782796534.846948,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a22fd354bfb929938886f1267a54cbd27e70e61f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

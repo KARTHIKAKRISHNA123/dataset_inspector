@@ -1,0 +1,91 @@
+{
+  "dataset": "36427.txt",
+  "file_name": "36427.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चैत्र महिनामा पर्ने द दशैं तथा नवरात्रीलाई चैते दशैं भनिन्छ । यसमा पनि दशैंको जस्तै पूजापाठ, चण्डीपाठ, बाजागाजा बज्ने गर्छन् । नेपाली चाडपर्वमा चैते दशैंको पनि महत्वपूर्ण स्थान रहेको छ । नेपाल भरिमा चैते दशैं विभिन्न ठाउँमा मनाइने गरिन्छ । तीमध्ये बागलुङ जिल्लाको देवीस्थानमा मनाइने चैते दशैंको आफ्नै विशेष स्थान रहेको छ । असुर शक्तिमाथि दैवीशक्तिको विजय तथा असत्यमाथि सत्यको विजयका रुपमा लिइने दशैं हिन्दुधर्मावलम्बीहरुले वर्षमा दुइपटक मनाउने गर्दछन् । असोजमा मनाईंने दशैंलाई बडादशैको रुपमा मनाइन्छ "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 903,
+    "text_length_max": 903,
+    "text_length_avg": 903.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2424,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36427.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36427.txt",
+    "relative_path": "36427.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36427.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2424,
+    "mtime": 1782796565.3618498,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "87586039d66d5274b6968bf4b5260c7f91c3d580",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "18385.txt",
+  "file_name": "18385.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "एनजीसी 6822, जसलाई बरनार्डको गैलेक्सी र आईसी 4895 पनि भनिन्छ, एक डन्डीय सर्पिल गैलेक्सी छ जसको आकार थोरै बेढंगा छ। यो गैलेक्सीहरूका स्थानीय समूहको सदस्य छ र आकाशगंगा का नजीक स्थित छ। आफ्नो ढाँचे र ताराहरूका हिसाबले यो साना मंजलंनिक बादल नामक गैलेक्सीदेखि काफी मिल्दोजुल्दो छ। आकाशमा यो धनु तारामण्डलका क्षेत्रमा नजर आउँछ र हामीदेखि करीब 16 लाख प्रकाश वर्षको दूरीमा स्थित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 373,
+    "text_length_avg": 108.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1693,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18385.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18385.txt",
+    "relative_path": "18385.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18385.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1693,
+    "mtime": 1782796481.8529494,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "122cf50a1b99b31678486188d1199d6fae51386a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

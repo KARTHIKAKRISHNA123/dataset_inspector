@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31304.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 19°0′ उत्तर 43°0′ पूर्व / 19.000° उत्तर 43.000° पूर्व / 19.000; 43.000",
+    "असिर प्रान्त, अरबी: عسير सउदी अरबको दक्षिण पश्चिम क्षेत्रमा स्थित एक प्रदेश हो जुन असिर जातिको नामबाट साभार गरिएको थियो। यसको क्षेत्रफल 76,693 वर्ग किलोमिटर वा 29,611 वर्ग माइल रहेकोे छ भने यसको अनुमानित जनसङ्ख्या 19,133,92 रहेको छ । यसले यमनसँग छोटो सीमा बाँढेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 571,
+    "text_length_avg": 264.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Arabic": 0.0028
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4774,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Arabic": 0.0028
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31304.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31304.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31304.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4774,
+    "mtime": 1782796648.7332134,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "81a83847a01152e58a4fcc2dede3e018b32e52a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

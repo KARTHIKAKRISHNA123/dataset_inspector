@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15447.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दार्जिलिङ भारतको पश्चिम बङ्गाल राज्यमा रहेको एउटा नगर हो । यो दार्जिलिङ जिल्लाको सदरमुकाम हो । यो नगर महाभारत पहाड भागमा अवस्थित छ । यहाँको औसत उचाई 2,134 मिटर छ । दार्जिलिङ शब्दको उत्त्पत्ति दुई तिब्बती शब्द, दोर्जे र लिङ्ग बाट भएको हो । यसको अर्थ \"चट्याङ स्थान\" हो । भारतमा बेलायती शासनको बेला अनुकूल मौसमको कारणबाट यस ठाउँलाई हिल स्टेसन बनाइयो । बेलायती रेसिडेन्ट्स यहाँ ग्रीष्म मौसमको गर्मीबाट छुट्कारा पाउनको लागि यहाँ आउने गर्दथे ।",
+    "दार्जिलिङ अन्तर्राष्ट्रिय स्तरमा चियाको लागि प्रसिद्ध छ । दार्जिलिङमा रहेको दार्जिलिङ हिमालयन रेलवे एउटा युनेस्कोको विश्व सम्पदा सूचीमा परेको छ। यहाँ चियाखेती सन् 1800 को मध्यबाट शुरु भएको थियो । यहाँको चिया उत्पादकहरूले कालो चिया र फर्मेन्टिंग प्रविधिको एक सम्मिश्रण तयार गरेका छन् जो विश्वको सर्वोत्कृष्टमा एक हो। दार्जिलिङ हिमालयन रेलवे जो दार्जिलिङ नगरलाई समथर स्थलसँग जोड्द छ, यसलाई विश्व सम्पदा स्थल 1999 मा घोषित गरिएको थियो । यो वाफबाट सञ्चालन हुने यन्त्र भारतमा एकदमै कम देख्न पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 56,
+    "text_length_max": 952,
+    "text_length_avg": 381.18,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 45089,
+    "estimated_records": 118
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 118,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15447.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15447.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15447.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 45089,
+    "mtime": 1782796617.4631178,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7b7aa3ddfda16699e7e8f0d3c53df1930db8c58b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

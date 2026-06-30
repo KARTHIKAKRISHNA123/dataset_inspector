@@ -1,0 +1,91 @@
+{
+  "dataset": "31354.txt",
+  "file_name": "31354.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सीमा मल्होत्रा, बेलायतको फेल्थम एन्ड हेस्टन सिटबाट सांसद हुन् र भारतीय मूलकी बेलायतको पहिलो स्याडो मन्त्री हुन् । उनी कुनै पनि पार्टीबाट स्याडो मन्त्री नियुक्त हुने पहिलो सांसद हुन् । उनी लेबर पार्टीसँग आवद्ध छिन् । लेबर पार्टीले घरेलू हिंसा र त्यससँग सम्बन्धित मुद्दाहरूसँग लड्नका लागि र महिलाहरूको विरुद्ध हिंसालाई रोक्नका लागि उनलाई यस पदमा नियुक्त गरिएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 366,
+    "text_length_max": 366,
+    "text_length_avg": 366.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 979,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31354.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31354.txt",
+    "relative_path": "31354.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31354.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 979,
+    "mtime": 1782796542.0556107,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c462a7d09b0af76c94fc1c3b8a48c70d2a35f574",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

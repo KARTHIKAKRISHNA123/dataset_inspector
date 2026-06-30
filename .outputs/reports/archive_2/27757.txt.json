@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27757.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुकेश धीरूभाई अम्बानी भारतीय व्यवसायी तथा विश्वका छत्तीस औं धनि व्यक्ति हुन् । उनी रिलायन्स इण्डस्ट्रीज का अध्यक्ष, प्रबन्ध निर्देशक र कम्पनीको सबैभन्दा ठूलो शेयरधनी हुन् । यो कम्पनी भारतमा निजी क्षेत्रको सबैभन्दा ठूलो तथा फोर्च्यून 500 कम्पनी हो । रिलायन्स इन्डस्ट्रीज मा उनका व्यक्तिगत हिस्सेदारी 48 % हो ।",
+    "उनका सम्पत्तिको मूल्य 22.2 अरब अमेरिकी डलर रहेको छ । मुकेश र उनको भाई अनिल अम्बानी रिलायन्स इन्डस्ट्रीजको संस्थापक स्वर्गीय धीरूभाई अम्बानीका छोरा हुन् । मुकेश इन्डियन प्रीमियर लिगको टीम मुम्बई इन्डियन्स का मालिक पनि हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 167,
+    "text_length_max": 429,
+    "text_length_avg": 267.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9977,
+      "Latin": 0.0023
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5648,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9977,
+      "Latin": 0.0023
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27757.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27757.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27757.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5648,
+    "mtime": 1782796641.7395,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3741a1d0c9a909031ea5814a67cbfce8fd74a5a2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

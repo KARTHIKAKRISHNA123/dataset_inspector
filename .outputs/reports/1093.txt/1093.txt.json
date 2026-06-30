@@ -1,0 +1,93 @@
+{
+  "dataset": "1093.txt",
+  "file_name": "1093.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्पनी रजिष्ट्रारको कार्यालय कम्पनी ऐन, 2063 वमोजिम प्राइभेट लिमिटेड, पव्लिक लिमिटेड र मुनाफा वितरण नगर्ने कम्पनीहरु दर्ता गर्न स्थापित भएको संस्था हो । यस कार्यालयको मुख्य उद्देश्य संस्थापक र र्सवसाधारणलाई सुलभ र प्रभावकारी सेवा उपलव्ध गराउने हो। । सञ्चालक तथा व्यवस्थापनका पदाधिकारीहरूले सर्वसाधारणको पूँजी दुरुपयोग गर्दै कम्पनीबाट ऋण झिक्ने वा आफ्ना नातेदारसँग कारोबार गरी व्यक्तिगत फाइदा लिने प्रवृत्ति रोक्ने पनि यस कार्यालयको मुख्य उद्देश्य हो। विदेशी कम्पनीहरूलाई सरकारको नियमनभित्र ल्याउने का",
+    "नयाँ दर्ता हुने कम्पनीहरुलाई छिटो, छरितो र प्रभावकारी सेवा उपलव्ध गराउने प्रमुख उद्देश्यका साथ कम्पनी रजिष्ट्रारको कार्यालय स्थापना भएको हो । कम्पनी रजिष्ट्रारको कार्यालय 2049 साल माघ महिनामा स्थापित भएको हो । यो उद्योग मन्त्रालय अन्तर्गत स्थापित विभागस्तरीय कार्यालय हो । यस कार्यालयको स्थापना सबै प्रकारका कम्पनी प्रशासनसम्वन्धी काम कारवाहीहरु समान र एकै किसिमले एउटै निकायबाट सम्पादन गर्न भएको हो । यस कार्यालयले कम्पनी ऐन बमोजिम आवश्यक क्रियाकलाप र कागजातहरुको माध्यमबाट समेत अनुगमन गर्ने गरेको छ"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 1199,
+    "text_length_avg": 408.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9931,
+      "Latin": 0.0069
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10704,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1093.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1093.txt",
+    "relative_path": "1093.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1093.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10704,
+    "mtime": 1782796447.0327468,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d61fbac5426368955076e70a82c67e7992ace60a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

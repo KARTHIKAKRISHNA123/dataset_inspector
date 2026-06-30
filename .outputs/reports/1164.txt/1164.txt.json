@@ -1,0 +1,94 @@
+{
+  "dataset": "1164.txt",
+  "file_name": "1164.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पोखरा चिसाखोला वेद विद्याश्रम पर्यटकीय नगरी पोखरा उपत्यकाको नयाँ बसपार्कदेखि करिब 2 कि.मी उत्तर पश्चिम दिशामा सराङ्कोट 6 चिसाखोला कास्की मा रहेको छ । विद्याश्रम समुद्री सतहबाट करिब 990 मिटरको उचाइमा स्थित छ । ",
+    "पोखरा चिसाखोला वेद विद्याश्रम घना जङ्गलको विचमा स्थित छ जसले प्राचीन आश्रमहरुको झल्को दिन्छ । श्रृङ्गी र कश्यप ऋषिको तपोभूमि यो ठाउँ धार्मिक आध्यात्मिक ज्ञान प्राप्त गर्ने प्राचीन थलोका रुपमा पाइन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 604,
+    "text_length_avg": 123.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5870,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1164.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1164.txt",
+    "relative_path": "1164.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1164.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5870,
+    "mtime": 1782796450.314406,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "51a968d4a4058049335b561bb362ca14cfd2526c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

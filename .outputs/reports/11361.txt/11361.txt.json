@@ -1,0 +1,92 @@
+{
+  "dataset": "11361.txt",
+  "file_name": "11361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "व्रत लिनाले ज्ञानशक्ति, विचारशक्ति, बुद्धि, श्रद्धा, मेधा, भक्ति तथा पवित्रताको अभिवृद्धि हुन्छ र अन्तरात्मा शुद्ध हुन्छ। भगवान शंकर अनन्त अनि अविनाशी हुनुहुन्छ । यिनलाई प्रसन्न तुल्याउनका निमित्त विभिन्न धर्म ग्रंथहरूमा कतिपय उपवास र व्रतका बारेमा उल्लेख गरिएको छ। यिनै विधानहरू मध्ये एउटा व्रत हो - प्रदोष व्रत।",
+    "प्रत्येक पक्षको त्रयोदशीका दिन लिइने व्रतलाई प्रदोष व्रत भन्ने गरिन्छ। प्रत्येक दिन सूर्यास्तपछि रात्रिकाल प्रारम्भ हुने साँझको लगभग साढे दुई घण्टाको अवधि लाई प्रदोष काल भनिन्छ। यस कालमा त्रयोदशी तिथिको संयोग परेको दिन नै प्रदोष व्रत गरिने दिन हो। यस व्रतमा भोले शङ्कर अथवा भगवान महादेवको आराधना र पूजा गर्ने विधान छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 313,
+    "text_length_max": 2670,
+    "text_length_avg": 955.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15365,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11361.txt",
+    "relative_path": "11361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11361.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15365,
+    "mtime": 1782796449.0328014,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c99539e66bcdcbed6178fbf6b2ee17b4b7a85260",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

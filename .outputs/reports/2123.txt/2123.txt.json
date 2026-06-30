@@ -1,0 +1,91 @@
+{
+  "dataset": "2123.txt",
+  "file_name": "2123.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वाग्मती अञ्चल अन्तर्गत नुवाकाेट जिल्लाकाे जीवनपुरमा जन्मिएका कुलचन्द्र गाैतमले प्रथम श्रेणीमा संस्कृत साहित्याचार्य उत्तीर्ण गरेका हुन् । उनी विद्वत् शिराेमणि पदले पनि विभूषित व्यक्ति हुन् । उनकाे विद्वत्ता प्रशंसनीय थियाे । गाैतमका प्रकाशित कृतिहरू यसप्रकार छन् ः"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 264,
+    "text_length_max": 264,
+    "text_length_avg": 264.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 721,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2123.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2123.txt",
+    "relative_path": "2123.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2123.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 721,
+    "mtime": 1782796495.4453008,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5c2bddfab4c0d8f86e5f21feca0c0ba6107684a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

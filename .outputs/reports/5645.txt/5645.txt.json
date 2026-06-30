@@ -1,0 +1,92 @@
+{
+  "dataset": "5645.txt",
+  "file_name": "5645.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो जनआन्दोलनमा विभिन्न राजतिक दलहरू एकै उद्देश्य लिएर सडकमा उत्रिएका थिए। नेपाली कांग्रेसले नेतृत्त्व गरेको यो आन्दोलनमा विभिन्न कम्युनिस्ट पार्टीहरूको समूह संयुक्त वाम मोर्चा बनाएर आन्दोलनमा उत्रियो। 50 दिनसम्म चलेको यो आन्दोलनमा तत्कालीन पञ्चायती शासकहरूले बर्बरतापूर्वक दमन गरे। यस आन्दोलनमा सम्पुर्ण प्रजातन्त्रबादी नेपालीहरुको ठूलो समर्पण थियो। ",
+    " 'जनआन्दोलन 2046 ' नेपालमा बहुदलीय व्यवस्थाको लागि भएको शान्तिपूर्ण आन्दोलन थियो जसले नेपालमा निर्दलीय पञ्चायती व्यवस्थाको अन्त्य गरी संवैधानिक राजतन्त्रात्मक बहुदलीय व्यवस्थाको शुरुआत गर्यो। "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 823,
+    "text_length_avg": 367.16,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18661,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5645.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5645.txt",
+    "relative_path": "5645.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5645.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18661,
+    "mtime": 1782796586.031216,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ba1254a8d269913a38f7c21e6b083d3ae5656ea6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

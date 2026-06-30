@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23342.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेतान्य, इजरायल",
+    "सेलकम एक इजरायली दूरसञ्चार कम्पनी हो । सन् 1986 मा स्थापित यस कम्पनीकाे व्यवसायको प्राय ताररहित सेवामा केन्द्रित रहेको छ । यसको वर्तमान प्रमुख कार्यकारी अधिकृत निर स्टर्न हुन जाे 1 जनवरी 2012 मा पदमा नियुक्त भएका थिए । जून 2016 को अनुसार, सेलकमका 2.812 मिलियन प्रयाेगकर्ताहरू रहेका छन् । कम्पनीकाे मुख्य कार्यलय इजरायलकाे एक प्रमुख व्यापारीक केन्द्र नेतान्यमा रहेकाे छ । कम्पनीमा 41.77% डिस्काउन्ट इन्भेस्टमेन्ट कर्पोरेसनकाे स्वामित्वमा रहेको छ भने बाँकी 58.23% सार्वजनिक स्वामित्वमा रहेकाे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 494,
+    "text_length_avg": 258.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5389,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23342.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23342.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23342.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5389,
+    "mtime": 1782796633.0972452,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ddbca57fb84a0296a383de0439442ba22b8a05a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

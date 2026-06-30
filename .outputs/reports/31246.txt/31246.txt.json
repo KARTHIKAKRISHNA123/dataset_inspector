@@ -1,0 +1,91 @@
+{
+  "dataset": "31246.txt",
+  "file_name": "31246.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन् 2013 फेब्रुअरी 15 तारिखमा स्थानीय समय अनुसार बिहान 9 बजेर 20 मिनट 26 सेकेण्ड गतिमा,ध्वनीको गतिभन्दा लगभग 44 गुणा बढी गतिमा दक्षिणी युराल क्षेत्रको आकाश मार्ग हुँदै सेल्याबिन्स्क सहरमा गएर विष्फोट भयो । उक्त उल्का पिण्डले उत्तरबाट प्रवेश गरेर दक्षिणतिरको यात्रा तयगरेको थियो । अमेरिकी अन्तरिक्ष संस्था नासाले गरेको अनुमान अनुसार 55 फिट व्यास भएको उक्त पिण्डको तौल करिब 10,000 टन छ ।  यो विष्फोटनबाट 500 किलोटनको टिएनटी बम विष्फोटबाट उत्पन्न हुने शक्ति उत्पन्न भएको थियो जसले यसलाई हिरोसिमा र नागास"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 567,
+    "text_length_max": 567,
+    "text_length_avg": 567.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1459,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31246.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31246.txt",
+    "relative_path": "31246.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31246.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1459,
+    "mtime": 1782796541.5080855,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cc1721b05b195a43c22bcdeb017903bceab76ae6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "30631.txt",
+  "file_name": "30631.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चेल्सी फुटबल क्लब /ˈtʃɛlsiː/ फुल्ह्याम, लण्डनमा अवस्थित पेशागत फुटबल क्लब हो, जसले इङ्गलिस फुटबलको सर्वोच्च लिग प्रिमियर लिग खेल्ने गर्छ । 1905 मा स्थापित यस क्लबले इतिहास देखि नै अन्य क्लबलाई निकै चुनौती दिँदै आइरहेको छ । 41,837 सीट क्षमता भएको स्टामफर्ड ब्रिज रङ्गशाला उसको घरेलु मैदान हो ।",
+    "चेल्सी फुटबल क्लबले हात पारेको पहिलो सफलता 1955 मा हो जब उसले लिग च्याम्पियनशीप जितेको थियो । त्यसपछी 1960 र 1990 बिचमा यो क्लबले अन्य धेरै सफलता चुमेको थियो । पछील्ला दुई दशकमा यस क्लबले 17 प्रमुख ट्रफी जितेर धेरै जीतको आनन्द बटुलेको छ । जुलाई 2003 यता चेल्सीका मालिक रसियन अर्बपति रोमन अब्रामोभिच छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 292,
+    "text_length_max": 304,
+    "text_length_avg": 298.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1509,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30631.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30631.txt",
+    "relative_path": "30631.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30631.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1509,
+    "mtime": 1782796538.726731,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "cb2f0bdd580748fa5cd7e578b1ae44e71c1f8b97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

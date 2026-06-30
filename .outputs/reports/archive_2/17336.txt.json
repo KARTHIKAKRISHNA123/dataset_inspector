@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17336.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्वका विभिन्न देशमा नेपालका कूटनीतिक नियोगहरू रहेका छन्। 30 देशमा नेपाली दूतावास रहेका छन् भने कतिपय देशमा महावाणिज्यदूत र वाणिज्य दूत रहेका छन्। यस लिस्टमा मानार्थ वाणिज्यदूत लाई समावेश गरिएको छैन। ",
+    "पृथ्वीनारायण शाह ले सन् 1769 मा स्थापना गरेको जैसी कोठा नेपालको परराष्ट्र मामिला हेर्ने पहिलो अड्डा थियो। नेपालको परराष्ट्र विभाग भने पहिलो पटक सन् 1934 मा खुलेको थियो। 7 सालको क्रान्ति सम्ममा नेपालको परराष्ट्र सम्बन्ध बेलायत, भारत, फ्रान्स र अमेरिका सँग मात्र जोडिएको थियो। अहिले नेपालको परराष्ट्र मन्त्रालयले सबै कूटनीतिक सम्बन्ध मामिला हेर्ने गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 201,
+    "text_length_max": 353,
+    "text_length_avg": 277.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1468,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17336.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17336.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17336.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1468,
+    "mtime": 1782796621.1446996,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7726c4ebfc8429dcf3fd007984520ebabaa5034a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

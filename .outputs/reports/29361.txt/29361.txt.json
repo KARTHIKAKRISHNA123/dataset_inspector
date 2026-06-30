@@ -1,0 +1,92 @@
+{
+  "dataset": "29361.txt",
+  "file_name": "29361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृथ्वीले सूर्यलाई घुम्ने गति र चन्द्रमाले पृथ्वीलाई घुम्ने गति समान छैन। यही असमानता नै ग्रहण हुने कारण मानिन्छ। गतिको असमानताले गर्दा समयको संयोगले कुनै बखत यी पिण्डहरू एउटै सीधा रेखामा पर्छन्। फलस्वरूप कहिले पृथ्वीको छायाँ चन्द्रमामा र कहिले चन्द्रमाको छायाँ पृथ्वीमा पर्छ। यसरी छायाँ परेको अवस्था नै ग्रहणको अवस्था हो। पृथ्वीको छायाँ चन्द्रमामा पर्दा चन्द्रग्रहण र चन्द्रमाको छायाँ पृथ्वीमा पर्दा सूर्यग्रहणको स्थिति सिर्जना हुन्छ।",
+    "पृथ्वीले सूर्यलाई र चन्द्रमाले पृथ्वीलाई परिक्रमा गर्ने क्रममा जब पृथ्वी सूर्य र चन्द्रमाको बीचमा आइपुग्छ, तब सूर्यको प्रकाशलाई पृथ्वीले छेकिदिन्छ। यस्तो अवस्थामा चन्द्रमामा पृथ्वीको छायाँ देखिन्छ। छायाँको यस्तो अवस्था नै चन्द्रग्रहण हो। चन्द्रमाको पूरै भाग छायाँले छोपेको अवस्थालाई खग्रास चन्द्रग्रहण र आधा वा केही भाग मात्र ढाकेको अवस्थालाई खण्डग्रास चन्द्रग्रहण भनिन्छ। चन्द्रग्रहण पूर्णिमा तिथीका दिन लाग्दछ । भने सूर्यग्रहण औंशीका दिन लाग्दछ प्रत्येक औंसी र पूर्णिमामा ग्रहण नलाग्नुको कारण बुझ्न"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 434,
+    "text_length_max": 1120,
+    "text_length_avg": 777.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4188,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29361.txt",
+    "relative_path": "29361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29361.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4188,
+    "mtime": 1782796532.678099,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3dd096bc75b0527dfa853c600b7ee250c6645941",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

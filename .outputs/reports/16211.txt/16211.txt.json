@@ -1,0 +1,92 @@
+{
+  "dataset": "16211.txt",
+  "file_name": "16211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खारा नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्रको राप्ती अञ्चल, रुकुम जिल्लामा अवस्थित एक गाउँ विकास समिति हो। यो गाविस सदरमुकाम मुसिकोट देखि 5 कोश दक्षिणमा अवस्थित छ। ",
+    "खारा गाविसको नौ वटै वडाहरूमा मकै गहुँ कोदो बढी मात्रामा उत्पादन हुन्छ भने खोलाको किनारामा रहेको थोरै मात्र फाँटमा धान खेती पनि गरिन्छ। अन्न तथा दलहन उत्पादन गरेर खारावासी रोगकीरा तथा अन्य प्राकृतिक प्रकोप नभएको वेला कृषि क्षेत्रमा आत्मनिर्भर भएको पाइन्छ। जङ्गल बढी भएकाले भैंसीपालन गरेर वर्षेनी सयौं क्वीन्टल घिऊ जिल्लाभित्र र जिल्लावाहिर सल्यान दाङका मुख्य वजार सम्म लिएर बिक्री गर्ने गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 773,
+    "text_length_avg": 417.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7767,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16211.txt",
+    "relative_path": "16211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7767,
+    "mtime": 1782796471.1627991,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1d5eab43a6e764a332fececc5f7905e172626829",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

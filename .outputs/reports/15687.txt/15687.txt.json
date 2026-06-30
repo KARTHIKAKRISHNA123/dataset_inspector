@@ -1,0 +1,92 @@
+{
+  "dataset": "15687.txt",
+  "file_name": "15687.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डोगरी भारतका जम्मू र कश्मीर प्रान्तमा बोलिने एउटा भाषा हो। वर्ष 2004मा यसलाई भारतीय संविधानको आठौं अनुसूचिमा सामेल गरिएको हो।पश्चिमी पहाडी बोलीहरुका परिवारमा, मध्यवर्ती पहाडी पट्टीको जनभाषाहरुमा, डोगरी, चंबयाली, मडवाली, मंडयाली, बिलासपुरी, बागडी आदि उल्लेखनीय छन्।",
+    "डेगरी यस विशाल परिवारमा धेरै कारणहरुदेखि विशिष्ट जनभाषा हो। यसको पहिलो विशेषता यो छ कि अर्को बोलीहरुको अपेक्षा यसका बोलनेवालहरुको संख्या विशेष रुपले अधिक हो। अर्को यो कि यस परिवारमा केवल डोगरी नैं साहित्यिक रुपले गतिशील र सम्पन्न हो। डोगरीको तेस्रो विशिष्टता यो पनि छ कि एउटा समय यो भाषा रियासत कश्मीर तथा चंबा राज्यमा राजकीय प्रशासनका भित्री व्यवहारको माध्यम रहिसकेको छ। यसै भाषा क सम्बन्धदेखि यसका बोलने डोगरे कहलाउँछन् तथा डोगरीका भाषाई क्षेत्रलाई सामान्यतया \"डुग्गर\" भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 67,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 507,
+    "text_length_avg": 67.0,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11832,
+    "estimated_records": 176
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 176,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15687.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15687.txt",
+    "relative_path": "15687.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15687.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11832,
+    "mtime": 1782796468.754586,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "97499a9a27b281ee234a818016c84c03a61f2879",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

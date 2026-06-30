@@ -1,0 +1,91 @@
+{
+  "dataset": "21029.txt",
+  "file_name": "21029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नगरकोटमा रहेको यस खगोल बैधशाला नेपाल सरकार भूमिसुधार मन्त्रालयको नापी विभाग अन्तर्गत रहेको एक एकाई हो। यसको कार्य देशभरको नापीकार्यको लागि मानक निर्धारण गर्नुहो। यसको लागि नगरकोटको यस स्थानलाई ट्रिगोनो मेट्रिक मापन केन्द्र र गुरुत्व केन्द्र तथा त्रिकोणमितीय आधाररेखा निर्माण गरिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 284,
+    "text_length_max": 284,
+    "text_length_avg": 284.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 771,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21029.txt",
+    "relative_path": "21029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21029.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 771,
+    "mtime": 1782796494.5066357,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bf49ce4d0f7c7ce1dbb0873ab9d563451a920a49",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

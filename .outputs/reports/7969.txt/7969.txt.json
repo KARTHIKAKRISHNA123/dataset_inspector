@@ -1,0 +1,92 @@
+{
+  "dataset": "7969.txt",
+  "file_name": "7969.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"ओड टु जोए\" सङडन टेलिभिजन मिडिया ग्रुप र डेलाइट इन्टरटेन्मेन्ट टेलिभिजन लिमिटेडले सन् 2016 मा उत्पादन गरेको एक चिनियाँ टेलिभिजन श्रृङ्खला हो। यो टेलिभिजन श्रृङ्खला नाइद्वारा रचिएको यहि नामको एक उपन्यासमा आधारित छ। यस टेलिश्रृङ्खलाको पहिलो संस्करण 18 अप्रिल 2016 देखि 10 मे 2016 सम्म प्रसारण गरिएको थियो।",
+    "यस टेलिश्रृङ्खलाको दोस्रो संस्करण 11 मे 2017 देखि 10 जुन 2017 सम्म प्रसारण गरिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 788,
+    "text_length_avg": 242.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3176,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7969.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7969.txt",
+    "relative_path": "7969.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7969.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3176,
+    "mtime": 1782796597.0001273,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c68aba7649daa6095aa9f49862bedaa69de5ee69",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

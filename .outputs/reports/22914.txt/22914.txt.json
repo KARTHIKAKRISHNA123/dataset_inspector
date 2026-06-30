@@ -1,0 +1,92 @@
+{
+  "dataset": "22914.txt",
+  "file_name": "22914.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमाउँ भारतको उत्तराखण्ड राज्यको पुर्वी हिस्सामा पर्ने एक खण्ड हो । सन् 1791 भन्दा पहिला यो खण्ड कुमाउँ अधिराज्यका नामले एक प्रशिद्ध राज्य थियो ।",
+    "कुमाउँमाथि शासन गर्ने प्रथम शासक कुनिन्दहरू थिए उनिहरूले 500 बि0सी0इ0 देखि 600 बि सी0 इ0 सम्म कुमाउँमाथि शासन गरे । 7औं शताब्दी देखि 11औं शताब्दी सम्म यस राज्यमाथि कत्युरीहरू शासन गरे र एक पहाडको शिखरमाथि पुर्वतिर ढोका राखेर 900 वर्ष पुरानो कतारमलको सूर्य मन्दिरको निर्माण गरे । कार्तिकेयपुरा आधुनिक बागेश्वर जिल्लाको बैजनाथलाई आफ्नो राजधानी बनाए र गोमती उपत्यका “कत्युर उपत्यका”को नामले जानिन थाल्यो ।10 औं शताब्दीमा कुनै बेला यहाँ सोम चन्द द्वारा चन्द राज्यको स्थापना गरिएको थियो जुन इलाहाबाद नजीक "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 145,
+    "text_length_max": 1304,
+    "text_length_avg": 636.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4999,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22914.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22914.txt",
+    "relative_path": "22914.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22914.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4999,
+    "mtime": 1782796502.82379,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f224ad92a0f27a4255da444736353675a21313c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

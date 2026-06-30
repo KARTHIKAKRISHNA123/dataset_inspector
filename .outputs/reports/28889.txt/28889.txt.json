@@ -1,0 +1,91 @@
+{
+  "dataset": "28889.txt",
+  "file_name": "28889.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिथिलाञ्चलमा विवाहित महिलाहरूले प्रत्येक वर्ष साउन कृष्ण पञ्चमीकोदिनदेखि पन्ध्रदिनसम्म परम्परागत मधु श्रवाणी व्रत लिन्छन् । मैथिली भाषा, संस्कृति, परम्परा र संस्कारसँग जोडिएको उक्त पर्व नवविवाहिता महिलाका लागि मूलतः विशिष्ट र महत्वपूर्ण रहिआएको छ । उक्त व्रतमा संलग्न महिलाले गौरीपूजा, कलशपूजा, विषहराको पूजा, बैरसीकरजा, चनाइ नाग पूजा, कुसमावतीपूजा, पिङ्गला पूजा, लिली नागपूजा, शतमगिनिसहित गोसाउनी, नाग पूजा र साठिक पूजा गर्ने गर्छन् । व्रत बस्ने महिलाले यो व्रत लिँदा निष्ठापूर्वक नित्यकर्म गरी पूजा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 908,
+    "text_length_max": 908,
+    "text_length_avg": 908.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2417,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28889.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28889.txt",
+    "relative_path": "28889.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28889.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2417,
+    "mtime": 1782796530.2767735,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5b13f46767cd3415321b96d2253cefbef8eead6c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

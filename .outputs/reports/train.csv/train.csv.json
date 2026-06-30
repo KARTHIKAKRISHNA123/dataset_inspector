@@ -1,0 +1,113 @@
+{
+  "dataset": "train.csv",
+  "file_name": "train.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "pa",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "article",
+    "is_about_politics"
+  ],
+  "preview": [
+    " ਮਾਇਆਵਤੀ ਅਤੇ ਮੁਲਾਇਮ ਸਿੰਘ ਯਾਦਵ ਨੂੰ ਦੁਸ਼ਮਣ ਬਣਾਉਣ ਵਾਲਾ ਗੈਸਟ ਹਾਊਸ ਕਾਂਡ  ਭਰਤ ਸ਼ਰਮਾ ਬੀਬੀਸੀ ਪੱਤਰਕਾਰ       13 ਜਨਵਰੀ 2019                                              ਈਮੇਲ                                                 ਸਾਂਝਾ ਕਰੋ                                                 ਈਮੇਲ  ਈਮੇਲ    ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ  https://www.bbc.com/punjabi/india-46850353  ਸਾਂਝਾ ਕਰਨ ਬਾਰੇ ਹੋਰ ਪੜ੍ਹੋ   ਸਾਂਝਾ ਕਰਨ ਵਾਲੇ ਪੈਨਲ ਨੂੰ ਬੰਦ ਕਰੋ              Image copyright Getty Images  ਉੱਤਰ ਪ੍ਰਦੇਸ਼ ਦੀ ਰਾਜਧਾਨੀ ਲਖਨਊ ਵਿੱਚ ਬਹੁਜਨ ਸਮਾਜ ਪਾਰਟੀ ਅ",
+    " ਇਸ ਤੇਲਗੂ ਫਿਲਮ ਅਦਾਕਾਰਾ ਨੇ ਕਿਉਂ ਲਾਹੇ ਸੜਕ 'ਤੇ ਕੱਪੜੇ?  ਪਦਮਾ ਮੀਨਾਕਸ਼ੀ ਪੱਤਰਕਾਰ, ਬੀਬੀਸੀ        11 ਅਪ੍ਰੈਲ 2018                                              ਈਮੇਲ                                                 ਸਾਂਝਾ ਕਰੋ                                                 ਈਮੇਲ  ਈਮੇਲ    ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ  https://www.bbc.com/punjabi/india-43721677  ਸਾਂਝਾ ਕਰਨ ਬਾਰੇ ਹੋਰ ਪੜ੍ਹੋ   ਸਾਂਝਾ ਕਰਨ ਵਾਲੇ ਪੈਨਲ ਨੂੰ ਬੰਦ ਕਰੋ              Image copyright Sri reddy/facebook/BBC  \"ਆਪਣੀ ਲੜਾਈ ਵਿੱਚ ਮੈਂ ਬੇਸਹਾਰਾ ਹਾਂ ਕਿਉਂਕਿ ਕਿਸੇ ਨੂੰ ਮੇਰ"
+  ],
+  "statistics": {
+    "records_sampled": 627,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 18911,
+    "text_length_avg": 4222.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Gurmukhi": 0.9205,
+      "Latin": 0.0705,
+      "Devanagari": 0.0088,
+      "Bengali": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6239174,
+    "estimated_records": 1477
+  },
+  "schema": {
+    "columns": [
+      "article",
+      "is_about_politics"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "article",
+      "is_about_politics"
+    ],
+    "estimated_records": 1477,
+    "raw_schema": {
+      "article": "str",
+      "is_about_politics": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Gurmukhi",
+    "languages_seen": [
+      "pa"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "pa",
+    "dominant_script": "Gurmukhi",
+    "script_distribution": {
+      "Gurmukhi": 0.9461,
+      "Latin": 0.0396,
+      "Devanagari": 0.0142
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "article",
+      "is_about_politics"
+    ],
+    "n_columns": 2
+  },
+  "meta": {
+    "file_name": "train.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train.csv",
+    "relative_path": "train.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 6239174,
+    "mtime": 1782796193.2646387,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0cc980c497404790a03099e7e8e476e3badc1e92",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

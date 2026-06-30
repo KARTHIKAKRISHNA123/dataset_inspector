@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "16661.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लैय्या जिल्ला, पाकिस्तानको पञ्जाब प्रदेशमा रहेको एक शहर हो ।यो जिल्ला पञ्जाब प्रदेशको दक्षिण क्षेत्रमा रहेको छ । यस जिल्लाको सदरमुकाम लैय्या शहर हो । लैय्या जिल्लाको तापक्रम अत्याधिक उच्च हुन्, यस जिल्लाको अधिकंस क्षेत्र मरुभूमि जस्तै छ । ",
+    "यो जिल्ला पाकिस्तानको पञ्जाब प्रदेशमा पर्ने एक जिल्ला हो जुन 30-40 देखि 31-24 डिग्री उत्तर अक्षांश र 70-44 देखि 71-50 डिग्री पुर्वमा देशान्तरणमा अवस्थिति छ । यस क्षेत्र सिन्धु नदी को बीच मरुभूमि को अर्ध-आयताकार ब्लक हो र सिन्ध सागर दोआब को चेनाब नदीमा किनारमा पर्छ । यो जिल्लाले कुल क्षेत्रफल 6,291 वर्ग किलोमिटर अोगटेको छ भने पूर्वीदेखि पश्चिम सम्म 88 किलोमिटर छ भने उत्तर देखि दक्षिण सम्म 72 किलोमिटरमा फैलिएर रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 239,
+    "text_length_max": 621,
+    "text_length_avg": 455.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4647,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16661.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\16661.txt",
+    "relative_path": "archive (2)\\valid\\valid\\16661.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4647,
+    "mtime": 1782796619.7682273,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3dd8c9123ae1ff62e2e3789e97d59da94675ea2e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

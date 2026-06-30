@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27114.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय शास्त्रीय संगीत, भारतीय संगीतको अभिन्न अंग हो । शास्त्रीय संगीतलाई नै ‘क्लासिकल म्जूजिक’ पनि भन्छन्। शास्त्रीय गायन ध्वनि-प्रधान हुन्छ, शब्द-प्रधान हैन । यसमा महत्व ध्वनिको हुन्छ । यसलाई शास्त्रीय संगीत-ध्वनि विषयक साधनामा अभ्यस्त कान नै बुझ्न सक्छन्, अनभ्यस्त कान पनि शब्दहरूको अर्थ बुझ्न मात्र देखि स्वेदेशी गीत या लोकगीतको सुख लिन सक्छन्। यसले अनेक मान्छे स्वाभाविक नै ऊब पनि जान्छन्मा यसको ऊबनेको कारण उन संगीतज्ञको कमजोरी हैन, मान्छेमें जानकारीको कमी छ।",
+    "भारतीय शास्त्रीय संगीतको परम्परा भरत मुनिको नाट्यशास्त्र र त्यस पहिले सामवेदको गायन सम्म जान्छ। भरत मुनिद्वारा रचित भरत नाट्य शास्त्र, भारतीय संगीतको इतिहासको प्रथम लिखित प्रमाण मानिन्छ। यसको रचनाको समयको बारेमा धेरै मतभेदहरू छन्। आजको भारतीय शास्त्रीय संगीतको धेरै पहलुहरूको उल्लेख यस प्राचीन ग्रन्थमा भेटिन्छ। भरत मुनिको नाटयशास्त्र पछि मतङ्ग मुनिको बृहद्देशी, र शारंगदेव रचित संगीत रत्नाकर, ऐतिहासिक दृष्टिले सबै भन्दा महत्वपूर्ण ग्रन्थ मानिन्छ। बारहऔं सताब्दीको पूर्वार्द्धमा लिखे सात अध्यायों वा"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 715,
+    "text_length_avg": 345.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8340,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27114.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27114.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27114.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8340,
+    "mtime": 1782796640.4350524,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5146a054eafae2ae4a25e382b32ca10a8b43d189",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

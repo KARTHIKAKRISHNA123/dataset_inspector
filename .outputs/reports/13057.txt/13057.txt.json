@@ -1,0 +1,92 @@
+{
+  "dataset": "13057.txt",
+  "file_name": "13057.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कन्नड वा कैनडीज भारतको कर्नाटक राज्यमा बोलिने भाषा हो र कर्नाटकको राजभाषा हो। यो भारतका सबैभन्दा अधिक प्रयोग गरिने भाषाहरू मध्येको एउटा हो। 4.50 करोड मानिस कन्नड भाषा प्रयोग गर्दछन्। यी भाषा एन्कार्टाका अनुसार विश्वको सर्वाधिक बोलिने 30 भाषाहरूको सूचीमा 27वहरू स्थानमा आउँछ। यी द्रविड भाषा-परिवारमा आउँछ तर यसमा संस्कृतदेखि पनि धेरै शब्द छन्। कन्नड भाषा प्रयोग गर्ने यसलाई विश्वासदेखि 'सिरिगन्नड' भन्दछन्। कन्नड भाषा केही 2500 सालदेखि उपयोगमा छ कन्नड लिपि केही 1900 सालदेखि उपयोगमा छ कन्नड अन्य द्रवि",
+    "कन्नड तथा कर्नाटक शब्दहरूको व्युत्पत्तिका सम्बन्धमा यदि कुनै विद्वान्को यो मत छ कि \"कंरिदुअनाडु\" अर्थात् \"काली माटोको देश\"देखि कन्नड शब्द बनाएको छ त अर्का विद्वान्का अनुसार \"कपितु नाडु\" अर्थात् \"सुगंधित देश\"देखि \"कन्नाडु\" र \"कन्नाडु\"देखि \"कन्नड\"को व्युत्पत्ति भएको हो। कन्नड साहित्यका इतिहासकार आर.नरसिंहाचारले यस मतलाई स्वीकार गरेकोछ। केही वैयाकरणहरूको कथन छ कि कन्नड संस्कृत शब्द \"कर्नाट\"को तद्भूव रूप हो। यो पनि भनिन्छ कि \"कर्णयो अटति इति कर्नाटक\" अर्थात जो कानहरूमा गूँज्दछ त्यो कर्नाटक हो।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 887,
+    "text_length_avg": 516.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10977,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13057.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13057.txt",
+    "relative_path": "13057.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13057.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10977,
+    "mtime": 1782796456.9328,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9322101b50e024850ec34faa398febc839d5bd7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

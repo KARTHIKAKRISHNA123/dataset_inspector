@@ -1,0 +1,92 @@
+{
+  "dataset": "15260.txt",
+  "file_name": "15260.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मौरिटियस गणतन्त्र, अफ्रीकी महाद्वीप तटको दक्षिणपश्चिममा लगभग 900 किलोमीटरको दूरीमा हिन्द महासागरमा र मेडागास्करको पूर्वमा स्थित एक द्वीपीय देश हो। मौरिटियस द्वीपको अतिरिक्त यस गणराज्यमा, सेंट ब्रेंडन, रड्रीगज र अगालेगा द्वीप पनि शामिल छन. दक्षिणपश्चिममा 2000 किलोमीटरमा स्थित फ्रांसीसी रीयूनियन द्वीप र 570 किलोमीटर उत्तर पूर्वमा स्थित रड्रीगज द्वीप सङ्गै मौरिटियस मस्कारेने द्वीप समूहको भाग छ। मौरिटियसको संस्कृति, मिश्रित संस्कृति छ, किन भनें पहिला यो फ्रान्सको आधीन थियो तथा पछि ब्रिटिश स्वामित्वम",
+    "मौरिटियसको सबै भन्दा पुरानो अभिलेख लगभग 10 औँ शताब्दीको शुरुवातको छ जुन द्रविड र औस्ट्रोनेशी नाविकहरूको सन्दंर्भबाट आउद छ। पोर्चुगली नाविकहरू पहिला पहिला यहाँ 1507मा आये र उन्हिहरूले यस निर्जन द्वीपमा एक यात्रा अड्डा स्थापित गरे र फेरी यस द्वीपलाई छोडेर गई हाले। सन् 1598मा हलैंडको तीन पोत जुन मसला द्वीप को यात्रामा निकलेको थियो एक चक्रवातको समयमा रास्ता भुलेर यहाँ पुगी हाले। उन्हिहरूले यस द्वीपको नाम आफ्नो नासाओको युवराज मौरिसको सम्मानमा मौरिटियस राखि दिये। सन् 1638 मा, डचहरूले यहाँ पहिलो स्थायी"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 961,
+    "text_length_avg": 398.32,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23223,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15260.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15260.txt",
+    "relative_path": "15260.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15260.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23223,
+    "mtime": 1782796466.751517,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7a07f2a7a3e729a02e1a373a8306a4674945c63e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

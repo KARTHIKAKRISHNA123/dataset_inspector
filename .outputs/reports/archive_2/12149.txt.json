@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12149.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रा. शंकरराज पाठक त्रिभुवन विश्वविद्यालयका पूर्वउपकुलपति हुनुहुन्छ। काठमाडौंको सरस्वती कलेजका संस्थापक प्रिन्सिपल पनि हुनुहुन्छ। पाटन कलेज र वाल्मीकि संस्कृत महाविद्यालयमा पढाउनुभयो। शिक्षाबाहेक सामाजिक सेवा, स्वास्थ्यसेवा, प्रकृति संरक्षण, धार्मिक संस्थाको सुधार, भाषा, विश्वमा नेपालका लागि भएका काम आदिमा पनि उहाँ संलग्न हुनुभयो। पाठकको जन्म 1990 कात्तिक भाइटिकाको भोलिपल्ट काठमाडौंको ठमेलमा भएको हो। उहाँका पिताको नाम पं. पद्मराज र माताको खेमकुमारी हो। उहाँहरू दुई भाइ मात्र जन्मनुभएको हो। शंकररा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 793,
+    "text_length_max": 793,
+    "text_length_avg": 793.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2126,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12149.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12149.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12149.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2126,
+    "mtime": 1782796610.7500288,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7ada26944650ebfc87f622fdf3a9bc7e08b80ad7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

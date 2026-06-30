@@ -1,0 +1,92 @@
+{
+  "dataset": "23680.txt",
+  "file_name": "23680.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दुखाई कम गर्ने औषधिलाई पीडानाशक औषधि भनिन्छ। चिकित्सकहरूले यो समूहको औषधिलाई रोगको उचपाच सहायक को रूपमा प्रयोग गर्दछन्। रोग निको पार्न भने सम्बन्धित औषधि नै दिइन्छ। कहिलेकाहीँ रोगको कारण पत्ता लाग्न नसके पनि सरको प्रयोग गरिन्छ। धेरैजसो पीडानाशक औषधिहरूमा ज्वरो घटाउने र सुन्निएको कम गर्ने गुणहरू समावेश हुन्छन्। यस समूहमा पर्ने औषधिहरूको पीडानाशक क्षमता भिन्न भिन्न हुन्छन्। आ-आफ्नो क्षमता अनुसार कुनै औषधि कडा पीडामा र कुनै हलुका पीडामा प्रयोग गरिन्छन्। यसैगरी यी औषधिहरू कुनै लत लाग्ने र कुनै लत नब",
+    "स्वास्थ्य सेवामा उपलब्ध हुने पीडानाशकलाई मुख्यतः दुई किसिमले विभाजन गरिएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 519,
+    "text_length_avg": 294.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2383,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23680.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23680.txt",
+    "relative_path": "23680.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23680.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2383,
+    "mtime": 1782796506.3120055,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9b4ad129a88b33098ff1e0aa9da9c93858c5cda4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

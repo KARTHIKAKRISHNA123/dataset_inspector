@@ -1,0 +1,92 @@
+{
+  "dataset": "34483.txt",
+  "file_name": "34483.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मयलपोसमा कठालो, बाहुला, भित्री फेर, बाहिरी फेर, खोकिला, सन्जाफ, आङ, तुना, कल्ली, खार्पा गरी दस अंग हुन्छन्।कल्लीको ठेट अङ्ग्रेजी अनुवाद प्लिट हो र नेपाली मुजा हो",
+    "मयलपोसका सबै किनारमा सन्जाफ हुन्छ। सुरुवालको मोहोतामै हुन्छ।मयलपोसको दाहिने फेरले देब्रे फेरलाई छोप्छ। मयलपोसमा प्वाल हुँदैन पश्चिमा लुगाहरूमा जस्तो। छेद राम्रो मान्दैन परम्पराले।मयलपोस, लबेदा र दौरा समानार्थी लाग्छन्। तर, पूर्ण समानार्थी होइनन्। मयलपोस दरबारी, लबेदा काँठप्रचलित र दौरा पहाडी सम्बोधन हो भनेर पुग्दैन। सही लबेदा मुकुन्दसेनका खजान्ची चिन्तामणि भट्टराईको अद्यापि पाल्पामा सुरक्षित पोसाक हो, जुन घुँडाभन्दा तलसम्म आउँछ, धेरै फुकेको पनि हुन्छ। लिबासको रूपान्तरण र बलुचिस्तानमा लोकपि्रय लब"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 536,
+    "text_length_avg": 276.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3677,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34483.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34483.txt",
+    "relative_path": "34483.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34483.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3677,
+    "mtime": 1782796556.3885283,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "4b4ed263b1574326358a66860fa841e318301b39",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

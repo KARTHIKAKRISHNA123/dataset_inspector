@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10522.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आन्तरिक नियन्त्रण प्रणाली भन्नाले व्यवस्थापनले तयार गरि लागु गरेको यस्तो प्रक्रिया हो जसले सञ्चालन को प्रभावकारिता, वित्तीय प्रतिवेदनको विश्वसनीयता तथा ऐन, नियमको परिपालना भएको सम्बन्धमा व्यवस्थापनलाई व्यावहारिक आश्वासन दिन्छ । ",
+    "आन्तरिक नियन्त्रण प्रणालीमा देहाय बमोजिमको अन्तरसम्बन्धित पाँच तत्वहरु पर्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 228,
+    "text_length_avg": 153.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 839,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10522.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10522.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10522.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 839,
+    "mtime": 1782796607.5971124,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c67d29d7320e5ac66b6d69c21c7fc44e8896cc8f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

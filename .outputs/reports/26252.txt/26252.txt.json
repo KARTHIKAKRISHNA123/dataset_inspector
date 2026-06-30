@@ -1,0 +1,92 @@
+{
+  "dataset": "26252.txt",
+  "file_name": "26252.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नन्दी हिन्दू धर्मका अनुशार कैलाशका द्वारपाल तथा भगवान शिवका वाहान हुन्। नन्दी साँढेको रूपमा शिवमन्दिरहरूमा प्रतिष्ठित गरिन्छन्। संस्कृतमा नन्दिको अर्थ प्रसन्नता व आनन्द भन्ने बुझिन्छ। नन्दीलाई शक्ति-सम्पन्नता र कर्मठताको प्रतीक मानिन्छ।",
+    "शैव परम्परामा नन्दिलाई नन्दिनाथ सम्प्रदायका मुख्य गुरु मानिन्छ, नन्दीका 8 शिष्यहरू छन्- सनक, सनातन, सनन्दन, सनत्कुमार, तिरुमूलर, व्याघ्रपाद, पतंजलि, र शिवयोग मुनि। यि आठ शिष्य आठ दिशामा शैवधर्मको प्रचार गर्नको लागि पठाइएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 227,
+    "text_length_max": 236,
+    "text_length_avg": 231.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1245,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26252.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26252.txt",
+    "relative_path": "26252.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26252.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1245,
+    "mtime": 1782796518.2666378,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bcbe760da0264fdd5596da27fc18c32a11460b5f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

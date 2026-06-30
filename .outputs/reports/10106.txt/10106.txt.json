@@ -1,0 +1,93 @@
+{
+  "dataset": "10106.txt",
+  "file_name": "10106.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अस्पताल हरूको विकास संगै नेपालका मेडीकल कलेज हरूले श्वास्थ क्षेत्रमा कामगर्ने थुप्रै शक्ति पनि उत्पादन गर्ने गरेका छन तर अझै पनि नेपालमा सबै अस्पताल हरूमा सुलभ तरिकाले चिकीत्सक तथा श्वास्थकर्मी पुग्न सकेका छैनन। ",
+    "नेपालमा हाल थुप्रै निजी, सामुदायीक तथा सरकारी अस्पताल रहेपनी यो पेजमा सरकारी, सामुदायीक तथा मिसन अस्पतालको नामावली संकलन गरिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 147,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 586,
+    "text_length_avg": 59.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9993,
+      "Latin": 0.0007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24248,
+    "estimated_records": 406
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 406,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10106.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10106.txt",
+    "relative_path": "10106.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10106.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24248,
+    "mtime": 1782796442.9954636,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9c6c5c3d54c5ff17abef0e26d454606824f8c385",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

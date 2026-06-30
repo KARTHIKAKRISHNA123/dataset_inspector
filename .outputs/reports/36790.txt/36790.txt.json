@@ -1,0 +1,91 @@
+{
+  "dataset": "36790.txt",
+  "file_name": "36790.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुर्तिया सर्लाही जिल्लामा अवस्थित एक गाविस हो। यस गाविसको वडा नम्बर 3मा राजमार्गभन्दा करीब तीन किलोमिटर भित्र घना जंगलमा विभिन्न देवी देउताका मूर्तिहरू रहेका छन्। मुर्तिहरू भएकै कारणले सो स्थानको नाम मुर्तिया रहन गएको स्थानीय बासिन्दाको भनाइ रहेको छ। बिसं 2027 सालमा तत्कालीन राजा महेन्द्र शाहको पहलमा सो स्थानको उत्खनन गरिएको थियो। उत्खननबाट सयौंको संख्यामा मूर्तिहरू फेला परेका थिए। मूर्तिहरूको संरक्षण गर्न पहल नगरिदा धेरै मूर्तिहरू चोरी भइसकेका छन्। करीब दुई विघा जग्गामा उत्खनन गरिए पनि थप उत्खन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 723,
+    "text_length_max": 723,
+    "text_length_avg": 723.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1940,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36790.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36790.txt",
+    "relative_path": "36790.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36790.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1940,
+    "mtime": 1782796567.0829606,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "2dd3b1f7b50b6e6fcb8b8379d5167c1605a6d96d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "18697.txt",
+  "file_name": "18697.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इलिनर अस्ट्रम एक अमेरिकी महिला अर्थशास्त्री थिइन् । यिनी ओलिवर विलियमसनका साथ संयुक्त रूपमा सन् 2009को अर्थशास्त्र विधामा नोबल स्मृति पुरस्कार प्राप्त गरेकी थिइन् । अर्थशास्त्रमा यो पुरस्कार प्राप्त गर्ने उनि प्रथम महिला हुन्।",
+    "इलिनर अस्ट्रमको जन्म लस एन्जलस, क्यालिफोर्नियामा भएको हो । उनको बुवा हपकिन्स, एक सङ्गीतकार थिए भने आमा एड्रियन, एक सेट डिजाइनर थिइन् । उनको जीवनको शुरुवातमै उनका बुवा आमा आलग भए र उनि धेरै समय आफ्नो आमासँगै बसिन् । अस्ट्रमले सन् 1951 मा बेवर्ली हिल्स उच्च विद्यालयबाट स्नातक गरिन् र सन् 1954 मा युसिएलएबाट बिए राजनीतिक विज्ञानमा तीन बर्षे स्नातक गरिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 353,
+    "text_length_avg": 289.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1522,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18697.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18697.txt",
+    "relative_path": "18697.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18697.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1522,
+    "mtime": 1782796483.339098,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "39de5ab7fab1b0aae776b11c3ae92de23232f643",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

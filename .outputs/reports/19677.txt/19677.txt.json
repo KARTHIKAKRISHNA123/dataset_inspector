@@ -1,0 +1,91 @@
+{
+  "dataset": "19677.txt",
+  "file_name": "19677.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ह्युस्टन संयुक्त राज्य अमेरिकाको चौथौ ठूलो शहर हो। यो टेक्सस राज्यको सबभन्दा ठूलो शहर पनि हो। सन् 2009मा गरिएको जनगणनाको अनुसार ह्युस्टनको जनसंख्या 22 लाखको हाराहारीमा छ। यो सहर 1600 वर्ग किलोमिटरको क्षत्रफलमा फैलिएको छ। ह्युस्टन ह्यारिस् काउण्टी अन्तर्गत पर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 262,
+    "text_length_max": 262,
+    "text_length_avg": 262.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 690,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19677.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19677.txt",
+    "relative_path": "19677.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19677.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 690,
+    "mtime": 1782796488.096904,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "52c773e5df77d902b4f14db4646d37dbac096f7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

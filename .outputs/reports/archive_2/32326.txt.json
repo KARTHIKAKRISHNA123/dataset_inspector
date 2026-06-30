@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32326.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हायल, उत्तर-पश्चिम साउदी अरबमा एउटा शहर हो। यो हायल प्रान्तको राजधानी हो। यस शहरको जनसंख्या हायल प्रान्तको अनुसार 356876 छ।",
+    "हायल अधिकतम खेती-पातीमा आधारित छ, यहाँ हल्का-फुल्का अन्न, खजुर र फल-फुल पनि उपजाइन्छ। अधिराज्यमैं गेहुँको अधिक मात्रामा उत्पादन गर्ने प्रान्त हो हायल, उत्तर-पुर्वको क्षेत्र 60 बाट 100 किमी टाढा, सिंचित उद्यानहरु छन्। इतिहासमा मानिषहरु धनको ओसार-पसार हायलको बाटो हुँदै उँट कारवांमा गर्ने गर्थे। हायल आफ्नो दयालू स्वभावको लागि साउदी अरब र अरब क्षेत्रमा नै जानिन्छ। यहि त्यो ठाँउ हो जहाँ हातिम ताई बस्ने गर्थे। यो अल राशिद परिवारको पनि जन्म-भूमि हो, जो ऐतिहासिक रुपमा अल-सउद परिवारका प्रतिद्वन्दी हुने ग"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 123,
+    "text_length_max": 506,
+    "text_length_avg": 314.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1643,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32326.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32326.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32326.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1643,
+    "mtime": 1782796650.7733827,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "291a9a95b0a25105587bb0395c112aba9f3593a2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

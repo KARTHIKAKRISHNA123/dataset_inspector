@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21309.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुजरात पाकिस्तानको पञ्जाब प्रदेशमा रहेको गुजरात जिल्लाको सदरमुकाम शहर हो । यो शहर पाकिस्तानको 18 अौँ ठूलो शहर हो । नजिकका दुई ठूलो शहर सियालकोट र गुजराणवालासँग गुजरातले अौधोगीकका क्षेत्रमा अायात र निर्यातको काम गर्छ जसलाई सुनौलो त्रिभुग पनि भन्ने गरिन्छ ।",
+    "गुजरात र गुजरातका अासपासको क्षेत्र शेर शाह सूरी अवधि को समयमा मुगल शासन भन्दा पहिले बसेको थियो । यस क्षेत्रलाई सबैभन्दा पहिला सूरीका गभर्नर खवास खानलाई सम्मान गरेका कारण यस ठाउँनाम खवासवुर राखिएको थियो । स्थानीय परम्पराहरूले राज्यमा गुजरात क्षेत्रमा निर्माण हुने दोस्रो शहरको रुपमा लिएको थियो त्यलाई मुगल शाशकहरूले 1303 मा आक्रमण गरेर ध्वस्त पारेका थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 255,
+    "text_length_max": 481,
+    "text_length_avg": 379.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5934,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21309.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21309.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21309.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5934,
+    "mtime": 1782796628.8037343,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "91b9b75ad18250d12be3a1e3fb0c3b7316f9c6d5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

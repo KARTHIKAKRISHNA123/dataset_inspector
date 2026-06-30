@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4388.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बङ्गाल पाकिस्तान विभाजन भन्दा पहिला भारतीय उपमहाद्वीपमा भारतको एक संयुक्त प्रान्त थियो। पश्चिम बङ्गाल अनि बङ्लादेश अनि केही छिमेकी प्रान्त जस्तै बिहार, उडिसा आदीका केही भू-भाग बङ्गाल क्षेत्रमा पर्ने गर्थ्यो| पाकिस्तान विभाजन पछि बङ्गाल क्षेत्रको पूर्वी भाग पूर्व पाकिस्तान बन्यो। पछि पूर्व पाकिस्तान पाकिस्तानबाट विभाजित भएर बाङ्लादेश नामबाट एउटा देश बन्यो र त्यो देशको राजधानी ढाका राखियो। पूर्व बङ्गाल बाङ्लादेश बन्यो तर पश्चिम बङ्गाल अहिले पनि भारतको एक प्रान्तको रूपमा छ र पश्चिम बङ्गालको प्रान्त"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 522,
+    "text_length_max": 522,
+    "text_length_avg": 522.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1407,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4388.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4388.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4388.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1407,
+    "mtime": 1782796664.4746726,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ccde35f1bbad164d5a6d533849e5d96244d4c17a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

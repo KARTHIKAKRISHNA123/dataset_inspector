@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3782.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सरस्वती विद्याकी देवी हुन ।",
+    "सरस्वतीका प्रार्थना र स्तुतिहरूमा उनको दिव्य रूपको वर्णन हातमा लिएका उपकरणहरूको नाम तथा उनको वाहनको उल्लेख गरिएको छ। उनको स्तुतिगानमा गाइएका पद्यहरूले सेतो हाँसलाई आफ्नो सवारी साधन बनाएर दिव्य ज्ञानले अभिसिञ्चित मानिस रजहाँस जस्तै दूधको दूध पानीको पानी छुट्याउन सक्ने विवेकी बन्न सक्छ भन्ने सङ्केत गरेको छ भने उनको सेतो कपडाले सौम्य विचारको जागरण र वैज्ञानिक दृष्टिले सूर्यबाट आउने परावैजनी किरणबाट सुरक्षा गर्ने जानकारी दिइएको छ। उनले लगाउने मालाले ध्यान र एकाग्रताको सङ्केत गरेको छ भने हातमा लिने क"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 551,
+    "text_length_avg": 145.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5127,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3782.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3782.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3782.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5127,
+    "mtime": 1782796661.8148422,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "03513e74e3c49d6f9ad07f66d690a80cd4afedbc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

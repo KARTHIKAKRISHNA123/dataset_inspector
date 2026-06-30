@@ -1,0 +1,92 @@
+{
+  "dataset": "4275.txt",
+  "file_name": "4275.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेहारी पाकिस्तानको पञ्जाब प्रदेशमा रहेको वेहारी जिल्लाको राजधानी शहर हो । यो शहर पाकिस्तानको एेतिहाँसीक मुल्तान शहरबाट 100 किलोमिटरको दुरीमा रहेको छ । यो शहर मुल्तान दिल्ली सडकमा रहेको छ जसलाई भारतीय इस्लामी शासक शेर शास सुरीले निर्माण गरेका थिए । यो शहर समुन्द्री सतहबाट 135 मिटरको उचाइमा रहेको छ ।",
+    "वेहारी शहर मुल्तान शहरबाट 96 किलोमिटर दुरीमा रहेको छ भने कराची शहरबाट 956 किलोमिटरको दुरीमा छ त्यस्तै लाहोर शहरबाट 218 किलोमिटर, फैसलाबादबाट 119 किलोमिटर, बहावलपुरबाट 61 किलोमिटर हसिलपुरबाट 41 किलोमिटर, मल्सीबाट 46 किलोमिटर, केच शह,बाट 36 किलोमिटर, बुरावाली शहरबाट 27 किलोमिटर, लुड्डान शहरबाट 78 किलोमिटर भने पाकट्टन शहरबाट 112 किलोमिटर र सुतलेज नदिबाट 37 किलोमिटर उत्तरमा अवस्थित छ । वेहारी शहरमा वेहारी सिंचाइ योजना रहेको छ जसले नदी नजिकका र वेहारी शहरलाई पानी उपलब्ध बनाउदै अाएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 263,
+    "text_length_max": 486,
+    "text_length_avg": 354.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5567,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4275.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4275.txt",
+    "relative_path": "4275.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4275.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5567,
+    "mtime": 1782796578.9753294,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "976f876dc2d47f1e244b2b3c48473b407a62d283",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

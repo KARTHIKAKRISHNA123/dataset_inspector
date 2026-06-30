@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5378.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल इंडिया तृणमूल कांग्रेस  पश्चिम बङ्गाल राज्यको एउटा राजनीतिक पार्टी हो। 1 जनवरी, 1998 मा, भारतीय राष्ट्रिय कांग्रेसको पश्चिम बङ्गाल राज्य शाखाबाट बिद्रोह गरी केही नेता कार्यकर्ताहरूले यसको स्थापना गरेका हुन। यो पार्टी केन्द्रिय रेल मंत्री ममता बनर्जीको नेतृत्वमा छ। तृणमूल कांग्रेस वर्तमान सत्तारूढ संयुक्त प्रगतिशील गठबंधन गठबंधनको दोस्रो सबैभन्दा ठूलो सदस्य हो। यो वर्तमानमा 19 सीटको साथ छैटौं लोकसभामा सबैभन्दा ठूलो पार्टी हो।",
+    "पार्टीको संस्थापक नेता ममता बनर्जीले शुरूमा पश्चिम बङ्गालमा कांग्रेस पार्टीबाट राजनीतिक कैरियर शुरू गरिन। 1991 मा, प्रधान मन्त्री पि. भि. नरसिह रावको सरकारमा मानव संसाधन विकास, युवा तथा खेलकुद लगायत महिला तथा बाल विकास मन्त्रीको रूपमा सरकारमा थिईन। 1993मा बजेट माथिको अन्तर बिरोधको कारण उनी फिर्ता आईन। त्यसपछीको बर्षमा उनी कांग्रेस पार्टीको नेतृत्व लिईन जसलाई उनीहरूले धेरै पटक राजनीतिक रूपमा प्रमुख कम्युनिस्ट पार्टिबाट प्रभुत्व जमाएको पश्चिम बङ्गाल राज्य तर्फ दुबिदापरक नीति भएको सोचद थिईन, सार्वज"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 891,
+    "text_length_avg": 448.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9986,
+      "Latin": 0.0014
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9429,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9986,
+      "Latin": 0.0014
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5378.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5378.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5378.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9429,
+    "mtime": 1782796666.363415,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8ad424844fad07a56acb3551309a2f31a2db8c9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

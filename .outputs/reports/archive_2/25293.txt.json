@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25293.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामेन  जापानी खाद्य परिकार हो । यसमा चिनियाँ शैलीमा बनाइएको चाउचाउ मासु वा माछाको झोलमा पस्कने गरिन्छ । साथै बङ्गुरका तासिएका मासु, समुद्री लेउ, मेनमा, र हरिया प्याज पनि खानाको माथि पट्टी राखिएर सजाइन्छ । ठाउँ अनुसार रामेनका बनावट शैली फरक पर्ने पनि हुन्छ ।",
+    "रामेनको विकासस्थल थाहा छैन । केही स्रोतहरु यो चिनबाट आएको बताउँछन् भने केही स्रोत 20 सौँ शताब्दीमा जापानमै विकास भएको बताउँछन् । सन् 1950 सम्ममा रामेनलाई सिना सोबा भनिन्थ्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 528,
+    "text_length_avg": 103.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.98,
+      "Latin": 0.02
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5420,
+    "estimated_records": 52
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 52,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.98,
+      "Latin": 0.02
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25293.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25293.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25293.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5420,
+    "mtime": 1782796636.9043486,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "64cc901fd2cb6ecf9d3c012abcf71e29a3a45bbc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18989.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रेडिट कार्ड बैंकले उपलब्ध गराउने प्लाष्टिक पेमेन्ट कार्ड हो, जसबाट खाताबालले आफ्नो खातामा रकम उपलब्ध नभएको अवस्थामा पनि ऋणको रूपमा रकम निकाल्ने वा रकम भुक्तानी गर्न सक्दछ । यस्तो कार्डबाट प्रयोगकर्ताले भविष्यमा रकम भुक्तानी गर्ने शर्तमा ऋणको रूपमा रकम उपभोग गर्न सक्दछ भने बैंकले तोके अनुरूपको समयावधीमा प्रयोगकर्ताले उक्त उपभोग गरेको रकमलाई भुक्तानी गर्नु पर्दछ । ",
+    "सन् 1966 मा बार्कलेकार्डको नाममा ब्रिटेनमा पहिलो क्रेडिट कार्ड सञ्चालनमा आएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 85,
+    "text_length_max": 367,
+    "text_length_avg": 226.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1211,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18989.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18989.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18989.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1211,
+    "mtime": 1782796624.3609476,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9598d96fce36ee7b5cf45de434a803fe2c201ede",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

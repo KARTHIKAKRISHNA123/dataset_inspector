@@ -1,0 +1,94 @@
+{
+  "dataset": "36281.txt",
+  "file_name": "36281.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कटहर परिवारमा पर्ने सानो तथा मीठो फल लिची जसलाई वैज्ञानिक नाममा भन्छन, जेनस लिचीको एकमात्र सदस्य हो। यो ऊष्णकटिबन्धीय फल हो, जसको मूल निवास चीन हो । यो सामान्यतः मैडागास्कर, भारत, बङ्गलादेश, पाकिस्तान, दक्षिण ताइवान, उत्तरी भियतनाम, इण्डोनेशिया, थाईल्याण्ड, फिलीपींस दक्षिण अफ्रीका र नेपालमा पाइन्छ।",
+    "स्वाद र पौष्टिकताको दृष्टिले सर्वोत्तम फलहरूमध्ये एउटा प्रमुख फल हो लिची। यो एउटा बाक्लो बोक्रामाथि स-साना गोलाकारका काँडाजस्ता गीर्खाहरू भएको सानो आकारको फल हो। राम्रोसँग पाकेपछि यसको बोक्रा रातो वा गुलाबी रङको हुन्छ र यही रातो वा गुलाबी रङको बोक्राभित्र पाइने सेतो प्रकारको गुदी नै हामी स्वादिष्ट मानेर खाने गर्दछौँ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 299,
+    "text_length_max": 1236,
+    "text_length_avg": 592.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Latin": 0.0012
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7839,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Latin": 0.0012
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36281.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36281.txt",
+    "relative_path": "36281.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36281.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7839,
+    "mtime": 1782796564.6080267,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "23a8260cb3bbe0dd7282898e94c55e59620d76d5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

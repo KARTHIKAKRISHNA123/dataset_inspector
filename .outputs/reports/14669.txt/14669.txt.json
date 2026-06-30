@@ -1,0 +1,91 @@
+{
+  "dataset": "14669.txt",
+  "file_name": "14669.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टम्ब्लर् सन् 2007 मा डेभिड कार्प द्वारा स्थापित एक माईक्रोब्लग्गिङ र सामाजिक संजाल हो, र स्वामित्व वाला ओथ इंक सेवाले प्रयोगकर्ताहरूलाई मल्टीमीडिया र अन्य सामग्री छोटो छोटो ब्लगमा पठाउन अनुमति दिन्छ। प्रयोगकर्ताहरूले अन्य प्रयोगकर्ताहरूको ब्लगहरूको पालना गर्न सक्छन्। ब्लगरहरूले पनि आफ्नो ब्लग निजी बनाउन सक्छ। ब्लगरहरूको लागि धेरै वेबसाइटको सुविधाहरू \"ड्याशबोर्ड\" इन्टरफेसबाट पहुँच हुन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 391,
+    "text_length_max": 391,
+    "text_length_avg": 391.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1054,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14669.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14669.txt",
+    "relative_path": "14669.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14669.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1054,
+    "mtime": 1782796464.1305203,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "057a2e49517971eea11fa5205c78641788a49a89",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

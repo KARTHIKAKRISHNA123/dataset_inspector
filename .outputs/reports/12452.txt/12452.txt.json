@@ -1,0 +1,94 @@
+{
+  "dataset": "12452.txt",
+  "file_name": "12452.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्थशास्त्रमा नोबेल पुरस्कार विजेता ",
+    "मुख्य योगदान– म्याक्रो अर्थशास्त्रकार्यरत संस्था– एम आइ टी मा प्रोफेसरअर्थशास्त्र सम्प्रदाय– नवकेन्सीयन अर्थशास्त्रमा योगदान– नवक्लासिकल केन्स समन्वय, गणितीय सम्प्रदाय, अर्थशास्त्रीय विधिप्रणालीसम्मानित– अर्थशास्त्रको नोबेल पुरस्कार सन् 1970 पल ए सैमुअल्सनको जन्म मई 15, सन् 1915 मा इन्डियाना, यु एस ए मा भएको हो । उनको मृत्यु 94 वर्षको उमेरमा दिसम्बर 13, सन् 2009 मा भएको हो । उनी एम आ टी का प्रोफेसर पदमा कार्यरत रहेका थिए । सैमुअल्सनको पुस्तक इकोनोमिक्स Economics, अर्थशास्त्रको सबैभन्दा बढी बिक्र"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 4075,
+    "text_length_avg": 1390.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14623,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9905,
+      "Latin": 0.0095
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12452.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12452.txt",
+    "relative_path": "12452.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12452.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14623,
+    "mtime": 1782796454.0603626,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ebcb7f5c5137d039f594bf7d4dab4baccbdee206",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36917.txt",
+  "file_name": "36917.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लेखापरीक्षकले संस्थाको लेखापरीक्षण गरी वित्तीय विवरणले संस्थाको वित्तीय अवस्था तथा कार्य सम्पादनको यथार्थ चित्रण गर्ने वा नगर्ने राय उल्लेख गरि दिएको प्रतिवेदनलाई लेखापरीक्षण प्रतिवेदन भनिन्छ । यस प्रतिवेदनमा लेखापरीक्षकको आफ्नो राय व्यक्त गरि लेखापरीक्षक नियुक्त गर्ने व्यक्ति तथा निकायलाई संस्थाको सञ्चालक समिती मार्फत पेश गर्दछ । लेखापरीक्षकले पेश गरेको प्रतिवेदनलाई वार्षिक साधारण सभामा छलफल गराई अनुमोदन गर्दछ । ",
+    "लेखापरीक्षण प्रतिवेदन निम्न प्रकारको हुन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 781,
+    "text_length_avg": 229.77,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8087,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36917.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36917.txt",
+    "relative_path": "36917.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36917.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8087,
+    "mtime": 1782796567.7124104,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "19143cf246ec368e3c4ffd5dff68ed76ee24b762",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

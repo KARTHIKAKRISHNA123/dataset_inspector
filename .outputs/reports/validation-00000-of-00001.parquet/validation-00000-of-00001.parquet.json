@@ -1,0 +1,139 @@
+{
+  "dataset": "validation-00000-of-00001.parquet",
+  "file_name": "validation-00000-of-00001.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "id",
+    "revid",
+    "url",
+    "title",
+    "text",
+    "script"
+  ],
+  "preview": [
+    "आबोली हो एक फुलांचो प्रकार तांकां मराठींत आबोली आनी हिंदीत प्रियदर्श म्हणटात. हे जायती वर्सा उरपी ल्हान झोप सुमार ६० सेंमी उंच आसता. गोंयात ही झाडा सगळ्याच्या पोरसानी लायिल्ली सहज दिसता. ही फुलां एका घोंसान फुलतात ल्हेव पाचव्या रंगाची ताची पांना आसतात. ही फुलां सोबीत पाचव्या कणसांत खांची-खांचीनी सोबीत आनी नाजूक ल्हेव हळदूवी वा केसरी रंगाची फुलां येतात. हातूंत हेर प्रकारूय दिश्टी पडटात.\nआबोली दोन प्रकाराची आसतात.\nपिशी आबोली आनी रतन आबोली. पिशी आबोलेच्यो पाकळ्यो चड फुल्लिल्यो आसतात ती ल्हेव केसरी ",
+    "Kaxi, bara jeotirling ani tirthoyatretolem mhotvachem tthikann. Vixvonathachem vastouy ani gonga nhoim hoya don gozalink lagun sogllea tirthant kaxik unchele pod mell'llam. Kaxi hem xivachem kxetr ani tem xivachea trixullacher vaslam. Dekhun tacho ken'nach nax zauncho na, oxem purannant sanglam.\nKaxi hem namv kax hea dhatuvelean ailam, kax mhollear ujvadd zaup, tollpop. Porbromhancho va mokxomargachi prokax dakhoupi hi kaxi.\nKaxeantu mornnan‌mukti\nkaxint zo pranni morta to mukt zata, oxem xastra"
+  ],
+  "statistics": {
+    "records_sampled": 374,
+    "missing_text": 0,
+    "text_length_min": 56,
+    "text_length_max": 29598,
+    "text_length_avg": 3459.61,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6987,
+      "Latin": 0.2688,
+      "Kannada": 0.0323,
+      "Arabic": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 53,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1116365,
+    "estimated_records": 374
+  },
+  "schema": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "script"
+    ],
+    "estimated_records": 374,
+    "raw_schema": {
+      "id": "str",
+      "revid": "str",
+      "url": "str",
+      "title": "str",
+      "text": "str",
+      "script": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7846,
+      "Devanagari": 0.2154
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "num_rows": 374,
+    "num_row_groups": 1,
+    "arrow_schema": {
+      "id": "string",
+      "revid": "string",
+      "url": "string",
+      "title": "string",
+      "text": "string",
+      "script": "string"
+    }
+  },
+  "meta": {
+    "file_name": "validation-00000-of-00001.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\validation-00000-of-00001.parquet",
+    "relative_path": "validation-00000-of-00001.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "validation-00000-of-00001.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 1116365,
+    "mtime": 1782729910.9882984,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "628d5b6f5fa763c9df9a53146b3aa844fd821c73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

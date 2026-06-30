@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4118.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूर्य हाम्रो सौर्यमण्डलको केन्द्रमा रहेको तारा हो। यसलाई घाम वा सुर्जे पनि भनिन्छ। पृथ्वी लगायत धेरै ग्रह, ग्रहिका, उल्कापिण्ड, पुच्छ्रेतारा आदिहरूले यसको परिक्रमा गर्दछन्। पृथ्वीमा रहेको सम्पूर्ण जीवन सूर्यकै कारणले सम्भब भएको हो।",
+    "सूर्यको तौल करिब 2×1030 किलोग्राम छ, जुन सामान्य भन्दा केही बढी हो। यसको तौलको करिब 74% हाइड्रोजन, 25% हिलियम र बाँकि अन्य गर्‍हौ पदार्थहरू रहेका छन्। यसको आयु करिब 5 अर्ब वर्ष रहेको अनुमान गरिन्छ। सूर्यले आफ्नो जीवनको आधा यात्रा तय गरीसकेको अनुमान गरिन्छ। यस समयमा सूर्यले परमाणवीय सन्धि प्रतिक्रियाद्वारा केन्द्रमा रहेको हाइड्रोजनलाई हिलियममा परिणत गर्दछ। करिब 5 अर्ब बर्षपछि यो ग्रहिय नेबुलामा परिणत हुने छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 231,
+    "text_length_max": 449,
+    "text_length_avg": 333.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3493,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4118.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4118.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4118.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3493,
+    "mtime": 1782796663.9777966,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "5eff87ef7531f106d62a6952f9efb3939acd653a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

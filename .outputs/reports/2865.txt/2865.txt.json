@@ -1,0 +1,94 @@
+{
+  "dataset": "2865.txt",
+  "file_name": "2865.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इटहरी उप-महानगरपालिका सुनसरीमा पर्ने एउटा उप-महानगरपालिका हो । यो तिब्र गतिमा बिकसित हुँदै गइरहेको पूर्वी नेपालको व्यापारिक तथा यातयातको केन्द्रबिन्दु शहर हो । यो शहर धरान शहरको दक्षिणमा र बिराटनगरबाट उत्तरमा रहेको छ । यहाँ अञ्चल यातायात कार्यालय, क्षेत्रिय ट्राफिक कार्यालय, अान्तरिक राजस्व कार्यालय, अख्तियार दुरुपयोग अनुसन्धानको कार्यालयका साथै केही इलाका स्तरीय कार्यलयहरु छन् । साथै यो शहरमा काठमाण्डौ पछिका भव्य गगनचुम्भि महलहरु देख्न सकिन्छ । यो शहरको लोकप्रियताकै कारण धेरै सरकारी संस्थाहरु अ",
+    "यहाँ नौ हजार 791 घरपरिवार बसोवास गर्दछन्। यस नगरमा विभिन्न जातजाति तथा धर्म-संस्कृतिका मानिसहरूको बसोवास रहेको छ । ब्राहृमण, क्षेत्री, नेवार, राई, लिम्बु, गुरुङ, तामाङ, मुसहर, मुसलमान, चौधरी तथा थारूको मुख्य बसोवास रहेको इटहरी उप-महानगर क्षेत्रमा मुख्य भाषाका रूपमा नेपाली, थारू, मैथिली, राई, लिम्बु, तामाङ, सुनुवार र नेवारी भाषा बोलिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 115,
+    "text_length_max": 2253,
+    "text_length_avg": 717.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9978,
+      "Latin": 0.0022
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9401,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9979,
+      "Latin": 0.0021
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2865.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2865.txt",
+    "relative_path": "2865.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2865.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9401,
+    "mtime": 1782796529.2232852,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a8fec9bec7a69f40719ae557d232190451fce270",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

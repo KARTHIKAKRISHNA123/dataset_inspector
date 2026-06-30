@@ -1,0 +1,92 @@
+{
+  "dataset": "2803.txt",
+  "file_name": "2803.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भ्लादिमिर भ्लादिमिरोभिच पुटिन, जन्म 7 अक्टोबर 1952) रसियाका राजनीतिज्ञ र वर्तमान राष्ट्रपति हुन् । वहाँ 7 मे 2012 देखि रसियाका राष्ट्रपति हुन् । यसभन्दा पहिले वहाँ सन् 2000 देखि 2008 सम्म रसियाका राष्ट्रपति र सन् 1999 देखि सन् 2000 तथा सन् 2008 देखि सन् 2012 सम्म रसियाका प्रधानमन्त्री भएर सेवा दिएका छन् ।",
+    "युरी गागरिनको अदम्य साहसको कथा सुनेर हुर्किएका प्रायः सबै सोभियत बालकहरू अन्तरिक्षयात्री हुने सपना देख्थे । किशोर भालोद्या त्यसको अपवाद हुने कुरै थिएन । तर उमेरसँगै ठूलाठूला युद्धमा जासुसहरूले खेलेको भूमिकाका बारेमा लेखिएका रोमान्टिक कथाले आकषिर्त गर्दै लगेपछि उनलाई सोभियत गुप्तचर एजेन्सी केजीबीमा सेवा गर्ने इच्छा जागृत भयो । "
+  ],
+  "statistics": {
+    "records_sampled": 48,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 1505,
+    "text_length_avg": 508.23,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 65473,
+    "estimated_records": 128
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 128,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2803.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2803.txt",
+    "relative_path": "2803.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2803.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 65473,
+    "mtime": 1782796526.2898755,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9acf0cb19c2255c53cb0b74729b04d15a871168a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

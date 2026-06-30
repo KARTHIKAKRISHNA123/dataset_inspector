@@ -1,0 +1,92 @@
+{
+  "dataset": "1417.txt",
+  "file_name": "1417.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डायेन्ड्रा सोरेस एक मोडल र अभिनेत्री हुन् । उनी प्रसिद्द रियलिटी सृङ्खला बिग बस सिजन 8 की प्रतियोगी हुन् । उनी बान्द्रा, मुम्बईबाट छिन ।",
+    "सोरेसको जन्म एक मध्यम वर्गीय परिवारमा बान्द्रा, मुम्बईमा भएको हो । उनको परिवारको कुनै पनि सदस्यको मोडलिङमा सम्बन्ध थिएन । उनले मुम्बईबाट आफ्नो शिक्षा प्राप्त गरेकी हुन् । भारतीय भूतपुर्व मोडल मधु सप्रेले मोडलिङमा ल्याएकी हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 136,
+    "text_length_max": 227,
+    "text_length_avg": 181.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 965,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1417.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1417.txt",
+    "relative_path": "1417.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1417.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 965,
+    "mtime": 1782796461.8151646,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "83f0dc00cf1e5146723c2744ff787ec239ec3551",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

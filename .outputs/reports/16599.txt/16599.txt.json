@@ -1,0 +1,94 @@
+{
+  "dataset": "16599.txt",
+  "file_name": "16599.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्नेस्तो \"चे\" ग्वेभारा ऋ उच्चारण: ), अर्जेन्टीनाका मार्क्सवादी क्रांतिकारी थिए जसले क्यूबाको क्रांतिमा मुख्य भूमिका निभाएका थिए। यिनलाई एल चे अथवा केवल चे पनि भनिन्थ्यो। यिनी डाक्टर, लेखक, गुरिल्ला नेता, सामरिक सिद्धान्तकार र कूटनीतिज्ञ पनि थिए, जसले दक्षिणी अमेरिकाका धेरै राष्ट्रहरूमा क्रांति ल्याएर ती देशहरूलाई स्वतन्त्र बनाउने प्रयास गरे। मृत्युपछि उनको अनुहार सारा संसारमा सांस्कृतिक विरोध एवं वामपंथी गतिविधिहरूको का प्रतीक बन्यो।",
+    "अर्जेन्टिनाको एक मध्यम वर्गीय परिवारमा चेको जन्म सन् 1928 जून 14 मा भयो । पेशाले उनका बुवा इन्जिनियर थिए । उनको जन्म स्पेनिस र आइरिस रक्तमिश्रित परिवारबाट भएको थियो । उनको जन्मको नाम अर्नेष्टो ग्वेभारा डे ला सेर्ना थियो । परिवारमा उनलाई तेते भनेर बोलाउँथे । पछि उनले आफ्नो नाम बदलेर चे राखे । चेको अर्थ अर्जेन्टिनी भाषामा ‘हाम्रो’ भन्ने हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 147,
+    "text_length_max": 866,
+    "text_length_avg": 368.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21615,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16599.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16599.txt",
+    "relative_path": "16599.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16599.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21615,
+    "mtime": 1782796473.026809,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4966fa447b48465e2cef90d2ff93c6c9a7bfbed3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

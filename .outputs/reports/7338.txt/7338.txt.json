@@ -1,0 +1,91 @@
+{
+  "dataset": "7338.txt",
+  "file_name": "7338.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द्विजको अर्थ दुई चोटि जन्म भएको व्यक्ति भन्ने हुन्छ । व्यक्तिको पहिलो शारीरिक जन्मपछि व्रतवन्ध संस्कार प्राप्त गर्नासाथ उक्त व्यक्तिको आध्यात्मिक रूपमा दोस्रो जन्म भएको मानिन्छ । द्विज हुनासाथ त्यस व्यक्तिले वैदिक शिक्षा ग्रहण गर्ने योग्यता प्राप्त गर्दछ । व्रतवन्ध हुनासाथ हरेक व्यक्ति अघोषित रूपमै द्विज तथा तागाधारी बन्दछ । सामान्यतया ब्राह्मण, क्षत्रिय र वैश्य जाति द्विज बन्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 385,
+    "text_length_max": 385,
+    "text_length_avg": 385.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1038,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7338.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7338.txt",
+    "relative_path": "7338.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7338.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1038,
+    "mtime": 1782796593.9990273,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "66728819f2f9cf1af337bec74880c16a500b7ee6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

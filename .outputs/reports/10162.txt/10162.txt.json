@@ -1,0 +1,94 @@
+{
+  "dataset": "10162.txt",
+  "file_name": "10162.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शेर्पा भाषा, नेपालमा बोलिने एक प्रमुख भाषा हो। विशेष गरी यो भाषा शेर्पा समुदायको बस्ती रहेका ठाँउमा बोलिन्ने भएकोले नेपालको हिमाली भेगमा यो भाषा निकै प्रचलित छ। यो शेर्पा समुदायको आफ्नो अलगै भाषा हो, जसलाई हामी शेर्पा भाषा भन्ने गर्दछौं। शेर्पा जातिहरूको आफ्नो छुट्टै भाषा विकास भएको छ। यो भाषाको शुद्ध उच्चारण गर्नु सक्ने लिपि भनेको सम्भोट लिपि हो। जुन प्रकारले संस्कृत, पाली, हिन्दी, नेपाली, भोजपुरी आदि भाषाहरूमा देवनागरी लिपिको प्रयोग गरिन्छ। त्यसै गरी तिब्बती, शेर्पा, लद्दाखी, भुटानी, भोटे आदिक",
+    "शेर्पा जातिको इतिहासमा समय र परीस्थितिले जतिनै हेरफेर ल्याएपनि शेर्पा भाषामा खासै परिवर्तन नभएको कारण आजसम्म शेर्पा समुदायले आफ्नै धर्म र संस्कृतिलाई जोगाउन सफल भएको देखिन्छ। मौखिकमा बोल्ने शैली फरक भएपनि लिखितमा सम्भोट लिपि र त्यसमा आधारित व्याकरणको नियम भएको हुनले लिखित भाषामा 90% प्रतिशत सामान्य तिब्बती भाषा र 10% प्रतिशत प्राचीन तिब्बती भाषा लेखेको पाईन्छ।शेर्पाको मातृभाषा भोट बर्मेली भाषा बोल्नेको समूहमा पर्छ र, नेपालमा यो भाषा प्राय सगरमाथा अञ्चलको सोलुखुम्बु र जनकपुर अञ्चलको दोलखा जिल्ला,"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 434,
+    "text_length_max": 1068,
+    "text_length_avg": 657.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9877,
+      "Latin": 0.0123
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8624,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9877,
+      "Latin": 0.0123
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10162.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10162.txt",
+    "relative_path": "10162.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10162.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8624,
+    "mtime": 1782796443.2837143,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b9f716c06d159bc0539346ead635e4381fb63adc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

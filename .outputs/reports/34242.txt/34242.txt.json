@@ -1,0 +1,96 @@
+{
+  "dataset": "34242.txt",
+  "file_name": "34242.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "करम अथवा कदम एकदमै अग्लो रूख हुने वनस्पति हो ।",
+    "at Ananthagiri Hills, in Rangareddy district of Andhra Pradesh, India."
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 70,
+    "text_length_avg": 58.86,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.8915,
+      "Devanagari": 0.1085
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 493,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.8915,
+      "Devanagari": 0.1085
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34242.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34242.txt",
+    "relative_path": "34242.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34242.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 493,
+    "mtime": 1782796555.3097575,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6bac793e94f2b772923c445df4228acda3018373",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

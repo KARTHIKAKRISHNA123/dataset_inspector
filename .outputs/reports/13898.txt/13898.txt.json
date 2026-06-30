@@ -1,0 +1,92 @@
+{
+  "dataset": "13898.txt",
+  "file_name": "13898.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाम्रो सौर मण्डलको छैटौं ग्रह शनिका धेरै प्रकारका उपग्रह छन्, जसमा 1 कि॰मी॰ भन्दा पनि कम आकारको शिशु-चन्द्र र भयंकर आकार भएको टाइटन शामिल छन्। शनि को छल्लाहरुमा लाखों वस्तुहरुले शनिको परिक्रमा गरिरहेका छन् - तर यिनीहरु मध्ये धेरै त साना पत्थर वा धुलोका कण नै छन्। कुल मिलएर, सन् 2010 तक, शनि को 62 ज्ञात उपग्रह थिए जसको परिक्रमा को कक्षाएँ परखी जा चुगरेको थियों। यिनीहरु मध्ये केवल 13को व्यास 50 किमी भन्दा अधिक थियो, र यिनीहरु मध्ये 53को नामकरण गरे गयसकोको थियो। शनि को सात चन्द्रमा यति ठूलो छं को उ",
+    "शनिको उपग्रह मण्डल धेरै नै एक-तरफा है: शनि को इर्द-गिर्द उनको उपग्रहों र छल्लोंमा मिलएर जितना पनि द्रव्यमान उनको परिक्रमा गरेर रहेको छ उनको 96% भन्दा अधिक हिस्सा सिर्फ एक उपग्रह, टाइटनमा निहित छ। शनि को बाकी 6 गोलाकार चंद्रमाहरुमा लगभग 4% छ। अन्य 50 भन्दा पनि अधिक उपग्रहों र छल्लहरुलाई मिलाएर सिर्फ 0.04% नै बनइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 902,
+    "text_length_avg": 609.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3138,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13898.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13898.txt",
+    "relative_path": "13898.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13898.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3138,
+    "mtime": 1782796460.6107776,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "f15d3c032a377f0605c5dffd9b8ee730a4931a8c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "37203.txt",
+  "file_name": "37203.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टंकप्रसाद आचार्य प्रजातन्त्रवादी नेता, नेपालको जेठो राजनीतिक पार्टी नेपाल प्रजा परिषदका संस्थापक अध्यक्ष एवम् नेपालका भूतपूर्व प्रधानमन्त्री हुन्।",
+    "आचार्यको जन्म वि.सं. 1969 साल मंसिर 17 गते आइतबार भएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 563,
+    "text_length_avg": 237.19,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10054,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37203.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37203.txt",
+    "relative_path": "37203.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37203.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10054,
+    "mtime": 1782796569.0813048,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "049aae4a3a04d5194f20c3f790990210a8c94f4a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

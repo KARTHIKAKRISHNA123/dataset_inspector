@@ -1,0 +1,108 @@
+{
+  "dataset": "val_cn_te.csv",
+  "file_name": "val_cn_te.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "te",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "దీపించు is related to shine.",
+    "కాద్మము is related to cadmium."
+  ],
+  "statistics": {
+    "records_sampled": 717,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 140,
+    "text_length_avg": 32.49,
+    "duplicate_estimate": 13,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.6168,
+      "Telugu": 0.3729,
+      "Devanagari": 0.0094,
+      "Tamil": 0.0007,
+      "Kannada": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 38863,
+    "estimated_records": 1196
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 1196,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Telugu",
+    "languages_seen": [
+      "en",
+      "te"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "te",
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.624,
+      "Telugu": 0.3644,
+      "Devanagari": 0.0116
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1
+  },
+  "meta": {
+    "file_name": "val_cn_te.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\val_cn_te.csv",
+    "relative_path": "val_cn_te.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "val_cn_te.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 38863,
+    "mtime": 1782795368.8177438,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "7853d5c5c54ac6dfca2fab429124548a80c77b1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

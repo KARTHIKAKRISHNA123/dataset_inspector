@@ -1,0 +1,92 @@
+{
+  "dataset": "11995.txt",
+  "file_name": "11995.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकिकृत नेकपा माओवादीको तर्फबाट धादिङ 3 बाट विजयी संविधान सभा सदस्य शालिकराम जमकट्टेल माओवादीको मजदूर सङ्गठनका अध्यक्ष पनि हुनुहुन्छ। विगतमा आफ्नो पार्टीको भूमिका र पार्टीको अग्रगामी राजनीतिक घोषणा पत्र नै आफ्नो विजयको कारण भएको जमकटेल बताउनुहुन्छ। ",
+    "एकिकृत नेकपा माओवादीका तर्फबाट व्यवस्थापिका संसदमा पठाइएका 73 जना विधायक मध्ये जमकटेल पनि एक हुनुहुन्छ। धादिङ किरान्चोक- 9, डाँडागाउँमा जन्मनु भएका जमकट्टेल कानुनमा स्नातक हुनुहुन्छ। ओमकुमारी र लोकनाथका छोरा जमकट्टेलको जन्म 2030 साल भदौ 4 गते भएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 291,
+    "text_length_avg": 241.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3194,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11995.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11995.txt",
+    "relative_path": "11995.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11995.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3194,
+    "mtime": 1782796451.9499626,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3ca26eb29b1a6473abf4a0468ec07a4c6d491f18",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "13875.txt",
+  "file_name": "13875.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ओल्के संक्रान्ति नेपालको सुदूर पश्चिम क्षेत्रमा मनाइने एक पर्व हो । यो पर्व भदौ महिनाको एक गते सम्मानित व्याक्तिहरूलाई उपहर दिएर मनाइन्छ ।",
+    "डोटेली भाषा शब्दकोषका अनुसार ओल्को भन्नाले सम्मानित व्यक्तिलाई दिइने केही वस्तु वा उपहारलाई जनाउँछ । यस्तो सम्मानोपहार दिने “विशेष दिन” नै ओल्के संक्रान्तिका नामले सुदूर-पश्चिममा धुुमधामसंग मनाइन्छ । यो पर्व सिंह संक्रान्ति अर्थात् भाद्र 1 गते पर्दछ। ठूलालाई सम्मान र सानालाई माया गर्नु हाम्रा पर्वहरूका त मुख्य विशेषता नै हुन् । यो सबैखाले समाजमा पाइन्छ । त्यसैगरी उपहार लिने दिने प्रचलन पनि प्राय: सबै समाजमा विद्यमान छ । तर हाम्रो ओल्कोलाई शाब्दिक अर्थले उपहार लिनु दिनुमा मात्रै सीमित गरिदिँदा सम"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 138,
+    "text_length_max": 2031,
+    "text_length_avg": 1312.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14018,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13875.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13875.txt",
+    "relative_path": "13875.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13875.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14018,
+    "mtime": 1782796460.4945674,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e334e329da20149d2c2474cc7df2363be7928566",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

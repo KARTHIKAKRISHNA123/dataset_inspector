@@ -1,0 +1,92 @@
+{
+  "dataset": "21034.txt",
+  "file_name": "21034.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइसर मोटर्स को स्थापना सन् 1982 मा भएको एक भारतिय गाडि बनाउने कम्पनी हो । यसको कार्यालय गुरगाउँ इन्डियामा रहेको छ । रोयल इनफिल्डको स्वामित्व आइसर मोटर्समा रहेको छ । सन् 2016 मा आइसर मोटर्स लिमिटेड निफ्टि 50 इन्डेक्समा समावेश भएको थियो । ",
+    "आइसर मोटर्स भारतको व्यावसायिक गाडि उत्पादक कम्पनी हो । यस कम्पनीको शुरूवात सन् 1948 मा विदेशी ट्याक्टरहरूको वितरण तथा सेवाको लागि गुडअर्थ कम्पनीको स्थापना भए पश्चात भएको । सन् 1959 मा आइसर ट्याक्टर कर्पोरेशन इन्डिया प्राइभेट लिमिटेडको स्थापना आइसर ट्याक्टर कम्पनी तथा जर्मन ट्याक्टर उत्पादकको सहकार्यमा भएको थियो । सन् 1965 देखि आइसर भारतमा भारतिय शेयरधनीहरूले स्वामित्व ग्रहण गरेका थिए । जर्मन आइसर ट्याक्टरको अर्थ स्वामित्व मासेइ-फर्गुसनले सन् 1970 देखि ग्रहण गरेका थिए, जुन 30 प्रतिशतको स्वामित्व "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 571,
+    "text_length_avg": 331.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5209,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21034.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21034.txt",
+    "relative_path": "21034.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21034.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5209,
+    "mtime": 1782796494.5290384,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9b7fcbb7bb70b3c44c82688942a94f3e78c20c67",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

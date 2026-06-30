@@ -1,0 +1,94 @@
+{
+  "dataset": "26920.txt",
+  "file_name": "26920.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "A. f. fulgensA. f. refulgens syn. A. f. styani",
+    "हाब्रे अर्थात् रातो पाण्डाको वैज्ञानिक नाम ऐलुरस फुल्जेन्स हो । खासगरी उच्च हिमाली तथा पहाडी भागमा पाइने यो प्राणी अति नै सुन्दर उभयभक्षी प्राणी हो । विशेषगरी बाँसका पात र तामा खाने यो स्तनधारी जीवलाई चम्किलो बिरालो -साइनिङ क्याट)को नामले पनि चिनिन्छ किनकि शारीरिकरूपमा यो घरेलु बिरालो जस्तै हुन्छ र केही ठूलो आकारको हुन्छ । रातो पाण्डा नेपाल, चिन, वर्मा, भुटानलगायतका देशमा पाइने भए पनि यिनीहरूको सङ्ख्या दिनानुदिन घट्दै गएको छ । हाल विश्वभरिमा जम्माजम्मी केवल 2500 रातो पाण्डा रहेको अनुमान गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 1332,
+    "text_length_avg": 816.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.993,
+      "Latin": 0.007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15030,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.99,
+      "Latin": 0.01
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26920.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26920.txt",
+    "relative_path": "26920.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26920.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15030,
+    "mtime": 1782796521.3301642,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "139a5c0b1caf53e88bd7d17138a85c968739f21f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24756.txt",
+  "file_name": "24756.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली विषयमा स्नातकोत्तर गरेका कुलमणि देवकोटा मूलतः कविका रूपमा परिचित छन् । उनका आधा दर्जनभन्दा बढी कृतिहरू प्रकाशित छन् । उनी पाल्पा तानसेनका पुसिद्ध साहित्यकार माधवप्रसाद देवकाेटाका सुपुत्र हुन् । त्रिभुवन विश्वविद्यालय अन्तर्गत प्रध्यापन कार्यमा संलग्न देवकाेटा नाम चलेका कवि हुन् । ",
+    "नेपाल राजकीय प्रज्ञाप्रतिष्ठानद्वार अायाेजित कविता उत्सवमा प्रथम भएपछि देवकाेटाकाे कवित्वकाे गति अझ तीव्र भएकाे पाइन्छ । एेतिहासिक नेपाली संस्कृत अान्दाेलनमा सरिक भएर हाेस् अथवा ज्ञानकाे त्याे भाेक क्रान्ति कविता लेखेर हाेस् उनी अाफ्ना समयमा प्रसिद्धि प्राप्त गर्दै अाएका कवि हुन् । उनी संस्कत, नेपाली तथा हिन्दी भाषामा उत्तिकै दक्ष देखिन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 288,
+    "text_length_max": 344,
+    "text_length_avg": 316.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1714,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24756.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24756.txt",
+    "relative_path": "24756.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24756.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1714,
+    "mtime": 1782796511.2222903,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1e6d19295379a32d8200cde9a5b00345663a66a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

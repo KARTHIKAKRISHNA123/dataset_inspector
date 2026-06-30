@@ -1,0 +1,98 @@
+{
+  "dataset": "Nepali_fem_mono.txt",
+  "file_name": "Nepali_fem_mono.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "ne",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "train_nepalifem_00001.txt\tपहाड़मा धेरै राजनैतिक पार्टीहरू छन् , प्रत्येक पार्टीको आफ्नै विचारधारा छ अनि आफ्ना बेग्लाबेग्लै मागमा अडिग छन् .",
+    "train_nepalifem_00002.txt\tक्षितिजमा घामका किरणका लालिमा क्षणप्रतिक्षण निःशेष भएर गइरहेको छ ."
+  ],
+  "statistics": {
+    "records_sampled": 4950,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 337,
+    "text_length_avg": 97.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7762,
+      "Latin": 0.2238,
+      "Gujarati": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1072243,
+    "estimated_records": 10690
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10690,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en",
+      "ne"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "ne",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7939,
+      "Latin": 0.2061
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Nepali_fem_mono.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Nepali_fem_mono.txt",
+    "relative_path": "Nepali_fem_mono.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Nepali_fem_mono.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1072243,
+    "mtime": 1782796292.3239295,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8958f3094d1c9691cc789601f7c34a9eed646f95",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "36439.txt",
+  "file_name": "36439.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "‘अब यस्तो कहिल्यै नोस्’ इतिहास सिरोमणी बाबुराम आचार्यका ऐतिहाँसिक लेखहरुको सँगालो हो । 2015 सालको आसपासमा लेखिएका यी लेखहरुमा बहादुर शाह देखि देब शम्सेरका पालासम्मका विभिन्न षड्यन्त्रका घटनाहरूको बारेमा जानकारी पाइन्छ । विशेषगरी बहादुर शाहको हत्या, भिमसेन थापाको उदय र अवसान, जंगबहादुर कुँवर राणाको उदय र राणा शासनको प्रारम्भिक विकासक्रमका बारेमा एकदमै महत्वपूर्ण जानकारीहरु यसमा समेटिएका छन् । यस अघि पढेको जगदीश घिमिरेको सकसमा उल्लेख गरिएका धेरै घटनाहरूको सत्यताका बारेमा शंङ्का उत्पन्न भएको थियो ।",
+    "पुस्तकमा बहादुर शाहको हत्याकाण्ड, रणबहादुर शाहको हत्याकाण्ड, भिमसेन थापाको उदय र अस्त, इतिहासका कुख्यात कोतपर्व, भण्डारखाल पर्व र अलौपर्व, लगायत अन्य केहि कम सुनिएका राणाशाही विरुद्धको अठतीस सालको असफल षडयन्त्र जस्ता घटनाको बारेमा पनि चर्चा गरिएको छ । भिमसेन थापाको बारेमा इतिहासले धेरै राम्राकुराहरु गाएको भएपनि उनले शक्ति हातपार्नका लागी गरेका हत्याहरुको विवरण इतिहासहरुमा पाइँदैन । त्यस्तै उनको मृत्युको हकमा पनि अनेक भनाइहरु पाइन्छ । यसमा पुरानो विष मुद्दालाई बल्झाएर पाँडेहरुले षडयन्त्रगरी आत्मह"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 221,
+    "text_length_max": 1560,
+    "text_length_avg": 659.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15903,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36439.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36439.txt",
+    "relative_path": "36439.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36439.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15903,
+    "mtime": 1782796565.398105,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d89a46690f1dee7fa5dbd666533d80d925dddbac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

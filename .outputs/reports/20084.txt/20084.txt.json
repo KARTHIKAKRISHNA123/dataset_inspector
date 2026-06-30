@@ -1,0 +1,92 @@
+{
+  "dataset": "20084.txt",
+  "file_name": "20084.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डबराल भारतको उत्तराखण्ड राज्य र गढवाल क्षेत्रमा जीवित मान्यता प्राप्त सारस्वत बाहुनको एक समुदाय हो। डबरालहरूको केही संख्या कुमाउँ क्षेत्रमा पनि पाईएको छ। ईतिहास अनुसार यिनीहरु आफुलाई ऋषी भारद्वाजको वंशज मान्छन। यिनीहरु शैव सम्प्रदायको अनुयायी हुन्, आफ्नो ईष्ट देव भगवान शिवको मान्छन।",
+    "राहुल सांकृत्यायनको पुस्तक \"हिमालय परिचय: गढ़वाल\" का अनुसार, डबराल मूल पश्चिमी भारत क्षेत्रको महाराष्ट्र राज्यका वासिन्दाहरू थिए, तिनीहरू 14औं शताब्दीमा इस्लामी आक्रमणको फलस्वरूप उत्तरको हिमालय क्षेत्रमा बसाइँ सरे।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 214,
+    "text_length_max": 283,
+    "text_length_avg": 248.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1341,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20084.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20084.txt",
+    "relative_path": "20084.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20084.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1341,
+    "mtime": 1782796490.0455642,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "9687984ecccae13f3375360fb8e35e2a41a73d0f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

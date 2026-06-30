@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19766.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिश्र एक उत्तर अफ्रिकी राष्ट्र हो। यो राष्ट्र सिनाइ प्रायद्वीपमा अवस्थित छ र यसले अफ्रिकालाई पश्चिम एसियासँग जोड्दछ। करिब 1001450km2 क्षेत्रफलमा फैलिएको मिश्रको उत्तरमा मूमध्य सागर, उत्तर-पूर्वमा गाजा पट्टी र इजरायल, पूर्वमा लाल सागर, दक्षिणमा सुडान र पश्चिममा लिबिया पर्दछ। ",
+    "मिश्र अफ्रिका र मध्य-पूर्वमा सबैभन्दा धेरै जनसंख्या रहेका देशहरू मध्ये एक हो। यो देशको करिब 7.54 करोड जनसंख्या प्रायः, नाइल नदीको आसपासको 40000 किमि2 क्षेत्रमा बसोबास गर्दछन्। मिश्र भरि यो क्षेत्रमा मात्र कृषियोग्य जमीन पाइन्छ। मिश्रमा सहारा मरुभूमि पर्दछ जहाँ जुन न्युनः मात्रामा मात्र मानव बस्ती पाइन्छ। मिश्रको करिब आधा जनसंख्या शहरी क्षेत्रमा बसोबास गर्दछन्, जस मध्ये धेरैजसो काइरो, अलेक्जेण्ड्रिया र नाइल डेल्टा वरिपरिका स्थानमा बसोबास गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 449,
+    "text_length_avg": 180.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9978,
+      "Latin": 0.0022
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2879,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9978,
+      "Latin": 0.0022
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19766.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19766.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19766.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2879,
+    "mtime": 1782796625.948362,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a4b89e032eaf33cbe00378de042b3bc2368ec2a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

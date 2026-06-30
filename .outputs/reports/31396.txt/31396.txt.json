@@ -1,0 +1,91 @@
+{
+  "dataset": "31396.txt",
+  "file_name": "31396.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्दिरा कृष्णमूर्ति नुई वर्तमान मा पेप्सिको कम्पनीको मुख्य कार्यकारी अधिकारी हुन् । दुनियाको प्रभावशाली महिलाहरूमा उनको नाम समम्लित छन् । उनी येल निगमको उत्तराधिकारी सदस्य हुन् । संगै उनी न्यूयोर्क फेडरल रिजर्वको निदेशक बोर्डको स्तर बी को निदेशक पनि हुन् । यस बाहेक उनी अन्तराष्ट्रिय बचाव समिति, कैटलिस्ट, को बोर्ड र लिंकन प्रदर्शन कला केन्द्रको एक सदस्य हुन् । उनी एइसेन्होवेर फैलोशिपको न्यासी बोर्डको सदस्य पनि हुन् र वर्तमानमा यु एस-भारत व्यापार परिषदमा सभाध्यक्षको रूपमा आफ्नो सेवाहरू दि रहेकी छि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 505,
+    "text_length_max": 505,
+    "text_length_avg": 505.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1350,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31396.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31396.txt",
+    "relative_path": "31396.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31396.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1350,
+    "mtime": 1782796542.288603,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3c05f6e969443198e75173c2de009d1b8b448479",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

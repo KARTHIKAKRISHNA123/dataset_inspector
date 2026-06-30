@@ -1,0 +1,94 @@
+{
+  "dataset": "33432.txt",
+  "file_name": "33432.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुराँस नेपाल लगायतका देशहरूमा पाइने एक प्रकारको रूख हो। यो पतझड अर्थात् decidious वर्गमा पर्दछ। यसको रूख होचो झ्याम्म परेको हुन्छ जुन धेरजसो भीरालो ठाउँमा उम्रन्छ। उच्च पहाडी भेकमा पाइने यो वनस्पति चैत्र-बैशाख महिनामा फूल्ने गर्दछ। लाली गुराँस नेपालको राष्ट्रिय फूल हो। 3 हजार मीटर भन्दा माथिको उचाइमा सेतो गुराँस पाइन्छ। दुवै प्रकारका गुराँस औषधि मानिन्छन् । नेपालमा गुराँसको सर्वत बन्दछ। विश्वको सबैभन्दा अग्लो लालीगुराँसको बोट नेपालमा रहेको छ। इलाम जिल्लाको मंगलबारे गाविसमा रहेको 16.1 मीटर अग्लो ",
+    "विश्वमा गुराँसका 32 प्रजातिहरू पाइन्छन्। यसमध्य नेपालको तेह्रथुम,ताप्लेजुङ र संखुवासभाको संगम स्थलमा रहेको तीनजुरे-मिल्के-जल्जले क्षेत्रमा 28 प्राजातिका गुराँस पाईन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 167,
+    "text_length_max": 698,
+    "text_length_avg": 432.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9876,
+      "Latin": 0.0124
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2298,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9876,
+      "Latin": 0.0124
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33432.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33432.txt",
+    "relative_path": "33432.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33432.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2298,
+    "mtime": 1782796551.5806298,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "24dee57a5ae29a4fe1ceb14653a6647bcee5a100",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

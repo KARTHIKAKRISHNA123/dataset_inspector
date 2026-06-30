@@ -1,0 +1,91 @@
+{
+  "dataset": "12250.txt",
+  "file_name": "12250.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तृप्ती नदाकर नेपाली चलचित्र क्षेत्रको एक चर्चित अभिनेत्री हुन्। उनले दर्जनभन्दा बढी नेपाली चलचित्रमा अभिनय गरिसकेकी छिन्। उनका सफल चलचित्रहरूमा सम्झना, कुसुमे रुमाल, साइनो, लाहुरे आदि छन्। तृप्तीलाई 2 दशक अधि एक नेपाली कथानाक चलचित्र साइनोमा काम गरेबापत 1 लाख पचास हजार रूपैयाँ दिइएको थियोे।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 291,
+    "text_length_max": 291,
+    "text_length_avg": 291.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 776,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12250.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12250.txt",
+    "relative_path": "12250.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12250.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 776,
+    "mtime": 1782796453.138248,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3f68c5e0bedc88d3d50c3d5bfe786870d341f0ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36036.txt",
+  "file_name": "36036.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेन्जामिन नेतन्याहु इजरायल का वर्तमान प्रधानमन्त्रि हुन्। नेतन्याहु हाल केन्सेटका सदस्य र लिकुड पार्टीका अध्यक्ष रूपमा सेवा गर्दैछन्।यहूदी आमाबाबुको कोखबाट बेन्जामिन नेतन्याहु इजरायलको तेल अवीवमा जन्मे । नेतन्याहु इजरायल राज्यको स्थापना पछी इजरायलमा जन्मेर प्रधानमन्त्रि बन्ने पहिलो व्यक्ति हुन् ।",
+    "नेतन्याहु सन् 1949 मा तेल अवीव, इजरायलमा इजरायली आमा टेजिला सेगाल र एक वरस-जन्म बुबा प्रोफेसर बेन्जियो नेतन्याहु तीन छोरा छोरीको बिचमा उनको जन्म भएको थियो । नेतन्याहुको अशकेनाजी यहूदी र सेफार्दिक यहूदीको मिश्रीत वंश छ ।उहाँले सुरुमा शिक्षा जेरुसेलमबाट नै लिनु भयो त्यहाँ उहाले हेनरीइट्टा इसोल्ड प्राथमिक विद्यालयमा भर्ना हुनु भयो । शिक्षक रूथ रुबेनस्टेंनले नेतन्याहु कक्षा 6मा पढदा गरेको मूल्यांकन अनुसार उनि विनम्र, भद्र र सहयोगी थिए भने उनि आफ्नो काम \"जिम्मेवार र समयनिष्ठ\" भएर गर्ने आनुशासितका साथ"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 551,
+    "text_length_avg": 336.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5401,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36036.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36036.txt",
+    "relative_path": "36036.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36036.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5401,
+    "mtime": 1782796563.5321968,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "12a041c4ba7b0cc727c733584ff41b1180e8866d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

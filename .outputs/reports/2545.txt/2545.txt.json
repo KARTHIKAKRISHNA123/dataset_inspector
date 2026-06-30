@@ -1,0 +1,92 @@
+{
+  "dataset": "2545.txt",
+  "file_name": "2545.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोबि आजियाट लिमिटेड वा रोबि बङ्लादेशको दोस्रो ठूलो मोबाइल नेटवर्क सञ्चालक हो। यो मलेसियाको आजीयाटा ग्रुप बेरहाड, भारतको भारती एयरटेल लिमिटेड, र जापानको र एनटिटि डोकोमो इङ्क बीचको संयुक्त उद्यम हो। यसमा 68.7% आजीयाटा को नियन्त्रणमा छ भने 25% भारतीको नियन्त्रण छ र 6.3% जापानको एनटिटि डोकोमोको नियन्त्रण रहेकोे छ। यसको मुख्यालय बङ्लादेशको ढाकामा अवस्थित छ।",
+    "बङ्लादेशमा टेलिकमको क्षेत्रको पहिलो समायोजन रोबि आजीयाटा लिमिटेडको सञ्चालनको शुरुवात सँग 16 नोभेम्बर, 2016 मा भएको थियो। रोबी र एयरटेलको समायोजन पछि, समायोजित गरिएको कम्पनी रोबि आजीयाटा लिमिटेड हो। सफलतापूर्वक समायोजन प्रक्रिया पूरा भएपछि, रोबि बङ्लादेशको दोस्रो ठूलो मोबाइल फोन सञ्चालकको रूपमा उभिएको छ। सामयोजित यस कम्पनी हाल राष्ट्रव्यापी रुपमा फैलिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 484,
+    "text_length_avg": 321.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6680,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2545.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2545.txt",
+    "relative_path": "2545.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2545.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6680,
+    "mtime": 1782796514.4424484,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "44f69b199dc45226613ea91eb1123ca841f34861",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

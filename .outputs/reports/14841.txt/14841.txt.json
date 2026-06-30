@@ -1,0 +1,92 @@
+{
+  "dataset": "14841.txt",
+  "file_name": "14841.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 आइसिसी वर्ल्ड क्रिकेट लिग डिभिजन टु एउटा क्रिकेट प्रतियोगिता हो जसलाई अन्तर्राष्ट्रिय क्रिकेट परिषदले संचालन गर्ने गर्दछ । आइसिसी वर्ल्ड क्रिकेट लिगको एक भागको रूपमा आयोजना भएको उक्त प्रतियोगिता 2019 क्रिकेट विश्वकप प्रतियोगितामा सहभागी हुने टिम छनौट गर्नको लागि खेलाईएको हो ।",
+    "यो प्रतियोगिता नामिबियामा सन् 2015 जनवरी 17 देखि 24 सम्म आयोजना गरिएको क्रिकेट प्रतियोगिता हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 281,
+    "text_length_avg": 74.75,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2384,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14841.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14841.txt",
+    "relative_path": "14841.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14841.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2384,
+    "mtime": 1782796464.9041626,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ce427980dc3c5bf1adbc9857cd47310a81a67f63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

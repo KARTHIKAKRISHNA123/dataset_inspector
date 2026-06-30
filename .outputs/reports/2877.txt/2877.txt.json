@@ -1,0 +1,93 @@
+{
+  "dataset": "2877.txt",
+  "file_name": "2877.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोस्रो विश्वयुद्ध ‍1939 देखि ‍1945 सम्म चलेको विश्व-स्तरीय युद्ध थियो । लगभग 70 देशहरूका जल-थल-वायु सेनाहरू यस युद्धमा सम्मलित थिए। यस युद्धमा विश्व दुइ भागमा बाँडिएको थियो - मित्र राष्ट्र र धुरी राष्ट्र। यस युद्धमा लगभग 6 करोड मानिसहरूको ज्यान गयो र यो मानव इतिहासको सबभन्दा घातक युद्ध थियो। युद्धको अंतमा मित्र राष्ट्रहरूको जीत भयो। ",
+    "दोस्रो विश्वयुद्धको शुरुवात सेप्टेम्बर 1939 मा भयो जुनबेला जर्मनीले पोल्याण्डमाथि हमला गरयो र त्यसपछि जब अमरीका, फ्रान्स र इंग्ल्याण्डले जर्मनीमाथि हमला गरे । प्रथम विश्व युद्धमा हारेपछि जर्मनीले भर्सेलिजको सन्धिमा जबरजस्ती हस्ताक्षर गर्नुपर्यो। यो संधिको कारण उसले आफुले कब्जा गरेको धेरै भूभाग छोड्नुपरयो, अरु देशमाथि आक्रमण नगर्ने शर्त मान्नुपर्यो, आफ्नो सेना-संख्या सीमित गर्नुपरयो र ओरथम विश्वयुद्धमा भएको नोक्सानी भरपाईको रूपमा अरु देशलाई दिनुपरयो। 1917 मा रूसमा गृह युद्ध भएपछि सोभियत संघको निर"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 240,
+    "text_length_max": 932,
+    "text_length_avg": 562.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Latin": 0.0028
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23809,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2877.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2877.txt",
+    "relative_path": "2877.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2877.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23809,
+    "mtime": 1782796529.7625031,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.9,
+    "sha1_quick": "f35976a72e017364c67dcb733357886321b2c6f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

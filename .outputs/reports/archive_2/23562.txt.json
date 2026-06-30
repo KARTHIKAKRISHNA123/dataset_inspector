@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23562.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पञ्चकर्म आयुर्वेदको उत्‍कृष्‍ट चिकित्‍सा विधि हो। पञ्चकर्मलाई आयुर्वेदको विशिष्‍ट चिकित्‍सा पद्धति पनि भनिन्छ। यस विधिबाट शरीरमा लाग्ने रोगहरुको कारण जुन वात, पित्त, तथा कफ हुन्छ यी तीन दोषहरु अर्थात् त्रिदोषहरुका असम रूपलाई समरूपमा पूर्ववत् स्थापना गर्नको लागि विभिन्‍न प्रकारको प्रक्रियाहरू प्रयोगमा ल्याइन्छन्। किनभने यिनी धेरै प्रक्रियायहरूमा पांच कर्म मुख्‍य छन्, यसैकारण ‘’पञ्चकर्म’’ भन्दछन्। यो पांच कर्महरूको प्रक्रियाहरू यस प्रकार छन् ",
+    "उपरोक्‍त पांचलाई मुख्‍य अथवा प्रधान कर्म भन्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 39,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 444,
+    "text_length_avg": 108.46,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11219,
+    "estimated_records": 103
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 103,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23562.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23562.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23562.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11219,
+    "mtime": 1782796633.4700944,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9e1a86f6c7ea0335deaadb1eef4b06918ac62787",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

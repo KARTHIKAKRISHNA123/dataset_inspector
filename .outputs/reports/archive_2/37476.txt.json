@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37476.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "17,000 जवानदुवै अभियानमा संलग्न भारतीय जावनहरुको संख्या अज्ञात",
+    "सन् 1814 देखि 1816 सम्म चलेको नेपाल-अङ्ग्रेज युद्ध त्यस बेलाको नेपाल अधिराज्य र ब्रिटिश ईस्ट इण्डिया कम्पनी बिच भएको थियो। जसको परिणाम स्वरूप सुगौली सन्धी भएको थियो र नेपालले आफ्नो एक-तिहाई भूभाग बेलायतलाई सुम्पनु परेको थियो। नेपाल र अङ्ग्रेज ब्रिटिश इस्ट इण्डिया कम्पनी सरकार बिच 1814 देखि 1816 सम्म भएको युद्धलाई एङ्गलो-नेपाल युद्ध पनि भनिन्छ। यो युद्धमा नेपाल माथी ब्रिटिस इस्ट इण्डिया कम्पनी सरकारले मोरङ, मकवानपुर, बुटवल, अल्मोडा, कुमाउँ, नाहन, जैथक, मलाउँ, देउथल तथा नालापानीमा आक्रमण गरेको थिय"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1614,
+    "text_length_avg": 479.27,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14009,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37476.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37476.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37476.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14009,
+    "mtime": 1782796661.1192555,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a39dbdd0e7a2e1f16a4ffbf9b2b9400e8d25e961",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

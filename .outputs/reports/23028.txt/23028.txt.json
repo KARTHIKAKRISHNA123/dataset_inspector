@@ -1,0 +1,92 @@
+{
+  "dataset": "23028.txt",
+  "file_name": "23028.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मछरी चित्रकार गाडी चलाउने चाहिने अनुमतिपत्र लिने पहिलो नेपाली महिला हुनुहुन्छ। उहाँले 2009 साल जेठ 29मा लाईसेन्स लिनुभएको हो। उहाँले सुरुमा काठमाडौंको पुतलीसडकदेखि टुँडीखेलसम्म जीप चलाउनुभएको थियो। त्यो जीप 545 नम्बरको थियो। ",
+    "मछरीको जन्म 1988 साल भाइटिकाको दिन काठमाडौंको यट्खामा भएको थियो। उहाँका पिताको नाम कृष्णबहादुर र माताको नाम भद्रमाया हो। उहाँहरू 3 दाजुभाई र 4 दिदीबहिनी जन्मनुभएको हो। मछरी जेठी छोरी हो। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 150,
+    "text_length_max": 225,
+    "text_length_avg": 187.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1481,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23028.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23028.txt",
+    "relative_path": "23028.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23028.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1481,
+    "mtime": 1782796503.321435,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "29dc42ca51e357660297f35627f834b5e5ce31da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

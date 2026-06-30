@@ -1,0 +1,107 @@
+{
+  "dataset": "data3.json",
+  "file_name": "data3.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "te",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "sourceText",
+    "targetText"
+  ],
+  "preview": [
+    "'ముప్పెట్‌ల లాగా అనిపిస్తుందేమో' అని వెల్ష్ ఎ.ఎమ్‌లు చింతిస్తున్నారు",
+    "కొందరు ఎ.ఎమ్‌లు తమ శీర్షికను MWPలు (వెల్ష్ పార్లమెంట్ సభ్యులు) అని మార్చాలి అనే సూచన పట్ల దిగ్భ్రాంతికి గురయ్యారు."
+  ],
+  "statistics": {
+    "records_sampled": 1997,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 412,
+    "text_length_avg": 127.12,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Telugu": 0.7847,
+      "Arabic": 0.2097,
+      "Latin": 0.0056,
+      "Bengali": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1187814,
+    "estimated_records": 9343
+  },
+  "schema": {
+    "columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "estimated_records": 9343,
+    "raw_schema": {
+      "sourceText": "str",
+      "targetText": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Telugu, Arabic",
+    "languages_seen": [
+      "te"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "te",
+    "dominant_script": "Telugu",
+    "script_distribution": {
+      "Telugu": 0.6676,
+      "Arabic": 0.3203,
+      "Latin": 0.0121
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "data3.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\data3.json",
+    "relative_path": "data3.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "data3.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 1187814,
+    "mtime": 1782795636.8760781,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "325f21b5f5499e3b3d4330ca340f65cbe4bd134d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

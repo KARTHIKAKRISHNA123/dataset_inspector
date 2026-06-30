@@ -1,0 +1,91 @@
+{
+  "dataset": "15384.txt",
+  "file_name": "15384.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टुवेल्भ इयर्स अ स्लेभ एउटा एतिहासिक ब्रिटिस-अमेरिकन ड्रामा चलचित्र हो । यो चलचित्रमा एउटा पात्र सोलोमन नर्थअप जो कि अफ्रिकीअमेरिकन हुन्छ उसलाई सन् 1841 मा अमेरिकाको वासिंगटन राज्यबाट अपहरण गरि बेचिएको हुन्छ । यो निर्देशक स्टिभ म्याकक्विनको तेश्रो चलचित्र हो । यसको पटकथा जोन रीडलेले लेखेका थिए । सोलोमोन नर्थअपको भूमिकामा चिवेटल इजियोफरले गरेका छन् । तथा निर्वाहक भूमिकामा माइकल फासबेन्डर,बेनेडिक्ट कम्बरवाच,पाउल डनो,पाउल जियामटी,लुपिटा न्योंग'ओ,सराह पाउलसन,ब्र्याड पिट तथा अल्फ्रे वुडवार्डले गरेका छ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 613,
+    "text_length_max": 613,
+    "text_length_avg": 613.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1619,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15384.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15384.txt",
+    "relative_path": "15384.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15384.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1619,
+    "mtime": 1782796467.3264723,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2798e4f52e24eb6754db19892aca636bffb60da0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

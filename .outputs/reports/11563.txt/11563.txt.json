@@ -1,0 +1,94 @@
+{
+  "dataset": "11563.txt",
+  "file_name": "11563.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौं उपत्यकाको उत्पत्तिका सम्बन्धमा विभिन्न धार्मिक ग्रन्थले आ-आफ्नै किसिमले उल्लेख गरेका छन्। पौराणिक साहित्यमा हिमवत् क्षेत्रमा अनगन्ती क्षेत्र तीर्थ, देवस्थल, ऋषिमुनिहरूका आश्रम तथा नदीहरूको चर्चा र माहात्म्य पाइन्छन्। यस क्रममा बालाजुको बाइसधारा अर्थात् ल्हुतिपुन्हि क्षेत्र पनि एक प्राचीन धार्मिक तीर्थस्थलको रूपमा रहेको देखिन्छ। बौद्ध धर्मावलम्बीहरू र हिन्दू धर्मावलम्बीहरू दुवैको आस्था केन्द्रको रूपमा रहेको बालाजु र नागार्जुन क्षेत्र धार्मिक सहिष्णुताको दृष्टिले पनि अनुपम नमुना मानिन्छ। ",
+    "चैत शुक्ल पूणिर्माका दिन यस स्थलमा भव्य मेला लाग्छ। यस दिनलाई नेवारहरू ल्हुतिपुन्हिको रूपमा मनाउने गर्दछन्। यस पूणिर्मामा बालाजुको बाइसधारामा भक्तजनहरू स्नान गर्न जान्छन्। यसै दिन 'मन्नादी' देवीको जन्म भएकाले विशेष गरी महिलाले बाइसधारामा स्नान गरी त्यहाँ अवस्थित उक्त देवीको पूजा अर्चना गरेमा उनीहरूलाई बढी फलिफाप हुने विश्वास रहिआएको छ। त्यस्तै यहाँ नुहाउनाले जो कोहीको पनि शरीरका सम्पूर्ण रोगव्याधि हटी सुख प्राप्त गर्ने र परलोकमा समेत पुण्य प्राप्त हुने जनविश्वास रहिआएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 204,
+    "text_length_max": 933,
+    "text_length_avg": 490.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10590,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11563.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11563.txt",
+    "relative_path": "11563.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11563.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10590,
+    "mtime": 1782796449.9344792,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "37b7002e6a5bc13b5493805757c3db57777a07df",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

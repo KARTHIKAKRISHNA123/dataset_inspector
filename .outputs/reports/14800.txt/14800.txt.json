@@ -1,0 +1,92 @@
+{
+  "dataset": "14800.txt",
+  "file_name": "14800.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यस्तो कुनै पनि पदार्थ जो शर्करा, वसा, जल तथा/अथवा प्रोटीनबाट बना हो, र जीव जगत द्वारा ग्रहण गरे जा सके, त्यसलाई भोजन भन्दछन्। जीव न केवल जीवित रहनका लागि तर स्वस्थ र सक्रिय जीवन बिताउनका लागि भोजन गर्दछन्। भोजनमा अनेक पोषक तत्व हुन्छन् जो शरीरको विकास गर्दछन्, त्यसलाई स्वस्थ राख्दछन् र शक्ति प्रदान गर्दछन्। ",
+    "भोजनमा पाइने आवश्यक तत्व हुन् - कार्बोहाइड्रेट, प्रोटीन, वसा र तेल, विटामिन र खनिज। यसका अतिरिक्त भोजनमा सबै पोषक तत्व हुनुपर्दछ ; अर्थत् मांसपेशिहरू र उतकहरूलाई सबल बनाउनको लागि प्रोटीन, ऊर्जा वा शक्ति प्रदान गर्नका लागि कार्बोहाइड्रेट र वसा, मजबूत ह्ड्डीहरू र रक्तका विकासका लागि खनिज लवण र स्वस्थ जीवन एवं शारीरिक विकासका लागि भिटामिन।"
+  ],
+  "statistics": {
+    "records_sampled": 32,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 727,
+    "text_length_avg": 138.09,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11637,
+    "estimated_records": 84
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 84,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14800.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14800.txt",
+    "relative_path": "14800.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14800.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11637,
+    "mtime": 1782796464.7204576,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d68a5743fcc776fea84f03635306cc74db60b9a8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "38172.txt",
+  "file_name": "38172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजर्षी जनक कप एक फुटबल प्रतियोगिता हो ।यो फुटबल प्रतियोगितामा काठमाडौंका कुल 8 ए डिभिजन क्लकहरू बिच आयोजना हुने फुटबल प्रतियोगिता हो ।जुन वि.स.2073 सालबाट सुरू हुन गई रहेको छ।वाग्मती युवा क्लब सर्लाही ले आयोजना गर्ने यस प्रतियोगिता सर्लाहीमा संचालन हुनेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 257,
+    "text_length_max": 257,
+    "text_length_avg": 257.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 676,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38172.txt",
+    "relative_path": "38172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38172.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 676,
+    "mtime": 1782796574.0335884,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a8ea10f16e0046fafcd7cf322faa7eb0dbe373b0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

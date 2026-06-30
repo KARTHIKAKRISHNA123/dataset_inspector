@@ -1,0 +1,91 @@
+{
+  "dataset": "14914.txt",
+  "file_name": "14914.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चंपानेर-पावागढ़ पुरातात्विक निकुञ्ज एक युनेस्को विश्व सम्पदा क्षेत्र हो ,जुन भारतमा अवस्थित छ । यो निकुञ्जलाई विश्व सम्पदा क्षेत्रमा सन 2004मा सम्मिलित गरिएको थियो । यहा वृहत उत्खनित पुरातात्विक, ऐतिहासिक एंबम जीवित सास्कृतिक धरोहर सम्पत्तिको बाहुल्यता रहेको पाइन्छ,जुन एक प्रभावशाली भूभाग नै समेटेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 305,
+    "text_length_max": 305,
+    "text_length_avg": 305.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 810,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14914.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14914.txt",
+    "relative_path": "14914.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14914.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 810,
+    "mtime": 1782796465.2349706,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "6e9f26f61a31451b5cde6ece4a2c985167808813",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

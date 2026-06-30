@@ -1,0 +1,92 @@
+{
+  "dataset": "36231.txt",
+  "file_name": "36231.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काब्रे गाविस दोलखा जिल्लामा अवस्थित एक गाउँ विकास समिति हो।दोलखा जिल्लाको मध्य दक्षिण भागमा अवस्थित काब्रे गाविस जिल्लाकै एक नमुना गाविस हो ।1631 हेक्टर क्षेत्रफल ओगटेको काब्रे गाविसको संक्षिप्त जानकारी निम्नानुसार छन ।यो गाविस सदरमुकाम चरिकोटबाट 6 कोश उत्तरपूर्वमा अवस्थित छ ।",
+    "सिमाना:पूर्वमा जिरी र मिर्गे गाविस,दक्षिणमा मिर्गे र नाम्दु गाविस ,उत्तरमा क्षत्रपा र जुगु गाविस र पश्चिममा नाम्दु गाविस । जनसङ्ख्या:4,723 जसमध्ये पुरुष- 2,151 र महिला 2,572 रहेका छन । 151 जना विविध अपाङ्गता भएका व्यक्ति छन ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 294,
+    "text_length_avg": 167.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2961,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36231.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36231.txt",
+    "relative_path": "36231.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36231.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2961,
+    "mtime": 1782796564.402846,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4373001786dea698da8bb10acc7ff78e046e906a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

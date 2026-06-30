@@ -1,0 +1,92 @@
+{
+  "dataset": "23566.txt",
+  "file_name": "23566.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पद्मिनी कोल्हापुरी एक भारतीय चलचित्र अभिनेत्री हुन् । उनी सन् 1980 को दशकमा बलिउड चलचित्र उद्योगमा अभिनय गरेकी हुन् । उनले हाल आएर टेलिभिजनमा समेत अभिनय गर्न सुरू गरेकी छन् । उनले नई पहचान नामक टेली चलचित्रमा अभिनय गरिरहेकी छन् ।",
+    "पद्मिनी कोल्हापुरीको जन्म पन्धारीनाथ कोल्हापुरी र अनुपमा कोल्हापुरीको घरमा दोस्रो सन्तान'को रुपमा भएको थियो । उनको बुवा एक सङ्गीतकार थिए । उनको ठुली दिदी शिवांगी कपूर, अभिनेता शक्ति कपूरकी श्रीमती र अभिनेता सिद्धान्त कपूर र अभिनेत्री श्रद्धा कपूरकी आमा हुन् । उनकी कान्छी बहिनी पनि अभिनेत्री हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 229,
+    "text_length_max": 298,
+    "text_length_avg": 263.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1398,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23566.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23566.txt",
+    "relative_path": "23566.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23566.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1398,
+    "mtime": 1782796505.765751,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1720ca357da7eb5cb36ce46b0f0afddf38dd2e92",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "6779.txt",
+  "file_name": "6779.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त राष्ट्रको यो विशेष संस्था 16 नोभेम्बर 1945 मा गठित भएको हो । यसको निश्चित उद्देश्य हो शांति र सुरक्षाको लागि योगदान, जुन कि शिक्षा, विज्ञान एवं संस्कृतिको अन्तरराष्ट्रिय सहयोग द्वारा हुन्छ। जसले कि अगाडि न्याय, विधिको नियम एवं मानवाधिकार तथा मूलभूत स्वतन्त्रता हेतु वैश्विक विचार स्थापित हुन सकोस। यस्तो संयुक्त राष्ट्रको राजपत्रमा घोषित भएको थियो । यो लीग अफ नेशन्सको प्रज्ञावान सहयोगमा अन्तराष्ट्रिय आयोगको उत्तराधिकारी हो । यसको मुख्यालय पेरिस, फ्रान्समा स्थित छ । हाल युनेस्कोमा जम्मा 195"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 563,
+    "text_length_max": 563,
+    "text_length_avg": 563.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1482,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6779.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6779.txt",
+    "relative_path": "6779.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6779.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1482,
+    "mtime": 1782796591.3399117,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "84653872775e352e96d131d6a2a70374217b419e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

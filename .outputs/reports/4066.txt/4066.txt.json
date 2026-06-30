@@ -1,0 +1,92 @@
+{
+  "dataset": "4066.txt",
+  "file_name": "4066.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारत अन्डर-19 राष्ट्रिय क्रिकेट टिमले अन्डर-19 अन्तर्राष्ट्रिय क्रिकेटमा भारतको प्रतिनिधित्व गर्ने गर्दछ । यस टिमको वर्तमान कप्तान विजय जोल हो भने प्रशिक्षक भूतपूर्व भारतीय क्रिकेट खेलाडी राहुल द्रविड हुन ।",
+    "यस भारतीय टिमले तीनवटा अन्डर-19 क्रिकेट विश्वकप जितिसकेको छ । सन् 2000 मा यसले मोहम्मद कैफको कप्तानीमा जितेको थियो भने सन् 2008 मा विराट कोहली र सन् 2012 मा उन्मुक्त चन्दको कप्तानीमा विश्वकप प्रतियोगिता जितेको थियो । यस टिमको ओडिआई खेलमा जित प्रतिशत रहेको छ जुन अन्डर-19 राष्ट्रिय क्रिकेट खेल्ने सबै टिमहरूको तुलनामा सबैभन्दा बढी हो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 206,
+    "text_length_max": 335,
+    "text_length_avg": 270.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1405,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4066.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4066.txt",
+    "relative_path": "4066.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4066.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1405,
+    "mtime": 1782796577.7916718,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4f3d9a90292bddbdc18a6333452f983daead3904",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

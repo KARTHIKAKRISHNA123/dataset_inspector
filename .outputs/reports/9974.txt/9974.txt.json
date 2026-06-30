@@ -1,0 +1,92 @@
+{
+  "dataset": "9974.txt",
+  "file_name": "9974.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शाश्वत पराजुली नेपाली बालसाहित्यका लेखक हुन्। शाश्वत साहित्यकार कृष्णप्रसाद पराजुलीका जेठा छोरा हुन्। ",
+    "वि.सं. 2026 मंसिरमा जन्मेका शाश्वतले अर्थशास्त्रमा स्नातकोत्तर गरेका छन्। पराजुलीका दुई दर्जन भन्दा बढी बालकथा र चित्रकथाका किताब् प्रकाशित छन्। उनले दर्जनौं बाल पुस्तकहरूको सम्पादन पनि गरेका छन्। उनले बालपत्रिका मेला र कान्तिपुर दैनिकको परिशिष्टाङ्क कोपिलाको पनि सम्पादन तथा संयोजन गरेका छन्। बालमनोविज्ञान र बाल रुचि बुझेका शाश्वतका बालसाहित्यिक कृतिहरू निकै लोकप्रिय मानिन्छन्। शाश्वत बालसाहित्यमा बढी पुस्तक बिक्री हुने लेखकका रूपमा पनि चिनिएका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 509,
+    "text_length_avg": 288.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3730,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9974.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9974.txt",
+    "relative_path": "9974.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9974.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3730,
+    "mtime": 1782796606.5281146,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2c87413dd6f24871ab3fae8d2b8f0f25cafa10af",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

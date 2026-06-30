@@ -1,0 +1,93 @@
+{
+  "dataset": "1413.txt",
+  "file_name": "1413.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पातालगङ्गा झापा जिल्लाको मेचीनगर नगरपालिका वडा नम्बर 13 मा अवस्थित मन्दिर हो । मेचीनगर नगरपालिका क्षेत्रमा पर्ने पातालगंगा पवित्र धार्मिक, ऐतिहासिक र दर्शनीय स्थलको रूपमा लिइन्छ। झापा जिल्लाको पवित्र तीर्थस्थल अर्जुनधारासँग सम्बन्ध जोडिएको छ भन्ने धामिृक जनश्रुती पाइन्छ। 1990 सालको भूकम्प जाँदा हलको पातालगंगा रहेको स्थानमा एकाएक दुध जस्तो सतो फोहरा फुटेपछि स्थानीय मानिसहरूले गङ्गाजल प्रकट भएको विश्वास गरेका हुनाले यहाँ दर्शनार्थीहरू आउन थालेको हो। वि सं. 2042 सालमा निजी सहयोगमा मन्दिर निर्माण भए"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1053,
+    "text_length_max": 1053,
+    "text_length_avg": 1053.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2809,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1413.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1413.txt",
+    "relative_path": "1413.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1413.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2809,
+    "mtime": 1782796461.619535,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4d2986817b13695979fd10720eedbe1ca8276e1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

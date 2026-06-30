@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32019.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बछेंद्री पाल माउंट एवरेस्टमार चढने वाली प्रथम भारतीय महिला हुन्। उनी एवरेस्टको उचाईलाई छूने वाली दुनियाकी 5औं महिला पर्वतारोही हुन। वर्तमानमा उनी इस्पात कम्पनी टाटा स्टीलमा कार्यरत छिन्, जहां उनी छानिएको मान्छेलाई रोमांचक अभियानहरूको प्रशिक्षण दिने गर्छिन्। ",
+    "बछेंद्री पालको जन्म उत्तराखंड राज्यको उत्तरकाशी जिल्लाको एक गाउँ नकुरीमा सन् 1954मा भुएको थियो। खेतिहर परिवारमा जन्मेकी बछेंद्रीले ने बी.एड. सम्मको पढाई पुरा गरेकी चिन। मेधावी र प्रतिभाशाली भए पनि उनलाई धेरै राम्रो रोज़गार मिल्न सकेन। जो मिल्यो त्यो अस्थायी, जूनियर स्तरको थियो र कमाइ पनि धेरै कम थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 258,
+    "text_length_max": 302,
+    "text_length_avg": 280.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1494,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32019.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32019.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32019.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1494,
+    "mtime": 1782796650.1186726,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "8177099485ccff6efbe416ebf77e1b6a743037a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

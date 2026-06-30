@@ -1,0 +1,92 @@
+{
+  "dataset": "28323.txt",
+  "file_name": "28323.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन् 1956 मा पहिले इजराइल तथा पछि ब्रिटेन र फ्रान्सद्वारा मिस्र माथि गरिएको आक्रमणलाई स्वेज संकट भनिन्छ। यो आक्रमण स्वेज नहर माथि पश्चिमी देशको नियन्त्रण पुनः स्थापित गर्न तथा मिस्रको राष्ट्रपति नासेरलाई सत्ताबाट हटाउने उद्देश्यले गरिएको थियो। युद्ध शुरू भए पछी संयुक्त राज्य अमेरिका राष्ट्रपति ड्वीट डी. आइजेनहावर, सोवियत संघ र संयुक्त राष्ट्र संघले यसमा राजनयिक हस्तक्षेप गरे र आक्रमणकारी देश पछि हट्नलाई बाध्य भए।",
+    "मिस्त्रका राष्ट्रपति कर्नल गमाल नासेरले 26 जुलाई 1956 मा स्वेज नहरलाई राष्ट्रियकरण गरे तथा ब्रिटेन र फ्रान्सको सेनालाई इजिप्टबाट हट्न आदेश दिए । त्यसपछि ब्रिटेन र फ्रान्सका सेनाले मिस्त्रमाथि आक्रमण गरे। सुरक्षा परिषदमा रुसले आक्रमण नरोकिए युद्धमा उत्रने धम्कि दिए र ब्रिटेन तथा फ्रान्सले युद्ध बन्द गरे संयुक्त राष्ट्र संघका महासचिव ड्याग ह्यामरसोल्डले एक संयुक्त रास्ट्रिय सेनालाई मिस्त्र पठाए र त्यहाँ शान्ति स्थापित गराए । तथा 1957 मा स्वेज नहर सबै देशको जहाजको आबगमनको लागि खुला गरियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 415,
+    "text_length_max": 490,
+    "text_length_avg": 452.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2405,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28323.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28323.txt",
+    "relative_path": "28323.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28323.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2405,
+    "mtime": 1782796527.6765814,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d4e47c6b80ee6b8b21134bd4df5f4920f8234163",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

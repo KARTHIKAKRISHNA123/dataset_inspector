@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22024.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अबु मिना Egyptian Arabic: ابو مينا‎ उच्चारण ) प्राचिन इजिप्टमा अवस्थित नगर, प्रार्थनास्थल तथा किस्चियनहरूको तीर्थस्थल थियो। यो क्षेत्र इजिप्टको प्राचिन सहर अलेक्जेन्द्रियाबाट 45 किलोमिटर दक्षिणपश्चिममा अवस्थित छ। अबु मिना क्षेत्रलाई युनेस्कोले सन् 1979 मा विश्व सम्पदा क्षेत्रमा सूचीकृत गरेको थियो। हाल भग्नावशेषको रूपमा थोरै संरचनाहरू बाँकि रहेको भए पनि मुख्य भवनहरूका जग स्पष्ट छुट्याउन सकिने अवस्थामा रहेका छन्।",
+    "हालसालै यस क्षेत्रको अासपासमा खेतिपाति सुरु गरिएका कारण जमिनमुनि पानीको सतहमा अाएको परिवर्तनसँगै धेरै भग्नावशेषहरू ढल्ने तथा कमजोर भएको पाइएको छ। यो क्षेत्रलाई सन् 2001 मा खतरामा परेका विश्व सम्पदा क्षेत्रहरूको सूचीमा सूचीकृत गरिएको थियो। यहि कारणले अबु मिनाका अधिकारीहरू धेरै खतरामा परेका भग्नावशेषहरूको जग वरिपरि बालुवा राख्न बाध्य भए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 337,
+    "text_length_max": 414,
+    "text_length_avg": 375.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9667,
+      "Latin": 0.0222,
+      "Arabic": 0.0111
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1980,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9667,
+      "Latin": 0.0222,
+      "Arabic": 0.0111
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22024.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22024.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22024.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1980,
+    "mtime": 1782796630.2946286,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "9bd1217ef26e2e4bfc0615413f02e56d1491b3a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

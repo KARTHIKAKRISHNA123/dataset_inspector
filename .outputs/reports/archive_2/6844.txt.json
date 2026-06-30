@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6844.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किरांत भाषाहरू नेपालका प्रमुख भाषा परिवार मध्ये एक हो। यो भाषा परिवार अन्तर्गत लिम्बू भाषा,याख्खा भाषा, सुनुवार भाषा तथा राई भाषाहरू पर्दछन्। कोही-कोही विद्वानहरू यो परिवार भित्र नेपाल भाषालाई पनि राख्न रुचाउँछन्। ",
+    "पूर्वि नेपालको किराती प्रदेशभित्र बसोबास गर्ने किराती मूलका व्यक्तिहरूले बोल्ने भाषाहरूलाई किराती भाषा भनिन्छ । पृथ्वीनारायण शाहले गोरखा राज्य विस्तार गरेको समयको प्रमाणहरूलाई हेर्दा दोलखा, रामेछाप र सिन्धुली वल्लो किरातमा पर्छ भने सुनकोशी देखि अरुण नदीसम्मका भाग माँझ किरात मा पर्दछ । अरुणदेखि पूर्व मेची नदीसम्मको भूभाग लिम्बुवान भित्रपर्दछ । वेद, पुराण, रामायण, महाभारत आदिमा अनार्यहरू सवैलाई किराती समुदायभित्र समेटेको देखिन्छ । यसरी हेर्दा चिनियाँ, तिव्वती र नेपालका गुरुड, तामाङ, थकाली, शेर्पा,"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1186,
+    "text_length_avg": 446.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10741,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6844.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6844.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6844.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10741,
+    "mtime": 1782796669.4437728,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "78f40f60e79a630bc108038e75a3cd57ec6fc1b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

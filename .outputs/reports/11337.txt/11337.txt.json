@@ -1,0 +1,91 @@
+{
+  "dataset": "11337.txt",
+  "file_name": "11337.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बीरेन्द्र साह नेपालका युवा पत्रकार तथा प्रेस चौतारीका केन्द्रीय सदस्य थिए जसको माओवादीले अपहरण गरी हत्या गरेको थियो।हत्याको 15 दिन पछि डुमरवान-7 स्थित टाँगियाबस्ती नजीकको जंगलमा गडिएको अवस्थामा फेला परेको थियो। काठमाडौंबाट लगिएका प्रशिक्षण प्राप्त कुकुरहरूको सहयोगमा शव भेटिएको हो। शवको प्रकृति हेर्दा 10-15 दिन अगाडि मात्र हत्या गरेर पुरिएको जस्तो देखिएको विज्ञ चिकित्सकहरूले बताएको भनिएको छ। उनी माओवादी द्वारा एक महिना अघि अपहरण भएका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 442,
+    "text_length_max": 442,
+    "text_length_avg": 442.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1177,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11337.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11337.txt",
+    "relative_path": "11337.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11337.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1177,
+    "mtime": 1782796448.9189684,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5512a184e4d2c9592ab6c4f5a4f97a37497f171",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

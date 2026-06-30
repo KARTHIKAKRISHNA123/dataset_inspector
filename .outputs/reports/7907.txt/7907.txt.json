@@ -1,0 +1,94 @@
+{
+  "dataset": "7907.txt",
+  "file_name": "7907.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पशुपति आर्यघाट बाग्मती किनारमा अवस्थित घाट हो। यो घाट हिन्दूहरूको अन्तिम संस्कार गर्न प्रचलित घाट हो। इतिहास अनुसार पशुपति आर्यघाट प्रताप मल्लको पालामा निर्माण गरिएको थियो ।worldvisitguide ",
+    "दाहसंस्कार गरिदै"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 189,
+    "text_length_avg": 44.83,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9367,
+      "Latin": 0.0633
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 720,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9367,
+      "Latin": 0.0633
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7907.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7907.txt",
+    "relative_path": "7907.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7907.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 720,
+    "mtime": 1782796596.7434049,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4ba26e4a9bb83cffb1e22edc16a6a09900c5d9e0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

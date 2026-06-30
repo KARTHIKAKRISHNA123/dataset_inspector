@@ -1,0 +1,92 @@
+{
+  "dataset": "17095.txt",
+  "file_name": "17095.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हरेक साँझ् यहाँका मठमन्दिरमा हुने पूजापाठ, आरती, वरपर फैलने धूपको सुवास तथा शङ्ख-घण्टको आवाजले अद्वितीय तरङ्ग पैदा गर्छ। नजीकैका स्नानघाटहरूको दृश्य अझ् लोभलाग्दा छन्। गण्डक व्यारेजमा ताल परेर समुद्रजस्तो बनेको नारायणी नदीमा वरपर बलेका बत्तीहरूको छायाँ टल्किँदा आकाश र ताराहरूले धर्तीमै बसाइँ सरेजस्तो लाग्छ।",
+    "धार्मिक आस्थासहित गएकाहरूले रातभर भजन-कीर्तन गाएर जाग्राम बस्न पनि सक्छन् भने बिहानै उठेर शिवालयको दर्शनपछि घुमघाम शुरु गर्नु राम्रो। त्यहाँबाट निस्किएपछि डुङ्गा चढेर नारायणी नदी पार गरी जङ्गलैजङ्गल आधा घण्टा हिँडेपछि चितवनतर्फको वाल्मीकि आश्रम पुग्न सकिन्छ। आश्रममा रामायणकालीन ग्रन्थसँग मिल्दोजुल्दो विशेषता बोकेका प्राचीन अवशेषहरू छन्। त्यस्ता पुरातात्विक महत्वका अवशेषबारे रुचि भएकाले थाहै नपाई यहाँ घण्टौं बित्छ। आश्रममा वाल्मीकि ऋषिको तपोस्थल, सीताको कुटी र उनले प्रयोग गरेको विश्वास गरिने इनार"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 755,
+    "text_length_avg": 467.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7570,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17095.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17095.txt",
+    "relative_path": "17095.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17095.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7570,
+    "mtime": 1782796475.3256512,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "07815984d8cafcab464b2a0e78e9e11c37cb0e58",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

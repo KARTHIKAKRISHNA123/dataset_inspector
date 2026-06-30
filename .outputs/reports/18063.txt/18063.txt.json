@@ -1,0 +1,91 @@
+{
+  "dataset": "18063.txt",
+  "file_name": "18063.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ओएफसी राष्ट्र कप ओशेनिया फुटबल संघका सदस्य राष्ट्रहरूमा आयोजना हुने अन्तर्राष्ट्रिय फुटबल प्रतियोगिता हो । यो हरेक वर्ष 2-2 बर्षको अन्तरालमा 1996 देखि 2004 सम्मको भएको थियो । 1996 अधि यहाँ ओशेनिया फुटबल सङ्घकै नाममा अनियमित अन्तरालहरूमा आयोजित दुई अन्य प्रतियोगिता हुने गरेका थिए । 2006 मा कुनै प्रतियोगिता आयोजित गरिएको थिएन तर 2008 संस्करणले भने, 2009 फिफा कन्फेडेरेसन्स कपको लागि छनोट खेलको रुपमा खेलाइएको थियो जून न्युजिल्यान्ड राष्ट्रिय फुटबल टिमले जितेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 467,
+    "text_length_max": 467,
+    "text_length_avg": 467.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1200,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18063.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18063.txt",
+    "relative_path": "18063.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18063.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1200,
+    "mtime": 1782796480.3358061,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f05ef9c14e4465563d38f0da28a6891c440b1257",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

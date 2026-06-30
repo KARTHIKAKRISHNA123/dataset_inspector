@@ -1,0 +1,91 @@
+{
+  "dataset": "31579.txt",
+  "file_name": "31579.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1. छम्पी2. गोदावरी3. हरिसिद्धि\t4. वडिखेल5. विशंखुनारायण6. झरुवारासी7. ठेचो8. सुनाकोठी9. सैबु10. खोकना11. बुगमती12. धापाखेल13. ठैव14. घुसेल15. देवीचौर16. डुकुछाप17. चापागाउ18. लेले19. नल्लु20. भारदेव21. चौघरे22. टिकाथली23. इमाडोल24. सिद्धिपुर25. लूभु26. लामाटार27. मानीखेल28. गोटिखेल29. बूखेल30. दलचोकी31. शंखू32. माल्टा33. प्युटार34. आश्राङ35. इकुडोल36. भट्टेडांडा37. गोदामचौर38. गिम्दी39. ठुलादर्लुङ40. कालेश्वर41. चन्दनपूर"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 424,
+    "text_length_max": 424,
+    "text_length_avg": 424.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 962,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31579.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31579.txt",
+    "relative_path": "31579.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31579.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 962,
+    "mtime": 1782796543.210914,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "884e76c1cbe0ad0a2b948aefbcf71ba3711631f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

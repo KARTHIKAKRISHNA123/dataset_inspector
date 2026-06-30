@@ -1,0 +1,94 @@
+{
+  "dataset": "22594.txt",
+  "file_name": "22594.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कप्तान जेम्स कुक ब्रिटिश अन्वेषक, नाविक, मानचित्रकार र शाही नौसेनामा कप्तान थिए। कुकले प्रशान्त महासागरमा तीन यात्राहरू गर्नु अघि न्यूफाउन्डल्याण्डको विस्तृत नक्सा बनाए, जुन दौरान उनले पहिलोपटक अष्ट्रेलियाका पूर्वी तटिय क्षेत्र र हवाईयन टापुहरूसँग युरोपेली सम्पर्क कायम गरे, र न्युजील्याण्डको पहिलो जलयात्रा गरे ।",
+    "कुक एक किशोरको रूपमा ब्रिटिश मर्चेन्ट नौसेनामा संलग्न भए र 1755 मा शाही नौसेना मा संलग्न भए। उननले सात वर्षको युद्धमा कार्य देखे, र पछि क्युबेकको घेराबन्दीको दौरान सेन्ट लरेन्स नदीको प्रवेशद्वारको अधिकांश नक्सा सर्वेक्षण गरे।यसले कुकलाई एडमिरलसिटी र रयल सोसायटीको ध्यान खिच्न मद्दत गर्यो। यो सूचना दुवै कुकको क्यारियर र ब्रिटिश विदेशी अन्वेषण निर्देशनमा एक महत्वपूर्ण क्षणमा आए र 1966 मा उनको प्रशासकलाई पहिलो प्रशासनिक यात्राका लागि एचएम बर्क एडडेभको कमान्डरको रूपमा नेतृत्व गरे।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 774,
+    "text_length_avg": 419.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9815,
+      "Latin": 0.0185
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9825,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9815,
+      "Latin": 0.0185
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22594.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22594.txt",
+    "relative_path": "22594.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22594.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9825,
+    "mtime": 1782796501.4887743,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7a870dde35566bcf8c4c3a020bc570653516e27c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

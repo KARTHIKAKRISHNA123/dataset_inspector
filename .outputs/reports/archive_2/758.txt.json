@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "758.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनिता विलियम्स अमेरिकाको ओहायो राज्यमा भएको थियो । उनी अमेरिकी अन्तरिक्ष एजेन्सी नासाको माध्यमबाट अन्तरिक्षमा जाने भारतीय मूलको दोश्रो महिला हुन् । उनी भारतको गुजरात राज्यको अहमदाबादसँग उनको सम्बन्ध रहेको छ । उनी एउटी महिला अन्तरिक्ष यात्रीको रुपमा 195 दिनसम्म अन्तरिक्षमा बस्ने विश्व किर्तिमान स्थापित गरेकी छिन् । उनको बुवा अमेरिकामा डाक्टर पेशामा छन् ।",
+    "सुनिता लिन पाण्डय विलियम्सको जन्म 195 सेप्टेम्बर, 1965 मा अमेरिकाको ओहायो राज्यको युक्लिड नगर स्थित क्लिवल्याण्डमा भएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 124,
+    "text_length_max": 356,
+    "text_length_avg": 240.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1276,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "758.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\758.txt",
+    "relative_path": "archive (2)\\valid\\valid\\758.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1276,
+    "mtime": 1782796671.0466309,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b953189c0bdcc541ff56a1df0c5994684894452c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

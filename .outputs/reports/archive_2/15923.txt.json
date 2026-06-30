@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15923.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Sphaeria sinensis Berk. Cordyceps sinensis Sacc. ",
+    "यार्सा गुम्बा एक बहुमुल्य जडिबुटि हो । लामा भाषामा यार्साको अर्थ आधाजीव र गुम्बाको अर्थ आधा विरूवा वा बुटी हुन्छ । विश्वमा अहिले सम्म Cordyceps वर्गमा पर्ने ढुसीहरू का 680 भन्दा बढी प्रजातीहरू पत्ता लागेका छन् । यी मध्ये सबैभन्दा परिचित ढुसी यार्चागुम्बालाई अंग्रेजीमा Caterpillar fungus भनिन्छ । यसको बैज्ञानिक नाम Cordyceps Sinensis हो । ल्याटीन शब्दहरू cord \"club\", ceps \"head\" र चिनीयाँ भन्ने अर्थमा sinensisबाट यसको वैज्ञानिक नाम Cordyceps Sinensis राखिएको हो । यार्सागुम्बा नेपाल र तिब्बतको हिम"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 3810,
+    "text_length_avg": 1429.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9801,
+      "Latin": 0.0199
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26361,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.962,
+      "Latin": 0.038
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15923.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15923.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15923.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26361,
+    "mtime": 1782796618.3546107,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "d744ac55d86ce1626462451fb0372a3248b9758e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

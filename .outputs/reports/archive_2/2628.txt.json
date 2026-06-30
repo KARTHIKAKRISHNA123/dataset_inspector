@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2628.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "See text.",
+    "आलुबखडा नेपालमा पाइने एक किसिमको फल हो। यसको फल अमीलो / गुलियो हुन्छ र यसबाट जाम पनि बनाइन्छ। यो रातो, कालो, पहेंलो र कतै-कतै हरियो रंगको पनि हुन्छ। आलुबखडाहरूको स्वाद गुलियो र अमिलो हुन्छ, अक्सर यसको फलको पातलो बोक्रो धेरै चुकिलो हुन्छ। यसको गुदी रसदार हुन्छ र यसलाई या सीधै खान सकिन्छ या यसको जाम बनाउन सकिन्छ। यसको रसमा खमीर उठेपछी आलुबखडाको रक्सी पनि बनाईन्छ। सुखाएको आलुबखडालाई धेरै ठाउँमा खाइन्छ र यसमा एन्टी-अक्सिडेन्ट हुन्छ जसले केही रोगहरूबाट शरीरलाई सुरक्षित राख्नमा सहयोगी हुन सक्छ । आलुबख"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 554,
+    "text_length_avg": 128.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9874,
+      "Latin": 0.0126
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2042,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9874,
+      "Latin": 0.0126
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2628.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2628.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2628.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2042,
+    "mtime": 1782796638.779943,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.974,
+    "sha1_quick": "702e07d95f75f1f76d41c0e2783d5ffd2f1b8afc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

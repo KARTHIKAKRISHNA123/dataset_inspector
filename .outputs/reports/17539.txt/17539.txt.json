@@ -1,0 +1,92 @@
+{
+  "dataset": "17539.txt",
+  "file_name": "17539.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेवार समाजमा गहनाको इतिहास कतिसम्म प्राचीन छ भन्ने कुरालाई गहिरिएर हेर्ने हो भने लिच्छवीकालसम्म पुग्न सकिन्छ। लिच्छवीकालमा प्रयोगमा आइसकेको श्रृंगारको साधनको विकास मल्लकालमा व्यापक रूपमा भएको देखिन्छ। ",
+    "नेवार संस्कार अनुसार गहनाको स्वरूप पुरूष र स्त्री जातीमा फरक छ। पुरूष र स्त्रीको रूपमा मात्र होइन उमेर, अवस्था अनुसारपनि गहनाको प्रयोगमा फरक छ। जति पनि गहनाहरू छन् ती गहनाहरू पुरूष वा स्त्रीले लगाउने, बच्चा वा बुढाहरूले लगाउने भन्ने निश्चितता भइरहन्छ। कुनैकुनै गहना लगाउन बुढा पास्नी सकेको उमेर पुगेकाले मात्र लगाउँछन्। जस्तो, पुनाय्चा भन्ने गहना। "
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 689,
+    "text_length_avg": 162.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19562,
+    "estimated_records": 120
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 120,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17539.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17539.txt",
+    "relative_path": "17539.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17539.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19562,
+    "mtime": 1782796477.852168,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f59d0f8049a9fa93e89ab9dc04dab4019fb204ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

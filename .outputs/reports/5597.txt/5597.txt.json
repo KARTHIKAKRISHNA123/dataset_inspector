@@ -1,0 +1,92 @@
+{
+  "dataset": "5597.txt",
+  "file_name": "5597.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बजार निर्माता एउटा अनुमति प्राप्त संस्था, धितोपत्र दलाल, धितोपत्र व्यापारी वा शेयर दलाल संस्था हो । डिवेञ्चर वा सामूहिक लगानी योजना वा सूचीकृत धितोपत्रहरुमा तरलता प्रदान गर्ने उद्देश्यले धितोपत्र आफ्नो नामबाट खरीद बिक्री कारोबार गर्ने संस्थालाई बजार निर्माता भनिन्छ । बजार निर्माताले क्रेता र बिक्रेताबीचको समयको अन्तरलाई पुलको रुपमा जोडिदिने काम गर्छ । सामान्यतया दोश्रो बजार बजारमा खरिद र बिक्री एकैपटक हुन्छ । बिक्रेताको शेयर त्यतिबेला मात्र बिक्री हुन्छ, जब खरिदकर्ता उक्त शेयर खरिद गर्न आउँछन् ।",
+    "बजार निर्माताले जहिले पनि बिक्रेतालाई बजार मूल्यभन्दा केही कम र क्रेतालाई बजार मूल्य भन्दा केही बढी न्यूनतम मूल्य तोकेर शेयरको खरिद तथा बिक्रीको बोलकबोल गराउँछ । यसरी क्रेता वा बिक्रेतामध्ये कुनै एक पक्ष भए पनि बजार निर्माताले उसको शेयर खरिद गरिदिन्छ र क्रेता नआउञ्जेल होल्ड गरेर राख्छ । त्यसबीचको मूल्यको जोखिम पनि उसैले लिन्छ । यसरी बजार मूल्य भन्दा कममा किन्ने र बढीमा बेच्दा आउने नाफा बजार निर्माताको आम्दानी हुन जान्छ । तर बजार निर्माता ठूलो परिमाणको खरिदबिक्रीमा मात्र सहभागी हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 489,
+    "text_length_max": 661,
+    "text_length_avg": 575.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3079,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5597.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5597.txt",
+    "relative_path": "5597.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5597.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3079,
+    "mtime": 1782796585.8062584,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "16bdc95f9ab9531fe74e21fc31c1fc35343c5cd0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

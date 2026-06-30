@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3396.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दादुरा बिषाणु बाट हुने अतिसंक्रामक रोग हो । सन् 2001 मा संसारभरी अनुमान गरेअनुसार करिव 3 करोड बालबालिकाहरूमा दादुरा रोग देखापरेको थियो । ती मध्ये 745,000 बालबालिकाहरूको यस रोगका कारण मृत्यु भएको थियो । खोपबाट बचाउन सकिने रोगहरू मध्ये दादुरा रोगले बालबालिकाहरूको बढी मृत्यु गराउँछ । दादुरा अतिसंक्रामक रोग भएकोले यस रोगले महामारी गराउन सक्दछ। खास गरेर यस रोगले कुपोषित बच्चाहरूको बढी मृत्यु गराउँछ ।",
+    "दादुरा रोग लागेका बालबालिकाहरूलाई पोषिलो खाना र झोलिलो खाने कुरा जरुरी हुन्छ । कान पाक्ने र कडा श्वास–प्रश्वास रोगको उपचारको लागि मात्र प्रतिजैविक औषधी दिनुपर्दछ । बिरामीलाई खान र झोलिलो पदार्थ पिउन प्रोत्साहित गर्नुपर्दछ । विकासोन्मुख मुलुकहरूमा दादुरा रोगको निदान भइसकेका बालबालिकाहरूलाई 24 घण्टाको फरकमा 2 मात्रा पूरक भिटामिन ए क्याप्सुल खुवाउनुपर्दछ । पूरक भिटामिन ए ले दादुरा रोगबाट मृत्यु हुने संख्यालाई 50 प्रतिशतले घटाउनुका साथै आँखा विग्रन र अन्धोपन हुनबाट बचाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 398,
+    "text_length_max": 523,
+    "text_length_avg": 448.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4727,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3396.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3396.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3396.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4727,
+    "mtime": 1782796653.9886458,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ebbd0e28dfe0280bb3b463d07b6b57a1f36257f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

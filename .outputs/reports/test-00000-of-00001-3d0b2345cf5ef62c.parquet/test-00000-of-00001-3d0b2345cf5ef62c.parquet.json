@@ -1,0 +1,106 @@
+{
+  "dataset": "test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+  "file_name": "test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हादतगिरि रामनाथ कबिन्दआ सा  60  गेलेगिरिफोरनो नेसनेल स्पर्टस एवार्डखौ गथायबाय",
+    "( खेलरत्ननिथाखाय  25  लाखरां , अर्जुनबान्थानिथाखाय  15  लाखरांहोदों : रिजिजु )गोदानदिल्ली ,  30  आगस्ट : मिरु सरकारनि गेलेमु बिफाननि आवथायाव बोसोरनि साबसिन गेलेनो हानाय गुबुन गुबुन गेलेमुनि गेलेगिरि आरो जाफुसारनाय कचफोरखौ सेलेक्सन कमिटिआ सायख'नानै मैया  29  आगस्टखालि हादतगिरि रामनाथ कबिन्दआ बार्सअल हाबाफारिनि गेजेरजों गासै गेलेगिरि आरो कचफोरनो नेसनेल स्पर्टस एवार्डखौ गथायनाय जाबाय ।हकिनि जादुगर मेजर ध्यानसन्दनि  115  थि जोनोम सानआव हादतगिरि कबिन्दआ बोसोरनि सायख'जानाय नेसनेल स्पर्टस एवार्डखौ गासै"
+  ],
+  "statistics": {
+    "records_sampled": 14890,
+    "missing_text": 4,
+    "text_length_min": 2,
+    "text_length_max": 2070,
+    "text_length_avg": 101.71,
+    "duplicate_estimate": 83,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0043,
+      "Malayalam": 0.0001,
+      "Telugu": 0.0001,
+      "Tamil": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 66,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1555139,
+    "estimated_records": 14890
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14890,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "num_rows": 14890,
+    "num_row_groups": 15,
+    "arrow_schema": {
+      "text": "string"
+    }
+  },
+  "meta": {
+    "file_name": "test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+    "relative_path": "test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "test-00000-of-00001-3d0b2345cf5ef62c.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 1555139,
+    "mtime": 1782723061.632964,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0cc63a4743e1c513b128817f3a8eb1a42fc9ddc0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

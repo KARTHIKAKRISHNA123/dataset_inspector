@@ -1,0 +1,94 @@
+{
+  "dataset": "9829.txt",
+  "file_name": "9829.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सगरमाथा ब्याज ब्वाए/गर्ल स्काउटलाई कञ्चनजंगा ब्याज प्रदान गरेपछि प्रदान गरिने अर्को चरणको ब्याज हो ।",
+    "यो ब्याज चौंथो चरणको कञ्चनजंगा ब्याज दिए पछि स्काउटहरुलाई प्रदान गरिने पाँचौं चरणको ब्याज हो । यो ब्याजको भूमी हरियो हुन्छ । जसले स्काउटहरुलाई नेपालको धनको रुपमा रहेको हरियो वनपाखाको प्रतिनिधित्वगराउँछ । यस बाएजको माथिल्लो भागमा सेतो हिमाल अंकित छ । जसले नेपालमा पर्ने विश्वको सर्वोच्च शिखर सगरमाथा हिमालको प्रतिनिधित्व गर्दछ । हिमालभन्दा तल्लो भागमा स्काउटको सदस्यता चिन्ह रहेको हुन्छ । जसले स्काउटहरु स्काउटको सदस्य रही अनवरत मेहिनतका साथ स्काउटिङ सिद्धान्त प्रतिपादन गर्दै यस स्थानमा पुगेको भन्ने "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 100,
+    "text_length_max": 650,
+    "text_length_avg": 292.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2357,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9829.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9829.txt",
+    "relative_path": "9829.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9829.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2357,
+    "mtime": 1782796605.8656101,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "498aad32d29b89a544f8006eddce8937608101c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

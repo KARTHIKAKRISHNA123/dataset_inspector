@@ -1,0 +1,91 @@
+{
+  "dataset": "12675.txt",
+  "file_name": "12675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मध्य-पश्चिमाञ्चल विकास क्षेत्र नेपालको पाँच विकास क्षेत्रहरू मध्य एउटा विकास क्षेत्र हो। यो नेपालको मध्य-पश्चिममा स्थित छ। यसको पूर्वमा पश्चिमाञ्चल तथा पश्चिममा सुदूर-पश्चिमाञ्चल तथा उत्तरमा चीनको तिब्बत तथा दक्षिणमा भारतको उत्तर प्रदेश स्थित छ। मध्य-पश्चिमाञ्चलको मुख्यालय बिरेन्द्रनगरमा स्थित छ। मध्य-पश्चिमाञ्चलमा 3 वटा अञ्चल तथा 15 वटा जिल्लाहरू छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 354,
+    "text_length_max": 354,
+    "text_length_avg": 354.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 953,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12675.txt",
+    "relative_path": "12675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 953,
+    "mtime": 1782796455.1347313,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5f3ad1ef9de03e28420aafeb0b3b231df04b8ac4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "16951.txt",
+  "file_name": "16951.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Streptococcal pharyngitis, streptococcal tonsillitis, वा streptococcal sore throat समूह ए streptococcal संक्रमणको कारणले हुने एक प्रकारको ग्रसनी सोथ हो। यसले टन्सिल र सम्भवत: कण्ठ सहित ग्रासनली लाई असर गर्छ। साधारण लक्षणहरूमा ज्वरो, घाँटी खराब हुने, र अत्याधिक लिम्फ नोड्स पर्दछन्। यो बच्चा अवस्थामा भएको घाँटी खराबको 37% र वयस्क अवस्थामा भएको 5-15% कारण हो।",
+    "स्ट्रेप थ्रोट एउटा सरुवा संक्रमण हो, संक्रमित व्यक्तिको निकट सम्पर्कबाट सर्ने गर्दछ। एउटा निश्चित निदान थ्रोट कल्चरको परिणामहरूमा आधारित रहेर तय गरिन्छ। यद्यपि, यो सँधै आवश्यक छैन लक्षणहरूको आधारमा उपचारको लागि निर्णय लिन सकिन्छ। उच्च सम्भावना रहेको वा भइसकेको अवस्थाहरूमा, एन्टिबायोटिकहरू जटिलताहरू रोक्न तथा छिट्टै सामान्य अवस्थामा ल्याउन दुवैमा उपयोगी हुन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 1186,
+    "text_length_avg": 337.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9567,
+      "Latin": 0.0433
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19527,
+    "estimated_records": 57
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 57,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9227,
+      "Latin": 0.0773
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16951.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16951.txt",
+    "relative_path": "16951.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16951.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19527,
+    "mtime": 1782796474.724008,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "53f0fc2dacb2c5204286928237341596ef8ce322",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

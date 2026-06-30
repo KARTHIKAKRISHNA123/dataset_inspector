@@ -1,0 +1,92 @@
+{
+  "dataset": "4034.txt",
+  "file_name": "4034.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भन्दछन्, समुद्र मंथनमा देवताहरूले मंदार पर्वतलाई मदानी बनाए थियो। सदीहरूदेखि खडा मंदार आज पनि लोकको  आस्थाको पर्वत बनेको हो। यसलाई मंदराचल या मंदर पर्वत पनि भन्दछन्।",
+    "बौंसी भागलपुरबाट दक्षिणमा रेल र सडक मार्गमा स्थित बिहार राज्यको एक महत्वपूर्ण हिस्सा हो।यो अनेक दन्त कथाहरूलाई समेटे बौंसीबाट करीब दुई किलोमीटर उत्तरमा स्थित हो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 161,
+    "text_length_max": 1695,
+    "text_length_avg": 744.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9973,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4034.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4034.txt",
+    "relative_path": "4034.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4034.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9973,
+    "mtime": 1782796577.6526246,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "afa9219f19bb914091fafc333e87aad2e691f365",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

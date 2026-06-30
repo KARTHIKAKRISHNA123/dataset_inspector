@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37086.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "होलीको समापनसँगै चैत्र शुक्ल तृतीया का दिन राजस्थानी तथा गुजराती समुदाय मा प्रचलित यो गणगौर नेपाल मा पनि मारवाडी समुदाय माझ प्रचलित रहेको छ। बसन्त ऋतु, खेतीपाती र वैवाहिक मान्यताप्रति यो विश्वास राखिने यो पर्व हो । ",
+    "घरका पुरुषहरु रंग खेल्नमा व्यस्त रहेकै बेला होलीका दहनको खरानीमा गोबर मिसाएर शिव र पार्वती को 16 पिण्ड बनाएर महिलाहरु धार्मिक अनुष्ठानको तयारीमा जुट्छन् । होलीको भोलिपल्टदेखि लगातार 16 दिनसम्म शंकरपार्वती रुपी ती पिण्डको पुजा हुन्छ । अविवाहितले असल श्रीमान र विवाहितले श्रीमानको दीर्घायु, स्वास्थ्य र कल्याणकासाथै सुःखी विवाहित जीवनकालागि गणगौरलाई पुज्छन् । माता गौरीलाई स्वभाग्यको प्रतिक पनि मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 215,
+    "text_length_max": 580,
+    "text_length_avg": 397.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7429,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37086.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37086.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37086.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7429,
+    "mtime": 1782796660.4762876,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b9d74064ef0936eefec09db576134ad1e103cb30",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

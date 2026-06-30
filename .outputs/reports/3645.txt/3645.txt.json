@@ -1,0 +1,92 @@
+{
+  "dataset": "3645.txt",
+  "file_name": "3645.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काभ्रेको नालामा हरेक वर्ष मनाइने प्रसिद्ध सृष्टिकान्त लोकेश्वरजात्रा",
+    "करूणामय सृष्टिकान्त लोकेश्वरको जात्रा हरेक वर्ष करूणामयको मन्दिरस्थल मच्छिन्द्रबहालबाट फाल्गुण पूणिर्मा तिथिदेखि प्रारम्भ हुन्छ। त्यसपछि स्थानीय गणेश मन्दिरबाट इटलाछेँ, गँसटोल, लागनटोल, वलाछेँ, इपाटोल र मेछेँटोल भई पुनः मच्छिन्द्रबहालमै खट ल्याएर टुङ्गिन्छ। जात्रालाई नगर वा टोल परिक्रमका क्रममा नाला र अन्यत्रबाट आएका श्रद्धालुहरूले पूजाआजा गर्ने, धूपबत्ती बाल्ने, भाकल पूजा गर्ने तथा आˆना मनोकाङ्क्षा व्यक्त गर्ने चलन रहेको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 1191,
+    "text_length_avg": 636.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10383,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3645.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3645.txt",
+    "relative_path": "3645.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3645.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10383,
+    "mtime": 1782796565.4481227,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "729b76d8f163823ffd941ee9126f7e3d5f328cc7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

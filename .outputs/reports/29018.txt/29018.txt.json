@@ -1,0 +1,94 @@
+{
+  "dataset": "29018.txt",
+  "file_name": "29018.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नगरपालिका सामान्यतया एउटा व्यापारिक केन्द्र र आत्म-सरकार वा क्षेत्राधिकार हो जसमा सामान्यतया सामान्य सुविधा सम्पन्न भएको एउटा शहरी प्रशासनिक केन्द्र हुन्छ । एउटा नगरपालिका एउटा सामान्य-उद्देश्य प्रशासनिक उपशाखा हो । नगरपालिका शब्द फ्रान्सेली \"municipalité\" र ल्याटिन शब्द \"municipalis\" बाट लिइएको हो । एउटा नगरपालिका सार्वभौम राज्य देखि लिएर कुनै पनि राजनीतिक क्षेत्राधिकार हुन सक्छ ।",
+    "नेपालमा हाल नगरपालिकाको संख्या 217 रहेकोे छ । 1 महानगरपालिका ,12 उपमहानगरपालिका र 204 वटा नगरपालिका रहेको छ जुन 2072/06/01 को निर्णय अनुसार भएको हो । ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 384,
+    "text_length_avg": 267.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9464,
+      "Latin": 0.0536
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1351,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9464,
+      "Latin": 0.0536
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29018.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29018.txt",
+    "relative_path": "29018.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29018.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1351,
+    "mtime": 1782796530.8995051,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "22186898ef8bcac19d27acc2ffd8b2cf5082f00a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

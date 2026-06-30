@@ -1,0 +1,94 @@
+{
+  "dataset": "21149.txt",
+  "file_name": "21149.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको पहिलो छापाखाना आजभन्दा करीब सयअगाडि आविस्कार गरिएको थियो। यसका आविष्कारक थिए- उभयराज वज्राचार्य। उभयराजको अर्को बोलाईने नाम हो- दुरुकाजी बज्राचार्य। उनको जन्म वि.सं. 1899 काठमाडौंंको पाको- पोखलडयांगमा भएको थियो। उनले आविष्कार गरेको उक्त प्रेस नेपालको पहिलो हाते-प्रेस हो। यसलाई हट्टा तानेर चलाईन्थ्यो। उक्त प्रेसमा 12 इन्च x 16 इन्च साइजको कागजमा छाप्न सकिन्थ्यो। यो प्रेस वि.सं. 1975 सम्म बुद्ध प्रेसको नामबाट पाको पोखलडयांगमा चालू रहेको थियो। यो प्रेसबाट नेपाल भाषा र संस्कृत भाषामा बुद्ध ध",
+    "हुन त नेपालमा प्रेसहरूको आविष्कार भएको 1 सय वर्षभन्दा धेरै भएको छैन। यो समय भनेको बेलायत, फ्रान्सजस्ता पश्चिमी मुलुकमा छापाखानाको आविस्कार भएर ठूला अत्याधुनिक प्रयोग भइसकेको पछिको समय हो। तापनि यसको आविष्कारले नेपालमा पनि किताब छाप्ने कार्यको थालनीको ढोका खोली दिएको देखिन्छ। यसले नेपालको सांस्कृतिक परिवर्तनमा ठूलो योगदान दिएको देखिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 337,
+    "text_length_max": 812,
+    "text_length_avg": 574.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3054,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21149.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21149.txt",
+    "relative_path": "21149.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21149.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3054,
+    "mtime": 1782796495.0464854,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "507f58ca66be3658b12e702c6f47ff1594f87ffc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16997.txt",
+  "file_name": "16997.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गजेन्द्र मोक्ष  भगवतपुराणको 8 औं स्कंदा देखि पुरातन पौराणिक कथा, हिंदू धर्ममा सबै भन्दा पवित्र पुस्तकहरु मध्ये एक छ। यो भगवान विष्णुको प्रसिद्ध कथा मध्ये एक हो। यस उपाख्यानमा विष्णु गजेन्द्रको रक्षा गर्न पृथ्वीमा पुग्यो। त्यसपछि गजेन्द्रलाई भगवान जस्तो एक रूप प्राप्त गरे र विष्णुसँग बैकुण्ठ गए।",
+    "यो कथा सम्राट परिक्षितको अनुरोधमा श्री सुकद्वारा वर्णन गरिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 536,
+    "text_length_avg": 283.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9114,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16997.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16997.txt",
+    "relative_path": "16997.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16997.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9114,
+    "mtime": 1782796474.9365244,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "65039e939c539c150ebdb8de594257c7d12fa95c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

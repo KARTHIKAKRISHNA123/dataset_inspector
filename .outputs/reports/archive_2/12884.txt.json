@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12884.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "100 महिला सम्पादन-थन एक अनलाइन सम्पादन-थन प्रतियोगिता हो । बिबिसीले 100 महिला कार्यक्रम श्रृंखलामा हरेक वर्ष बिश्वभरिका 100 जना प्रभावशाली र प्रेरणादायी महिलाहरूको नाम चयन गर्ने गर्दछ । सन् 2016 अन्तर्गत पनि बिबिसीले संसारका बिभिन्न स्थानका 100 जना प्रेरणादायी र प्रभावशाली महिलाहरूको सूची तयार पारेको छ । यसै अवसरमा हामीले पनि '100 महिला सम्पादन-थन' प्रतियोगिता आयोजना गर्न गई रहेका छौ ।",
+    "100 महिला सम्पादन-थन प्रतियोगिता 24 घण्टे विकिपिडिया सम्पादन कार्यक्रम हो । जस अनुसार निम्न मितिमा यो कार्यक्रम सञ्चालन हुने छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 388,
+    "text_length_avg": 238.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2495,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12884.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12884.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12884.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2495,
+    "mtime": 1782796612.092431,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e720dfb129761a496ccacd5bece022679bf1743e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

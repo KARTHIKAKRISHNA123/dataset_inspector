@@ -1,0 +1,92 @@
+{
+  "dataset": "25271.txt",
+  "file_name": "25271.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोक्साना ब्याक्ट्रियन राजकुमारी तथा अलेक्जेन्डर द ग्रेटकी श्रीमती हुन ।",
+    "रोक्सानाको जन्म लगभग ईपू 343 तिर बाल्ख का ब्याक्ट्रियन अक्स्यार्टसको छोरीको रूपमा भएको थियो । अलेक्जेन्डरले सजडियन रक किल्लाको लडाई पश्चात उनी संग विवाह गरे, त्यस बेला उनि 16 बर्षकी थिईन । बाल्ख अलेक्जेन्डर संग हार ब्यहोर्ने अन्तिम पर्सियन राज्य थियो । प्राचिन स्रोतका अनुसार अलेक्जेन्डर उनलाई आत्मिय प्रेम गर्दथे । साथै ईपू 326मा उत्तर भारतको लडाईको क्रममा उनी अलेक्जेन्डरको साथ मै थिईन ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 389,
+    "text_length_avg": 248.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1979,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25271.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25271.txt",
+    "relative_path": "25271.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25271.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1979,
+    "mtime": 1782796513.573341,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "88e62f3b2e30934112ec2df422a03cd35d9de0c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

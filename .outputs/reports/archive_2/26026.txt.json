@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26026.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्राकृतिक रुपमा भौगोलिक बनावटका कारणले नदी माथिबाट तल झर्नुलाई झरना भनिन्छ । झरना एक जलश्रोत हो । सामान्य रूपमा झरनालाई प्राकृतिक सुन्दरताको रूपमा हेर्ने गरिन्छ । झरनाहरू सामान्यतः नदीको माथिल्लो प्रवाहमा बन्ने गर्दछ ।",
+    "हुवाङ्गगोउसु झरना, चिन"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 218,
+    "text_length_avg": 40.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1334,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26026.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26026.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26026.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1334,
+    "mtime": 1782796638.2822623,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0e8e9629b386a6f486b18f5f49b6faaaede38530",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

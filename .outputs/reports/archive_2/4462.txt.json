@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4462.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ताज महल भारतको आगरा शहरमा स्थित एक समाधिस्थल हो । यसको निर्माण मुगल सम्राट शाहजहाँले, आफ्नो स्वास्नी मुमताज महलको सम्झनामा गराए । ताज महल मुगल वास्तुकलाको उत्कृष्ट नमूना हो । यसको वास्तुकला शैली फारसी, टर्की, भारतीय तथा इस्लामिक वास्तुकलाको घटकहरूको अनौठो मिश्रण हो । सन् 1983 मा, ताजमहल युनेस्को विश्व सम्पदा क्षेत्र बन्यो । यसको साथै, यसलाई विश्व सम्पदाको सर्वत्र प्रशंसा पाउने, अत्युत्तम मानवीय कृतिहरू मध्येको एक बताइएको छ । ताजमहललाई भारतको इस्लामी कलाको रत्न पनि घोषित गरिएको छ । साधारणतया देखी",
+    "ताज महलको केन्द्र बिंदु हो, एक वर्गाकार आधार आधारमा बनाईएको श्वेत सिङ्गमर्मरको समाधिस्थल। यो एक सममितीय भवन हो, जसमा एक ईवान अथवा भब्य विशाल वक्राकार द्वार छ। यस भवनको माथि एक वृहत गुम्बद सुशोभित छ। धेरै जसो मुगल समाधिस्थलहरू जस्तै, यसको मूल अवयव फारसी उद्गमबाट नै छ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 903,
+    "text_length_avg": 361.69,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12483,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4462.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4462.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4462.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12483,
+    "mtime": 1782796664.6723862,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3c80ee744df13ee6f7afb15348912fb805d74945",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

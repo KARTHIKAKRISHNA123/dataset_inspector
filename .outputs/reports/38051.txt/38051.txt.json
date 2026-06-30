@@ -1,0 +1,91 @@
+{
+  "dataset": "38051.txt",
+  "file_name": "38051.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्फुकाँडा, खरिबेल अथवा अरी नामले चिनिने यो वनस्पति दक्षिण तथा दक्षिण-पूर्वी एसियाका भूभागको रैथाने वनस्पति हो । बुट्यान वर्गमा पर्ने यो वनस्पति करिब पाँच मिटर अग्लो हुन्छ । यसको पात अमलाको जस्तो स-साना पात दुईतिर मिलेर प्वाँख जस्तो बनेका हुन्छन् । उष्ण हावापानीमा पाइने यो जङ्गली वनस्पति पूर्वी एसियाका देशहरूमा विभिन्न परिकारहरू बनाउन उपयोग गरिन्छ । यो एउटा औषधीय गुण भएको वनस्पति हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 387,
+    "text_length_max": 387,
+    "text_length_avg": 387.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1030,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38051.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38051.txt",
+    "relative_path": "38051.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38051.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1030,
+    "mtime": 1782796573.494427,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f6d54d33d0845c56f45c9b70a41a4f58b5e76524",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

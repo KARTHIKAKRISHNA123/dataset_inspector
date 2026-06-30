@@ -1,0 +1,92 @@
+{
+  "dataset": "1296.txt",
+  "file_name": "1296.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भगवान् दत्तात्रेय",
+    "सनातन धर्मान्तर्गत त्रिदेव ब्रह्मा, विष्णु र महेशद्वारा प्रचलित विचारधाराको सम्मिश्रण गर्न भगवान् दत्तात्रेयले जन्म लिएका हुन्, अतः यिनलाई त्रिदेवको एकीकृत स्वरूप पनि मानिन्छ। त्यस्तै दत्तात्रेयलाई शैवमार्गीहरू भगवान् शिवको अवतार हो भन्दछन् भने वैष्णवहरू भगवान् विष्णुको अंशावतार मान्दछन्। ब्रह्माजीका मानसपुत्र महर्षि अत्रि यिनका पिता हुन् र कर्दम ऋषिकी कन्या र साङ्ख्यशास्त्रका प्रवक्ता कपिलदेवकी दिदी सती अनुसूया यिनकी माता हुन्। श्रीमद्भागवतमा महर्षि अत्रि तथा माता अनुसूयाका सुपुत्रका रूपमा त्रि"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 3994,
+    "text_length_avg": 866.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 27859,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1296.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1296.txt",
+    "relative_path": "1296.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1296.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 27859,
+    "mtime": 1782796456.4605062,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6c1325cf61d3b519eaaa0b735a426246ff5d05c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "33306.txt",
+  "file_name": "33306.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. केदारनाथ श्रेष्ठ बरिष्ठ शिक्षाविद् हुनुहुन्छ। उहाँले शिक्षाक्षेत्रमा निकै लामो समय काम गर्नुभएको छ। सबै कामका बारेमा लेख्दा निकै लामो विवरण बन्छ। शिक्षाकै क्षेत्रमा काम गर्दा उहाँ विश्वका धेरै देश जानुभएको छ। शिक्षाका विषयमा विभिन्न पुस्तक, लेख लेखेका श्रेष्ठले मुलुकका शिक्षाका सबै खाले निकायमा काम गर्नुभएको छ। त्रिभुवन विश्वविद्यालय र काठमाडौं विश्वविद्यालयमा उहाँका धेरै विद्यार्थी छन्। ",
+    "श्रेष्ठको जन्म 1992 साल भदौमा पाटनको तापाहिटीमा भएको हो। उहाँका पिताको नाम कञ्चनलाल र माताको नाम सुवर्णकुमारी हो। उहाँकी एक दिदी मात्र जन्मनुभएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 395,
+    "text_length_avg": 214.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1729,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33306.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33306.txt",
+    "relative_path": "33306.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33306.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1729,
+    "mtime": 1782796550.9977708,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7f35031771de380993114c38c8c7ca2dfdcc1a9c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

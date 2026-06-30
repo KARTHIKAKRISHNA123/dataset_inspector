@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27820.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चन्द्र मोहन जैन, आचार्य रजनीश को नामबाट पनि परिचित छन्, त्यस पश्चात् 1960 देखि 70, 80 को दशकसम्म भगवान श्री रजनीश, र 1989 देखि ओशोको नामले प्रख्यात छन्। ओशो एक भारतीय रहस्यवादी, गुरु र आध्यात्मिक गुरु हुन्। उनका अन्तर्राष्ट्रिय अनुयायी वर्ग उनको मृत्यु पछि पनि जारी छ। ",
+    "दर्शनशास्त्रको प्राध्यापक, सन् 1960 को दशकमा उनले सार्वजनिक वक्ताको रुपमा पूरा भारतको यात्रा गरे। उनले राजनीतिज्ञहरू र राजनीतिक विचार, महात्मा गान्धी र संस्थागत धर्म बारेमा गरेको खरो आलोचनाले उनलाई विवादित बनायो।जो आफ्नो विवादास्पद नयाँ धार्मिक आन्दोलनको लागि चर्चित बने। उनी भारत तथा संयुक्त राज्य अमेरिका पनि बसेका थिए। रजनीशले प्रचलित धर्महरूको व्याख्या गरे तथा प्रेम, ध्यान अनि खुशी हरूलाई जीवनका प्रमुख मूल्य माने।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1158,
+    "text_length_avg": 446.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10659,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27820.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27820.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27820.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10659,
+    "mtime": 1782796641.8817954,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "50c3cd5b58c088c9b820ce44445356e49228b208",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

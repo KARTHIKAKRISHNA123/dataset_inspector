@@ -1,0 +1,92 @@
+{
+  "dataset": "2553.txt",
+  "file_name": "2553.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्तर्राष्ट्रिय हवाई यातायात सङ्घ एक अन्तर्राष्ट्रिय वायुसेवाहरूको उद्योग व्यापार समूह हो जसको प्रधान कार्यालय मोन्ट्रियल, क्यानाडामा रहेको छ । यही स्थानमा अन्तर्राष्ट्रिय नागरिक उड्डयन सङ्गठनको मुख्यालय पनि रहेको छ । यस सङ्गठनको उद्देश्य वायुसेवा उद्योगको सेवा र टेवा पुर्याउनु हो । यस सङ्घले 230 वायुसेवा निगमको प्रतिनिधित्व गर्ने गर्दछ, जुन अनुसूचित अन्तर्राष्ट्रिय हवाई यातायातको 93% भाग हो । यस सङ्गठनको वर्तमान महानिर्देशक टोनी टेलर हुन् । वर्तमान समयमा यो सङ्गठन 150 भन्दा बढी देशमा रहेको छ भन",
+    "आइएटिएको स्थापना अप्रिल, 1945 मा हवाना, क्युबामा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 60,
+    "text_length_max": 538,
+    "text_length_avg": 299.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1574,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2553.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2553.txt",
+    "relative_path": "2553.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2553.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1574,
+    "mtime": 1782796514.7917216,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9ff6d6b0c4c4b2b3aa2bb7fc38419d43050a7e2f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

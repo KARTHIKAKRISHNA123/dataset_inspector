@@ -1,0 +1,95 @@
+{
+  "dataset": "8361.txt",
+  "file_name": "8361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गणित एवं सो सम्बन्धित क्षेत्रमा हरेक चार वर्ष प्रदान गरिने सर्व-विशिष्ट पुरस्कार | en:International Congress of the en:International Mathematical Union ,को सिफारिसमा क्यानाडेली गणितज्ञ en:John Charles Fieldsको स्मृतिमा दिइने यो पुरस्कारको रकम केवल 15,000 अमेरिकि डलर भएता पनि यो गणितको क्षेत्रमा प्रदान गरिने सबै भन्दा उच्चतम पुरस्कार मानिन्छ|"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 343,
+    "text_length_max": 343,
+    "text_length_avg": 343.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7208,
+      "Latin": 0.2792
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 752,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7208,
+      "Latin": 0.2792
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8361.txt",
+    "relative_path": "8361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8361.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 752,
+    "mtime": 1782796598.9201076,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "49044a8ecc88cece88472e1df8a67c693d93855e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

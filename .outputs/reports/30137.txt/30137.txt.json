@@ -1,0 +1,94 @@
+{
+  "dataset": "30137.txt",
+  "file_name": "30137.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जसरी भाषामा शव्दहरू जनाउन अक्षरहरू प्रयपोग गरिन्छ, त्यसरी नै सङ्ख्याहरू जनाउन अङ्क प्रयोग गरिन्छ। अङ्कहरू सङ्ख्या पद्धति अनुसार फरक फरक हुने गर्दछन्।जस्तै",
+    "यसमा 0 र 1 गरी जम्मा 2 अङ्कहरूमात्र हुने गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 154,
+    "text_length_avg": 79.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.985,
+      "Latin": 0.015
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1146,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.985,
+      "Latin": 0.015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30137.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30137.txt",
+    "relative_path": "30137.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30137.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1146,
+    "mtime": 1782796536.3760614,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.963,
+    "sha1_quick": "328b7a6d078592b1b34cca661db5bae27a9110f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

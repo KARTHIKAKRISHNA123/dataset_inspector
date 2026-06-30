@@ -1,0 +1,94 @@
+{
+  "dataset": "37905.txt",
+  "file_name": "37905.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वामदेव गौतम ऋषिका जेठा पुत्र थिए । हिन्दू धर्मका सबै धार्मीक ग्रन्थहरू जस्तै :- वेद, पुराण, रामायण, महाभारत आदी प्रमुख ग्रन्थहरूमा गौतम ऋषि र उनकी पत्नी अहिल्याको बारेमा चर्चा गरिएको छ । विभिन्न धार्मिक ग्रन्थका अनुसार वामदेव अहिल्या पट्टिका छोरा थिएनन् । गौतम ऋषिकी अर्की पत्नीको बारेमा त्यती चर्चा भएको पाइन्न । केही धार्मिक ग्रन्थहरूका अनुसार महर्षि गौतमले वामदेवलाई मन्त्रद्वारा उत्पन्न गरेका थिए । यसैले कतिपय ठाउँमा गौतम ऋषिलाई मन्त्र द्रष्टा भनिएको छ ।",
+    "वास्तवमा वामदेव शब्द आफैमा जटिल संरचना र अर्थका साथ बनेको छ । वामदेवको अर्थ बारे भारतीय इन्साइक्लोपीडियाले यस्तो भनेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 514,
+    "text_length_avg": 265.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9793,
+      "Latin": 0.0207
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3506,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9793,
+      "Latin": 0.0207
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37905.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37905.txt",
+    "relative_path": "37905.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37905.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3506,
+    "mtime": 1782796572.8211133,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8dab49ea7ee8598880a66ef2e5df7d9e60770825",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

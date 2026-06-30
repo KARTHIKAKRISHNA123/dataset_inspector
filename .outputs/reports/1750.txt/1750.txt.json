@@ -1,0 +1,92 @@
+{
+  "dataset": "1750.txt",
+  "file_name": "1750.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हेटौडा गोल्डकप 2073 फुटबल प्रतियोगिताको उपाधि नेपाल आर्मीले जितेको थियो। विसं 2073 पुस 23 गते शनिबारहेटौंडामा भएको फाइनलमा मनाङ मर्स्याङ्दी क्लबलाई 2–0 ले पराजित गर्दै आर्मीले उपाधि उचालेको हो।",
+    "खेलको 18औँ मिनेटमा कप्तान भरत खवासले गोल गर्दै आर्मीलाई सुरुवाती अग्रता दिलाएका थिए। भरतले दिपक गुरुङको उपलब्ध गराएको पासलाई सदुपयोग गर्दै गोल गरेका थिए। आर्मीका लागि खेलको 84औँ मिनेटमा सन्तोष तामाङले गोल गर्दै आर्मीलाई 2–0 को जित दिलाएका थिए। खेलको 19औँ मिनेटमा ओलावाले दोहोरो पहेंलो कार्ड खाँदै मैदानबाट बाहिरिएपछि मनाङ 10 खेलाडीमा सिमित भएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 352,
+    "text_length_avg": 248.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2625,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1750.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1750.txt",
+    "relative_path": "1750.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1750.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2625,
+    "mtime": 1782796477.6602309,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "d2ab1443c2c8841682cdcf8a3e8a3f095575f902",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

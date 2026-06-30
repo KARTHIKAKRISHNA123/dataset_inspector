@@ -1,0 +1,92 @@
+{
+  "dataset": "24273.txt",
+  "file_name": "24273.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्ण प्रसाद यादव",
+    "रौतहट क्षेत्र नं. 4 बाट निर्वाचित कृष्णप्रसाद यादव नेपाली कांग्रेसका सभासद हुनुहुन्छ। 41 वर्षीय यादवले विद्यार्थी राजनीति मार्फत 2036 सालबाट राजनीतिक जीवन शुरु गर्नुभएको हो। त्यसपछिका विभिन्न प्रजातान्त्रिक आन्दोलनमा संलग्न रहँदै आएका यादव हाल नेपाली कांग्रेसका केन्द्रीय सदस्य हुनुहुन्छ। यसअघि उहाँले पार्टीको रौतहट जिल्ला सदस्य तथा जिल्ला किसान सङ्घ सदस्यको जिम्मेवारी पूरा गरिसक्नुभएको छ। किसानको उत्थान नभएसम्म देशको उत्थान हुन सक्दैन भन्ने मान्यता राख्‍ने यादव पूर्व राजा ज्ञानेन्द्रको शासनकालमा"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1008,
+    "text_length_avg": 512.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2776,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24273.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24273.txt",
+    "relative_path": "24273.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24273.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2776,
+    "mtime": 1782796509.027205,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.933,
+    "sha1_quick": "7fa8de3525c70883f404615aa17d888cd2a2ae37",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

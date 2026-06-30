@@ -1,0 +1,91 @@
+{
+  "dataset": "28504.txt",
+  "file_name": "28504.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिल्ला सदरमुकाम चरिकोटबाट 13 कोष उत्तरमा रहेको विगु गाविस वडा नं. 8मा अवस्थित विगु गुम्बा वास्तवमा दोलखा जिल्लाकै एक महत्वपूर्ण धार्मिक तथा पर्यटकीय स्थल मान्न सकिन्छ। विगु गुम्बाको स्थापना विक्रम संम्बत 1990 तिर डुम्पा रिम्पोछे ले गर्नु भएको विश्वास गरिन्छ। समथर स्थानमा रहेको उक्त गुम्बामा हाल करिव 60 जना आनी हरू रहेका छन्। जसले गुम्बामा नियमित रूपमा पाठपुजा गर्ने, पढ्ने र नयाँ भिक्षुहरूलाई पढाउने कार्य गर्दछन्। गुम्बामा कहिल्यै ननिभ्ने एक निमबत्ती नियमित रूपमा बल्दछ। उक्त गुम्बामा दशैको सप्तमी"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 713,
+    "text_length_max": 713,
+    "text_length_avg": 713.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1894,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28504.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28504.txt",
+    "relative_path": "28504.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28504.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1894,
+    "mtime": 1782796528.5688412,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "f96e2ead1c323ff3f481cc2f4105a34dac0b00be",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

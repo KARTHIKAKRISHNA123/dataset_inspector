@@ -1,0 +1,92 @@
+{
+  "dataset": "13062.txt",
+  "file_name": "13062.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किच्चक बध 1 नं प्रदेशको झापा जिल्लाको भद्रपुर नगरपालिकाको वडा नं 2 र 3 मा अवस्थित रहेको छ । साविकका दूई पृथ्वीनगर र महेशपुर गाविसको सिमानामा रहेको यो धार्मिक तथा पर्यटकीय क्षेत्र हो। झापा जिल्लाको सदरमुकाम चन्द्रगढीबाट लगभग 10 किलोमिटर दक्षिणमा देवनिया र मेची नदीको किनारमा किच्चकबध पर्दछ। महाभारतकालिन कथामा आधारित किच्चकबधमा थुप्रै पुरातात्विक वस्तुहरू छन्। त्यहाँ एउटा षट्कोणको आकारमा रहेको आकर्षक पोखरी देखिन्छ। त्यसको छेउबाट देवनीया नदी, बगेकोछ भने त्यस वरिपरि रहेका देवी–देवताका मन्दिर तथा प्रत",
+    "किच्चकबध क्षेत्रमा पुरातात्विक उत्खनन गर्दा 8 कोठा भएको भवन फेला परेको र त्यसको तल्लो तहमा अर्को छुट्टै भवनको आकृति समेत फेला परेको छ भने सबैभन्दा ठूलो कोठा 22 मिटर लामो छ। किच्चक वधको उत्खनन गर्दा दुई तहमा पुरातात्विक सामग्री फेला परेको कारण त्यहा एउट सभ्यताको विनास पछि अर्को सभ्यताको विकास भएको बताईन्छ। त्यस अघिको उत्खनन कार्यबाट सात मिटर अग्लो 123 मिटर लामो सुरक्षा पर्खाल सहित महत्वपूर्ण पुरातात्विक सामग्रीहरू फेला परेका थिए। यस आधारमा उक्त स्थान दुई हजार वर्ष पुरानो शुङ्गकुषाण मानिएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 202,
+    "text_length_max": 1095,
+    "text_length_avg": 642.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12023,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13062.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13062.txt",
+    "relative_path": "13062.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13062.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12023,
+    "mtime": 1782796456.9565022,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7d22247d98ada65115350fc4f23c24168943aee6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33056.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भद्रपुर नगरपालिका पूर्वी नेपालको मेची अञ्चलको झापा जिल्लामा पर्ने एउटा नगरपालिका हो । यो झापा जिल्लाको सदरमुकाम पनि हो । यो नगरपालिका मेची नदीको दायाँ तिर रहेको छ । यो नेपालको सबैभन्दा पुरानो नगरपालिकाहरू मध्ये एक हो । यो नगरपालिकामा एउटा विमानस्थल भद्रपुर विमानस्थल रहेको छ जहाँबाट राजधानी काठमाडौंको लागि दैनिक उडानको सुबिधा रहेको छ । यसलाई नेपालको चिया सहर पनि भन्ने गरिन्छ ।",
+    "नेपालको बि.स. 2068 को जनगणना अनुसार भद्रपुर नगरपालिकाको जनसंख्या 50249 रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 378,
+    "text_length_avg": 161.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1279,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33056.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33056.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33056.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1279,
+    "mtime": 1782796652.2382262,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6dde655fafed8a9ed74af5c43f98398cb610048c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

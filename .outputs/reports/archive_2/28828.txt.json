@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28828.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोहित चन्द नेपाली राष्ट्रिय फुटबल टोलीका खेलाडी हुन् । उनी मुख्य गरि आक्रमक मिडफिल्डरबाट मैदानमा उत्रने गर्दछन् । यिनी हाल इन्डोनेसियन क्लब पर्सिजा जाकर्ताबाट व्यवसायिक रूपमा फुटबल खेल्ने गर्छन्, भने नेपाली राष्ट्रिय फुटबल टोलीका नियमित खेलाडी हुन ।",
+    "नेपाली राष्ट्रिय टोलिका लागि उनले 40 भन्दा बढी खेल खेलि सक्का छन् तैपनि राष्ट्रिय टिमका लागि उनले कुनै गोल भने गर्न सकेका छैनन् । इङ्लिस प्रिमियर लिगका दुई महारथी आर्सेनल र टोटेनह्यामले रोहित भित्र्याउने इच्छा देखाएपछि केही युरोपेली सञ्चारमाध्यमले बहुचर्चित सरुवा बजारमा उनीलाई पनि स्थान दिएपछि उनी निकै चर्चित भएका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 82,
+    "text_length_max": 749,
+    "text_length_avg": 288.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12192,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28828.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28828.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28828.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12192,
+    "mtime": 1782796643.8296497,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7e3c19b20f3750c06e91d28d6789555b8a483249",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

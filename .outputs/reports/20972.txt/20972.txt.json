@@ -1,0 +1,92 @@
+{
+  "dataset": "20972.txt",
+  "file_name": "20972.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको कानुन व्यवस्थामा पूर्ण इजलास भन्नाले तीनजना वा सो भन्दा बढी न्यायाधीशहरू रहेको इजलासलाई बुझिन्छ। सर्बोच्च अदालतमा परेका मुद्दा मामिलाहरू मध्ये संयुक्त इजलासका न्यायाधीशहरूको राय नमिलेको मुद्दा, मुद्दामा समावेश भएको कुनै कानुनी प्रश्न वा सिद्धान्तको संवन्धमा पूर्ण इजलासवाट हेरिनु उपयुक्त ठानी संयुक्त इजलासले पूर्ण इजलासमा पेश गर्न आदेश दिएको मुद्दा, कानुनी प्रश्नको जटिलता र महत्त्वको बिचार गरी प्रधान न्यायाधीशले पूर्ण इजलासमा पेश गर्न तोकिदिएको मुद्दा पूर्ण इजलासबाट हेरिने व्यवस्था छ। ",
+    "सर्वोच्च अदालतको आधिकारीक वेबसाईट"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 497,
+    "text_length_avg": 265.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1442,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20972.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20972.txt",
+    "relative_path": "20972.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20972.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1442,
+    "mtime": 1782796494.2542968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b0c6163ed7f9d8abd61184e2a663701f39c7717f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

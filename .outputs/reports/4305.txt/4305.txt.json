@@ -1,0 +1,92 @@
+{
+  "dataset": "4305.txt",
+  "file_name": "4305.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्यानाडा उत्तर अमेरिकाको एक देश हो। त्यसको राजधानी ओटावा हो। त्यसको सबभन्दा ठूलो शहर टोरन्टो हो। क्यानाडा उत्तर अमेरिकाको उत्तरमा स्थित दुनियाको दोस्रो सबै भन्दा ठूलो देश हो। क्यानाडाको दुई अधिकृत भाषा छन् :- अङ्ग्रेजी र फ्रान्सेली। राष्ट्रिय सरकार द्विभाषे सरकार हो। क्षेत्रफलमा रुस मात्रै क्यानाडाभन्दा ठूलो छ।",
+    "यसको पूर्वमा आन्ध्र महासागर र पश्चिममा प्रशान्त महासागरमा स्थित छ। यसको दक्षिण र उत्तर-पश्चिममा संयुक्त राज्य अमेरिका सँग भूसीमाहरू मिल्छ। क्यानाडाको धरतीमा 25 हजार वर्ष पहिले बस्ने आदिमानवको चिह्न उपस्थित छन्। 15औं शताब्दीमा ब्रिटिश र फ्रान्सीसी अन्वेशकहरूले क्यानाडाको पत्ता लगाए र त्यस पछि अंध महासागरको किनारा बस्द‍ै गए। फ्रान्सले 1763मा आफ्नो सबै सात वटा कोलोनि लाई उत्तर अमेरिकामा मिलाएको थियो। 1867मा तीन ब्रिटिश उत्तर अमेरिकी कालोनीहरूलाई मिलाएर क्यानाडाको गठन गरिएको थियो। क्यानाडा दश प्रातह"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 531,
+    "text_length_avg": 243.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2574,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4305.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4305.txt",
+    "relative_path": "4305.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4305.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2574,
+    "mtime": 1782796579.1353369,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "8f72bbfc4d5e6af983bb7f51011ab017ee9fc881",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

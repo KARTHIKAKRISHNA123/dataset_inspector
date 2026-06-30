@@ -1,0 +1,92 @@
+{
+  "dataset": "19622.txt",
+  "file_name": "19622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त राज्य अमेरिका, संवैधानिक संघीय गणतन्त्रमा आधारित उत्तर अमेरिका महादेशमा रहेको विश्वको चौथो ठूलो राष्ट्र हो । पचासवटा संवैधानिक राज्यमा बाँडिएको अमेरिकाको राजधानी वाशिङ्टन, डी.सी. हो । यहाँका अठ्चालीस राज्य प्रशान्त र एट्लान्टिक महासागरहरूको बीचमा मध्य उत्तर अमेरिकामा पर्दछन् जसको उत्तरमा क्यानाडा र दक्षिणमा मेक्सिको छ । बाँकी दुई मध्ये अलास्का सोही महादेशको उत्तरपश्चिममा पर्दछ जसको पूर्वमा क्यानाडा र पश्चिममा रुस रहेको छ । त्यसैगरी हवाइ राज्य भने मध्य प्रशान्त महासागरमा अवस्थित द्वीपमा प",
+    "संयुक्त राज्य अमेरिकामा 50 वटा राज्य रहेका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 632,
+    "text_length_avg": 229.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1819,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19622.txt",
+    "relative_path": "19622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1819,
+    "mtime": 1782796487.876515,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "29ec947caad95c6e273ab485cf73cfef71d487bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

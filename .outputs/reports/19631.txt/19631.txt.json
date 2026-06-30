@@ -1,0 +1,92 @@
+{
+  "dataset": "19631.txt",
+  "file_name": "19631.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1901",
+    "नोबेल पुरस्कारको स्थापना सन् 1895 मा स्विडेनका वैज्ञानिक तथा विस्फोटक पदार्थ डाइनेमाइटका आविष्कारक अल्फ्रेड नोबेलको नाममा भएको हो । नोबेल फाउण्डेशन द्वारा स्वीडेनको वैज्ञानिक अल्फ्रेड नोबेलको स्मरणमा सन् 1901 मा सुरु गरिएको यो पुरस्कार भौतिक, रसायन, साहित्य, शान्ति, क्रिया विज्ञान तथा चिकित्सा, र अर्थशास्त्र क्षेत्रमा प्रदान गरिने विश्वको सर्वोच्च पुरस्कार हो । यो पुरस्कारको रूपमा प्रमाण-पत्रको साथमा 12,00,000 प्रदान गरिन्छ । अल्फ्रेड नोबेलले जम्मा 355 आविष्कारहरू गरे जसमा सन् 1867 मा गरेको डायन"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 1763,
+    "text_length_avg": 621.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4910,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19631.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19631.txt",
+    "relative_path": "19631.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19631.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4910,
+    "mtime": 1782796487.9107006,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6ae7a79d709aa31615e1c428fd98f4325242abc6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

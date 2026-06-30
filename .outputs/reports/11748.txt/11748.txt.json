@@ -1,0 +1,96 @@
+{
+  "dataset": "11748.txt",
+  "file_name": "11748.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:HemchandApps-Video Game-3D game-2D game ले आजको समयमा धेरै महत्व खेलेको देखिन्छ| यि गेम हरूमा सबैको महत्व उतिकै नै छ|हामी गेम खेल्छौ| या Candy crush होस्,या Temple run होस्, या Car Driving होस्,या कुनै Talking Tom|यी गेमहरू 3D/Video game मा पर्दछन| यी गेमहरूले मासिक रूपमा करोडौले आम्दानी गर्छन| जस्तै गेम बनाईयो र नेटमा राख्यो....15000 ले डाउनलोड गरे र 3000ले अपडेट पनी गरे भने 2रू का दरले 37हजार कमाईयो|",
+    "सोच्नुहोस त महिनौ खटेर त 12000 मात्र कम्तिमा कमाउन सकिन्छ भने गेम/सफ्टवेयर बनाएर बेचे कम्तिमा 20/27/35हजार हुन्छ|"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 113,
+    "text_length_max": 411,
+    "text_length_avg": 221.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8326,
+      "Latin": 0.1674
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2046,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8326,
+      "Latin": 0.1674
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11748.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11748.txt",
+    "relative_path": "11748.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11748.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2046,
+    "mtime": 1782796450.81573,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "55f474b16ddf01d0eefdf4573ecb03dd36dcd4ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

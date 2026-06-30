@@ -1,0 +1,94 @@
+{
+  "dataset": "20876.txt",
+  "file_name": "20876.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्टरनेट शीर्षस्तर क्षेत्राधिकार या टी॰एल॰डी॰ इन्टरनेट को डोमेन नाम प्रणाली मा सबैभन्दा उच्चस्तरको डोमेन हो । यो इन्टरनेट ठेगानामा साधारणतया अन्तिममा राखिन्छ, जस्तोकि '.com' या '.edu'। उदाहरणको लागि 'ne.wikipedia.org' मा '.org' उच्चतम डोमेन हो। ईन्टरनेट ठेगानाहरुलाई निर्धारित गर्ने अन्तरराष्ट्रिय निकाय आईक्यान, ले अलग-अलग संस्थाहरुलाई तिनीहरूको इन्टरनेट शीर्षस्तर क्षेत्राधिकार को व्यवस्थापन गर्ने अधिकार दिने गर्दछ। '.np' डोमेनले त्यो वेवसाइट नेपालको हो भन्ने जनाउँछ। त्यसको व्यवस्थापन गर्ने अधिका",
+    "ईन्टरनेट शीर्षस्तर क्षेत्राधिकार टेलिफोनको एरिया कोड जस्तै कोड हो । सामान्यतया यो अङ्ग्रेजी अक्षरमा दिईन्छ। अन्य लिपिका अक्षरहरूमा पनि यसको प्रयोग गर्ने विषयमा छलफल जारी छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 172,
+    "text_length_max": 536,
+    "text_length_avg": 354.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9579,
+      "Latin": 0.0421
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1848,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9579,
+      "Latin": 0.0421
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20876.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20876.txt",
+    "relative_path": "20876.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20876.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1848,
+    "mtime": 1782796493.779198,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1cd5eeceeac050f6db40a91045c28bd522f4cb8f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

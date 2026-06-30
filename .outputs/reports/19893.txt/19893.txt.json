@@ -1,0 +1,92 @@
+{
+  "dataset": "19893.txt",
+  "file_name": "19893.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लोक सभा, भारतीय संसदको तल्लो सदन हो। भारतीय संसदको माथिल्लोसदन राज्य सभा हो। लोक सभा सार्वभौमिक वयस्क मताधिकारका आधारमा मानिसहरू द्वारा प्रत्यक्ष चुनावद्वारा चुने भए प्रतिनिधिहरूबाट गठित हुन्छ। भारतीय संविधानका अनुसार सदनमा सदस्यहरूको अधिकतम संख्या 552सम्म हो सक्दछ, जसमा बाट 530 सदस्य विभिन्न राज्यहरूको र 20 सदस्यसम्म केन्द्र शासित प्रदेशहरूको प्रतिनिधित्व गर्न सक्छन्। सदनमा पर्याप्त प्रतिनिधित्व छैनने स्थितिमा भारतको राष्ट्रपति यदि चाहे त आंग्ल-भारतीय समुदायका दुई प्रतिनिधिहरूलाई लोक सभाका लागि",
+    "कुल निर्वाचित सदस्यताको वितरण राज्यहरूका बीच यस प्रकारबाट गरिन्छ कि प्रत्येक राज्यलाई आवंटित सीटहरूको संख्या र राज्यको जनसंख्याका बीच एक व्यावहारिक अनुपात हो, र यो सबै राज्यहरूमा लागू हुन्छ। तर पनि वर्तमान परिपेक्ष्यमा राज्यहरूको जनसंख्याका अनुसार वितरित सीटहरूको संख्याका अनुसार उत्तर भारतको प्रतिनिधित्व, दक्षिण भारतका मुकाबलामा पर्याप्त कम छ। जहां दक्षिणका चार राज्यहरू, तमिलनाडु, आंध्र प्रदेश, कर्नाटक र केरललाई जसको संयुक्त जनसंख्या देशको जनसंख्याको मात्र 21% छ,लाई 129 लोक सभाको सीटहरू आवंटित ग"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 770,
+    "text_length_avg": 340.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5439,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19893.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19893.txt",
+    "relative_path": "19893.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19893.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5439,
+    "mtime": 1782796489.1685255,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7b1ac8e717b804f5725dad9310518d407e7acd36",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

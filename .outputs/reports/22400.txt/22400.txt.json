@@ -1,0 +1,92 @@
+{
+  "dataset": "22400.txt",
+  "file_name": "22400.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " राजनीति पोर्टल",
+    "नेपालको पहिलो संबिधान सभा एक सदनीय अंग थियो जसले वि.स 2065 जेठ 15 देखि वि.स. 2069 जेठ 15 सम्म कार्य गर्यो। यो संबिधान सभाको सदस्यहरुको निम्ति निर्वाचन वि. सं 2064 साल चैत्र 28 गते सम्पन्न भएको थियो। संबिधान सभालाई नेपालको नयाँ संबिधान लेख्ने जिम्मेवारी दिईएको थियो। यही सभाले व्यवस्थापिका संसदको रुपमा समेत काम गर्ने अधिकार प्राप्त गर्यो । यो संबिधान सभामा पहिलो हुने, निर्वाचित हुने सिट अर्थात् प्रत्यक्ष तर्फ 240 जना सदस्यहरु, समानुपातिक सिटका तर्फबाट 335 सदस्यहरु र बाँकी 26 जना सदस्यहरु मन्त्रिपर"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 620,
+    "text_length_avg": 274.68,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15861,
+    "estimated_records": 57
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 57,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22400.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22400.txt",
+    "relative_path": "22400.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22400.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15861,
+    "mtime": 1782796500.6587534,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ecc9de054d654e8349b17d95d278d21e5fe2248a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

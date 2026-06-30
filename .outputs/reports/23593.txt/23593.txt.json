@@ -1,0 +1,96 @@
+{
+  "dataset": "23593.txt",
+  "file_name": "23593.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बन्दर सेरी बेगावान, /ˌbɑːndə sᵻˌriː bᵻˈɡaʊ.ən/ वा /ˌbænʔ/ BAND-ə-_-si-REE (जावी: بندر سري بڬاوان ; पहिले ब्रुनेई शहरको रूपमा चिनिने, ब्रुनेई सल्तनतको राजधानी र सबै भन्दा ठूलो शहर हो । बन्दर सेरी बेगावान को जनसङ्ख्या अनुमानित 1,00,700 छ र सम्पूर्ण ब्रुनेई-माैरा जिल्लाको जनसङ्ख्या 2,79,924 रहेको छ ।",
+    "यस शहरको मूल नाम अंग्रेजीमा \"बन्दर ब्रुनेई\" वा \"ब्रुनेई टाउन\" थियो । 1967 मा, सुल्तान उमर अली सैफुद्दीन - तृतीय ले आफ्नो सबैभन्दा ठूलो पुत्र, हसनल बोलकेय्याको पक्षमा त्यागेर \"सेरी बेगावान\" को शीर्षक लिनुभयो । उमर अली सैफुद्दीन - तृतीय लाई तब रक्षा मंत्री बनाइयो र 5 अक्टोबर 1970 मा, शहरलाई उनको सम्मान गर्न नामकरण गरिएको थियो । शब्द बेगावान पनि ब्रुनेईयन राजाहरूका लागि प्रयोग गरिएको थियो तर राजाहरूले उक्त पद अस्वीकार गरिदिए । मूल शब्द बेगावान \"संस्कृत\" शब्द हो जसको अर्थ \"देवता\" वा भगवान हुन्छ । यस"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 298,
+    "text_length_max": 1348,
+    "text_length_avg": 793.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9816,
+      "Latin": 0.0114,
+      "Arabic": 0.007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6037,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9816,
+      "Latin": 0.0114,
+      "Arabic": 0.007
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23593.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23593.txt",
+    "relative_path": "23593.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23593.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6037,
+    "mtime": 1782796505.8847191,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1e87c0ae244f6dd4652ca10b7a9f658eac905522",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

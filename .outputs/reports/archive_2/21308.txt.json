@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21308.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं. 1942 मङ्सिरमा धीर शमशेरद्वारा रणोद्वीप सिंहको हत्या गरिएको काण्ड हो। यो काण्डबाट धीरशमशेर र उनका 17 भाइमा सत्ता हस्तान्तरण भएको थियो। ",
+    "रणोद्वीपको हत्या डम्बर शमशेरद्वारा भएको थियो। त्यसबखत जगतजङ्गसहित 23 जनाको हत्या गरिएको थियो। हत्या गर्न भारत प्रदर्शनीमा लान लागेको 4 रेजिमेन्ट सेना प्रयोग गरियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 163,
+    "text_length_avg": 152.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 803,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21308.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21308.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21308.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 803,
+    "mtime": 1782796628.7980254,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "899602a359db56f551f96497f72541b1b4438cd1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

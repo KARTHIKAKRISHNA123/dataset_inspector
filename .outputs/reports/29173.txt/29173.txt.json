@@ -1,0 +1,93 @@
+{
+  "dataset": "29173.txt",
+  "file_name": "29173.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्वाचन अथवा चुनाव प्रजातन्त्रको आधारभूत जग हो। निर्वाचनमा जनताका प्रतिनिधिहरू छानिन्छन्।",
+    "प्रतिनिधिहरूका चुनावका अनेक तरिकाहरू हुन सक्छन्। लटरीका टिकट निकालेर नबुझिकन प्रतिनिधिहरूको चुनाव गर्नु एक यस्तो तरिका हो जसको लोकतन्त्रमा कुनै स्थान छैन। अरु तरिकाहरू सामान्यत: निर्वाचनको मतदान प्रणालीमा नैं आधारित छन्,। यद्यपि यी तरिकाहरू पनि पूर्णत: निर्दोष नैं छ्न् भन्ने कुरा होइन; पदप्राप्तिका इच्छुक प्रत्याशी प्राय: मतदाताहरूलाई घूस दिएर अथवा डराएर धमकाएर जोर जबर्दस्तीसित तिनिइहरूको मत प्राप्त गर्दछन्। विभिन्न प्रकारका अल्पसंख्यक वर्ग उचित प्रतिनिधित्वबाट वञ्चित रहन्छन्। राजनीतिक तथा अन्य "
+  ],
+  "statistics": {
+    "records_sampled": 34,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 1294,
+    "text_length_avg": 375.97,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9993,
+      "Latin": 0.0007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34218,
+    "estimated_records": 91
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 91,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29173.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29173.txt",
+    "relative_path": "29173.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29173.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34218,
+    "mtime": 1782796531.7597685,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "39f2a0ae335ddae727f058c039af39a229d4667d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

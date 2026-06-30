@@ -1,0 +1,91 @@
+{
+  "dataset": "12751.txt",
+  "file_name": "12751.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाख्रा एक प्रकारको स्तनधारी वर्गमा पर्ने घरपालुवा जनावर हो। बाख्रा बोभिड परिवार अन्तर्गत पर्छन र यिनीहरू भेडाहरू सँग मिल्दाजुल्दा हुन्छन, यि दुबै क्याप्रिनेइ सह-परिवार अन्तर्गत पर्दछन। बाख्रा पाल्तु जनावरहरू मध्ये धेरै उपयोगी मानिन्छ। बाख्रालाई मासु, दुध, ऊन र मलको लागी धेरै जसो किसानहरूले बाख्रा पालन गरेको पाइन्छ। बाख्राहरू विभिन्न प्रजातीको हुन्छन्।खरी, औले, तराई र सिन्हाल नेपालका रैथाने बाख्रा हुन्।नेपाल वाहिर का आयातित जात हरु मा जमुनापारि, बारबारी, सानन्, विटल, सिरोही र बोचर प्रमुख छन बिसेस"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 537,
+    "text_length_max": 537,
+    "text_length_avg": 537.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1431,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12751.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12751.txt",
+    "relative_path": "12751.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12751.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1431,
+    "mtime": 1782796455.5204837,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "28aed148e84d0a3c5f26ace3224f22a9f0f4432a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

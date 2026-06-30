@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8180.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भाषाविज्ञान भाषाका अध्ययनको त्यो शाखा हो जसमा त्यसको उत्पत्ति, स्वरूप, विकास आदिको वैज्ञानिक एवं विश्लेषणात्मक अध्ययन गरिन्छ। विषय-विभाजनको दृष्टिबाट यसलाई भाषा-संरचना एवं अर्थको अध्ययन मा बांटिन्छ। भाषाविज्ञानका अध्ययेता भाषाविज्ञानी कहलाउँछन्। यसमा भाषाको वैज्ञानिक दृष्टिकोणबाट विश्लेषण र वर्णन गर्नका साथ नैं विभिन्न भाषाहरुका बीच तुलनात्मक अध्ययन पनि गरिन्छ। भाषाविज्ञानका दुई पक्ष छन्- तात्त्विक र व्यवहारिक।",
+    "तात्त्विक भाषाविज्ञानमा भाषाको ध्वनिसम्भार ), व्याकरण एवं शब्दार्थ को अध्ययन गरिन्छ। व्यवहारिक भाषाविज्ञानमा अनुवाद, भाषा शिक्षण, वाक-रोग निर्णय र वाक-चिकित्सा, इत्यादि आउँछन्। यसका अतिरिक्त भाषाविज्ञानको ज्ञान-विज्ञानको अन्यान्य शाखाहरुका साथ गहिरो सम्बन्ध हो। यसबाट समाजभाषाविज्ञान, मनोभाषाविज्ञान, गणनामूलक भाषाविज्ञान, आदि यसको विभिन्न शाखाहरुको विकास हुने/भयो हो। "
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 1294,
+    "text_length_avg": 413.59,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24594,
+    "estimated_records": 59
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 59,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8180.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8180.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8180.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24594,
+    "mtime": 1782796672.1653836,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "94dd13bb2b97b9cd71442e45ef50e36c45e96616",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

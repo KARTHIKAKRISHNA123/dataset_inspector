@@ -1,0 +1,92 @@
+{
+  "dataset": "9944.txt",
+  "file_name": "9944.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाबुराम आचार्य नेपालका इतिहास शिरोमणि हुन् । जसको जन्म वि.सं. 1944 फागुन 29 गते काठमाडौंको ठूलो गौरचन भन्ने ठाउँमा भएको थियो ।",
+    "उनको जन्म काठमाडौंको ठूलो गौचर भन्ने ठाउँमा भएको थियो। मध्यमवर्गीय परिवारमा वि.सं. 1944 फागुन 29 गते जन्मेका आचार्यका माताको नाम शिवकुमारी र पिताको नाम धर्मदत्त हो।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 991,
+    "text_length_avg": 316.1,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8449,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9944.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9944.txt",
+    "relative_path": "9944.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9944.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8449,
+    "mtime": 1782796606.3774767,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7e5d7954b423e9a6fd7755016cca0adde0570a93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

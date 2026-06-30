@@ -1,0 +1,92 @@
+{
+  "dataset": "35371.txt",
+  "file_name": "35371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्रिगिटा बुल्गरी एक हंगेरियन अश्लील चलचित्र अभिनेत्री तथा मोडल हुन ।",
+    "ब्रिगिटा बुल्गरीको बारेमा विकिपिडियाका भातृ योजनाहरूमा खोज्नुहोस:"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 65,
+    "text_length_max": 68,
+    "text_length_avg": 66.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 367,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35371.txt",
+    "relative_path": "35371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35371.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 367,
+    "mtime": 1782796560.3439417,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dcc05ca0caa43d403760b2a22e96b8d983a6c312",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

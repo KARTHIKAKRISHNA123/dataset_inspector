@@ -1,0 +1,92 @@
+{
+  "dataset": "2342.txt",
+  "file_name": "2342.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुदिना",
+    "पतेना अचारको रूपमा उपभोग गरिने अत्यन्त धेरै औषधीय गुण भएको कुरा वैज्ञानिकहरूले प्रमाणित गरेका छन् । पतेनामा क्यान्सरसँग लड्न अद्भूत क्षमता हुन्छ । शरीरभित्र भएको कतिपय ब्याक्टेरिया र ढुसीको वृद्धिदर रोक्दछ । त्यसैले दम एलर्जीजस्ता रोगमा पतेना ज्यादै उपयोगी मानिन्छ । यसमा पेरिलिन, अल्कोहल नामक एउटा फाइटो न्यूटि्रन्टस हुन्छ । जसले कोलोन, छाला र फोक्सोको क्यान्सर रोक्दछ । यसले गाँठा, गुँठीको रक्तकोषिकामा प्रहार गर्दछ । ताजा हरियो र अर्गेनिक पुमा भिटामिन 'ए' प्रशस्त पाइन्छ । यसको स्वाद र सुगन्धले भो"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 1040,
+    "text_length_avg": 523.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2772,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2342.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2342.txt",
+    "relative_path": "2342.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2342.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2772,
+    "mtime": 1782796505.0516822,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6b58e0f185185cdad32c441d186d8186d880dc9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

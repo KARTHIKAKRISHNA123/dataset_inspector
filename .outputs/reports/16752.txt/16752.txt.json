@@ -1,0 +1,91 @@
+{
+  "dataset": "16752.txt",
+  "file_name": "16752.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्री 5 सुरेन्द्रको जन्म वि.सं. 1883 आश्विन 20 गते श्री 5 राजेन्द्रका पुत्रका रूपमा भएको थियो । यिनलाई सानै उमेरमा राजप्रतिनिधिको रूपमा राजगद्दीमा राखेर उनका पिता श्री 5 राजेन्द्र विक्रम शाह काशी गए । भनिन्छ एक समय यिनले पागल जस्तै भएर काठमाडौंका मानिसलाई असाध्यै दुःख दिएका थिए । श्री 5 राजेन्द्र काशिमा बस्दा षड्यन्त्र गरेको अभियोमा तत्कालीन प्रधानमन्त्री जंगबहादुर राणाले श्री 5 राजेन्द्रलाई सत्ताच्युत गरि वि.सं. 1904 वैशाख 3 गतेका दिन जबर्जस्ती यिनलाई जंगबहादुरले राजसिंहानसमा बसाए । पञ्जापत्र बन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 642,
+    "text_length_max": 642,
+    "text_length_avg": 642.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1662,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16752.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16752.txt",
+    "relative_path": "16752.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16752.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1662,
+    "mtime": 1782796473.7997699,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "86799988c5b32fca809e356470193e1b6a9cce25",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

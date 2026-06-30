@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32049.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै वस्तुका वेग परिवर्तनको दरलाई प्रवेग भन्दछन् । यसको मापन एकाइ मीटर प्रति वर्ग सेकेण्ड  हुन्छ तथा यो एक सदिश राशि छन् । प्रवेग धनात्मक वा ऋणात्मक हुन सक्छ । ऋणात्मक प्रवेगलाई गतिह्रास भनिन्छ ।",
+    "  :  a →   =   d   v →    d t  ≡   v →  ˙    {\\displaystyle :{\\vec {a}}={\\frac {\\mathrm {d} {\\vec {v}}}{\\mathrm {d} t}}\\equiv {\\dot {\\vec {v}}}} "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 195,
+    "text_length_avg": 126.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5848,
+      "Latin": 0.4152
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 851,
+    "estimated_records": 6
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 6,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5848,
+      "Latin": 0.4152
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32049.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32049.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32049.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 851,
+    "mtime": 1782796650.1865041,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "95cad6af84cc4fff71b5ea4f37f9f0cb85292570",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "34104.txt",
+  "file_name": "34104.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माघे संक्रान्ति, मकर संक्रान्ति, माघी नामले चिनिने किरातहरुको नया बर्षको रुपमा परमपर देखीनै मनाउने गरिन्छ यो नेपालको एक प्रमुख चाड हो। यो माघ महिनाको पहिलो दिन पर्दछ। यस दिन नेपालमा सार्वजनिक विदा दिइन्छ।",
+    "ज्योतिष शास्त्रानुसार सौरमासको हिसाबले माघे संक्रान्तिदेखि सूर्य धनु राशिबाट मकर राशिमा प्रवेश गर्ने हुनाले यसलाई 'मकर संक्रान्ति' पनि भनिएको हो । सामान्यतया सूर्यले सबै राशि लाई प्रभावित गरेता पनि सूर्यको कर्कट राशि र मकर राशिप्रवेशलाई धार्मिक दृष्टिले मह्त्वपूर्ण । यो दिन देखि सूर्य दक्षिणी गोलार्धबाट उत्तरी गोलार्द तर्फ प्रवेश गर्ने भएकोले दिन लामो र रात छोटो हुँदै जाने विश्वास गरिन्छ तापनि आजभोली पुष 7 गतेबाटै दिन लम्बिन र रात छोट्टिन शुरु हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 1860,
+    "text_length_avg": 674.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 48540,
+    "estimated_records": 71
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 71,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34104.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34104.txt",
+    "relative_path": "34104.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34104.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 48540,
+    "mtime": 1782796554.6618938,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e1692b5cf27e05a61bbacf01dfae4cbf88a5a216",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

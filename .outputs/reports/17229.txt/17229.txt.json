@@ -1,0 +1,92 @@
+{
+  "dataset": "17229.txt",
+  "file_name": "17229.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौं नेपालको राजधानी सहर हो। मार्च 2009को समयमा, काठमाडौं उपत्यकामा 34 एफएम र 1 मेडियम बेभ रेडियो प्रसारण सुन्न सकिन्थ्यो। कहिले काहीँ रेडियो स्टेसन छान्न पनि कठिन हुने गर्दछ। तलको सूची एक बोक्न मिल्ने रेडियो प्रयोग गरेर बनाइएको हो। केही प्रसारण केन्द्रहरू न्युन क्षमताका प्रसारण यन्त्र प्रयोग गरिएकाले केही किलोमिटर सम्म मात्र राम्ररी सुन्न सकिन्छ। यस बाहेक, कहिले काहीँ लोडसेडिङ्को कारणले कुनै प्रसारण केन्द्रहरू जानकारी नै नदिइ प्रसारण बन्द गर्दछन्।",
+    "सबै नेपाली एफएम अनलाईनमा प्रत्यक्ष सुन्नुहोस् "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 456,
+    "text_length_avg": 251.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1340,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17229.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17229.txt",
+    "relative_path": "17229.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17229.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1340,
+    "mtime": 1782796476.1959054,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "28e754bc7fb262506d8ab874794e3510e5c8421d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

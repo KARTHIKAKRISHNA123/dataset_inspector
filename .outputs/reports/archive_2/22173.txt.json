@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22173.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डिलाशैनी भगवती मन्दिर बैतडी जिल्लाको धामिगाउंमा अवस्थित छ। यस मन्दिरलाई धार्मिक दृष्टिकोणले राम्रो मानिन्छ। यस मन्दिरमा हरेक बर्स असोज,कार्तिक र चैत्र महिना मा दसैं को दिन विशेष धुमधामकासाथ जात्रा लाग्ने गर्दछ। यस जात्रामा 50 औँ को संख्यामा रागा र बोका को वलि दिने गरिन्छ। डिलासैनी भगवती मम्दिरमा जात्राको दिन जोशी,धामी,बोहरा,भुल,साउद,खत्री,भटट,तथा अन्य ठाउबाट आएका भक्तजन हरुको घुइचो लाग्ने गर्दछ। यस जात्राको विशेष पुजारी को रुपमा जोशी लाई लिइन्छ। साथै पुजारी सहयोग का लागि भट्ट पनि समाबेश भएको पाइ",
+    "यो मन्दिर कहिले स्थापना भएको भन्ने कुनै ठोस प्रमाण छैन।तर 100औँ बर्श पहिले का पू्र्खा हरुले यसको निर्माण गरेका थिए।आज्भोली पनि यसलाइ पुननिर्माण गरि एकदमै सुन्दर र आकर्शित बनाएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 867,
+    "text_length_avg": 511.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4072,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22173.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22173.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22173.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4072,
+    "mtime": 1782796630.6360068,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "9882f8382b5a8bc5a06775233db2ef9090c7ef77",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

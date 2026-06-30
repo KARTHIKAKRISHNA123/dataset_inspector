@@ -1,0 +1,94 @@
+{
+  "dataset": "29411.txt",
+  "file_name": "29411.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इण्डोनेशिया एयर एसिया विमान 8501 एउटा इण्डोनेशियाई अन्तर्राष्ट्रिय उडान थियो जुन 28 डिसेम्बर 2014 मा इण्डोनेशिया देखि सिङ्गापुर जाँदै गर्दा हवाई यातायात नियन्त्रणकर्ताको सम्पर्क विच्छेद पछि बेपत्ता भएको थियो । विमानमा 155 यात्रु सहित 7 विमान चालक दलका सदस्य थिए । विमान इण्डोनेशियाको स्थानीय समयअनुसार विहान 7:00 बजेदेखि सम्पर्क बिहीन भएको हो ।",
+    "विमान एयरबस A320-216, क्रम सङ्ख्या 3648 रहेको थियो, विमानको दर्ता PK-AXC को रूपमा गरिएको थियो । यस विमानले आफ्नो पहिलो उडान सन् 2008 सेप्टेम्बर 25 मा गरेको थियो, तथा नयाँ रूपमा एयर एसियालाई 15 अक्टोबर 2008 मा हस्तान्तरण गरेको थियो । यो विमान लगभग 23,000 उडान घण्टा पुरा गरेको थियो जसमा विमानले 13,600 उडान गरेको थियो । यो विमानको सबैभन्दा पछिल्लो मर्मत सम्भार सन् 2014 नोभेम्बर 16 मा गरिएको थियो । यो विमानमा दुई वटा सीएफएम अन्तर्राष्ट्रिय CFM56-5B6 इन्जिन रहेको थियो तथा यसलाई 180 यात्रुको लागि तयार"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 515,
+    "text_length_avg": 289.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9887,
+      "Latin": 0.0113
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2910,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9887,
+      "Latin": 0.0113
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29411.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29411.txt",
+    "relative_path": "29411.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29411.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2910,
+    "mtime": 1782796532.9468584,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "37f0cb11cbc99d8e0387ceaf85ecfb9f16571b78",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

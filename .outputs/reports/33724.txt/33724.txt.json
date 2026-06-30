@@ -1,0 +1,92 @@
+{
+  "dataset": "33724.txt",
+  "file_name": "33724.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोजिला थन्डरबर्ड मोजिला फाउन्डेसनद्वारा विकसित निशुल्क, खुल्ला स्रोत, बहुप्लेटफर्म इमेल, समाचार, र च्याट क्लाईन्ट हो ।",
+    "यस आयोजनाको रणनीति मोजिला फायरफक्स पश्चात निर्माण गरिएको थियो, जुन आयोजनाले वेब ब्राउजरबनाउने लक्ष्य लिएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 114,
+    "text_length_max": 118,
+    "text_length_avg": 116.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 626,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33724.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33724.txt",
+    "relative_path": "33724.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33724.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 626,
+    "mtime": 1782796552.8581462,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "77dfeeff73434bab7193e07c68c62f718d2f5115",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

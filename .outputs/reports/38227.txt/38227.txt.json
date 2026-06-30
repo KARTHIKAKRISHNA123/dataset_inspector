@@ -1,0 +1,92 @@
+{
+  "dataset": "38227.txt",
+  "file_name": "38227.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 12°52′उत्तर 74°53′पूर्व / 12.87° उत्तर 74.88° पूर्व / 12.87; 74.88",
+    "मंगलोर भारत को कर्नाटक प्रान्त को एक शहर हो । यो शहर देश को पश्चिमी भागमा रहेको छ । यो शहर को पूर्व मा पश्चिमी घाटि तथा पशिचम मा अरब सागर रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 430,
+    "text_length_avg": 226.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4709,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38227.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38227.txt",
+    "relative_path": "38227.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38227.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4709,
+    "mtime": 1782796574.2990375,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c340e15d3a603f91399685fa74eb1e8558aab3ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

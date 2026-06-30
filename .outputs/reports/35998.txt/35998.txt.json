@@ -1,0 +1,94 @@
+{
+  "dataset": "35998.txt",
+  "file_name": "35998.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "start novel",
+    "परालको आगो गुरूप्रसाद मैनालीद्वारा लिखित नेपाली कृति हो। यो कथा मैनालीको नासो कथासंग्रहमा संग्रहित कथा हो। परालको आगो कथामा दुई पात्र चामे र गौँथलीको झैँझगडालाई परालको आगोको संज्ञा दिएका छन्। त्यसैगरी उनका अन्य कथावस्तुहरू पनि उत्तिकै मार्मिक छन्। कथा विषयवस्तुको प्रतिपादन र शैलीको चमत्कारी संयोजन दुवैमा परालको आगो गुरूप्रसादको सर्वश्रेष्ठ कथा हो। सफल दाम्पत्य जीवनका दुई अनिवार्य तत्व लोग्ने र स्वास्नीबीचको झगडा वास्तवमै चामे र गौँथलीको जीवनमा कथाकारले प्रस्तुत गरेझैँ परालको आगोजस्तै क्षणिक र अस"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 513,
+    "text_length_avg": 262.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9776,
+      "Latin": 0.0224
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1404,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9776,
+      "Latin": 0.0224
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35998.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35998.txt",
+    "relative_path": "35998.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35998.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1404,
+    "mtime": 1782796563.349285,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "1e473a9b8a00582dcd58c741f641cf45c5be2395",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

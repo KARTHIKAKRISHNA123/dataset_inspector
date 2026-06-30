@@ -1,0 +1,92 @@
+{
+  "dataset": "30896.txt",
+  "file_name": "30896.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मारूनी नाच नेपालको परम्परागत नाच हो। पुरुषलाई महिलाको कपडा पहिराएर मारूनी बनाएर मादलको तालमा पुराना पौराणिक कथाहरूमा आधारीत गीतहरू गाएर नाचिने यो नाच नेपालका मगर,कुमाल, गुरुङ, तामाङ, लिम्बू जातीको मुख्य संस्कृति रहेता पनि यो नाच प्राय सबै ठाउँमा सबै जातीले अपनाएको देखिन्छ।तर अब आएर यो मारुनी नाच लोप हुने परिस्थीतीमा पुगी सकेको छ।",
+    "मारुनी नाँचमा दुइ जना मारूनी दुई देखि तिनजना मादले, एक जना पुरसिँगे र 6 जना देखि 10 जना सम्म गायकहरू हुन्छन्। गायकहरूमा एक जना गुरु हुन्छ जसलाई मारुनी नाचको बारेमा सबै थाहा छ, जसले मारूनी नाचमा गाइने हर गितहरूको लय जानेको छ, जसले नाचमा बजाइने ताल र नाचिने चालको बारेमा पूरा ज्ञान छ, त्यसैलाई मात्र गुरु मानिएको हुन्छ । खास गरेर दशैँ, तिहार, देउसी, भैलीमा र न्वारन, पूजा इत्यादी उत्सवहरूमा यो मारूनी नाँच नाचेको देखिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 973,
+    "text_length_avg": 465.21,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17249,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30896.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30896.txt",
+    "relative_path": "30896.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30896.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17249,
+    "mtime": 1782796539.9922025,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a6b16a0ec2b1ee9ccd5d6b8782bfd90689f22d7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

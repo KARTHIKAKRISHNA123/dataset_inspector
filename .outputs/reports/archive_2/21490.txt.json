@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21490.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै निश्चित बिषय वा अनेक बिषयमा सङ्ग्रह गरिएको मानब ज्ञानलाई विश्वकोष भनिन्छ। विश्वकोष सामान्यतया किताबको रुपमा हुन्छ। यसको शब्दिक अर्थ विश्वभरिका ज्ञानको भण्डार हो। अङ्ग्रेजीमा यसलाई इन्साइक्लोपीडिया भनिन्छ, जुन ल्याटिन भाषाको शब्द हो, जुन यूनानी भाषाको 'εγκύκλιος παιδεία' बाट आएको शब्द हो, जसको अर्थ 'शिक्षणको परिधिमा' हो।",
+    "विश्वकोष छाप्न थालिएको सयौं वर्ष भइसकेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 326,
+    "text_length_avg": 184.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 975,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21490.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21490.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21490.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 975,
+    "mtime": 1782796629.2084177,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5fc47fe5912d32a3a3716956015a7bff09526fd1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

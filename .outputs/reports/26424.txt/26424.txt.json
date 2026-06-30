@@ -1,0 +1,92 @@
+{
+  "dataset": "26424.txt",
+  "file_name": "26424.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सखुवा महेन्द्रनगर नेपालको मध्यमाञ्चल विकास क्षेत्रको जनकपुर अञ्चल, धनुषा जिल्ला छिरेश्वरनाथमा अवस्थित छ।सखुवा महेन्द्रनगर हलै नगरपालिक घोषणा भएको हो। यस ठाँउको जनसङ्ख्या करिब 10,000 भान्द बढी छ। यस ठाँउको प्रसिद्ध बजार \"सखुवा बजार\" हो। यो बजार नेपालकै अनुमनित ठुलो बजार हो। यहा हरेक समाग्री पाइन्छ। यो बजार हप्तामा दुई दिन लाग्ने गर्छ। यो बजारबाट रागा र भैंसी काठमाडौं जाने गर्छ।",
+    "नेपालको 2001 को जनगणना अनुसार सखुवा महेन्द्रनगरको जनसंख्या 13,789 छ। जसमा पुरूष 52%, र महिला 48% छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 379,
+    "text_length_avg": 156.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2066,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26424.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26424.txt",
+    "relative_path": "26424.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26424.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2066,
+    "mtime": 1782796519.047054,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4f8a94f17db6aa6561ca22f5d04f2da91a7441bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

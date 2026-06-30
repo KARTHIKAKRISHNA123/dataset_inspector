@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3508.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लाल सागर हिन्द महासागरमा नुनिलो पानीको एउटा खाडी अथवा ताल हो। यो अफ्रिका अनि एसिया महादेशको मध्यमा स्थित छ। यो सागरको सिमाना दक्षिणमा बेबल मंदेब अनि अदेनको खाडी सँग छ। उत्तरमा सिनै प्रायद्वीप, अकाबाको खाडी र स्वेजको खाडी छ।",
+    "लाल सागरको सतहको क्षेत्रफल अनुमानतः 438,000 वर्ग किमी छ। यस्को लम्बाई लगभग 2250 किमी छ र धेरै फराकिलो भएको ठाउँको चौडाई 355 कि.मी. छ। यस्को अधिकतम गहिराई 2211 मी मध्यमा छ, र यसको औसत गहिराई 490 मी छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 199,
+    "text_length_max": 223,
+    "text_length_avg": 211.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1068,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3508.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3508.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3508.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1068,
+    "mtime": 1782796656.4052124,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e781532a6993311a6075e6edaa90bbd13a6c5787",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

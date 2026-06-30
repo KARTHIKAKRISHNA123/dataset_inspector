@@ -1,0 +1,92 @@
+{
+  "dataset": "38060.txt",
+  "file_name": "38060.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिलबोर्ड हट 100 संयुक्त राज्य अमेरिकामा सङ्गीत उद्योग रेकर्ड चार्ट हो जुन गीतहरूको लागि बिलबोर्ड पत्रिकाद्वारा साप्ताहिक प्रकाशित गरिन्छ । यो चार्ट अमेरिकामा, रेटिङ, बिक्री, रेडियो प्ले, र अनलाइन स्ट्रिमिङमा आधारित छ ।",
+    "जब नीलसन नामक अमेरिकि मिडिया कम्पनीले सन् 1999 मा बिक्री भएका सामग्रीहरूलाई पछ्याउन थाल्यो, बिक्रीको लागि साप्ताहिक पछ्याउने अवधिमा सोमबार देखि आइतबारसम्म भएको थियो, तर जुलाई 2016 मा यो शुक्रबार देखि बिहीबारमा परिवर्तन गरिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 218,
+    "text_length_max": 375,
+    "text_length_avg": 283.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2948,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38060.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38060.txt",
+    "relative_path": "38060.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38060.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2948,
+    "mtime": 1782796573.5349526,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a336b94427fec6175cfa67e6c6af835e3085c411",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "25508.txt",
+  "file_name": "25508.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1970 फिफा विश्वकप पुरुषहरूको राष्ट्रिय टोलीका लागि अन्तर्राष्ट्रिय फुटबल च्याम्पियनसिप प्रतियोगिता थियो र फिफा विश्वकपको नौऔं संस्करण थियो जुन, 31 मे देखि 21 जून सम्म मेक्सिकोमा आयोजिना भएको थियो । यो पहिलो विश्वकप प्रतियोगिता थियो जुन युरोप र दक्षिण अमेरिकामा नभएर उत्तरी अमेरिकामा आयोजित गरिएको थियो । सबै 6 वटा महाद्वीपहरूबाट 76 राष्ट्रहरू प्रतिनिधित्व गर्ने टोलीहरूले प्रतियोगितामा प्रवेश गरेका थिए र यसको छनोट खेल मे 1968 मा सुरु भएको थियो ।पुर्ब बिजेता इङ्ल्याण्ड र आयोजक मेक्सिकोसँग गरि 14 टोल"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 613,
+    "text_length_max": 613,
+    "text_length_avg": 613.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1608,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25508.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25508.txt",
+    "relative_path": "25508.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25508.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1608,
+    "mtime": 1782796514.6896665,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8c2b7eb3509d372b587b2b2ed7eeb2fbbe968e92",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

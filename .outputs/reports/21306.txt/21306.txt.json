@@ -1,0 +1,92 @@
+{
+  "dataset": "21306.txt",
+  "file_name": "21306.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खोकना गाविस ललितपुर जिल्लाको जावलाखेलबाट 8 किलोमिटर दक्षिण पर्ने पुरानो बस्ती हो। यो बस्ती तोरीको तेलका लागि अति प्रख्यात थियो। खोकनामा झण्डै एक हजार घर छन। यस गाविसको एकदेखि आठ वडासम्मको ठाउँलाई ठूलो खोकना भनिन्छ। नौ नम्बर वडा केहीमा छ, यसलाई सानो खोकना भनिन्छ।",
+    "दसैंका बेला खोकनाको सबभन्दा ठूलो सिद्धिकाली जात्रा पर्छ। पुरानो बस्तीमा भने दसैं मनाइन्थ्यो रे। नयाँ बस्तीमा सर्नेबित्तिकै त्यो चलन हट्यो। यसका पछाडि ‘तान्त्रिक शक्ति’को हात रहेको उनीहरूको विश्वास छ। रुद्रायणी मन्दिर खोकनाको मध्य भागमा पर्छ। धेरै वर्षअघि महिसासुर नामक दैत्यले देवतालाई निकै दुःख दियो। एक दिन होइन, दुई दिन होइन। सधैं दैत्यहरूले विध्वंस गर्न थालेपछि देवताहरूको बैठक बस्यो। उनीहरूले निर्णय गरे, सबभन्दा पहिला महिसासुर कहाँ छ – पत्ता लगाउने। भैरवले अन्तरध्यान भएर महिसासुरको खोजी गरे, त"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 1136,
+    "text_length_avg": 603.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9715,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21306.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21306.txt",
+    "relative_path": "21306.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21306.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9715,
+    "mtime": 1782796495.8249009,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e1106a50bb9612989d4831c3d45add0019f9a0d3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

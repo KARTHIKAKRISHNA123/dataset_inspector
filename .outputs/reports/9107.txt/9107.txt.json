@@ -1,0 +1,94 @@
+{
+  "dataset": "9107.txt",
+  "file_name": "9107.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:Infobox cell",
+    "राता रक्त कोष, रगतको सबभन्दा प्रमुख कोशिका हो। राता रक्त कोषहरूलाई इरिथ्रोसाइट्स पनि भनिन्छ । एक घन मिलिलिटर रगतमा 45 लाखदेखि 50 लाखसम्म राता रक्त कणिकाहरू हुन्छन् । यिनको आयु 90 देखि 120 दिनसम्म हुन्छ । यिनीहरू बोन म्यारोमा बन्छन् । यी कोषहरू प्रत्येक सेकन्डमा 20 लाख जति बन्छन् भने त्यत्तिकै सङ्ख्यामा नासिन्छन् । राता रक्त कोष बन्ने र नासिने प्रक्रिया बाचुन्जेल चलिरहन्छ । पुराना रक्त कोषहरू कलेजो र फियोमा नष्ट हुन्छन् । यसमा भएको फलाम तत्त्व पुनः प्रयोगमा आइरहन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 470,
+    "text_length_avg": 199.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9867,
+      "Latin": 0.0133
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2634,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9867,
+      "Latin": 0.0133
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9107.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9107.txt",
+    "relative_path": "9107.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9107.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2634,
+    "mtime": 1782796602.6022801,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "594fa108cf3c6dff64c54fd645304f4173d3496a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

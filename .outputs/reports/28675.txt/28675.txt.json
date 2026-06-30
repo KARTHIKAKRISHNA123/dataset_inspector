@@ -1,0 +1,94 @@
+{
+  "dataset": "28675.txt",
+  "file_name": "28675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेनका गान्धी एक भारतीय राजनीतिज्ञ, पशु अधिकारको पक्षधर र एक पूर्व पत्रकार हुन। उनी चार सरकारको मन्त्री थिईन र व्युत्पत्ति, कानुन र पशुको अधिकारको बारेमा धेरै पुस्तक लेखेकी छिन। उनी नेहरू गांधी परिवारको एक सदस्य हुन।",
+    "मेनका गान्धी लेफ्टिनेंट कर्नल तरलोचन सिंह आनन्द र अम्तेश्वर आनन्दको एक सिख परिवारमा जन्मेकी थिईन। मेनका गांधी दिल्लीमा जन्मिएकी हुन र उनले लरेंस स्कूल, सनावर, र नई दिल्लीमा लेडी श्रीराम कलेजमा अध्ययन गरेकी थिईन। त्यस पछी उनले संजय गांधी, प्रधानमंत्री इंदिरा गांधीको छोरा संग विवाह गरिन। पुर्व मोडल, सूर्या भारतको पत्रिकाको पूर्व संपादक, मेनका गांधी 1982मा राजनीतिमा प्रवेश गरिन जब दाबी गरिएको एक विमान दुर्घटना उनको पतिको मृत्यु र नया 'डल्फिन' राजीव गांधीको पछीको राजनीतिक विरासत विरुद्द। ले कांग्रेस"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 810,
+    "text_length_avg": 402.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5276,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28675.txt",
+    "relative_path": "28675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5276,
+    "mtime": 1782796529.3345103,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "db3dd02b312d50f03db3b8c4c5f7ec8e15a235c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

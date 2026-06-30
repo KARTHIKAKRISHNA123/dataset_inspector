@@ -1,0 +1,92 @@
+{
+  "dataset": "13403.txt",
+  "file_name": "13403.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खनाल नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बी विशेषतया नेपालीहरूको थर हो। यस थरको उदगम् वि.सं. 1416 तिर हाल अर्घाखाँचीको खन गाविस बाट भएको हो ।",
+    "कुँमाऊ ? तिरबाट नेपाल आएका चामु पाध्याय ब्रह्माणले अर्घा?खाँची?का राजालाई खुशी पारी वि.सं.1416 त्यहि बसे । उनको मृत्य पछि राजाले खेती विर्ता दिएर विधवा ब्रह्माणी र नाबालक 3 छोराहरूले खेत खनेर बस्नु भनेकाले शुरू भएको \"खन\" शब्द \"खद्दाल\" हुँदै \"खनाल\" भएको \"खनाल वंशावलि\" मा पढ्न पाईन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 284,
+    "text_length_avg": 165.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1708,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13403.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13403.txt",
+    "relative_path": "13403.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13403.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1708,
+    "mtime": 1782796458.4386687,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "af4caadd60950bf5b62e11b99a49593d420adaa7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

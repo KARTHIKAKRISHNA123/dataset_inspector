@@ -1,0 +1,92 @@
+{
+  "dataset": "19877.txt",
+  "file_name": "19877.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नारायणकाजी श्रेष्ठ नेपाल कम्युनिष्ट पार्टीका प्रवक्ता हुन ।",
+    "उपप्रधान तथा परराष्ट्र मन्त्री हुँदा समेत आफ्नै पार्टीका प्रधानमन्त्रीसँग असहमति प्रकट गर्दै सार्वजनिक पत्रकार सम्मेलन गर्ने एमाओवादी उपाध्यक्ष नारायणकाजी श्रेष्ठ पार्टी महाधिवेशनस्थलमा पनि पत्रकार सम्मेलनबाटै फरक मत राख्ने ब्यक्ति हुन् । राष्ट्रियताका मुद्धामा भन्दै उनले पार्टीमा पटक पटक राखेका फरक मतलाई कतिपयले स्टन्ट देखाएर चर्चामा आउने दाउ भनेर समेत आलोचना गर्छन् ।  पार्टी भित्रै पनि जनयुद्धको ब्याज खान आएको भनेर आलोचित हुने गरेकाभएपनि नारायणकाजी श्रेष्ठले आफ्ना कुरा अडिगरुपमा सँधै स्पष्टरुप"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 641,
+    "text_length_avg": 242.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1976,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19877.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19877.txt",
+    "relative_path": "19877.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19877.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1976,
+    "mtime": 1782796489.0930247,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3e4df2db1af18100be594365edce89bb710fafb3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

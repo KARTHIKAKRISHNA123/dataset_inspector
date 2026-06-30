@@ -1,0 +1,92 @@
+{
+  "dataset": "23706.txt",
+  "file_name": "23706.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निकोसिया, जसलाई पहिले लेफकोसा को नाम ले पनि चिनिने, एसिया र युरोप दुबै महादेशमा पर्ने साइप्रस देशको राजधानी, आर्थिक, राजनीतिक, सांस्कृतिक केन्द्र तथा सबैभन्दा लोकप्रिय शहर हो । यो मेसाअोरिया को नजिकै को, नदी पेडिअोस किनारहरूमा अवस्थित छ ।",
+    "निकोसिया, राजधानी र साइप्रसको सरकारको सीट हो र यो सबै युरोपेली संघ सदस्यको सबै भन्दा टाढा दक्षिण पूर्वमा छ । यो निरन्तर रूपमा 4500 भन्दा बढी वर्षको इतिहासमा बाँचिरहेको छ र 10 औं शताब्दीदेखि साइप्रसको राजधानी भएको छ । निकोसियाको ग्रीक साइप्रस र टर्की साइप्रस समुदायहरूले 1963 मा शहरको क्रमश: दक्षिण र उत्तरमा विभाजित गरिदिएका हुन् । 1955-64 को संकट पछि यो शहर तोडिएको थियो । टर्कीले सन् 1974 मा साइप्रस र उत्तरी साइप्रस गणतन्त्रको बीचमा सैन्य बिरोधी बन्न पुगेपछि टर्कीले साइप्रसको द्वीपलाई आक्रमण गरेप"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 237,
+    "text_length_max": 1073,
+    "text_length_avg": 506.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6656,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23706.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23706.txt",
+    "relative_path": "23706.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23706.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6656,
+    "mtime": 1782796506.4189594,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f9d8e76e5980d9735d198e56dac9ef4be9c732b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

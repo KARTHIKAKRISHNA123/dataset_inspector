@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21322.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनिता कृष्णन भारतीय सामाजिक कार्यकर्ता र प्रज्वला नामको गैरसरकारी संस्थाको संस्थापक हुन् । प्रज्वला को मुख्य उद्देश्य कोठीमा बेचिएकी महिलाहरुलाई उद्वार गराउनु र समाजमा पुनर्स्थापित गराउनु हो ।",
+    "कृष्णनलाई अझै पनि डर-धम्की आउने गर्छन, उनलाई 14 पटक हत्या गर्ने प्रयास भएको छ । उनको अनुसार एकपटक रिक्सा चढ्दा उनलाई सुमो-भ्यान बाट उनी चढेको रिक्सा लाई ठक्कर दिइयो; उनी बच्न भने सफल भइन् । उनी एसिड प्रहारबाट पनि बच्न सफल भइन, अर्को पटक बीस खुवाइ मार्ने षड्यन्त्रमा पनि भाग्यले बाँचिन् । कृष्णनको अनुसार यस्ता घटनाले उनलाई झन मजबुत बनाएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 342,
+    "text_length_avg": 267.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1417,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21322.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21322.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21322.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1417,
+    "mtime": 1782796628.8335092,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e61ebb66b0a72ac7ba218d661f54a5ca9e038524",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

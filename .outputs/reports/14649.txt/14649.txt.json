@@ -1,0 +1,91 @@
+{
+  "dataset": "14649.txt",
+  "file_name": "14649.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "असोज 12 महिनाहरूमा एक महिना हो। यो महिनालाई भोजपुरी, अवधि र थारु भाषामा \"कुवार\" महिना भनिन्छ। चन्द्रमासका अनुसार यो महिना भाद्र पूर्णिमाको भोलिपल्टबाट सुरु भएको मानिन्छ भने सौर्यमास अनुसार असोजको महिना कन्या सक्रान्ति का दिन सुरु हुन्छ। शाक्य पञ्चाङ्गका अनुसार भने असोज महिना कन्या सक्रान्ति को 5 दिन पछि सुरु हुन्छ। हाम्रो देश नेपालमा सौर्यमासलाई नै प्रयोगमा ल्याइएको छ। असोजको महिना शरदऋतुको पहिलो महिना हो। अङ्ग्रेजी महिनाको आधा सेप्टेम्बर महिना र आधा अक्टोबर महिना आश्विन महिनामा पर्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 490,
+    "text_length_max": 490,
+    "text_length_avg": 490.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1307,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14649.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14649.txt",
+    "relative_path": "14649.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14649.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1307,
+    "mtime": 1782796464.020257,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "abbc942489768b2bfd0a31a1fd595417aac91282",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

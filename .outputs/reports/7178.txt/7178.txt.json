@@ -1,0 +1,94 @@
+{
+  "dataset": "7178.txt",
+  "file_name": "7178.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय खेलकुद परिषद्, नेपाल को 2021 मा राष्ट्रिय पञ्चायतबाट खेलकुद ऐन पारित गरी औपचारिक सुरुवात भएको मानिन्छ। यसलाई छोटकरीमा राखेप भनिन्छ । ",
+    "राखेपको कार्यकारी-प्रमुख यसका सदस्यसचिव रहन्छन् । हालका सदस्य-सचिवहरूः1. होराप्रसाद जोशी2. सुशील शमशेर जबरा3. खड्गविक्रम शाह4. शरदचन्द शाह5. इन्दुबहादुर शाही6. युद्धविक्रम शाह7. राजबहादुर सिंह8. रुक्म शमशेर राणा9. केशव स्थापित10. शरदकुमार भट्टराई11. बद्रीनाथ श्रेष्ठ12. जीवनराम श्रेष्ठ13. बिनोदशंकर पालिखे14. किशोरबहादुर सिंह15. हरिबाबु चौधरी16. युवराज लामा"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 357,
+    "text_length_avg": 165.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9626,
+      "Latin": 0.0374
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1643,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9626,
+      "Latin": 0.0374
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7178.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7178.txt",
+    "relative_path": "7178.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7178.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1643,
+    "mtime": 1782796593.3080678,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.943,
+    "sha1_quick": "1a16ec037339c28076ad8e666b9495013d30bf50",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

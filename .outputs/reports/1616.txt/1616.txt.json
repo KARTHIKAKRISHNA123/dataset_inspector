@@ -1,0 +1,92 @@
+{
+  "dataset": "1616.txt",
+  "file_name": "1616.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वाल्मीकि एक महर्षि तथा संस्कृतका आदि कवि हुन् । उनले महाकाव्य वाल्मीकीय रामायणको रचना गरेका हुन् । सो, रामायणमा श्रीरामको चरित्र वर्णन गरिएको छ जसले सत्य र मर्यादा देखि परिचित गराउँछ; श्रीरामलाई मर्यादा निष्ठ हुनाले मर्यादा पुरुषोत्तम पनि भनिन्छ ।",
+    "वाल्मीकि अादि महाकाव्य रामायणका रचनाकार हुन्, त्यसैले यिनी अादि कवि हुन् । यिनी लाैकिक संस्कृतका विशिष्ट प्रतिभाका रूपमा परिचित छन् ।यिनले सप्तर्षिबाट जीवन दीक्षा ग्रहण गरेका थिए । यिनी धेरै समयसम्म समाधि लगाएर तपस्याबाट उठ्दा यिनका चारैतिर धमिराले देवल बनाएकाे थियाे । धमिराकाे देवललार्इ संस्कृतमा वाल्मीक भनिन्छ । ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 247,
+    "text_length_max": 317,
+    "text_length_avg": 282.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1515,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1616.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1616.txt",
+    "relative_path": "1616.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1616.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1515,
+    "mtime": 1782796470.930359,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0d75379dc52253be2b4fe66691bcc1c6b365e02b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

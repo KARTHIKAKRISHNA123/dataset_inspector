@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12378.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रानीपोखरी कर्नर टिम एक नेपालको चर्चित फुटबल क्लब हो। यो क्लबको घरेलुु मैदानको रूपमा दशरथ रङ्गशालालाई लिने गर्दछ।सन् 2013-14 सालमा आरसीटि क्लबलाई ठूलो आर्थिक समस्या परेको थियो।वि.स. 2070 सालको सहिद स्मारक ए-डिभिजन लिगमा यस क्लब रेलिगेसनमा परेको थियो।",
+    "यस क्लब नेपालको सर्वाधिक पुरानो फुटबल क्लबहरू मध्ये एक हो। साथै नेपालको राष्ट्रिय फुटबल लिगमा सर्वाधिक सफल यो क्लबले मनाङ मर्स्याङ्दी क्लब पछि शहिद स्मारक लिग 6 पटक जित्न सफल भएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 865,
+    "text_length_avg": 349.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7373,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12378.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12378.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12378.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7373,
+    "mtime": 1782796611.2007651,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9483b125dbf7d80d51c0e089a84432d5426f7928",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

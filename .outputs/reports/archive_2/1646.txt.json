@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1646.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्र राजमार्गमा अवस्थित सिरहा जिल्लाको लहान नगरपालिका सुन्दर, शान्त र हराभरा छ। वि.सं. 2032 मा सरकारद्वारा लहान बजार, लहान गोठ र सिग्याही मटियर्वा गाविस मिलाएर नगरपञ्चायत स्थापना गरिएको थियो। नगरपालिकाको 2033 देखि 2054 सालसम्मको पाँच पटक निर्वाचन भयो। पाँच पटकको निर्वाचनमा लगातार तीनपटक लगनलाल चौधरी नगरप्रमुखमा विजयी भएका थिए। वि.सं. 2033 को निर्वाचनमा भने पहिलो प्रधानपञ्चको रूपमा रामलोचन महतो र उप-प्रधानपञ्चमा विश्वनाथ चौधरी विजयी भएका थिए। त्यसैगरी 2049 सालको निर्वाचनमा नगरप्रमुखमा लगनलाल ",
+    "लहान नगरपालिकाको पूर्वमा बलान नदी, पश्चिममा पडरिया गाविस र बस्तीपुरको पूर्वी सिमाना, उत्तरमा भदैया गाविस र गोविन्दपुरको दक्षिण सिमाना र दक्षिणमा सोनमति मझौरा गाविस पर्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 173,
+    "text_length_max": 847,
+    "text_length_avg": 550.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7212,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1646.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1646.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1646.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7212,
+    "mtime": 1782796619.3645866,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c25ab6aab8a2f5b8e37d82ca5b70ad5bc195fee9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

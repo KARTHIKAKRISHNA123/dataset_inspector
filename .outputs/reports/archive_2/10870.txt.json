@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10870.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " राजनीति पोर्टल",
+    "नेपालको संविधान 2072 ले व्यवस्था गरेको संघीय संरचना अन्तरगतको सबैभन्दा सानो निकाय स्थानीय तह हो । स्थानीय तहमा स्थानीय कार्यपालिका, व्यवस्थापिका र न्यायिक समिति गरी सरकारका तीन वटै अङ्गको व्यवस्था रहेको छ । स्थानीय कार्यपालिका भन्नाले गाउँ कार्यपालिका र नगर कार्यपालिकाहरूलाई बुझ्नु पर्दछ । स्थानीय कार्यपालिकाले संविधान र कानुनको अधिनमा रहेर काम गर्नुपर्ने छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 1025,
+    "text_length_avg": 309.42,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15800,
+    "estimated_records": 51
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 51,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10870.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10870.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10870.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15800,
+    "mtime": 1782796608.2199104,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b6ee9000eb983953b834f168c6a32de83dbd958a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

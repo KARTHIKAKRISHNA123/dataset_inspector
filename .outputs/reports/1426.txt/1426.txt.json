@@ -1,0 +1,92 @@
+{
+  "dataset": "1426.txt",
+  "file_name": "1426.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोलखामा मनाइने विभिन्न जात्राहरू मध्य 9 दिन सम्म परम्परागत रूपमा मनाउदै आइरहेको मच्छिन्द्रनाथ जात्रा प्रमुख जात्रा हो । चैत्र पूर्णिमा बाट आरम्भ भइ दोलखा नगरको सबै टोल परिक्रमा गरी 9 दिनमा सम्पन्न हुने गर्दछ ।",
+    "अहिलेसम्म भेटिएको ऐतिहासिक प्रमाण अनुरूप वि. स. 1638 चैत्र कृष्ण पक्ष परेवाका दिनमा ओमवहालका भिक्षुहरूले चढाएको सुर्वण प्रभा र छत्र देखिन आए पनि दोलखाको मच्छिन्द्रनाथ रथ जात्रा वि.सं. 1575 देखि राजा नन्ददेवले सुरू गरेको मानिन्छ । रथ तान्ने जात्रा निरन्तर गर्न करिब वि.सं. 1650 ताका राजा वासुदेवले विभिन्न स्थानमा गुठी स्थापना गरी आयस्थाको बन्दोबस्त गरेका थिए । अहिले त्यो स्रोत गुम्दै गएपछि जात्रा चलाउन निकै कठिन परेको र बस्ती विस्तारले रथ तान्न कठिन पर्न थालेपछि 2039 देखि 053 सालसम्म रथयात्रा रोकि"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 209,
+    "text_length_max": 1725,
+    "text_length_avg": 1073.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11465,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1426.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1426.txt",
+    "relative_path": "1426.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1426.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11465,
+    "mtime": 1782796462.237973,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d6394cfd39c45a42ef3ad6337ac8840edd39dba9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

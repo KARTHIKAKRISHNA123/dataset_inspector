@@ -1,0 +1,94 @@
+{
+  "dataset": "2006.txt",
+  "file_name": "2006.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जुत्ता मानिसले आरम तथा सुरक्षाको लागि खुट्टामा पहिरिने बस्तु हो ।",
+    "Shoesको बारेमा विकिपिडियाका भातृ योजनाहरूमा खोज्नुहोस:"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 65,
+    "text_length_avg": 59.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9515,
+      "Latin": 0.0485
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 318,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9515,
+      "Latin": 0.0485
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2006.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2006.txt",
+    "relative_path": "2006.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2006.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 318,
+    "mtime": 1782796489.9390476,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "e797db247e32e471f5605398b0f46f473e285ea6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

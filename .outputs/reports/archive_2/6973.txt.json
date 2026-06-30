@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6973.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै पनि तरल पदार्थको आफू खुम्चिएर रहन सक्ने क्षमतालाई नै पृष्ठ तनाव भनिन्छ । यो शब्दलाई बुझ्न तल केही उदाहरणहरू पस्किइएको छ ।- झोल औषधीलाई ड्रपरको सहायताले शिशिबाट झार्दा तरलको अविरल प्रवाह हुनुको सट्टा थोपा/थोपा भएर झर्छ ।- कपडा सिउने सियोलाई सतर्कतापूर्वक / होसियारपूर्वक विस्तारै पानीको सतहमा राखियो भने सियोले त्यहीँ सानो खाल्डो बनाउँछ र पानीमा तैरन्छ । - माकुरा जस्ता केही किराहरू पानीको सतहमा तैरेर हिँड्न सक्छन् ।",
+    "माथीका तिनवटै उदाहरणमा तरलको माथील्लो तहले दबाबका वावजुद तन्किने झिल्ली को काम गरेको छ । अन्य शब्दमा भन्नुपर्दा - तरल पदार्थको माथील्लो तहले दबावका बावजुद तन्कने झिल्लीको काम गर्छ र तरलको सतहसँग समानान्तर यो दबाव तरल पदार्थको अणुहरू बिचमा हुने आकर्षणका कारण सिर्जना भएको हुन्छ । यही प्रभावलाई नै पृष्ठ तनाव भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 640,
+    "text_length_avg": 352.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Latin": 0.002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6473,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Latin": 0.002
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6973.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6973.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6973.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6473,
+    "mtime": 1782796669.6507056,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5c129cac90bbcf96e4c50ed9e0c8989be2ae500a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

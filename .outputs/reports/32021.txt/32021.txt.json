@@ -1,0 +1,96 @@
+{
+  "dataset": "32021.txt",
+  "file_name": "32021.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जम्मू /ˈdʒɑːmʊ/, पञ्जाबी: ਜੰਮੂ), भारतको उत्तरतम राज्य जम्मू एवं कश्मीर मा तीनमध्ये एक प्रशासनिक खण्ड हो । यो क्षेत्र जम्मू एवं कश्मीर राज्यको एक भाग हो । क्षेत्रको प्रमुख जिल्लामा डोडा, कठुआ, उधमपुर, राजौरी, रामबन, रियासी, साम्बा, किश्तवार एवं पुन्छ आउछ । क्षेत्रको अधिकांश भूमि पहाडी वा पथरीली हो । यसैमा पीर पन्जाल रेन्ज पनि आउछ जुन कश्मीर घाटीलाई हिमालय देखि पूर्वी जिल्ला डोडा र किश्तवारमा पृथक गर्दछ । यहाको प्रधान नदी चेनाब हो । ",
+    "जम्मू शहर, जसलाई आधिकारिक रूपले जम्मू-तवी पनि भनिन्छ, यस प्रभागको सबैभन्दा ठुलो नगर हो र जम्मू एवं कश्मीर राज्यको शीतकालीन राजधानी पनि हो । नगरको बीचबाट तवी नदी निक्लन्छ, जसको कारण यस नगरलाई यो आधिकारिक नाम मिलेको हो । जम्मू शहरलाई \"मन्दिरहरूको शहर\" पनि भनिन्छ, किनकि यहा धेरै मन्दिर एवं तीर्थ छन् जसको चमकते शिखर एवं दमकते कलश नगरको क्षितिजरेखामा सुवर्ण बिन्दुहरू जस्तै देखिन्छ र एक पवित्र एवं शान्तिपूर्ण हिन्दू नगरकोका वातावरण प्रस्तुत गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 155,
+    "text_length_max": 851,
+    "text_length_avg": 526.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Gurmukhi": 0.0019,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6800,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Gurmukhi": 0.0019,
+      "Latin": 0.001
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32021.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32021.txt",
+    "relative_path": "32021.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32021.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6800,
+    "mtime": 1782796545.2176366,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c4dabf071131e96a162e237a215ad70baeaaca35",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "20675.txt",
+  "file_name": "20675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विन्डोज 10 माइक्रोसफ्ट विन्डोज को विन्डोजको नयाँ संस्करणमा आधारित एक सन्चालन प्रणाली हो।जसलाई 30 सेप्टेम्बर 2014 मा प्रदर्शित गरिएको थियो। यो 2015 सम्ममा बाजारमा आउना सक्छ।",
+    "पछिल्ला 30 वर्षमा पिसीदेखि मोबाइलसम्म आइपुग्दा माइक्रोसफ्टको अपरेटिङ सिस्टम विन्डोजमा धेरै परिवर्तन भएको छ । हालै माइक्रोसफ्टले विन्डोज 10 सार्वजनिक गर्यो । उसले यो वर्षभित्र विश्वका सबै ठाउँमा विन्डोज 10 पुर्याउने योजना ल्याएको छ । विन्डोज 10 ले विन्डोज 8 मा रहेका फिचरहरुमा व्यापक परिवर्तन गर्दैछ । विन्डोज 10 बजारमा आएसँगै पिसी, ट्याबलेट र फोनहरुबीचको प्रयोगको भिन्नता पनि हट्ने अड्कल गरिएको छ । यहाँ माइक्रोसफ्ट विन्डोज 1 देखि 10 सम्म कसरी आइपुग्यो त ? सन् 1985 देखि हालसम्मको विन्डोजको इतिहासलाई"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 172,
+    "text_length_max": 1735,
+    "text_length_avg": 435.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9926,
+      "Latin": 0.0074
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20486,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9897,
+      "Latin": 0.0103
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20675.txt",
+    "relative_path": "20675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20486,
+    "mtime": 1782796492.8136067,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d7e1dfdec5fc27c3234ea3d1c2c2768d81af7430",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

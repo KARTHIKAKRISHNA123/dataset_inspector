@@ -1,0 +1,91 @@
+{
+  "dataset": "33554.txt",
+  "file_name": "33554.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोमेलु मेनामा लुकाकु बोलिनगोलि (डच उच्चारण: ; 13 मे 1993 मा जन्मिएका एक बेल्जियम पेशेवर फुटबल खेलाडी हुन् जो अंग्रेजी क्लब म्यानचेस्टर यूनाइटेड र बेल्जियम राष्ट्रिय फुटबल टिम को लागि स्ट्राइकर को रूपमा खेल्ने गर्छन् । उनले आफ्नो 23 औँ जन्मदिन अघि 50 प्रिमियर लिग गोल गरे र यो रेकर्ड पाँच खेलाडी मध्ये एक हो । अन्तर्राष्ट्रिय स्तरमा उनले बेल्जियम राष्ट्रिय टोलीका लागि 40 गोल गरिसकेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 389,
+    "text_length_max": 389,
+    "text_length_avg": 389.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1005,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33554.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33554.txt",
+    "relative_path": "33554.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33554.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1005,
+    "mtime": 1782796552.1081333,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8ded6d5b3c557a0cac9f0bd5d9696830d37f5296",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

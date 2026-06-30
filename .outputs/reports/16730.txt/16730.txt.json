@@ -1,0 +1,92 @@
+{
+  "dataset": "16730.txt",
+  "file_name": "16730.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सङ्क्रामक पखालालाई अङ्ग्रेजीमा ग्यास्ट्रोएन्टराइटिस भनेर चिनिन्छ। यस्तो पखाला आमाशयदेखि सानोआन्द्रासम्मको पाचन नलीमा हुने इन्फ्लामेसन को कारणले देखा पर्ने गर्दछ। यो रोग लागेका बिरामीहरूमा पखाला लाग्ने, बान्ता हुने र पेट दुख्ने जस्ता समस्याहरू देखा पर्छन्। त्यस्तै ज्वरो आउने, कमजोर तथा जलवियोजन हुने जस्ता थप लक्षणहरू पनि देखापर्न सक्छन्। सङ्क्रामक पखाला सामान्यतया दुई हप्ताभन्दा कम अवधिको हुने गर्छ। यसलाई कतै कतै पेटको फ्लू भन्ने गरिएको भए तापनि यो रोग इन्फ्लुएन्जासँग सम्बन्धित छैन।",
+    "सङ्क्रामक पखाला भाइरसहरू, ब्याक्टेरिया, परजीवीहरू तथा ढुसीहरूको सङ्क्रमणका कारणले हुन सक्छ। यी मध्ये सबैभन्दा बढी रोग भाइरसहरूका कारणले लाग्ने गरेको पाइन्छ। बालबालिकाहरूमा प्रायजसो रोटाभाइरसका कारणले गम्भीर खालको सङ्क्रामक पखाला लाग्ने गरेको पाइन्छ। वयस्कहरूमा भने मुख्यतया नोरोभाइरस तथा कम्पाइलउब्याक्टर नामक ब्याक्टेरियमका कारणले यो रोग लाग्ने गरेको पाइन्छ। यो पखाला गलत तरिकाबाट तयार पारिएका खानेकुरा खानाले, प्रदुषित पानी पिउनाले वा रोगीसँगको प्रत्यक्ष सम्पर्कका माध्यमले एक व्यक्तिबाट अर्को व्यक"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 486,
+    "text_length_max": 755,
+    "text_length_avg": 615.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6672,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16730.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16730.txt",
+    "relative_path": "16730.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16730.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6672,
+    "mtime": 1782796473.709079,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "235917fb26278f4ec6b74f45465710141af4d354",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

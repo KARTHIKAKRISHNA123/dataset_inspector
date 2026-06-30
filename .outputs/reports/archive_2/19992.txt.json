@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19992.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सतार/सन्थालनेपालको अल्पसंख्यक आदिवासी हो। रङमा काला भएपनि यिनीहरू निकै सरल, मिलसार र मेहेनती हुन्छन। आफ्नो परिश्रमबाट नै जीवन गुजारा गर्नुपर्छ भन्ने सतारहरू चोरी र बेइमानीलाई पाप सम्झन्छन्। खासगरी पूर्वी तराईका मोरङ र झापाका आदिवासी सतारहरूको घरको बनोटबाट नै सतार गाउँ भन्ने छुटिन्छ। फुसको छाना भएका एकतले झुप्रा घर झुरूप्प बाक्लै रहनु, लिसैलो माटोको लिउनले चिल्लो देखिनु, घर अगाडि बाबरी फुलको बोट हुनु र घर छेउछाउ बडहर, कदम र बयरका रूख-विरुवा इत्यादिले उनीहरूको परिचय दिन्छ। ",
+    "सन्थालहरूको गाउँमा एकजना मान्नेगुन्ने मानिस हुन्छ, जसलाई 'माजिहडाम' भनिन्छ। उसलाई सहयोगी चाहिएमा अर्को एकजना 'परानी' राख्न गरिन्छ। माजिहडाम हुने पुस्त्यौली हक हो, तर कुनै माजिहडाम बेकम्वा भएमा गाउँलेले अर्को माजिहडाम नियुक्ति गर्न सक्छन्। माजिहडामको मुख्य काम गाउँको झै-झगडा मिलाउने, गाउँमा नाइके तथा खबरे राख्ने र विकास निर्माण गराउने आदि हुन्। 'सार्ना'धर्मावलम्बी भएका उनीहरूमा केही आफ्नै बिशेषता छन्। गाउँको कुनै ठाउँमा 'मन्जिथान' बनाइएको हुन्छ। क्रिया गर्दा यस ठाउँमा जाँड चढाउनुपर्छ। विवाह गर्दा"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 186,
+    "text_length_max": 1762,
+    "text_length_avg": 947.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12591,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19992.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19992.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19992.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12591,
+    "mtime": 1782796626.4327931,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c4214eb6eec779773e059291b5f1379f84c728ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "32135.txt",
+  "file_name": "32135.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्री 5 महेन्द्र स्मारक आंखा अस्पताल वीरगंजको केडीया आंखा अस्पताल पछि नारायणी अन्चलमा स्थापीत दोस्रो महत्वपूर्ण अस्पताल हो। साथै भरतपुरका अस्पतालहरूमा पनि यो दोस्रो महत्वपूर्ण अस्पतालको रूपमा स्थापीत भएको थियो, यो हाल 50 सैयामा संचालित छ र आंखाका सबै प्रकारका उपचारमा संल्गन छ। यो अस्पतालको उद्घघाटन स्वर्गीय राजा वीरेन्द्र बाट 2045 सालमा गरिएको थीयो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 350,
+    "text_length_max": 350,
+    "text_length_avg": 350.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 929,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32135.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32135.txt",
+    "relative_path": "32135.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32135.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 929,
+    "mtime": 1782796545.7156482,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1c66910c4b4eff9bcf8ef1ebe2a02533cd987ddb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

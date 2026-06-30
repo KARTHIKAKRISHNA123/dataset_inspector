@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "येन्स पिन्क योन्सन, एक परिचयडिसेम्बर 19, 1956मा जन्मिएका येन्स पिन्क योन्सन डेनमार्कका प्रख्यात कवि, लेखक, फोटोग्राफर, संगीतकार तथा आर्किटेक्ट हुन्।",
+    "लेखकको रूपमा उनको पहिलो प्रकाशित रचना एउटा लघुकथा ‘जुनि’ थियो। त्यो लघुकथा उनले सन् 1995को जून महीनामा लेखेका थिए भने जुन 4, 1975मा सो कथा इन्फर्मेसन नामक दैनिक पत्रिकामा छापिएको थियो। त्यसै गरि कविको रूपमा उनका चारवटा कविताहरू साहित्यिक पत्रिका Hvebekornमा 19 अक्टूबर 1981मा प्रकाशित भएका थिए। रुजून 5, 1986मा प्रकाशित कथासंग्रह बेस्टर्न ले उनलाई गद्य लेखकको रूपमा पनि चिनायो। मार्च 18, 1994मा उनको पहिलो बाल साहित्य ‘योनास र शंखकीराको खोल’ प्रकाशित भएको थियो।आधुनिक भाषा विज्ञान लिएर उनले Herlufsho"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 1157,
+    "text_length_avg": 361.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3751,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32582.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3751,
+    "mtime": 1782796651.3377604,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "c904d0753130343ad62f956642c5180073041227",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

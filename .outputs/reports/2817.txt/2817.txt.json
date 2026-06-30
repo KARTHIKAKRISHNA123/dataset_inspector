@@ -1,0 +1,91 @@
+{
+  "dataset": "2817.txt",
+  "file_name": "2817.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जीतबहादुर रायमाझी चित्रकार हुनुहुन्छ। उहाँ विशेष गरी मिथिला क्षेत्रको लोककलाका लागि परिचित हुनुहुन्छ। रायमाझीको जन्म 2001 वैशाख 4 गते सिरहा जिल्लाको भुल्के, बडहरामाल 5मा भएको हो। उहाँका पिता कर्मबहादुर र माताको नाम चन्द्रमाया हो। उहाँले भारतको बनारसको बिएचयु बाट कलामै एमएफए गर्नुभएको छ। बिएचयुबाट कला विषयमा त्यो तहको उच्च शिक्षा लिएका मानिस नेपालमा थोरै छन्। विभिन्न समयमा रायमाझीका कला प्रदर्शनी भएका छन्। विभिन्न संघसंस्थाबाट पुरस्कार र सम्मान पाएका उहाँले तयार पारेको 'मिथिला लोककला : एक परिचय' "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 574,
+    "text_length_max": 574,
+    "text_length_avg": 574.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1533,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2817.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2817.txt",
+    "relative_path": "2817.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2817.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1533,
+    "mtime": 1782796526.9381416,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "af1fcb8d5bd4e4275c7ccbc259985724586e6bc6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

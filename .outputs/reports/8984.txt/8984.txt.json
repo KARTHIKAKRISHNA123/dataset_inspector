@@ -1,0 +1,94 @@
+{
+  "dataset": "8984.txt",
+  "file_name": "8984.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुम्बिनि कपिलवस्तु दिवस अभियान ",
+    "यो अभियान शान्तिका प्रतिमूर्ति गौतम बुद्धको जन्मस्थल बारेको विश्वव्यापी भ्रमलाई चिर्दै बुद्ध नेपालमा जन्मेका हुन् भन्ने सही जानकारी दिन संगठित एउटा विश्वव्यापी अभियान हो । यो अभियान संसारभर हरेक वर्ष 1 डिसेम्बरमा मनाइन्छ । त्यो दिन त्यो दिन हो जहिले जर्मन पुरातत्वबिद अन्टोन फुहरर  ले कपिलवस्तुमा 1896 मा पत्ता लागेको अशोक स्तम्भको ब्रह्मिलिपिमा गौतम बुद्ध लुम्बिनीमा जन्मेका हुन भन्ने सम्प्रेषित प्रमाणिक अंशलाई अन्तरराष्ट्रिय जगतसामू अर्थ्याएका थिए । त्यसै राष्ट्रिय सुयोगको दिनलाई देशविदेशका नेपाल"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 1060,
+    "text_length_avg": 377.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9805,
+      "Latin": 0.0195
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5892,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9805,
+      "Latin": 0.0195
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8984.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8984.txt",
+    "relative_path": "8984.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8984.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5892,
+    "mtime": 1782796601.9524798,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1a705fba77ba3b4d601b6c25f9c1b5ef05bf0d03",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

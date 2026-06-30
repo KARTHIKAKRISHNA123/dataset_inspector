@@ -1,0 +1,92 @@
+{
+  "dataset": "14754.txt",
+  "file_name": "14754.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेटको खेलमा जब एक इनिङमा एक वा कयौँ ब्याट्सम्यानले 100 अथवा त्यसभन्दा बढी रन बनाउन सक्छ भने त्यसलाई शतक भनिन्छ । यो शब्द \"शतकीय साझेदारी\" को रूपमा पनि काममा ल्याउने गरिन्छ जब दुई ब्याट्सम्यान सँग-सँगै ब्याटिङ गर्दै टिमको जम्मा स्कोरमा 100 रनको स्कोर थप्ने गर्छन । एउटा शतक एउटा ब्याट्सम्यानको लागि ठुलो उपलब्धि मानिने गरिन्छ र एउटा खेलाडीको शतक सामान्यतया क्रिकेट तथ्याङ्कहरूमा रेकर्ड गर्ने गरिन्छ । शतक बनाउनु र बलरद्वारा 5 विकेट एक इनिङमा लिनु लगभग उस्ता उस्तै मानिन्छ । ब्याट्सम्यानद्वारा बनाइ",
+    "त्यसैअनुसार, 50 रन एक इनिङमा बनाउनुलाई अर्ध शतक' भन्ने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 545,
+    "text_length_avg": 304.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1599,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14754.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14754.txt",
+    "relative_path": "14754.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14754.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1599,
+    "mtime": 1782796464.4974532,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3fda8ff339317eb1d7ba3cdc80b9f18ed6b609f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

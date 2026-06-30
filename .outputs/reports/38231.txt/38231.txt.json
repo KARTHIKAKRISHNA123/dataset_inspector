@@ -1,0 +1,92 @@
+{
+  "dataset": "38231.txt",
+  "file_name": "38231.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चित्तरञ्जन नेपाली इतिहासकार हुन्। सामाजिक शास्त्र विषयमा जनरल भीमसेन थापा र तत्कालीन नेपाल नामक ग्रन्थका लागि उनले वि.सं. 2013 सालमा मदन पुरस्कार पाएका हुन्।",
+    "चित्तरञ्जनको जन्म वि.सं. 1988 साल श्रावण 10 गते शनिवारका दिन बाबु मेदिनीप्रसाद राजभण्डारी र आमा कालीनानीका सुपुत्रका रूपमा न्हैकन्तला टोल, काठमाडौंमा भएको हो। उनको खास नाउँ नारायणप्रसाद राजभण्डारी हो। नेपाली, इतिहास, संस्कृति, पुरातत्वमा एम्.ए. गरेका उनले लामो समय सरकारी सेवामा बिताए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 120,
+    "text_length_max": 285,
+    "text_length_avg": 174.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1820,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38231.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38231.txt",
+    "relative_path": "38231.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38231.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1820,
+    "mtime": 1782796574.311547,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d78fea9d8b404fe8b1b925684562ae56314fbe71",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

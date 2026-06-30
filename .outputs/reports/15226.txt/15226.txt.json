@@ -1,0 +1,91 @@
+{
+  "dataset": "15226.txt",
+  "file_name": "15226.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो फोर्ब्सद्वारा धन र सम्पत्तिको वास्तविक-समय मूल्याङ्कनमा आधारित संसारका सबैभन्दा धनी व्यक्तिहरूको सूची हो। यस सूची $40 बिलियन अमेरिकी डलर भन्दा बढी कुल सम्पत्ति भएका व्यक्तिहरूमा सीमित छ। संसारका सबैभन्दा धनी व्यक्ति अमेजनका संस्थापक जेफ बेजोस हुन् जसको कुल सम्पत्ति $136.1 बिलियन अमेरिकी डलरको रहेको छ। विश्वको सबैभन्दा धनी महिला लोरियालकी फ्रान्कोइस बेटेनकर्ट मेयर्स हुन् जसको कुल सम्पति $44.9 बिलियन डलर रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 417,
+    "text_length_max": 417,
+    "text_length_avg": 417.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1098,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15226.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15226.txt",
+    "relative_path": "15226.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15226.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1098,
+    "mtime": 1782796466.5454388,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7e73b2b6624c97496d29d47302dce7ee9567edb6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

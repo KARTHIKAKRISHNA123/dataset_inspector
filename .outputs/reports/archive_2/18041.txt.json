@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18041.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाह्रगाउँ मुक्तिक्षेत्र गाउँपालिका मुस्ताङ जिल्लामा अवस्थित छ । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा मुस्ताङ जिल्लामा साविकका मुक्तिनाथ, झोङ, छुसाङ र कागवेनी गाउँ विकास समितिहरूलाई समेटेर बाह्रगाउँ मुक्तिक्षेत्र गाउँपालिका घोषणा गरिएको हो । बाह्रगाउँ मुक्तिक्षेत्र गाउँपालिकाको क्षेत्रफल 886 वर्गकिलोमिटर रहेको छ । यो गाउँपालिका 5 वडाहरूमा विभाजन गरिएको छ । यस गाउँपालिकको कूल जनसङ्ख्या 2,330 रहेको छ । यस गाउँपालिकाको सिमाना पूर्वमा दालोमे गाउँपालिका",
+    "मुक्तिनाथ"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 633,
+    "text_length_avg": 73.5,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1973,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18041.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18041.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18041.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1973,
+    "mtime": 1782796622.5176585,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2a490a7aff3f41b09f178ebc23697711d11b70e0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

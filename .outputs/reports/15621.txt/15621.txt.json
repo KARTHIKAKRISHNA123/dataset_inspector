@@ -1,0 +1,92 @@
+{
+  "dataset": "15621.txt",
+  "file_name": "15621.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झापा स्पोर्ट्स अवार्ड 2074 झापा स्पोर्ट्स अवार्ड अन्तर्गतको दोस्रो पुरस्कार वितरण कार्यक्रम संस्करण हो। यस झापा स्पोर्ट्स अवार्डको वितरण 2075 माघ 27 गते विर्तामोडमा भएको थियो। जस अन्तर्गत नेपाली राष्ट्रिय फुटबल टोलीका फरवार्ड नवयुग श्रेष्ठ र जुडोकी देविका खड्का झापा स्पोर्टस् अवार्ड 2074 बर्षका उत्कृष्ट पुरुष तथा महिला खेलाडी घोषित भएका थिए।",
+    "उत्कृष्ट युवा, प्रशिक्षक र पिपुल्स च्वाइज प्लेयर सबैले विजेताले समान 25 हजार प्राप्त गरेका थिए। पुरस्कार राशी अखिल नेपाल फुटबल संघ का उपाध्यक्ष पंकजविक्रम नेम्बाङले प्रदान गरेका थिए । उत्कृष्ट पुरुष र महिला खेलाडीलाई मोटरसाइकल र स्कुटी झापा 11 एफसीका अध्यक्ष जलकुमार गुरुङले प्रायोजन गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 343,
+    "text_length_avg": 201.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2698,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15621.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15621.txt",
+    "relative_path": "15621.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15621.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2698,
+    "mtime": 1782796468.4541452,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "48730091d9a6885cb27fb754199dc42a1ff11a7e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

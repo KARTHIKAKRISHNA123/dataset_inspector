@@ -1,0 +1,93 @@
+{
+  "dataset": "2220.txt",
+  "file_name": "2220.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अखिल नेपाल राष्ट्रिय विद्यार्थी युनियन नेपालको एक बिद्यार्थी सङ्गठन हो । यसको स्थापना 2022 जेठ महिनामा भएको थियो । अखिल नेपाल राष्ट्रिय स्वतन्त्र विद्यार्थी युनियन र छोटकरी रुप अ.ने.रा.स्व.वि.यू. को नाममा स्थापना भएको सङ्गठनको मुलधार नै अहिलेको अखिल नेपाल राष्ट्रिय स्वतन्त्र विद्यार्थी युनियन वा अनेरास्ववियु वा अखिल हो ।हाल यो सङ्गठन ने.क.पा.माओवादी केन्द्र पार्टीको भातृ सङ्गठनको रूपमा रहेको छ । निनु चापागाईं, लिलामणि पोखरेल, गिरिराजमणि पोखरेल, टोप बहादुर रायमाझि, देव गुरुङ्ग, हितमान शाक्य, कृष्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 621,
+    "text_length_max": 621,
+    "text_length_avg": 621.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Latin": 0.002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1630,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Latin": 0.002
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2220.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2220.txt",
+    "relative_path": "2220.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2220.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1630,
+    "mtime": 1782796499.7375531,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "853e7f53b827dcf440fdf42285ef9bb359b8127f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

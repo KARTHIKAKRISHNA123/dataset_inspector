@@ -1,0 +1,91 @@
+{
+  "dataset": "25809.txt",
+  "file_name": "25809.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परिक्षित एक कुरुवंशी राजा तथा महाभारतका अंतिम पात्र थिए । उनी धनुर्धर अर्जुनका नाती उत्तरा अभिमन्युका छोरा थिए ।महाभारतको कथा अनुसार गुरु द्रोणाचार्यको छोरो अश्वत्थामाले परिक्षितलाई कुरुवंशै नष्ट होस भन्ने अवधारणाले गर्भमै ब्रह्म अस्त्र चलाएका थिए तर श्रीकृष्ण सुक्ष्मरूप धारण गरि गर्भ मै प्रवेश गरि परिक्षितलाई चारै तर्फबाट रक्षा गरेको हुनाले उनलाई परिक्षित भनिएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 370,
+    "text_length_max": 370,
+    "text_length_avg": 370.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1001,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25809.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25809.txt",
+    "relative_path": "25809.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25809.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1001,
+    "mtime": 1782796516.1328075,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fdd40d02a642818110d77d81c168084ffe9f3536",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

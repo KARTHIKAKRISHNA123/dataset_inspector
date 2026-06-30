@@ -1,0 +1,91 @@
+{
+  "dataset": "35307.txt",
+  "file_name": "35307.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लाङ्टाङ राष्ट्रिय निकुञ्ज नेपालको मध्यमाञ्चल विकास क्षेत्रको नुवाकोट, सिन्धुपाल्चोक र रसुवा जिल्ला मा पर्ने राष्ट्रिय निकुञ्ज हो । यस निकुञ्जको स्थापना विसं 2032मा भएको थियो। यो राष्ट्रिय निकुञ्ज राजधानी   काठमाडौंबाट नजीकमा पर्ने दोश्रो राष्ट्रिय निकुञ्ज हो। प्रसिद्ध धार्मिक कुण्ड गोसाइँकुण्ड पनि यसै लाङ्टाङ राष्ट्रिय निकुञ्जमा पर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 338,
+    "text_length_avg": 338.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 909,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35307.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35307.txt",
+    "relative_path": "35307.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35307.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 909,
+    "mtime": 1782796560.0406678,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "87a3db62d904bce30a6ac947a3bfb091a3fec07f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

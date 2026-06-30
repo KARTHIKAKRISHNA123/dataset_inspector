@@ -1,0 +1,92 @@
+{
+  "dataset": "32364.txt",
+  "file_name": "32364.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सानो सेतोबकुल्ला नेपालमा पाइने बकुल्ला प्रजातिको एक सानो सदस्य हो।",
+    "यो प्रजातिको चरा सेतो हुन्छ भने यसको ठुँड तीखो र कालो हुन्छ। यस पङ्क्षीको कालो खुट्टा र पहेँलो अौँलाहरू हुन्छन्। यो पङ्क्षी विशेषगरि सफा पानीमा बसोबास गर्छ भने यसले पानीमा पाइने प्रजातिहरू खाने गर्छ। यस पङ्क्षीले बकुल्ला प्रजातिको अन्य पङ्क्षीहरूको क्षेत्रमा विषेशगरि प्रजनन गर्ने गर्छ। यस रुखका पात र मरेका झारहरूले अग्लो रुखमा टुप्पोमा गुण बनाउने गर्दछ। यस पङ्क्षीले फितलो निलो र हल्का हरियो अण्डा पार्ने गर्छ। यस पङ्क्षीले आफ्नो चल्लालाई 6 हप्ता सम्म हुर्काउने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 807,
+    "text_length_avg": 317.06,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14421,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32364.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32364.txt",
+    "relative_path": "32364.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32364.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14421,
+    "mtime": 1782796546.7503355,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e44afedb4459ed3fab27bfcd6e812e722422fb5d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

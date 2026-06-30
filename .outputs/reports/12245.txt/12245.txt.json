@@ -1,0 +1,92 @@
+{
+  "dataset": "12245.txt",
+  "file_name": "12245.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोही एक पानी र जमीन दुबै ठाउँमा बस्न सक्ने सरीसृप समुहको जीव हो । यसलाई प्राचिन डाइनोसर जीवको प्रजाती मानिएको छ । गोहीको दाँतहरू उल्टो फर्केका कारण यसले कुनै पनि जीवलाई दाँतले समाती सकेमा छोड्ने सम्भावना कम नै हुन्छ । त्यसैले यसलाई सबै भन्दा खतरनाक जनावरको रूपमा लिन सकिन्छ । गोहीलाई कुनै कुनै ठाउँमा ग्राहक, मगर मच्छ, नाका, घडियाल इत्यादी फरक फरक नामले पनि चिनिन्छ । ",
+    "पहिले गोही दक्षिण एसियाका पाकिस्तान, भुटान र बङ्गलादेशमा पनि पाइन्थे । तर, अहिले त्यहाँबाट लोप भइसकेका छन् । हाल विश्वमा नेपाल र भारतमा मात्रै गोही उपलब्ध छन् । खास गरेर नेपालको कोशी नदी, कर्णाली नदी, नारायणी नदीमा गोहीहरू देख्न सकिन्छ भने भारतका धेरै नदीहरूमा गोही देख्न सकिन्छ । गोहीहरू धेरै प्रजातीको हुन्छन् ।गोही प्रकृतिकै अति संवेदनशील प्राणीमा पर्छ । यो प्राकृतिक परविर्तन अनुसार अनुकूल बन्न जान्दैन । त्यसैले मानवीय चाप र प्रदूषणले सजिलै मर्ने गरेको छ । गोहीले पानीभित्रको इकोसिस्टमलाई सन्तुल"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 368,
+    "text_length_max": 614,
+    "text_length_avg": 491.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2596,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12245.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12245.txt",
+    "relative_path": "12245.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12245.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2596,
+    "mtime": 1782796453.1086113,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dfa075ebfb510f977e19c74e3d85a54865216a04",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

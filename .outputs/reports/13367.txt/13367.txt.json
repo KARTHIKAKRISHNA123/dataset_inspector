@@ -1,0 +1,92 @@
+{
+  "dataset": "13367.txt",
+  "file_name": "13367.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आयोवा संयुक्त राज्य अमेरिकाको एक राज्य हो। यो संयुक्त राज्य अमेरिकाको मध्यपश्चिममा अबस्थित छ, जो की अक्सर अमरिकाको मुटु पनि भनिन्छ। यसको नाम लोवे जातिका मानिसहरूको कारण भयो जो की अमेरिकन इण्डियन जनजाति, जो की यस हिस्सामा एउरोपी शाशनको समयदेखी बस्ने गर्दथेमा आधारित छ। यो राज्य फ्रेंच शाशनको समय त्यसको हिस्सा पनि रह्यो। पछी जब यसलाई लोइसिआनाले किने तब यहा बस्नेहरूले खेतीपाति वाली अर्थव्यवस्थाको साथ यसको आधारशिला राखे। आयोवालाई प्रयजसो विश्वमा खाद्य सामग्रीको राजधानी पनि भनिन्छ, तर यह ध्यान राख्नु ",
+    "मध्य 20 औं शताब्दीमा आयोवाको कृषि आधारित आर्थव्यवस्थामा परिवर्तन आयो र यो उत्पाद निर्माण, प्रसंस्करण, वित्तीय सेवाहरू, जैव प्रविधि, हरीयो ऊर्जा आधारित आर्थव्यवस्थामा सुधार भयो। आयोवा बस्ने हिसाबबाट पुरै देशमा सबभन्दा सुरक्षित राज्य मानिन्छ। देस मोइनेस राज्यको सबभन्दा ठुलो सहर पनि हो र यसको राजधानी पनि।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 303,
+    "text_length_max": 565,
+    "text_length_avg": 434.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2316,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13367.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13367.txt",
+    "relative_path": "13367.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13367.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2316,
+    "mtime": 1782796458.2671168,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "749857ea5bb3f98d7e20524b792b0a690845c0b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

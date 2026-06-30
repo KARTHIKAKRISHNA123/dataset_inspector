@@ -1,0 +1,92 @@
+{
+  "dataset": "9063.txt",
+  "file_name": "9063.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुढा सुब्बा मन्दिर वा बुढा सुब्बा नेपालको पूर्वमा अवस्थित सुनसरी जिल्लाको धरान उपमहानगरपालिकाको बिजयपुरमा रहेको छ । विशेष गरी शनिवारका दिन कुखुरा, सुँगुर आदि बली दिएर पूजा अर्चना गर्ने देश विदेशका भक्तजनहरूको घुईंचो लाग्ने गर्दछ । यो मन्दिरको थप विशेषता भनेको टुप्पो नभएको बाँसहरूको बीचमा रहनु पनि हो । ",
+    "धरान बिजयपुरको बूढासुब्बा स्थान किराँती धर्मावलम्बीहरूका लागि महत्वपूर्ण मन्दिर मानिन्छ । बूढासुब्बा मन्दिरभित्र दुईवटा माटाका ढिस्का उठाइएका छन् जसलाई बूढासुब्बा र बूढी सुब्वेनीका रूपमा पूजा आजा गर्ने चलन छ । दन्तकाली देखि केही पूर्व सेउती खोलाको डिलमाथि रहेको उक्त स्थानमा टुप्पा नभएका बाँसहरू पाइन्छन् जसलाई बूढासुब्बाले गुलेली र मट्याङ्ग्राले हानेर टुप्पा भाचिदिएको भन्ने मान्यता राखिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 394,
+    "text_length_avg": 237.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4475,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9063.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9063.txt",
+    "relative_path": "9063.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9063.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4475,
+    "mtime": 1782796602.3861125,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b3403c1d4e04385a7127223e45a0691e31497e60",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

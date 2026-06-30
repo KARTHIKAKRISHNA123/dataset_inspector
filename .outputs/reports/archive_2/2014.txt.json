@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2014.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केवल एम.एफ उपनामले चित्रकला जगतमा प्रसिद्द, यदा कदा भारतीय पिकाशो पनि भनिने प्रसिद्द् अत्याधुनिक चित्रकार तथा वहुमुखि प्रतिभा संपन्न कलाकार । पंढरपुर महाराष्ट्रमा सेप्टेम्बर 1915मा जन्मिएका एम.एफ हुसैनको बुधबार,9 जुन 2011मा लण्डनमा निधन भएको थियो ।",
+    "उनी भारतीय चित्रकलामा अन्तरराष्ट्रिय ख्याती कमाएका पहिलो चित्रकार हुन् । हुसेन चर्चित हुँदा हुँदै पनि विवादस्पद समेत थिए । उनले विभिन्न हिन्दू देवीदेवताको आपत्तिजनक चित्र बनाएपछि भारतमा बिरोध भएको थियो । सन् 2006 देखि उनी स्वनिर्वासनमा थिए । गत वर्ष उनले भारतीय नागरिकता त्यागेर कतारी नागरिकता लिएका थिए । उनका चित्रहरू करोड भन्दा बढी मुल्यमा बिक्री भएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 203,
+    "text_length_max": 742,
+    "text_length_avg": 450.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10771,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2014.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2014.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2014.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10771,
+    "mtime": 1782796626.7323065,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "fe2f849830ff447fc18ade6db496f609b0a1652a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

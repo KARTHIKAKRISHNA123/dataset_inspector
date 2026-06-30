@@ -1,0 +1,91 @@
+{
+  "dataset": "32303.txt",
+  "file_name": "32303.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमृत साइन्स क्याम्पस नेपालको पहिलो विज्ञान क्याम्पस हो। यो काठमाडौंको लैनचौरमा रेहेको छ। यसको स्थापना अमृत प्रसाद प्रधानले पब्लिक साइन्स कलेजको नाममा गरेका थिए। पछि प्रधानको हवाइ दुर्घटनामा निधन भएपछि उनकै नाममा विक्रम सम्बत 2023 साल फागुनमा यो क्याम्पसको नाम अमृत साइन्स कलेज राखियो। विक्रम संवत 2030 साल देखि नेपाल सरकारको स्वामित्वमा आएपछि त्रिभुवन विश्वविद्यालयमा गाभियो र अमृत क्याम्पसमा परिणत भयो हाल यस क्याम्पसमा निम्न बिषय सञ्चालनमा छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 446,
+    "text_length_max": 446,
+    "text_length_avg": 446.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1189,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32303.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32303.txt",
+    "relative_path": "32303.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32303.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1189,
+    "mtime": 1782796546.4878929,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a0db066616f86510b293294f12199845000dcad5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

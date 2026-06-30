@@ -1,0 +1,104 @@
+{
+  "dataset": "hi_ba (2).json",
+  "file_name": "hi_ba (2).json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "sourceText",
+    "targetText"
+  ],
+  "preview": [
+    "ওয়েলশ অ্যাসেম্বলি সদস্যর নিজেদেরা ‘মাপেটের মত’ লাগা নিয়ে চিন্তিত'",
+    "বেশ কয়েকজন অ্যাসেম্বলি সদস্যদের মাঝে তাদের পদবী MWP (মেম্বার অব দ্যা ওয়েলশ পার্লামেন্ট) এ পরিবর্তন করা নিয়ে আতঙ্ক কাজ করছে।"
+  ],
+  "statistics": {
+    "records_sampled": 1997,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 402,
+    "text_length_avg": 134.54,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6934,
+      "Bengali": 0.3018,
+      "Latin": 0.0047
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1452271,
+    "estimated_records": 10794
+  },
+  "schema": {
+    "columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "estimated_records": 10794,
+    "raw_schema": {
+      "sourceText": "str",
+      "targetText": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Bengali",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6336,
+      "Bengali": 0.3565,
+      "Latin": 0.01
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "hi_ba (2).json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\hi_ba (2).json",
+    "relative_path": "hi_ba (2).json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "hi_ba (2).json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 1452271,
+    "mtime": 1782728793.748515,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a557a209ee78cebd2c3ef1c3769973c2246f8d7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

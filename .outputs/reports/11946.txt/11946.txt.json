@@ -1,0 +1,92 @@
+{
+  "dataset": "11946.txt",
+  "file_name": "11946.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पायल्स सामान्यतया पायल्स रोग त्यस्तो रोग हो जुन मलद्धारसँग सम्बन्धित छ । मानिसहरुको भिन्न जीवनशैली र खानपानले गर्दा थुप्रैलाई आजकाल धेरै प्रकारको रोग लाग्ने गर्दछ। यसमध्ये पायल्स रोग धेरै मानिसहरुको समस्या भएको छ। लोकलाजका कारण धेरै मानिसहरुले पायल्स रोगको बारेमा खुलेर परिवारसँग कुरा गर्दैनन् । अझ कतिलाई त पायल्स रोग के हो भन्ने नै थाहा हुँदैन । यसको लक्षण भनेको दिसा गर्दा रगत आउने, मलद्वारमा मासु पलाउने, दुख्ने, सुन्निने र चिलाउने गर्दछ। पायल्स रोगीमध्ये कसैको पीप बग्छ, अंगुरको झुप्पोजस्तो पलाए",
+    "पायल्स हुनुको मुख्य कारण जीवनशैली र खानपान हो। पानी कम खाने, हरियो सागपात नखाने, शारिरिक व्यायाम कम गर्ने, धेरै व्रत बस्ने, बढि चिया पिउने, माछामासु तथा सुख्खा खानेकुरा जस्तै चाउचाउ, बिस्कुट, चाउमिन बढि खाने, अनियमित खानपान, अनिन्द्रा, धेरै तनाव लिने, रक्सी, चुरोट, सूर्तीको अत्यधिक प्रयोग कलेजोको खराबी, तथा भुटेतारेका कुरा बढी खाने गर्नाले पायल्स तथा दिसाबाट रगत आउने, मासु पलाउनेजस्ता समस्या बढी हुन्छ। दिसा कब्जियत, वा दिसा थोरै आउनु, गोटा पर्नु, नियमित दिसा नहुनु, दिसा तथा पाद रोक्नु, दिसा पिसा"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 318,
+    "text_length_max": 691,
+    "text_length_avg": 534.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8474,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11946.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11946.txt",
+    "relative_path": "11946.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11946.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8474,
+    "mtime": 1782796451.7316682,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1e7e2fb0996430b63bbd436f886021181e3d0559",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

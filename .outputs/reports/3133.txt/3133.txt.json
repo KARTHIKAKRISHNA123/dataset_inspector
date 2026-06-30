@@ -1,0 +1,92 @@
+{
+  "dataset": "3133.txt",
+  "file_name": "3133.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिद्धान्त लोहनी, नेपालको राष्ट्रिय क्रिकेट टिमबाट खेल्ने खेलाडी हुन्। लोहनी दाहिने हाते बल्लेबाज र लेग ब्रेक हुन्। यिनले कम समयमा नै क्रिकेट प्रेमि तथा अन्तराष्ट्रिय क्रिकेट जगतको मन जितिसकेका छन्। 2015 विश्व ट्वान्टी ट्वान्टि छनोट प्रतियोगिताको नेपालको समुह चरणको अन्तिम खेलमा जर्सि बिरुद्ध राष्ट्रिय टोलीबाट डेब्यु गरेका उनले भारतिय कप्तान महेन्द्र सिंह धोनीको स्टाईलमा रहेको हेलिकप्टर सट हानेर बिश्व जगतको ध्यान केन्द्रित गराएका हुन्। नेपाल उक्त प्रतियोगिताबाट बाहिरीय पनि लोहनीको हेलिकप्टर सट धेर",
+    "उनले नेशनल लीग को क्षेत्र नंबर 1 बिराटनगर, नेपाल प्रीमियर लीग र मेरिल्याण्ड कॉलेज, स्पा कप मा खेले र कलर्स एक्स फ्याक्टर्स को प्रतिनिधित्व गरे।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 600,
+    "text_length_avg": 334.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2640,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3133.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3133.txt",
+    "relative_path": "3133.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3133.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2640,
+    "mtime": 1782796541.9305153,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "78b49c7ec383d05925a576f2d39f37cfb9486614",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

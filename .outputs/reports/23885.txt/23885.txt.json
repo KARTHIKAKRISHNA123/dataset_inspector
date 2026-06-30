@@ -1,0 +1,93 @@
+{
+  "dataset": "23885.txt",
+  "file_name": "23885.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फर्नान्डो जोसे टोरेस स्यान्ज, उपनाम El Niño, एक स्पेनिस फुटबल खेलाडी हुन। उनी स्पेनको राष्ट्रिय फुटबल टीम तथा जपानीज क्लब सागन तोसुबाट अग्रपंक्तिमा खेल्ने गर्दछन । फरनान्डो टोरेस स्पेन मुलका फुटबल खेलाडि हुन । उनको जन्म 20 मार्च 1984 मा भएको हो । उनको एटलेटिको म्याड्रिड वाट खेल जिवनको प्रराम्भ गरेका हुन । उनले 2001 देखि ब्याबसाइक फुटबल खेल्न थालेका हुन । यिनले प्रीमियर लिगमा 2007 देखि लिभरपुलबाट खेल्न थालेका हुन। यिनले एफए कप र युइएफए च्याम्पियन्स लिग जितेका छन । उनले 5 वर्षको उमेरमा नै फुटबल क्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 576,
+    "text_length_max": 576,
+    "text_length_avg": 576.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9869,
+      "Latin": 0.0131
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1485,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9869,
+      "Latin": 0.0131
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23885.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23885.txt",
+    "relative_path": "23885.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23885.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1485,
+    "mtime": 1782796507.239736,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "02a43650226b70ff1debc75e0c38dff6e7a404b7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

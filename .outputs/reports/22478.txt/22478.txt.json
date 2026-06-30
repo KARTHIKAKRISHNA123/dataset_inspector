@@ -1,0 +1,94 @@
+{
+  "dataset": "22478.txt",
+  "file_name": "22478.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शेर्पा जाति नेपालका उच्च हिमाली क्षेत्र र तिब्बतमा बासोबास गर्ने जातिगत समूह हुन्। शेर्पा भाषामा \"शरपा\" अथवा \"शरवा\" को मतलब पूर्वी निवासी भनेको हो जुन शब्द सम्भोट लिपिमा लेखिएका शेर्पा इतिहास हरूमा भएपनि देवनागरी र अंग्रेजी लिपिमा शेर्पा भनेर लेख्ने गरिएको छ। शेर्पाहरू पूर्वी तिब्बतबाट 18 देखि19 शताब्दीको बीचमा आफ्नो ठाउँ छाडी नेपालको पूर्वी क्षेत्र सोलुखुम्बु जिल्लामा बसाईँ सरेर आएको भन्ने कुरो शेर्पाहरूको इतिहास र संस्कृति नामक पुस्तकमा उल्लिखित छ। धेरैजस्तो शेर्पाहरू नेपालको पूर्वी भागमा बस्छ",
+    "शेर्पाको इतिहास अनुसार सन् 1800 तिरा तिब्बतको पूर्वी क्षेत्र खाम सलमोगङ बाट ठाउँ छाडी खुम्बु क्षेत्रमा पुगेको र त्यसको 23 साल पछि सोलुमा झरेको भनि उल्लेख गरेको छ। त्यसपछि सोलु र खुम्बुबाट बिस्तारै नेपालको विभिन्न भू-भागमा वसोवास गर्दै आएको तथ्यहरू प्रमाणित रहेका पाईन्छ। विशेष गरि हिमाली क्षेत्रलाई आफ्नो बसोबास थलोको रूपमा मनपराई हिमाली भू-भागमा बसोबास गरेका शेर्पा जातिहरू चिन र तिब्बत सँग जोडिएको भू-भागमा बसोबास गरेकोहुदाँ शेर्पा जातिलाई अन्य जातिका मानिसहरूले तिब्बती वा भोटबासी भन्ने प्रचलन पनि"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 970,
+    "text_length_avg": 344.55,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9942,
+      "Latin": 0.0058
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 30416,
+    "estimated_records": 88
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 88,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9836,
+      "Latin": 0.0164
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22478.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22478.txt",
+    "relative_path": "22478.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22478.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 30416,
+    "mtime": 1782796500.9670868,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0eceb0675fcd869c1496de2fa149ba634c9375b9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

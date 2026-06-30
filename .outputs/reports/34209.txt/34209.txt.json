@@ -1,0 +1,92 @@
+{
+  "dataset": "34209.txt",
+  "file_name": "34209.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. रामवरण यादव नेपालको प्रथम तथा भूतपूर्व राष्ट्रपति हुन। उनी 2065 साउनमा निर्वाचित भएका नेपालका प्रथम राष्ट्रपति हुन । उनले यस अघि स्वास्थ्य मन्त्रीको रूपमा र नेपाली काँग्रेस पार्टीको महासचिवको रूपमा सेवा गरे । ",
+    "यादव बिसं 2047 देखि 2050 सम्म नेपाली कांग्रेसको सरकारमा स्वास्थ्य राज्यमन्त्री थिए । उनी बिसं 2056मा निर्वाचनमा नेपाली कांग्रेसको उम्मेद्वारको रूपमा प्रतिनिधि सभाको लागि निर्वाचित भएका थिए। उक्त निर्वाचन पछि उनी स्वास्थ्यमन्त्री भए । बि.सं. 2064 बैशाखमा, यादवको जनकपुर स्थित निवासमा जनतान्त्रिक तराई मुक्ति मोर्चाका लडाकुहरूले आक्रमण गरे। उनीहरूले घरमा कब्जा गरेको एउटा सूचना दिए, यसमा आफ्नो झन्डा फहराए र एउटा बम राखे । बिसं 2064 चैत्रको संविधान सभा निर्वाचनमा यादवले धनुषा 5 संसदीय क्षेत्रमा प्रतिस"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 213,
+    "text_length_max": 1167,
+    "text_length_avg": 617.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8067,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34209.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34209.txt",
+    "relative_path": "34209.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34209.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8067,
+    "mtime": 1782796555.1445582,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "e1d007572c80a0b81523f3d676609d738d7ee7fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

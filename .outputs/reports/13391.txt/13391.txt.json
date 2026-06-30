@@ -1,0 +1,92 @@
+{
+  "dataset": "13391.txt",
+  "file_name": "13391.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिक्षा स्वतन्त्रता दिवस शिक्षामा प्रयोग हुने स्वतन्त्र तथा खुला सफ्टवयर र खुला शैक्षिक स्रोत सामग्रीको विश्वव्यापी उत्सव हो । 2013 मा मनाउने निर्णय गरिएको 2014 मा पहिलो पटक मनाउन लागिएको हो । यो दिवस जनवरी महिनाको तेस्रो शनिवार मनाइन्छ । यो दिवसको उध्यश्य विश्वका सम्पुर्ण जनमानसलाई र शैक्षिक व्यक्तित्वलाई खुला ज्ञान को फाइदा र यो उध्यश्यको लागि पहिले नै वनेेका सफ्टवयरको प्रोहत्साहन गर्नु हो । नाफा रहित सस्था 'डिजिटल फ्रिडम फाउनडेसन'ले विश्व स्तरमा शिक्षा स्वतन्त्रता दिवस संयोजन गर्दछ,सहयता दिन्छ",
+    "यो अभियानको कल्पना भनेको सबै मनिसलाई डिजिटल संसारमा स्वतन्त्र रुपले जोड्ने, वनाउने र साझेदारी गर्ने जुन सहभागिमुलक, पारदर्शी र दिगो हुन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 140,
+    "text_length_max": 623,
+    "text_length_avg": 324.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2566,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13391.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13391.txt",
+    "relative_path": "13391.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13391.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2566,
+    "mtime": 1782796458.3711584,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1eb2df387f67b679a023c49c2f1237121c0a92a4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

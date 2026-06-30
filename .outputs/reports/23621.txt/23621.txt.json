@@ -1,0 +1,92 @@
+{
+  "dataset": "23621.txt",
+  "file_name": "23621.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नामिबिया यू-17 राष्ट्रिय फुटबल टिम अन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा नामिबिया प्रतिनिधित्व गर्ने 17 बर्ष मुनिका खेलाडी हरुको पुरुष फुटबल टिम हो । यो नामिबिया फुटबलको लागि शासकीय निकाय नामिबिया फुटबल संघको नियन्त्रणमा रहेकोे छ । यो फिफा द्वरा मान्यता प्रप्त र सिएएफको सदस्य राष्ट्र हो ।",
+    "*बराबर भएको खेलको पेनाल्टी किकबाट बिजेता छनोट गरियको."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 290,
+    "text_length_avg": 171.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 915,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23621.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23621.txt",
+    "relative_path": "23621.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23621.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 915,
+    "mtime": 1782796506.0389447,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "67c3a11021028cc9d781569f903d1a5bfc8a786d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

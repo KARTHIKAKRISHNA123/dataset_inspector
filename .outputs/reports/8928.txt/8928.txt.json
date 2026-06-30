@@ -1,0 +1,94 @@
+{
+  "dataset": "8928.txt",
+  "file_name": "8928.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैशाख 16 ः एकैपटक 10 वटा भूउपग्रह प्रक्षेपण गरेर भारतद्वारा नयाँ विश्वकीर्तिमान कायम ।",
+    "वैशाख 21 ः म्यान्मामा नर्गिस नामक समुद्री आँधीबाट एक लाख 33 हजार मानिसको मृत्यु ।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 234,
+    "text_length_avg": 126.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9721,
+    "estimated_records": 76
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 76,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8928.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8928.txt",
+    "relative_path": "8928.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8928.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9721,
+    "mtime": 1782796601.6807559,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c2ed9d7ab66eb8b854b7b9ee89ec04bab40012e7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

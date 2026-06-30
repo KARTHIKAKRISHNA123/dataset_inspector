@@ -1,0 +1,93 @@
+{
+  "dataset": "10767.txt",
+  "file_name": "10767.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुढ्यौली लाई नेपालीमा प्रौढता, वृद्धत्व वा जरावस्था भनिन्छ । बुढ्यौलीले बूढोहुने अवस्था वा बृद्ध उमेरमा प्रवेश गर्ने अवस्थालाई जनाउछ। बुढ्यौली मानव जीवनचक्र अन्तिम अबस्था हो। यो प्रकृतिप्रदत्त नियम हो। शारीरिक कमजोरी हुने मान्छेले पहिलेको जस्तो फूर्तिका साथ हिँड्न, समाउन, सुन्न र देख्न पनि सक्दैन। यसै लाई बुढ्यौली लागेको भनिन्छ।",
+    "कुनै जीव अथवा पदार्थमा समयसँग जम्मा हुने परिवर्तनहरू लाई वृद्धावस्था या उमेरको बृद्धि भन्छन्.प्रौढता सम्बन्धी निम्नलिखित मतहरु छन् "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 2685,
+    "text_length_avg": 681.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34366,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10767.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10767.txt",
+    "relative_path": "10767.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10767.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34366,
+    "mtime": 1782796446.286542,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "76ff4a3869633e68141dde4cfc047cf8508f11cb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

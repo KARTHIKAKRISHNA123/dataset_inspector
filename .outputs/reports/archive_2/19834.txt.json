@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19834.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोहिणी एक भारतीय गीतकार, पटकथा लेखक, आवाज अभिनेत्री र निर्देशक हुन् । उनी मुख्य रूपमा तेलुगु चलचित्रमा कार्य गर्ने गर्छिन्।.उनीलाई 1996मा स्त्री चलचित्रको लागि सबैभन्दा राम्रो महिला अभिनेत्रीको लागि आंध्रप्रदेश नेशनल अवार्ड प्राप्त भएको थियो ।",
+    "रोहिणीले आफ्नु बाल्यकाल अनकपल्ली ,आंध्रप्रदेशमा बिताएकी थिइन् । उनको पिता पंचायतको कार्यकारी थिए र माता गृहणी थिइन् । उनका पिता सदैव यो भन्थे कि रोहिणी एक अभिनेत्री बन्छे । रोहिणीले सन 1996मा तेलुगुचलचित्रको अभिनेता रघुवरनसँग विवाह गरिन् । यस पछाडी उनको घरमा 1998मा उनको छोरो ऋषि वरनले जन्म लियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 243,
+    "text_length_max": 296,
+    "text_length_avg": 269.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1421,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19834.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19834.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19834.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1421,
+    "mtime": 1782796626.0926502,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "6984c20a80264bfa533a106b160d717e2be24a1b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

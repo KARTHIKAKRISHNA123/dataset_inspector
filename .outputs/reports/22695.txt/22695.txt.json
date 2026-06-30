@@ -1,0 +1,94 @@
+{
+  "dataset": "22695.txt",
+  "file_name": "22695.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पेट्रोल निर्यातक राष्ट्रहरुको संघ ओपेक 15 राष्ट्रहरुको अन्तर सरकारी संगठन हो. यसको स्थापना पाँच संस्थापक सदस्य राष्ट्रहरु द्वारा 1960 मा इराकको बग्दादमा भएको थियो र 1965 देखि यसको मुख्यालय भियना, अस्ट्रियामा छ । सेप्टेम्बर 2018 को एक प्रतिवेदन अनुसार विश्वको तेल उत्पादनको 44 प्रतिशत र 81.5 प्रतिशत प्रमाणित तेल खानी भएकाले विश्वको तेल बजारको मुल्यमा ओपेकको ठुलो प्रभाव रहेको छ जुन पहिला 'सात बहिनी' भनिएर चिनिने बहुराष्ट्रिय तेल कम्पनीले मुल्य निर्धारण गर्थ्यो । ",
+    "यो संगठनको उल्लेखित मिशन '' सदस्य राष्ट्रहरु बीच समन्वय र सहकार्य गर्नु, सदस्य राष्ट्रहरुलाई एक गर्नु र उपभोक्तासम्म कुशल, आर्थिक र नियमित पेट्रोलियमको आपूर्ति सुनिश्चित गर्नका लागि तेल बजार स्थिर गर्ने र पेट्रोलियम उद्योगमा लगानी गर्नेको उचित लगानी फिर्ती सुनिश्चित गर्नु हो । \" यो संगठन अन्तरास्ट्रिय तेल बजारको महत्वपुर्ण सुचना संवाहक समेत हो। हालको ओपेक राष्ट्रहरु निम्न राष्ट्रहरु हुन् हालका ओपेक राष्ट्रहरु अल्जेरिया, एङ्गोला, इक्वेडर, इक्वेटोरियल गिनी, गाबोन, इरान, ईराक, कुवेत, लिबिया, नाइजेर"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 833,
+    "text_length_avg": 347.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9813,
+      "Latin": 0.0187
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8082,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9813,
+      "Latin": 0.0187
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22695.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22695.txt",
+    "relative_path": "22695.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22695.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8082,
+    "mtime": 1782796501.9238155,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "38116e1f4a891266d6a9e9a0157321b733787b2a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

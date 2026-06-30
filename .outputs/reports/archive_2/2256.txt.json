@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2256.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सख्खर पाकिस्तानको सिन्घ प्रदेशमा रहेको सख्खर जिल्लाको सदरमुकाम शहर हो जुन सिन्धु नदीको पश्चिम किनारमा अवस्थित छ । सख्खर शहर सिन्ध प्रदेशमा कराची र हैदराबाद पछिको तेस्रो ठूलो शहर हो भने पाकिस्तानकै 14 अौँ ठूलो शहर हो । नयाँ सख्खर शहर ब्रिटिस्ट शासनकालमा स्थापना भएको थियो जुसमा बुक्कर पाहाड र नदीको टापुपनि समावेश गरिएको थियो जसलाई सिन्धको द्वार भन्ने गरिन्थ्यो । ",
+    "सख्खर शब्द अरबी शव्दबाट उत्पत्ति भएको जिसको अर्थ चिनी हुन्थ्यो । यो शहरमा पहिला धेरै मात्रामा उखु खेती हुन्थ्यो त्यसैको सन्दर्भमा यस शहरको नाम सख्खर राखिएको हो । यस क्षेत्रमा ऐतिहासिक इतिहास प्रचुर मात्रामा रहेको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 170,
+    "text_length_max": 628,
+    "text_length_avg": 409.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6279,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2256.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2256.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2256.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6279,
+    "mtime": 1782796631.3937855,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7980fa144345690331ad331861caf71a34ed1c5b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

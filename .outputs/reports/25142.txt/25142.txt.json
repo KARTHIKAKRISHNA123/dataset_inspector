@@ -1,0 +1,96 @@
+{
+  "dataset": "25142.txt",
+  "file_name": "25142.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नमस्ते! Ekendraजीसमस्त विकिपीडिया समुदायको तर्फबाट तपाईंलाई नेपाली विकिपीडियामा हार्दिक स्वागत छ। विकिपीडिया एउटा खुला विश्वकोष हो जसमा विभिन्न विषयका जानकारीहरु संग्रहित हुन्छन्। ",
+    "आउनुहोस् हामी सबै मिलेर नेपाली विकिपीडियालाई विश्वका अन्य प्रमुख भाषा जत्तिकै धनी बनाऔं।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 333,
+    "text_length_avg": 125.86,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7006,
+      "Latin": 0.2994
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5918,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7006,
+      "Latin": 0.2994
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25142.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25142.txt",
+    "relative_path": "25142.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25142.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5918,
+    "mtime": 1782796512.9654424,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.977,
+    "sha1_quick": "75e96a914ea389eac178f47cf1011bfc4e68a61b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

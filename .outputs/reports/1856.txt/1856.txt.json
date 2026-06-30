@@ -1,0 +1,91 @@
+{
+  "dataset": "1856.txt",
+  "file_name": "1856.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माउजङ्ग बाबुसाहेबको कोट साहित्यकार भवानी भिक्षुद्वारा लेखिएको मनोविज्ञानमा आधारित कथा हो । कथाकार भिक्षुले यस कथामा गिर्दो आर्थिकअवस्थाबाट सृजित उच्चवर्गका मानसिक आघातहरूको वर्णन गरेका छन्। सामाजिक र राजनीतिक परिवर्तननले सृजना गरेको अभावलाई स्वीकार्न नसक्ने मानसिकता र स्वीकार्नु पर्ने बाध्यताका बीचको द्वन्द्वलाई उतारिएको माउजङ्ग बाबुसाहेबको कोट कथामा कुलीन परम्परा, आभिजात्य अहं र वर्गीय प्रतिष्ठामा आँच आउँदाको छटपटी, विषाक्त मनस्थिति आदिको प्रभावकारी वर्णन गरिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 470,
+    "text_length_max": 470,
+    "text_length_avg": 470.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1285,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1856.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1856.txt",
+    "relative_path": "1856.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1856.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1285,
+    "mtime": 1782796482.69874,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1045a1574c244878e9a6dd17443cd70e62b04a76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

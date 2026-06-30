@@ -1,0 +1,92 @@
+{
+  "dataset": "17645.txt",
+  "file_name": "17645.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यातायात व्यवस्था कार्यालय नेपाल सरकार यातायात व्यवस्था मन्त्रालयको मातहतमा रहेको कार्यालय हो। सामान्यतया प्रत्येक अञ्चलमा कम्तीमा एउटा यातायात व्यवस्था कार्यालय रहने गर्दछ। यातायात व्यवस्था कार्यालयबाट कुनैपनि नागरिकले सवारीचालक अनुमतिपत्र लिन सक्दछन् ,त्यसैगरी आफुले खरीद गरेको सवारीसाधनको दर्ता ,बेचबिखान ,नामसारी ,जस्ता विविध कामहरू पनि यहाँ नै गर्ने सक्दछ।सवारीचालक अनुमतिपत्रको विवरण तथा सवारीसाधनको लेनदेनको अभिलेखिकरणको लागि सवारीदर्ता तथा चालक अनुमतिपत्र विवरण शाखाको व्यवस्था गरिएको हो।",
+    "सरकारी राजश्वको प्रमुख हिस्सा ओगटेको सवारी साधन कर उठाउने जिम्मा यातायात व्यवस्था कार्यालयको हुन्छ। यसैले तोकिएको मापदण्ड अनुसारको कर उठाउने तथा त्यसको रेकर्ड राख्ने कार्य समेत गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 495,
+    "text_length_avg": 286.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3893,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17645.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17645.txt",
+    "relative_path": "17645.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17645.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3893,
+    "mtime": 1782796478.37957,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b29a9f300f56c7aedcaa69f703232c6bbbb18201",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

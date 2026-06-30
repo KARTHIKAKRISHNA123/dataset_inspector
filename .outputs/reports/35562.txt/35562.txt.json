@@ -1,0 +1,92 @@
+{
+  "dataset": "35562.txt",
+  "file_name": "35562.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो एक प्रकारको एकदमै आरामदायी तथा सुविधा सम्पन्नताले भरिएको कार हो ।यो कार निक्कै लक्ज़री र हाइटेक प्रकारको रहेको छ।यस्तो प्रत्येक कार बनाउन करिब मिलियन डलर लाग्ने गर्छ।",
+    "यो कारमा बम वा गोलीले कुनै पनि क्षति पुर्याउँदैन र सुरक्षाको हिबासले निक्कै भरपर्दो मानिन्छ। यो कारकोसीसा यति बलियो छ की बम वा गोलीले समेत फुटाउन सक्दैन। कारको टायरमा सिन्थेटिक फाइबर प्रयोगगरिएको छ जुन बीच बाटोमै पड्किने वा फाट्ने कुनै डर हुँदैन। यदि फाटेमा कार रिङ मात्रे पनि सजिलै गुड्न सकन गरी बनाइएको छ। यसका साथै कारभित्रै अक्सिजनको दिनमिल्ने व्यवस्था गरिएको छ। 'क्याडलिक बिस्ट'को तौल करिब 8 टन रहेको छ भने यसको ढोकालाई पनि मजबुत तरिकाले बनाइएको छ जसलाई कुनै प्रकारको केमिकलवा बायोलोजिकल रियाक्स"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 688,
+    "text_length_avg": 271.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2900,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35562.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35562.txt",
+    "relative_path": "35562.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35562.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2900,
+    "mtime": 1782796561.2667096,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "122e59afa61ef3a356433f167394581f39db951b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

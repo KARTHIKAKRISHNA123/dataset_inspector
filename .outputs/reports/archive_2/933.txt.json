@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "933.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रम तथा यातायात व्यवस्था मन्त्रालय नेपाल सरकारको श्रम तथा यातायात सम्बन्धि कार्यहरू गर्ने सर्वोच्च निकाय हो।",
+    "सुरूमा उद्योग तथा वाणिज्य मन्त्रालयभित्र एक शाखाको रूपमा रहेको श्रम शाखालाई वि.सं. 2028 सालमा छुट्टै विभागको रूपमा गठन गरी श्रम विभागको स्थापनागरिएको थियो। तत्पश्चात् वि.सं. 2038 सालमा श्रम तथा समाज कल्याण मन्त्रालयको रूपमास्थापित यस मन्त्रालयलाई वि.सं. 2052 सालमा श्रम मन्त्रालयको नाममा रूपान्तरित गरियो।यसरी विभिन्न चरण पार गर्दै वि.सं. 2057 सालदेखि यातायात सम्बन्धी कार्य समेतको जिम्मालिई श्रम तथा यातायात व्यवस्था मन्त्रालयको रूपमा कार्यरत छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 446,
+    "text_length_avg": 158.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9567,
+      "Latin": 0.0433
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1993,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9567,
+      "Latin": 0.0433
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "933.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\933.txt",
+    "relative_path": "archive (2)\\valid\\valid\\933.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1993,
+    "mtime": 1782796674.2938178,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fda6c43a502d733493bd39cd676653ed964c1bcc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

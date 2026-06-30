@@ -1,0 +1,91 @@
+{
+  "dataset": "36163.txt",
+  "file_name": "36163.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1950 फिफा विश्वकप विश्वकपको चौथो संस्करण थियो । यो ब्राजिलमा 24 जून देखि 16 जुलाई सम्म आयोजित भएको थियोे । 1938 पछिको यो पहिलो विश्वकप थियो, योजनाबद्ध रूपमा 1942 र 1946 सम्मको प्रतियोगिता द्वितीय विश्वयुद्धको कारण रद्द भयोको थियो । यो 1930 मा उद्घाटन प्रतियोगिता जीतेको उरुग्वेले जितेको थियो । उरुग्वेले आयोजक ब्राजिललाई 2-1 ले हराएर कप जितेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 350,
+    "text_length_max": 350,
+    "text_length_avg": 350.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 877,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36163.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36163.txt",
+    "relative_path": "36163.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36163.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 877,
+    "mtime": 1782796564.0762937,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "252c1cbd1eef377fb33d56b765a21b46572616cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

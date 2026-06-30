@@ -1,0 +1,92 @@
+{
+  "dataset": "9419.txt",
+  "file_name": "9419.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जलवायु परिवर्तन पृथ्वीको प्राकृतिक प्रक्रियाभित्र पर्ने गतिविधि हो। पृथ्वीमा सौर्य विकिरणमार्फत तापशक्ति प्राप्त हुन्छ र यही सौर्य विकिरणका कारण पृथ्वीको वायुमण्डलको तापक्रम सन्तुलन रहन्छ। पृथ्वीले सूर्यबाट जति सौर्य विकिरण प्राप्त गर्दछ त्यति नै विकिरण पुनः अन्तरीक्षमा फिर्ता पठाउँछ, जसले गर्दा पृथ्वीको वायुमण्डलको तापक्रम स्थिर रहन्छ तर कुनै कारणवश विकिरणको लेनदेनमा घटबढ हुनगई असन्तुलन हुन गएमा पृथ्वीको वायुमण्डलको तापक्रम घटबढ हुन जान्छ र जलवायुमा परिवर्तन आउँछ । ",
+    "पछिल्लो 200 वर्ष म मिथेन, नाइट्रस अक्साइड, कार्बन डाइअक्साइजस्ता हरित गृह ग्यास र ओजन तह विनास गर्ने क्लोरोफोलोरो कार्बन जस्ता अन्य विषाक्त ग्यासको उत्सर्जन दिन प्रतिदिन वायुमण्डमा बढ्दै गइरहेको छ र परावर्तित विकिरणहरू वायुमण्डलमै रोकिनाले पृथ्वीको तापक्रम बृद्धि हुँदै छ। हरितगृह ग्यासका प्रमुख स्रोतहरूमा वनजङ्गलको विनाश, कोइला, खनिजजन्य इन्धनको अत्याधिक प्रयोग, औद्योगिकीकरण आदिजस्ता क्रियाकलापहरू पर्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 1637,
+    "text_length_avg": 744.82,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22006,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9419.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9419.txt",
+    "relative_path": "9419.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9419.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22006,
+    "mtime": 1782796604.0782425,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ea2cfa2549c079d7b97ea621dec85feca2e59a1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

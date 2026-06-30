@@ -1,0 +1,92 @@
+{
+  "dataset": "24401.txt",
+  "file_name": "24401.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'ग्लोबल वार्मिङ'भन्ने अङ्ग्रेजी पदावलीलाई नेपालीमा भूमण्डलीय ऊष्मीकरणको रूपमा रूपान्तरित गरिएको छ। हिन्दी भाषामा समेत यो पदावलीको नै प्रयोग गरिएको पाइन्छ।",
+    "भूमण्डलीय ऊष्मीकरणको अर्थ हुन आउँछ पृथ्वीको तापक्रममा हुन आइरहेको क्रमिक वृद्दि र यसका कारणले हुन जाने प्रभावहरू। वातावरणविद एवँ वैज्ञानिकहरूका अनुसार हामी बसोवास गरिरहेको पृथ्वी क्रमश: तातिरहेको छ तर यसको कारण पृथ्वीलाई ताप र शक्ति प्रदान गर्ने सूर्यको तापक्रम बढेको कारणले नभई, पृथ्वी भित्रैबाट सिर्जित मानवीय कारणले गर्दा हुन गएको हो। यो कुराको सिधा सम्बन्ध मानव जातिले आँफू बाँचेको संसारलाई प्रदूषित पार्न खेलेको भूमिकासँग गाँसिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 146,
+    "text_length_max": 459,
+    "text_length_avg": 299.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3229,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24401.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24401.txt",
+    "relative_path": "24401.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24401.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3229,
+    "mtime": 1782796509.6203346,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.973,
+    "sha1_quick": "a26d7499cd5eb675a668ae40e9ca27846386f228",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

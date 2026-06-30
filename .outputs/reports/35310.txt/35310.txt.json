@@ -1,0 +1,92 @@
+{
+  "dataset": "35310.txt",
+  "file_name": "35310.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्द महासागर संसारको तेस्रो सबैभन्दा ठूलो समुद्र हो, र यसले पृथ्वीको सतहमा उपलब्ध पानीको लगभग 20% भाग यसमा निहित रहेको छ । उत्तरमा यो भारतीय उपमहाद्वीप देखि, पश्चिममा पूर्व अफ्रिका, पूर्वमा हिन्दचीन, सुन्दा द्वीप समूह र अस्ट्रेलिया, तथा दक्षिणमा आर्कटिक महासागरले घेरिएको छ । विश्वमा यो मात्र एउटा महासागर हो जसको नाम कुनै देशको नाम अथवा, हिन्दुस्तान को नाममा रहेको छ । ",
+    "संस्कृतमा यसलाई रत्नाकर अथवा रत्न उत्पन्न कर्ता भन्दछन्, जबकि प्राचिन हिन्दू ग्रन्थहरुमा यसलाई हिन्दू महासागर भनिएको छ । वैश्विक रुपले परस्पर जोडिएका समुद्रहरुका एक घटक हिन्द महासागर को, आन्ध्र महासागर देखि 20° पूर्वी देशान्तर जो केप एगुलस देखि गुज्रिन्छ, र प्रशान्त महासागरदेखि 146°55' पूर्वी देशान्तर पृथक गर्दछ । हिन्द महासागरको उत्तरी सीमाको निर्धारण फारसको खाडीमा 30° उत्तर अक्षांश द्वारा हुन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 371,
+    "text_length_max": 487,
+    "text_length_avg": 420.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3270,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35310.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35310.txt",
+    "relative_path": "35310.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35310.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3270,
+    "mtime": 1782796560.059785,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fe99ae0a37bb88fad836d061d3855a4ef1117733",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

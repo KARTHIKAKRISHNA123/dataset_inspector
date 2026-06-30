@@ -1,0 +1,92 @@
+{
+  "dataset": "19823.txt",
+  "file_name": "19823.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्वको सबैभन्दा ठूलो खाडी, बङ्गालको खाडी हिन्द महासागरको उत्तरपूर्वी भाग हो। यसको नाम भारतीय राज्य पश्चिम बङ्गालको नाममा आधारित छ। आकारमा त्रिभुजाकार यस खाडीको उत्तरमा बङ्गलादेश र पश्चिम बङ्गाल, पूर्वमा म्यानमार र भरतको अण्डमान र निकोबार द्वीप समूह राज्य र पश्चिममा भारत र श्रीलङ्का अवस्थित छ। गंगा, ब्रम्हपुत्र, कावेरी, गोदावरी,स्वर्णरेखा आदि नदिहरू यसैमा आफ्नो जल विसर्जित गर्दछन्। बङ्गालको खाडी का क्षेत्रफल 2,172,000 किमी² छ।",
+    "खाडीको औसत गहिराई 8500 फीट र अधिकतम गहिराई 15400 फीट छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 430,
+    "text_length_avg": 242.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1263,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19823.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19823.txt",
+    "relative_path": "19823.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19823.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1263,
+    "mtime": 1782796488.812914,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "c3855b5e60c2b8db2bef1ae58a4bcaf7356b9009",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

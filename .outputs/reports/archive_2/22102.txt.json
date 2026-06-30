@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22102.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "हरिवंश पर्व महाभारतको अन्तिम पर्व हो यसलाई हरिवंशपुराणको नामले पनि जानिन्छ हरिवंशपुराण भविष्यपर्वमा पुराण पञ्चलक्षणका सर्गप्रतिसर्गका अनुसार सृष्टिको उत्पत्ति, ब्रह्मको स्वरूप, अवतार गणना र सांख्य तथा योगमाथि विचार गरिएको छ। स्मृतिसामग्री तथा सांप्रदायिक विचारधाराहरू पनि यस पर्वमा अधिकांश रूपमा पाइन्छ। विष्णुपर्वमा नृत्य र अभिनयसम्बन्धि सामग्री मौलिक रूपमा पाइन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 367,
+    "text_length_avg": 186.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1022,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22102.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22102.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22102.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1022,
+    "mtime": 1782796630.49502,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8bd75bc5f528cb8fab6094e74068a1b36b1a7b77",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

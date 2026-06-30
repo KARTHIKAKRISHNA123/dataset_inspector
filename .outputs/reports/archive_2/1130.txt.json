@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1130.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुडिग्राम बङ्गलादेशको उत्तरी क्षेत्रमा पर्ने एक जिल्ला हो । यो जिल्ला रङ्गपुर जिल्ला पर्छ । ब्रिटिश सरकार पहिला पटक 22 अप्रिल 1975 मा कुडिग्राम महाकामा स्थापना भएको थियो । सर विलियम हन्टरले कुडिग्रामको वणन गर्ने क्रममा यसलाई कुडिगञ्ज भनेका थिए । यस जिल्ला अाठ थानाहरू रहेका छन् जस्तै- कुडिग्राम, लालमुनिरहट, उलीपुर, चलमारी, राउमारी, फुलबारी, नगेशवार र भुरुनगमाडि छन् । यो सन् 1984 फेब्रुअरी 1 का दिन जिल्लामा परिणत भएको थियो । यस जिल्लामा हाल 9 वटा उप-जिल्लाहरू रहेका छन् । ",
+    "यो जिल्ला 25°23' देखि 26°14' उत्तर अक्षांश र 89°27' देखि 89°54' पुर्व देशान्तरणमा अवस्थित छ । मेहेरपुर जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 2296.10 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई भारतको पश्चिम बङ्गाले उत्तरबाट घेरेका छन् भने यस जिल्लाको दक्षिणमा गाईबान्धा र जामलपुर जिल्ला रहेका छन् । त्यस्तै गरि भारतको असाम राज्यले पुर्वमा र रङ्गपुर र लालमनिरहाट जिल्लाले घेरेको छ । यस जिल्लामा जमुना, ब्रह्मपुत्र, टिस्टा, अादि जस्ता देशकै प्रमुख नदिहरू रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 302,
+    "text_length_max": 652,
+    "text_length_avg": 464.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7156,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1130.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1130.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1130.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7156,
+    "mtime": 1782796609.0707428,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "63ecdfc884fdcf1d96430bd592a4a2ec8924d535",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

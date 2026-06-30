@@ -1,0 +1,92 @@
+{
+  "dataset": "14081.txt",
+  "file_name": "14081.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वर्ण पदक एक कुनै क्षेत्रमा प्रदान गरिने सर्वाधिक उच्च कोटिको वा स्तरीय पदक हो । अथवा सौन्य क्षेत्र छाडी अन्य कुनै पनि विभिन्न क्षेत्रमा प्रदान गरिने उच्च पदकनै संवरण पदक हो । अझ सामान्यतय भन्नू पर्दा कुनै पनि प्रतियोगितामा प्रथम स्थान हासिल गर्ने वा पहिलो हुनेलाई प्रदान गरिने पदक नै संवरण पदक हो । अझ स्वर्ण पदक भन्नाले सुनको सुनौलो पदक भन्ने पनि बुझिन्छ ।",
+    "लगभग अठारौं शताब्दीमा यस संवरण पदकको प्रचल सुरू भएको थियो भन्न सकिन्छ । स्वर्ण पदक वा सुनौलो पदक भनेता पनि अधिकांश संवरण पदकहरू पुर्ण सुनको भने हुदैन । जहाँ समान्य सुन मीसाइएको र सुनको जलब लगाइएको हुने गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 146,
+    "text_length_max": 359,
+    "text_length_avg": 221.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2329,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14081.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14081.txt",
+    "relative_path": "14081.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14081.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2329,
+    "mtime": 1782796461.4177842,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d3651d1478553981b6e290b98031296f0f5d0a1b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15262.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बीमा समिति नेपालको बीमा क्षेत्रको नियमनकारी आधिकारिक निकाय हो, जो नेपाल सरकार, अर्थ मन्त्रालयको एउटा लाईन सङ्गठन हो। बीमा ऐन, 2049 अनूसार नेपाल राज्य भित्र बीमा ब्यवसायलाई ब्यवस्थित, विकसित, नियमित र नियन्त्रित गर्नका लागि बीमा समितिको स्थापना भएको हो। नेपाल राज्य भित्रका बीमा तथा सो सम्बन्धि गतिविधिलाई यस समितिले नियमनकारी संस्थाको हैसियतले निगरानी राख्दछ। यस संस्थाको मूल उद्देश्य विकसित, स्वस्थ र पेशागत बीमा बजारको विकास गर्नु हो।",
+    "वि.सं.2046 सालमा प्रजातन्त्रको पुर्नस्थापना भए पश्चात अन्य क्षेत्रहरूमा जस्तै बीमा क्षेत्रमा पनि परिवर्तनहरू देखा परे। परिवर्तित सर्न्दर्भलाई मनन गरी वि.सं. 2049 सालमा बीमा ऐन 2025 लाई प्रतिस्थापन गर्दै नयां बीमा ऐन 2049 जारी गरियो। ऐनको प्रस्तावनामा नै स्पष्ट रूपमा भनिएको छ \"बीमा ब्यवसायलाई ब्यवस्थित, विकसित, नियमित र नियन्त्रित गर्नको लागि बीमा समितिको स्थापना गरिएको हो।\" प्रस्तावनामा उल्लेखित लक्ष्य प्राप्त गर्नका लागि एक स्वायत्त संस्थाका रूपमा बीमा ऐन 2049 अनुसार यस समितिको स्थापना भएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 500,
+    "text_length_avg": 230.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9867,
+      "Latin": 0.0133
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3614,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9867,
+      "Latin": 0.0133
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15262.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15262.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15262.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3614,
+    "mtime": 1782796617.1148922,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "b214fe46a554845989086637dda5690b7b323580",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

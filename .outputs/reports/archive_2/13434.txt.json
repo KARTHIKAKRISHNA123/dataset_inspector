@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13434.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वास्तविक नाम योकीन साल्भाडोर लाभाडो भएता पनि कीनो नामले प्रख्यात अर्जेन्टिनी कार्टुनिष्टको जन्म सन् 1932 जुलाई 17 तारिखका दिन अर्जन्टिनाको मेण्डोजा शहरमा भएको थियो। कीनो द्वारा सृजित माफाल्दा ल्याटिन अमेरिका तथा युरोपमा निक्कै लोकप्रिय छन्। ",
+    "कीनोको जन्म Guaymallén, Mendoza Province भन्ने ठाँउमा स्पेनिश मातापिताका कोखमा भएको थियो। मेण्डोजाको Escuela de Bellas Artesमा भर्ना भएर अर्जेन्टिनी कमिक Rico Tipo का लागि काम गर्ने चाहना उनको थियो। तर सन् 1945मा उसले स्कूल छाडे। छाड्नका कारण स्याउ र कुर्सीको मात्र चित्र बनाउँदा बनाउँदा दिक्क लागेकोले हो ! उसले कतै भनेका छन्। सन् 1950मा आफ्नो पहिलो कार्टुन एउटा सील्क शपलाई बेचे तर हप्तौँ सम्म पनि ब्युनस आयर्समा बस्दा पनि कुनै सफलता हात लागेन। सन् 1954मा अनिवार्य सैनिक सेवा पुरा गरिसके पछि उनी एउ"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 241,
+    "text_length_max": 1053,
+    "text_length_avg": 616.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9169,
+      "Latin": 0.0831
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9306,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9169,
+      "Latin": 0.0831
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13434.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13434.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13434.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9306,
+    "mtime": 1782796613.3140652,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e3820c3cb8ff8c5f3f6f83869a881ed83b8e7062",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

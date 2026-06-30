@@ -1,0 +1,94 @@
+{
+  "dataset": "11570.txt",
+  "file_name": "11570.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कामी/विश्वकर्मा is an ethno-linguistic Indo-Aryan Nepali speaking group. It is a Khas occupational caste belonging to blacksmiths. The 1854 Nepalese Muluki Ain not keep in lowest category. Kami are categorized under \"Hill Dalit\" among the 9 broad social groups, along with Damai, Badi, Sarki and Gaine by the Government of Nepal. Thus, the tribal designation of Khas is given only in few context to Kami ",
+    "They live in Nepal, Sikkim and Darjeeling District of West Bengal, India. Kamis are essentially blacksmiths Kami/Vishowkarma are Vishowkarmabramin.are scattered across almost all hilly districts of Nepal, districts of Sikkim, Darjeeling, and Assam; some have settled in other parts of India as well. They are also known as Vishwakarma or Bishwakarma."
+  ],
+  "statistics": {
+    "records_sampled": 43,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1659,
+    "text_length_avg": 367.16,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9127,
+      "Latin": 0.0873
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 38992,
+    "estimated_records": 106
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 106,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6605,
+      "Latin": 0.3395
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11570.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11570.txt",
+    "relative_path": "11570.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11570.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 38992,
+    "mtime": 1782796449.975961,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6ef96589b79d289f8aafc11b4f91cf33d8ee5b61",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

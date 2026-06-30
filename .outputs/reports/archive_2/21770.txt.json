@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21770.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "thumb|300px| आई आई टी खडगपुरको मुख्य भवनभारतीय प्राविधिक संस्थान अर्थात आई आई टी भारतको 7 स्वायत्त प्राविधिक शिक्षा संस्थान हो। यो संस्थान भारत सरकार द्वारा स्थापित गरिएको \"राष्ट्रिय महत्वको संस्थान\" हो। ईसवी सन 2006को अनुमान अनुसार सबै आई आई टी जोडेर हेर्दा 17,000 पूर्व-स्नातक तथा 13,000 स्नातक छात्र छन्। आई आई टीको वर्तमान तथा पूर्व विद्यार्थीलाई आईआईटियन भनिन्छ।भारतमा पन्द्र आई आई टी छन :",
+    "भारतीय प्राविधिक संस्थानहरूको स्थापनाको इतिहास ईसवी सन 1946 पुग्छ जब जोगेंद्र सिंहले भारतमा उच्च शिक्षाको संस्थानको स्थापनाको लगी एक समिति गठन गरे। नलिनी रंजन सरकारको अध्यक्षतामा गठित समितिले भारत भरीमा यस्तो संस्थानहरूको गठनको सिफारिश गरे। यि सिफारिसहरूलाई ध्यानमा राख्दै पहिलो भारतीय प्राविधिक संस्थानको स्थापना कलकत्ताको नजीक स्थित खडगपुरमा 1950मा भयो। शुरुआतमा यो संस्थान हिजली कारावासमा अवस्थित थियो। 15 सेप्टेम्बर 1956मा भारतको संसदले \"भारतीय प्राविधिक संस्थान ऐन\" लाई मन्जुरी दिदै आई आई टी लाई"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 706,
+    "text_length_avg": 339.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9886,
+      "Latin": 0.0114
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5327,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9886,
+      "Latin": 0.0114
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21770.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21770.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21770.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5327,
+    "mtime": 1782796629.7559838,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0d4243bd90dbed5be6f254f6dee7717aae314e1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

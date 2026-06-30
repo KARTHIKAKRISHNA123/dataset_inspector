@@ -1,0 +1,94 @@
+{
+  "dataset": "21519.txt",
+  "file_name": "21519.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Many, see text",
+    "काउसो नेपाल तथा भारतको विभिन्न भू-भागहरूमा पाइने एक प्रकारको ओखतीय गुण भएको जंगली वनस्पति हो । काउसोको लहरा हुन्छ । यसको पात सिमीको पात जस्तै तिन पाते हुन्छ भने आकारमा सिमिको पात भन्दा ठुलो हुन्छ । यसको कोसा पनि सिमीकै कोसा जस्तो हुन्छ । यसको कोसामा एक प्रकारको झुसहरू हुन्छन् । काउसो पाकेर कोसा सुकेको बेला कोसामा भएका झुसहरू हावामा उड्दछन् । यदी यी झुसहरू मान्छे अथवा जनावरको शरिरमा पर्न गएमा निकै चिलाउँछ । यसको गेडा र जरालाई विभिन्न रोगको ओखती बनाउन प्रयोग गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 469,
+    "text_length_avg": 241.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9722,
+      "Latin": 0.0278
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1253,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9722,
+      "Latin": 0.0278
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21519.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21519.txt",
+    "relative_path": "21519.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21519.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1253,
+    "mtime": 1782796496.7129414,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "951246294edbb9061b1cf86e77c5e60d54663f5c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

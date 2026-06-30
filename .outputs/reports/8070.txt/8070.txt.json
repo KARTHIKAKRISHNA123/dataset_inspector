@@ -1,0 +1,96 @@
+{
+  "dataset": "8070.txt",
+  "file_name": "8070.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिक्षा मन्त्रालयशैक्षिक जनशक्ति विकास केन्द्र सानोठिमी, भक्तपुर, नेपालफोन: --6630180, 6634339, 6630193फ्याक्स: --6631486, 6630457ईमेल: decedu@mail.com.np",
+    "www.nced.gov.np"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 153,
+    "text_length_avg": 84.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7353,
+      "Latin": 0.2647
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 320,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7353,
+      "Latin": 0.2647
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8070.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8070.txt",
+    "relative_path": "8070.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8070.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 320,
+    "mtime": 1782796597.4843905,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.976,
+    "sha1_quick": "f8cc857ba6a6fca2bafaeef35b2c810ec28d88e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

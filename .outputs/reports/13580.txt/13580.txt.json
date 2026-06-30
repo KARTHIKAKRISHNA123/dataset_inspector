@@ -1,0 +1,91 @@
+{
+  "dataset": "13580.txt",
+  "file_name": "13580.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू धर्मावलम्बीका लागि कुश ज्यादै अनिवार्य एवं पवित्र वस्तु मानिन्छ । वैदिक ग्रन्थदेखि लिएर पौराणिक ग्रन्थमा समेत कुशको ठूलो महत्व बताइएको पाउन सकिन्छ । आयुर्वेदिक उपचारमा पनि कुशको ठूलो महत्व छ। तराईदेखि पहाडसम्म पाइने यो वनस्पतिको जराबाट विविध उपचारका लागि आयुर्वेदिक औषधि बनाइन्छ । कुशको प्रयोग दाह, रक्तपित्त, तिर्खा, मृगौलाको पत्थरी आदि रोगको उपचारमा गर्न सकिन्छ । एकदमै तीखो र धारिलो पात हुने हुँदा यसलाई टिप्दा होशियारीपूर्वक टिप्नु पर्ने हुन्छ । पहिले पहिले परीक्षाको समयमा जो कुशलाई सहजता"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 545,
+    "text_length_max": 545,
+    "text_length_avg": 545.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1464,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13580.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13580.txt",
+    "relative_path": "13580.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13580.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1464,
+    "mtime": 1782796459.1888647,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2c01ffff6d05f1fbe68eedb2a242592ebcc13925",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "1108.txt",
+  "file_name": "1108.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Phanrangia Tardieu",
+    "आँप म्याङ्गिफेरा वर्गमा पर्ने तथा उष्ण हावापानी भएको स्थानमा हुर्कने एक प्रकारको गुलियो तथा अमिलो फल हो। यसको रूख अत्यन्त उपयोगी, दीर्घजीवी, सघन तथा विशाल हुन्छ। फलको राजा भनेर चिनिने आँप नेपालमा पूर्वदेखि पश्चिम तथा दक्षिणको तराई देखि पहाड हुन्छ। अनुकूल जलवायु पाउँदा यसको रूख करिब 50-60 फुटसम्म अग्लो हुन्छ। वैज्ञानिक वर्गीकरण वनस्पति जगतको ऐनाकार्डियेसी वर्गमा पर्ने आँपका केही रूखहरू धेरै नै अग्ला हुन्छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 522,
+    "text_length_avg": 326.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.989,
+      "Latin": 0.011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5032,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.989,
+      "Latin": 0.011
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1108.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1108.txt",
+    "relative_path": "1108.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1108.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5032,
+    "mtime": 1782796447.7174628,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a64e835decc215cdca8a58038cffc9429f2619aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

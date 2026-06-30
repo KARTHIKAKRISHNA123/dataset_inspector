@@ -1,0 +1,94 @@
+{
+  "dataset": "22872.txt",
+  "file_name": "22872.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Many, see text.",
+    "छेपारो squamate reptilesको एक व्यापक समूह हो जसका लगभग 3800 प्रजातिहरू छन् 3] । योमा अंटार्कटिका बाहेक सबै महाद्वीपहरू तथा समुद्रमा पाइन्छ। यो समूह, पारंपरिक रूप ले  उपसमूह Lacertiliaमा पर्छ, Lepidosauria न त सांप का सबै वर्तमान सदस्यहरू पर्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 833,
+    "text_length_avg": 359.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8929,
+      "Latin": 0.1071
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15995,
+    "estimated_records": 44
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 44,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.899,
+      "Latin": 0.101
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22872.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22872.txt",
+    "relative_path": "22872.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22872.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15995,
+    "mtime": 1782796502.637692,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4e1f84aa837c587c076718f88764e24f71bc39fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

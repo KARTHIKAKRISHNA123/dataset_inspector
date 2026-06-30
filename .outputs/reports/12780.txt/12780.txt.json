@@ -1,0 +1,92 @@
+{
+  "dataset": "12780.txt",
+  "file_name": "12780.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिपुरा भारतको एक राज्य हो। अगरतला त्रिपुराको राजधानी हो। बङ्गाली र त्रिपुरी भाषा यहाँका मुख्य भाषाहरू हुन्। ",
+    "त्रिपुराको उल्लेख महाभारत, पुराणहरू तथा अशोकको शिलालेखहरूमा भेटिन्छ। स्वतन्त्रतापछि भारतीय गणराज्यमा विलय पूर्व यो एक राजशाही थियो। उदयपुर यसको राजधानी थियो जसलाई अठारौं शताव्दीमा पुरानो अगरतलामा ल्याइयो र उन्नाइसौं शताव्दीमा नयां अगरतलामा। राजा वीर चन्द्र माणिक्य महादुर देववर्माले आफ्नो राज्यको शासन ब्रिटिश भारतको इशारामा चलाए। गणमुक्ति परिषदद्वारा चलाईएको आन्दोलनले यो सन् 1949मा भारतीय गणराज्यमा शामिल भयो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 110,
+    "text_length_max": 411,
+    "text_length_avg": 260.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1411,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12780.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12780.txt",
+    "relative_path": "12780.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12780.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1411,
+    "mtime": 1782796455.6599665,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "b2f8e5cb3bbfddb8084ee7f04a7ed0686eaf6ae3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

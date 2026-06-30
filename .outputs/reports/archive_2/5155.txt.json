@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5155.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माडीको रेवा नदीको किनारमा रहेको पाण्डवनगरमा पाइने मूर्ति, पुरानो इनार तथा भग्नावशेषहरूले महाभारतकालको झझल्को दिन्छन । त्यहाँ एउटा सानो मन्दिरभित्र द्रौपदी सहित पाँच पाण्डवका मूर्तिहरू राखिएका छन् । युधिष्ठिर, भीमसेन, अर्जुन, नहकुल, सहदेव र रानी द्रौपदीका खस्रा र केही टुक्रिएका प्रशस्त मूर्तिहरू राखिएका छन् । यस मन्दिरका पुजारी गुरौ छन् । यो मन्दिरको पश्चिमतर्फ एउटा 37 फिट गहिरो ढुङ्गाले बनाइएको इनार छ । यस स्थलमा महाभारतकालमा 1 वर्षसम्म गुप्तबास बसेको र त्यहाँबाट विराटनगरतर्फ लागेको भन्ने स्थानी"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 517,
+    "text_length_max": 517,
+    "text_length_avg": 517.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1379,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5155.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5155.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5155.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1379,
+    "mtime": 1782796665.9679708,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "50c9e886351924c411c7ae2f751bb9fab1fecbf6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

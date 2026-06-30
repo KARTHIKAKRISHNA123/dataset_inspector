@@ -1,0 +1,94 @@
+{
+  "dataset": "11947.txt",
+  "file_name": "11947.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मित्रताका लागि फुटबल PJSC Gazprom द्वारा बालबालिकाहरूका लागि कार्यान्वयन गरिएको वार्षिक अन्तर्राष्ट्रिय सामाजिक कार्यक्रम हो। कार्यक्रमको लक्ष्य भनेको नव युवाहरूमा फुटबलमार्फत महत्त्वपूर्ण मूल्य र स्वस्थकर जीवनशैलीका रूचिहरू विकास गर्नु हो। कार्यक्रमको ढाँचामा, विभिन्न राष्ट्रका 12 वर्षका फुटबल खेलाडीहरू बालबालिकाहररूको वार्षिक अन्तर्राष्ट्रिय मञ्च, \"मित्रताका लागि फुटबल\" को विश्वकपमा फुटबल र मित्रताको अन्तर्राष्ट्रिय दिवसका दिन सहभागी हुन्छन्। ",
+    "कार्यक्रमको विश्व-व्यापी आयोजक AGT Communications Group हो। "
+  ],
+  "statistics": {
+    "records_sampled": 286,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 972,
+    "text_length_avg": 73.35,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9784,
+      "Latin": 0.0216
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 54453,
+    "estimated_records": 742
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 742,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9629,
+      "Latin": 0.0371
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11947.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11947.txt",
+    "relative_path": "11947.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11947.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 54453,
+    "mtime": 1782796451.7374403,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "50eb9754e768bb39812844c828518a2c55c99bed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

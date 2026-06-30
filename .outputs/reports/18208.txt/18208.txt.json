@@ -1,0 +1,92 @@
+{
+  "dataset": "18208.txt",
+  "file_name": "18208.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"ब्याड ब्लड\" अमेरिकी गायिका तथा गीतकार टेलर स्विफ्टको गीत हो जुन उनको पाँचौ स्टुडियो एल्बम 1989को लागि रेकर्ड गराइएको थियो। स्विफ्टले यस गीत सेलब्याक र म्याक्स मार्टिन जस्ता गीतकारहरूको सहायतामा लेखेकी हुन् जसमा अमेरिकी र्‍यापर केन्ड्रिक लामार पनि सामेल छन्। लामार सामेल भएको संस्करण रिपब्लिक रेकर्डस्द्वारा 17 मे 2015 मा सार्वजनिक गरिएको थियो। यस गीतको सारले दुई घनिष्ठ मित्र बीचको धोकाको वर्णन गरेको छ। यो गीत 1989 एल्बमको आठौँ सङ्गीतको रुपमा सार्वजनिक गरिएको थियोे।",
+    "यो गीत अस्ट्रेलिया, क्यानाडा, इजरायल, न्युजिल्यान्ड, स्कटल्याण्ड, र संयुक्त राज्य अमेरिकामा शीर्ष स्थानमा पुग्दै 1989 एल्बमबाट शीर्ष स्थानमा आउने तेस्रो गीत बनेको थियो साथै आधिकारिक सङ्गीत भिडियो जोसेफ केनद्वारा निर्देशित गरिएको थियो जसले पहिले 1989 एल्बमको दोस्रो र चौथो एकल सङ्गीत भिडियोहरू निर्देशन दिएका छन्। यस गीतको साङ्गीतिक भिडियोले पहिलो 24 घण्टामा 20.1 मिलियन अवलोकन पाएको थियो। यस गीतले 2015 मा एमटिभी भिडियो म्युजिक पुरस्कारहरूमा वर्ष र सर्वश्रेष्ठ सहयोगको भिडियोलाई जितेको थियो भने गीतले"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 1294,
+    "text_length_avg": 598.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9371,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18208.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18208.txt",
+    "relative_path": "18208.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18208.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9371,
+    "mtime": 1782796480.999704,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "681480e33690a6017c9528a3983cba6c71877a28",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

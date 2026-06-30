@@ -1,0 +1,92 @@
+{
+  "dataset": "26799.txt",
+  "file_name": "26799.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय जनता पार्टी भारतमा एउटा राष्ट्रवादी राजनीतिक दल हो | यस दलको स्थापना सन् 1980 मा गरियो | वर्तमानमा यस पार्टीको अध्यक्ष अमित शाह हुन | भारतीय जनता पार्टी भारतीय राजनीतिक प्रणालीमा दुई प्रमुख राजनितीक दलहरु मध्येको एक हो, अर्को भारतीय राष्ट्रीय कांग्रेस हो । 1980 मा स्थापित, यो संसद र विभिन्न राज्य विधानसभाहरुमा प्रतिनिधित्वको आधारमा भारतको दोश्रो सबभन्दा ठुलो राजनीतिक दल हो। ",
+    "भारतीय जनता पार्टीले आफ्नो आधिकारिक विचारधारा और केंद्रीय दर्शन दीनदयाल उपाध्यायद्वारा 1955 मा लेखिएको पुस्तकमा आधारित 'एकात्म मानववाद' हुने भनी तोकेको छ ।​ यो दललाई \"राष्ट्रवादी हिंदू\" के रूपमा चिह्नित गरिन्छ । यसले स्वदेशी आन्दोलन र प्रमुख राष्ट्रवादी सिद्धान्तहरुको आसपास केन्द्रित विदेश नीतिले सुनिश्चीत गरेको सामाजिक रूढिवाद र आत्मनिर्भरता को पृष्ठपोषण गर्दछ । पार्टीको मन्चलाई सामान्यतया भारतीय राजनीतिक स्पेक्ट्रम को दक्षिणपन्थीको रूपमा मानिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 1163,
+    "text_length_avg": 605.47,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 27050,
+    "estimated_records": 44
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 44,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26799.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26799.txt",
+    "relative_path": "26799.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26799.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 27050,
+    "mtime": 1782796520.7710018,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "de9cc02cb4c0612edb624b9e3462e0c867ffad7a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

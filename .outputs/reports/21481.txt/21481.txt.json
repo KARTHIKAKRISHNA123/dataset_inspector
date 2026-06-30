@@ -1,0 +1,92 @@
+{
+  "dataset": "21481.txt",
+  "file_name": "21481.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाकिस्तान दूरसञ्चार कम्पनी लिमिटेड वा सामान्य तया पीटीसीएल पाकिस्तानको राष्ट्रिय दूरसञ्चार कम्पनी हो । पीटीसीएलले राष्ट्रव्यापी रूपमा टेलिफोन र इन्टरनेट सेवा प्रदान गर्दछ र तेलेनर र चीन मोबाइल सहित दर्जनौ दूरसञ्चार देशमा भित्रिए पनि देशको दूरसञ्चार पूर्वाधारको लागि यो मेरुदण्ड मानिएको छ । निगमले देशभरको लगभग 2000 टेलिफोन बिनिमय प्रबन्ध गर्दछ र सञ्चालन गर्दछ जसले सबैभन्दा ठूलो निश्चिति-लाइन नेटवर्क प्रदान गरेको छ । डाटा र अरू सेवाहरू जस्तै जीएसएम, एचएसपीए, सीडीएमए, एलटीई, ब्रोडब्यान्ड इन्टरनेट, आ",
+    "1949 मा पोष्ट र टेलिग्राफ विभागको सुरुवात र 1962 मा पाकिस्तान टेलिफोन र टेलीग्राफ विभागको स्थापनाबाट पीटीसीएल पाकिस्तानमा दूरसञ्चारको प्रमुख प्रदायक बनेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 800,
+    "text_length_avg": 377.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5988,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21481.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21481.txt",
+    "relative_path": "21481.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21481.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5988,
+    "mtime": 1782796496.567469,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "758aa5c6bd54add26aaa6e7a1c332fba22a97ee7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "5451.txt",
+  "file_name": "5451.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भोपाल भारत देशको मध्य प्रदेश राज्यको राजधानी हो र भोपाल जिल्लाको प्रशासनिक मुख्यालय पनि हो। भोपाललाई तालहरूको नगर पनि भनिन्छ किनभने यहाँ धेरै ठूला-साना तालहरू छन्। यो सहरको नाम प्रमुखताका साथ तबदेखि लिन थालियो जब 1984मा अमरीकी कंपनी यूनियन कार्बाइड बाट मिथाएल् आइसो साइनेट ग्यास चुहियो र हजारौं मानिसहरू मारिए। भोपाल ग्यास काण्डको कुप्रभाव आजसम्म वायु प्रदूषण, भूमि प्रदूषण, जल प्रदूषणका अतिरिक्त जैविक अपाङ्गता आदिको प्रभाव आज पनि उत्तिकै छ। यसको कारणले भोपाल सहर आंदोलनको केंद्र बनेकोछ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 488,
+    "text_length_max": 488,
+    "text_length_avg": 488.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1299,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5451.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5451.txt",
+    "relative_path": "5451.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5451.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1299,
+    "mtime": 1782796585.1912386,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "32623fa09f36e92fa674e71e4f42606f41a680eb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

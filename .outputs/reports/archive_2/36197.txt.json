@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36197.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तम कुँवर मदन पुरस्कार प्राप्त गर्ने साहित्यकार हुन्। उनले वि.सं. 2023 सालमा उक्त पुरस्कार पाएका हुन्।",
+    "उत्तमको जन्म बाबु जङ्गबहादुर कुँवर र आमा भगवतीका सुपुत्रका रूपमा वि. सं. 1995 साल जेठ 12 गते क्षेत्रपाटी, काठमाडौंंमा भएको थियो। उनको खास नाम हरिबहादुर कुँवर हो। लामो समय पत्रकारिता गरेका उत्तमले भेटनरीतर्फ आई. एस्सी. गरेका थिए। उनले स्रष्टा र साहित्य शीर्षकको ग्रन्थको लागि मदन पुरस्कार 2023 प्राप्त गरेका थिए। उनले प्रवल गो. द. बा. पनि पाएका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 349,
+    "text_length_avg": 143.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1839,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36197.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36197.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36197.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1839,
+    "mtime": 1782796658.8376086,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "b580dc3e1b04945c0bed24aff1dd06f9cf32bd0b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

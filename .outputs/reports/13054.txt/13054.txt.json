@@ -1,0 +1,94 @@
+{
+  "dataset": "13054.txt",
+  "file_name": "13054.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लोकतन्त्र शासनको एउटा व्यवस्था हो। यो व्यवस्था दुई प्रकारका हुन्छन्। प्रत्यक्ष प्रजातन्त्रमा शासनको दायित्व सीधा रूपमा शासित जनताले निर्वाह गर्दछन् भने प्रतिनिधिमूलक लोकतन्त्रमा शासनको दायित्व जनताद्वारा निर्वाचित प्रतिनिधिहरूद्वारा हुने गर्दछ। प्रायः, सानो जनसंख्यामा प्रत्यक्ष र ठूलो जनसंख्यामा प्रतिनिधिमूलक लोकतन्त्र बढी प्रभावकारी देखिन्छन् ।",
+    "राजनीतिक सिद्धान्तमा लोकतन्त्रले एउटा निश्चित प्रकारको शासन र सो सँग सम्बन्धित राजनीतिक विचारधारालाई जनाउंदछ। लोकतन्त्रको सर्वमान्य परिभाषा नभएतापनि यसका दुई प्रमुख सिद्धान्त छन् जुन लोकतन्त्रका कुनै पनि परिभाषामा देखा पर्दछन्। ती हुन् समानता र स्वतन्त्रता। यी सिद्धान्तहरूको प्रतिबिम्ब कानुन समक्ष सबै नागरिकहरू बराबर हुने र राज्यको शक्तिमा सबैजनाको समान पहुंच हुने व्यवस्थामा देखिन सकिन्छ। साथै, सबै नागरिकले वैधानिक स्वतन्त्रतालाई उपभोग गर्न पाउँदछन् र नागरिकद्वारा यो स्वतन्त्रताको उपभोग गर्न पाउ"
+  ],
+  "statistics": {
+    "records_sampled": 46,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 670,
+    "text_length_avg": 218.09,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9917,
+      "Latin": 0.0083
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26990,
+    "estimated_records": 123
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 123,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9795,
+      "Latin": 0.0205
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13054.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13054.txt",
+    "relative_path": "13054.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13054.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26990,
+    "mtime": 1782796456.9224799,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "fefc231d78b9db1681f56a8496571a5192f0c38d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

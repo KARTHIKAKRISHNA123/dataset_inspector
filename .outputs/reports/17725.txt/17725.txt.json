@@ -1,0 +1,92 @@
+{
+  "dataset": "17725.txt",
+  "file_name": "17725.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण वाल्मीकिऋषीद्वारा संस्कृतमा लेखिएको एक हिन्दु महाकाव्य हो । यसमा 24,000 श्लोकहरू रहेका छन । यसमा हिन्दु धर्मका देवता विष्णुको अवतार मानिने रघुवंशका राजा रामको गाथा लेखिएको छ । यसमा सातवटा अध्यायहरू छन जसलाई काण्ड भनिन्छ ।",
+    "पात्रहरु निम्न छन्:"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 228,
+    "text_length_avg": 39.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1151,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17725.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17725.txt",
+    "relative_path": "17725.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17725.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1151,
+    "mtime": 1782796478.7408755,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.972,
+    "sha1_quick": "44f56b0d6823daa47fbc53d1387fa537cbd16468",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

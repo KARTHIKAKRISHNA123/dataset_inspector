@@ -1,0 +1,91 @@
+{
+  "dataset": "15486.txt",
+  "file_name": "15486.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बजार पूँजिकरण ) भन्नाले सार्वजनिक रूपमा कारोबार हुने कम्पनीहरूको जारी गरिएको शेयरहरूका कुनै समय विन्दुमा भएको बजार मूल्यलाई जनाउँदछ । यो शेयरको मूल्य तथा बजारमा जारी गरिएको शेयरको संख्याको अंकसँग बराबर हुने गर्दछ । जारी गरिएको शेयरहरू शेयर बजारमा किन बेच गर्न सकिने हुँदा बजार पूँजिकरणलाई बजार सूचकको रूपमा प्रयोग गरिन्छ । यसलाई बजारको कम्पनीको नेट वर्थ प्रतिको प्रतिक्रियाको रूपमा तथा शेयर मूल्यांकनको आधारको रूपमा हेरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 426,
+    "text_length_max": 426,
+    "text_length_avg": 426.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1143,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15486.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15486.txt",
+    "relative_path": "15486.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15486.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1143,
+    "mtime": 1782796467.7976105,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a9919d2597c01e921e58201c38e98bc81ef4eb1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

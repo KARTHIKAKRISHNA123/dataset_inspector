@@ -1,0 +1,106 @@
+{
+  "dataset": "ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+  "file_name": "ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+  "source": "unknown",
+  "file_type": "docx",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "or",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text",
+    "style"
+  ],
+  "preview": [
+    "ଓଡ଼ିଶା ଇତିହାସ",
+    "ଓଡ଼ିଶା ଭାରତର ପୂର୍ବ ଉପକୂଳରେ ଥିବା ଏକ ପ୍ରଶାସନିକ ରାଜ୍ୟ । ଓଡ଼ିଶାର ପୂର୍ବ ଉପକୂଳରେ ବଙ୍ଗୋପସାଗର, ଉତ୍ତର-ପୂର୍ବରେ ପଶ୍ଚିମବଙ୍ଗ, ଉତ୍ତରରେ ଝାଡ଼ଖଣ୍ଡ, ପଶ୍ଚିମ ଓ ଉତ୍ତର-ପଶ୍ଚିମରେ ଛତିଶଗଡ଼, ଦକ୍ଷିଣ-ପଶ୍ଚିମରେ ଆନ୍ଧ୍ରପ୍ରଦେଶ ଅବସ୍ଥିତ । ଏହା ଆୟତନ ଓ ଜନସଂଖ୍ୟା ଦୃଷ୍ଟିରୁ ଯଥାକ୍ରମେ ଦେଶର ଅଷ୍ଟମ ଓ ଏକାଦଶ ରାଜ୍ୟ ।"
+  ],
+  "statistics": {
+    "records_sampled": 70,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 2520,
+    "text_length_avg": 344.69,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Oriya": 0.982,
+      "Devanagari": 0.0113,
+      "Latin": 0.0067
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 66853,
+    "estimated_records": 193
+  },
+  "schema": {
+    "columns": [
+      "text",
+      "style"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "style"
+    ],
+    "estimated_records": 193,
+    "raw_schema": {
+      "text": "str",
+      "style": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Oriya",
+    "languages_seen": [
+      "or"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "or",
+    "dominant_script": "Oriya",
+    "script_distribution": {
+      "Oriya": 0.9905,
+      "Devanagari": 0.0095
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "n_paragraphs": 61,
+    "n_tables": 1,
+    "headings_sample": []
+  },
+  "meta": {
+    "file_name": "ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+    "relative_path": "ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "ଓଡ଼ିଶାର_ଇତିହାସ.docx",
+    "source": "unknown",
+    "extension": "docx",
+    "file_type": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "compression": "none",
+    "size_bytes": 66853,
+    "mtime": 1782735947.9982715,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c18dc761613cfa8a8a2c2f3a3bf129b3a3c10631",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

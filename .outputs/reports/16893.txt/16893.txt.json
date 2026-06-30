@@ -1,0 +1,92 @@
+{
+  "dataset": "16893.txt",
+  "file_name": "16893.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भ्यागुतेरोग कोरिनेब्याक्टेरियम डिप्थेरी नामको ब्याक्टेरियमको सङ्क्रमणका कारणले हुने रोग हो। यसका लक्षणहरू सामान्यदेखि गम्भीरसम्मका हुन्छन्। सामान्यतया यस रोगका कीटाणुहरूको सम्पर्कमा आएको दुईदेखि पाँचदिनमा लक्षणहरू देखिन थाल्छन्। घाँटी दुख्ने र ज्वरोबाट सुरु हुने यसका लक्षणहरू बिस्तारै बढ्दो क्रममा देखा पर्छन्। गम्भीर खालका अवस्थाहरूमा घाँटीमा सेता वा खरानी रङ्गका टाटा देखा पर्छन्। यसले स्वास्प्रस्वासको बाटो छेकेर कुकुर भुकेको जस्तो आवाज आउने खोकी लाग्न सक्छ। लिम्फ नोडहरू बढ्ने हुनाले गर्धन केही ",
+    "साधारणतया भ्यागुतेरोग प्रत्यक्ष सम्पर्कबाट वा हावाको माध्यमबाट एक व्यक्तिबाट अर्को व्यक्तिमा सर्ने गर्छ। यो रोग ब्याक्टेरियाको सम्पर्कमा आएका वस्तुहरूबाट पनि मानिसमा सर्न सक्छ। केही मानिसहरूले कुनै प्रकारको लक्षण नदेखाइकन पनि भ्यागुतेरोगका कीटाणुहरू बोकेका हुन्छन्। यस्ता मानिसहरूबाट ती कीटाणुहरू अन्य मानिसहरूमा सरेर यो रोगले सक्रिय रूप लिन पनि सक्छ। भ्यागुतेरोगको कीटाणु कोरिनेब्याक्टेरियम डिप्थेरीका मुख्य तीन उपप्रजातिहरू छन् जसले मानव शरीरमा विभिन्न किसिमका जटिलताहरू ल्याउने गर्दछन्। सामान्यतया"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 564,
+    "text_length_max": 930,
+    "text_length_avg": 781.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10491,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16893.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16893.txt",
+    "relative_path": "16893.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16893.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10491,
+    "mtime": 1782796474.4545567,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2e4a818ac6416313376283f11dd3f7d9ddaf450b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

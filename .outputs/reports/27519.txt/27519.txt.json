@@ -1,0 +1,92 @@
+{
+  "dataset": "27519.txt",
+  "file_name": "27519.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जॉन फिट्जगेराल्ड \"जैक\" केनेडी एक अमेरिकी राजनीतिज्ञ र पत्रकार थिए जसले जनवरी 1961 देखि संयुक्त राज्य अमेरिकाको 35 औं राष्ट्रपतिको रूपमा सेवा गरे । सन् 1963 मा उनको हत्या भयो । ",
+    "सेनामा द्वितीय विश्व युद्धको समयमा मोटर तारोपडो जहाजको कमांडर पद पछि केनेडी ले 1947-1953 को बिच मैसेचुसेट को 11 औं जिल्लाको प्रतिनिधिधको भूमिका निभाए। त्यस पछि उनले अमरिकी सेनेट मा 1953-1960 सम्म काम गरे। पाछि केनेडीले उस समय उप-राष्ट्रपति रिचर्ड निक्सन को 1960 को राष्ट्रपति चुनावमा हरादिया र थाडोर रूजवेल्ट पछि 43 को दोसरो सबसे कम उमेरका के राष्ट्रपति बने। उनि 20 वी सदी को सबै भन्दा पहिले राष्ट्रपति पनि थिए। केनेडी एकमात्र यस्तो कैथोलिक राष्ट्रपति छ जसले पित्जी पुरस्कारबाट सम्मानित भए। उनको शासन"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 712,
+    "text_length_avg": 297.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6305,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27519.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27519.txt",
+    "relative_path": "27519.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27519.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6305,
+    "mtime": 1782796524.0396166,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e53a21cee5957a9d89cf445471bd5c0b7157905b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "12685.txt",
+  "file_name": "12685.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एसियाली विकास बैंक एक क्षेत्रीय विकास बैंक हो जसको स्थापना 19 डिसेम्बर 1966 मा को एसियाली राष्ट्रको आर्थिक विकासको सुहजीकरणको लागि भएको थियो। यो बैंक संयुक्त राष्ट्र एसिया तथा सुदुर पुर्वको लागि आर्थिक आयोग र गैर क्षेत्रीय विकसित राष्ट्रहरु सदस्य सम्मिलित भएको छ।यो बैंकको स्थापना 31 सदस्यको साथ भएको थियो, अहिले 67 सदस्य राष्ट्र छन् जसमध्ये 48 एशिया तथा प्यासिफिक क्षेत्रबाट छन् भने 19 सदस्य बाहिरी हुन् । एडीबी को प्रारूप धेरै हदसम्म वर्ल्ड बैंक को आधारमा बनेको थियो र वर्ल्ड बैंक जस्तै यहां पनि भा",
+    "एडीबी को शुरूआती दिन देखि नै आलोचकहरु दूई प्रमुख प्रदाताहरु, जापान र संयुक्त राज्य माथि \" व्यापक स्तर पर ऋण प्रदान गर्ने, नीति र कर्मचारी भर्ति गरेर निर्णयहरु प्रभावित गर्ने\" आरोप लगाउँदै आएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 198,
+    "text_length_max": 724,
+    "text_length_avg": 461.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2388,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12685.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12685.txt",
+    "relative_path": "12685.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12685.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2388,
+    "mtime": 1782796455.187506,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8f40a386976d6274fba7bb233cedd20f058db311",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

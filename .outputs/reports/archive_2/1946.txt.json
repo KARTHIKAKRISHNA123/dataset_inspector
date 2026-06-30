@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1946.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समुद्री तूफानलाई जापानीमा सूनामी भनिन्छ, अर्थात बन्दरगाहको नजिकको लहर। बस्तबमा यो धेरै लामो - अर्थात सैकडौ किलोमीटर चौडाई भएको लहर हुदछ, अर्थात लहरहरुको तल्लो हिस्साहरुको बीचको दुरी सैकडौ किलोमीटरको हुदछ। तर जब यो किनाराको नजिक आउदछ, तब लहरहरुको तल्लो हिस्सा जमीनलाई छुन थाल्दछ,- यसको गति कम हुन जान्छ, र ऊँचाई बढदछ। यस्तो स्थितिमा जब यो किनारामा ठोकिन थाल्दछ तब तबाही हुदछ। गति 400 किलोमीटर प्रति घण्टा सम्म, र ऊँचाई 10 देखि 17 मीटर सम्म। अर्थात नुनिलो पानीको चल्ने पर्खाल। धेरै जसो समुद्री भूकम्पको",
+    "समुद्रको भित्र अचानक जब धेरै ठूलो तेज हलचल हुन थाल्दछ तब त्यसमामा उफान उठद छ जसले यस्तो लामो र धेरै अग्लो लहरहरुको आधी उठन शुरू हुन जान्छ तब जबरदस्त आवेगको साथ अगाडि बढद छ, यिनै लहरहरुको आधीलाई सूनामी भनिन्छ। बास्तबमा सूनामी जापानी शब्द हो जुन सू र नामी मिलेर बनेको छ सू को अर्थ हुन्छ समुद्र तट ऱ नामी को अर्थ हुन्छ लहर। पहिले सूनामीलाई समुद्रमा उठने ज्वारभाटाको रूपमा पनि लिईन्थो तर यस्तो होईन। बास्तबमा समुद्रमा लहर चन्द्रमा सूर्य र ग्रहहरुको गुरुत्वाकर्षणको प्रभावबाट उठदछ तर सूनामी लहर यि अरु लहर"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 200,
+    "text_length_max": 680,
+    "text_length_avg": 481.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6267,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1946.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1946.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1946.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6267,
+    "mtime": 1782796625.3489082,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "941efa896a499c5bb85b6477ec25a4f3d5e23bde",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

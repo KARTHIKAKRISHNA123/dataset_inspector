@@ -1,0 +1,94 @@
+{
+  "dataset": "31054.txt",
+  "file_name": "31054.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नाभिकीय प्रतिक्रिया त्यो प्रक्रम छ जसमा मा दुई नाभिक वा नाभिकीय कण आपसमा टक्कर गर्नका पछि नये उत्पाद बनाउँदछन्। सिद्धान्ततः नाभिकीय प्रतिक्रियामा दुइभन्दा अधिक नाभिक पनि भाग लिन सक्छन् किन्तु दुइभन्दा अधिक नाभिकहरुका एकैचोटी टक्राउने प्रायिकता धेरै कम हुन्छ, यस कारण यस्तो प्रतिक्रियाहरु अत्यन्त कम हुन्छन्। ",
+    "Li-6 + H-2 -> n + He "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 308,
+    "text_length_avg": 120.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9883,
+      "Latin": 0.0117
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1619,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9883,
+      "Latin": 0.0117
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31054.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31054.txt",
+    "relative_path": "31054.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31054.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1619,
+    "mtime": 1782796540.6812193,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7dbf45a4e92e6a14c15475231af498f0e2c8c2bf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

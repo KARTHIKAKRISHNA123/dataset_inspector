@@ -1,0 +1,91 @@
+{
+  "dataset": "724.txt",
+  "file_name": "724.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वटुकभैरव मन्दिर दैलेख जिल्लाको नारायण नगरपालिकामा पर्ने दैलेख बजारको मध्यभाग टुडीखेल नजिकै रहेको छ। यस मन्दिरको परिसरमा वटुकभैरवका साथै कालभैरव र व्रजभैरवका मन्दिरहरू पनि रहेका छन्। मन्दिरका पूजारीसँग रहेको विक्रम सम्वत 1870 र विक्रम सम्वत 1910 को नित्यपूजासम्बन्धी, विक्रम सम्वत 1937 को नित्यपूजासम्बन्धी दुईछापे रुक्का र 1971 को चन्द्रसमशेरको इस्तिहारलगायत ऐतिहासिक कागजपत्रको आधारमा विक्रम सम्वत 1870 भन्दा पहिले यस मन्दिरको स्थापना भइसकेको देखिन्छ। यिनै कागजपत्रको आधारमा र स्थानिय जनविश्वासका आध"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1087,
+    "text_length_max": 1087,
+    "text_length_avg": 1087.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2897,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "724.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\724.txt",
+    "relative_path": "724.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "724.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2897,
+    "mtime": 1782796593.5584886,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e2cee9ce175625f51882574516c25b5de1d5760e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

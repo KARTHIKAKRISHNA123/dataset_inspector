@@ -1,0 +1,92 @@
+{
+  "dataset": "36694.txt",
+  "file_name": "36694.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उबुन्टु डेस्कटप लक्षित एउटा एकदमै प्रचलित लिनक्स वितरण हो जुन डेबियन लिनक्समा आधारित छ। यस वितरणमा उपयोगितालाई निक्कै प्राथमिकता दिइएको छ। यसको विकास र प्रबर्धनलाई आइल-अफ-म्यान स्थित क्यानोनिकल लिमिटेडले प्रायोजन गरेको छ, जुन दक्षिण-अफ्रिकी अर्बपति उद्यमी मार्क सटलवर्थको निजी संस्था हो।यस बितरणको नाम अफ्रिकी विचार \"उबुन्टु\"मा आधारित छ, जसको झर्रो अनुबाद अरु प्रति मानवता हुन्छ। यसको प्रयोग विशेषत: डेस्कटप कम्प्युटर र ल्यापटपमा गरिन्छ। तर यसको सर्भर संस्करण पनि निक्कै प्रचलित छ।",
+    "यसको सबैभन्दा नयाँ संस्करण 16.10सिड क् हो जुन सनअप्रिलमा प्रकाशन ग छ। थियो।आासंरण 1मेरि िरक्को नन 20क्टा गर य भए"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 481,
+    "text_length_avg": 296.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1571,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36694.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36694.txt",
+    "relative_path": "36694.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36694.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1571,
+    "mtime": 1782796566.6023388,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "7606d3ca5ae04f4b21bcc2595a7a18dca1fbdb3f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

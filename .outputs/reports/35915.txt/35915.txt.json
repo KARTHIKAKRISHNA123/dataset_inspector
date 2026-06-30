@@ -1,0 +1,92 @@
+{
+  "dataset": "35915.txt",
+  "file_name": "35915.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आईसीसी क्रिकेट विश्वकप पुरुषहरुको एकदिवसीय को मुख्य अन्तर्राष्ट्रिय प्रतियोगिता हो । यस खेलको आधिकारिक निकाय अन्तर्राष्ट्रिय क्रिकेट परिषद द्वारा यो प्रतियोगिता प्रत्येक चार बर्षमा आयोजित गर्ने गरिन्छ । यो प्रतियोगिता संसारमा सबैभन्दा बढी दर्शकद्वारा हेरिएको खेल प्रतिस्पर्धा मध्ये एक हो । यो फिफा विश्वकप र ओलम्पिक खेल भन्दा पछाडी रहेको छ ।",
+    "पहिलो पटक विश्व कप 1975 इङ्ल्यान्डमा आयोजित गरिएको थियो । पहिलो तीन विश्व कप इइङ्ल्यान्डले नै आयोजना गरेको थियो । तर 1987 पछी प्रत्येक चार बर्षमा अन्य देशहरुमा आयोजना गर्ने गरिन्छ । हालै 2011 मा आयोजना भएको यो टुर्नामेन्ट भारत, श्रीलङ्का र बङ्गलादेश मा भएको थियो जसको उपाधी भारत ले जितेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 200,
+    "text_length_max": 341,
+    "text_length_avg": 278.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2203,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35915.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35915.txt",
+    "relative_path": "35915.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35915.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2203,
+    "mtime": 1782796562.9820013,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7003768c5721a68f69542f294db23f53b1fe5009",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

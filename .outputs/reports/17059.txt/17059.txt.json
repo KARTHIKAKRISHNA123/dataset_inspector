@@ -1,0 +1,94 @@
+{
+  "dataset": "17059.txt",
+  "file_name": "17059.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " यो विज्ञान स्म्बन्धित लेख आफ्नो प्रारम्भिक अवस्थामा छ, अथवा यो एक आधार हो। तपाईं यसलाई बढ़ाएर विकिपिडियालाई मदद गर्न सक्नुहुन्छ।",
+    "तरंगदैर्घ्य: 10 mदेखि 1 m "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 253,
+    "text_length_avg": 136.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9748,
+      "Latin": 0.0252
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1406,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9748,
+      "Latin": 0.0252
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17059.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17059.txt",
+    "relative_path": "17059.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17059.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1406,
+    "mtime": 1782796475.1884995,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "d13e926e8ad6127b97364ae15e1787919358c80a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

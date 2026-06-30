@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1222.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थ्री स्टार क्लबले 2075 सालमा कुल 3 वटा नेपाली घरेलुु फुटबल प्रतियोगिता खेलेको थियो। जस मध्ये वर्षको पहिलो फुटबल प्रतियोगिता माईभ्याली गोल्डकप 2075 जित्दै सुखद सिजनको सुरूवाट गरेको थियो।थ्री स्टारले फाइनलमा चिरपरिचित प्रतिद्वन्द्वी मनाङ मर्स्याङ्दी क्लबलाई फाइनलमा 1-0 ले पछि पार्दै वर्षको पहिलो उपाधि जित्ने क्लब मा आफ्नो नाम दर्ता गराएको थियो।",
+    "यस्तै क्लबले वैशाख महिनामै दमक गोल्डकप 2075 को पहिलो क्वाटरफाइनल खेलमा नेपाल पुलिस क्लब सँग 0-1 ले पराजित भएको थियो।भने उदयपुर गोल्डकप 2075 को पहिलो खेल खेल्दै प्रतियोगितामा सुखद सुरूवाट गरेको थियो।मोरङ 11 क्लबलाई 4-1 गोल अन्तरले पराजित गर्दै क्लबले सेमिफाइनलमा स्थान बनाएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 280,
+    "text_length_max": 344,
+    "text_length_avg": 312.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1638,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1222.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1222.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1222.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1638,
+    "mtime": 1782796610.887145,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f3907248623f8924c6be09dab7b136964664a1a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

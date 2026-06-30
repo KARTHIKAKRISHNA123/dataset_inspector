@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8038.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फाहियान प्राचीन चीनका एक बौद्ध भिक्षु तथा प्रसिद्ध तीर्थयात्री थिए। यिनले सन् 399-412 ताका चीनबाट तिब्तत हुँदै वर्तमान पाकिस्तान, भारत, नेपाल, बङ्गलादेश, श्रीलङ्का आदि देशको पैदल भ्रमण गरेका थिए। यिनको भ्रमणको मुख्य उद्देश्य बौद्ध तीर्थयात्रा तथा बौद्ध धर्म सम्बन्धी कृतिहरू बटुल्नु थियो। ",
+    "फाहियानले आफ्नो यात्रा विवरणमा कपिलवस्तु दरवारको कलात्मकता तथा अन्य वास्तुकलाको वर्णन गरेका छन्। यिनले नेपाल बारे धेरै कुरा उल्लेख गरेका छन्। यिनले उल्लेख गरेका कुराबाट नेपालको इतिहास बुझ्न सहयोग पुगेको छ। यिनले त्यसबेलाको देवपत्तनलाई निकै आकर्षक ठाउँ भनेर वर्णन गरेका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 289,
+    "text_length_avg": 235.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1883,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8038.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8038.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8038.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1883,
+    "mtime": 1782796671.8649645,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0d7e986d1215b846b7e90809d4cbc99ad71e93fa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "13647.txt",
+  "file_name": "13647.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "– Africaमा – the African Unionमा  — ",
+    "सिएरा लिओन आधिकारिक रूपमा सिएरा लिओन गणतन्त्र, पश्चिम अफ्रीकाको एक देश हो । यसको उत्तरपूर्वीमा गिनी, दक्षिणपूर्वीमा लिबेरिया र दक्षिणपश्चिममा अटलांटिक महासागरको सिमाना रहेको छ । यो देशको कुल क्षेत्र 71,740 किलोमिटर रहेको छ र 2015 को जनगणना अनुसार 7,075,641 जनसंख्या छ । सिएरा लियोन एक प्रत्यक्ष निर्वाचित राष्ट्रपति र एक संयुक्त राष्ट्र विधान संग एक संवैधानिक गणतन्त्र राष्ट्र हो । यसमा एक प्रमुख एकतापूर्ण केन्द्रीय सरकार छ, र देशका राष्ट्रपतिमा व्यापक शक्ति र प्रभाव छ । देशको राजधानी र सबैभन्दा ठू"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 597,
+    "text_length_avg": 316.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.958,
+      "Latin": 0.042
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1599,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.958,
+      "Latin": 0.042
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13647.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13647.txt",
+    "relative_path": "13647.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13647.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1599,
+    "mtime": 1782796459.5088382,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "ea6a662bbc368790630eeadbe1f38b8b8e4fbea0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

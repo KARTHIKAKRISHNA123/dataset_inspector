@@ -1,0 +1,92 @@
+{
+  "dataset": "37602.txt",
+  "file_name": "37602.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालका बिभिन्न पिछडिएका या अविकसित स्थलहरुमा घरेलु हिंसाहरु देखिन्छन। नेपालमा घरेलु हिंसा भोगिरहेका मनिसले शारिरीक, मानसिक, यौनिक तथा आर्थिक यातनाहरू सहनुपरेको हुन्छ । समाजशास्त्रीय तथा मानवशास्त्रीय दृष्टिकोणमा हिंसा, सामाजिक व्यवस्था र संरचनाको उपजको रूपमा लिइन्छ । यो पारिवारिक, स्थानीय, राष्ट्रिय सबै तहमा देख्न सकिन्छ । राजनीतिक, आर्थिक, सामाजिक र सांस्कृतिक संरचनाले समाजमा हिंसा बढेको छ । महिला भएको कारणबाट महिलामाथि गरिने शारीरिक, मानसिक, सामाजिक तथा बौद्धिक शोषण, दमन, यातना र दुरव्यवहारहर",
+    "बेइजिङ घोषणपत्र तथा कार्यनीति –1995 को पारित प्रस्तावमा महिला विरूद्धको हिंसा भन्नाले ‘‘निजी वा सार्वजनिक जीवनमा मानसिक वा शारीरिक रूपमा खतरा पु-याइने खालका लिङ्गमा आधारित गतिविधि हरूलाई बुझ्नु पर्दछ ।” "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 203,
+    "text_length_max": 525,
+    "text_length_avg": 364.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1946,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37602.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37602.txt",
+    "relative_path": "37602.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37602.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1946,
+    "mtime": 1782796571.2193565,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4bb2501e6c3e38630caee7e9a89824c97a4c3385",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

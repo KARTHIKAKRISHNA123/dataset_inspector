@@ -1,0 +1,92 @@
+{
+  "dataset": "37713.txt",
+  "file_name": "37713.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यस प्रतियोगितामा जम्मा कुल16 टिमलेसहभागीता जनाएका थिए। सहभागी कुल 16 टिमहरू मध्ये 8-8 वटा टिमको दुईवटा समूह बनाइएको थियो ।लिग खेल रहेको समूह चरण होम एण्ड अवे खेल प्रणाली अन्तर्गत संचालन भएको थियो । ",
+    "हरेक टिमले समूह चरणमाहोम एण्ड अवे फरम्याटमा 14 खेल खेलेका थिए । भने समूह चरणबाट उत्कृष्ट चार टोलीहरू क्वाटरफाइनलका लागि छनोट भएका थिए। आफ्नै कोर्टमा 7 खेल भने बाहिर गएर7 लिग खेल खेलेका हरेक टिमहरूले । हरेक हप्ता 2 खेल खेलेका थिए।साथै टुर्नामेन्टकाठमाडौं, ललितपुर रभक्तपुरमा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 115,
+    "text_length_max": 285,
+    "text_length_avg": 179.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1877,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37713.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37713.txt",
+    "relative_path": "37713.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37713.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1877,
+    "mtime": 1782796571.827592,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "3b3f11350865407054e279d96809b9c2ea8a68e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

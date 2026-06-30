@@ -1,0 +1,92 @@
+{
+  "dataset": "33678.txt",
+  "file_name": "33678.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिशेल इंग्रिड विलियम्स अमेरिकी अभिनेत्री हुन्। सुरुवाती 1990मा टेलिभिजनमा अतिथि भूमिकाहरू बाट सुरुवात गरे पछि विलियम्सलाई डब्ल्यू बी टेलिभिजन शृंखला डसंस् क्रिकमा आफ्नु पात्र जेन लिंडलेबाट सफलता प्राप्त भयो । विलियम्सले हैलोवीन एच20:20 इयर्स लेटर, डिक र प्रोजैक नेशन जस्ता चलचित्रहरूमा पनि अभिनय गरेकी छिन् । उनले 2016मा सर्टेन् विमिनमा अभिनय गरेकी छिन् । यसका साथै मेनचेस्टर बाइ द सी र ब्लु भेलेन्टाइन् जस्ता चलचित्रमा पनि अभिनय गरेकी छिन् । उनले 2013मा टिन चोइज अवार्ड प्राप्त गरिन् ।",
+    "उनको जन्म सेप्टेम्बर 9, 1980मा कलिस्पेल, मोंटाना, अमेरिकामा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 486,
+    "text_length_avg": 278.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1447,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33678.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33678.txt",
+    "relative_path": "33678.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33678.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1447,
+    "mtime": 1782796552.676819,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "6821508105c2add74a9e588c56b7798d22001da7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

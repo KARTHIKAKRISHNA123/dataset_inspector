@@ -1,0 +1,92 @@
+{
+  "dataset": "29421.txt",
+  "file_name": "29421.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पटियाला भारतको पञ्जाब प्रान्तको एक नगर र भूतपूर्व राज्य हो। पटियाला जिल्ला पूर्ववर्ती पञ्जाबको एक प्रमुख राज्य थियो। आज यो पञ्जाब राज्‍यको पाँचौं सबैभन्दा ठूलो जिल्ला हो। पटियालाको सीमाहरू उत्‍तरमा फतेहगढ, रूपनगर र चंडीगढबाट, पश्चिममा संगरूर जिल्लाहरूबाट, पूर्वमा अंबाला र कुरुक्षेत्रदेखि र दक्षिणमा कैथलसित मिल्दछन्। पटियाला पैगका लागि प्रसिद्ध यो स्‍थान शिक्षाका क्षेत्रमा पनि अग्रणी रह्यो। देशको पहिलो डिग्री कलेज मोहिन्दर कलेजको स्‍थापना 1870मा पटियालामा नैं भएको थियो।",
+    "पटियालाको आफ्नो एक अलग संस्‍कृति छ जो यहाँका मानिसेको विशेषतालाई दर्शाउँदछ। यहाँका वास्‍तुशिल्‍पमा राजपूत शैलीको पुट देखा पर्छ तर यो शैली पनि स्‍थानीय परम्पराहरूमा ढलेर एक नया रूप लिसकेकोछ। पटियालाको किला मुबारक परिसर त जस्तै सुन्दरताको खान छ। एक नैं जग्गामा धेरै खूबसूरत इमारतहरूलाई हेर्न पाउनु आफ्नो तपाईंको अनौठो अनुभव छ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 108,
+    "text_length_max": 600,
+    "text_length_avg": 304.21,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15557,
+    "estimated_records": 51
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 51,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29421.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29421.txt",
+    "relative_path": "29421.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29421.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15557,
+    "mtime": 1782796533.0084956,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0f74becd50a8e3c142cdca5b4920cb233e66d2ea",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

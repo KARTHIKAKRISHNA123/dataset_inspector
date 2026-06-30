@@ -1,0 +1,91 @@
+{
+  "dataset": "17898.txt",
+  "file_name": "17898.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1974 फिफा विश्वकप, फिफा विश्वकपको दसौं संस्करण हो जुन 13 जून देखि 7 जुलाई सम्म पश्चिम जर्मनीमा आयोजना भएको थियो । प्रतियोगितामा पहिलो पटक मूर्तिकला सिल्भियो गेजजानिगा द्वारा बनाइएको फिफा विश्वकप ट्रफीलाई बिजेतालाई सम्मानित गरिएको थियो । अघि ट्रफी, जोल्स रिमिट ट्राफी, तेस्रो पटक ब्राजिलले 1970 मा जितेको थियो र स्थायी रूपमा ब्राजिललाई नै सम्मानित गरिएको थियो । म्युनिखको ओलम्पिकेडियनमा फाइनलमा नेदरल्याण्ड्सलाई 2-1 को गोल अन्तरमा हराउँदै आयोजक राष्ट्र बिजेता वनेको थियो । यो उपाधी 1954मा जिते सँगै पश"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 735,
+    "text_length_max": 735,
+    "text_length_avg": 735.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1914,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17898.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17898.txt",
+    "relative_path": "17898.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17898.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1914,
+    "mtime": 1782796479.6058335,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "8280ecbd3826c6d28bbb80a34e34dda285f07a61",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

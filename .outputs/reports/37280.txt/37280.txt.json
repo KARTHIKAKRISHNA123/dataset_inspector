@@ -1,0 +1,96 @@
+{
+  "dataset": "37280.txt",
+  "file_name": "37280.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिल्लीको जामा मस्जिद",
+    "जामा मस्जिदको निर्माण सन् 1656मा सम्राट शाहजहाँले गरेको थियो। यो पुरानो दिल्लीमा स्थित छ। यो मस्जिद रातो र संगमरमरका पत्थरहरूको बनेकाको छ। रातो किल्लादेखि महज 500 मी.को दूरीमा जामा मस्जिद स्थित छ जो भारसम्मो सबैभन्दा ठूलो मस्जिद छ। यस मस्जिदको निर्माण 1650मा शाहजहाँले शुरु गराए। यसलाई बन्नमा 6 वर्षको समय र 10 लाख रु.लाग्थ्यो। बलुआ पत्थर र सेतो संगमरमरले निर्मित यस मस्जिदमा उत्तर र दक्षिण द्वारहरूदेखि प्रवेश गर्न सकिन्छ। पूर्वी द्वार केवल शुक्रवारलाई नैं खुल्दछ। यसका बारेमा भनिन्छ कि सुल्तान यसै "
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 726,
+    "text_length_avg": 65.82,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.714,
+      "Latin": 0.286
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2464,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.714,
+      "Latin": 0.286
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37280.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37280.txt",
+    "relative_path": "37280.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37280.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2464,
+    "mtime": 1782796569.4565978,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "67f378817d9001233439c89a4e648e25800309c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

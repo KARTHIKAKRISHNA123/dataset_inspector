@@ -1,0 +1,92 @@
+{
+  "dataset": "22270.txt",
+  "file_name": "22270.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो स्टुडियो 54 नेटवर्क, वा स्टुडियो 54 नेटवर्क लोक्रि, क्यालाब्रिया मा अवस्थित एक इटालियन निजि रेडियो स्टेशन हो । स्टुडियो 54 नेटवर्कले दक्षिणी इटालीका पाँच क्षेत्रहरूका नौ प्रान्तहरू बाट कार्यक्रमहरू प्रसारण गर्छ । साथै यसले इन्टरनेट स्ट्रिमिङ्गको माध्यमबाट विश्व भरी प्रसारण गर्छ ।",
+    "स्टुडियो 54 नेटवर्कको स्थापना 6 जुन 1985 मा फ्रान्सेस्को मासरा र पिट्रो प्यारेट्टाले एन्जो गाटो, मेमो मिनिटी तथा पियट्रो मस्मेसीसँग मिलेर रेडियो डिजे स्टुडियो क्लब 54 नाम राखी लोक्रिमा स्थापना गरेका थिए । स्टुडियो 54 नेटवर्कको कार्यालय लोक्रिमा भिया डन भिट्टोरियो 148 मा अवस्थित छ । यसको नारा इटालियन उच्चारण:, गायक बब मार्लीको चर्चित भनाई \"संगितको एउटा राम्रो पक्ष भनेको, जब यसले तिमीलाई छुन्छ तिमीलाई कुनै दुख हुदैन \" को इटालियन अनुवाद हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 442,
+    "text_length_avg": 248.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3253,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22270.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22270.txt",
+    "relative_path": "22270.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22270.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3253,
+    "mtime": 1782796500.0225985,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6b5b9f46c0942cecd85d62ec2e6bdfed93e050f4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

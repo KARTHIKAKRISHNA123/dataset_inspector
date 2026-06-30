@@ -1,0 +1,96 @@
+{
+  "dataset": "12267.txt",
+  "file_name": "12267.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महासी सयादो उ सोभन ] बर्माको एक प्रसिद्ध बौद्ध भिक्षु हुन।",
+    "महासी सयादोले बौद्ध साहित्य सम्बन्धि झन्डै 70 जति पुस्तकहरु बर्मेली भाषामा लेखेका थिए; जसमध्ये धेरै जसो उनको धर्मदेशनाबाट तयार पारिएको थियो। उनलेे, पाँचौ शताब्दीमा भारतीय थेरवादी बौद्ध टीकाकार एवं विद्वान बुद्धघोषद्वारा लिखित एक लामो ध्यानमा आधारित टीका बिसुद्धिमार्ग, लाई पनि बर्मेली भाषामा अनुवाद गरेका थिए; भने Manual of Vipassana Meditation नामक पुस्तक पनि लेखेका थिए।उनको अङ्ग्रेजी भाषाका कृतिहरु निम्नानुसार छन:"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 417,
+    "text_length_avg": 131.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8432,
+      "Latin": 0.1568
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1270,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8432,
+      "Latin": 0.1568
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12267.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12267.txt",
+    "relative_path": "12267.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12267.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1270,
+    "mtime": 1782796453.2119877,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "35c581708af81f6b0bb1c21410807c43d5d53264",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

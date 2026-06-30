@@ -1,0 +1,92 @@
+{
+  "dataset": "34003.txt",
+  "file_name": "34003.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संसार, विश्व, पृथ्वी, भूगोल यी सबै शब्दले एउटै अर्थ जनाउँछ त्यो हो हामी बसोवास गरेको समग्र धर्ती। ",
+    "पृथ्वीको उत्पत्ति सम्बन्धि विभिन्न धारणाहरू प्रचलनमा रहेका छन्। प्राचीन समयमा धार्मिक विश्वासका आधारमा पृथ्वीको उत्पत्तिका विभिन्न कथाहरू भनिन्थ्यो। पृथ्वी सूर्यबाट टुक्रिएर आएको एक पिण्ड हो जसले सूर्यलाई परिक्रमा गर्दछ भन्ने तर्क पछिल्ला सबैभन्दा सत्यतापूर्ण सावित भएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 1778,
+    "text_length_avg": 383.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7034,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34003.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34003.txt",
+    "relative_path": "34003.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34003.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7034,
+    "mtime": 1782796554.2027197,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fcdfc936296fc3c02f921389d1ee73df618181c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

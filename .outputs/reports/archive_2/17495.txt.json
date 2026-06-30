@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17495.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुमन पोखरेल जन्म सन् 1967, सेप्टेम्बर 21 विक्रम सम्बत्: 2024, असोज 05) नेपाली कवि, गीतकार, नाटककार, अनुवादक तथा कलाकार हुन् । उनका रचनाहरू विभिन्न भाषामा अनुदित भई अन्तर्राष्ट्रिय स्तरमा प्रकाशित भएका छन् । ",
+    "सुमन पोखरेल एक महत्वपूर्ण दक्षिण एसियाली कविका रूपमा चिनिन्छन् । उनी सन् 2013 तथा सन् 2015 को सार्क साहित्य पुरस्कारद्वारा विभूषित भएका छन् । सो पुरस्कार दुई पटक प्राप्त गर्ने उनी एक मात्र कवि/लेखक हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 1237,
+    "text_length_avg": 388.97,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9984,
+      "Latin": 0.0016
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 29973,
+    "estimated_records": 77
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 77,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17495.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17495.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17495.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 29973,
+    "mtime": 1782796621.4650025,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5e5a959d108e047acc46b386009341377696f2e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

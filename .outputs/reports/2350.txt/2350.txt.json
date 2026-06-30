@@ -1,0 +1,91 @@
+{
+  "dataset": "2350.txt",
+  "file_name": "2350.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतबाट शिक्षा हासिल गरेका युवाहरूले वि.सं. 1993 सालमा काठमाडौंमा महावीर स्कुलको स्थापना गरे। स्थापना गर्ने युवाहरूमा चिनियाँमान, फत्तेबहादुर, पूर्णनारायण, टंक विलास, सिद्धिचरण आदि प्रमुख थिए। स्कुल स्थापना जुद्धशमशेरलाई सह्य भएन र बन्द गराई चिनियाँमान र फत्तेबहादुरलाई आजीवन तथा पूर्णनारायण, चन्द्रमान र सिद्धिचरणलाई 12/12 वर्ष जेल र अन्य केहीलाई नगद जरिवाना गरियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 366,
+    "text_length_max": 366,
+    "text_length_avg": 366.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 968,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2350.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2350.txt",
+    "relative_path": "2350.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2350.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 968,
+    "mtime": 1782796505.4370263,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "33dede0d3275b32c71169db927a0ce683613cf69",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

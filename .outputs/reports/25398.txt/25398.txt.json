@@ -1,0 +1,91 @@
+{
+  "dataset": "25398.txt",
+  "file_name": "25398.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थुन्से बास र निगलोको मसिनो कप्टेरा र चोया बाट बनाईएको झन्डै डोको जस्तो सोली आकारको माल सामान राख्न र बोक्न प्रयोग गरिने सामान हो। डोकोमा धेरै बासको कप्टेरा प्रयोग गरिन्छ भने, थुन्सेमा चोयाको प्रयोग हुन्छ र डोकोजस्तो जालीदार नभई अन्न वा बालुवाजस्ता सामग्री बोक्न मिल्ने किसिमले बनाइएको हुन्छ। डालोजस्तै गरी बुनिए पनि आकारमा यो डोकोसित मिल्दोजुल्दो हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 353,
+    "text_length_max": 353,
+    "text_length_avg": 353.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 946,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25398.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25398.txt",
+    "relative_path": "25398.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25398.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 946,
+    "mtime": 1782796514.1986005,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3365f26719ac211e5528f3eebdd0413a8dc9eeb1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

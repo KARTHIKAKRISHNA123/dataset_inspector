@@ -1,0 +1,92 @@
+{
+  "dataset": "5017.txt",
+  "file_name": "5017.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सहिद लखन गाउँपालिका गोरखा जिल्लामा अवस्थित छ । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा गोरखा जिल्लामा साविकका बुङकोट, नाम्जुङ, घैरूङ, बक्राङ, ताक्लुङ र मनकामना गाउँ विकास समितिहरूलाई समेटेर सहिद लखन गाउँपालिका घोषणा गरिएको हो ।",
+    "सहिद लखन गाउँपालिकाको क्षेत्रफल 148.97 वर्गकिलोमिटर रहेको छ । यो गाउँपालिका 9 वडाहरूमा विभाजन गरिएको छ । यस गाउँपालिकको कूल जनसंख्या 27,555 रहेको छ । यसको सीमाना पूर्वमा भीमसेन, गण्डकी गाउँपालिका र धादिङ जिल्ला, पश्चिममा गोरखा नगरपालिका र तनहुँ जिल्ला, उत्तरमा गोरखा नगरपालिका र भीमसेन गाउँपालिका र दक्षिणमा गण्डकी गाउँपालिका, चितवन र तनहुँ जिल्लासँग जोडिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 362,
+    "text_length_avg": 317.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1656,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5017.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5017.txt",
+    "relative_path": "5017.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5017.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1656,
+    "mtime": 1782796582.5030787,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "51730373e5dc864068236e88e5512edf991cd308",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

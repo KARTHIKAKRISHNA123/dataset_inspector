@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26553.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 55°42′10″ उत्तर 37°31′50″ पूर्व / 55.70278° उत्तर 37.53056° पूर्व / 55.70278; 37.53056",
+    "मास्को राज्य विश्वविद्यालय' रूसमा सबैभन्दा ठूलो र सबैभन्दा पुरानो विश्वविद्यालय हो। यो 1755 मा बनाइएको थियो र मस्कोमा छ। यो इवान शुभलोव र मिखाइल लोमोमोरोवद्वारा बनाइएको थियो। यसलाई लोनोसोसोभ पछि नाम दिइएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 208,
+    "text_length_avg": 153.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 725,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26553.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26553.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26553.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 725,
+    "mtime": 1782796639.3107564,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "7863fb26cc920f78c0e69c8276c5e0c2b9932520",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

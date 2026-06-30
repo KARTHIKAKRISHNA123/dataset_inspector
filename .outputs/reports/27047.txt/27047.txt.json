@@ -1,0 +1,91 @@
+{
+  "dataset": "27047.txt",
+  "file_name": "27047.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकआपसमा सम्बन्धित भाषाहरूको परिवारलाई भाषा परिवार भनिन्छ । यो एउटै पूर्वजको वंशजको माध्यमले सम्बन्धित भाषाहरूको एउटा समुह हो । कुन भाषा कुन भाषा परिवार अन्तर्गत पर्छ, त्यसको लागि वैज्ञानिक आधार रहेको छ । हाल विश्वको भाषाहरूको तीन अवस्थाहरु छन् । विभिन्न देशहरूको प्राचीन भाषाहरूको जसको अध्ययन र वर्गीकरण पर्याप्त सामग्रीको अभावमा हुन सकेन तिनीहरू पहिलेको अवस्थामा छन् । यिनीहरुको अस्तित्व यिनीहरुकै उपलब्ध प्राचीन शिलालेखहरु, सिक्काहरु र हस्तलिखित पुस्तकहरुमा अझै अहिले पनि सुरक्षित छ । पहिलो अवस्थाक"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 989,
+    "text_length_max": 989,
+    "text_length_avg": 989.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2651,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27047.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27047.txt",
+    "relative_path": "27047.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27047.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2651,
+    "mtime": 1782796521.851769,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72e7dd24a5ded3d93fecfb01d57e8c7bd2396762",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

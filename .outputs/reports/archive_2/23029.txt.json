@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मौसम पोर्टल",
+    "वसन्त ऋतु शिशिर ऋतु र गृष्म ऋतुको बिचमा आउने तथा 6 वटा ऋतुहरूमा मनमोहक ऋतु हो । वसन्त भन्नाले बहार भन्ने बुझिन्छ । वसन्त ऋतुमा प्रकृतीको बहार आउँछ । हिन्दू धर्मको महान ग्रन्थ गीतामा भगवान श्री कृष्णले अर्जुनलाई \"म ऋतुहरूमा वसन्त ऋतु हुँ\" भनेका छन्। पौराणिक तथा आधुनिक कविहरूले बसन्त ऋतु माथी सयौँ कविताहरू लेखेका पाइन्छन । बसन्तमा न गर्मी न चिसो ठिक कै मौसम हुन्छ। प्रकृतीले नौलो काँचुली बदल्छ । हिन्दू महिनाहरूको 2 महिना चैत्र र बैसाख महिना बसन्त ऋतु भित्र पर्दछन । बसन्त ऋतु सबैभन्दा राम्रो, रमाइला"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 683,
+    "text_length_avg": 347.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1836,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23029.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1836,
+    "mtime": 1782796632.4657388,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "28f4bdc78a7da0e08e5bc247a7a9ff942b1cb1a3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

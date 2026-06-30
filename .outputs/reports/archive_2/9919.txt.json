@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9919.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खुला ज्ञान प्रतिस्ठान नेपाल Open Knowledge Foundation ओकेएफएन 2004मा स्थापित गैर नाफामुलक संस्था हो । विशेष गरी खुला ज्ञानको प्रबधनका निम्ति सामग्री, परियोजना तथा समुदाय निर्माणमा समर्पित हुन यसको सुरुवात गरिएको हो । यो यस क्षेत्रकोलागि राष्ट्रिय तथा अन्तरास्ट्रिय स्तरको नेतृत्वकारी संस्था हो ।",
+    "नेपाल अध्याय को स्थापना फेब्रुरी 2013मा भएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 398,
+    "text_length_avg": 228.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2965,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9919.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9919.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9919.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2965,
+    "mtime": 1782796675.6114135,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "f8b30eb49c09630d6b10f14dd11e14a1a15265c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

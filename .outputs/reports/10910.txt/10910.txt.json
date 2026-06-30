@@ -1,0 +1,96 @@
+{
+  "dataset": "10910.txt",
+  "file_name": "10910.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोन फेलिक्स एन्थोनी सिना एक अमेरिकी रेस्लर, हिप-हप गायक र कलाकार हुन्। उनी अहिले डब्लु.डब्लु.इसँग सम्बन्धित छन्। जोन सिना डब्लु.डब्लु.इको बाहिरी मुहार हुन्। उनी हाल डब्लु डब्लु इ मा कार्यरत छन्। ऊनी 16 पटक डब्लुडब्लुई विश्व बिजेता रहेका छन्| ",
+    "रेस्लिङ बाहेक जोन सिनाले यु क्यान्ट सि मि नामक हिप-हप एल्बम निकालेका छन् र द मेरिन, 12 राउन्ड, and लिजेन्डरि जस्ता फिल्ममा अभिनय गरेका छन्।. उनी पनि मेनहन्ट, डिल अर नो डिल, म्याड टि.भि., शनिबार राति प्रत्यक्ष, पङ्क'डि, साईक, र पार्क र रिक्रिएशन जस्ता टेलिभिजन कार्यक्रममा पनि देखा परेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 473,
+    "text_length_avg": 269.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8037,
+      "Latin": 0.1963
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3089,
+    "estimated_records": 11
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 11,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8037,
+      "Latin": 0.1963
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10910.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10910.txt",
+    "relative_path": "10910.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10910.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3089,
+    "mtime": 1782796446.9364781,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "e0776f1dcd363798d439cf46752a708508976d6c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15514.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Around 26, see text.",
+    "कोइली एक मिठो बोली भएको पंक्षी हो। यिनी हरु अन्य आगन्तुक चराहरु संगै गृष्म ऋतुमा नै नेपाल को विभिन्न जंगलहरुमा भित्रिएका हुन्छन। बसन्त ऋतुको आगमनसँगै कोइली मिठो स्वर \"कुहु\" \"कुहु\" सुनिन थाल्छ। चरा विषेशङ्य का अनुसार भाले कोइली ले पोथी लाई आकर्षित गर्न कराउने गर्दछ। पोथी कोइलीलाई कादम्बरी भनिन्छ। मध्यरातको सन्नाटामा काठमाडौंमा कुहुकुहु भनी कराउने भाले कोइली का कारण धेरै जसो लाई कोइली कालो रंग को मात्र हुन्छ भन्ने भ्रम रहेको छ| तर यी विविध रंग का पाइन्छन।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 767,
+    "text_length_avg": 366.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9893,
+      "Latin": 0.0107
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3866,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9893,
+      "Latin": 0.0107
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15514.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15514.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15514.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3866,
+    "mtime": 1782796617.5644321,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e69cf4962920c3b9ac621845c57e17137178962c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

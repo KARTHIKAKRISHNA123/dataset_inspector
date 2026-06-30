@@ -1,0 +1,91 @@
+{
+  "dataset": "37926.txt",
+  "file_name": "37926.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं. 2042 असार 6 गतेका दिन नेपाली कांग्रेसले सत्याग्रह गरिरहेकै बेला नारायणहिटी पश्चिम ढोकानजीक, राष्ट्रिय पञ्चायतको अर्थात् हालको प्रतिनिधिसभा भवनको मूलद्वार अगाडि, राजदरबार दक्षिण ढोकानजीक, सिंहदरबार मूलद्वार, अन्नपूर्ण होटल स्वागत कक्षमा बम पड्कियो। यस काण्डमा 5 जनाको मृत्यु र 3 जना घाइते भएका थिए, जसमा रापंस 1 जवान र 1 कर्मचारी तथा अन्नपूर्ण होटलका 3 जनाको मृत्यु भएको थियो। यो काण्डका दोषी रामराजाप्रसाद सिंहलाई ठहर्‍याइयो। रामराजालगायत 4 जनालाई मृत्युदण्ड र अन्य 23 जनालाई जन्मकैद सजाय सुना"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 585,
+    "text_length_max": 585,
+    "text_length_avg": 585.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1523,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37926.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37926.txt",
+    "relative_path": "37926.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37926.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1523,
+    "mtime": 1782796572.9213493,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "7e0e8a19a8d70a647d6796dd9534c962c6a5d5fb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

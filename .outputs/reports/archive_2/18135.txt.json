@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18135.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ट्रान्सफर्मर एक किसिमको पावर सिस्टममा प्रयोग गरिने बिद्युतिय उपकरण हो जसले अल्टरनेटिङ इलेक्ट्रोमोटिभ फोर्स/एसि बिधुत अर्थात भोल्टेजको मात्रालाई फ्रिक्वेन्सि परिवर्तन नगराई बढाउन वा घटाउन प्रयोग गरिने विधुतिय उपकरणलाई ट्रान्सफर्मर भनिन्छ । ",
+    "ट्रान्सफर्मर एक बिद्युतचुम्बकिय उपपादनको सिद्धान्तको अाधारमा काम गर्ने उपकरण हो । समयानुरूप परिवर्तन हुने करेण्ट जब ट्रान्सफर्मरको प्रार्इमरी वार्इन्डिङ्गमा प्रदान गरिन्छ, तब फराडेको बिद्युतचुम्बकिय उपपादनको असरबाट ट्रान्सफर्मर सेकेन्डरीमा समयानुरूप परिवर्तन हुने करेण्ट उत्पादन हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 114,
+    "text_length_max": 286,
+    "text_length_avg": 196.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2675,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18135.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18135.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18135.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2675,
+    "mtime": 1782796622.7146218,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "33742ee683506c004f15bb06e472e47a7b4ed749",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

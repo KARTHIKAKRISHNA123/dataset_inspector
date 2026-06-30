@@ -1,0 +1,91 @@
+{
+  "dataset": "896.txt",
+  "file_name": "896.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुइजियाना संयुक्त राज्य अमेरिकामा पर्ने एक राज्य हो। यस राज्यको राजधानी ब्याटन रुज हो। यस राज्यका मुख्य नगरहरुमा ब्याटन रुज, न्यु अर्लिन्स, श्रेभेपोर्ट, मुन्रो आदि पर्दछन्। लुइजियाना एक दक्षिणी राज्य हो। यस राज्यको पूर्वमा मिसिसिपी, पश्चिममा टेक्सास, ऊत्तरमा आर्कान्सः र दक्षिणमा मेक्सिकोको खाडी पर्दछ। यो राज्यको नाम फ्रान्सका राजा लुइ 14को नामबाट लुइजियाना भनेर राखिएको हो। लुइजियाना खरिद अन्तर्गत यो राज्यको अधिकांश भूभाग संयुक्त राज्य अमेरिकाले फ्रान्ससंग खरिद गरेको थियो। यस राज्यमा फ्रेंच, हिस्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 731,
+    "text_length_max": 731,
+    "text_length_avg": 731.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1960,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "896.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\896.txt",
+    "relative_path": "896.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "896.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1960,
+    "mtime": 1782796601.83626,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "ebfec4c048e3239dc9dc1876b6beb6d9e5e052c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

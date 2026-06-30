@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33375.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेरो सानु साथी एक प्रस्तावित सस्तो शैक्षिक ल्यापटप कम्प्युटर हो जसलाई विश्वभरका हरेक बालबालिकाहरूमाझ बाड्ने योजना बनाईएको छ, खास गरेर गरीब मुलुकहरूमा। यसलाई अङ्ग्रेजिमा The Children's Machine नामाकरण गरिएको छ, जुन 2B1 वा XO-1 र पहिले 100 डलरको ल्यापटप भनेर चिनिन्थ्यो। यसको मुख्य उद्देश्य ज्ञान र शिक्षाको आधुनिक रूपको पहुँछ ती बालबालिकाहरू माझ पुर्‍याउनु रहेको छ। यस ल्यापटपको विकाश प्रति बच्चा एक ल्यापटप ले गरिरहेको छ। ओएलपिसि स.रा. अमेरिका स्थित एक गैर सरकारि नाफारहित संस्था हो, जसको स्थापना एमआ",
+    "The rugged र low-power computers will contain flash memory instead of a hard drive र will use Linux as their operating system. Mobile ad-hoc networking will be used to allow many machines Internet access from one connection."
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 716,
+    "text_length_avg": 320.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.7159,
+      "Devanagari": 0.2841
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3754,
+    "estimated_records": 11
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 11,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7159,
+      "Devanagari": 0.2841
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33375.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33375.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33375.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3754,
+    "mtime": 1782796652.8405893,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "2392758ff495663f12185bd4f05a7fcc7fed009c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

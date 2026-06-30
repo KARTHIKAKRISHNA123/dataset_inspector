@@ -1,0 +1,92 @@
+{
+  "dataset": "21576.txt",
+  "file_name": "21576.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हुड्को नेपाली लोकबाजा हो । हुड्को देख्नासाथ डमरुको याद आउँछ, तर यो डमरुभन्दा लामो हुन्छ । यो बाजा नेपालको मध्य तथा सुदूरपश्चिम क्षेत्रको पहाड र केही तराईमा देखिन्छ । यो गीत गाउँदा बजाइने तालबाजा हो । यही हुड्को ठटाउँदै वीर पुर्खाका गाथा सुनाउँदै नृत्य गर्ने परम्परा सुदूरपश्चिमको विशेष संस्कृति हो । न्वारन, व्रतबन्ध, विवाहजस्ता उत्सवको खुसियालीमा मात्र नभई अन्त्येष्टिमा समेत यो बजाएर हुड्के नाच नाचिन्छ ।",
+    "बायाँ हातमा च्यापी दाहिने हातका औंलाले बजाइन्छ । यो भारतमा पनि प्रयोग भएको पाइन्छ । हुड्को कर्खा गाउँदा बजाइन्छ । भारतको उत्तराखंडमा हुड्को देवताहरूको जागरमा पनि प्रयोग गरिन्छ । अन्य स्थलमा दुसाद तथा डुमहरूले पनि प्रयोग गर्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 229,
+    "text_length_max": 406,
+    "text_length_avg": 317.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1695,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21576.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21576.txt",
+    "relative_path": "21576.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21576.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1695,
+    "mtime": 1782796496.981575,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b62af7903676fefc72a7a7169dd8ec0e856a8783",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "36288.txt",
+  "file_name": "36288.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरी एट्लान्टिक सन्धि सङ्गठन नाटो / नेटो ",
+    "द्वितीय विश्व युद्ध पछि, दुई सुपरपावरहरू, सोभियत संघ र संयुक्त राज्य अमेरिकाको बीचको शीत युद्ध विश्व स्तरमा विकसित भयो। Fulton भाषण र Toorman सिद्धान्त अन्तर्गत कम्युनिस्ट फैलावटको रोकथाम गर्दा, 1948 मा सोभियत संघले अन्तर्राष्ट्रिय सम्झौताहरूको उल्लङ्घन गरेपछि बर्लिनलाई रोकियो। यस क्रममा यो विचार गर्न सकिन्छ कि एक सङ्गठन जसको संयुक्त सेनाले यसको सदस्य देशहरूको रक्षा गर्न सक्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 32,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 917,
+    "text_length_avg": 254.69,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9809,
+      "Latin": 0.0191
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21443,
+    "estimated_records": 84
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 84,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9961,
+      "Latin": 0.0039
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36288.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36288.txt",
+    "relative_path": "36288.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36288.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21443,
+    "mtime": 1782796564.631169,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4c64f468bb7528f8f3977d9ba5e18a4a134d90ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

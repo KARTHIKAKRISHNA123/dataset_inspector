@@ -1,0 +1,91 @@
+{
+  "dataset": "24845.txt",
+  "file_name": "24845.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मनीष कृष्णानन्द पाण्डे  एक भारतीय क्रिकेट खेलाडी हुन् । मनीष कर्नाटकको लागि घरेलु म्याच खेल्छन् र इन्डियन प्रिमियर लिगमा कोलकाता नाइट राइडर्सको तर्फबाट खेल्छन् । उनले सन् 2015 जुलाई 14 मा भारत—जिम्बाब्वे शृङ्खलाबाट आफ्नो एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटको सुरुवात गरेका थिए तथा 17 जुन 2016 मा ट्वान्टी20 करियरको सुरुवात गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 331,
+    "text_length_max": 331,
+    "text_length_avg": 331.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 865,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24845.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24845.txt",
+    "relative_path": "24845.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24845.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 865,
+    "mtime": 1782796511.6003616,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "a2f6ec76befb41347ac638e97d0063bd5f70f356",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

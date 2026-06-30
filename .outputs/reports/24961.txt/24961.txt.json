@@ -1,0 +1,94 @@
+{
+  "dataset": "24961.txt",
+  "file_name": "24961.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोरङ जिल्ला ; अङ्ग्रेजी Morang District) नेपालको पूर्वाञ्चल विकास क्षेत्र, प्रदेश नं. 1मा पर्ने औद्योगिक जिल्ला हो । मावराङ्गबाट अपभ्रंस भएर मोरङ यसको नाम भएको मान्यता छ । पूर्वाञ्चलकै ऐतिहासिक गौरव बोकेको मोरङ जिल्ला औद्योगिक तथा जनसङ्ख्याको हिसाबले नेपालकै दोस्रो ठूलो जिल्लाको रूपमा परिचित छ । बहुजाती बहुभाषीले सजिएको नेपालको पूर्वी तराईमा पर्ने यो जिल्ला प्राचिनकालमा बिराट राजाको राजधानीको र मध्यकालमा लिम्बुवानको सबैभन्दा प्रचण्ड राज्यको रूपमा प्रख्यात थियो । मोरङका अन्तिम राजा बुद्धिकर्ण राय",
+    "ईशापूर्वको प्रथम शताब्दीमै किराँतीराजाहरूले कोशी नदी पूर्वको भू-भागलाई आफ्नो कर्मक्षेत्र बनाएका थिए। राज्य सञ्चालनको क्रममा कालान्तरमा यहाँ \"हाङ\" नामक किराँती राजाले राज्य सञ्चालन गरेको पाइन्छ। सो अवधिको प्रशासनिक क्षेत्रलाई \"मावराङ्ग\" भनिन्थ्यो। पछि मावराङ्ग शब्द नै अपभ्रंश भई मोरङ भन्न थालिएको हो भन्ने किम्बदन्ती रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 1532,
+    "text_length_avg": 239.55,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9979,
+      "Latin": 0.0021
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20986,
+    "estimated_records": 87
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 87,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24961.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24961.txt",
+    "relative_path": "24961.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24961.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20986,
+    "mtime": 1782796512.1149828,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e4ac8d5d66ffdca386431db7da503fa9a7e6ab68",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

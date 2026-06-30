@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7389.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मध्य एसिया एसियाको विचमा स्थित एक विशाल भू-परिवेष्ठित क्षेत्र हो। धेरै किताबहरूमा यसलाई तुर्किस्तान पनि भन्ने गरेको पाइन्छ। मध्य एसियाको कुनै एक सर्वसम्मत ब्याख्या छैन। युनेस्कोले गरेको ब्याख्या अनुसार मध्य एसियामा मङ्गोलिया, पश्चिम चीन, पूर्वोत्तर इरान, अफगानिस्तान, पश्चिम पाकिस्तान, ताइगा देखि दक्षिणको मध्य-पूर्व रुस छन्।",
+    "यस क्षेत्रमा स्काइथियन र पार्थियन राज्यहरू थिए । स्काइथियन शकहरूको उत्पत्ति मानिएको क्षेत्र हो जो दक्षिण एसिया वा भारतीय उपमहाद्वीपमा साम्राज्य स्थापना गर्न सफल भए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 165,
+    "text_length_max": 325,
+    "text_length_avg": 245.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1321,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7389.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7389.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7389.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1321,
+    "mtime": 1782796670.6231,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5b0a6e9afc7fb5f0abb671f872c7cce06228499",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24372.txt",
+  "file_name": "24372.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुजन स्कट \"स्कटी\" थम्प्सन एक अमेरिकी चलचित्र, टेलिभिजन तथा रङ्गमञ्च अभिनेत्री हुन् ।",
+    "थम्प्सन रिचमोन्ड, भर्जिनियामै हुर्केकी हुन् । उनले आफ्नो प्रारम्भिक पढाई कोलीगिएट विद्यालयबाट गरेकी थिइन् । उनी वाल्यकाल देखि नै नृत्यको पारखी थिइन् त्यस्कारण उनले ब्यालेट, ज्याज तथा आधुनिक नृत्य सिखेकी थिइन् । उनी हावर्ड विश्वविद्यालयबाट साहित्यमा स्नातक गरेकी छिन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 84,
+    "text_length_max": 269,
+    "text_length_avg": 176.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 948,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24372.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24372.txt",
+    "relative_path": "24372.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24372.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 948,
+    "mtime": 1782796509.490991,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8a1ea0bfb75f36a00af4cffa82cd229fc229f539",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

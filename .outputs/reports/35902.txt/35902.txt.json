@@ -1,0 +1,92 @@
+{
+  "dataset": "35902.txt",
+  "file_name": "35902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टोकियो इन्टिच्युट अफ टेक्नोलोजिज जापानको टोकियो क्षेत्रमा अवस्थित एक राष्ट्रिय अनुसन्धान विश्वविद्यालय हो । यो जापानको विज्ञान तथा प्रविधिमा उच्च स्तरिय शिक्षाको लागी सबैभन्दा ठूलो संस्था हो र यस संस्थालाई जापानको सबैभन्दा प्रतिष्ठित विश्वविद्यालय मानिन्छ ।",
+    "यस विश्वविद्यालयको मुख्य परिसर ओकायामा अवस्थित छ र यसको मुख्यद्वार ओकायामा स्टेशन तर्फ फर्किएको छ । यो संस्था 6 विद्यालयमा विभाजित छ, जसमा 40 विभागहरू तथा अनुसन्धान केन्द्रहरू छन् । यस संस्थाले 2015-16 को लागी 4734 जना स्नातकमा तथा 1464 जना स्नातकोत्तरमा विद्यार्थीको भर्ना लिएको थियो । यस संस्थामा कुल 1100 शैक्षिक सदस्यहरू छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 89,
+    "text_length_max": 406,
+    "text_length_avg": 255.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3365,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35902.txt",
+    "relative_path": "35902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35902.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3365,
+    "mtime": 1782796562.872062,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "80d6a746c14f20881a0a8c5248d4984ed323328c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

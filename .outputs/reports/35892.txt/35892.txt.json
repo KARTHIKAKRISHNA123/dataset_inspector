@@ -1,0 +1,91 @@
+{
+  "dataset": "35892.txt",
+  "file_name": "35892.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्रबहादुर गुरुङ वरिष्ठ इन्जिनियर हुनुहुन्छ। गुरुङको जन्म 2011 असोज 2मा ओखलढुंगाको रुम्जाटारमा भएको हो। उहाँ पिता कृष्णबहादुर र माता रमादेवीका छोरा हुनुहुन्छ। उहाँहरू तीन भाइ जन्मनुभयो। महेन्द्र माहिलो हुनुहुन्छ। उहाँले काठमाडौंको अस्कल क्याम्पसबाट गणितमा उच्च अङ्क ल्याई आइएस्सी गर्नुभयो। आइएस्सीको पहिलो वर्षा उहाँ देशकै सातौं हुनुभएको थियो। राम्रो पढेकाले विदेशमा पढ्ने छात्रवृत्ति पाउनु भयो। इन्जिनियरिङमा बीइ भारतमा सक्नुभयो भने एमएस्सी अमेरिकामा पूरा गर्नुभयो। 2037 देखि सरकारी सेवा गर्दै आ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 793,
+    "text_length_max": 793,
+    "text_length_avg": 793.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2137,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35892.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35892.txt",
+    "relative_path": "35892.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35892.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2137,
+    "mtime": 1782796562.7936985,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "dabefd90e8450e459ba40c3ddd6807146d12d6ff",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

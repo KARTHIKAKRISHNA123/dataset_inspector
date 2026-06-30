@@ -1,0 +1,94 @@
+{
+  "dataset": "12938.txt",
+  "file_name": "12938.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मान्दाक्रान्ता छन्दमा 17वटा अक्षर् र 5वटा गण हुन्छन। येसमा एक 1.मगण 1.भगण 1.नगण 2.तगण 2.गुरु हुन्छन। ",
+    "मान्दाक्रान्ता छन्दमा प्रयोग भएका गण र तिनीहरुको मात्रा येस प्रकार रहेको छ। यसमा S को अभिप्राय दीर्घ अक्षर र । अभिप्राय को ह्रस्व अक्षर हुन्छ यहाँ S र । गरेर 17 वटा अक्षर छन जसमा ह्रस्व र दीर्घको क्रममा तल प्रस्ट संग बुझाउने प्रयास गरिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 242,
+    "text_length_avg": 63.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9956,
+      "Latin": 0.0044
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1499,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9956,
+      "Latin": 0.0044
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12938.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12938.txt",
+    "relative_path": "12938.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12938.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1499,
+    "mtime": 1782796456.364709,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "2e3048739fbdfcc557fab3794d4dd953275617bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

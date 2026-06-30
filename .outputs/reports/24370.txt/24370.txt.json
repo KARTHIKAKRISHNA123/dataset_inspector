@@ -1,0 +1,92 @@
+{
+  "dataset": "24370.txt",
+  "file_name": "24370.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढोलक एक दक्षिण एसियाली हातेबाजा ढोल हो । ",
+    "ढोलक मादल जस्तो काठ र छालाले बनाएको तालबाजा हो । यसलाई दुईपट्टी छालाले बेरेको हुन्छ । यसको बनावट पनि मादल जस्तै हो । ढोलकको एकापट्टी भित्रबाट खरी लगाइएको हुन्छ । यसलाई हातले कुटेर बजाउनु पर्छ । यो पहाडतिर भजनमा र तराईतिर लोकनृत्य, गीत आदिमा विशेष रूपले बजाइने ढोल-खलकको मझौला खालको तालबाजा हो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 295,
+    "text_length_avg": 168.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 888,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24370.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24370.txt",
+    "relative_path": "24370.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24370.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 888,
+    "mtime": 1782796509.4849675,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "eda78a45e339536d5fd09137557d47fd61351296",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

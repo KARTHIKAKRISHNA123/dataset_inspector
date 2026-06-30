@@ -1,0 +1,92 @@
+{
+  "dataset": "18006.txt",
+  "file_name": "18006.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अोभरियन सिस्ट भन्नाले महिलाहरूको डिम्बाशयमा तरल पदार्थ भरिएको पानी फोका देखापर्ने समस्या हो। यो समस्या भएका प्रायजसो महिलाहरूमा कुनै पनि लक्षणहरू नदेखिन पनि सक्छ। कहिलेकाहीँ यो रोग लागेपछि पेट फुल्ने, तल्लो पेट दुख्ने वा ढाडको तल्लो भाग दुख्ने समस्या देखापर्न सक्छ। धेरै जसो ओभरियन सिस्ट हानि नपुर्याउने खालका हुन्छन्। यदि पानी फोका फुट्यो वा यसले गर्दा डिम्बाशय बटारियो भने गम्भीर पीडा दिनसक्छ। यसले बान्ता हुने वा बेहोस हुने जस्ता समस्या निम्ताउन पनि सक्छ।",
+    "धेरै जसो ओभरियन सिस्ट डिम्ब निर्माण प्रकृयासँग सम्बन्धित हुन्छन्। यसरी देखा परेका सिस्ट दुई प्रकारका हुन्छन्: फोलिकुलर सिस्ट वा कर्पस लेक्टम सिस्ट। त्यस्तै इन्डोमेट्रियोसिसका कारणले हुने सिस्ट, डर्मोइड सिस्ट तथा सिस्टाडेनोमा सिस्टका अन्य प्रकारहरू हुन्। पोलिसिस्टिक ओभरियन सिन्ड्रोम भएको बेलामा दुबै डिम्बाशयमा मसिना तर धेरै पानी फोकाहरू देखा पर्ने गर्दछ। पेल्भिक इन्फ्लामेटरी डिजिज भएर पनि ओभरियन सिस्ट हुने दरेको पाइन्छ। ओभरियन सिस्ट एकदमै कम महिलाहरूमा डिम्बाशयको क्यान्सरको रूपमा पनि देखा परेको प"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 70,
+    "text_length_max": 1141,
+    "text_length_avg": 420.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12485,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18006.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18006.txt",
+    "relative_path": "18006.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18006.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12485,
+    "mtime": 1782796480.0803976,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "90fb7db3cf7dd3cd4b1e95fc22fdb1f77c593d2b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

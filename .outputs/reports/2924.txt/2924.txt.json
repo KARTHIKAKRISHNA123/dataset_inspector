@@ -1,0 +1,94 @@
+{
+  "dataset": "2924.txt",
+  "file_name": "2924.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एक कर एक सार्वजनिक वित्तीय शुल्क वा एक सार्वजनिक संगठन द्वारा करदाता मा लगायत अन्य कुनै प्रकार को लेवी हो जसको विभिन्न सार्वजनिक व्यय कोष कोष छ। कराई गर्नको लागि असफलता वा करारको प्रतिरोध संग, कानून द्वारा दण्डनीय छ। करहरू प्रत्यक्ष वा अप्रत्यक्ष करहरू समावेश छन् र पैसामा भुक्तान गर्न सकिन्छ वा यसको श्रम बराबरको रूपमा।",
+    "अधिकांश देशहरूमा सार्वजनिक प्रणाली / आम / सहमतिको राष्ट्रिय आवश्यकता र सरकारी कामका लागि तिर्नको लागी एक कर प्रणाली छ: केहि व्यक्तिगत वार्षिक आय मा कर को एक फ्लैट प्रतिशत दर, वार्षिक आय आय को आधार मा केहि माछा गर्दछ, र केहि देशहरु लगभग कुनै पनि कराधान छैन, वा कराधानको निश्चित क्षेत्रको लागि धेरै कम कर दर। केही देशहरू कर्पोरेट आय र लाभांशमा कर तिर्छन् ; यो प्राय: डबल करणको रूपमा उल्लेख गरिएको छ किनभने कम्पनीबाट यो भुक्तानी प्राप्त गर्ने व्यक्तिगत शेयरधारकहरू पनि व्यक्तिगत आयमा केही कर पनि लिइनेछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 320,
+    "text_length_max": 733,
+    "text_length_avg": 535.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9926,
+      "Latin": 0.0074
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5655,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9926,
+      "Latin": 0.0074
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2924.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2924.txt",
+    "relative_path": "2924.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2924.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5655,
+    "mtime": 1782796532.0692587,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e79ea5224b1c78f376709d1cf2c7fd5c956beb20",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

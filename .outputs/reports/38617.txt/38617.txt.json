@@ -1,0 +1,91 @@
+{
+  "dataset": "38617.txt",
+  "file_name": "38617.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृथ्वी दिवस विश्वमा 22 अप्रिलको दिन मनाइन्छ। यो एउटा दिवस हो जसलाई पृथ्वीको पर्यावरणको बारेमा प्रशंसा र जागरूकतालाई प्रेरित गर्न निर्धारण गरिएको हो। यो दिवस प्रत्येक बर्ष 192 भन्दा बढी राष्ट्रहरूमा मनाइन्छ। सन् 1969 सान फ्रान्सिस्कोमा युनेस्कोको सम्मेलनमा शान्ति कार्यकर्ता जोन म्याक कोनेलले 1970 मा उत्तरी गोलार्धको बसन्त ऋतुको पहिलो दिन मार्च 21 बाट मनाउने गरी पृथ्वीको सम्मान तथा शान्तिको अवधारणाको लागि एक दिनको माग गरका थिए। तर पछि अमेरिकी सिनेटर गेलर्ड नेल्सनले सन् 1970 मा पर्यावरण शिक्षाको रु"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 540,
+    "text_length_max": 540,
+    "text_length_avg": 540.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1415,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38617.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38617.txt",
+    "relative_path": "38617.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38617.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1415,
+    "mtime": 1782796576.116722,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4403032e8d46001dff24671204e27d80d8dfadf7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

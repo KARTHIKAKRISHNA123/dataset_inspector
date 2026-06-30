@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7090.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्मला देशपांडे गान्धीवादी विचारधारासँग जुडेकी प्रसिद्ध सामाजिक कार्यकर्ता थिइन् । उनले आफ्नो जीवन साम्प्रदायिक सौहार्दलाई बढावा दिनुको साथ-साथै महिलाहरू, आदिवासिहरू र अवसरबाट वंचित मानिसहरुको सेवामा समर्पित गरिन् । उनलाई पद्म विभूषण सले सम्मानित गरियो थियो ।",
+    "निर्मलाको जन्म नागपुरमा विमला र पुरुषोत्तम यशवंत देशपांडेको घरमा 19 अक्टोबर 1929 मा भएको थियो । उनको बुवालाई मराठी साहित्य मा उत्कृष्ट कामको लागि 1962 मा साहित्य अकादमी पुरस्कार प्रदान गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 198,
+    "text_length_max": 260,
+    "text_length_avg": 229.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1220,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7090.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7090.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7090.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1220,
+    "mtime": 1782796669.8978946,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7e225fccaf9d540579a65e2b409a85e8bc28a152",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

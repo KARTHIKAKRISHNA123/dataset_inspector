@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9939.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्याक्ट्रिया वा ब्याक्ट्रियाना प्राचिन मध्य एसियाको ऐतिहासिक क्षेत्र हो । यस क्षेत्रको फैलावट अमु दर्या नदी देखि हिन्दु कुश पर्वतसम्म रहेको छ जुन अफगानिस्तान, ताजिकिस्तान र उज्बेकिस्तानको भूमिमा पर्दछ ।",
+    "ब्याक्ट्रिया शब्दको उत्पत्ति प्राचिन ग्रीक भाषाको शब्द ब्याक्ट्रियानेबाट भएको हो जो ब्याक्ट्रियन संज्ञा बाख्लोबाट अप्रभंश भएको थियो । संस्कृत काव्यहरूमा यस क्षेत्रलाई बाह्लीक प्रदेश भनिन्थ्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 202,
+    "text_length_avg": 197.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1077,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9939.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9939.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9939.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1077,
+    "mtime": 1782796675.6596384,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d4a18b9c56d8a826f73e18d860439b557e098d78",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

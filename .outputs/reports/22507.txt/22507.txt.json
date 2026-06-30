@@ -1,0 +1,91 @@
+{
+  "dataset": "22507.txt",
+  "file_name": "22507.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परासी नेपालको एक जिल्लाको नाम हो । 2018 सालमा पूर्बको नवलपुर र पश्चिमको परासी क्षेत्र गाभेर बनाइएको जिल्लालाई फेरि 2074 सालमा अलग्याइ छुट्टा छुट्टै नवलपुर र परासी जिल्ला बनाइएको हो । सरकारले संविधानअनुसार नवलपरासीलाई प्रदेश नम्बर 4 र 5 मा विभाजन गरे पनि जिल्लाको नाम र जिल्ला सदरमुकामको नाम टुंगो लगाएको थिएन । सरकारले प्रदेश नम्बर 5 मा पर्ने नवलरासीको भाग सुस्तादेखि बर्दघाट पश्चिमको भागलाई नवलपरासी र सुस्तादेखि बर्दघाट पूर्वको क्षेत्रलाई नवलपरासी मानेको थियो । नवलपरासी क्षेत्रलाई छुट्टै जिल्ला घो"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 672,
+    "text_length_max": 672,
+    "text_length_avg": 672.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1780,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22507.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22507.txt",
+    "relative_path": "22507.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22507.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1780,
+    "mtime": 1782796501.119879,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "075809ca8d70b8435ea099bc0b4c6d8ca17b22a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

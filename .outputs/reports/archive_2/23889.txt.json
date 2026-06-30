@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23889.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खुल्ला परिभाषाले ज्ञान सँग सम्बन्धित रहेर “खुल्ला” को अर्थ सटीक बनाउँछ साथै साझा मजबूतीको प्रवर्धन गर्दछ, जसमा जो कोहि सहभागी हुनसक्छन् र यसले इन्टरअपरेबिलिटी बढाउँछ ।",
+    "सारांश: यदि जोकोहिले पनि, बढिमा मुल श्रोत र खुल्लापन संरक्षण गर्ने उपायहरु सामेल हुनुपर्ने गरि, स्वतन्त्रताका साथ ज्ञानको पहुँच, प्रयोग र परिमार्जन गर्नुका साथै त्यसलाई बाँड्न समेत पाउँछ भने त्यस्लाई खुल्ला ज्ञान भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 32,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 488,
+    "text_length_avg": 153.66,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9993,
+      "Latin": 0.0007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13360,
+    "estimated_records": 86
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 86,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23889.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23889.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23889.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13360,
+    "mtime": 1782796634.0718737,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "33c0cde4b6246272851c21d6be4f922755682f3a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

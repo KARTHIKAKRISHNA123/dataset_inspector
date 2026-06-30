@@ -1,0 +1,93 @@
+{
+  "dataset": "25373.txt",
+  "file_name": "25373.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "घण्टा समयको एउटा एकाइ हो । 60 मिनेटको समयलाई 1 घन्टा भनिन्छ । एक दिनमा 24 घन्टा हुन्छ ।घण्टाको सामान्य चिन्ह ल्याटिन अक्षर h वा hr हो ।अन्तरराष्ट्रिय एकाइ प्रणालीमा छैनन तर एसआईसँग प्रयोगको लागि स्वीकृत छ । अन्तर्राष्ट्रिय स्वरुप चिन्ह ल्याटिन अक्षर h हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 256,
+    "text_length_max": 256,
+    "text_length_avg": 256.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9806,
+      "Latin": 0.0194
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 661,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9806,
+      "Latin": 0.0194
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25373.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25373.txt",
+    "relative_path": "25373.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25373.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 661,
+    "mtime": 1782796514.067721,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ad2ec1083f3b3dccc20c4ddcf3526111f0b8e12e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

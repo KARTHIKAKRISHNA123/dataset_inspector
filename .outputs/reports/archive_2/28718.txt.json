@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28718.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 25°40′उत्तर 94°07′पूर्व / 25.67° उत्तर 94.12° पूर्व / 25.67; 94.12",
+    "कोहिमा भारतको नागाल्याण्ड प्रान्तको राजधानी हो । यो नागाल्याण्डको राजधानी र बहुत शहर हो । कोहिमामा अधिकतर आदिवासी रहन्छन् । यी आदिवासिहरूको संस्कृति धेरै रङ्गी-बिरङ्गी छन् जुन पर्यटकहरूलाई धेरै मन पर्छ । उनीहरूलाई आफ्नो संस्कृतिको झलक देखाउन धेरै मन पर्छ । उनीहरुको संस्कृति बाहेक पर्यटक यहाँ धेरै बेहतरीन र ऐतिहासिक पर्यटक स्थलहरूको भ्रमण पनि गर्न सक्छन् । यहाँ राज्य संग्राहलय, एम्पोरियम, नागा हेरिटेज कम्पलैक्स, कोहिमा गाउँ, दजुकोउ घाटी, जप्फु चोटी, त्सेमिन्यु, खोनोमा गाउँ, दज्युलेकी र त्योफेमा ट"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 618,
+    "text_length_avg": 241.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5752,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28718.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28718.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28718.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5752,
+    "mtime": 1782796643.6259396,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "91d5e76e85e0876381d7e38d4b529683eebb5168",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

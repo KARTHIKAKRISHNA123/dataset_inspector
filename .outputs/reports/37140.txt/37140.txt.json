@@ -1,0 +1,93 @@
+{
+  "dataset": "37140.txt",
+  "file_name": "37140.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निल आर्मस्ट्रङ Neil Alden Armstrong चन्द्रमाको सतहमा पाइला टेक्ने पहिलो मानव हुन् । 20 जुलाई 1969 का दिन चन्द्रमामा पहिलो पाइला टेक्दा निल आर्मस्ट्रङले भनेका थिए मानिसका लागि यो सानो पाइला हो, मानव सभ्यताका लागि भने एउटा ठूलो फड्को हो । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 237,
+    "text_length_max": 237,
+    "text_length_avg": 237.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9048,
+      "Latin": 0.0952
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 580,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9048,
+      "Latin": 0.0952
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37140.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37140.txt",
+    "relative_path": "37140.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37140.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 580,
+    "mtime": 1782796568.7921464,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aed6296b0f98365d21673ff0ce5810da0abb516f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

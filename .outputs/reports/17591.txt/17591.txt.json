@@ -1,0 +1,92 @@
+{
+  "dataset": "17591.txt",
+  "file_name": "17591.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट खेलमा स्ट्राइक रेटले दुई प्रकारको तथ्याङ्कलाई जनाउन सक्दछ । ब्याटिङ स्ट्राइक रेट ले ब्याट्सम्यान ले आफ्नो प्राथमिक लक्ष्य कसरी प्राप्त गर्दछ भन्ने मापन गर्दछ । अर्थात् रन कुन गतिमा बनाइरहेको छ त्यो थाहा पाउन सकिन्छ । त्यस्तै बलिङ स्ट्राइक रेट ले बलर कसरी आफ्नो प्राथमिक लक्ष्य कसरी प्राप्त गरिरहेको छ मापन गर्दछ, अर्थात् कुन गतिमा विकेट प्राप्त गरिरहेको छ त्यो थाहा पाउन सकिन्छ । ",
+    "यी दुवै स्ट्राइक रेट तुलनात्मक रूपमा नयाँ तथ्याङ्क हुन्, यसको बारेमा सन् 1970 को दशकतिर एकदिवसीय अन्तर्राष्ट्रियको सुरूवात भएपछि छलफल गर्न थालिएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 442,
+    "text_length_avg": 224.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5349,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17591.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17591.txt",
+    "relative_path": "17591.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17591.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5349,
+    "mtime": 1782796478.1149385,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "43a3b420aee62e13ce2b9656f9c18671dcfd63e2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

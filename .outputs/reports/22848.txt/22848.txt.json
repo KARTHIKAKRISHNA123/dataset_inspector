@@ -1,0 +1,92 @@
+{
+  "dataset": "22848.txt",
+  "file_name": "22848.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अरुन्धति घोष एक पूर्व भारतीय राजनयिक हुन्। उनले आस्ट्रिया, मिस्र, दक्षिण कोरिया र धेरै अन्य देशहरूमा राजदूतको रूपमा काम गरेकी छिन्। उनी संयुक्त राष्ट्रमा भारतकी राजदूत पनि रहेकी थिइन्।",
+    "अरुन्धति घोष एक प्रमुख बङ्गाली परिवारमा पर्ने गर्छिन्। उनी सर्वोच्च न्यायालयको पूर्व न्यायाधीश रूमा पाल र प्रसार भारतीको पूर्व अध्यक्ष भास्कर घोषको बहिनी हुन्। उनकी छोरी सागरीका घोष र ज्वाइँ राजदीप सरदेसाई वर्तमानमा सीएनएन आईबीएन समाचार चेनलको भारतीय इकाई चलाने प्रमुख पत्रकारहरु हुन्। उनी एक सामाजिक कार्यकर्ता संजय घोषको काकी पनि हुन्, जसलाई 1997 मा असममा उल्फा द्वारा अपहरण गरिएको र मारिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 399,
+    "text_length_avg": 291.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1557,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22848.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22848.txt",
+    "relative_path": "22848.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22848.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1557,
+    "mtime": 1782796502.5378182,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8299769077336d8a199b2680559540e558eb0870",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

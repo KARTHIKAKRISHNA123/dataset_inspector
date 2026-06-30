@@ -1,0 +1,92 @@
+{
+  "dataset": "7391.txt",
+  "file_name": "7391.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सामी केडिरा जर्मन फुटबलर हुन् जो ला लिगा क्लब रियल म्याड्रिड र जर्मन राष्ट्रिय फुटबल टोलीको रक्षात्मक मध्य पङ्क्ति सम्हाल्ने गर्दछन् । खेदिरा बुन्डेस लिगा क्लब भीएफबी स्टुटगार्ट बाट 2010 मा रियल म्याड्रिड प्रवेश गरेका हुन् । गतिशिल मिड फिल्डरको छवी बनाएका खेदिरा त्रुटीविहिन खेल खेल्न माहिर मानिन्छन् । साथै ग्राउन्डको ठुलो हिस्सा ढाकेर विपक्षीका लागि ढाल झैँ बनेर एउटा डिफेन्डरको काम गर्नु र मध्य पङ्क्ति बाट बल लिएर टीमको काउन्टर आक्रमणमा जोडीनु उनको विशेषता हो ।",
+    "सामी खेदिराको जन्म ट्युनिसियन बाबु र जर्मन आमाबाट जर्मनीको स्टुटगार्टमा भएको हो । खेदिराका भाई रानी पनि फुटबलर हुन् । जर्मन फेसन मोडेल लेना गेर्के र खेदिराको सम्बन्ध सार्वजनिक भईसकेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 187,
+    "text_length_max": 465,
+    "text_length_avg": 326.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1737,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7391.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7391.txt",
+    "relative_path": "7391.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7391.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1737,
+    "mtime": 1782796594.260421,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4042f8a0219cee36015eb58c5b1711a0985b22cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

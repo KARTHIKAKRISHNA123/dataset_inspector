@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33493.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दर्शनशास्त्र भन्नाले मानवसँग सम्बन्धित मन, ज्ञान, भ्रम, वास्तविकता, कारण वा अन्य यस्तै मानव जीवन-जगतको विषयमा धारणाको अध्ययन गर्ने शास्त्र हो । साधारणत: दर्शन भन्नाले कुनै व्यक्ति वा विशेष समूहको विचार, सोच र मानसिकता भन्ने बुझिन्छ, त्यसैको अध्ययन नै दर्शन शास्त्र हो ।",
+    "मानब सभ्यताको विकासक्रम भएको दर्शनको सुरुवात नै आजको विकसित अवस्थामा पुगेको हो । मानब विकासको क्रममा जो जस्तो वातावरणमा रहदै आयो त्यहि त्यही वातावरणलाई पहिचान गर्ने र समायोजन गर्ने प्रयत्न गर्यो । समाजमा भएको बिभिन्न बस्तु, ब्रह्माण्ड ,कहाँ बाट सुरुभई कहाँ बाट अन्त हुन्छ ? समाज किन गतिशील बन्यो ? गतिशीलताको कारणके के हुन् ? ब्रह्माण्ड,, सत्य, खोज मानिस, आत्मा, चेतना, विश्वास, संकृति, म आदि भिविन्न विषयको सुरुवात र अन्त्य के हो ? जस्ता प्रश्नहरु को उत्तर खोज्ने क्रममा दर्शन को सुरुवात भएको पइन्छ "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 120,
+    "text_length_max": 785,
+    "text_length_avg": 406.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4272,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33493.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33493.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33493.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4272,
+    "mtime": 1782796653.087001,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f2212e138a3ed6c5c9fb0318c2b9393dc3b572da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

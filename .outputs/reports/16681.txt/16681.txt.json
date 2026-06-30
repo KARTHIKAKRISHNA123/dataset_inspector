@@ -1,0 +1,91 @@
+{
+  "dataset": "16681.txt",
+  "file_name": "16681.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किनैपनि कार्य गर्न सजिलो होस् भन्ने उद्देश्यले प्रयोग गरिने छड्के पारेर राखिएको एक सरल यन्त्रलाई छ्ड्के सतह भनिन्छ । जस्तै: भर्र्याङ्, उकालो बाटो, तेर्साएर राखिएको काठको फलेक आदि छ्ड्के सतहको केहि उदाहरण हुन् ।छड्के सतहको प्रयोगले कुनैपनि बस्तुलाई माथि उठाउन सजिलो हुन्छ । सतहलाई जति छड्के पारेर राख्यो त्यति नै बस्तुलाई माथी उठाउन सजिलो हुन्छ, थोरै बल लाग्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 360,
+    "text_length_max": 360,
+    "text_length_avg": 360.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 957,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16681.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16681.txt",
+    "relative_path": "16681.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16681.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 957,
+    "mtime": 1782796473.4333832,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0d90c1284ec09afc600866ad937d8a2d9a48f28f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

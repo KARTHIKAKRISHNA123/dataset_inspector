@@ -1,0 +1,93 @@
+{
+  "dataset": "4586.txt",
+  "file_name": "4586.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिस्टिन जेम्स स्टेवार्ट एक अमेरिकी अभिनेत्री हुन। उनी चलचित्र द ट्वीलाईट सागाको भूमिका बेला स्वानको रूपमा चर्चित छिन। यसका साथै उनले प्यानिक रुम, जथुरा, इन द ल्याण्ड अफ वुमन, द मेसेन्जर्स, एड्भेन्चरल्याण्ड र द रनअवेज लगायतका चलचित्रहरूमा पनि अभिनय गरेकि छिन।",
+    "क्रिस्टिन स्टेवार्टको जन्म 9 अप्रिल 1990मा क्यालिफोर्नियाको लस एन्जलसमा भयो र त्यहिँबाट उनी अभिनय क्षेत्रमा उदाईन। उनका बुवा जोन स्टेवार्ट फक्स ब्रोडकास्टिङ्ग कम्पनीको लागि काम गर्ने स्टेज व्यवस्थापक र टेलिभिजन निर्माता थिए। उनकी आमा जुलेस मन-स्टेवार्ट मारोसाईडोर, क्वीन्सल्याण्ड, अस्ट्रेलियबाट आएकि एक स्क्रिप्ट पर्यवेक्षक थिईन। उनका एक दाजु क्यामरुन स्टेवार्ड र एक धर्मभाई टेलर छन। क्रिस्टिनले सातौं तहसम्म विद्यालयमा नै अध्यन गरिन र त्यसपछिका तहहरू पत्राचारको माध्यमबाट निरन्तरता दिईन। उनले भर्खरै"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 207,
+    "text_length_max": 1166,
+    "text_length_avg": 674.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Latin": 0.0012
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21514,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4586.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4586.txt",
+    "relative_path": "4586.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4586.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21514,
+    "mtime": 1782796580.39311,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6560325d97cafaff2a960884adecd5043c4417cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

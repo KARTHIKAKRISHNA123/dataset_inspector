@@ -1,0 +1,92 @@
+{
+  "dataset": "5050.txt",
+  "file_name": "5050.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द लर्ड अफ द रिङ्ग्स' अङ्ग्रेजीमा रचित एक उपन्यास हो जसको लेखक जे. आर. आर. टोल्किन हुन। यो उपन्यास खासमा तीन किताबहरूको सिलसिला हो, जुन स्वयंको टोल्किनको एक पछिल्लो कार्य द हबिटको एक कडी जस्त‍ै छ। यि उपन्यासहरूको 2001, 2002 र 2003मा तीन हलिवुड फिल्महरूमा फिल्मांकन भएको थियो, जसको निर्देशक पीटर ज्याक्सन हुन। तीनौं फिलिमहरू हलिवुडमा धूम-धामसँग हिट भए र यिनले धेरै ओस्कार पुरस्कार पनि जिते। यस उपन्यासको कथा काल्पनिक छ।",
+    "मध्य धर्ती यस उपन्यासमा जताइएको एक काल्पनिक महाद्वीप हो जुन चारै तिरबाट समुद्रले घेरिएको हुन्छ। यसको पश्चिममा एउटा अर्को महाद्वीप छ, जसको नाम वालिनोर हो। वालिनोर देवताहरूको भूमि हो जहाँ मान्छे जान सक्दैनन्।"
+  ],
+  "statistics": {
+    "records_sampled": 30,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 1654,
+    "text_length_avg": 489.23,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 39022,
+    "estimated_records": 79
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 79,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5050.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5050.txt",
+    "relative_path": "5050.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5050.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 39022,
+    "mtime": 1782796582.65375,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "68929160b0f4e87fcd73956cd176049524206240",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

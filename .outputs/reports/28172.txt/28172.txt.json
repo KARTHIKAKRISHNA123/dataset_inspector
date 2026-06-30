@@ -1,0 +1,92 @@
+{
+  "dataset": "28172.txt",
+  "file_name": "28172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अरुण तेस्रो जलविद्यूत आयोजना अरूण नदीमा निर्माणोन्मूख विद्यूत आयोजना हो। यो संखुवासभा जिल्लाको मकालु गाउँपालिकामा अवस्थित छ। यस आयोजनाको क्षमता 900 मेगावाटको हुनेछ।आयोजनाको कूल लागत 1 खर्ब 4 अर्ब रूपियाँ हुने तथा निर्माण कार्य 5 बर्ष भित्रमा सकिने जनाइएको छ। भारतीय प्रधानमन्त्रीको नेपाल भ्रमणका बेला 2075 बैशाख 28 गते नेपालका प्रधानमन्त्री केपी ओली र भारतीय प्रधानमन्त्री नरेन्द्र मोदीले काठमाडौं बाट यस आयोजनाको शिलान्यास गरेका थिए। ",
+    "आयोजना निर्माण गर्ने ठेक्का भारतको सतलज हाइड्रो कम्पनीले पाएको छ। ठेकेदार कम्पनीले अरुण तेस्रो पावर डेभलपमेन्ट कम्पनी स्थापना गरेको छ । आयोजनाको बाँध मकालु गाउँपालिकाको वडा नम्बर 3 र 5 तथा विद्युत्‌गृह चिचिला गाउँपालिकाको वडा नम्बर 3 मा रहनेछ । यसले पाएको अनुमति अनुसार 2 सय 25 मेगावाट क्षमताका चारवटा टर्बाइनमार्फत 9 सय मेगावाट उत्पादन गर्नेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 792,
+    "text_length_avg": 408.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7584,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28172.txt",
+    "relative_path": "28172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28172.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7584,
+    "mtime": 1782796526.955697,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5ce53fe537b4f5a97d607177b07b9bd3045c349f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

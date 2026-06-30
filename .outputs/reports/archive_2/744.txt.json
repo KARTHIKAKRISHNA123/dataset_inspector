@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "744.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कल्पना प्रधान साहित्यकार हुन्। उनको जन्म 2003 सालमा खोटाङ्ग जिल्लाको दिप्रुङ, मार्सेमा भएको हो। उनका 17 वटा बालकथासँग्रह, तीनवटा बालउपन्यास, तीनवटा बालकवितासँग्रह गरी दुई दर्जनभन्दा बढी कृति प्रकाशित छन्। उनका प्रकाशित बालकथासँग्रह 'रूपैयाँ फल्ने रुख', 'मेरो सानो घोडा', 'हीरा र मोती', 'पञ्चतन्त्रका पाँचकथा', 'अर्थ न बर्थका कुरा', 'सेती परी, काली परी', 'खिच्रीमिच्री', 'अपरा', 'शोकाकूल ढुंगाहरू', 'सुनचादीको बालक', 'दयालु परी', 'घोडाको मोल', 'मित्रता', 'बीनाको बर्थडे', 'दाउरेको छोरो', 'हिमकन्या' र ",
+    "मेरो सानो खरायो, आज कता हरायो !"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 917,
+    "text_length_avg": 139.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3214,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "744.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\744.txt",
+    "relative_path": "archive (2)\\valid\\valid\\744.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3214,
+    "mtime": 1782796670.7165036,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1730403c8c66c998191b82c41cefacc9afe4b893",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

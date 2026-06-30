@@ -1,0 +1,96 @@
+{
+  "dataset": "13400.txt",
+  "file_name": "13400.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमेरिकाको स्वतन्त्रता दिवस जुलाई महिनाको 4 तारिखका दिन मनाइन्छ । यो सङ्घीय बिदाको दिन हो। यसलाई फोर्थ अफ जुलाई भनिन्छ। सन् 1776 जुलाई 4 मा बेलायतबाट अमेरिका स्वतन्त्र भएका अवसरमा यो दिवस मनाइन्छ। यस अवसरमा पटाका, झिरझिरे बाल्नुका साथै कवाज गरिन्छ। मासु पोलेर खाने, उत्सव गर्ने, मेला गर्ने, वनभोज जाने, संगीत कार्यक्रम आदि गर्ने गरिन्छ। ",
+    "यो सन्दर्भ करिब अढाई सय वर्ष अघिको हो । अमेरिकामाथि बेलायती कब्जा थियो । बेलायती कानुनको विभेदपूर्ण व्यवहारका कारण अमेरिकीलाई बेलायती-शासन मनपरेको थिएन। यहि क्रममा सन् 1774 मा 13 मध्ये 12 उपनिवेशका प्रतिनिधिहरू पेन्सलभानिया राज्यको फिलाडेल्फियामा भेला हुनुभयो। जर्जियाका प्रतिनिधिमात्र अनुपस्थित हुनुहुन्थ्यो। यी उपनिवेशमा बेलायत विरुद्ध लड्ने तयारी भइरहेको थियो। अनि बेलायत विरुद्ध युद्ध पनि शुरु भयो। सन् 1775 मा कंग्रेस बस्दा युद्ध चलिरहेको थियो। उक्त कंग्रेसले थोमस जेफरसन र अन्य ज्ञातालाई 'स्वतन"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 796,
+    "text_length_avg": 232.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7698,
+      "Latin": 0.2302
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4200,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7698,
+      "Latin": 0.2302
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13400.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13400.txt",
+    "relative_path": "13400.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13400.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4200,
+    "mtime": 1782796458.4276178,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "938385c8d15561298a85d6b06a609f9157a9e2f6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

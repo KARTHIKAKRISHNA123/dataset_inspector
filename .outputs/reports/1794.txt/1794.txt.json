@@ -1,0 +1,94 @@
+{
+  "dataset": "1794.txt",
+  "file_name": "1794.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्प्रेरनाको शाब्दिक अर्थ अग्रसर बनाउनु हो । सङ्गठनात्मक उद्देश्य हासिल गर्नका लागि सङ्गठनमा आबद्द कर्मचारीहरुमा काम गर्ने तिब्र चाहना, इच्छा र जागरण अत्यावश्यक हुन्छ ।तसर्थ उत्प्रेरणाले कर्मचारीको सङ्गठनात्मक कार्य गर्न बल प्रदान गर्छ ।",
+    "उत्प्रेरणा मनोबैज्ञानिक मानबिय पक्ष हो । यो कर्मचारीलाई कामप्रति उत्सुकता जगाउने कार्य हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 36,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 237,
+    "text_length_avg": 31.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9247,
+      "Latin": 0.0753
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2953,
+    "estimated_records": 94
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 94,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9247,
+      "Latin": 0.0753
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1794.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1794.txt",
+    "relative_path": "1794.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1794.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2953,
+    "mtime": 1782796479.7872128,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "443153225be3c109fcc5000ed30d753a183de3a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

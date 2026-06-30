@@ -1,0 +1,94 @@
+{
+  "dataset": "8640.txt",
+  "file_name": "8640.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अक्सिजनको 3 अणु वाट वनेको पदार्थलाई ओजोन भनिन्छ | यो पृथ्वीको वायुमण्डलको 30 हजार फिट माथि स्थाइ रूपमा तह बनेर बसेको हुन्छ | यसलाई ओजोन तह भनिन्छ | पृथ्वीमा कलकारखाना र सवारी साधनमा प्रयोग हुने इन्धन तथा रसायन बाट निस्केको ओजोन वायुमण्डलमा गएर एकत्रित हुने गर्दछ| यसले सूर्यबाट आउनेमध्ये हानिकारक परावैजनी किरणहरूलाई पृथ्वीसम्म आइपुग्नबाट रोक्ने गर्छ। ",
+    "ओजोन आक्सीजनको तीन परमाणुहरू सँग मिलेर बनेको एक ग्याँस हो जुन वायुमण्डलमा धेरै कम मात्रा मा पाइन्छं। यो तीखो गन्ध वाला अत्यन्त विषालु ग्याँस हो। जमीनको सतहको माथि अर्थात तल्लो वायुमंडलमा यो एक खतरनाक दूषक छ, जबकि वायुमंडलको उपरी परत ओजोन परतको रूपमा यो सूर्यको पराबैंगनी विकिरण बाट पृथ्वीमा जीवनलाई बचाउँछ, जहाँ यसको निर्माण औक्सीजनबाट पराबैंगनी किरणहरूको प्रभावस्वरूप हुन्छ। ओजोन औक्सीजनको एक अपररूप हो। यो समुद्री वायुमा पाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 105,
+    "text_length_max": 430,
+    "text_length_avg": 328.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3458,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8640.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8640.txt",
+    "relative_path": "8640.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8640.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3458,
+    "mtime": 1782796600.371641,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "e6e161ca753e61d209abc8c95f8bc27ed90acb88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "23500.txt",
+  "file_name": "23500.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पेट्रोनस टावरलाई पेट्रोनस जुम्ल्याहा टावर भनेर पनि चिनिन्छ । क्वालालम्पुर ,मलेशियामा रहेको छ । उच्च भवन तथा सहरी बस्ति परिषदको परिभाषा र मूल्याङ्कन अनुसार यो 1998 देखि 2004 सम्म विश्वको सबैभन्दा अग्लो भवन रहेको थियो र हालसम्मकै अग्लो जोडी टावर हो। भवनहरू क्वालालम्पुर टावरको नजिकै रहेको क्वालालम्पुरको ऐतिहासिक स्थल हो।",
+    "यो टावरको डिजाइन अर्जेन्टिनी बस्तुविद सिजर पिलीले गरेका हुन् । पेट्रोनस टावरको योजना 1 जनवरी 1992 मा सुरु भएको थियो । डिजाइनको वायुको गतिको परिक्षण संरचना भर परिक्षण गरिएको थियो । माटो उत्खननको लागि 500 ट्रकहरु प्रयोगमा थिए र प्रत्येक रात सतहबाट 30 मिटर खनिन्थ्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 322,
+    "text_length_avg": 94.75,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9852,
+      "Latin": 0.0148
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3932,
+    "estimated_records": 41
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 41,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9852,
+      "Latin": 0.0148
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23500.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23500.txt",
+    "relative_path": "23500.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23500.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3932,
+    "mtime": 1782796505.4435356,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "74d9f3a1238f68348abcef5a7d1abba0559d835e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

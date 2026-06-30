@@ -1,0 +1,92 @@
+{
+  "dataset": "18675.txt",
+  "file_name": "18675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परम्परागत कोरियाली साहित्यमा रचना गरिने छोटो \"गद्य\" एवम \"पद्य\"को समिश्रित रूपको हरप हरूलाई सिजो भनिन्छ| यसलाई जापानी साहित्यमा प्रचलित 'हाइकु'सँग दाज्न सकिन्छ|कोरियामा करिव 750 वर्षअघि देखिको 'सिजो' हरू पाईएका छन|तथापि यसको ब्यापकता भने बिसौ शताब्दि मा भएको मानिन्छ|छोटो रचनामा गहन भाव हुने हुदा यो आजभोलि प्रायश: सवै भाषा हरूमा चल्तिमा रहेको छ|",
+    "कोरियामा यसलाई दुई श्रेणीमा विभक्त गरिएको छ। सन 1908 देखि अगाडिलाई 'परम्परागत सिजो' तथा 1908 पछिको लागि 'आधुनिक सिजो' भनी वर्गीकरण गरिएको छ। सन् 1906मा दाएगु इओसाले 'हृयोल्जुक्गा' सिजो प्रकाशनलाई यसको इतिहासमा कोशे ढुङा मानिएको छ र यसै वाट आधुनिक सिजोको विजारोपण भएको भन्ने मानिन्छ। ततपस्चात सन् 20को दशकमा लेखिएका 'सिजो'को सङ्कलन 'एक सय आठ बेदना'लाई कोरियाली आधुनिक सिजो इतिहासले आधुनिक 'सिजो'को पहिलो सङ्कलन भनी परिचय गराएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 31,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 681,
+    "text_length_avg": 86.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7081,
+    "estimated_records": 81
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 81,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18675.txt",
+    "relative_path": "18675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7081,
+    "mtime": 1782796483.2303493,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "397d5568f53487faf52d267b91b91f556ec82303",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

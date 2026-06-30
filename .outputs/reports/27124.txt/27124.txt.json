@@ -1,0 +1,92 @@
+{
+  "dataset": "27124.txt",
+  "file_name": "27124.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "छन्स एंडरसैग, जरमन रसायनज्ञ थिए जिन्हुने क्लोरोक्विनको खोज गरे",
+    "इनका जन्म इटलीमा भयो। इन्होंने बाल्यकालमा प्रारम्भिक शिक्षा पाउनका पछि म्यूनिख विश्वविद्यालयमा अध्ययन प्रारम्भ गरे र सन्‌ 1928 ई.मा रसायनविज्ञानको परीक्षामा उत्तीर्ण भएर उपाधि प्राप्त गरे त्यस समय यिनको आयु केवल 25 वर्षको थियो। त्यसै वर्ष इन्होंने 'बायर कंपनी'लाई आफ्नो सेवाहरु आर्पित कीं र अनुसंधानको दिशामा दिन प्रति दिन प्रगति गर्दै गए। यिनको विशेष रुचि मलेरिया नाशक पदार्थहरुको अनुसंधान गर्नमा थियो र यसै हेतु आये एग्माइनो क्विनोलीन्स वर्गका विषमज्वारनाशक द्रव्यको शोथ गर्नमा प्राणपणदेखि लग गए तथ"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 710,
+    "text_length_avg": 311.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2498,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27124.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27124.txt",
+    "relative_path": "27124.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27124.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2498,
+    "mtime": 1782796522.2187824,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "7b042e76226122e7e4f50ce391487d488a5221da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

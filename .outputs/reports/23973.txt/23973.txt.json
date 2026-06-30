@@ -1,0 +1,94 @@
+{
+  "dataset": "23973.txt",
+  "file_name": "23973.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चीनमा धेरै ऐतिहासिक राजवंश रहेका थिए। कहिले काँही यिनको वर्णनहरूमा यस्तो प्रतीत हुन्छ कि चीनमा एक राजवंश स्वयं नैं समाप्त भएर र नयाँ राजवंशले अगाडि बढेर शासनको बागडोर सम्हाल्यो। वास्तवमा त्यस्तो थिएन। कुनै पनि राजवंश स्वेच्छाबाट खतम भएन। प्राय जसो यस्तो हुँदा नयाँ राजवंश त शुरु हुन्थ्यो किन भने त्यो केही समयसम्म कम प्रभाव राख्थ्यो र पहिलेदेखि स्थापित राजवंशसँग लडाझगडा गर्थ्यो। यस्तो हुँदा हुदै पनि कुनै पराजित राजवंश हारे पछि पनि केही इलाकाहरूमा प्रभुत्व राख्थ्यो र चीनको सिंहासन फिर्ता लिने कोशिश",
+    "उदाहरणको लागि सन् 1644मा मान्चु वंशीय राजवंशले बेजिंगमा कब्जा जमायो र चीनलाई आफ्नो अधीनमा गर्यो। किन भने चिंग राजवंश सन् 1636मा नैं शुरू भैसकेको थियो र तीबाट पनि पहिले सन् 1616मा एक अन्य नाम का नामबाट अस्तित्वमा आइसकेको थियो। मिंग राजवंश बीजिंगको राजसत्ताबाट त 1644मा हात धोइसकेको थियो, किन भने तिनीहरूका वंशज 1662 सम्म सिंहासनमा आफ्नो अधिकार जमाई रहे र उसलाई फिर्ता लिनका लागि प्रयास गरिरहे।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 518,
+    "text_length_avg": 134.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9837,
+      "Latin": 0.0163
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2800,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9837,
+      "Latin": 0.0163
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23973.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23973.txt",
+    "relative_path": "23973.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23973.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2800,
+    "mtime": 1782796507.569306,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "b86d07e0002e465363262a9ec9d1101d45987ab3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

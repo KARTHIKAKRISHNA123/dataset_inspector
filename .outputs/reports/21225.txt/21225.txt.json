@@ -1,0 +1,92 @@
+{
+  "dataset": "21225.txt",
+  "file_name": "21225.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्नपूर्ण हिमालय समूह हिमालयमा अवस्थित नेपालको उत्तर-मध्यमा रहेको छ । यसमा रहेको एक हिमालयको उँचाई 8,000 मिटर रहेको छ त्यसतै यस समूहको तेह्र वटा हिमालको उँचाई 7,000 मिटर को छ र सोह्रभन्दा अधिक हिमालको उँचाई 6,000 मिटर रहेको छ । यो हिमालय समूह 55 किलोमिटर लामो रहेको छ भने यसको पश्चिम भागलाई कालीगण्डकी खोंच त्यस्तै यसको उत्तर र पूर्वलाई मर्स्याङ्दी नदी तथा यसको दक्षिण भागलाई पोखरा उपत्यकाले सीमाबद्ध गरेको छ । यस हिमाल समूहको पश्चिमी अन्तमा अन्नपूर्ण अभयारण्य भनिने उच्च बेसिन रहेको छ । अन्नपूर्ण प्",
+    "यो पुरै हिमाल समूह तथा यस आसपासका 7,629 वर्ग किलोमिटर क्षेत्र अन्नपूर्ण संरक्षण क्षेत्रद्वारा संरक्षित गरिएको छ । यो नेपालको सबैभन्दा पहिलो र सबैभन्दा ठुलो संरक्षण क्षेत्र हो । अन्नपूर्ण संरक्षण क्षेत्र विभिन्न पदयात्रीहरूको लागी घर हो जसमा अन्नपूर्ण सर्किट पनि रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 1841,
+    "text_length_avg": 166.88,
+    "duplicate_estimate": 18,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14724,
+    "estimated_records": 88
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 88,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21225.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21225.txt",
+    "relative_path": "21225.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21225.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14724,
+    "mtime": 1782796495.4160843,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0357f77593b789835959a1a486cdd5fc4ee9db91",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

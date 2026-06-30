@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30817.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गहवामाई मन्दिर बीरगञ्जको एक प्रसिद्ध मन्दिर हो । यो गहवामाई भगवतीको मन्दिर हो ।",
+    "हाल गहवामाईको मान्दिर रहेको ठाउँमा एउटा ठुलो अजङ्गको पिपलको रुख थियो । त्यस पिपलको रुख मुनि एउटा सानो मन्दिर बनाई गहवामीको स्थापना कार्य भयो । कालान्तरमा पछि उक्त पिपलको रुख काटी सानो मन्दिरको ठाउँमा अलि ठुलो मन्दिरको परिसरहरूको बेला बेलामा मर्मत सम्हार तथा निर्माण कार्य गरी हालको अवस्थामा गहवामाई मन्दिरको स्वरूप खडा भएको छ । यो मन्दिरको सञ्चालनार्थ एउटा कमिटी अन्तरगत यस मन्दिरको कार्य सम्पादन गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 457,
+    "text_length_avg": 240.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3183,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30817.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30817.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30817.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3183,
+    "mtime": 1782796647.7225642,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "985b57b04bb856655c7465e9d6e07579f8745f66",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

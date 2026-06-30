@@ -1,0 +1,92 @@
+{
+  "dataset": "11315.txt",
+  "file_name": "11315.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नारद पोखरी गोरखा जिल्लामा अवस्थित पोखरी हो । प्रशिद्द गाउँ बार्पाकबाट करिब 19 किलोमिटर उत्तरमा बुद्ध हिमालको काखमा रहेको यो पोखरी 13,500 फिट उचाईमा अवस्थित छ । यो पोखरीमा प्रत्येक वर्ष जनै पूर्णीमाका दिन ठूलो मेला लाग्ने गर्दछ ।",
+    "जनैपुर्णिमाको अवसरमा गोरखाको वारपाक गाउँ विकास समितिको माथिल्लो क्षेत्रमा पर्ने नारद पोखरीमा ठुलो मेला लाग्ने गर्छ । नारद पोखरी कुन गाविसमा पर्छ भन्ने विषयमा भने एकमत पाइदैन । वारपाक वासिले वारपाक गाविसको वडा नम्बर 4 मा पर्ने दावी गरेका छन्। भने केहीले उहिया गाविसमा पर्ने पनि बताएका छन् । यस विषयमा सरकारी निकायबाट स्पष्ट जानकारी आउन सकेको छैन । तर सो पोखरी जाने एकमात्र सजिलो बाटो वारपाक गाउँ भएर जाने नै हो । बिभिन्न कारणले गाउँ छाडेका र वसाइ सरेर अन्यत्र गएकाहरु पनि जनैपुर्णिमाको बेला भने मेला भ"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 228,
+    "text_length_max": 2639,
+    "text_length_avg": 1461.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11694,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11315.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11315.txt",
+    "relative_path": "11315.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11315.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11694,
+    "mtime": 1782796448.8190646,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "aa76971ef534b642d610c835cd925a77838be2bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30806.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरी साइप्रस, आधिकारिक रूपमा टर्कीय गणतन्त्र उत्तरी साइप्रस, स्वयम-घोषित राज्य राज्य हो जसले साइप्रस द्वीपको उत्तरपूर्वी भाग समावेश गर्दछ । टर्की द्वारा मात्र मान्यता प्राप्त, उत्तरी साइप्रसलाई अन्तर्राष्ट्रिय समुदाय द्वारा साइप्रस गणतन्त्रको भाग मानिन्छ ।",
+    "साइप्रस /ˈsaɪprəs/, आधिकारीक: गणतन्त्र साइप्रस मा गाभ्न एथेन्समा योजना गरिएको सत्तापलटको जवाफमा सो आक्रमण भएको हो । साइप्रस युरोपेली सङ्गठनको सदस्य हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 152,
+    "text_length_max": 1010,
+    "text_length_avg": 423.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4451,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30806.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30806.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30806.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4451,
+    "mtime": 1782796647.7054677,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "12998c6c54c5de6e4df989f15a9a9531c2ebd881",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

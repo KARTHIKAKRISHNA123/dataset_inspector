@@ -1,0 +1,92 @@
+{
+  "dataset": "13076.txt",
+  "file_name": "13076.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिभुवन विश्वविद्यालय वा त्रिवि नेपालको सबैभन्दा पुरानो र ठूलो विश्वविद्यालय हुनुका साथै उच्च शिक्षाका लागि नेपालको पहिलो राष्ट्रिय शैक्षिक संस्था पनि हो । यस विश्वविद्यालयको केन्द्रीय कार्यालय कीर्तिपुर काठमाडौंमा छ । ",
+    "यस विश्वविद्यालय 3042–5–2 रोपनी क्षेत्रफलमा फैलिएको छ । त्रिभुवन विश्वविद्यालय अन्तर्गत पाँचवटा प्राविधिक शैक्षिक संस्था र चारवटा साधारण संकाय सञ्चालित छन् । यसले पचासवटा प्राविधिक शीर्षकमा प्रमाण–पत्र तहको शिक्षा दिइरहेको छ त्यस्तै 1079 शीर्षकमा स्नातक तथा 1 हजार शीर्षकमा स्नातकोत्तर शीर्षकमा शिक्षा प्रदान गरिरहेको छ । यसका साथै यसले पीएचडी का लागि समेत विभिन्न शीर्षकमा प्राविधिक तथा संकायस्तरीय शिक्षा दिइरहेको छ । त्रिभुवन विश्वविद्यालय अन्तर्गत 931 वटा निजी क्याम्पसले सम्बन्धन लिएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 601,
+    "text_length_avg": 226.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9638,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13076.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13076.txt",
+    "relative_path": "13076.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13076.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9638,
+    "mtime": 1782796457.0141616,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "028d96bfd8d9d8cbbb5c306248341207e90312d3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

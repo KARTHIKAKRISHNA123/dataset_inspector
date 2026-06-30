@@ -1,0 +1,94 @@
+{
+  "dataset": "8551.txt",
+  "file_name": "8551.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोहमद यासेर अब्देल रहमान अब्देल रउफ अराफात, यासेर अराफात नामले लोकप्रिय छन् | or by his kunya Abu Ammar, उनी प्यालेस्टिनी नेता थिए | उनी 1969 देखि 2004 सम्म प्यालेस्टिनी मुक्ति संगठन Palestine Liberation Organization का प्रमुख र 1994 देखि 2004 सम्म प्यालेस्टिनी राष्ट्रिय समितिका प्रमुख पनि थिए | बैचारिक रुपमा उनी फताह राजनैतिक दलका सस्थापक सदस्य थिए र 1959 देखि 2004 सम्म यसको नेतृत्व समेत गरे । ",
+    "अराफातको जन्म प्यालेस्टिनीआमाबाबुबाट कायरो, मिश्रमा भएको थियो जहाँ उनले आफ्नो अधिकांश युवावस्था लाई खर्च गरे र किङ फड विश्वविद्यालयमा अध्ययन गरे। विद्यार्थी जीवनमा उनले अरब रास्ट्रबाद र यहुदी बिरोधी बिचारलाई अँगाले । 1948 को इजरायल राज्यको निर्माण को विरोधमा, उनले 1948 को अरब-इजरायल युद्ध को समयमा मुस्लिम ब्रदरहुडको साथमा युद्ध लडे। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 791,
+    "text_length_avg": 476.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9764,
+      "Latin": 0.0236
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7330,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9764,
+      "Latin": 0.0236
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8551.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8551.txt",
+    "relative_path": "8551.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8551.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7330,
+    "mtime": 1782796599.9546328,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3bad04a0cf29fa8e4994b4adae860956f57f48a4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

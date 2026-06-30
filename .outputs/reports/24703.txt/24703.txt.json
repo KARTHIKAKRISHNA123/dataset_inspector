@@ -1,0 +1,96 @@
+{
+  "dataset": "24703.txt",
+  "file_name": "24703.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लहरे आँप अथवा षडरस लहरामा फल्ने एक प्रकारको फल हो। यसको नाम आँप भएपनि यो फल साधारण आँप भन्दा पूर्ण रुपमा फरक हुन्छ । यो फल दक्षिण अमेरिकाको रैथाने वनस्पति हो ।",
+    "फल"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 159,
+    "text_length_avg": 38.0,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5593,
+      "Latin": 0.4407
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 826,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5593,
+      "Latin": 0.4407
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24703.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24703.txt",
+    "relative_path": "24703.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24703.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 826,
+    "mtime": 1782796510.9647334,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "fea7360e811061d4467ca842d7145b61d878ad7c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "17466.txt",
+  "file_name": "17466.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गनोरियालाई आयुर्वेदमा धातुरोग भनेर चिनिन्छ। गनोरिया अङ्ग्रेजी शब्द हो। अङ्ग्रेजीमा यसलाई गनोकोक्कल इन्फेक्सन, गनोकोक्कल युरेथ्राइटिस वा द क्ल्याप भनेर पनि चिनिन्छ। निसेरिया गनोरी नामक ब्याक्टेरियमका कारणले सर्ने यो रोग यौन सम्पर्कबाट सर्ने सरुवा रोग हो। पुरुषहरूमा यो रोग लागेको बेला पिसाब गर्ने बेलामा पोलेको महशुस हुने तथा लिङ्गबाट झोल पदार्थ निस्कने हुन्छ। त्यस्तै महिलाहरूमा धेरै समयसम्म कुनै लक्षणहरू नदेखिने वा योनीबाट झोल पदार्थ निस्कने र तल्लो पेट दुख्ने हुन सक्छ। महिला तथा पुरुष दुबैमा लामो",
+    "यौन क्रियाकलापमा सकृय 25 वर्षभन्दा मुनिका महिलाहरूलाई प्रत्येक वर्ष गनोरियाका लागि परीक्षण गराउन सिफारिस गरिएको छ। त्यस्तै पुरुषसँग यौनसम्पर्क गर्ने पुरुषमा पनि यही सिफारिस लागू हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 993,
+    "text_length_avg": 366.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19851,
+    "estimated_records": 54
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 54,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17466.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17466.txt",
+    "relative_path": "17466.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17466.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19851,
+    "mtime": 1782796477.4991033,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "31457d4ede0b21a0e24a554e575b41be9f30936b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

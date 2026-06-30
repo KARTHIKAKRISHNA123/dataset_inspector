@@ -1,0 +1,92 @@
+{
+  "dataset": "29706.txt",
+  "file_name": "29706.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं 2075 फागुन 2 मा प्रधानमन्त्री केपी शर्मा ओलीले ललितपुरको एकान्तकुनामा नेपाल पानीजहाज कार्यालयको उद्घाटन गर्नुभएको थियो । 2075 माघ 3 गतेको मन्त्रिपरिषदको बैठकले पानी जहाज कार्यालय खोल्ने निर्णय गरेको थियो।",
+    "वि सं 2027 मा राजा महेन्द्रको समयमा नै पानीजहाजको सम्भावनाका बारेमा अध्ययन भएको थियो । त्यतिवेलै राजाले पानीजहाज सञ्चालनसम्बन्धी चारवटा ऐन बनाएका थिए ।  पानी जहाज दर्ता ऐन, 2027 बनेको थियो । 2027 सालमा \"पानी जहाज दर्ता ऐन\" प्रचलनमा आए पनि कार्यालय स्थापना भएको थिएन। नेपाली पानीजहाजलाई विदेशी बन्दरगाह वा विदेशी क्षेत्रीय समुद्रमा रहँदा सन्धिद्वारा प्रदत्त सुविधा तथा शुल्कहरू र उचित सम्मानको अधिकार दिलाउने उद्देश्यले नेपालको व्यापारिक पानीजहाजको झन्डासम्बन्धी ऐन 2027 बनेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 210,
+    "text_length_max": 482,
+    "text_length_avg": 351.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2774,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29706.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29706.txt",
+    "relative_path": "29706.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29706.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2774,
+    "mtime": 1782796534.5133634,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "197f235f74cd7c01c99b6a0238a193749d676ace",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23198.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्म लोचावा रिन्छेन ट्राशीस् 15औं शताब्दीको तिब्बती अनुवादक र प्राचीन तिब्बती भाषाको शब्दकोश लिशियिगुरखङको लेखक हो।",
+    "कर्म लोचावा रिन्छेन ट्राशीस्को जन्म 15औं शताब्दीको अन्तिम तिर भएको थियो । सानै उमेर देखि शालु गोन्पाको शैक्षिक केन्द्रमा भर्ना भएर श्रामणेर र भिक्षुको संवर लिई विनयपिटक आदिको अध्यन गर्नु भएको थियो। विशेष गरी लोचावा शालु छोस्क्योङ जाङ्पो बाट सुत्र, तन्त्रको ग्रन्थ तथा तिब्बती र संस्कृत व्याकरण विद्या आदिको ज्ञान पूर्णरूपले हासिल गर्नुभएको हुनले त्यस समयको तिब्बती समाजमा उहाँ विद्वानको उपाधि प्राप्त भएको एक लोचावाको नामले प्रख्यात थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 437,
+    "text_length_avg": 195.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9451,
+      "Latin": 0.0549
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1518,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9451,
+      "Latin": 0.0549
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23198.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23198.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23198.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1518,
+    "mtime": 1782796632.7646708,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "fe98b0018e2106be91cccce61b7cb6a03f61a077",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32215.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिटी सेल बङ्गलादेशको सबैभन्दा पुरानो मोबाइल सञ्चालक थियो । यसको स्थापना 1986 मा भएको थियो । यो सीडीएमए र इभि-डिओ प्रविधिको प्रयोग गर्ने देशमा मात्र मोबाइल सञ्चालक पनि थियो । अगस्त 2016 को अनुसार, सिटीसेलको कुल मोबाइल ग्राहक आधार 0.142 मिलियन छ । सिटी सेल हाल सिङ्टेल, प्यासिफिक मोटर्स र सुदुर पुर्व टेलिकम को स्वामित्वमा छ । यो प्रयोगकर्ताको आधारमा बङ्गलादेशको सबैभन्दा सानो मोबाइल सञ्चालक हो । तिर्नु पर्ने रकम भुक्तान गर्न असफल भएको कारण यसलाई, 2016 मा बङ्गलादेश दूरसञ्चार बिनियम आयोग द्वारा बन्द ग",
+    "1989 मा बङ्गलादेश दूरसञ्चार लिमिटेड लाई सेलुलर, पेजिङ, र अन्य ताररहित सञ्जाल नेटवर्क सञ्चालन गर्न लाई इजाजत पत्र प्रदान गरिएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 607,
+    "text_length_avg": 218.36,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6319,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32215.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32215.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32215.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6319,
+    "mtime": 1782796650.5851152,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "97a3599b8539fe666f990ab7301b73273bb6db79",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

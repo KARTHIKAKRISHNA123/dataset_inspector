@@ -1,0 +1,92 @@
+{
+  "dataset": "14782.txt",
+  "file_name": "14782.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाइपरथाइरोडिजम थाइरोइड ग्रन्थीले उत्पादन गर्ने हर्मोनहरूकोमात्रामा आएको गडबडीले गर्दा हुने रोग हो। रक्तपरिक्षण गर्दा यदि रगतमा टीफोरटीथ्री हर्मोन बढी देखिने र टीएसएच हर्मोन घटेको देखिएमा हाइपरथाइरोडिजम भएको बुझिन्छ । रगतमा थाइरोइडको मात्रा बढी हुने रोगलाई नै हाइपरथारोडिजम भनिन्छ । ",
+    "1.घाँटीमा भाइरसको कारणले संक्रमण भएमा थाइरोइड ग्रन्थीको नियमित कार्य विथोलिन सक्छ र सो ग्रन्थी सुन्निएर तातो र रातो हुन्छ । यस्तो अवस्थामा पहिले बनिसकेका हर्मोन निस्किन्छ र हाइपरथाइरोडिजमको लक्षण देखिन्छ ।2.थाइरोइड ग्रन्थीमा एक वा बढी गिर्खा भएको कारणले गर्दा धेरै हर्मोन उत्पादन गरिरहेको हुन सक्छ जसले गर्दा हाइपरथाइरोडिजमको लक्षण देखिन्छ ।3.थाइरोइड बनाउन निर्देशन दिने हर्मोन टीएसएच जस्तै खालका एन्टिवडिजले थाइरोइड ग्रन्थीलाई हर्मोन बनाइरहन निर्देशन गरिरहन्छ, यस्तो अवस्थालाई ग्रेभस् रोग भनिन्छ । य"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 577,
+    "text_length_avg": 318.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7670,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14782.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14782.txt",
+    "relative_path": "14782.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14782.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7670,
+    "mtime": 1782796464.6282954,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "20a5ce1a780837734d369a58a28aa9f1883a1f17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

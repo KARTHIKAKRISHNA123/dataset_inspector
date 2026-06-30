@@ -1,0 +1,92 @@
+{
+  "dataset": "27211.txt",
+  "file_name": "27211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 27°17′उत्तर 77°24′पूर्व / 27.29° उत्तर 77.40° पूर्व / 27.29; 77.40",
+    "मथुरा भारतका सहरहरू मध्येको एउटा सहर हो। मथुरा भारतको उत्तर प्रदेश राज्यको एक एेतिहासिक धरोहर रहेको जिल्ला हो। यस जिल्लाको इतिहास हिन्दु धर्मका पुजित भगवान् श्रीकृष्णसँग सम्बन्धित छ। यो जिल्ला पर्यटकीय दृष्टिले धेरै महत्वपूर्ण मानिन्छ। मथुराको वृन्दावनमा रहेको प्रेम मन्दिर,अङ्ग्रेज मन्दिर,राधाकुण्ड,श्यामकुण्ड,गोवर्धन पर्वत,बरसाना,नन्दगाउँ आदि यहाँका दर्शनीय स्थल हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 370,
+    "text_length_avg": 175.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1364,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27211.txt",
+    "relative_path": "27211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1364,
+    "mtime": 1782796522.6423783,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "d4c6787fa2bfddc0b75cedbc9679f57de5ac6566",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

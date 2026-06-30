@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37526.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाका बङ्गलादेशको राजधानी हो । यो सहर बुढी गङ्गा नदीको तटनेर स्थित यो देशकै सबैभन्दा ठुलो सहर हो । राजधानी हुनु बाहेक यो बङ्गलादेशको औद्यौगिक तथा प्रशासनिक केन्द्र पनि हो । ढाकामा मुख्य रुपमा धान, उखु तथा चियाको व्यापार गरिन्छ । ढाकाको जनसङ्ख्या लगभग 1.43 करोड रहेको छ जुन कि संसारकै सहरहरू मध्येको 11औँ सबैभन्दा बढी हो । ढाकाको आफ्नो बेग्लै इतिहास रहेको छ तथा यसलाई संसारमा मस्जिदको सहरको नामले पनि चिनिने गरिन्छ ।मुगल सल्तनतको समयमा यस सहरलाई 17औँ शताब्दीमा जहांगिर नगरको नामले चिनिने गरिन्थ्यो । यो",
+    "भारतको विभाजन पछि सन् 1947 मा ढाका पूर्वी पाकिस्तानको प्रशासनिक राजधानी बन्यो र सन् 1972 मा बङ्गलादेश एउटा स्वतन्त्र राष्ट्रको रुपमा अस्तित्व पाएपछि यसलाई देशको राष्ट्रिय राजधानी घोषित गरियो । आधुनिक ढाका देशको राजनीति, अर्थव्यवस्था, तथा संस्कृतिको मुख्य केन्द्र हो । ढाका मात्रै देशको सबैभन्दा साक्षर सहर नभएर बङ्गलादेशको सहरहरूमध्येको सबैभन्दा बढी विविधता रहेको वा पाइने सहर पनि हो । तथापि आधुनिक ढाकाको सहरी आधारभूत ढाँचा देशको सबैभन्दा विकसित भएतापनि यहाँको प्रदूषण, यातायात असन्तुलन, गरीबी, अपरा"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 267,
+    "text_length_max": 787,
+    "text_length_avg": 500.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5321,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37526.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37526.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37526.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5321,
+    "mtime": 1782796661.2207162,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "72c1b1ea25ccbdedfaf6f700f4d669efbe84168a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "12992.txt",
+  "file_name": "12992.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुन्दर बस्ती नेपाल स्थित स्याङ्जा जिल्लामा पर्ने चापाकोट नगरपालिकाको वडा नं. 6 स्थित साँखरमा पर्ने एक अति रमणीय बस्ती हो । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा स्याङ्जा जिल्लामा साँखर, पकवादीको वडा नं. 8, मल्याङकोटको वडा नं. र सेखाम गाउँ विकास समितिहरूलाई समेटेर चापाकोट नगरपालिका घोषणा गर्यो । साँखरलाई चापाकोटमा समायोजन गरिएसंगै 9 वडामा विभाजित साँखर अहिले चापाकोटको 2 वडामा समेटिएको छ । साबिक साँखरका वडाहरूलाई चापाकोटको वडा नं. 6 र वडाहरूलाई नगरपा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 531,
+    "text_length_max": 531,
+    "text_length_avg": 531.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1380,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12992.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12992.txt",
+    "relative_path": "12992.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12992.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1380,
+    "mtime": 1782796456.6444774,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7eb01cdfeaa633aef5e7f7d26fb0b3f7f136d598",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

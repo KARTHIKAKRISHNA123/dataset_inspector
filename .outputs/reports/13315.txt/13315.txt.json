@@ -1,0 +1,92 @@
+{
+  "dataset": "13315.txt",
+  "file_name": "13315.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अक्सर अग्लो कद, मिजासिलो बोली, स्वाभिमान आँखा, मेहनेती अनि झ्वाट्ट हेर्दा बाहुन क्षेत्री जस्ता लाग्ने पहाडिया मुसलमानहरू नेपालको 55 वटा पहाडी जिल्लामध्ये 48 वटा जिल्लामा छरीएर बसोबास गर्दै आएका छन्। यसमा पनि नेपालको मध्य र पश्चिम पहाडी जिल्लाहरू गोरखा, तनहुँ, कास्की, स्याङ्जा, पाल्पा, अर्घाखाँची, प्युठान, दैलेख, अछाम आदि जिल्लामा यि पहाडिया मुसलमानहरूको बाक्लो बसोबास रहेको छ। समग्रमा नेपालमा मुसलमानहरू पूर्व मेचीदेखि पश्चिम महाकालीसम्म, उत्तर हिमालदेखि दक्षिण तराईको सरहदसम्म साथै 75 जिल्लामा छरि",
+    "नेपालमा पहाडिया मुसलमानहरूको प्रवेश कहिलेदेखि भयो भन्ने जान्नु अघी नेपालमा सबै थरीका मुसलमानहरू कसरी र कहिले कुन समयमा भयो भन्ने कुराको चर्चा गर्नु सान्दर्भिक हुनेछ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 165,
+    "text_length_max": 2008,
+    "text_length_avg": 1159.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21507,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13315.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13315.txt",
+    "relative_path": "13315.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13315.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21507,
+    "mtime": 1782796458.0364244,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "634404dd8ece2cddef6dd953d9590608009f9927",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

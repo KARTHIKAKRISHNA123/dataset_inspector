@@ -1,0 +1,92 @@
+{
+  "dataset": "520.txt",
+  "file_name": "520.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिक्मतबहादुर माली तेल-व्यवसायी हुनुहुन्छ। उहाँले धेरै वर्षेखि राजधानीमा पेट्रोलियम पदार्थको व्यापार गर्दै आउनुभएको छ। कालीमाटीस्थित माली आयल स्टोर्सका मालिक हुनुहुन्छ। उहाँ नेपाल-रसिया चेम्बर अफ कमर्स एन्ड इन्डष्ट्रिज, नेपाल-जापान ट्रेड एन्ड इकोनोमिक फोरम र नेपाल अटोमोबाइल स्पोर्टस् एसोसिएसनका अध्यक्ष हुनुहुन्छ। उहाँले 'हिमाली' नामक लुब्रीकेन्टस् बजारमा ल्याउनुभएको छ। ",
+    "मालीको जन्म 2009 सालमा कालीमाटीमा भएको हो। उहाँका पिताको नाम रामबहादुर र माताको नाम हरिप्रिया हो। हिक्मतकी एक बहिनी हुनुहुन्छ। 'एमबीए'सम्म पढेका माली विश्वमा 20 भन्दा बढी देशको यात्रा गर्नुभएको छ। उहाँले व्यवसायसम्बन्धी विभिन्न विदेशी कार्यक्रममा सहभागी हुने मौका पाउनुभएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 371,
+    "text_length_avg": 182.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1962,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "520.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\520.txt",
+    "relative_path": "520.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "520.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1962,
+    "mtime": 1782796583.7057934,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b32ab0f3ff489e54f26d6c559f9f2d20f405dbea",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

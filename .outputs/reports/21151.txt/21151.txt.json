@@ -1,0 +1,96 @@
+{
+  "dataset": "21151.txt",
+  "file_name": "21151.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्रिटिश भारतको विभाजन, تقسیم ہند ) धार्मिक आधारमा गरियेको ब्रिटिश भारतको विभाजन थियो। यस विभाजनले गर्दा दुई नया स्वतन्त्र देशहरूको जन्म भयेको थियो पाकिस्तान स्वराज्य र भारत संघ । भारतीय स्वतन्त्रता धारा 1947ले 15 अगस्त 1947 लाई विभाजनको दिनको रूपमा तोकेको थियो। यद्यपि पाकिस्तान एक दिन पहिला 14 अगस्तको दिन अस्तित्वमा आयो।",
+    "भारतीय स्वतन्त्रता धारा 1947 द्वारा ब्रिटिश भारतको विभाजनको प्रस्ताव अगाडि सारियेको थियो यस प्रस्ताव अनुसार भारतबाट ब्रिटिशहरूको साम्राज्यको अन्त हुनु थियो। ब्रिटिश शासनको अन्त र दुई देशको निर्माणले गर्दा हिन्दु र मुश्लिमको बिच हिंसा उतपन्न भयो। यस हिंसामा लगभग 12.5 करोड जनताहरू घर विहीन भये र आफ्नो देश छोडेड एक-अर्काको देशमा स्थापित हुन बाध्य भये र यसै अनुपातमा जिवन-हानी पनि भयो। जिवन-हानीको संख्या अविश्वासनिय थियो जुन लाखौ-करोडमा थियो। । हिंसात्मक विभाजनले गर्दा दुई देशको सम्बन्ध न राम्रो गरि "
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 1414,
+    "text_length_avg": 266.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9665,
+      "Latin": 0.0312,
+      "Arabic": 0.0023
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11044,
+    "estimated_records": 41
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 41,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9698,
+      "Latin": 0.0277,
+      "Arabic": 0.0024
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21151.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21151.txt",
+    "relative_path": "21151.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21151.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11044,
+    "mtime": 1782796495.0594661,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "92ed45a2c2ea575f48e8c2f4f2741e6143a8e6f9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

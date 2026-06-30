@@ -1,0 +1,92 @@
+{
+  "dataset": "19312.txt",
+  "file_name": "19312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यस पुराणलाई प्राचीनतम पुराणहरूमा एउटा मानिन्छ। यो लोकप्रिय पुराण मार्कण्डेय ऋषिले क्रौष्ठिकलाई सुनाएका थिए। यसमा ऋग्वेदको भांति अग्नि, इन्द्र, सूर्य आदि देवताहरूमाथि विवेचन छ र गृहस्थाश्रम, दिनचर्या, नित्यकर्म आदि चर्चा छ। भगवतीको विस्तृत महिमाको परिचय दिने यस पुराणमा दुर्गासप्तशतीको कथा एवं माहात्म्य, हरिशचन्द्रको कथा, मदालसा-चरित्र, अत्रि-अनसूयाको कथा, दत्तात्रेय-चरित्र आदि अनेक सुन्दर कथाहरूको विस्तृत वर्णन छ। ",
+    "मार्कण्डेय पुराणमा नौ हजार श्लोकहरूको संग्रह छ। 137 अध्यायपरक मार्कण्डेय पुराणमा 1 देखि 42 औं अध्यायसम्मको वक्ता जैमिनि र श्रोता पक्षी छन्, 43 औं देखि 90 अध्यायमा वक्ता मार्कण्डेय र श्रोता क्रप्टुकि छन् तथा यसपछिको अंशका वक्ता सुमेधातथा श्रोता सुरथ-समाधि छन्। मार्कण्डेय पुराण आकारमा सानो छ। यसमा एक सौ सैंतीस अध्यायहरूमा नैं लगभग नौ हजार श्लोक छन्। मार्कण्डेय ऋषिद्वारा भनिएकोले यसको नाम 'मार्कण्डेय पुराण' भएकोहो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 415,
+    "text_length_max": 1354,
+    "text_length_avg": 728.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5833,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19312.txt",
+    "relative_path": "19312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5833,
+    "mtime": 1782796486.4255228,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "76eb8d25d8c2af7b7da154b9a33401d2dc50ad9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

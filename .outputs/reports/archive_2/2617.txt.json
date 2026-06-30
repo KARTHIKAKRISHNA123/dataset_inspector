@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2617.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परराष्ट्र मन्त्रालय नेपालको अन्य राज्यहरू संगका मामिलाहरू हेर्ने सबैभन्दा उच्च सरकारी निकाय हो। नेपाल सरकारले कुनै पनि राज्यसँग गर्ने कुटनैतिक तथा औपचारिक संबन्धहरू यही मन्त्रालय मार्फत गर्दछ। यस मन्त्रालय अर्न्तर्गत विदेशमा 24 वटा कुटनैतिक नियोगहरू स्थापित छन् र कुटनैतिक तालीम सम्बन्धी कार्यमा काठमाडौ त्रिपुरेश्वरस्थित परराष्ट्र मामिला अध्ययन प्रतिष्ठान कार्यरत छ। हाल केन्द्रीय निकायको रूपमा यस मन्त्रालय र यस अर्न्तगत अतिथि सत्कार विभाग रहेको छ भने जिल्ला स्थित सर्म्पर्क कार्यालय वीरगञ्जमा छ। ",
+    "सुरूमा जैशी कोठाको नाममा स्थापना भई प्रधानमन्त्री भीमसेन थापाको पालामा मुन्सीखाना भनिने सरकारी कार्यालयलाई परराष्ट्र विभाग बनाइयो। हाल उक्त विभाग परराष्ट्र मन्त्रालयको नामले चिनिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 499,
+    "text_length_avg": 150.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9755,
+      "Latin": 0.0245
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3123,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9755,
+      "Latin": 0.0245
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2617.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2617.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2617.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3123,
+    "mtime": 1782796638.5646389,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8b274322d7ec7f747a2d1bbf3b169b0f0f56ba63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

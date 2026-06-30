@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2213.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुबलाई खान, जन्म कुबलाई र मन्दिरको नाम शिजुबाट पनि चिनिन्थे । उनी मङ्गोल साम्राज्यको पाँचौ खागन हुन भने उनले सन् 1260 देखि सन् 1294 सम्म शासन गरेका थिए । उनीले सन् 1271 मा चीनमा युआन राजवंशको स्थापना समेत गरेका थिए र उनको मृत्यु सम्म पहिलो युआन सम्राटको रूपमा शासन चलाएका थिए ।",
+    "कुबलाई तोलिउको चौथो छोरा र जंगेज खानका नाती थिए । उनले सन् 1260 मा आफ्नो दाजु पश्चात राजगद्दि सम्हालेका थिए । उनको शासनको शुरूवातमा विवाद तथा सामाज्यमा बेमेलको अवस्था आएको थियो । कुबलाईको बास्तविक शक्ति चीन तथा मङ्गोलियामा सिमित थियो, यद्यपि खागनको प्रभाव इलखानेटमा र केही कम प्रभाव स्वर्ण होर्डेमा थियो । तत्कालिन समयमा मंगोल सामाज्यको गणना गर्ने हो भने सामाज्य प्रसान्त महासागर देखि कालो समुद्र, साइबेरिया देखि हालको अफगानिसतानसम्म थियो, जुन संसारको मानव वस्नयोग्य जमिनको करिब 1 को पाँचौ भाग हुन्छ "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 235,
+    "text_length_max": 501,
+    "text_length_avg": 342.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4477,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2213.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2213.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2213.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4477,
+    "mtime": 1782796630.5525856,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dbe6137fc209185df5d563825891d8ed2fd488e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

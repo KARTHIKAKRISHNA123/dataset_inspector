@@ -1,0 +1,94 @@
+{
+  "dataset": "29591.txt",
+  "file_name": "29591.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वेन कोन्स्तन्तीन वोएल्पेल ) एक जर्मन सङ्गठनात्मक सिद्धान्तकर्ता र मानविकी र सामाजिक विज्ञान का व्यापार प्रशासन मा प्रोफेस्सोर हुन जाकोब्स युनिभर्सिटी, ब्रेमेनमा। उनि विशेस्त रणनीतिक व्यवस्थापन, ब्यापार नमुना र ज्ञान व्यवस्थापन मा आफ्नो काम को लागी चिनिन्छन ।  ",
+    "वोएल्पेल ले सन 1999 मा औग्स्बुर्ग युनिभर्सिटीबाट अर्थशास्त्र, सामाजिक विज्ञान र व्यापार प्रशासनमा एमए प्राप्त गरे । उन्ले आफ्नो पीएचडी सन 1993 मा स्वित्जेर्लन्द को युनिभर्सिटीओफ सैन्त गल्लेन बाट हासिल गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 488,
+    "text_length_avg": 269.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.94,
+      "Latin": 0.06
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6781,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.94,
+      "Latin": 0.06
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29591.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29591.txt",
+    "relative_path": "29591.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29591.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6781,
+    "mtime": 1782796533.9667127,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d3ad3e38f51a962aaa58c4f317c33f9de72076c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

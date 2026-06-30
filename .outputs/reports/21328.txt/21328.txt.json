@@ -1,0 +1,94 @@
+{
+  "dataset": "21328.txt",
+  "file_name": "21328.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इड्वीन भेन डर सार पुर्व डच फुटबल गोलरक्षक हुन् । उनले आफ्नो जीवनमा राष्ट्रिय टोलीका साथै अनेकौ क्लबबाट व्यवसायिक फुटबल पनि खेलेका थिए । डच क्लब एज्याक्स, इटालियन क्लब युभेन्टस र इङ्गिस क्लब फुलह्याम र म्यानचेस्टर युनाइटेडबाट उनले गोलकिपिङ गरेका थिए । राष्ट्रिय टोलीबाट सबभन्दा बढी उपस्थिति जनाएका उनी हाल एज्याक्स फुटबल क्लबका खेलाडी क्रय विक्रय बजार प्रमुख छन ।",
+    "en:Edwin van der Sar"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 362,
+    "text_length_avg": 191.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9497,
+      "Latin": 0.0503
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 989,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9497,
+      "Latin": 0.0503
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21328.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21328.txt",
+    "relative_path": "21328.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21328.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 989,
+    "mtime": 1782796495.9177732,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8ca0c2f84f0b99f098b3ffd1c403e003a8e2a600",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

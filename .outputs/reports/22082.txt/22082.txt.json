@@ -1,0 +1,91 @@
+{
+  "dataset": "22082.txt",
+  "file_name": "22082.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोथा कार्यक्रम - जर्मनीको समाजवादी मजदुर पार्टीद्वारा सन् 1875मा गोथा भन्ने ठाउँमा सम्पन्न भएको महाधिवेशनमा त्यस वेलासम्म अस्तित्वमा रहेका दुई जर्मन समाजवादी पार्टीहरू एकाकार हुँदा पारित गरिएको कार्यक्रम । ती दुई पक्ष थिए - आयजेनाखवादीहरू र लासालवादीहरू । यो कार्यक्रम सर्वसंग्रहवादद्वारा ग्रस्त र अवसरवादी पनि थियो । कारण के त भने महत्त्वपूर्ण प्रश्नहरूमा आयोजेनाख॑वादीहरूले लासालवादीहरूको सूत्रहरू पनि ग्रहण गरेका । कार्ल मार्क्स 'गोथा कार्यक्रमको आलोचना' भन्ने कृतिमा र फ्रेडरिख एंगेल्सले सन् 1875"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 715,
+    "text_length_max": 715,
+    "text_length_avg": 715.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1900,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22082.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22082.txt",
+    "relative_path": "22082.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22082.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1900,
+    "mtime": 1782796499.2150295,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "f018923ad59e7468903883c65765d2988e774621",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

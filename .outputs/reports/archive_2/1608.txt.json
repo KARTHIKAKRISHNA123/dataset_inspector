@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1608.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिस्कर हत्याकाण्ड पञ्चायतकालिन दमनको एक काण्ड हो। यो सिन्धुपाल्चोक जिल्लाको पिस्कर गाउँमा भएको थियो।",
+    "2040 साल पुस 30 गते तत्कालीन नेकपा को राजनीतिक गतिविधिको केन्द्रविन्दूमा थियो पिस्कर। मार्क्सवादी र लेनिनवादी दर्शनद्वारा प्रशिक्षित अगुवाहरूको अग्रसरतामा पिस्करको महादेवस्थानमा लाग्ने संक्रान्ति मेलाको उपयोग गरी जनतालाई संगठित र जागरुक बनाउने अभियान अन्तर्गत भएको सांस्कृतिक कार्यक्रमले पञ्चायती शासकको मुटु थर्काएकेा थियो। देवीजंग पाण्डेलगायत स्थानीय सामन्त र निरंकुश पञ्चायती व्यवस्थामाथि धक्का दिएको थियो पिस्करले। तत्कालीन नेकपा र पिस्करवासीको सशक्तता र जागरणका कारण पञ्चायत र तानाशाही प्रशासन त"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 100,
+    "text_length_max": 1059,
+    "text_length_avg": 525.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5664,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1608.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1608.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1608.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5664,
+    "mtime": 1782796618.645617,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2c8ed0be33f6f63b7a02278cbbfb8b6a31e16599",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

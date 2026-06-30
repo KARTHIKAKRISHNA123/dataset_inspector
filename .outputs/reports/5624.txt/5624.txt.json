@@ -1,0 +1,94 @@
+{
+  "dataset": "5624.txt",
+  "file_name": "5624.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अलिबाबा समूह होल्डिंग लिमिटेड एउटा चिनिया इ-कमर्श कम्पनी हो जसले वेभ पोर्टल मार्फत उपभोक्ता देखि उपभोक्तासम्म, व्यावसाय देखि व्यावसाय विक्रि सेवा प्रदान गर्दछ । यस इलेक्ट्रोनिक भुक्तानी सेवा, खरिद विक्रि सम्बन्धी सर्च इन्जिन तथा क्लाउड कम्प्यूटिंग सेवा समेत उपलब्ध गराउने गर्दछ । यो समूहको शुरूवात सन् 1999 मा ज्याक माले चिनिया उत्पादकहरूलाई विदेशी खरिदकर्ताहरूसँग जोड्ने उद्देश्यले अलिबाबा डट कम बाट गरेका थिए । सन् 2012 मा अलिबाबाको दुई पोर्टलहरूले करिब 110 खर्बको विक्रि गरेका थिए । यस कम्पनीको प्",
+    "नोभेम्बर 2017 मा अलिबाबाको बजार पूँजिकरण 486.27 अर्ब अमेरिकि डलर रहेको थियो । यो कम्पनी संसारको सबैभन्दा मूल्यवान तथा ठूला 10 कम्पनीहरू मध्ये रहेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 591,
+    "text_length_avg": 292.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9976,
+      "Latin": 0.0024
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5321,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9976,
+      "Latin": 0.0024
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5624.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5624.txt",
+    "relative_path": "5624.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5624.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5321,
+    "mtime": 1782796585.9443977,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cb45a860a628de13a2ef83ee9cb6e80704b41674",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

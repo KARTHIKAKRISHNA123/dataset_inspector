@@ -1,0 +1,95 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18963.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माइक्रोवेव सूक्ष्मतरंग  विद्युतचुम्बकीय हो with wavelengths ranging from one meter to one millimeter; with frequencies between 300 MHz and 300 GHz. विभिन्न स्रोतहरूले माइक्रोसेन्सको रूपमा विभिन्न फ्रिक्वेन्सी दायराहरू परिभाषित गर्दछ; माथिको विस्तृत परिभाषाले UHF र EHF दुवै दुवै बैंड समावेश गर्दछ। रेडियो इन्जिनियरिङमा थप सामान्य परिभाषा 1 र 100 गीगा बीचको दायरा हो। सबै अवस्थामा, माइक्रोवेभमा सम्पूर्ण SHF ब्यान्ड कम्तिमा कम्तीमा समावेश गर्दछ। माइक्रोवेव दायरामा आवृत्तिहरू प्राय: IEEE रडार बैंड पदन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 589,
+    "text_length_max": 589,
+    "text_length_avg": 589.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7724,
+      "Latin": 0.2276
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1330,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7724,
+      "Latin": 0.2276
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18963.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18963.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18963.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1330,
+    "mtime": 1782796624.3020933,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "98e413946ed506b6165dfc7ec9fa5306dbc98ce8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

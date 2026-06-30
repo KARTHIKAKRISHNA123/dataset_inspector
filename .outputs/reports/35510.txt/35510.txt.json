@@ -1,0 +1,92 @@
+{
+  "dataset": "35510.txt",
+  "file_name": "35510.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिंदी साहित्यको भक्ति काल 1375 वि0बाट 1700 वि0सम्म मानिन्छ। यो युग भक्तिकालका नामबाट प्रख्यात छ। यो हिन्दी साहित्यको श्रेष्ठ युग छ। समस्त हिन्दी साहित्यका श्रेष्ठ कवि र उत्तम रचनाहरु यस युगमा प्राप्त हुन्छ्न्।",
+    "दक्षिणमा आलवार बंधु नामबाट प्रख्यात भक्त भए। यिनीहरु मध्ये धेरै तथाकथित तल्लो जातीहरुबाट आए थिए। उनी धेरै पढे-लिखे थिएनन् तर अनुभऔं थिए। आलवारहरुका पश्चात दक्षिणमा आचार्यहरुको  एक परम्परा चल्यो जसमा रामानुजाचार्य प्रमुख थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 991,
+    "text_length_avg": 423.76,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19277,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35510.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35510.txt",
+    "relative_path": "35510.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35510.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19277,
+    "mtime": 1782796560.996886,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f924b1d12c1c0ada4759429574bb208987d1c46f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

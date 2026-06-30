@@ -1,0 +1,91 @@
+{
+  "dataset": "30262.txt",
+  "file_name": "30262.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रूपलाल विश्वकर्मा नेपाली कम्युनिस्ट राजनीतिज्ञ, मजदुर नेता तथा दलित अधिकारकर्मी थिए। चितवन जिल्लाको मध्यम वर्गीय किसान परिवारमा उनको जन्म भएको थियो। रूपलाल नेपाली कम्युनिस्ट राजनीतिज्ञ मध्ये बिल्कुलै फरक धारणा भएका नेता हुन्। रूपलालको नेतृत्वमा रहेको किसान समितिले सामन्त जमिन्दारहरूकोविरुद्धमा आवाज उठाए र मजदुर किसानहरूलाई जमिन्दारहरूबाट अन्नबाली खोस्न उक्साए। रूपलालले नै वर्तमान एकीकृत नेकपा माओवादीका अध्यक्ष पुष्पकमल दाहाल लाई सन् 1970को दशकमा छापामार राजनीतिमा ल्याएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 480,
+    "text_length_max": 480,
+    "text_length_avg": 480.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1303,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30262.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30262.txt",
+    "relative_path": "30262.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30262.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1303,
+    "mtime": 1782796536.9899492,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "23f9b87c38f757118f9e83d010ddb21d72f80b8d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "17453.txt",
+  "file_name": "17453.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फुस्रो आँखा भएको बुलबुल एक किसिमको गित गाउँने प्रजातिको चरा हो।यसको कुल वा परिवार en:pycnonotidae हो। यो चरा कम्बोडिया,चिन,लाओस,बुर्मा,थाइल्यान्ड र भियतनाम जस्ता देशहरुमा यी चराहरु पाइन्छ्न् ।यसको प्राकृतिक बासस्थान उष्णसदाबाहार तथा ओसिलो जंगल हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 249,
+    "text_length_max": 249,
+    "text_length_avg": 249.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9336,
+      "Latin": 0.0664
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 644,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9336,
+      "Latin": 0.0664
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17453.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17453.txt",
+    "relative_path": "17453.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17453.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 644,
+    "mtime": 1782796477.441703,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "17bf8c7d1b4db116633beea42a67b38c670364c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

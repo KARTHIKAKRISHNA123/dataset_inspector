@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31492.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "म्याकमहोन रेखा भारत तथा तिब्बतको बीच रहेको सीमारेखा हो ।ब्रिटिश प्रतिनिधि सर ह्यानरी म्याकमहोनद्वारा सन् 1914 मा निर्धारण गरिएको सीमारेखा जो 550 माइल लामो छ । पूर्वीभेग हिमालय हुँदै यो सीमारेखा पश्चिममा भूटान देखि 890 कि.मी. र पूर्वमा ब्रह्मपुत्र सम्म 260 कि.मी. सम्म फैलिएको छ । भारतको अनुसार यो चीनसँग उसको सीमा हो । तर चीनले सन् 1914 मा निर्धारण गरेको सीमारेखालाई ब्रिटिशले त्यस बखत चीनको निर्वालताको फाइदा उठाई चीनको ठुलो भाग भारतमा समावेश गरेको छ भन्दै उक्त सीमारेखालाई मान्न अस्विकार गरेको छ । ",
+    "सन् 1914 को अनुसार म्याकमहोन रेखा "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 1106,
+    "text_length_avg": 249.6,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3249,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31492.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31492.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31492.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3249,
+    "mtime": 1782796649.0935585,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "06644f8682da53f99be6b125172f4511e44f64a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

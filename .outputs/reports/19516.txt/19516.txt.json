@@ -1,0 +1,92 @@
+{
+  "dataset": "19516.txt",
+  "file_name": "19516.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चलचित्र निर्देशक चलचित्र निर्माण गर्ने एक जिम्मेवारवार व्यक्ति हो।निर्देशकले पटकथालाई एक नाटकीय ढंगले प्रस्तुत गर्न कलाकारलाई दिशा निर्देश गर्दछन र लिखित कथालाई सुन्दर चलचित्रको रुप दिन्छन् ।",
+    "चलचित्र निर्देशक चलचित्रको प्रमुख व्यक्ति हो | निर्देशकको आदेश अनुसार वा सोचाई अनुसार चलचित्र निर्माण हुने गर्दछ | नेपाली चलचित्रमा हाल दिनेश डिशी, निश्चल बस्नेत, हेमराज विसीतुलसी घिमीरे, आकाश अधिकारी, दिपाश्री निरौला शोभित बस्नेत प्रदीप भट्टराई आदि सक्रिय रहेका छन् | नेपालको कम ऊमेरका निर्देशकमा सौगात बिस्ट ढाँचा:सात बर्ष जनक खड्का ढाँचा:एक्काईस बर्ष र ढाँचा:समुन्द्र भट्ट ढाँचा:बाईस बर्ष का रहेका छन् | "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 191,
+    "text_length_max": 407,
+    "text_length_avg": 299.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1597,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19516.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19516.txt",
+    "relative_path": "19516.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19516.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1597,
+    "mtime": 1782796487.4062843,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6418605beb998fcc430a841ae20f0142ad655b53",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

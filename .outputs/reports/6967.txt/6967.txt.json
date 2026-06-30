@@ -1,0 +1,92 @@
+{
+  "dataset": "6967.txt",
+  "file_name": "6967.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्स्टाफोन पाकिस्तान पहिलो सञ्चार सेवा प्रदायक हाे । यसलाई एम/एस पाककम लिमिटेड, एक दूरसञ्चार कम्पनी र देशमा दूरसञ्चार उद्योगकाे थालनी कर्ताद्वरा सुरूवात गरेको थियोे । सुरूमा यसलाई संयुक्त रूपमा एम / आर्फिन र मिलिकम अन्तर्राष्ट्रिय काे स्वामित्व ,रहेको थियो र पछि यसलाई आर्फिन समूह द्वारा अधिग्रहण गरिएको थियोे । यसकाे मुख्यालय पाकिस्तानकाे राजधानी शहर इस्लामाबादमा अवस्थित थियोे ।",
+    "सन् 1989 मा पाकिस्तान सरकारले दुईवटा सञ्चार सेवा प्रदायक, एम/एस पाककम लिमिटेड र एम/एस पाकटेल लिमिटेड बाेलि प्रक्रियामा विजयी भई 15 वर्षको लागि इजाजत पत्र हासिल गरेको थिए । त्यस मध्यकाे तेस्रो कम्पनी कम्पनीले चाहिने वा अावश्यक मापदण्ड पूरा नभएका कारण बाेलि प्रक्रियामा चुकेकाे थियोे र इजाजत पत्र पनि पाउन सकेन ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 577,
+    "text_length_avg": 319.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5037,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6967.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6967.txt",
+    "relative_path": "6967.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6967.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5037,
+    "mtime": 1782796592.3106146,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "edb6599c09e7f34231a254091c1b07d5827a5856",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

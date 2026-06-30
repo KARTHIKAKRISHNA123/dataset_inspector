@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8975.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जीवहरूका शरीर धेरै साना-साना कोशिकाहरूले बनेका छन्। सरलतम एक-कोशिकाई जीवलाई लिनुहोस् कोशिकाको रासायनिक संरचना हामी जान्दछौं। कोशिकाहरू प्रोटीन देखि बनेका हुन् र तिनको भित्र नाभिकमा नाभिकीय अम्ल हुन्छ। यी प्रोटीन केवल 20 प्रकारका एमिनो अम्‍ल को श्रृंखला-क्रमबद्धतादेखि बन्दछन् र यस प्रकार 20 एमिनो अम्लदेखि प्रकार-प्रकारका प्रोटीन संयोजित हुन्छन्। अमेरिकी र रूसी वैज्ञानिकहरूले प्रयोगद्वारा सिद्ध गरे कि मीथेन, अमोनिया र अक्सीजन लाई कंचका खोख्लो लट्टूका भित्र बन्द गर्न विद्युत आगोको झिल्का द्वारा एमि",
+    "जन्म महिना"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 741,
+    "text_length_avg": 375.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2021,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8975.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8975.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8975.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2021,
+    "mtime": 1782796673.6574683,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "0e8e62abd5483d931e812e06c466aadf29e5d5ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

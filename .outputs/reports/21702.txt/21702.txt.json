@@ -1,0 +1,92 @@
+{
+  "dataset": "21702.txt",
+  "file_name": "21702.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेगा फोन, रुसको दोस्रो मोबाइल फोन सञ्चालक हो र रूसमा तेस्रो सबैभन्दा ठूलो दूरसञ्चार सेवा प्रदायक हो । दूरसञ्चार क्षेत्रमा यसको मुख्य प्रतिस्पर्धीहरू: मोबाईल टेलि सिस्टम, भिम्पेलकम र टेलि 2 हो र निश्चित-लाइन खण्डमा, रोस दूरसञ्चार र मल्टिरिजनल ट्रान्सिट टेलिकम हुन् । जून 2012 को अनुसार कम्पनीले ताजिकिस्तानमा 1.6 मिलियन र रुसमा 62.1 मिलियन प्रयोगकर्ताहरूमा सेवा प्रदान गर्दछ । यसको मुख्यालय रुसको राजधानी मस्कोमा रहेको छ । यसका शाखा कार्यलयहरू इरान, उज्बेकिस्तान र ताजिकिस्तानमा पनि रहेको छ । यो खुला ",
+    "यसले धेरै क्षेत्रीय कम्पनीहरुको अधिग्रहण गरेपछि सन् 2002 मा कम्पनीले अाफ्नो नाम, उत्तर-पश्चिम जीएसएम बाट मेगाफोनमा बदलेको थियोे जसले गर्दा यो रुसको सबै क्षेत्रमा सेवा पुर्‍याउने पहिलाे दूरसञ्चार सेवा प्रदायक बनेको थियोे । यसको अर्थ मेगा - \"ठूलो\" र फोन - \"टेलिफोन\" हुन अाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 549,
+    "text_length_avg": 205.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5401,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21702.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21702.txt",
+    "relative_path": "21702.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21702.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5401,
+    "mtime": 1782796497.553614,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "360d79339f022e9cbfca879d3b87b0e384c1b0e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

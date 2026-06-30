@@ -1,0 +1,94 @@
+{
+  "dataset": "26142.txt",
+  "file_name": "26142.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो रामारोशन नेपालको एक सामुदायीक एफ.एम. रेडियो हो। यसको प्रशारण अछाम जिल्लाको मंगलसेन न.पा.को वडा नंवर 6 स्थित ठुलासैन भन्ने स्थानबाट एफ.एम. बैण्ड 92 मेगाहर्जमा भैरहेको छ। 500 मेगावाट क्षमता भएको यो रेडियोको प्रसारण नेपालको अछाम जिल्लाका साथै मध्य तथा सुदूर पश्चिमका अधिकांस जिल्लाहरू जस्तै:- दैलेख, कालिकोट, सुर्खेत, बाजुरा, डोटी आदी जिल्लाहरूमा सुनिन्छ भने इन्टरनेटको माध्यमबाट संसार भरमा सुन्न सकिन्छ। आफुलाई समुदायको साथी भनेर चिनाउने सामुदायीक रेडियो रामारोशले अछाम जिल्लाको प्रसिद्ध पर्टकिय",
+    "सुसूचित, सुसंस्कृत, समतामुलक र सम्बृद्ध समाजको निर्माण गर्ने परिकल्पना राखेको रेडियो रामारोशनको सञ्चार क्षेत्रको विकासद्वारा जनतालाई सुसूचित गराउँदै भन्ने ध्यये रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 856,
+    "text_length_avg": 377.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9932,
+      "Latin": 0.0068
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8976,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9932,
+      "Latin": 0.0068
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26142.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26142.txt",
+    "relative_path": "26142.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26142.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8976,
+    "mtime": 1782796517.679665,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ccc1ee36762a088c7db3568963dccc66c3e4cd0a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

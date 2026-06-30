@@ -1,0 +1,92 @@
+{
+  "dataset": "34947.txt",
+  "file_name": "34947.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्लाउड सम्बन्धि प्रविधि हरु आधारभूत रुपमा इन्टरनेट संरचनामा आधारित छन् । इन्टरनेट संजालको विकासको शुरुवात देखि नै नेटवर्क र सो सम्बन्धि सेवाहरुको चित्रांकन गर्दा इन्टरनेट को समग्र नेटवर्क लाई बादल को रुपमा प्रस्तुत गर्ने चलन बस्यो । इन्टरनेट को विश्यव्यापी नेटवर्क को कुनै निश्चित स्वरूप, आकार, संख्या आदि निर्क्योल गर्न नसकिने भएर पनि उक्त संजाल लाई सोहि भाव प्रस्तुत गर्ने बादलको रुपले चित्रित गरिएको हुन सक्छ । सोहि इन्टरनेट संजाल लाई नै पूर्वाधार को रुपमा प्रयोग गरी संचालन हुने सेवा सुबिधा हरु त",
+    "हाल बजारमा प्रचलित क्लाउड सेवा हरुमा अमेजन को इन्टरप्राइज कम्प्युटिंग, माइक्रोसफ्ट को एज्युर आदि पर्दछन । उनीहरुले विश्वका बिभिन्न स्थान हरुमा ठूला ठूला डाटा सेन्टर हरु खडा गरी यस्तो सेवाहरु दिइरहेका छन् । इन्टरनेट तथा दूरसंचार सेवाप्रदायक हरुको लागि पनि यो प्रविधि एक नया राजश्व कमाउने अवशरको रुपमा विकास भैरहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 317,
+    "text_length_max": 1926,
+    "text_length_avg": 933.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7468,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34947.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34947.txt",
+    "relative_path": "34947.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34947.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7468,
+    "mtime": 1782796558.4613628,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "44411a8232a9a837df060a13cd021197ff321755",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

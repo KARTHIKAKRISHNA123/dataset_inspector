@@ -1,0 +1,94 @@
+{
+  "dataset": "2348.txt",
+  "file_name": "2348.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टोयोटा मोटर कर्पोरेशन एक जापानी मोटर बाहन निर्माण कम्पनि हो । यसको मुख्यालय टोयोटा, आइचा जापानमा रहेको छ । मार्च 2014 मा दुनिया भरि बहुराष्ट्रीय निगम मा 338,875 कर्मचारीहरु सामेल थिए भने फेब्रुअरी 2016 मा बिश्वो मा राजस्व को हिसाब ले 13औ सबै भन्दा ठूलो कम्पनी थियो । टोयोटा 2012 मा सबै भन्दा ठूलो सवारीसाधान निर्माता थियो, वोक्सवैगन समूह र जनरल मोटर्स को अगाडि। उसै बर्षको जुलाइ मा कम्पनीले आफ्नो 200 दश लाखौ बहनको उत्पादनको सूचना दियो। टोयोटा प्रति वर्ष 10 लाख भन्दा बढी वाहन उत्पादन गर्ने संसारको प",
+    "टोयोटाको मुख्यालय टोयोटा, आइचामा रहेको छ । टोयोटा को मुख्य मुख्यालय टोयोटामा एक 4 तले भवन मा अस्थित छ। सन् 2006 अनुसार मुख्य कार्यालयमा टोयोपेट टोयोटा लोगो र \"टोयोटा मोटर\" शब्दहरू लेखिएको थियो। टोयोटा प्राविधिक केन्द्र, 14 तल्लाको निर्माण गरिएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 999,
+    "text_length_avg": 249.71,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Latin": 0.0029
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4497,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Latin": 0.0029
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2348.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2348.txt",
+    "relative_path": "2348.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2348.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4497,
+    "mtime": 1782796505.3551953,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "358da894263cab136944817e7dc5f10a89b1c87a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

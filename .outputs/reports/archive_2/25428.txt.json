@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25428.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै पनि रोजगारयुक्र्त कार्य जसले बालबालिकाको बाल्यकालमा दखल दिन सक्छ, स्कुल जानबाट रोक्छ वा मानसिक, सामाजिक र शारीरिक रुपमा असर गर्नेलाई नै बालश्रम भनिन्छ । संसार भरि नै बालश्रम कानुन विपरित मानिएको छ ।",
+    "अमेरिका र विभिन्न युरोपेली मुलुकहरुमा सन् 1940 भन्दा पहिले 5 वर्ष देखि 14 वर्ष सम्मका बालबालिकाहरुलाई काम लगाइन्थ्यो । कृषि पेसामा, कलकारखानामा, कोइला खानीमा र घरायसी कामकाजमा उनीहरु काम गर्थे । केहीले बाह्र घन्टा भन्दा पनि बढी काम गर्थे । आयस्रोत बढ्नाले, विद्यालय बढी मात्रामा खुल्नाले र बालश्रम विपरित कानुनहरु बन्नाले बालश्रम केही क्रममा घट्न पनि पुग्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 57,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 918,
+    "text_length_avg": 236.39,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.91,
+      "Latin": 0.09
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33807,
+    "estimated_records": 143
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 143,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25428.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25428.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25428.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33807,
+    "mtime": 1782796637.1205683,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f56cd9a2e4606bbcd1f733ec286e5d3711a43645",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

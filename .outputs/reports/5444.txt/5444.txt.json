@@ -1,0 +1,92 @@
+{
+  "dataset": "5444.txt",
+  "file_name": "5444.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डाक्नेश्वोरी नगरपालिका प्रान्त नं. 2 काे सप्तरी जिल्लामा रहेकाे छ । यसको स्थापना 2016 मा पहिलेको 10 वटा गाविसहरु लाई 10 वर्गहरु हरु मा बिभाजन गरी बनाईएको हो । यसमा कबिलासा, भुतही, तरही, हरिरहा, पातो, औरही, ब्रहम्पुर्, गम्हरीया पर्वहाँ, पत्थरगाडा र बनौला वडाहरु रहेका छन् ।. यसको कुल 44,782 जनसंख्या 69.11 वर्ग किमी मा अवस्थित रहेको छ ।.",
+    "सप्तरी जिल्लाको 9 नगरपालिका मध्ये एक डाक्नेश्वरी नगरपालिका हो । यस नगरपालिका पूर्ण तराईमा रही भारतसंग दक्षिणी भागले सिमाना जोडेको छ । पश्चिमी भागमा बादे बर्साइन नगरपालिका, पूर्वी भागमा बेल्ही चपेना गाउँपालिका, खडग नगरपालिका, शम्भुनाथ नगरपालिका र रूपनी गाउँपालिका उत्तरी भागमा रहेको छ । राजविराजबाट 20 कि.मी. पश्चिम–दक्षिण, कठौनाबाट 15 कि.मी. दक्षिणमा यस नगरपालिकाको कार्यपालिका अवस्थित छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 100,
+    "text_length_max": 389,
+    "text_length_avg": 265.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5517,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5444.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5444.txt",
+    "relative_path": "5444.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5444.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5517,
+    "mtime": 1782796585.1624308,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1e21a17af50f843295a4ee60fe255d24d4e56c37",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

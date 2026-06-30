@@ -1,0 +1,93 @@
+{
+  "dataset": "24047.txt",
+  "file_name": "24047.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोकर्णेश्वर महादेवको मन्दिर नेपालको मध्यमाञ्चल विकास क्षेत्र अन्तर्गत वाग्मती अञ्चलमा पर्ने काठमाडौ जिल्लाको गोकर्ण गाविसमा अवस्थित छ । यो मन्दिर नेपालकै एक प्राचीन र महत्वपूर्ण मन्दिर हो । यो मन्दिर काठमाडौको 5 माइल पूर्व गोकर्ण गाउँमा पवित्र वाग्मती नदीको किनारमा अवस्थित छ । बौद्धनाथको उत्तरपूर्व केही दूरीमा साखु जाने सडक र सुन्दरीजल जाने बाटो भएर यस तीर्थमा पुग्न सकिन्छ । वाग्मती, चन्द्रमती र सूर्यमतीको त्रिवेणी सङ्गम र गोकर्ण वनले बनाएको सुरम्य वातावरणयुक्त स्थलमा भगवान् गोकर्णेश्वर महादेवको",
+    "नामकरणः काठमाडौलाई वराहपुराणमा पशुपति क्षेत्र भनिएको छ। यस गोकर्ण तीर्थको नामकरण 'गोकर्ण' कसरी रहन गयो भन्नेबारेमा निश्चित प्रमाण पाइएको छैन। गोकर्ण भन्नाले गाईको कान भन्ने बुझिन्छ। यति हुदाहुदै पनि यसको विभिन्न अर्थ लगाइएको पाइन्छ। नेपाली बृहत् शब्दकोशमा गोकर्णको विभिन्न अर्थहरू दिइएको छ, जसमा काठमाडौको पूर्वोत्तरमा रहेको एक प्रसिद्ध शैव तीर्थ, भागवत् प्रसिद्ध धुन्धुकारीका भाइको नाम, गाईको जस्तो कान हुने एक मृग, गाईकाने बराठे आदि अर्थहरू लगाइएको छ। गयामा जस्तै तीर्थ भएकोले यस उत्तरगया क्षेत्रको"
+  ],
+  "statistics": {
+    "records_sampled": 24,
+    "missing_text": 0,
+    "text_length_min": 236,
+    "text_length_max": 986,
+    "text_length_avg": 610.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 39526,
+    "estimated_records": 64
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 64,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24047.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24047.txt",
+    "relative_path": "24047.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24047.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 39526,
+    "mtime": 1782796507.8735359,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "88a00c109c1e61a16f5290e7dcf39c18db01f124",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

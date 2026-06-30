@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10770.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मङ्गलग्रहका दुइटा उपग्रहमाध्य ठूलो र नजीक फोबस हो। ग्रह धेरै नजीक भएकोले धेरै छिठोसङ्ग घुम्छ। एक पटक घुम्नलाई 7 घण्टा 39.2 मिनेट मात्रै लागेकोले, हरेक दिन फोबस 2 पटक पश्चिममा उदाएर पूर्वमा अस्ताउँछ। ",
+    "फोबस मङ्गलग्रहले कब्जा भएको क्षुद्रग्रह भएको विश्वास छ। हरेक शतब्दी फोबसको कक्षा 1.8 मी. डुब्छ। अहिले ग्रहको सतहबाट 6000 कि.मी. माथी घुम्छ। 5 करोड वर्षपछि ग्रहसङ्ग ठोक्न पनि सक्छ, गुरुत्वको बलले फुटेर ग्रहीय चक्का हुन पनि सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 227,
+    "text_length_avg": 148.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1920,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10770.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10770.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10770.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1920,
+    "mtime": 1782796608.0034919,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b50b335b9163dced7e6fc22851aaebf43ef4ca7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

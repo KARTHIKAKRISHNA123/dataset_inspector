@@ -1,0 +1,92 @@
+{
+  "dataset": "16204.txt",
+  "file_name": "16204.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मूत्रमार्गको सङ्क्रमणलाई अङ्ग्रेजीमा युरिनरी ट्रयाक इन्फेक्सन भनेर चिनिन्छ। कतैकतै एक्युट सिस्टिटिस वा ब्लाडर इन्फेक्सन भनेर चिनिने यो रोगले मूत्रमार्गका विभिन्न भागहरूमा असर पुर्‍याउँछ। यदि सङ्क्रमणले मूत्रमार्गको तल्लो भागमा मात्र असर गर्यो भने यसलाई सामान्य सिस्टिटिस भनिन्छ भने माथिल्लो भागमा हुने सङ्क्रमणलाई पाइलनिफ्राइटिस भनिन्छ। मूत्रमार्गको तल्लो भागको सङ्क्रमण भयो भने पिसाब गर्दा दुख्ने तथा लगातार पिसाब लागिरहने वा पिसाब च्यापे जस्तो लाग्ने जस्ता लक्षणहरू देखिन्छ। त्यस्तै माथिल्लो भागको ",
+    "मूत्रमार्गको सङ्क्रमण प्रायजसो पुरुषहरूमा भन्दा महिलाहरूमा बढी हुने गर्दछ। संसारभरका महिलाहरू मध्ये आधाजसो महिलाहरू जीवनको कुनै न कुनै समयमा कम्तिमा एकपटक यो रोगबाट सङ्क्रमित हुने गर्दछन्। यो रोग पटक पटक दोहोरिने गरेको पाइन्छ। यो रोगको सङ्क्रमणका कारक तत्वहरू महिलाहरूको शारीरिक संरचना, असुरक्षित यौनसम्पर्क तथा पारिवारिक सङ्क्रमण इतिहास आदि हुन्। पाइलनिफ्राइटिस प्रायजसो मूत्रथैलीको सङ्क्रमणपछि देखा पर्ने गर्दछ तर कहिलेकाहीँ यो रगतबाट सर्ने सङ्क्रमणको रूपमा पनि देखा पर्ने गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 947,
+    "text_length_avg": 541.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14766,
+    "estimated_records": 27
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16204.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16204.txt",
+    "relative_path": "16204.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16204.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14766,
+    "mtime": 1782796471.126758,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3c0d2a2a26b66efd959b79adfa05e69c2792b18a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "34532.txt",
+  "file_name": "34532.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली भाषामा केही यस्ता शब्दहरू प्रयोग हुन्छन् जुन सामान्य प्रयोगमा अश्लील मानिन्छन्। अश्लील शब्द संस्कृत, हिन्दी शब्दकोस बाट प्रयोजन गरिकेको हो यस शब्दलाई नेपाली भाषा मा पनि प्रयोक गरेका पाइन्छन यसलाई यौन दुराचारी पनि भन्छन या त गाली गलौजमा प्रयोग हुन्छन् या त तल्लो स्तरको भाषा प्रयोग गर्दा प्रयोग हुन्छन्। कहिलेकाँही एकै काँठका साथीभाईहरूमा पनि यी शब्दहरूको प्रयोग हुने गरेको छ। आफन्त वा आफूभन्दा ठूलाठालूका अगाडि प्रायः अश्लील शब्दहरू प्रयोग गरिँदैनन्।",
+    "केही नेपाली अश्लील शब्दहरूको अर्थ हुन्छ भनें केहीको अर्थ हाँसउठ्दो पनि हुन्छ। जस्तो कि गालीमा प्रयोग हुने जाँठा, मूजी ,लाँडै सिती, घन्टा जस्तो, मा-चिक्नीजस्तै अश्लील शब्दको अर्थ हाँसो उठ्दो हुने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 201,
+    "text_length_max": 457,
+    "text_length_avg": 329.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1764,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34532.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34532.txt",
+    "relative_path": "34532.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34532.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1764,
+    "mtime": 1782796556.592079,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "284d749f88fa71816fd5713a0e5035440ee7443b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

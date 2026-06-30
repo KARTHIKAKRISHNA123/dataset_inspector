@@ -1,0 +1,92 @@
+{
+  "dataset": "37230.txt",
+  "file_name": "37230.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारत संसदीय प्रणालीको सरकार भएको एउटा स्वतन्त्र, प्रभुसत्तासम्पन्न, समाजवादी लोकतन्त्रात्मक गणराज्य हो । यो गणराज्य भारतका संविधानका अनुसार शासित छ। भारतको संविधान संविधान सभा द्वारा 26 नोभेम्बर, 1949मा पारित भयो तथा 26 जनवरी, 1950 देखि सुचारु भयो। 26 जनवरीको दिन भारतमा गणतन्त्र दिवसको रूपमा मनाइन्छ।",
+    "भारतको संविधान संसारको सबैभन्दा ठूलो लिखित संविधान हो। यसमा 395 अनुच्छेद तथा 12 अनुसूचीहरू छन्। संविधानमा सरकारका संसदीय स्‍वरूपको व्‍यवस्‍था गरिएको छ जसको संरचना केही अपवादहरूका अतिरिक्त संघीय छ। केन्‍द्रीय कार्यपालिकाको सांविधानिक प्रमुख राष्‍ट्रपति हुन्। भारतका संविधानको धारा 79 का अनुसार, केन्‍द्रीय संसदको परिषदमा राष्‍ट्रपति तथा दुई सदन छन् जसलाई राज्‍यहरूको परिषद राज्‍यसभा तथा मानिसहरूको सदन लोकसभाका नामले जानिन्छ। संविधानको धारा 74 मा यो व्‍यवस्‍था गरिएको छ कि राष्‍ट्रपतिको सहायता गर्न तथ"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 778,
+    "text_length_avg": 446.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4796,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37230.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37230.txt",
+    "relative_path": "37230.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37230.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4796,
+    "mtime": 1782796569.2186642,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "16f752243c93cbdf9f8e4e94c15c7e6737540fe4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5533.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय जनगणना देशको राष्ट्रिय आँकडा लिने तरिका हो। नेपालमा व्यवस्थित र प्रणालीगत रूपले जनगणना गर्न थालिएको विक्रम सम्वत् 1968 देखि हो। यस अघि राणा प्रधानमन्त्री जंगबहादुरले जनगणना गर्ने कामको थालनी गरेका थिए। ",
+    "कुनै क्षेत्रभित्र सरकारले तोकेको क्षेत्र र समयमा प्रत्येक घरधुरीमा बसोबास गरिरहेका सबै व्यक्तिहरूको नाम थर, जाति/जनजाति, उमेर, धर्म, भाषा, नागरिकता, शिक्षा, वैवाहिक स्थिति, जन्म, मृत्यु, पेशा, व्यवसाय, बसाइसराइआदि विवरणहरू सङ्कलन गरिन्छ । यसरी तोकिएका अधिकारीहरूबाट प्रत्येक घरदैलोमा गई सङ्कलन गरिएका सर्म्र्पूण तथ्याङ्कहरूलाई प्रशोधन गरि प्रकाशन गर्ने प्रक्रियालाई जनगणना भनिन्छ । कुनै निश्चित भौगोलिक वा राजनतिक क्षेत्र भित्र बसोबास गर्ने सम्पुर्ण व्यक्तिहरूको सामाजिक,आर्थिक, भौगोलिक शैक्षिक तथा ज"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 892,
+    "text_length_avg": 396.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7344,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5533.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5533.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5533.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7344,
+    "mtime": 1782796666.7307696,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "32045e5bf9459901a6e680c7b665b6afeb64ba2c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

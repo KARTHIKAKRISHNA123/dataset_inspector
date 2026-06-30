@@ -1,0 +1,92 @@
+{
+  "dataset": "35081.txt",
+  "file_name": "35081.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1930 फिफा विश्वकप फिफा फुटबल विश्वकप प्रतियोगिताको पहिलो संस्करण रहेको थियो । यो उरुग्वेमा सन् 1930 जुलाई 13 देखि जुलाई 30 सम्म चलेको थियो । फाइनलमा उरुग्वेले अर्जेन्टिनालाई 4-2 ले हराउदै पहिलो विश्वकप आफ्नो झोलामा हालेको थियो ।",
+    "यस विश्वकपको सबै म्याच मोन्टेभिडियोमा खेलिएको थियो । खेल खेलाउनका लागि तिन वटा स्टेडियमको प्रयोग गरिएको थियो :- एस्टाडियो सेंटेनारियो, एस्टाडियो पोसिटोस, र एस्टाडियो पार्क सेन्ट्रल । एस्टाडियो सेंटेनारियोको निर्माण यस प्रतियोगिता तथा उरुग्वे स्वतन्त्रताको खुसियाली मनाउन प्रयोग गर्न बनाइएको थियो । यसको बास्तुकार जुआन कासो थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 73,
+    "text_length_max": 329,
+    "text_length_avg": 210.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1654,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35081.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35081.txt",
+    "relative_path": "35081.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35081.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1654,
+    "mtime": 1782796559.1107543,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "faa8288ccde669e596a4c050b87ab9cc21bc5f20",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

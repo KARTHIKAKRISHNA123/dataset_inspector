@@ -1,0 +1,100 @@
+{
+  "dataset": "urdu%28monolingual%29.jsonl",
+  "file_name": "urdu%28monolingual%29.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "ur",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "meta",
+    "text"
+  ],
+  "preview": [
+    "قصر امارت کے پاس پہنچے تو وہاں کے منظر سے انھیں کچھ خطرہ محسوس ہوا اس لئے وہ اسماء بن خارجی کی طرف مڑے اور کہا بھائی مجھے اس شخص سے خوف آتا ہے اور میرا دل کہتا ہے کہ کچھ ہونے والا ہے ۔\n",
+    "پاکستان کرکٹ بورڈ عامروسیم کی صلاحیتوں کے استفادہ کرنے کے لیے تیار نہیں ہے جس کا ماضی کے کھبے اسپنر کو دکھ ہے لیکن سیالکوٹ میں نوجوانوں کو اپنا فن منتقل کرنے کے علاوہ عامر وسیم بحرین کی قومی ٹیم کی کوچنگ بھی کررہے ہیں لیکن پی سی بی کو چاہیے کہ وہ ایسے لوگوں کی قدر کرے جن کا اوڑھنا بچھونا ہی کرکٹ ہے اور انہوں نے اپنی زندگیاں کرکٹ کے لیے وقف کررکھی ہیں ۔\n"
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 2704,
+    "text_length_avg": 246.15,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 0.9982,
+      "Latin": 0.0018
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 200696763,
+    "estimated_records": 813047
+  },
+  "schema": {
+    "columns": [
+      "meta",
+      "text"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "meta"
+    ],
+    "estimated_records": 813047,
+    "raw_schema": {
+      "meta": "str",
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": [
+      "ur"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "ur",
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "urdu%28monolingual%29.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\urdu%28monolingual%29.jsonl",
+    "relative_path": "urdu%28monolingual%29.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "urdu%28monolingual%29.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 200696763,
+    "mtime": 1782737442.2137828,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "83eb5745f57eb1ab44c89ff2ed5594449973bf8e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

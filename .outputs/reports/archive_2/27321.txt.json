@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27321.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एस्कारियासिस एउटा रोग हो जुन परजीवी गोलो जुका एस्कारिस लुम्ब्रिकोइडेसको कारणले हुने गर्दछ। यदि जुकाहरूको संख्या कम मात्रामा छ भने 85% भन्दा बढी घटनाहरूमा संक्रमणका लक्षणहरू देखिँदैनन्। लक्षणहरू जुकाहरूको संख्यासँगै बढ्दै जान्छन् र सास फेर्न कठिनाई हुने र रोगको सुरूवाती अवस्थामा ज्वरो आउने जस्ता लक्षणहरू देखा पर्न सक्छन्। यी लक्षणहरू पछि पेट सुन्निने, पेट दुख्ने र झाडापाखाला लाग्ने जस्ता लक्षणहरू देखा पर्न सक्छन्। यो रोगबाट प्राय: गरेर बालबालिकाहरू प्रभावित हुने गर्दछन्, र यो उमेर समूहमा संक्रमणल",
+    "यो संक्रमण दिसामा पाइने जुकाका अण्डाहरू मिसिएको दुषित खाना खानाले तथा पानी पिउनाले हुने गर्दछ। अण्डाहरू ठूलो आन्द्रामा गएर कोरलिन्छन्, तिनीहरूले आन्द्राको भित्तामा प्वाल बनाउँछन्, र रगतको माध्यमबाट फोक्सोसम्म फैलिने गर्दछन्। त्यहाँ तिनीहरू वायुकोष्ठिका मा छिर्छन र श्वासनलीसम्म पुग्दछन्, जहाँ तिनीहरू खकार वा थुकको माध्यमबाट बाहिर निस्कन्छन् तथा तिनीहरूलाई निल्न पुगिन्छ। त्यसपछि लार्भाहरू पेटहुँदै दोस्रो पटक ठूलो आन्द्रासम्म पुग्दछन् जहाँ तिनीहरू वयस्क जुका बन्न पुग्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 403,
+    "text_length_max": 584,
+    "text_length_avg": 507.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5451,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27321.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27321.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27321.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5451,
+    "mtime": 1782796640.8074977,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "18bd41d553ece7874095a844e4524ecb9ae72a4d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

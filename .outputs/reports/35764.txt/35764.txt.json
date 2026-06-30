@@ -1,0 +1,91 @@
+{
+  "dataset": "35764.txt",
+  "file_name": "35764.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1983 ओएफसी महिला च्याम्पियनसिप वा ओएफसी महिला राष्ट्र कप, ओशिनिया फुटबल सङ्घद्वरा आयोजना गरिएको महिला राष्ट्रिय टोलीहरूको अन्तर्राष्ट्रिय फुटबल प्रतियोगिता हो जुन 28 नोभेम्बर देखि 4 डिसेम्बर 1983 सम्म न्यु क्यालेडोनियामा आयोजित भएको थियो । यो प्रतियोगिता ओएफसी महिला च्याम्पियनसिप को पहिलो संस्करण थियो । यस प्रतियोगितामा 4 टोलीले भाग लिएका थिए भने जम्मा 7 खेलहरू खेलिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 378,
+    "text_length_max": 378,
+    "text_length_avg": 378.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 991,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35764.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35764.txt",
+    "relative_path": "35764.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35764.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 991,
+    "mtime": 1782796562.134938,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "71f08fe81927346d003ea6c0312c2c9c12bb42ef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

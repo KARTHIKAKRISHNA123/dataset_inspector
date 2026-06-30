@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37635.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वडा कार्यालय स्थानीय तहको सबभन्दा तल्लो प्रशासनिक केन्द्र हो । पहिले नगरपालिकामा मात्रै भएतापनि हाल वडा कार्यालय गाउँपालिकामा पनि छ । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा देशभरि 4 वटा महानगरपालिका, 13 वटा उपमहानगरपालिका, 2 सय 46 नगरपालिका र 4 सय 81 गाउँपालिका कायम भएका छन् । स्थानीय तहमा 6 हजार 6 सय 80 वटा वडा कायम भएका छन् ।",
+    "मन्त्रालयले 2074 जेष्ठमा तराईका 16 जिल्लामा स्थानीय तहको संख्या र सीमा हेरफेर तथा स्तरोन्नति गर्दा हाल स्थानीय तहको कुल संख्या 7 सय 44 बाट बढेर 7 सय 66 पुगेको छ । साबिक 4 सय 81 गाउँपालिकाको संख्या घटेर 4 सय 63 कायम भएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 223,
+    "text_length_max": 1356,
+    "text_length_avg": 651.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5104,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37635.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37635.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37635.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5104,
+    "mtime": 1782796661.4632256,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "88cee4386045c618ea0b434c007085bad6feb86d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

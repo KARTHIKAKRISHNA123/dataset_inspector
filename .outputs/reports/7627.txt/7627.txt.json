@@ -1,0 +1,94 @@
+{
+  "dataset": "7627.txt",
+  "file_name": "7627.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Manis culionensisManis giganteaManis temminckiiManis tricuspisManis tetradactylaManis crassicaudataManis pentadactylaManis javanica",
+    "सालक एक लोपोन्मुख वन्यजन्तु हो। यो जनावर प्राय नेपाल, भारत, चीन लगायतका दक्षीण एसियाली राष्ट्रहरू तथा अफ्रिकाका उष्ण भू-भागमा पाइन्छ। यसको शरीरमा ठुलाठुला कत्लाले ढाकको हुन्छ। यस बाहेक खबटा मुनि पहेँला जगरजस्ता रौं पनि उम्रेका हुन्छन्। यि रौं कत्लाको बीचबाट बाहिर निस्केको देखिन्छ र रौं धेरै हुँदा सालक सुनौलो पहेँलो रंगको देखिन्छ। यसले पुच्छरको सहायताबात रुखको हाँगामा झुन्डिन सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 959,
+    "text_length_avg": 478.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.956,
+      "Latin": 0.044
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8700,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.956,
+      "Latin": 0.044
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7627.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7627.txt",
+    "relative_path": "7627.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7627.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8700,
+    "mtime": 1782796595.3742857,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.999,
+    "sha1_quick": "d6b8a71cda9eb72cc54691124d5a99629e00eb7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

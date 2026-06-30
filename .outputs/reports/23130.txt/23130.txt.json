@@ -1,0 +1,92 @@
+{
+  "dataset": "23130.txt",
+  "file_name": "23130.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल महिला राष्ट्रिय क्रिकेट टिम अन्तर्राष्ट्रिय स्तरको महिला क्रिकेटमा नेपालको प्रतिनिधित्व गर्ने टिम हो । यस टिमले 2007 को जुलाईमा मलेसिया मा भएको एसीसी महिला क्रिकेट प्रतियोगिताबाट अन्तर्राष्ट्रिय खेल खेल्न थालेको हो । त्यसपछि नेपालले विभिन्न प्रतियोगितामा सहभागीता जनाउँदै आइरहेको छ । नेपाली महिला टिमको वर्तमान कप्तान रुबिना क्षेत्री, प्रशिक्षक श्याम सुन जंग थापा र मेनेजर सन्जय राज सिंह रहेका छन् ।",
+    "महिला क्रिकेट मा सहभागि नेपाली महिला क्रिकेट टोली :"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 405,
+    "text_length_avg": 228.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1220,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23130.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23130.txt",
+    "relative_path": "23130.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23130.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1220,
+    "mtime": 1782796503.8057535,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d8befca31fb43a15392c4ae5fe9237795ad68b0b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

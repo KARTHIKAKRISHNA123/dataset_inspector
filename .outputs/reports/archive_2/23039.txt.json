@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23039.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:Panch Prayagउत्तर भारतको उत्तराखण्ड राज्यको पञ्च प्रयागमा देवप्रयाग, रुद्रप्रयाग, कर्णप्रयाग, नन्दप्रयाग तथा विष्णुप्रयाग छन् । उत्तराखण्डको प्रसिद्ध पञ्च प्रयाग देवप्रयाग रुद्रप्रयाग कर्णप्रयाग नन्दप्रयाग तथा विष्णुप्रयाग मुख्य नदीहरूको संगममा अवस्थित छन् । ",
+    "अलकनंदा तथा भगीरथी नदीहरूका संगममा देवप्रयाग नामक स्थान स्थित छ । यसै संगम स्थल पछि यस नदीलाई गंगाका नामबाट जान जान्छ । यो समुद्र सतहबाट 1500 फीटको  ऊंचाईमा स्थित छ । देवप्रयागको  ऋषिकेशबाट सडक मार्ग दूरी 70 किमी0 छ । गढवाल क्षेत्रमा भगीरथी नदीलाई सास तथा अलकनंदा नदीलाई बहू भनिन्छ । देवप्रयागमा शिव मन्दिर तथा रघुनाथ मन्दिर छ, जो  यहांका मुख्य आकर्षण छन् । रघुनाथ मन्दिर द्रविड शैलीबाट निर्मित छ । देवप्रयागलाई सुदर्शन क्षेत्र पनि भनिन्छ । देवप्रयागमा कागहरु देखिदैनन्, जो  एक आश्चर्यको  कुरा छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 497,
+    "text_length_avg": 277.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4360,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23039.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23039.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23039.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4360,
+    "mtime": 1782796632.4938366,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "817f0cf2b646e1f2649cb56dd8cf15a1c1df5a76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

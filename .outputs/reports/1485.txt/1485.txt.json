@@ -1,0 +1,94 @@
+{
+  "dataset": "1485.txt",
+  "file_name": "1485.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आवर्त सारणी अथवा तत्वहरूको आवर्त सारणी रासायनिक तत्वहरूलाई तिनको संगत विशेषताहरूका साथ एउटा सारणीका रूपमा दर्शाउने एउटा व्यवस्था हो। वर्तमान आवर्त सारणीमा 117 ज्ञात तत्व सम्मिलित छन्। रूसी रसायन-शास्त्री माडलीफ ले सन 1869मा आवर्त नियम प्रस्तुत गरे। यसका अनुसार, ",
+    "अर्थात यदि तत्वहरूलाई परमाणु भारका वृद्धिक्रममा राखियो भनें त्यो तत्व जसको गुण समान हुन्छन् एउटा निश्चित अवधिका पछि आउँछन्। माडलीवले यस सारणीका सहारे तत्वहरूका भौतिक एवं रासायनिक गुणहरूका आवर्ती हुनेका पहलूलाई प्रदर्शित गर्ने प्रयत्न गरे। 1815देखि 1913सम्म यसमा धेरै सुधार भए ताकि नयाँ आविष्कृत तत्वहरूलाई उचित स्थान दिन सकियोस् र सारणी नयाँ जानकारीहरूका अनुरूप हो। रसायन शास्त्रीहरूका लागि आवर्त सारणी अत्यन्त महत्वपूर्ण एवं उपयोगी हो। यसका कारण कम तत्वहरूका गुणधर्महरूलाई नैं याद राख्नाले काम चल्छ "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 3896,
+    "text_length_avg": 740.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8584,
+      "Latin": 0.1416
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15187,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8774,
+      "Latin": 0.1226
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1485.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1485.txt",
+    "relative_path": "1485.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1485.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15187,
+    "mtime": 1782796464.9396179,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "43ec60668973bcc73252fdcf084a81a5a7e06409",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

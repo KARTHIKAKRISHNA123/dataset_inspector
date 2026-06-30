@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37793.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइसिसी विश्व क्रिकेट लिग अन्तर्राष्ट्रिय क्रिकेट परिषदद्वारा प्रशासित टेस्ट मान्यता प्राप्त नगरेको राष्ट्रिय टोलीहरू बीच खेलाईने एकदिवसीय अन्तर्राष्ट्रिय क्रिकेट प्रतियोगिताहरुको एउटा शृङ्खला हो । आइसिसीको सबै सह सदस्य तथा सहयोगी सदस्यहरु यस डिभिजनमा भाग लिन्छन् र यस लिगको संरचना अनुसार जित्ने टिमको पदोन्नति हुन्छ भने पुछारमा रहने टिमको पद अवनति हुन्छ । यो लिग प्रणालीको मुख्य दुई उद्देश्य रहेको छ: आफ्ना सबै सह सदस्य र सहयोगी सदस्यहरुलाई क्रिकेट विश्वकपमा सहभागिता जनाउन तथा सबै सदस्यहरुलाई एकदिवस",
+    "यस लिगको उद्घाटन संस्करण 2007-09 आइसिसी विश्व क्रिकेट लिग रहेको थियो जसमा टिमहरूलाई 2007 विश्वकप छनौट प्रतियोगिताको प्रदर्शनको आधारमा छुट्टयाईएको थियो । यस डिभिजनमा प्रारम्भिक 6 वटा टोली विश्वकप 2007 को लागि योग्य टोली थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 547,
+    "text_length_avg": 201.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9865,
+      "Latin": 0.0135
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2125,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9865,
+      "Latin": 0.0135
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37793.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37793.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37793.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2125,
+    "mtime": 1782796661.7618463,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "d00d89ed08eb63510d43d122aa601f59490395bc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

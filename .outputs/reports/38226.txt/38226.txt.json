@@ -1,0 +1,92 @@
+{
+  "dataset": "38226.txt",
+  "file_name": "38226.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. राम निवास पाण्डेय अवधीभाषी विद्वान, प्राध्यापक, आन्वेषक एवं इतिहासविद् थिए।उनी जीवन पर्यन्त शिक्षण पेशामे समर्पित रहे। उनी त्रिभुवन विश्वविद्यालयमा इतिहास, संस्कृति र पुरातत्व विषयको अध्ययन, अनुसान्धान ‌र अध्यापनको काममा समर्पित थिए।",
+    "त्रिभुवन विश्वविद्यालयको सेवा अवधिमा उनले चार विधा इतिहास, संस्कृति, पुरातत्व, बुद्ध अध्ययन विषयहरू अध्ययन अध्यापनका लागि अलग अलग विभाग स्थापना गरे।उनको जन्म कपिलवस्तु जिल्ला पिपरा गाउँविकास समितिको गौरा गाउँमा इस्वी सम्बत 1939 जनवरी 12मा भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 60,
+    "text_length_max": 249,
+    "text_length_avg": 155.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2924,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38226.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38226.txt",
+    "relative_path": "38226.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38226.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2924,
+    "mtime": 1782796574.293131,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "fa78a2b5985fa9062da7d73005ef8dce799e3c70",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

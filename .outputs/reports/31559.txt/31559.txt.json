@@ -1,0 +1,92 @@
+{
+  "dataset": "31559.txt",
+  "file_name": "31559.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " संयुक्त अरब इमिरेट्स दिरहम51.7 ",
+    "इमिरेट्स दूरसञ्चार समूह कम्पनी हाे । एटिसलात मध्य पूर्वमा इन्टरनेट केन्द्रहरु मध्ये एक हो जुन यस क्षेत्रमा अन्य दूरसञ्चार संचालकहरु सँग जाेडिने क्षमता प्रदान गर्दछ । यो मध्य पूर्व र अफ्रिकामा अन्तर्राष्ट्रिय आवाज ट्राफिकको सबैभन्दा ठूलो सञ्चालक हो र विश्वमा 12 औं सबैभन्दा ठूलो आवाज ट्राफिक सञ्चालक हाे । डिसेम्बर 2011 मा एटिसलातले 4 जी एलटिइ नेटवर्कको वाणिज्यिक प्रक्षेपणको घोषणा गरेकाे थियोे । यसकाे मुख्यालय संयुक्त अरब इमिरेट्सकाे अबु धाबीमा अवस्थित छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 560,
+    "text_length_avg": 342.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3608,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31559.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31559.txt",
+    "relative_path": "31559.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31559.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3608,
+    "mtime": 1782796543.1210692,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "1d1109d85c88f3de6194606970bf763425892076",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

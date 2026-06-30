@@ -1,0 +1,92 @@
+{
+  "dataset": "7570.txt",
+  "file_name": "7570.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भुक्तानी भन्नाले एक व्यक्तिबाट अर्को व्यक्तिमा कुनै आर्थिक कारोबारको सम्बन्धमा भएको श्रोतको हस्तान्तरणलाई बुझाउँदछ । ",
+    "विश्वमा सबैभन्दा पूरानो भुक्तानी प्रणाली भनेको वस्तु विनिमय हो, जुन परापुर्वक कालमा जब मुद्राको प्रचलन थिएन त्यस बेला वस्तु वा सेवाको खरिद गर्दा भुक्तानीको स्वरुप वस्तु तथा सेवाको हस्तान्तरण गरिन्थ्यो । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 117,
+    "text_length_max": 203,
+    "text_length_avg": 148.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1199,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7570.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7570.txt",
+    "relative_path": "7570.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7570.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1199,
+    "mtime": 1782796595.0990262,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "654698787160418c235175b32576a06c308b2e01",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

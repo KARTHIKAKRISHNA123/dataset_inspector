@@ -1,0 +1,92 @@
+{
+  "dataset": "11327.txt",
+  "file_name": "11327.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दीपक सन्धू  19 डिसेम्बर 1948 ) भारतकी पहली महिला मुख्य सूचना आयुक्त रहेकी एक महिला व्यक्तित्व हुन्। 5 सेप्टेम्बर 2013मा यो पदमा उनको नियुक्ति भएको थियो र 18 डिसेम्बर 2013मा उनीले यो पद छोडिन्। ",
+    "1971 बेचको भारतीय सूचना सेवाको पूर्व अधिकारी सन्धू धेरै महत्वपूर्ण पदहरूमामा कार्य गरि सकेकी छिन् जसम पीआईबीको प्रधान महानिदेशक, मीडिया एवं संचार, डीडी न्यूजको महानिदेशक र 2009मा सूचना आयुक्त बन्नु भन्दा पहिला अल इंडिया रेडियो, न्यूजको महानिदेशक रही सकेकी छिन्। उनी कान, बर्लिन, वेनिस र टोक्योमा अंतरराष्ट्रीय फिल्म समारोहमा, रूसको ग्लेनक्षीक र साइप्रसमा आतङ्कवाद एवं इलेक्ट्रानिक मास मीडियामा अंतरराष्ट्रीय सम्मेलनको बाहेक अटलांटा, अमेरिका एवं बीजिंगमा समाचार प्रमुखहरूको सम्मेलनमा देशको प्रतिनिधित्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 518,
+    "text_length_avg": 355.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1853,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11327.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11327.txt",
+    "relative_path": "11327.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11327.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1853,
+    "mtime": 1782796448.8694668,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "1b203872ec7465a7b0fcc70d997bb432cbd4af63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

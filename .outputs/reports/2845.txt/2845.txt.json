@@ -1,0 +1,94 @@
+{
+  "dataset": "2845.txt",
+  "file_name": "2845.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मूत्रमार्ग एक ट्यूब हो जस्ले निस्कासनको लागि मुत्रथैली र बाहिरी योनाङ्गलाई जोड्ने कार्य गर्दछ। पुरुषह्रुमा, मूत्रमार्ग लिङ्ग भएर बहिर सम्म आउँछ र यस्ले पिशाबको साथै वीर्यलाई पनि मार्ग प्रदन गर्छ भने महिलाहरूमा, मूत्रमार्ग छोटो हुन्छ र योनिमार्गको द्वारको माथि पट्टि खुल्छ।",
+    "बाहिरी मूत्रमार्ग एक रेसादार मांसपेशीले बनेको हुन्छ जस्ले पिशाबलाई स्वैच्छिक नियन्त्रण गर्नमा सहयोग गर्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 272,
+    "text_length_avg": 73.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8703,
+      "Latin": 0.1297
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1094,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8703,
+      "Latin": 0.1297
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2845.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2845.txt",
+    "relative_path": "2845.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2845.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1094,
+    "mtime": 1782796528.2823668,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8c84c73fba67d366a5bf913a3ac47a42066d2d15",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

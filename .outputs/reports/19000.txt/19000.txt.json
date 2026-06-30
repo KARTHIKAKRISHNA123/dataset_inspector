@@ -1,0 +1,92 @@
+{
+  "dataset": "19000.txt",
+  "file_name": "19000.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोपाल ठाकुर",
+    "बारा, कचोर्वा निवासी गोपाल ठाकुर समानुपातिक तर्फ नेकपा एमालेका सभासद हुनुहुन्छ। त्रिभुवन विश्वविद्यालयवाट अङ्ग्रेजी साहित्यमा स्नातकोत्तर ठाकुर एमाले संगठित सदस्य र केन्द्रीय सांस्कृतिक विभागका समेत सदस्य हुनुहुन्छ। जातिगत विभेद र प्रजातन्त्रका लागि विद्यार्थी अवस्था देखि नै राजनीतिमा संलग्न रहँदै आएका ठाकुरले एमाले सम्बद्ध किसान सङ्घ को सचिबको जिम्मेदारी बहन गरिसक्नुभएको छ। राजनीतिक यात्राका क्रममा उहाँले 2041 सालमा राजकाज मुद्दा अन्तर्गत सात महिना जेल जीवन बिताउनुभएको छ। राजनीति बाहेक उहाँको प"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1051,
+    "text_length_avg": 531.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2870,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19000.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19000.txt",
+    "relative_path": "19000.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19000.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2870,
+    "mtime": 1782796484.9687617,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "57c3ce2fb9898f324fb3e0b704a5b215ca4db85a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

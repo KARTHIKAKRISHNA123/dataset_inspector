@@ -1,0 +1,96 @@
+{
+  "dataset": "14585.txt",
+  "file_name": "14585.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "H. j. javanicusH. j. auropunctatusH. j. exilisH. j. orientalisH. j. pallipesH. j. palustrisH. j. peninsulaeH. j. perakensisH. j. rafflesiiH. j. rubifronsH. j. siamensisH. j. tjerapai",
+    "सानो न्याउरीमुसा नेपालमा पाइने एक प्रकारको जनावर हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 182,
+    "text_length_avg": 117.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.7486,
+      "Devanagari": 0.2514
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 328,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7486,
+      "Devanagari": 0.2514
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14585.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14585.txt",
+    "relative_path": "14585.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14585.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 328,
+    "mtime": 1782796463.7269459,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "89414ede48288578b05d3907da3c0f3b8ae2e109",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

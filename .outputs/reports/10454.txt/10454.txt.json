@@ -1,0 +1,92 @@
+{
+  "dataset": "10454.txt",
+  "file_name": "10454.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्टाण्डर्ड चार्टर्ड बैंक नेपाल लिमिटेड बेलायतको लण्डनमा अवस्थित स्टाण्डर्ड चार्टर्ड बैंकसँग आवद्ध अन्तर्राष्ट्रिय बैंक हो । यसको स्थापना 2043 माघ 16 गते भएको थियो। नेपालको वाणिज्य बैंकहरु मध्येको ख्यातीप्राप्त बैंकको सुची मा स्टाण्डर्ड चार्टर्ड बैंक नेपाल लिमिटेडको नाम पनि रहेको छ । यो बैंक नेपाल राष्ट्र बैंकबाट 'क' वर्गको इजाजत प्राप्त बैंक हो । ",
+    "स्टाण्डर्ड चार्टर्ड बैंक नेपाल लिमिटेड बैंक लिमिटेड नेपालमा सन् 1987 देखि सञ्चालनमा रहेको छ । यो कम्पनीमा 75 प्रतिशत स्वामित्व स्टाण्डर्ड चार्टर्ड ग्रुपको रहेको छ भने बाँकी 25 प्रतिशत स्वामित्व नेपालीहरूको रहेको छ । यस कम्पनीको देश भरी 23 वटा एटिम तथा 435 कर्मचारीहरू रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 349,
+    "text_length_avg": 238.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1883,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10454.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10454.txt",
+    "relative_path": "10454.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10454.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1883,
+    "mtime": 1782796444.699602,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "e44b39aab169daf87c06fbc823f3483d29dd825e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

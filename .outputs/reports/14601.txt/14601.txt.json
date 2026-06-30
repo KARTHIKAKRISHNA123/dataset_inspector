@@ -1,0 +1,92 @@
+{
+  "dataset": "14601.txt",
+  "file_name": "14601.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बारिसाल बङ्गलादेशको एक प्रमुख सहर हो जुन क्रितनखोला नदिको किनारमा रहेको छ । यो सहर बङ्गलादेशको दक्षिण-मध्य क्षेत्रमा अवस्थित छ । यो सबैभन्दा ठूलो सहर हो र दुवै बरिसाल जिल्ला र बरिसाल विभागको प्रशासनिक मुख्यालय र सबैभन्दा ठूलो सहर हो । यो बङ्गलादेशको सबैभन्दा पुरानो नगरपालिका र नदी बंदरगाह रुपमा रहेको छ । बिरसल नगरपालिका 1976 मा ब्रिटिश राजको समयमा स्थापना भएको थियो र 25 जुलाई 2002 मा नगरपालिका निगममा स्थान अभिब्रिद्घी गरियको थियो । सन् 2011 को राष्ट्रिय जनगणना अनुसार यस सहरको जनसङ्ख्या 328,278 र",
+    "2011 राष्ट्रिय जनगणनाको अनन्त परिणामको अनुसार बरिसालको जनसङ्ख्या 328,278 रहेको छ जसमध्ये परुषको जनसङ्ख्या 51.63 र 48.37 % महिला को जनसङ्ख्या रहेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 601,
+    "text_length_avg": 330.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5108,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14601.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14601.txt",
+    "relative_path": "14601.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14601.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5108,
+    "mtime": 1782796463.8147979,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1761df0f0eb296345afbf1aa6201f48f2c135b8b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सर डोनाल्ड जर्ज ब्रेडम्यान,, अस्ट्रेलियाका क्रिकेट खेलाडी हुन् जसलाई प्राय: \"द डन\" भनेर संसारका क्रिकेट प्रेमी तथा खेलाडीहरू सम्बोधन गर्छन । उनी हालसम्मको क्रिकेट इतिहासमा टेस्ट क्रिकेटका महानतम ब्याट्सम्यान भनेर उनलाई जानिन्छ । हाल सम्मको टेस्ट क्रिकेटमा उनी द्वारा स्थापित 99.94 को ब्याटिङ औषत क्रिकेट इतिहासमा कुनै खेलाडीद्वारा बनाइएको सबैभन्दा अधिक हो ।",
+    "0"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 357,
+    "text_length_avg": 179.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 951,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\880.txt",
+    "relative_path": "archive (2)\\valid\\valid\\880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 951,
+    "mtime": 1782796673.301623,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a182994c0bb11bef5d29a6285459ef03e40292a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

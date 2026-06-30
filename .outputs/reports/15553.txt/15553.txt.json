@@ -1,0 +1,94 @@
+{
+  "dataset": "15553.txt",
+  "file_name": "15553.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लाली गुराँस नेपालको राष्ट्रिय फूल हो। यो फूललाई भारतको उत्तराखण्ड राज्यको पनि राष्ट्रिय फूलको रूपमा राखिएको छ। यो फूल पहाडी भेगमा पाईने गुराँसको फूल हो। लाली गुराँस साधारण तया माघ, फागुन तिर फूलेको देखिन्छ। तर छिटो फूल्ने ठाउँमा यो फूल पौषको महिनामा पनि फूलेको देखिन्छ। फूलको रंग रातो हुन्छ। फूलको आकार औसत अरु फूलहरू भन्दा केही ठूलो हुन्छ। यसको पात लामो हुन्छ। पातको लम्बाई लगभग 5 देखि 10 से.मी.सम्म हुन्छ। यसको रुखको उँचाई र आकार ठाउँ अनुसार फरक हुन्छ। निम्न पहाडी भू-भागमा यसको रुख मध्यम खालको हुन",
+    "विश्वमा लालिगुराँससँग मिल्दोजुल्दो प्रजातिका अन्य 5 गुराँसहरू पाइन्छन्। यसै वर्गमा पर्ने सेतो गुराँस अर्थात चिमाली 3 हजार मीटर भन्दा माथिको उचाइमा पाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 154,
+    "text_length_max": 627,
+    "text_length_avg": 448.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3568,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15553.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15553.txt",
+    "relative_path": "15553.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15553.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3568,
+    "mtime": 1782796468.1256542,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "736d92006a555ca22cb2c31f654300ea0619f3a3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

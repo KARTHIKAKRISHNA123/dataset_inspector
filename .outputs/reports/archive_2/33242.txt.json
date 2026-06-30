@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33242.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रासायनिक सूत्र या अणुसूत्र कुनै रासायनिक यौगिक को यस प्रकार निरूपित गरिन्छ जसबाट थाहा हुन्छ कि त्यो यौगिक कुन-कुन तत्वहरु को कति-कति परमाणुहरु द्धारा मिलेर बनेको छ ।",
+    "उदाहरणको लागि मिथेन को सूत्र CH4 हो जसले इंगित गर्छ कि मिथेन को अणु कार्बन एवं हाइड्रोजन को परमाणुहरु संग मिलएर बनएको छ तथा मिथेनको एक अणु मा कार्बनको एक परमाणु तथा हाइड्रोजन का चार परमाणु हुन्छन्। तर यस सूत्रले यो थाहा हुँदैन कि कार्बनको एक परमाणु तथा हाइड्रोजन का यि चार परमाणु कुन प्रकारले र कसरि व्यवस्थित छन्। अर्थात यिनीहरु एक नै समतलमा छन् कि त्रिबिममा हुन्; यिनिहरु बिचमा भएका बन्धनहरु को बीचमा कति कोण छ; बन्धनहरु को लम्बाई कति छ? आदि को अणुसूत्रले कुनै पनि कुराको ज्ञान हुदैन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 165,
+    "text_length_max": 486,
+    "text_length_avg": 325.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9962,
+      "Latin": 0.0038
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1707,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9962,
+      "Latin": 0.0038
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33242.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33242.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33242.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1707,
+    "mtime": 1782796652.6361408,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "74a87f24b8a2f1c6501c84f9b1ad1e12e72eadeb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

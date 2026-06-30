@@ -1,0 +1,92 @@
+{
+  "dataset": "624.txt",
+  "file_name": "624.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो सगरमाथा काठमाडौं उपत्यकाबाट प्रशारण हुने रेडियो च्यानल हो । यो दक्षिण एसियाको पहिलो सामुदायिक रेडियो हो । रेडियो सगरमाथाले वि. स. 2052 सालबाटै परिक्षण प्रसारण शुरू गरेको भएपनि वि.स. 2054 साल जेठ 9 गतेबाट बिधिवत रुपमा 102 दशमलव 4 मेगाहर्जमा प्रसारण शुरू गरेको हो। सामुदायिक भावनाबाट संचालित रेडियो सगरमाथा गैरनाफामुलक एफ.एम. रेडियो हो।",
+    "नेपालमा वि.स. 2047 सालको प्रजातान्त्रिक संविधानले नागरिकलाई लेख्ने र बोल्ने स्तन्त्रताको पत्याभुति दिलायो । यसको फलस्वरुप नेपालमा पत्र-पत्रिकाको प्रकाशन तिव्ररुपमा हुन थाले । त्यसै बेलादेखि नेपाल वातावरण पत्रकार समूह ले नेपालमा एफ.एम. प्रविधीको रेडियो भित्र्याउन प्रयास शुरु गरेको थियो । वि. स. 2049 सालमा राष्ट्रिय संचार निति 2049 जारी भयो। यसमा एफ.एम. रेडियो सञ्चालन गर्न पाइने कुरा उल्लेख गरिएको थियो । यसैलाई आधार मानेर नेवापसले एफ एम रेडियो संचालन अनुमति लागि सरकार समक्ष निवेदन दियो । त्यति बेल"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 161,
+    "text_length_max": 972,
+    "text_length_avg": 511.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10790,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "624.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\624.txt",
+    "relative_path": "624.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "624.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10790,
+    "mtime": 1782796588.8105175,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5e9ba587fca7c3fa7c256d06e0ee0014a49131a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

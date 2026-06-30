@@ -1,0 +1,94 @@
+{
+  "dataset": "14557.txt",
+  "file_name": "14557.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अबु धाबी अन्तर्राष्ट्रिय विमानस्थल  संयुक्त अरब इमिरेट्सको राजधानी शहर अबु धाबी स्थित एक अन्तर्राष्ट्रिय विमानस्थल हो ।",
+    "विमानस्थल, अबु धाबी शहर देखि 16.5 समुद्री माइल पूर्वमा छ । जुन संयुक्त अरब इमिरेट्समा दोस्रो ठूलो विमानस्थल हो । 2014 देखि यसले लगभग 2 करोड यात्रुहरूलाई सेवा गर्दै आएको छ । यसमा टर्मिनल 1, टर्मिनल 2, टर्मिनल 3 गरि तीन परिचालन यात्री टर्मिनलहरू छन् । अबु धाबी अन्तर्राष्ट्रिय विमानस्थल 3,400 हेक्टेयर को क्षेत्रफलमा फैलिएको छ । यस विमानस्थल टर्मिनलको रिक्त स्थानमा इतिहाद एयरवेजहरू हुन्छन्, जो संयुक्त अरब इमिरेट्स को राष्ट्रीय ध्वजावाहक विमान इमिरेट्स पछिको दोस्रो सबै भन्दा ठूलो विमान हो । 30 भन्दा "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 699,
+    "text_length_avg": 276.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6570,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14557.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14557.txt",
+    "relative_path": "14557.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14557.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6570,
+    "mtime": 1782796463.5774932,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "335cd8cffaad4ab31b6e759d35e58732c2ce7b9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

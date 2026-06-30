@@ -1,0 +1,94 @@
+{
+  "dataset": "31269.txt",
+  "file_name": "31269.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Ardea stellaris लिनियस, 1758",
+    "ठुलो जुनबकुल्ला हिलोमा हिड्न सक्ने, बकुल्ला प्रजातिको जुनबकुल्ला उपप्रजातिमा पर्ने एक चरा हो। यसका दुईवटा उपप्रजातिहरू रहेका छन्, जसमा एउटा दक्षिणी जातिको चराले भने युरोप, एसिया र अफ्रिकाको उत्तरी तटिय क्षेत्रमा प्रजनन गर्दछ भने अर्को उत्तरी जातिको उपप्रजातिले भने दक्षिण अफ्रिकाको बिशेष ठाउँमा मात्रै प्रजनन गर्दछ। यो चराले कुरा लुकाउने गर्दछ, यो धेरैजसो सिमसार क्षेत्रमा पाइन्छ र यो प्राकृतिक बासस्थानमा बस्न रूचाउँछ। यो खुला ठाउँमा त्यति देखिदैँन। यसको प्रमुख खाना माछा, चराको बच्चा, उभयचर, किरा आ"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 720,
+    "text_length_avg": 455.87,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9975,
+      "Latin": 0.0025
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18146,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9958,
+      "Latin": 0.0042
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31269.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31269.txt",
+    "relative_path": "31269.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31269.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18146,
+    "mtime": 1782796541.5967708,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "08990d21556546c7a52d04551bd23a7d1c9ff4a1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

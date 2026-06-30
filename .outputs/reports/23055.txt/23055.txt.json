@@ -1,0 +1,94 @@
+{
+  "dataset": "23055.txt",
+  "file_name": "23055.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिमा / पोर्टल",
+    "बुद्ध धर्ममा पूर्ण रुपमा जागृत वा निर्वाण प्राप्त गरेको व्यक्ति बुद्ध हो। यस्ता व्यक्ति लोभ, द्वेष र अज्ञानता सधैंको लागि पार गरेर पूर्ण रुपमा दुःखबाट मुक्त हुन्छन। बुद्ध धर्म अनुसार यी सबै गुण भएका व्यक्तिले निर्वाण प्राप्त गरेको भनिन्छ। यी गुणहरु बुद्ध धर्म नभएको वा लोप भएको अवस्थामा कसैले आफैले प्राप्त गरेमा सो व्यक्तिलाई बुद्ध भनिन्छ। वर्तमानमा साधारण रुपले \"बुद्ध\" शब्दले सिद्दार्थ गौतम चिनिन्छन। ऐतिहासिक र पूरातात्त्विक रुपमा अस्तित्त्व पुष्टि भएका बुद्ध यिनी मात्रै छन। बुद्ध शब्द संस्कृत श"
+  ],
+  "statistics": {
+    "records_sampled": 23,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 547,
+    "text_length_avg": 212.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9705,
+      "Latin": 0.0295
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12947,
+    "estimated_records": 60
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 60,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Latin": 0.0012
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23055.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23055.txt",
+    "relative_path": "23055.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23055.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12947,
+    "mtime": 1782796503.4364488,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f2e1b767734315096474c0388f5e3463d6b6054a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

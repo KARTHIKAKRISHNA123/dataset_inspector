@@ -1,0 +1,92 @@
+{
+  "dataset": "22019.txt",
+  "file_name": "22019.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गाईघाट अथवा त्रियुगा नगर पूर्वाञ्चल विकास क्षेत्रको सगरमाथा अञ्चलमा रहेको उदयपुर जिल्लाको सदरमुकाम हो। गाईघाट त्रियुगा नगरपालिकाको उदयपुर जिल्लाकाे केन्द्रिय शहर हो, तर समग्र नगरपालिकालाई नै गाईघाट वा त्रियुगा नगरको नामबाट चिनिन्छ।",
+    "पूर्वी नेपालको उदयपुर उपत्यकाको उदयपुर जिल्लामा रहेको त्रियुगा नगर द्रुततर गतिमा विकास भईरहेको नगर हो । यो भित्री मधेशमा पर्दछ । उदयपुर जिल्लाको सदरमुकाम रहेको त्रियुगामा सबै जिल्ला स्तरीय कार्यलयहरूका साथै क्याम्पस विद्यालय तथा अस्पतालहरू समेत रहेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 624,
+    "text_length_avg": 300.94,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13619,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22019.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22019.txt",
+    "relative_path": "22019.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22019.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13619,
+    "mtime": 1782796498.9626608,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b81fcebfaddbe697ce1f9c1fddab804842fa7ed1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

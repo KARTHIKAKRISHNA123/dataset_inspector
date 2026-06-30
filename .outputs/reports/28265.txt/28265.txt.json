@@ -1,0 +1,92 @@
+{
+  "dataset": "28265.txt",
+  "file_name": "28265.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सांख्यकारिका सांख्य दर्शनको सबै भन्दा पुरानो उपलब्ध ग्रन्थ छ। यसका रचयिता ईश्वरकृष्ण छन्। संस्कृतका एक विशेष प्रकारका श्लोकहरूको \"कारिका\" भन्दछन्। सांख्यकारिकाहरूको समय बहुमतबाट ई. तृतीय शताब्दीको मध्य मानिन्छ। वस्तुत: यिनीहरूका समय यसले पर्याप्त पूर्वको प्रतीत हुन्छ।",
+    "यसमा ईश्वरकृष्णले भन्एको छ कि यसको शिक्षा कपिलबाट आसुरी लाई, आसुरीबाट पञ्चाशिकालाई र पञ्चाशिकाबाट तिनलाई प्राप्त भए। यसमा उनले सांख्य दर्शनको 'षष्टितन्त्र' नामक कृतिको पनि उल्लेख गरेकाछन्। सांख्यकारिकामा 72 श्लोक छन् जुन आर्या छन्दमा लेखहरू छन्। यस्तो अनुमान गरिन्छ कि अन्तिम 3 श्लोक त्यस पछि जोडे गये छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 307,
+    "text_length_avg": 218.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2343,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28265.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28265.txt",
+    "relative_path": "28265.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28265.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2343,
+    "mtime": 1782796527.397457,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "d1310befc721d7c76e273d989c2c50f957dc73a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9069.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यहाँदेखि त्यहाँसम्म धनुषचन्द्र गौतमद्वारा लेखिएको उपन्यास हो । साझा र मदन पुरस्कार प्राप्त गरेको अघिल्लो उपन्यास 'घामका पाइलाहरू' कै निरन्तरता यस उपन्यासलाई मान्न सकिन्छ । यो उपन्यासमा डा. ईश्वर बरालको लामो भूमिका नेपाली आञ्चलिक उपन्यास 'यहाँदेखि त्यहाँसम्म' 'मा आञ्चलिक उपन्यास ,आञ्चलिकता र उपन्यासबारे लामो चर्चा गरेका छन् । 2042 सालमा प्रथमपटक प्रकाशित यस उपन्यास गोतामेको पूर्ववत् उपन्यास कै पात्र र प्रसङ्गलाई साथमा लिएर हिँड्छ तर उपन्यास घामका पाइलाहरूको विपरीत गाउँको परिवेशमा ढलेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 493,
+    "text_length_max": 493,
+    "text_length_avg": 493.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1314,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9069.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9069.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9069.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1314,
+    "mtime": 1782796673.8238914,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e3832d0a0d20f75843ed53f14fa60df816641719",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "7462.txt",
+  "file_name": "7462.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्पेनी व क्यास्टिलियन व castellano कास्तेयानो ) स्पेनमा उत्तपत्ती भएर संसारका धेरै देशहरूमा बोलिने भाषा हो। स्पेनमा उत्पन्न तथा विकास भएर यो भाषा हाल स्पेन लगायत अफ्रिका, अमेरिका लगायत पूर्व एसियामा समेत प्रयोग गरिन्छ। यो भाषा भारोपेली भाषा परिवार अन्तरगत पर्दछ। यो स्पेन र धेरै जसो दक्षिण अमेरिकी देशहरू सहित 21 देशहरूको राष्ट्रिय भाषा हो। यो संयुक्त राष्ट्रसंघका 6 वटा आधिकारीक भाषाहरू मध्येको एक हो। ",
+    "यो भाषा 32 देखि 40 करोड मानिसहरूले आफ्नो प्रथम भाषाको रूपमा बोल्ने गर्दछन्। यो भाषा बोल्ने सबैभन्दा धेरै मानिसहरू मेक्सिकोमा बस्दछन्। संयुक्त राज्य अमेरिकामा अङ्ग्रेजी पछिको दोस्रो सबैभन्दा व्यापक भाषा हो। अङ्ग्रेजी र फ्रान्सेली भाषा पछिको संसारको सबैभन्दा तेस्रो प्रभावशाली भाषा हो। "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 403,
+    "text_length_avg": 192.27,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8773,
+      "Latin": 0.1227
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5167,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8773,
+      "Latin": 0.1227
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7462.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7462.txt",
+    "relative_path": "7462.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7462.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5167,
+    "mtime": 1782796594.6072404,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "03a716304fb4eca49051568315801d8015797198",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

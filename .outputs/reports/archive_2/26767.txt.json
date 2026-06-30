@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26767.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संवत् 1864 मा नेपालको राजसिंहासनमा 10 वर्षका गीर्वाणयुद्धविक्रम शाह विराजमान थिए। जोगी राजा रणबहादुर शाह, उनका पत्नी, भाइभारदारसमेत 93 जना स्त्रीपुरुष मारिएको प्रथम भण्डारखाल पर्व परेको डेढ वर्ष भइसकेको थियो।",
+    "नेपालको सम्पूर्ण शासनको बागडोर भीमसेन थापाको हातमा परिसकेको थियो। सबै अरिष्ट पन्साएर उनी नेपालका सर्वेसर्वा बनेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 24,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 678,
+    "text_length_avg": 211.04,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13626,
+    "estimated_records": 64
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 64,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26767.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26767.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26767.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13626,
+    "mtime": 1782796639.7318428,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "41bc6049d00089215df84e0d56f7074d99283f0a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "19272.txt",
+  "file_name": "19272.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हामीलाई थाहा छ कि कुनै पनि ठोस वस्तु अर्को ठोस वस्तुसँग रगडीयो भने घर्षण उत्पन्न हुन्छ । सोही अनुरूप, कुनै पनि तरल अवस्थामा रहेको वस्तु अर्को तरल वस्तुको सतहसँग रगडीयो भने घर्षण बल उत्पन्न हुन्छ जसलाई भिस्कस बल भनिन्छ । यही बलले तरल पदार्थको सापेक्षिक चाल लाई प्रतिरोध गर्दछ ।उदाहरणका लागि, एउटा भाँडो लिउँ र एउटा सिसाको रडले उक्त भाँडोको पानीलाई चलाउँ । त्यहाँ भएको तरलको विभिन्न तहको भिन्न गति हुन्छ । भाँडोको सम्पर्कमा रहेको तहको गति न्युन हुन्छ भने भाँडोको केन्द्रतिर जाँदा तरलको गति पनि बढ्दै जा",
+    "\"भिस्कोसिटी\" शब्द लेटिन भाषाको \"viscum\", बाट आएको हो जसको अर्थ हडचुर अथवा हडचुर बाट बनेको टाँस्ने चिज हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 615,
+    "text_length_avg": 204.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9732,
+      "Latin": 0.0268
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4194,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9732,
+      "Latin": 0.0268
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19272.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19272.txt",
+    "relative_path": "19272.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19272.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4194,
+    "mtime": 1782796486.2421596,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "7f5907a35423537b5b8a8923e88c2f10c5230f12",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

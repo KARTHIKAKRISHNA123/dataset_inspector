@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कान भनेको प्राणीहरूको एक अंग हो। मानिसमा यो अंगको काम सुन्ने र सन्तुलन मिलाउने हो। कानको बनावटअनुसार कानलाई तीन भागमा बाडिएको छ। बाहिरी कान, मध्य कान र भित्री कान। ",
+    "मानव तथा अन्य स्तनधारी प्राणिहरूमा कर्ण या कान श्रवण प्रणालीको मुख्य अंग हो। कशेरुकी प्राणिहरूमा मछली देखि लिएर मनुष्य सम्म कान जीववैज्ञानिक रूपले समान हुन्छ खाली उनको संरचना गण र प्रजातिको अनुसार भिन्न हुन्छ।कान त्यो अंग हो जुन ध्वनि पत्ता लगाउछ, यो ध्वनिको लागि एक ग्राहक को रूपमा मात्र कार्य नगरेर शरीरको संतुलन र स्थितिको बोधमा पनि एक प्रमुख भूमिका निभाउछ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 445,
+    "text_length_avg": 250.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2664,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28880.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2664,
+    "mtime": 1782796643.9248006,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ed7bfdd4326e9d2f56d5138a32469a1596babd2a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

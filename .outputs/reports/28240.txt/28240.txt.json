@@ -1,0 +1,95 @@
+{
+  "dataset": "28240.txt",
+  "file_name": "28240.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Dong Hoi विमानस्थल Is the airport in Dong Hoi, Quang Binh Province, Vietnam. The runway is 2400 m. The airport can serve 500,000 passengers per year. Now it has filghts with Hanoi and Ho Chi Minh City नेपालको राजधानी काठमाडौं बाट 150 कि. मि. टाढा चितवन उपत्यकाको भरतपुर सहरमा रहेको छ। यो विमानस्थल सन 1961 देखि शुरू भएको हो । हाल मध्य नेपालको प्रमुख यो विमानस्थल बेला बेलामा अन्तराष्ट्रिय विमानस्थल बनाउने भनेर चर्चा भइरहने विमानस्थल हो। नेपालको केन्द्र भागमा रहेको राजधानी काठमाण्डौ बाट पनि नजिक रहे"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1094,
+    "text_length_max": 1094,
+    "text_length_avg": 1094.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8194,
+      "Latin": 0.1806
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2547,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8194,
+      "Latin": 0.1806
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28240.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28240.txt",
+    "relative_path": "28240.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28240.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2547,
+    "mtime": 1782796527.2863848,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4b5d8d2fd66b565330fd3be74474d67d4698c66e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

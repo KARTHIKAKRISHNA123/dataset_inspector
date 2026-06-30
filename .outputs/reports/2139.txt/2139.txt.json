@@ -1,0 +1,92 @@
+{
+  "dataset": "2139.txt",
+  "file_name": "2139.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बङ्गाल का माण्डलिक राजा धवलचंद्रको दरवारका राजकवि नारायण पंडितद्वारा रचित नीतिकथाहरूको संगालो| हितोपदेशका कथामा अर्बुदाचल पाटलिपुत्र, उज्जयिनी, मालवा, हस्तिनापुर, कान्यकुब्ज, वाराणसी, मगधदेश, कलिंगदेश आदि स्थानको उल्लेख भएकोले कथाहरूले त्यस समयमा ती स्थानहरूको चित्रण गरेको मान्न सकिन्छ| यस बाहेक स्वयं रचनाकार नारायण पंडितले उल्लेख गरेका छन्- पंचतंत्रान्तथाडन्यस्माद् ग्रन्थादाकृष्य लिख्यते। | जसको अर्थ हुन्छ - पंचतंत्र यसको आधार हो| यसको रचना काल 12 ऑ शताव्दी मानिएको छ| नेपाली भाषामा हस्तलिखित प्",
+    "हितोपदेश कथा हरू चार भागोंमा विभक्त छन| "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 562,
+    "text_length_avg": 106.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1681,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2139.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2139.txt",
+    "relative_path": "2139.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2139.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1681,
+    "mtime": 1782796496.189962,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "71fd818dc0a66ebd90835d4b679b9ed432db0eb6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

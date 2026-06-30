@@ -1,0 +1,92 @@
+{
+  "dataset": "9721.txt",
+  "file_name": "9721.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकिकृत नेकपा माओवादीको तर्फबाट संविधान सभा सदस्यमा पिछडिएको क्षेत्रबाट प्रतिधित्व गर्ने महिला सभाषद सत्या पहाडी लामो सयमसम्मको राजनीतिक संघर्ष, जनता र पार्टीको आफू प्रतिको विश्वासले नै संविधान सभा सदस्यमा विजयी भएको बताउनुहुन्छ।",
+    "पञ्चायती व्यवस्थामा पक्षधर प्रभावशालि डोल्पाली नेता मोतीप्रसाद पहाडीकी भतिजी सत्याका श्रीमान् शक्तिबहादुर बस्नेत सुरेश सिंह माओवादीका केन्द्रीय सदस्य हुनुहुन्छ। सत्याका माहिला बा मोतिप्रसाद धनी भए पनि सत्याको परिवार भने गरीबीमा डुवेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 152,
+    "text_length_max": 281,
+    "text_length_avg": 238.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3825,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9721.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9721.txt",
+    "relative_path": "9721.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9721.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3825,
+    "mtime": 1782796605.4030683,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1a6c1ba920ff65dc1ccbf2a3b5fa9b21302a876f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

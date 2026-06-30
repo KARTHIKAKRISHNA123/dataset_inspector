@@ -1,0 +1,92 @@
+{
+  "dataset": "27490.txt",
+  "file_name": "27490.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमार मंगलम बिरला एक भारतीय उद्योगपति तथा आदित्य बिरला समुहका अध्यक्ष हुन् । बिरला समुह भारतमा सबै भन्दा ठुलो समुह निगम मध्ये पर्दछन् । यो समूह भारतको तेस्रो सबै भन्दा ठूलो व्यापारिक समूह हो । उहाँ बिरला प्रविधि तथा विज्ञान संस्थान का कुलपति पनि हुनु हुन्छ । कुमार मंगलम बिरला विभिन्न नियामक तथा व्यावसायिक बोर्ड मा विभिन्न महत्वपूर्ण र जिम्मेदार पद मा प्रतिष्ठित रुपमा अहिले पनि रही आएका छन्।",
+    "कुमार मंगलम बिरलाको जन्म राजस्थान राज्यको एक मारवाडी व्यवसायी बिरला परिवारमा भएको थियो । चार्टर्ड एकाउन्टटेन्ट कुमार मंगलम बिरलाले लण्डन बिजनेस स्कूलबाट एम बी ए को डिग्री हासिल गरे जहाँ उनि एक मानार्थ सदस्य पनि छन् । बिरलाकी एक पत्नी श्रीमती नीरजा कस्लीवाल र तीन बच्चाहरु अनन्याश्री, आर्यमन विक्रम र अद्वैतेषा छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 166,
+    "text_length_max": 2851,
+    "text_length_avg": 931.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9594,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27490.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27490.txt",
+    "relative_path": "27490.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27490.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9594,
+    "mtime": 1782796523.9006722,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "64a1dd06831de6564f26529df5461df516b8446f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

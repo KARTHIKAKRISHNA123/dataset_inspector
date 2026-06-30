@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34871.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अंगीकरण गरिएको",
+    "नेपालको राष्ट्रिय झण्डा एक मात्र चारकुने आकार नभएको राष्ट्रिय झण्डा हो र दुई मात्र चारकुने आकार नभएको सरकारी झण्डा मध्येको एक हो । नेपालको झण्डा दुई त्रिकोण मिलेर बनेको छ । माथिल्लो त्रिकोणमा अर्ध चन्द्र र तल्लोमा सुर्य छ, जसले आकाशमा चन्द्र र सुर्य रहुन्जेल नेपाल रहीरहने कुरालाई जनाउँछ । नीलो किनारा शान्तिको प्रतिक हो र सिम्रिक रङ नेपालको राष्ट्रिय रङ हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 1197,
+    "text_length_avg": 358.81,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9905,
+      "Latin": 0.0095
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20126,
+    "estimated_records": 56
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 56,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34871.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34871.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34871.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20126,
+    "mtime": 1782796656.0395117,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "812603fe06f5d690e4c3069d20bee89d94b8af88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

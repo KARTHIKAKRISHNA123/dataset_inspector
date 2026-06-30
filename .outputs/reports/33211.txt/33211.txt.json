@@ -1,0 +1,92 @@
+{
+  "dataset": "33211.txt",
+  "file_name": "33211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मदनकुमार भण्डारी  नेपालका राजनीतिज्ञ तथा नेपाल कम्युनिष्ट पार्टी का नेता थिए।",
+    "जनआन्दोलन 2046मा बाम मोर्चाबाट सकृय रहेका भण्डारीले नेपाल कम्युनिष्ट पार्टी र मनमोहन अधिकारी द्वारा नेतृत्व गरिएको नेपाल कम्युनिष्ट पार्टी लाई एकीकरण गरी नेकपा गठन गर्न महत्त्वपूर्ण भूमिका खेलेका थिए। उनले प्रतिपादन गरेको बहुदलीय जनवादको नीति पछ्याउँदै नेकपा बहुलबादी राजनीतिमा अगाडि बढी आम निर्वाचन 2048मा भाग लिई देशको प्रमुख प्रतिपक्षको रूपमा स्थापित भएको थियो। लेनिनले सबैभन्दा पहिला संसारमा स्थापित गरेको सोभियत समाजवाद असफल भएर विश्व कम्यूनिष्ट आन्दोलनले गम्भीर धक्का खाएको बेलामा पनि माक्र्सवा"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 679,
+    "text_length_avg": 288.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8399,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33211.txt",
+    "relative_path": "33211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8399,
+    "mtime": 1782796550.54152,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b2341cc1408a25dcfbfaf5bff95f167c8aa6ce7f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

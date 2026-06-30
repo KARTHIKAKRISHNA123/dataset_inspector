@@ -1,0 +1,93 @@
+{
+  "dataset": "29793.txt",
+  "file_name": "29793.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अतिताप, तापमान नियन्त्रणको विफलताको कारण शरीरको बढेको तापमान हुन्छ। अतिताप तब हुन्छ जब शरीर तापको अपव्यय गर्नको आफ्नो क्षमता भन्दा अधिक तापको उत्पादन गर्दछ या अवशोषित गर्दछ। जब शरीरको तातोपन एकदम धेरै हुन्छ, तब आपतकालीन चिकित्साको स्थिति हुन्छ र विकलांगता या मृत्यु बाट बच्नको लागि तत्काल उपचारको आवश्यकता पर्दछ।",
+    "यसको सबै भन्दा सामान्य कारण ऊष्माघात र दबाइहरुको प्रतिकूल प्रतिक्रिया हुन्छ। ऊष्माघातको तीव्र स्थिति अतिताप हो जुन अत्यधिक गर्मी या गर्मी र आर्द्रतामा लामो समय सम्म रहनबाट हुन्छ। शरीरको ताप-विनियमन तन्त्र अंततः अभिभूत बनछ र तापसँग प्रभावी रूपले निपटनेमा असमर्थ हुन्छ जसको कारण शरीरको तापमान अनियन्त्रित स्थितिमा पुगछ। अतिताप, धेरै दबाइहरुको एक अपेक्षाकृत दुर्लभ पक्ष प्रभाव छ, विशेष रूपले उनी दबाइहरु जुन केन्द्रिय तन्त्रिका प्रणालीको प्रभावित गर्छं। घातक अतिताप, सामान्य संज्ञाहरणको केही प्रकारको दु"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 1179,
+    "text_length_avg": 398.19,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.99,
+      "Latin": 0.01
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 28468,
+    "estimated_records": 71
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 71,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29793.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29793.txt",
+    "relative_path": "29793.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29793.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 28468,
+    "mtime": 1782796534.8750608,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b77f23aef47884dc86f6517f11e39a11b4807439",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "28431.txt",
+  "file_name": "28431.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बयरबन केरौन नेपालको कोशी अञ्चल मोरङ जिल्ला अनतरगत् पर्नेबयरवन केरौन गाँउ विकास समिति 64 मध्ये यि 2 गाबिस पनि हुन।",
+    "नेपालको दं 2001को जनगणना ततहन्ग्क अनुसार बयरबनकेरौनको जनसङ्ख्या 40,230 । पुरुश48%, महिला 52% दु।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 113,
+    "text_length_avg": 60.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 612,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28431.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28431.txt",
+    "relative_path": "28431.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28431.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 612,
+    "mtime": 1782796528.2236388,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "d048c3e41a1e3ffe0352f488a256155c2c098497",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

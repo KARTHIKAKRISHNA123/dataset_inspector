@@ -1,0 +1,92 @@
+{
+  "dataset": "2631.txt",
+  "file_name": "2631.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निमेश गुरूङ एक नेपाली दौडका खेलाडी हुन् । उनले हाल सम्म पनि कुनै पनि दौड प्रतियोगितामा नेपालको तर्फबाट आधिकारिक रूपमा सहभागीता नजनाए पनि आफ्नो प्रत्येक सहभागीतामा नेपाललाई भने चिनाउने काम गर्दै आएका छन् । साथै उनी एक सिङ्गापुरे पुलिस अझ नेपाली स्थानीय भाषामा एक सिङ्गापुरे लाहुरे पनि हुन् ।",
+    "सिङ्गापुर पुलिसमा भर्ना भएको करिब 3 वर्षपछि उनले आफूलाई एथ्लेटिक्समा उतारेका थिए, र अहिले सिंगापुर पुलिसका 5 र 10 किलोमिटरका सबैभन्दा उत्कृष्ट धावक हुन् । साथै उनले 5 तथा 10 किलोमिटरको दौडमा आफ्नो नाममा नयाँ सिङ्गापुरे रेकर्ड राख्न सफल भएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 519,
+    "text_length_avg": 314.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5779,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2631.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2631.txt",
+    "relative_path": "2631.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2631.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5779,
+    "mtime": 1782796518.5376499,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c1b3aa824ac742ee9218e9b68dfba906276c577b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

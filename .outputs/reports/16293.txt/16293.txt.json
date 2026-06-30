@@ -1,0 +1,94 @@
+{
+  "dataset": "16293.txt",
+  "file_name": "16293.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 आइसीसी अन्डर-19 क्रिकेट विश्वकप छनौट एउटा अन्तर्राष्ट्रिय क्रिकेट प्रतियोगिता हो जुन अक्टोबर 14 देखि 23 सम्म मलेसिया भइरहेको छ । यस प्रतियोगिताले बङ्गलादेश 2016 अन्डर-19 क्रिकेट विश्वकपमा खेल्ने अन्तिम टिमको निर्धारण गर्नेछ । यो प्रतियोगिता नेपालमा हुने भनिए पनि बैशाख 11 को भूकम्प को कारणले मलेसिया मा सारिएको थियो । फाइनल खेलमा नेपालले आयरल्याण्डलाई पराजित गर्दै 2016 अन्डर-19 क्रिकेट विश्वकपको लागि छनौट भएको छ ।",
+    " किन्रारा ओभल, बन्दर किन्रारा प्लेयर अफ दि म्याच: प्रेम तामाङ्ग "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 420,
+    "text_length_avg": 92.29,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9534,
+      "Latin": 0.0466
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1638,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9534,
+      "Latin": 0.0466
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16293.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16293.txt",
+    "relative_path": "16293.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16293.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1638,
+    "mtime": 1782796471.5909333,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "f4f0710c97fce15d5b52db009e3cdf04216c1de1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

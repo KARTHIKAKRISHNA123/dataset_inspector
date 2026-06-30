@@ -1,0 +1,94 @@
+{
+  "dataset": "30128.txt",
+  "file_name": "30128.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Ardea antigone protonym",
+    "नेपाल लगायत दक्षिण एसिया र दक्षिण पूर्वी एसिया एवं अष्ट्रेलियाको रैथाने चरा संसार कै ठुलो चराहरु मा गणना हुन्छ | यो चरा एकै क्षेत्रमा बस्न रुचाउँछ र बसाई सराई गर्दैन | सेतो टाउको, रातो घाँटी र खैरो शरीर हुने यो चरा लाई अंग्रेजीमा 'सारस क्रेन' भनिन्छ | वैज्ञानिक नाम 'ग्रस एन्टिगन' रहेको यो प्रजातिको सारसलाई विश्वमै दुर्लभ श्रेणीको चरा मानिन्छ। यो प्रजातिको सारस 6 फिटसम्म अग्लो र साढे 3 किलो तौलको हुने र पखेटा फैलाउँदा दुवै पखेटाको लम्वाइ 8 फिटसम्म पुग्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 458,
+    "text_length_avg": 185.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.972,
+      "Latin": 0.028
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2388,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.972,
+      "Latin": 0.028
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30128.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30128.txt",
+    "relative_path": "30128.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30128.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2388,
+    "mtime": 1782796536.336868,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "b980f4c84c9c295eb2154fcee1491afec2df2d9f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

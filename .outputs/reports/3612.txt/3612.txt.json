@@ -1,0 +1,91 @@
+{
+  "dataset": "3612.txt",
+  "file_name": "3612.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको एक आदिवासी समुदाय हो। फ्री जातिहरु मकवानपुर जिल्लाको फापरबारी, बेतिनी, ललितपुर जिल्लाको गोदावरी, चापागाउँ, लेले र काभ्रेपलाञ्चोक जिल्लाको धर्तिछाप, खनालथोक तथा सिन्धुपाल्चोक जिल्लाको केही स्थानमा न्यून संख्यामा बसोबास गर्दछन् ।उपत्यकाको विभाजनअघि भक्तपुरका राजाका दरबारमा भान्छेका रुपमा काम गर्ने यो जातिलाई रातमा फिरी/फेरी लगाएर हिँड्ने भनी चिनिन्छ । आफूलाई क्षेत्री भन्न रुचाउने भए पनि यिनीहरुलाई नेपाल सरकारद्वारा सूचिकृत 59 वटा आदिवासी/जनजातिको सूचीमा सूचिकृत गरिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 482,
+    "text_length_max": 482,
+    "text_length_avg": 482.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1299,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3612.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3612.txt",
+    "relative_path": "3612.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3612.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1299,
+    "mtime": 1782796563.8840275,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "af491217c750b8425e092903279cc6adfa026db4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

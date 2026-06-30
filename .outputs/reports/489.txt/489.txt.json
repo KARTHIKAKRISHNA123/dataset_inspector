@@ -1,0 +1,92 @@
+{
+  "dataset": "489.txt",
+  "file_name": "489.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हरित मालकौवा कोइलीको प्रजातिमा पर्ने एक चरा हो। यो चरा नेपाल लगायत भारतीय उपमहाद्वीपका भूभागहरू तथा दक्षिणपूर्वी एसियामा पाइने गर्छ। यसलाई अङ्ग्रेजीमा ग्रिन-बिल्ड मालकोहा  भनिन्छ।",
+    "हरित मालकौवा 50-60 सेन्टिमिटर लामो तथा 100-128 ग्राम तौल भएको हुन्छ। यसको आँखा वरिपरी सेतो घेरा सहितको रातो भाग हुन्छ, घाँटी तथा छाती फिक्का हरियो रङ्गको हुन्छ र पंखेटा गाढा हरियो रङ्गको हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 193,
+    "text_length_avg": 70.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1516,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "489.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\489.txt",
+    "relative_path": "489.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "489.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1516,
+    "mtime": 1782796581.8267097,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2046299a46461d2835eebf9aa2606b9fdef4cdd1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

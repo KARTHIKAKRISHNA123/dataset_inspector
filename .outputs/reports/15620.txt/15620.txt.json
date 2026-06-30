@@ -1,0 +1,92 @@
+{
+  "dataset": "15620.txt",
+  "file_name": "15620.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अयोध्या उत्तर प्रदेश प्रान्तको एक शहर ह। यो फैजाबाद जिलाका अन्तर्गत आउँछ।रामजन्मभूमि अयोध्या उत्तर प्रदेशमा सरयू नदीका दाहरू तटमा बसेको छ प्राचीन कालमा यसलाई कौशल देश भनिन्थ्यो। अयोध्या हिन्दुहरूको प्राचीन र सात पवित्र तीर्थस्थलहरूमा एक हो। अथर्ववेदमा अयोध्यालाई ईश्वरको नगर बताइएको छ र यसको संपन्नताको तुलना स्वर्गबाट गरिएको हो। रामायणका अनुसार अयोध्याको स्थापना मनुले गरेको थियो। धेरै शताब्दिहरूसम्म यो नगर सूर्यवंशी राजाहरूको राजधानी रहा। अयोध्या मूल रूपबाट मन्दिरहरूको शहर हो। यहाँ आज पनि हिन्दू,",
+    "शहरका पश्चिमी भागहरूमा स्थित रामकोट अयोध्यामा पूजाको प्रमुख स्थान हो। यहाँ भारत र विदेशबाट आउने भएका श्रद्धालुहरूको साल भर आना जाना लगा रहन्छ। मार्च-अप्रैलमा मनाए जाने वाला रामनवमी पर्व यहाँ ठूला जोश र धूमधामबाट मनाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 959,
+    "text_length_avg": 375.77,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12991,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15620.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15620.txt",
+    "relative_path": "15620.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15620.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12991,
+    "mtime": 1782796468.448158,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9c7227c4939e009326070df509c7568eabf7bec1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

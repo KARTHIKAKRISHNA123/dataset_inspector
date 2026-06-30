@@ -1,0 +1,94 @@
+{
+  "dataset": "2142.txt",
+  "file_name": "2142.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल सरकारको नियमावली, 2064 बमोजिम सामान्य प्रशासन मन्त्रालयको कार्यक्षेत्र र जिम्मेवारी निम्न बमोजिम तोकिएको छ :",
+    "सामान्य प्रशासन मन्त्रालयसिंहदरबार, काठमाण्डौं, नेपालफोन: 977-1-4200367, 977-1-4200368, 977-1-4200369फ्याक्स: 977-1-4200238ईमेल: info@moga.gov.np"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 145,
+    "text_length_avg": 91.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8603,
+      "Latin": 0.1397
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 585,
+    "estimated_records": 6
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 6,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8603,
+      "Latin": 0.1397
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2142.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2142.txt",
+    "relative_path": "2142.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2142.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 585,
+    "mtime": 1782796496.3230724,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "b83a28b27f15a6c00c09ac08a23f436dd82e737d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "27340.txt",
+  "file_name": "27340.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इस्लामी पञ्चाङ्ग वा क्यालेण्डर वा मुस्लिम क्यालेण्डरलाई जसलाई हिजरी क्यालेण्डर पनि भन्दछन्, एक चन्द्र क्यालेण्डर हो, यो मात्र मुस्लिम देशहरुमा प्रयोग हुन्छ तर यसलाई पूरा विश्वका मुस्लिम इस्लामिक धार्मिक पर्वहरुलाई मनाऊन सही समय जाननका लागि प्रयोग गर्दछन्। यो चन्द्र-क्यालेण्डर छ, जसमा वर्षमा बारह मास, एवं 354 वा 355 दिवस हुन्छन्। किनभनें यो सौर क्यालेण्डरदेखि 11 दिवस सानो छ यस लागि इस्लामी धार्मिक तिथिहरु, जो कि यस क्यालेण्डरका अनुसार स्थिर तिथिहरुमा होतीं छन्, परन्तु प्रत्येक वर्ष पछिल्ला सौर क्",
+    "वर्तमान हिज्री वर्ष हो 1430 AH."
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 902,
+    "text_length_avg": 203.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8166,
+      "Latin": 0.1834
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4734,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8166,
+      "Latin": 0.1834
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27340.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27340.txt",
+    "relative_path": "27340.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27340.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4734,
+    "mtime": 1782796523.2450213,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c784fbdde3a4e1f393123c5f24847fe4a147a8d9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

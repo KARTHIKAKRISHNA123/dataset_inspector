@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14900.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्थिक विचारको इतिहासमा अर्थशास्त्र विषयका उद्गम स्रोत दुइवटा मानिन्छन्– एउटालाई पाश्चात्त्य अर्थशास्त्र भनिन्छ भने अर्कोलाई पूर्वीय अर्थशास्त्र भनिन्छ ।  ",
+    "पाश्चात्त्यको अर्थ हो पश्चिम तर्फको । यसलाई अंग्रेजीमा ओक्सिडेन्टल Occidental भनिन्छ । त्यसैले यसका लागि उचित नेपाली शब्द हुन्छ प्रतीच्य । पाश्चात्त्य आर्थिक दर्शनको प्रारम्भ सोक्रेटीजका शिष्य प्लेटोबाट प्रारम्भ हुन्छ । सोक्रेटीजका आर्थिक विचारहरुलाई उनको शिष्य परम्परामा जिनोफोन, प्लेटो, र एरिस्टोटल द्वारा निरन्तरता दिइएको हो । जीनोफोन एक आदर्शवादी आर्थिक विचारक थिए । उनले सादा जीवन र सदाचारलाई उच्च महत्त्व दिएका छन् । कृषिलाई उनले उच्च मर्यादित पेशा मानेका छन् । उनले श्रम विभाजन, मूल्य निर्धारण"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 1922,
+    "text_length_avg": 653.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34835,
+    "estimated_records": 53
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 53,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9922,
+      "Latin": 0.0078
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14900.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14900.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14900.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34835,
+    "mtime": 1782796616.33053,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b1c447d9d6e3b010dcdf3f6cb35eb2e10a29f84f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

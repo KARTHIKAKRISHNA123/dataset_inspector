@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29035.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वसन्तकुमार शर्म्मा 'नेपाल' कोशकार हुन् । उनका करिब एक सय कृति प्रकाशित छन्। उनले तयार पारेको नेपाली शब्दसागर शब्दकोश हालसम्मकै सबभन्दा ठूलो नेपाली शब्दकोश हो।",
+    "शर्माको जन्म चैत रामनवमीका दिन महाराजगंज, काठमाडौंमा भएको थियो । उनका पिता पण्डित दिवाकर शर्मा नेपाल र माता हेमकुमारी देवी हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 1698,
+    "text_length_avg": 674.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9631,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29035.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29035.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29035.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9631,
+    "mtime": 1782796644.2482495,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "79174bcbf83a54edd2e1510c60b8eeb2453977ab",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

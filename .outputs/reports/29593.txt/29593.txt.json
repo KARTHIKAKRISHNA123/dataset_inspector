@@ -1,0 +1,93 @@
+{
+  "dataset": "29593.txt",
+  "file_name": "29593.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समाज एकभन्दा धेरै मानिसहरुको समुदाय हो। समाजले एउटै रहन-सहन, व्यवस्था, धर्म आदि अँगाल्ने वा एकै स्थानमा बसोबास गर्ने मानिसहरूको समुहलाई बुझाउँछ। यसले कुनै विशेष उदेश्य लिएर निर्माण गरिएका संघ, संस्थालाई पनि बुझाउने गर्दछ। उदारणका लागि आर्य समाज, ब्रम्ह समाज, थारु समाज, नेवार समाज, आदिलाई लिन सकिन्छ। उक्त समाज भन्ने शब्द अङ्ग्रेजी शब्द Societas बाट लिइएको हो। 'समाज' शब्दले गाउँटोल वा सहरका बेग्लाबेग्लै घरमा बस्ने व्यक्तिहरुको समुहलाई बुझाउँछ। समाज समिष्टि हो। मनाज परिवारको एकाईहरुको सम्पूर्णता हो"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 551,
+    "text_length_max": 551,
+    "text_length_avg": 551.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9826,
+      "Latin": 0.0174
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1458,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9826,
+      "Latin": 0.0174
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29593.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29593.txt",
+    "relative_path": "29593.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29593.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1458,
+    "mtime": 1782796533.9779568,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "40f0a0d0e610d316e4e36ae8091db45cc8c6331d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

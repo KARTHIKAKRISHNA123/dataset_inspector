@@ -1,0 +1,91 @@
+{
+  "dataset": "8230.txt",
+  "file_name": "8230.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एउटा पातलो कागज भित्र सुकेको सुर्तीको पातलाई धुलो बनाएर कागजमा बेरे पछि चुरोट तयार हुन्छ। चुरोट एक प्रकारको धुम्रपानको साधन हो। सुर्तीमा निकोटीनको प्रयोगले गर्दा मान्छेलाई चुरोटको बानी लाग्छ। यस्को बानी लागिसकेपछि बानी छुटाउनु धेरै मुश्किल हुन्छ यद्यपि मान्छेलाई थाह हुन्छ कि यस्को प्रभाव नराम्रो हुन्छ र स्वाद पनि मिठो हुन्न। धुम्रपानले गर्दा अरूपनि धेरै नराम्रो कुराहरू हुन्छ जुन स्वास्थ्यको लागि हानिकारक हुन्छन। विश्वका धेरै मुलुकहरूमा नियम लागु छ कि कुन उमेरका मानिषले धुम्रपान गर्न सक्छन र कुन "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 712,
+    "text_length_max": 712,
+    "text_length_avg": 712.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1916,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8230.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8230.txt",
+    "relative_path": "8230.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8230.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1916,
+    "mtime": 1782796598.2424438,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5c25c486d841e31cfe6a44faa0c7c5c3479ece8e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24486.txt",
+  "file_name": "24486.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रहिम यार खान जिल्ला पाकिस्तानको पञ्जाब प्रदेशमा रहेको एक प्रमुख जिल्ला हो । यो जिल्लाको सदरमुकाम रहिम यार खान शहर हो जुन शहर प्रशासनिक रूपमा 9 सङ्घिय परिसरमा विभाजित भएको छ ।",
+    "रहिम यार खान जिल्ला 27°40'-29°16' उत्तर अक्षांश र 60°45'-70°01' पुर्व देशान्तरणमा अवस्थित छ । जिल्ला को नदीको क्षेत्र सिन्धु र पन्जाने नदीको पूर्वी किनारा को नजिकैमा छ । रहिम यार खान जिल्लालाई उत्तर तर्फबाट मुजाफरबाद जिल्लाले घेरेको छ भने पुर्वमा बहावलपुर जिल्लाले धेरेको छ त्यस्तै गरि दक्षिणमा भारतको जैसलमेर जिल्लाले घेरेको छ भने पश्चिममा सिन्ध प्रदेशको घोटकी जिल्लाले घेरेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 1001,
+    "text_length_avg": 428.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5414,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24486.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24486.txt",
+    "relative_path": "24486.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24486.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5414,
+    "mtime": 1782796509.9991922,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9009925d8893d80913f5d7066b2f865dfb180c41",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "12417.txt",
+  "file_name": "12417.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शब्दसारथि साहित्यिक पत्रिका हो । यो पत्रिका रोल्पा जिल्लामा दर्ता भई त्रैमासिक रूपमा प्रकाशन भइरहेको छ । यसको 'जि.प्रशा.का. रोल्पा द.नं‌. 12/071/72' हो । जिल्ला प्रशासनबाट मिति 2072 असार 29 गते दर्ता भई पहिलो अंक '2072 साउन-असोज'बाट भएको थियो । ",
+    "ललित साहित्य परिषद्, रोल्पाले प्रकाशन गर्दै आएको यस पत्रिकाको सम्पादकमा डी.बी. टुहुरो छन् भने यस पत्रिकाको सहसम्पादकमा ओम के.सी. र खेमराज गाउँले छन् । त्यस्तै यस पत्रिकाको व्यवस्थापकमा लोक आलोक छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 199,
+    "text_length_max": 245,
+    "text_length_avg": 222.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1125,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12417.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12417.txt",
+    "relative_path": "12417.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12417.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1125,
+    "mtime": 1782796453.8986702,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "d474ffb9ecf0440845e2d5b29c83541babbf8f03",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

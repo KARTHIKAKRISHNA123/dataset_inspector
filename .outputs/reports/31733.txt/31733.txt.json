@@ -1,0 +1,94 @@
+{
+  "dataset": "31733.txt",
+  "file_name": "31733.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दमन र दीव /dəˈmɑːnandˈdiːuː/ ) दमण आणि दीव भारतको एउटा केन्द्र शासित प्रदेश हो । जसको राजधानी दमन हो ।",
+    "450 वर्ष पहिले केन्द्र शासित प्रदेश दमन र दीव गुजरात राज्‍यको वलसाड जिल्लाको नजिक स्थित छ । पहिले यो क्षेत्र पोर्चुगीजको कब्जामा थियो । भारतमा स्वतन्त्रताको धेरै पछी सम्म पनि यो भाग पोर्चुगीजको कब्जामा थियो । सन् 1961 डिसेम्बर 19 मा अपरेसन विजय बाट जब पोर्चुगीजको कब्जाबाट गोवा र दादरा र नगर हवेलीलाई मुक्त गरिएको थियो, त्यसै समय दमनलाई पनि भारतमा सामेल गरिएको थियो । त्यस समय यसलाई गोवामा सामेल गरिएको थियो । सन् 1974 सम्म पोर्चुगीजले यसलाई अस्विकार गर्दै आएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 102,
+    "text_length_max": 468,
+    "text_length_avg": 242.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.984,
+      "Latin": 0.016
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1842,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.984,
+      "Latin": 0.016
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31733.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31733.txt",
+    "relative_path": "31733.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31733.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1842,
+    "mtime": 1782796543.9421003,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "72fb3f43891c39301ae75f52e82ce6a902c5cee3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

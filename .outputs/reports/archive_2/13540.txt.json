@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13540.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमरकोश बौद्ध पण्डित अमरसिंह द्वारा रचित संस्कृत भाषा विज्ञान सम्बन्धित पर्यायवाची कोशको पुस्तक हो। यसलाई विश्वको सबभन्दा प्राचीनतम शब्दकोश मा मानिन्छ। यस भाषाको केवल संस्कृतमा नै सयौं प्रकारका टीकाहरु उपलब्ध छन् । अन्य भाषाहरुमा पनि यस कोशका अनेक पुस्तकहरु छन् । यस प्रकार आजसम्म यो कोश हजारौं लाखौं संस्करणमा छापिएको होला भन्ने अनुमान गर्न सकिन्छ । तर यस सम्बन्धी कुनै तथ्य उपलब्ध छैन ।संस्कृत भाषाको ज्ञान राख्न चाहनेलाई यो एक प्राथमिक पुस्तक हो र यस पुस्तकमा आफुभन्दा पहिलेका केही कोशको विवरण छ । ",
+    "यो संस्कृतका समानार्थी शब्दहरुको काव्यमय संकलन हो । सानो आकारमा छ तर अमरसिंहले त्यसलाई विभिन्न वर्गमा विभाजन गरेका छन्। त्यस विभाजनलाई भाषाशास्त्रीहरुले पनि निश्चित वैज्ञानिक आधार प्रदान गरेको भनेका छन् । स्वयं अमरसिंहले आफ्नो कोशको नाम नामलिंगानुशासन उल्लेख गरेका छन् । अर्थात् यसमा नाम र लिंगका पर्यायवाची शब्द छन् । यस कोशको रचना राजा विक्रमादित्यको पालामा भएो मानिन्छ । यसको रचना अमरसिंहले गरेका हुन् र यस कोशको प्रारम्भमा जुन स्तुति गरिएको छ त्यो भगवान् बुद्धको हो भन्ने मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 60,
+    "text_length_max": 565,
+    "text_length_avg": 416.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4447,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13540.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13540.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13540.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4447,
+    "mtime": 1782796613.536121,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f6e44dfcf223c60deb3e5a6d7153559d94de1ed2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

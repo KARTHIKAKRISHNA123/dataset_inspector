@@ -1,0 +1,94 @@
+{
+  "dataset": "2353.txt",
+  "file_name": "2353.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्पस हेमोर्‍याजिकम स्त्री प्रजनन प्रणालीमा डिम्बाशयबाट डिम्ब उत्सर्जन हुनेबित्तिकै तर कर्पस ल्यूटम बनिसक्नु अघिको अवस्थामा देखिन्छ। फोलिकलको फोलिकुलर एन्ट्रमबाट डिम्ब र फोलिकुलर फ्लुड निस्कने क्रममा केही रक्तश्राब हुने भएकोले त्यो सरचनालाई कर्पस हेमोर्‍याजिकम भनिएको हो, जुन त्यसपछि क्रमश कर्पस ल्यूटममा बिकसित हुन थाल्छ।",
+    "M: ♀ FRS"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 322,
+    "text_length_avg": 77.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8523,
+      "Latin": 0.1477
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 952,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8523,
+      "Latin": 0.1477
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2353.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2353.txt",
+    "relative_path": "2353.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2353.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 952,
+    "mtime": 1782796505.596594,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "a782f9769a10a93b74cefeb14ad88aa9162c0a60",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

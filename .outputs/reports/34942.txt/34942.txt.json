@@ -1,0 +1,92 @@
+{
+  "dataset": "34942.txt",
+  "file_name": "34942.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त राष्ट्र सङ्घिय अङ्ग युनेस्को द्वारा बहुमूल्य सम्पदाका रूपमा सुचिकृत विश्वका स्मारक र स्थानहरूलाई युनेस्को विश्व सम्पदा क्षेत्र भनिन्छ । यूनेस्कोले कुनै पनि राष्ट्रको विशेष सांस्कृतिक महत्व राख्ने धरोहरहरुलाई आफ्नो सुचिमा सूचीबद्ध गर्ने गर्दछ । जुन विश्व सम्पदा समिति द्वारा चयन गर्ने गरिन्छ र यसै समितिले यस सम्पदा क्षेत्रलाई रेखदेख युनेस्कोको तत्वाधानमा गर्दछ ।",
+    "यस कार्यक्रमको उद्देश्य विश्वको यस्तो स्थलहरुलाई सूचीबद्ध गर्ने तथा संरक्षित गर्ने हुन्छ जुन विश्व संस्कृतिको दृष्टिले मानवताको लागि महत्वपूर्ण हुन्छ । केहि खास परिस्थितिमा यस्तो सम्पदाहरुलाई यस समिति द्वारा आर्थिक सहयोग पनि प्रदान गर्ने गरिन्छ । सन् 2013 सम्ममा 160 राष्ट्रका 981 क्षेत्रलाई विश्व सम्पदाका रूपमा सूचीकृत गरिएको छ जसमा 759 सांस्कृतिक, 193 प्राकृतिक र 29 मिश्रत रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 880,
+    "text_length_avg": 213.74,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10884,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34942.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34942.txt",
+    "relative_path": "34942.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34942.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10884,
+    "mtime": 1782796558.4426186,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7102f5f0318318c5f0d5ec7ebf929af5b35fdf73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

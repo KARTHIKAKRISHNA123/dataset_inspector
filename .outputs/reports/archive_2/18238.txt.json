@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18238.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृषि तथा सहकारी मन्त्रालय नेपाल सरकारको सबैभन्दा माथिल्लो निकाय हो जसले देशको कृषि तथा सहकारी सम्बन्धि सम्पूर्ण जिम्मेवारी लिएको छ। ",
+    "नेपालको कृषि विकास सम्बन्धी सरकारी पहल वि.सं. 1978मा चारखाल अड्डामा स्थापित कृषि अड्डाबाट शुरु भएको हो। 1982 सालमा सिंहदरवार परिसरमा कृषि प्रदर्शन फारम खुल्यो। यसपछि कृषिको समग्र विकास गर्ने उद्देश्यले र्सव प्रथम वि.सं. 1994मा कृषि परिषद्को गठन भयो। परिषदबाट कृषि विकासको लागि कृषि फार्महरू खोल्ने, र्सर्भेक्षण कार्यहरू गर्ने जस्ता कार्यहरू भए। वि.सं. 1998 सालमा त्रिपुरेश्वरमा भेटेरिनरी अस्पतालको स्थापना भयो। त्यसै साल मानहर शाखाको समेत स्थापना भयो। वि.सं. 2000मा चितलाङ्ग तथा ककनीमा भेडा फारम सुरू"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 1664,
+    "text_length_avg": 428.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9871,
+      "Latin": 0.0129
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7746,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9871,
+      "Latin": 0.0129
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18238.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18238.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18238.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7746,
+    "mtime": 1782796622.9141505,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "8666d7c2380d42505070d15cc30eafe3a3ddf13f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

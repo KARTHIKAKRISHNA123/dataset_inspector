@@ -1,0 +1,92 @@
+{
+  "dataset": "3669.txt",
+  "file_name": "3669.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जीवन सङ्घर्षमा धेरै प्राणीहरू पोथीका लागि जुध्छन्, युद्ध गर्दछन्। प्रकृतिमा भाले बट्टाई पोथीका लागि जुध्छ। पाल्तु अवस्थामा भने दानाका लागि समेत जुध्ने गर्छ। 'मानिस लड्छ खानामा बट्टाई लड्छ दानामा' भन्ने उखानै छ। भाले–भालेको इर्ष्या, प्रतिस्पर्धा र जुधाई बट्टाईको लडाइँमा पनि देख्न सकिन्छ। ",
+    "लडाकु बट्टाई छान्न पनि अनुभव र सीप चाहिन्छ। कद मिलेको चिल्लो चनाखो चरा छानेर त्यसको कण्ठ निरीक्षण गर्नुपर्छ। सेतो कण्ठमा चुच्चोमुनिबाट शुरु भएर मुसारिँदै चौडा भएर त्रिकोण मिलेको कालो दागले भाले चरा भन्ने जनाउँदछ। त्यो कालो चिह्न कण्ठको तल पुगेपछि सलक्क दुवै कानतिर पोतिन्छ। चराको छनौटमा बट्टाईबाजहरू कण्ठको त्यही कालो बुट्टा नियालेर आफ्नो निर्णय लिन्छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 166,
+    "text_length_max": 1073,
+    "text_length_avg": 585.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15654,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3669.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3669.txt",
+    "relative_path": "3669.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3669.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15654,
+    "mtime": 1782796566.5714235,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ba426c546a6ac997d2caf61e2a2f230e564437f9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

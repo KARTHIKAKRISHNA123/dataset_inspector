@@ -1,0 +1,92 @@
+{
+  "dataset": "18322.txt",
+  "file_name": "18322.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " महर्षी वेदव्यासलाई भगवान् विष्णुका 24 अवतारहरूमा एक अवतार मानिएको छ। उनको नाम कृष्ण द्धैपायन हो | श्री मद्देवीभागवतका अनुसार महर्षि वेदव्यास प्रत्येक द्वापर युगमा अवतरित हुन्छन्। यहाँ भन्दा पहिले 28 वटा व्यासहरू अवतरित भइ सकेको पुष्टी गरिएको छ।",
+    "व्यास ऋषिको जन्म बारेको प्रसङ्गमा दमौलीदेखि 8 कि.मि. पूर्व छाब्दी बाराहको मन्दिरदेखि करिब 50 मिटर पश्चिम पट्टिको कुण्डमा ब्यासकी माता सत्यवतीको जन्म भएको थियो रे| माछाको रूपबाट जन्म भएकीले त्यस कुण्डको नाम मच्छे कुण्ड रहन आएको हो भनिन्छ| सत्यवती 6,7 बर्षकी सानी बालिका छदा घुम्दै, फिर्दै दमौलीमा माझीहरूको डुंगा चलेको ठाउँमा पुगीछिन् र ती माझीहरूले यति सानी माया लाग्दी बालिकालाई देखेर घरमा लगी केही दिन पालेछ्न् | त्यतिबेला पराशर ऋषिको आश्रम पनि दमौली नजीकै रहेछ | घुम्दै फिर्दै एकदिन पराशर ऋषि र सत"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 1218,
+    "text_length_avg": 228.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4847,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18322.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18322.txt",
+    "relative_path": "18322.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18322.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4847,
+    "mtime": 1782796481.5459907,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "620799a7194f8418f496493b7a3ad25d8824e32b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

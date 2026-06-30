@@ -1,0 +1,92 @@
+{
+  "dataset": "17293.txt",
+  "file_name": "17293.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चुडामणि गौतम ले अङ्ग्रेजी व्याकरणका धेरै पुस्तक लेखेका छन्। उनी साहित्यकार हुन्। ग्रामरजस्तै र अरु सहयोगी गरी उनका 50 पुस्तक प्रकाशित छन्। बजारमा बढी प्रचलित भने यस्ता 20 पुस्तक छन्। ",
+    "चुडामणि 2000 साल असोज 1मा तेह्रथुमको कोयाखोलामा जन्मेका हुन्। गौतमका एक भाई र चार दीदि-बहिनी जन्मे। उनका भाई रामचन्द्र गौतम गोरखापत्र दैनिकसँग आवद्ध थिए। रामचन्द्रको केही वर्षअघि निधन भइसक्यो। उनका पिता यमनाथ र माता भीमरूपा हुनुहुन्थ्यो। उनलाई सानो छँदा 'गोपाल' भनेर बोलाईन्थ्यो। भागवतमा 'गोपाल-चुडामणि' एकै ठाउँ उल्लेख भएकाले उनलाई 'गोपाल' भनिएको हो।उनले 6/7 वर्षको हुँदा अक्षर खुट्याउन थालेका हुन्। सरस्वती पूजाका दिन काइला गुरुले उनलाई अक्षर लेख्न सिकाउनुभएको हो। त्यसबेला अक्षर लेख्न काठको पाटी ह"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 873,
+    "text_length_avg": 516.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4078,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17293.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17293.txt",
+    "relative_path": "17293.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17293.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4078,
+    "mtime": 1782796476.5841684,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "8a5c0313a80ec862c07b13737ffaf37ae741960f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

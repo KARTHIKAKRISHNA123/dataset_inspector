@@ -1,0 +1,92 @@
+{
+  "dataset": "27886.txt",
+  "file_name": "27886.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वी.पी. कोइराला स्वास्थ्य विज्ञान प्रतिष्ठान स्वशासित,स्वतन्त्र स्वास्थ्य विश्वविद्यालय हो । यो पूर्वी नेपालको सुनसरी जिल्लाको धरान नगरपालिकामा सन् 1993 मा स्थापना भएको हो ।",
+    "वी.पी. कोइराला स्वास्थय विज्ञान प्रतिष्ठान 1993 मा स्थापना भई सन् 1998 स्वास्थ्य विश्वविद्यालयको रुपमा परिणत भएको हो । मुलुकका लागि आवश्यक जनशक्तिको उत्पादन गर्दै स्वास्थ्य क्षेत्रमा आत्मनिर्भर हुने उद्देश्यलाई प्राप्त गर्ने क्रममा शुरु गरिएको एम.बी.बी.एस. शिक्षण कार्यक्रम हालसम्मा आईपुग्दा एम.एम.बी.बी.एस. लगायत बी.डीं.एस., बी.एस्सी. नर्सिंंग, प्रमाणपत्रतह नर्सिंग, व्याचलर अफ नर्सिंग, बी.एम.एल.टी, बी.एस्सी.एम.आई.टी.र विभिन्न विषयहरुमामा पोष्टग्राजुएट जस्तै एम.डी.एम.एस., एम.डी.एस., एम.एस्सी. नर्स"
+  ],
+  "statistics": {
+    "records_sampled": 30,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 1259,
+    "text_length_avg": 332.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26345,
+    "estimated_records": 79
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 79,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27886.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27886.txt",
+    "relative_path": "27886.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27886.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26345,
+    "mtime": 1782796525.6427038,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "afbd068038b1cf2ebea2c7fe2fb2fd8c48cc22cd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17295.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "न्यातपोल मन्दिर भक्तपुरको टौमडीमा रहेको मन्दिर हो । यसको निर्माण 18औँ शताव्दीमा मल्लकालीन राजा भुपतिन्द्र मल्लले गराएका हुन्। यस मन्दिरमा पाँच तल्लाहरू रहेका छन् ।यस मन्दिर सिद्धीलक्ष्मीको मन्दिर हो । जुन देवीमा तान्त्रिक शक्तिको स्वरुपमा पनि लिइन्छ । विक्रम संम्बत् 1701 देखि 1702 ताका निर्माण गरिएको हो । यो मन्दिर जम्मा सात महिनामा निर्माण गरिएको मानिन्छ । यस मन्दिरको निर्माणका लागि छालिङ, जितपुर, बागेश्वरी, साँखु, झौखेल, चाँगु, गोकर्ण, पनौती आदि ठाउँका बासिन्दाहरुले पनि सहयोग गरेको उल्लेख गरिए",
+    "विसं 2072 को महाभूकम्पमा पनि यस मन्दिरमा खासै क्षति भएको पाइएन ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 836,
+    "text_length_avg": 143.75,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3081,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17295.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17295.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17295.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3081,
+    "mtime": 1782796621.0507042,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "0e15e051f27c0b15ac56ab430196037be5bb93ac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

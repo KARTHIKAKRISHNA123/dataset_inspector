@@ -1,0 +1,92 @@
+{
+  "dataset": "17053.txt",
+  "file_name": "17053.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोर्दी गाउँपालिका लमजुङ जिल्लामा अवस्थित छ । विसं 2073 सालमा सङ्घीय मामिला तथा स्थानीय विकास मन्त्रालयले 744 स्थानीय तह लागू गर्दा लमजुङ जिल्लामा साविकका हिलेटक्सारको वडाहरू, भार्ते, अर्चलबोट, श्रीभञ्ज्याङ, नौथर, पाचोक, ढोडेनी, फलेनी र बन्सार गाउँ विकास समितिहरूलाई समेटेर दोर्दी गाउँपालिका घोषणा गरिएको हो ।",
+    "दोर्दी गाउँपालिकाको क्षेत्रफल 350.93 वर्गकिलोमिटर रहेको छ । यो गाउँपालिका 9 वडाहरूमा विभाजन गरिएको छ । यस गाउँपालिकको कूल जनसङ्ख्या 18,392 रहेको छ । यस गाउँपालिकाको सिमाना पूर्वमा गोरखा जिल्ला र दूधपोखरी गाउँपालिका, पश्चिममा मर्स्याङ्दी गाउँपालिका र बेसीसहर नगरपालिका, उत्तरमा मर्स्याङ्दी गाउँपालिका र गोरखा जिल्ला तथा दक्षिणमा राईनास, सुन्दरबजार नगरपालिका र दूधपोखरी गाउँपालिका रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 308,
+    "text_length_max": 390,
+    "text_length_avg": 349.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1838,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17053.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17053.txt",
+    "relative_path": "17053.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17053.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1838,
+    "mtime": 1782796475.170972,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4592f37f80c7931e529df21df1d9e72eb7342d40",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

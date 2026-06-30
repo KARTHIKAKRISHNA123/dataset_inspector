@@ -1,0 +1,94 @@
+{
+  "dataset": "11860.txt",
+  "file_name": "11860.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भिटामिन एक रसायनिक यौगिक हो, जुन मानव शरीरको लागि राम्ररी काम गर्नलाई आवश्यक छ। यसमा हुन्छन: भिटामिन ए, कयौं भिटामिन बीहरू, भिटामिन सी, भिटामिन डी, भिटामिन ई, अनि भिटामिन के। उदाहरणको लागि, अमिलो फलहरू जस्तै सुन्तलाहरू अनि कागतीमा भिटामिन सी हुन्छ।",
+    "धेरै भिटामिनहरू छन् जस्लाई हाम्रो शरीरले आफै बनाउन सक्दैन। हाम्रो शरीरले न बनाउन सक्ने भिटामिनहरू कुनै अरु माध्यमबाट हाम्रो शरीरलाई चाहिन्छ, वस्तुत: भोजनको माध्यमबाट चाहिन्छ। एउटा छोटो समयको लागि एउटा निश्चित भिटामिनको कमी सामान्यत: कुनै समस्या होईन, यस्को लागि हाम्रो शरीरले केही भिटामिनहरू शरीर भित्रै छोटो समयको लागि बचायेर राख्न सक्दछ। जब आवश्यक भिटामिन लामो समयको लागि हाम्रो शरीरलाई उपलब्ध भयेन भने हामीलाई बिभिन्न प्रकारका रोगहरू लाग्न सक्छन। शायद भिटामिन सीको कमीबाट en:scurvy रोग लाग्न पनि स"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 66,
+    "text_length_max": 505,
+    "text_length_avg": 273.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9883,
+      "Latin": 0.0117
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2168,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9883,
+      "Latin": 0.0117
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11860.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11860.txt",
+    "relative_path": "11860.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11860.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2168,
+    "mtime": 1782796451.310919,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a96dc1564bf21c99b853d031d6582ca7714a99e0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

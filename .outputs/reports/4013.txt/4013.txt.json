@@ -1,0 +1,96 @@
+{
+  "dataset": "4013.txt",
+  "file_name": "4013.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " Pathology is the study of the processes underlying disease र other forms of illness, harmful abnormality, or dysfunction. Within biology but also a branch of medicine, it means specifically the study र diagnosis of the structural र functional changes in cells, tissues र organs that underlie disease. Pathology as a field of knowledge hence forms the basis of the scientific reasoning behind the practice of medicine. ",
+    "The primary goal of pathology is the study of the four main aspects of a disease:"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 1339,
+    "text_length_avg": 415.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9961,
+      "Devanagari": 0.0039
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5034,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9955,
+      "Devanagari": 0.0045
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4013.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4013.txt",
+    "relative_path": "4013.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4013.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5034,
+    "mtime": 1782796577.533526,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "38abd4a15314e0d203f2ab40d2447d9515996310",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

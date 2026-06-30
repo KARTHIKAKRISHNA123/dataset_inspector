@@ -1,0 +1,97 @@
+{
+  "dataset": "Maithili_female_mono.txt",
+  "file_name": "Maithili_female_mono.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "mai",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "train_maithilifem_00001.txt\tराम कहलनि , सॉरी किएक ? अहाँक बेर तऽ मीठगर अछि .",
+    "train_maithilifem_00002.txt\tभगवान शंकर सँ इहो प्रार्थना अछि , कहियो एहि राज्य में पानि कें दिक्कत नहि होअय ."
+  ],
+  "statistics": {
+    "records_sampled": 5626,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 262,
+    "text_length_avg": 93.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7322,
+      "Latin": 0.2678
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1119861,
+    "estimated_records": 12117
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12117,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en",
+      "mai"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "mai",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7326,
+      "Latin": 0.2674
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Maithili_female_mono.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Maithili_female_mono.txt",
+    "relative_path": "Maithili_female_mono.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Maithili_female_mono.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1119861,
+    "mtime": 1782796934.5800066,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.978,
+    "sha1_quick": "840989b908b0f00d6905cf05a085c1f4b4c6d08c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

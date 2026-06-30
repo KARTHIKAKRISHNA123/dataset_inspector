@@ -1,0 +1,92 @@
+{
+  "dataset": "18215.txt",
+  "file_name": "18215.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नरसिंग मल्लः=हरि कुमार मल्ल ठकुरी ",
+    "पालकोट राज्यका पहिलाे राजा थिए,रूकुमकाेटका राजाकाे कान्छि श्रीमतीका पुत्र हुन राजदरबारमा सन्तान नभएपछि राजाले जाेतिषिकाे सल्लाह बमाेजिम राजाले हालकाे काेल गाविस वाट नेवारकि छाेरि विवाह गरि उनकै पिहिलाे पुत्रकाे रूपमा अाएका थिए,उनकि अामा कान्छि भएपनि पहिलाे सन्तानकाे रूपमा जन्मेका थिए उनी, पछि जेठी श्रीमती बाट सन्तान जन्मीए पछि कान्छिलाइ दरबारवाट निकालेका थिए भने युवराज नरसिंग मल्ललाइ उनैले माइत काेलमै लगेर पालन पाेषण गरि हुर्काएकि थिइन । जव नरसिंग मल्ल ठुलाे भए पछि राजालाइ अंश माग्न अाएपछि रूकुम"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 658,
+    "text_length_avg": 346.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1862,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18215.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18215.txt",
+    "relative_path": "18215.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18215.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1862,
+    "mtime": 1782796481.0352888,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f6c346837b193f9584189a422e717e062872aa53",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

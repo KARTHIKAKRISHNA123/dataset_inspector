@@ -1,0 +1,93 @@
+{
+  "dataset": "15193.txt",
+  "file_name": "15193.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेग्मी नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बीहरूको थर हो। यिनीहरूको गोत्र कौशिक हुन्छ। भारतकाे कन्नाेजका ब्राह्मणहरुलाई मूश्लिमहरुले लखेटे पछि त्यहिबाट भागेर बभझाङकाे रेगम भन्ने स्थानमा बसाेवास गरेकाेले रेगम शब्द अपभ्रम भएर रेग्मि थर भएका केही ब्राह्मणहरु त्यहाँबाट अछामको रोलकाला गाऊ भन्ने ठाउँमा बसोबास गारेका थिए । हाल त्यस स्थानबाट विभिन्न स्थानमा स्थानान्तरण भएका पाईन्छन् । ",
+    "राेलकालागाउँबाट एक परिवार दैलेखकाे लकान्द्रा भन्ने स्थानमा र एक परिवर जाजरकाेटकाे टाटागुयाँला अाई बसाेवास गरेकाे भन्ने पाईन्छ । लकान्द्राका रेग्मिहरु भूर्ति  र टाटागुयाँलाका रेग्मिका संतानहरुमध्ये एक परिवर  थुवा   र एक परिवार मेहलताेलीमा अाई बसाेवास गरेकाे भन्ने पाईन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 203,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 2514,
+    "text_length_avg": 111.0,
+    "duplicate_estimate": 5,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9962,
+      "Latin": 0.0038
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 59813,
+    "estimated_records": 538
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 538,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15193.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15193.txt",
+    "relative_path": "15193.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15193.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 59813,
+    "mtime": 1782796466.3868625,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5f2ae06841b2cad9f7e140af4e9783037e668499",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

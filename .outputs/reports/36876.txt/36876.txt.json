@@ -1,0 +1,96 @@
+{
+  "dataset": "36876.txt",
+  "file_name": "36876.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्वको सबैभन्दा ठूलो जीवित जीव नीलो ह्वेल अर्थात् ब्लू ह्वेल लाई मानिन्छ। यसको लम्बाई 30 मीटर सम्म र तौल 180 टन सम्म हुन्छ।जमीनमा पाइने सबैभन्दा ठूलो जीव अफ्रिकी हात्ती हो।",
+    "ढाँचा:Very long"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 378,
+    "text_length_avg": 233.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.8914,
+      "Devanagari": 0.1086
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1999,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.8914,
+      "Devanagari": 0.1086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36876.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36876.txt",
+    "relative_path": "36876.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36876.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1999,
+    "mtime": 1782796567.5261476,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c2dbe31df734581560fb1c7c358221fc1a3ca165",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

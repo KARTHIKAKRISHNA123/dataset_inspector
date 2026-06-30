@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19571.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ओलिभर रल्फ कान पुर्व जर्मन फुटबल गोलरक्षक हुन् । कार्लस्रुहर एससीको युवा टोलीबाट 1975 मा फुटबल जीवनमा पदार्पण गरेका कानले 12 बर्षपछी व्यवसायिक रूपमा क्लब प्रतियोगितामा डेब्यु गरेका थिए । 1994 देखि 2008 को अन्तरालमा बायर्न म्युनिखमा रहेर आफ्नो व्यवसायिक फुटबल खेललाई पुर्णविराम लगाएका कान 2000 को दशकको उत्कृष्ट गोलरक्षक का रूपमा विश्वसामु परिचित छन् । उनका प्रशंसकहरूले उनको खेल शैलीको प्रशंसा गर्दै भोल-कान-ओ नाम दिएका थिए ।",
+    "कान जर्मन इतिहाँसकै सफलतम खेलाडीका रूपमा चिनिन्छन् । उनी सम्मिलित टोलीले आठ बुन्डेस लिगा, 6 डिएफबी-पोकल, 1996 मा युइएफए कप, र 2001 मा युइएफए च्याम्पियन्स लिग अनि अन्तरमहादेशिय कप जितेको थियो । उनको व्यक्तिगत योगदानका कारण लगा लग चार पटक युइएफए उत्कृष्ट यूरोपिय गोलरक्षक पुरस्कार, तीन विश्वको उत्कृष्ट गोलरक्षक पुरस्कार, र दुइ पटक जर्मन बर्ष फुटबलर ट्रफी जितेका थिए । 2002 फिफा विश्वकप मार्फत कान प्रतियोगिता इतिहाँसमै गोल्डेन बल जित्ने पहिलो र एकमात्र गोलरक्षक बनेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 596,
+    "text_length_avg": 380.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.982,
+      "Latin": 0.018
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3924,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.982,
+      "Latin": 0.018
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19571.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19571.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19571.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3924,
+    "mtime": 1782796625.5764318,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "acdfb09204f7a79119ded9b5d445ba3786c8a690",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

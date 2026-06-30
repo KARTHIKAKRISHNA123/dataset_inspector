@@ -1,0 +1,92 @@
+{
+  "dataset": "8622.txt",
+  "file_name": "8622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्रह्मदेव बजार सुदूर पश्चिम नेपालको ऐतिहासिक स्थल हो । ",
+    "यो बजार कञ्चनपुर जिल्लाको भीमदत्त नगरपालिका, टुँडीखेलमा छ । यो त्यहाँको सबैभन्दा पुरानो बजार हो । भीमदत्त नगरपालिका वडा नं 9 अन्तर्गत टुँडीखेल, खल्ला र मछेटी गरी तीन बस्ती छन् । टुँडीखेलमा 1 सय 50 भन्दा बढी परिवार बसोबास गर्छन् । अहिले यो क्षेत्रका ऐतिहासिक संरचना महाकाली नदीले प्रतिवर्ष बगाउँदै लैजान थालको छ । उचित संरक्षण र सम्वर्द्धनको खाँचो छ । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 579,
+    "text_length_avg": 328.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2630,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8622.txt",
+    "relative_path": "8622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2630,
+    "mtime": 1782796600.279484,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a3ed2580a310e96a355b161ae15778b19b197a5f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

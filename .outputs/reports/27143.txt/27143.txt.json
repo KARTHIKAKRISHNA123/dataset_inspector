@@ -1,0 +1,92 @@
+{
+  "dataset": "27143.txt",
+  "file_name": "27143.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चाणक्य नीति चाणक्यद्वारा नीति नियम सम्बन्धी अनेक कुराहरु लेखिएको ग्रन्थ हो । अरु कुनै ग्रन्थमा नपाइने विषयहरु रहेकाले यो पूरा विश्वभरमा पढ्ने गरिन्छ; यसमा आदर्श व्यवहार यथार्थको सुन्दर तरिकाले समन्वय गरिएको छ ।",
+    "चाणक्य नीतिआचार्य विष्णुगुप्त चाणक्य वा कौटिल्य रचित नीति ग्रन्थ चाणक्य नीति दर्पण व्यावहारिक जीवनका लागि श्रेष्ठ मार्गदर्शक नीति मानिन्छ । यसमा बताइएका नीतिहरुको दैनिक जीवनमा कति व्यावहारिकता छ, त्यो कुरा सो ग्रन्थको अध्ययनले स्पष्ट गर्छ । यो ग्रन्थ नेपालका गुरुकुल पाठ्यक्रमको एक प्रमुख विषय हुने गर्थ्यो । "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 124,
+    "text_length_max": 950,
+    "text_length_avg": 415.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12116,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27143.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27143.txt",
+    "relative_path": "27143.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27143.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12116,
+    "mtime": 1782796522.3297012,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8b6951861600891bf4b855f416105954751d1972",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "1152.txt",
+  "file_name": "1152.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोल्डनगेट इन्टरनेसनल कलेज काठमाडौं जिल्लाको पुरानो बानेश्वरमा रहेको एक क्याम्पस हो। यसले त्रिभुवन विश्वविद्यालयसँग सम्बन्धन लिएको छ। यस कलेजको स्थापना सन् 2007 मा भएको हो। यो कलेजमा 6 स्नातोकोत्तर तहका र 13 स्नातक तहका कार्यक्रमहरू सञ्चालनमा छन्।",
+    "मार्च 31, 2018 मा सम्पन्न भएको क्विक्स बास्केटबल लीगमा गोल्डनगेट इन्टरनेशनल कलेजले त्रिभुवन आर्मी क्लबलाई 97-96को स्कोरले हरायो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 246,
+    "text_length_avg": 187.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 982,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1152.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1152.txt",
+    "relative_path": "1152.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1152.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 982,
+    "mtime": 1782796449.7157753,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "55b5043a4622fe1ac9f95857e99cfd6b56f95791",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

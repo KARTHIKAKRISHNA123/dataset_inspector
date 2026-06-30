@@ -1,0 +1,92 @@
+{
+  "dataset": "25081.txt",
+  "file_name": "25081.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिपाठी नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बी विशेषतया ब्राह्मण जातिय थर हो । प्राचिन कालमा वैदिक अनुष्ठान गर्दा तीन वेदको पाठ गर्न सक्ने ब्राह्मणहरूलाई त्रिपाठीको उपाधी दिइयो र त्यो उपाधी नै उनिहरूको थर भयो । यसैले त्रिपाठीहरूको गोत्र, शाखा, प्रवर र शुत्र फरक फरक हुन्छ ।",
+    "गौतम गोत्रीय सामवेदी त्रिपाठीहरूका गोत्र पर्वर्तक ऋषि गौतम हुन् । गौतम ऋषि सत्य युगमा जन्मिएका कल्पजीवी ऋषि हुन् भन्ने प्रमाण पुराणहरूमा पाइन्छ । गौतम ऋषिको आश्रम उत्तर भारत र दक्षिण भारत छुट्याउने पर्वतमा थियो र दक्षिण भारतमा बग्ने नर्मदा नदीका उद्गम स्थलमा गौतम ऋषिको आश्रम थियो । गौतम ऋषि भगवान शिवका भक्त थिए र त्यस पर्वत शिखरमा उनले नर्मदेश्वर महादेवको स्थापना गरेका थिए । यिनी गायत्रीका उपासक थिए र गायत्री माता यिनमाथि प्रसन्न थिइन् ।परशुरामले गरेको महायज्ञमा गौतम ऋषिलाई उद्गाताको पदमा वरण गर"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 2868,
+    "text_length_avg": 776.1,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 43051,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25081.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25081.txt",
+    "relative_path": "25081.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25081.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 43051,
+    "mtime": 1782796512.677429,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8d10d83217fcae77898f6fd6f5da7c79e354a97a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

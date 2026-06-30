@@ -1,0 +1,92 @@
+{
+  "dataset": "37670.txt",
+  "file_name": "37670.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनकलाल शर्मा नेपाली साहित्कार एवम् विज्ञान वेत्ता हुन्। उनले जोसमनी सन्त परम्परा र साहित्य का लागि वि.सं. 2020 सालको मदन पुरस्कार प्राप्त गरेका थिए।",
+    "वि.सं. 1983 साल वैशाख 17 गते जन्मेको हो मेरो छोरो भनेर दार्जिलिङको स्कुलमा नाउँ लेखाइदिएका थिए मेरा पिताले भन्ने जनकलाल शर्मा इलामको क्याबुङमा वि.सं. 1978 साल वैशाख 17 गते गोविन्दप्रसाद उपाध्याय ढकाल र कौशल्यादेवीबाट जन्मेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 785,
+    "text_length_avg": 313.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7457,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37670.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37670.txt",
+    "relative_path": "37670.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37670.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7457,
+    "mtime": 1782796571.585291,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0dcd5ba3f72c69237bc1ceac832309c9532b6180",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

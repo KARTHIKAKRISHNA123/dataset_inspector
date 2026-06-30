@@ -1,0 +1,91 @@
+{
+  "dataset": "11612.txt",
+  "file_name": "11612.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीलङ्का राष्ट्रिय फुटबल टिम ) श्रीलङ्का फुटबलमा संघको प्रतिनिधित्व गर्दछ र श्रीलङ्कका फुटबल फेडरलले नियन्त्रण गरेको छ । श्रीलङ्काको घर मैदान सुगाथागासा स्टेडियम र कलुराारा स्टेडियम हो। श्रीलंकाई टोली 1972 सम्म साइलोन राष्ट्रिय फुटबल टोलीको रूपमा चिनिन्छ, जब सीलोनलाई श्रीलङ्कामा नामकरण गरिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 300,
+    "text_length_max": 300,
+    "text_length_avg": 300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 805,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11612.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11612.txt",
+    "relative_path": "11612.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11612.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 805,
+    "mtime": 1782796450.2081645,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "10ce4b28856614d98ecbd1967d119760de69923d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

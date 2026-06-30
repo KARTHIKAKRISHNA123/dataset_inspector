@@ -1,0 +1,92 @@
+{
+  "dataset": "28858.txt",
+  "file_name": "28858.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिम सिक्किम साहित्य प्रकाशन ",
+    "21 मे 1975 मा भानु जयन्ती मनाउनका निम्ति गठन भएको पश्चिम सिक्किम साहित्य प्रकाशन आज पनि त्यत्तिकै सक्रिय छ। संस्थाको स्थापनापछि यसले प्रत्येक वर्ष भानु जन्यती, बुद्ध जयन्ती, सरस्वती पूजा लगायत साहित्यिक तथा सांस्कृति कार्यक्रमहरू आयोजना गर्दै आएको छ। जुलाई 1978 मा सिक्किम सरकारबाट र 1984 मा साहित्य अकादमी नयाँ दिल्लीबाट मान्यता ग्रहण गरेको यस संस्थाको स्थापनामा केदार गुरूङको भूमिका महत्वपूर्ण रहेको देखिन्छ। यस संस्थाले 1978 देखि स्रष्टा द्वैमासिक साहित्यिक पत्रिकाको प्रकाशन शुरू गऱ्यो, जो आजसम्म"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 1252,
+    "text_length_avg": 404.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4322,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28858.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28858.txt",
+    "relative_path": "28858.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28858.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4322,
+    "mtime": 1782796530.156573,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9d363463f64c3e47bd872f9bd519ecca8fda9d24",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

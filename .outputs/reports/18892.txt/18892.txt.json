@@ -1,0 +1,91 @@
+{
+  "dataset": "18892.txt",
+  "file_name": "18892.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नारायणोपनिषद कृष्ण यजुर्वेद अन्तर्गतको एक उपनिषद हो । यो संस्कृत भाषामा लेखिएको उपनिषद हो । यसको रचनाकार वैदिक समयका ऋषिहरूलाई मानिन्छ |वेद व्यास द्वारा चारभागमा विभाजित वेदहरू मध्ये प्रत्येक वेदका मन्त्र,ब्राह्मण,आरण्यक र उपनिषद गरी पुन चार प्रकार छन् |"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 254,
+    "text_length_max": 254,
+    "text_length_avg": 254.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 680,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18892.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18892.txt",
+    "relative_path": "18892.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18892.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 680,
+    "mtime": 1782796484.3729353,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9658c17d3c94b8bfbb17cf9cc3b98e8cd3661e84",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

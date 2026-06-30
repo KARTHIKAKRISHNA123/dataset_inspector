@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30845.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नाम्ले जुका एक प्रकारको परजीवी हो। पोषणका लागि यो अरू जीवमा निर्भर हुन्छ।यसका पाँच हजारभन्दा बढी प्रजाति छन्। तिनीहरू एक मिलिमिटरदेखि 15 मिटरसम्म लामो हुन सक्छ।यसको जीव खण्ड-खण्डमा बाँडिएको हुन्छ र फित्ताजस्तो देखिन्छ। यसको शरीरमा बल्छी जस्तो संरचना हुन्छ जसका सहयोगमा यो आफूले आश्रय लिने जीवको अङ्गसँग टाँसिइरहन्छ। शरीरको सतहमा हुने 'क्युटिकल'बाट उसले आफूलाई चाहिने खाद्यपदार्थ सोसेर लिन्छ। आफ्नो शरीरभित्र पाचन प्रक्रिया नहुने भएकोले यसले पचाइसकेको खाद्यपदार्थ मात्रै सोस्ने गर्छ।",
+    "नाम्ले चेप्टो, रिबन जस्तो हुन्छ। शरीरमा प्रवेश गरेपछि यो जुका आन्द्रामा बस्न थाल्छन्। तर सधैँ त्यहीँ नबसेर रगतको माध्यमबाट शरीरका अरू अङ्गमा पनि पुग्छ। कहिलेकाहीँ आँखा र मस्तिष्कमा पनि पुग्छ। एसियाको तुलनामा युरोपेली देशहरूमा यसको खतरा कम हुन्छ। एनएचएसका अनुसार शरीरभित्र नाम्ले हुँदैमा कुनै लक्षण देखिन्छ भन्ने छैन। तर शरीरका संवेदनशील अङ्गमा पुगेपछि खतरा हुन्छ। तर यसको उपचार धेरै कठिन हुँदैन। नाम्ले जुका प्राणघातक नभए पनि बेवास्ता गरिए खतरनाक हुनसक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 482,
+    "text_length_avg": 200.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3255,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30845.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30845.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30845.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3255,
+    "mtime": 1782796647.761342,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cce4cf891d450eed5ea4b807facf1a5120fc55fc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

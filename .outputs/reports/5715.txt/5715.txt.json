@@ -1,0 +1,96 @@
+{
+  "dataset": "5715.txt",
+  "file_name": "5715.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Panicum italicum L.Chaetochloa italica Scribn.",
+    "कागुनी अथवा कागुनो एक प्रकारको अन्नबाली हो । कागुनी प्राय गरेर फागुनमा मकैसँगै छरिने छिटो पाक्ने अन्नमा पर्छ। यसलाई धानलाई जस्तै सुकाएर ढिकीमा कुटी चामल निकालेर भातखाने गरिन्छ। प्राय नेपालको पश्चिम अन्नपूर्ण क्षेत्रतिर यसको खेति गरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 236,
+    "text_length_avg": 71.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6526,
+      "Latin": 0.3474
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 766,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6526,
+      "Latin": 0.3474
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5715.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5715.txt",
+    "relative_path": "5715.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5715.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 766,
+    "mtime": 1782796586.3722904,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "492c505761eec319e41b53baa464e93985622cae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

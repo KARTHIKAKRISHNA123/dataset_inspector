@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6912.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अउबर्न ली काउन्टी, अलाबामा, संयुक्त राज्य अमेरिकाको एक शहर हो। यो पूर्वी अलाबामामा सबैभन्दा ठूलो शहर हो। 2009 मा, यसको जनसङ्ख्या 57,833 थियो। यो अउबर्न-ओपेलिका महानगरीय क्षेत्रको एक प्रमुख शहर हो।",
+    "अउबर्न एक कलेज सहर हो र अउबर्न विश्वविद्यालयको घर हो। अउबर्न अन्तिम वर्षहरूमा यसको तेजी बृद्धिको लागि प्रख्यात छ। यो वर्तमान अलाबामामा सबैभन्दा छिटो वृद्धि भइरहेको महानगरीय क्षेत्र हो। यो पनि सन् 1990 देखि संयुक्त राज्य अमेरिकामा उन्नाइसौं स्थान ओगट्न मेट्रो क्षेत्र हो। अउबर्न वर्ष 2009 को लागि संयुक्त राज्य अमेरिकामा बस्ने राम्रो ठाउँमाको शीर्ष दस सूचीमा रहेको थियो।शहरको अनौपचारिक उपनाम \"Loveliest Village in Plain\" हो। यो Oliver Goldsmith द्वारा कविता \"The Deserted Village\"मा एउटा हरफ आउँचछ: \"S"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 196,
+    "text_length_max": 543,
+    "text_length_avg": 369.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8485,
+      "Latin": 0.1515
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1749,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8485,
+      "Latin": 0.1515
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6912.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6912.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6912.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1749,
+    "mtime": 1782796669.5466578,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "92c588b6044af55f512210249e5739c9b65daeef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

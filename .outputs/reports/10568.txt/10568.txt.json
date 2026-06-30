@@ -1,0 +1,91 @@
+{
+  "dataset": "10568.txt",
+  "file_name": "10568.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महासचिव संयुक्त राष्ट्रसंघको सबैभन्दा प्रमुख अधिकारी हुन्छ । यसको नियुक्ति सुरक्षा परिषदको सिफारिसमा महासभाद्वारा 5 बर्षको लागि गरिन्छ । महासचिव पुन: अथवा दोश्रो पटक पनि निर्वाचित हुन सक्दछ । संयुक्त राष्ट्रसंघ अधिकारपत्रको अनुसार, महासचिवले आफ्नै रोहवारमा आफ्नो सहयोगी दक्ष, योग्य र सत्यपरायण कर्मचारीको अन्तर्राष्ट्रिय समूह बनाउँछ । संयुक्त राष्ट्रसंघको वर्तमान महासचिव एन्टोनियो गुटेरेस हुन् । उनी पोर्चुगलका हुन्, उनले आफ्नो पदको जिम्मेवारी 1 जनवरी 2017 देखि सम्हाल्दै आएका छन् । उनको कार्यकाल 31"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 528,
+    "text_length_max": 528,
+    "text_length_avg": 528.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1398,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10568.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10568.txt",
+    "relative_path": "10568.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10568.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1398,
+    "mtime": 1782796445.3124144,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dc835d990b2c89b0c22f82bdb434e3a7ded7bd5d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

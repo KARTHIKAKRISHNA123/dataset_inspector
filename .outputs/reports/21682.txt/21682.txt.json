@@ -1,0 +1,92 @@
+{
+  "dataset": "21682.txt",
+  "file_name": "21682.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैज्ञानिकहरूले गुरु बृहस्पतिग्रह र शुक्रग्रह पृथ्वी जस्तै ग्रह मानेपनि ज्योतिषहरूले विभिन्न पुरातन मान्यतालाई जिवितै राखेका छन् । आकाशमा रहेका अन्य खगोलीय पिण्डहरू जस्तै यी ग्रहहरु पनि उदाउने अस्ताउने गर्छन् । यी ग्रहहरु उदाउँदा र अस्ताउँदा खासै फरक नपर्ने प्रमाणित भएपनि ज्योतिषहरूले विभिन्न मत अघि सार्ने गरेकाछन् जसको हालसम्म कुनै प्रमाणित आधारहरू छैनन् ।",
+    "कुनै प्रमाणित आधारहरू नभएपनि ज्योतिषहरूले गुरुशुक्रको अस्तकालमा निम्न क्रियाकलाप नगर्न सुझाब दिने गर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 811,
+    "text_length_avg": 406.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4449,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21682.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21682.txt",
+    "relative_path": "21682.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21682.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4449,
+    "mtime": 1782796497.4554045,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1cbdd8c573d2ecdfaabc0dacb913a01e0d6fd06d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

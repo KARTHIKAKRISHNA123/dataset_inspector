@@ -1,0 +1,92 @@
+{
+  "dataset": "19983.txt",
+  "file_name": "19983.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामेश्वरम हिंन्दूहरूको एउटा पवित्र तिर्थस्थल हो । यो तमिलनाडुको रामनाथपुरममा अवस्थित छ । यो तिर्थस्थल हिन्दूहरूको चार धामहरू मध्ये एउटा हो । यस अतिरिक्त यहाँ स्थापित शिवलिङ्ग बाह्र ज्योतिर्लिंगहरूमा एउटा मानिन्छ । भारतको उत्तरमा रहेको काशीको जुन मान्यता छ, त्यही दक्षिणमा रामेश्वरमको रहेको छ । रामेश्वरम चेन्नईदेखि लगभग चार सय पच्चिस माइल दक्षिण-पूर्वमा रहेको छ । यो हिन्द महासागर र बङ्गालको खाडी देखि चारैतिरबाट घेरिएको एउटा सुन्दर शंख आकारकहरू द्वीप हो । पहिला यो द्वीप भारतको मुख्य भूमि सँग जोडिएक",
+    "जुन स्थानमा यो टापु मुख्य भूमि देखि जोडएको थियो, त्यहाँ हाल 2.5 माइल चौडाईको एउटा खाडी छ । शुरूमा यस खाडीलाई नाउहरू प्रयोग गरेर पार गरिन्थ्यो । धेरै पहिले धनुषकोटि देखि मन्नार द्वीप सम्म हिडेर पनि मानिसहरु आवातजावत गर्दथे । तर सन् 1480 मा एउटा चक्रवाती आँधीले यसलाई तोड दियो । पछी आज देखि लगभग चार सय वर्ष पहिले कृष्णप्पनायकन नामको एउटा राजाले ढुंगाको धेरै ठूलो पुल बनाउनु भएको थियो । अङ्ग्रेजहरूको आगमन पछि त्यस पुलको ठाँउमा रेलको पुल बनाउन विचार गरियो । एउटा जर्मन ईन्जिनियरको मद्दतले त्यस टुटेको प"
+  ],
+  "statistics": {
+    "records_sampled": 39,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 1204,
+    "text_length_avg": 328.59,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33902,
+    "estimated_records": 103
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 103,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19983.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19983.txt",
+    "relative_path": "19983.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19983.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33902,
+    "mtime": 1782796489.5900073,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "98fca815bf6e16e64bba405879225e8e9cc5cd9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

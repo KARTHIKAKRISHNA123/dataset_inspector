@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2403.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिशिर र वसन्तको कथा बोधविक्रम अधिकारीद्वारा लिखित दन्त्य कथा किताब को एक दन्त्य कथा हो । दाजु र भाईको भातृप्रेम देखाउन खोजिएको यो कथा वि.सं 1994 सालमा प्रकाशित दन्त्य कथामा संग्रहित छ ।",
+    "यस कथामा शिशिर र वसन्त राजकुमार हुन्छन् । अधिक चिन्ताका कारण आफ्नो आमाको निधन र बाबुले अर्को रानी भित्राएपछि टुहुरा हुन्छन । सौतेनी आमाले शिशिर र वसन्तलाई जुङ्गलमा लगेर मार्दिनु भन्ने आदेश राजा टार्न सक्दैनन् तर सैनिकहरुलाई कलिला र अबोध राजकुमारहरुप्रति दया लाग्छ; शिशिर र वसन्त जङ्गलमा छोडिन्छन् । दाजु शिशिेर जङ्गलबाट आगो खोज्न गएर नफर्केपछि भाई वसन्त जसोतसो जुङ्गलबाट निस्कन्छन् । दाजु शिशिर कुनै देशको राजा बन्छन् भने भाई वसन्तले धेरै दुख भोग्छ । अन्तिममा शिशिेर वसन्तको कथा जसले सुनाउन सक्छ, त्य"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 160,
+    "text_length_max": 687,
+    "text_length_avg": 306.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4061,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2403.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2403.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2403.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4061,
+    "mtime": 1782796634.3887386,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f3e6af0f2e561685465c0234ec1919661d542062",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

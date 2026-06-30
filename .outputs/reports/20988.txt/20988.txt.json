@@ -1,0 +1,92 @@
+{
+  "dataset": "20988.txt",
+  "file_name": "20988.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महाविद्या अर्थात महान विद्या रूपी देवी। महाविद्या देवी दुर्गाका दश रूप छन्, जो अधिकांश तान्त्रिक साधको द्वारा पूजिन्छन्, परन्तु साधारण भक्तहरूलाई पनि अचूक सिद्धि प्रदान गर्ने मानिन्छ। यी दश महाविद्याका नामले पनि जानिन्छ्न्।",
+    "महाविद्या विचारको विकास शक्तिवादका इतिहासमा एउटा नयाँ अध्याय बनाएको जसले यस विश्वासलाई पोषित गर्ने सर्व शक्तिमान् एउटा नारी हो।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 636,
+    "text_length_avg": 261.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4201,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20988.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20988.txt",
+    "relative_path": "20988.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20988.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4201,
+    "mtime": 1782796494.3173125,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5cf00f9d8c53cb07dbf6d2b676deb238cdfa7a1e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

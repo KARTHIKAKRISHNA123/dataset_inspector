@@ -1,0 +1,92 @@
+{
+  "dataset": "29941.txt",
+  "file_name": "29941.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पशुपति क्षेत्र विकास कोष श्री पशुपतिनाथ मन्दिर क्षेत्रको बृहत्तर विकासका लागि कार्यरत संस्था हो। पशुपति क्षेत्रलाई यसको प्रतिष्ठा एवं गरिमा अनुरुप सुव्यवस्थित र विकसित पार्ने उद्देश्यले वि.सं. 2043 सालमा एक अविच्छिन्न उत्तराधिकारवाला स्वायत्त संस्थाका रुपमा यस कोषको स्थापना भएको हो। हाल यो पशुपति क्षेत्र विकास कोष ऐन 2044 अन्तरगत सञ्चालित छ।",
+    "यस कोषले पशुपतिनाथका दैनिक पुजापाठका अतिरिक्त विशेष पूजा र महाशिवरात्री, बालाचतुर्दशी, तीज लगायतका पर्वहरूमा हुने पूजाहरू व्यवस्थित गर्ने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 343,
+    "text_length_avg": 164.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2630,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29941.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29941.txt",
+    "relative_path": "29941.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29941.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2630,
+    "mtime": 1782796535.5453663,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dec58da7041b968ccbb655aa5db0e1b3c22c3f2f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

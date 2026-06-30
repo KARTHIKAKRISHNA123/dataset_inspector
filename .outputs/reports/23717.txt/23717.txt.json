@@ -1,0 +1,91 @@
+{
+  "dataset": "23717.txt",
+  "file_name": "23717.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केर्खा झापा जिल्लाको तोपगाछी गा.वि.स.को एक प्रमुख बजार हो| दमकबाट 6 कि.मी पुर्वमा पर्ने यो बजार महेन्द्र राजमार्गसग तोपगाछी गा वि सलाई जोड्ने प्रमुख केन्द्र हो। केर्खामा शनिवारको दिन बजार लाग्छ भने आइतवार चाहि बजार बन्द हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 226,
+    "text_length_avg": 226.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 597,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23717.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23717.txt",
+    "relative_path": "23717.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23717.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 597,
+    "mtime": 1782796506.464482,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "535d249a9d0d66e05e18bb5e6419449844552fe7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

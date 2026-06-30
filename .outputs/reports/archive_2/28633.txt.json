@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28633.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन 1848 मा पुरै यूरोप मा क्रान्तिको तरंगको लहर छाएको थियो । 1848 को फ्रान्सको क्रान्ति को फलस्वरूप ओर्लियन राजतन्त्र को अन्त भयो तथा द्वितीय फ्रान्सेली गणतन्त्रको स्थापना भयो।",
+    "1848 को फ्रान्सको क्रान्तिले सम्पूर्ण यूरोपमा हलचल पैदा गर्यो । यूरोपको लगभग सबै देश यसबाट प्रभावित भए र विशेषाधिकार र शासनलाई जबर्दस्त चोट पर्यो तर पनि क्रान्ति अन्तमा उद्देश्यमा सफल हुन सकेन । लगभग सबै देशमा असफलताको सामना गर्नु पर्यो। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 175,
+    "text_length_max": 238,
+    "text_length_avg": 206.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1081,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28633.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28633.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28633.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1081,
+    "mtime": 1782796643.4471583,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f3063cd69a435611c38edd76887b2905cb2f55d9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

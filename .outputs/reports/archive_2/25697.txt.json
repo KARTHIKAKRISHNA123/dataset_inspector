@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25697.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली साहित्यको इतिहास भन्नाले नेपाली भाषामा लेखिएका साहित्यिक रचनाहरुको विकास क्रम, ती सँग विकास भएका लेखन शैली, तरिकाहरु हुन् ।",
+    "वर्तमान समयमा साहित्य शब्दले जुन अर्थ व्यक्त गर्दछ त्यसको पर्यायका रूपमा पूर्वीय र पाश्चात्य दुबै जगत्मा काव्य शब्द प्रयोग हुने गरेको कुरा साहित्यशास्त्रको ऐतिहासिक विकासक्रमबाट थाहा पाइन्छ। संस्कृत :शब्दको 'वर्णन गर्ने' भन्ने अर्थ बोकेको कवृ धातुबाट काव्य शब्दको व्युत्पत्ति भएको मानिन्छ। पहिले पहिले व्यापक अर्थमा काव्य शब्दको प्रयोग हुँदै आएकोमा धेरै पछि मात्र साहित्य शब्दको प्रयोग भएको पाइन्छ। :पूर्वीय साहित्य शास्त्रमा साहित्यको छुट्टै परिभाषा पाइदैन। काव्यको परिभाषाभित्र नै साहित्यको परिभाषा"
+  ],
+  "statistics": {
+    "records_sampled": 99,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 1251,
+    "text_length_avg": 350.64,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 93018,
+    "estimated_records": 265
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 265,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25697.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25697.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25697.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 93018,
+    "mtime": 1782796637.637455,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "346f551f954981aa44fc6f560a0864c2a60d8bc2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

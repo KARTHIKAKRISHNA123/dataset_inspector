@@ -1,0 +1,94 @@
+{
+  "dataset": "6793.txt",
+  "file_name": "6793.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिपल नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्रको राप्ती अञ्चल, रुकुम जिल्लामा अवस्थित एक गाउँ विकास समिति हो। यो गाविस रुकुमको सदरमुकाम मुसिकोट देखि 7 कोष टाढा उत्तर पूर्वमा रहेको छ ।",
+    "पीपल गाविसको पूर्वमा पोखरा र प्वाङ पश्चिममा बाँफीकोट उत्तरमा स्यालाखदी र सिस्ने तथा दक्षिणमा स्पालापाखा गाउँ विकास समिति पर्दछन्। पीपल राजनीतिक विभाजन अनुसार निर्वाचन क्षेत्र नं। 1 र इलाका नं 3मा पर्दछन्। पहाडी भू-भागमा रहेको पीपल गाउँ विकास समितिले आफ्नै ऐतिहासिक भौगोलिक धार्मिक राजनीतिक एवं सामाजिक महत्व र विशेषता बोकेको छ। पीपल भौगोलिक अवस्थित अनुसार 28 डिग्री 44 मिनेट 45 सेकेण्ड उत्तरी अक्षांस 82 डिग्री 30 मिनेट 15 सेकेण्ड देखि 82 डिग्री 36 मिनेट 30 सेकेण्ड पूर्वी देशान्तरभित्र पर्दछ नापी शा"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 1284,
+    "text_length_avg": 473.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11285,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9988,
+      "Latin": 0.0012
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6793.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6793.txt",
+    "relative_path": "6793.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6793.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11285,
+    "mtime": 1782796591.4063275,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "6b8c5cba6eb82986d2a4e2793b851067095d7d90",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

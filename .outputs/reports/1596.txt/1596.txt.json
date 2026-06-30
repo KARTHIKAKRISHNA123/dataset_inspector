@@ -1,0 +1,91 @@
+{
+  "dataset": "1596.txt",
+  "file_name": "1596.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुङ्गी नेपाल, भारत, बङ्गलादेश, पाकिस्तान, श्रीलङ्का, थाइल्याण्ड, इन्डोनेशिया, बर्मा तथा मलेसिया लगायतका एसियाली राष्ट्रहरूमा लगाइने परम्परागत पोशाक हो । यसको प्रयोग मुख्यतया पुरुषहरूले गर्ने भएता पनि कहिलेकाहिँ महिलाले पनि लगाउने गरेको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 244,
+    "text_length_max": 244,
+    "text_length_avg": 244.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 657,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1596.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1596.txt",
+    "relative_path": "1596.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1596.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 657,
+    "mtime": 1782796470.011567,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ab78007ecb1d6925118f28ba80e90bdc51b1229e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17972.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ग्राम या गाउँ सानो-सानो मानव बस्तिनीहरूलाई भन्दछन् जसको जनसङ्ख्या केही सौबाट लिएर केही हजारका बीच हुन्छ। प्राय: गाउँहरूका मानिसहरू कृषि या कुनै अन्य परम्परागत काम गर्दछन्। गाउँहरूमा घर प्राय: धेरै छेउ-छेउ तथा अव्यवस्थित हुन्छन्। परम्परागत रूपबाट गाउँहरूमा शहरहरूको अपेक्षा कम सुविधाहरू हुन्छ्न्।",
+    "जस्तै - सगरमाथा अंचल ,उदयपुर जिल्ला,जोगीदह गाविसको 9 नं वडाको गाउँ मोतियाही हो । अझ झानौ गाउँ ठूलो रहेछ भने गाउँ भित्र पनि टोल,गल्ली,चौंक आदि हुन सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 295,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1188,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17972.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17972.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17972.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1188,
+    "mtime": 1782796622.3732698,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "31fa679d16031b1c851fafc6ce70b41a3764e504",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

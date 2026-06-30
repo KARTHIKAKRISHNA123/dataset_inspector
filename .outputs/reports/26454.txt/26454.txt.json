@@ -1,0 +1,94 @@
+{
+  "dataset": "26454.txt",
+  "file_name": "26454.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेरा इस्माइल खान (उर्दु : ڈیرہ اسماعیل خان‎, अफगानी: ډېره اسماعيل خان पाकिस्तानको खैबर पख्तुनख्वा प्रदेशमा रहेको डेरा इस्माइल खान जिल्लाको सदरमुकाम शहर हो । यो शहर सिन्धु नदीको पश्चिम किनारमा अवस्थित छ । यो शहर प्रदेशको सदरमुकाम पेशावर शहरबाट 300 किलोमिटर दक्षिणमा पर्छ भने पञ्जाबको मुल्तानको उत्तर-पश्चिममा रहेको छ । यो शहर जिल्ला र तहसील दुवैको सदरमुकामको रुपमा रहेको छ । यस शहरमा मुख्यतया पश्तो र सराइकी भाषा बोलिन्छ । सन् 1998 को जनगणना अनुसार यस शहरको कुद जनसङ्ख्या 86,969 रहेको छ । जसमध्ये अधिक",
+    "यहाँका स्थानीय भाषा पश्तो, सराइकी र बलूची भाषा अनुसार डेरा शव्दको अर्थ पाल टाँगेर बस्नु भन्ने बुझिन्छ र सामान्यतया सिन्ध घाटी जस्तै डेरा गाज खान र दरा बुटि जस्ता नाम भएका शहरहरू पनि पाइने हुनाले यस शहरलाई पहिला क्याम्प इस्माइल खान भनिन्थ्यो र पछि शहरलाई डेरा इस्माइल खानमा नाम सारिएको थियो । डेरा गाजी खान र डेरा इस्माइल खानका मानिसलाई पाकिस्तान डेरावाल भन्ने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 125,
+    "text_length_max": 573,
+    "text_length_avg": 381.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9819,
+      "Arabic": 0.0181
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4987,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9819,
+      "Arabic": 0.0181
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26454.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26454.txt",
+    "relative_path": "26454.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26454.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4987,
+    "mtime": 1782796519.1992,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "4e9fc1f4cd9060332cdb1de075992d939f27c8a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

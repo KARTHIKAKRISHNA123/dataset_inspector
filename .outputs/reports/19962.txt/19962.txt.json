@@ -1,0 +1,92 @@
+{
+  "dataset": "19962.txt",
+  "file_name": "19962.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फराह खान  एक भारतीय चलचित्र निर्देशक, चलचित्र निर्माता, अभिनेत्री र नृत्य निर्देशक हुन । उनलाई विभिन्न बलिउड चलचित्रमा नृत्यरचना कार्यको लागि जानिन्छ । उनले 80 भन्दा बढी चलचित्रका 100 गीतहरूमा नृत्य रचना गरिसकेकी छिन । उनि निर्देशकको रूपमा समेत कार्य गरेकी छिन ।",
+    "फराह खानको जन्म 9 जनवरी 1965 मा भएको हो । उनको आमा मेनका परिचित दृश्यसम्पादक हनी इरानीका छोरी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 262,
+    "text_length_avg": 181.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 943,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19962.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19962.txt",
+    "relative_path": "19962.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19962.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 943,
+    "mtime": 1782796489.476954,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a8229316b914eb261556d143e8efed54d8bfe8c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

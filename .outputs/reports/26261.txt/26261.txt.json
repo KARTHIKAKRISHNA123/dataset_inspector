@@ -1,0 +1,92 @@
+{
+  "dataset": "26261.txt",
+  "file_name": "26261.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्पादन, अनुसन्धान, रिटेल र लेखांकनमा, लागत भन्नाले केही उत्पादन गर्न लागेको रकम तथा मूल्यलाई बुझाउँदछ । व्यापारमा, लागत भनेको कुनै सामान प्राप्त गर्न लाग्ने खर्च वा रकम, जुन सामान प्राप्त वा अधिग्रहण गर्दा लागेको हुन सक्छ । सामान प्राप्त गर्न लाग्ने खर्च वा रकम भनेको मूल निर्माताद्वारा खर्च गरिएको उत्पादन लागत को रकम, र सामान अधिग्रहण गर्ने व्यक्तिले गरेको थप रकमको जोडलाई जनाउँदछ । सामान्यतया, मूल्यमा पनि उत्पादन को लागतमा निर्माताको लाभ जोडिएको हुन्छ । ",
+    "चार्टर्ड इन्टिट्युट अफ म्यानेजमेन्ट एकाउन्टेन्टस्, लन्डनको परिभाषा अनुसार \"कुनै वस्तुका निमित्त लागेको वा त्यससँग सम्बन्धित खर्चको रकम नै लागत हो ।\" "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 459,
+    "text_length_avg": 249.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1985,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26261.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26261.txt",
+    "relative_path": "26261.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26261.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1985,
+    "mtime": 1782796518.3053226,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "600021f5b1fc77949bddcf1348787e63254d9063",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

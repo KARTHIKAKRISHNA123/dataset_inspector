@@ -1,0 +1,92 @@
+{
+  "dataset": "2177.txt",
+  "file_name": "2177.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बैदु इन्क सन् 2000 जनवरीमा स्थापना भएको चिनिया वेभ सेवा कम्पनी हो, यसको केन्द्रीय कार्यालय बैदु क्याम्स हायडियान जिल्ला बेइजिङमा अवस्थित छ ।",
+    "बैदुले धेरै प्रकारको सेवाहरू प्रदान गर्दै आइरहेको छ जसमा वेभसाइट, चित्र तथा गितहरूको चिनियाँ खोज सेवा समेत रहेको छ । बैदुले 57 खोज तथा सामुदायिक सेवाहरू लगायत बैदु बैंक र खोज्न सकिने फोरम समेत छ । बैदुलाई सन् 2000 मा रबिन लि र इरिक झुले स्थापना गरेका थिए । दुवै संस्थापकहरू चिनिया नागरिक हुन र यिनिहरूले चीनमा फर्किन पहिला पढाइ तथा काम विदेशमा गरेका थिए । सन् 2015 मार्चमा बैदुलाई अलेक्सा इन्टरनेट सूचीमा चौथो स्तरमा सूचीकृत गरेको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 574,
+    "text_length_avg": 310.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4826,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2177.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2177.txt",
+    "relative_path": "2177.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2177.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4826,
+    "mtime": 1782796497.8752356,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3bd8ed17878ef4e06653023ca8a98822bc96355d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

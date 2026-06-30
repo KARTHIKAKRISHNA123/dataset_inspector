@@ -1,0 +1,92 @@
+{
+  "dataset": "18216.txt",
+  "file_name": "18216.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खाम भाषा नेपालका मगर जातीले बोल्ने एक भाषा हो । मगरहरूका भाषा धेरै प्रकारका हुन्छन् । अलग अलग ठाउँका मगरहरूले अलग अलग भाषा बोल्दछन। मध्यमाञ्चल तिरका मगरहरू भिरकोटे भाषा बोल्छन जसलाई मगर भाषा पनि भनिन्छ । रोल्पा, रुकुम, जाजरकोट, दैलेख तिरका मगरहरूले खाम भाषा बोल्छन् । मगरहरू दुई थरिका हुन्छन् एक 18 पंथी र अर्को 12 पंथी। 12 पंथीहरूले भिरकोटे मगर भाषा बोल्छन । कसैले ढुट खाम तथा काइके खाम बोल्छन् भने कसैले नेपाली भाषा नै बोल्छन । 18 पंथीहरूले खाम भाषा बोल्छन। खाम भाषा बोल्ने मगरको उद्गम शेषखोलाबाट भ",
+    "नेपाल विभिन्न जात जाती र भेष भाषाले भरिएको एउटा बहुल संस्कृतिको देश हो । नेपालमा भएका विभिन्न जातीहरू मध्य मगर समुदाय एउटा प्रमुख जाती हो र मगर जाती आदिबासी जनजाती समूहमा पर्दछ । साथै यो जाती आदिबासी जनजाती समुहको सबै भन्दा ठुलो जन संख्या भएको जाती पनि हो । अन्य जातीहरूको आफ्नै भाषा र भेष भुषा भए झैँ मगरहरूको पनि आफ्नै भाषा, भेष तथा परम्परा छ । मगरहरूले बोल्ने मातृ भाषालाई अठार मगरात र बाह्र मगरात गरी दुई समुहमा विभाजन गरिएको छ। बाह्र मगरात अन्तर्गतका पाल्पा, तनहुँ तथा स्याङ्जा जिल्लामा बोलिने म"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 2996,
+    "text_length_avg": 921.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12135,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18216.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18216.txt",
+    "relative_path": "18216.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18216.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12135,
+    "mtime": 1782796481.0412884,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "25494268b53a7020e98551577cb0eb18d46121fa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "18264.txt",
+  "file_name": "18264.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन् 1972मा केण्डीमामा जन्मेका मुरलीधरन श्रीलङ्का का टेस्ट क्रिकेट खेलाडि हुन |टेस्ट क्रिकेटबाट संन्यास लिएका मुरलीधरनले अझै दुई वर्ष एक दिवसीय तथा ट्वान्टी-20 क्रिकेट खेल्ने बताएका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 185,
+    "text_length_max": 185,
+    "text_length_avg": 185.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 489,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18264.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18264.txt",
+    "relative_path": "18264.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18264.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 489,
+    "mtime": 1782796481.2636507,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "17b51208c4be2503775829abacb550a5a96a0965",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "30004.txt",
+  "file_name": "30004.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द स्टार–स्प्याङ्गल्ड ब्यानर संयुक्त राज्य अमेरिकाको राष्ट्रिय गान हो । यस राष्ट्रिय गानको रचना फ्रान्सीस स्कट किले स.न् 1814 मा गरेका थिए ।",
+    "O say can you see by the dawn's early light,What so proudly we hailed at the twilight's last gleaming,Whose broad stripes and bright stars through the perilous fight,O'er the ramparts we watched, were so gallantly streaming?And the rockets' red glare, the bombs bursting in air,Gave proof through the night that our flag was still there;O say does that star-spangled banner yet wave,O'er the land of the free and the home of the brave?On the shore dimly seen through the mists of the deep,Where the f"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 1655,
+    "text_length_avg": 897.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9221,
+      "Devanagari": 0.0779
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2021,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9221,
+      "Devanagari": 0.0779
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30004.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30004.txt",
+    "relative_path": "30004.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30004.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2021,
+    "mtime": 1782796535.8356407,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6a98173c6145341a108a057819708b5e4daba80b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

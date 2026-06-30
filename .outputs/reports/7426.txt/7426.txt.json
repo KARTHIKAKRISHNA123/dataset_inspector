@@ -1,0 +1,94 @@
+{
+  "dataset": "7426.txt",
+  "file_name": "7426.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल प्रतिलिपि अधिकार रजिष्ट्रारको कार्यालय साहित्य, संगीत, कला, वास्तुकला, ज्ञान-विज्ञान र सूचना प्रविधि जस्ता क्षेत्रमा मानव मस्तिष्कले सिर्जना गरेका रचनाहरूको संरक्षण गर्दै सर्जकका आर्थिक र नैतिक अधिकारको प्रत्याभूति एवं ध्वनिअङ्कन, प्रस्तुति र प्रसारण जस्ता प्रतिलिपि अधिकारसित सम्बन्धित अधिकारहरूको संरक्षणका निम्ति आवश्यक कार्य गर्न भनी नेपाल सरकारको मिति 2060।12।26को निर्णय अनुसार मिति 2061।1।7 देखि विभाग स्तरीय कार्यालयको रूपमा नेपाल प्रतिलिपि अधिकार रजिष्ट्रारको कार्यालयको स्थापना गरिएको",
+    "नेपाल प्रतिलिपी अधिकार रजिष्ट्रारको कार्यालय"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 505,
+    "text_length_avg": 102.0,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9598,
+      "Latin": 0.0402
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1820,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9598,
+      "Latin": 0.0402
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7426.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7426.txt",
+    "relative_path": "7426.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7426.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1820,
+    "mtime": 1782796594.44577,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "6a5d65a9ab44e4538c4a7bc4fb436f863a471648",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

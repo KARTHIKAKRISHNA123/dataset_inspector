@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28061.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रो. इन्दिरा नाथ एक भारतीय प्रतिरक्षा वैज्ञानिक हुन्। उनी भारतकी अग्रणी महिला वैज्ञानिक र कुष्ठ रोगको एक अंतरराष्ट्रीय स्तरमा जनिने विशेषज्ञ हुन्। उनीले लेप्रा-ब्लू हैदराबादमा पीटर रिसर्च सेंटरको निदेशकको रूपमा कुष्ठ रोगको बिरुद्ध भारतको तर्फ बाट युद्ध गर्दै अहम भूमिका निभाउन सफल भइन्। ",
+    "इन्दिरा नाथले अखिल भारतीय आयुर्विज्ञान संस्थान, नयाँ दिल्लीबाट एमबीबीएस गरिन्। 1970 को दशकमा उनीले आफ्नु करियरको शुरुआत गरिन् र ब्रिटेनमा अनिवार्य अस्पताल प्रशिक्षणको पश्चात एमडी को लागि अखिल भारतीय आयुर्विज्ञान संस्थानमा फर्केर आइन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 234,
+    "text_length_max": 288,
+    "text_length_avg": 261.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1404,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28061.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28061.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28061.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1404,
+    "mtime": 1782796642.3699968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "734e5bc4c3734372a1f44f478c8739d334d32880",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

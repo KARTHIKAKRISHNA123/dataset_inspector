@@ -1,0 +1,92 @@
+{
+  "dataset": "38260.txt",
+  "file_name": "38260.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दयाहाङ राई भोजपुर नेपालमा भएको थियो । उनी नेपाली चलचित्रका अभिनेता हुन् ।उनले चलचित्र लूटबाट प्रसिद्धि कामाएर लोक प्रिय बनेका थिए ।",
+    "भोजपुरको पश्चिमी गाविस खावा वडा नं. 5 मा 2037 साल बैशाख 1 गते जन्म जन्मिएका अभिनेता दयाहाङ् राई । 16 वर्षसम्मा खावा गाविसको गाउँमा जन्मेर खेतीपाती र गाईबस्तु गोठालो गर्दै खावा गाविसको दिल प्राथामिक विद्यालय, पशुपति मावि हुदै अन्नपूर्ण गाविसका अन्नपूर्ण उच्च माध्यमिक विद्यालय भोजपुरमा एसएलसिसम्मा अध्यान गरे । एसएलसिपछि भोजपुर बहुमुखी क्याम्पसमा आइए पढेका दयाहाङ राई भोजपुरबाट काठमाडौ छिरेपछि लूट लोफर, झोले, कबड्डी लगायत करिव 2 दर्जन नेपाली चलचित्र र 16 वटा नाटकमा अभिनय साथै 6 वटा नाटक निर्देशन गरे"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 508,
+    "text_length_avg": 319.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1681,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38260.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38260.txt",
+    "relative_path": "38260.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38260.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1681,
+    "mtime": 1782796574.433329,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1ec65ab11f095961d5ed8bccefe99f58371c2d57",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

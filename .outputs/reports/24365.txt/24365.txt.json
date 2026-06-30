@@ -1,0 +1,92 @@
+{
+  "dataset": "24365.txt",
+  "file_name": "24365.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"'हिग्स बोसोन'\"हरूलाई नै नेपालीमा ईश्वरीय कण भनिन्छ । यो कणको नाम पिटर हिग्सको नामबाट राखिएको हो जसले अरू वैज्ञानिकहरूको साथ 1964 मा यस कणको अस्तित्वको बारेमा कुरा गरेका थिए । तर यसको आविस्कारको पुष्टि भने अहिले सम्म हुन सकेको छैन । वैज्ञानिकहरूले हिग्स बोसोन जस्तै कणको आविस्कार भएको मानेका छन् तर त्यो हिग्स बोसोन अर्थात् ईश्वरीय कण नै हो भन्ने पुष्टि भने गरेका छैनन् । हिग्स बोसोनलाई कणका द्रव्यमान वा भारका लागि जिम्मेदार मानिन्छ। प्रायः यसलाई अन्तिम मूलभूत कण मानिन्छ।",
+    "क्वाण्टम भौतिकीमा 'मूलकण' ऊर्जाको एउटा यस्तो एक्लो अतिसूक्ष्म बिन्दुलाई भनिन्छ, जसको, जहाँसम्म हामीलाई थाह छ, र कुनै घटक अथवा टुकुरा हुँदैन। त्यसलाई र अधिक खण्डित गर्न सकिंदैन। हिग्स-बोसोन परमाणु-संघटक तत्वहरुलाई भार प्रदान गर्ने ऊर्जाको त्यस रहस्यमय रूपलाई भनिन्छ, जसको अहिले पुष्टि भएको छैन। ठीक त्यस क्षणमा बनेको होला, जब ब्रह्माण्डको उत्पत्ति भएको थियो। हीलियमका प्रोटोन कणहरुलाई लगभग प्रकाशको झैं तेज गतिले आपसमा जुधाएर एक बिन्दुरूपमा त्यसै क्षणलाई दोस्रो पल्ट उत्पन्न गर्ने प्रयास गरिंदैछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 282,
+    "text_length_max": 495,
+    "text_length_avg": 403.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4289,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24365.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24365.txt",
+    "relative_path": "24365.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24365.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4289,
+    "mtime": 1782796509.4619937,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "bbb5b3da3cfaf130b5c09f8209530fcdd64a0b08",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

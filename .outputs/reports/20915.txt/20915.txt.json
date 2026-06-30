@@ -1,0 +1,92 @@
+{
+  "dataset": "20915.txt",
+  "file_name": "20915.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकिपिडिया बहुभाषी वेबमा आधारित स्वतन्त्र र खुला ज्ञानकोश हो। विकिपिडिया शब्द विकि र ईन्साइक्लोपीडिया जोडिएर बनेको हो। विकिपिडियामा स्वयंसेवकहरूबाट लेखहरू लेखिन्छन। यसका धेरैजसो लेखहरू इन्टरनेटमा पहुँच भएका जो कोहीले पनि संशोधन,परिवर्तन र परिमार्जन गर्न सक्छन्। विकिपिडियाका मुख्य सर्भरहरू संयुक्त राज्य अमेरिकाको फ्लोरिडा राज्यमा अवस्थित छन्। अन्य सर्भरहरू एम्स्टर्‍ड्याम र सउलमा छन्। विकिमिडीया फाउण्डेसन नामको एउटा गैर-नाफामुखी संस्थाद्वारा सञ्चालित विकिपिडियाका प्रायजसो सबै पृष्ठहरूलाई विकिपसडिय",
+    "सबैभन्दा महत्त्वपूर्ण कुरा के छ भने विकिपिडियाले अहिलेसम्म आफ्नो पेजमा कुनैपनि व्यावसायिक विज्ञापन राखेको छैन। विना विज्ञापनका सामग्री निःशुल्क रूपमा पढ्न पाउनु अहिलेको युगमा आश्चर्यकै विषय हुन पुगेको छ। विकिपिडियामा लेख रचनाहरू योगदान दिने सबै व्यक्तिहरू स्वयंसेवी हुन्। विकिपिडियामा विना कुनै पारिश्रमिक लेख रचना लेख्ने स्वयंसेवीको संख्या अहिले दशौं लाख पुगेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 132,
+    "text_length_max": 975,
+    "text_length_avg": 497.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8010,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20915.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20915.txt",
+    "relative_path": "20915.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20915.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8010,
+    "mtime": 1782796493.9616463,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e8059e97f5e7312b8b4f38e4337c474f4e92c0d0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

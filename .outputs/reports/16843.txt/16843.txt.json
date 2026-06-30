@@ -1,0 +1,91 @@
+{
+  "dataset": "16843.txt",
+  "file_name": "16843.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "म्युनिख हवाइ दुर्घटना 6 फेब्रुएरी 1958 मा घटेको थियो जब ब्रिटिस युरोपियन एयरवेज फ्लाईट 609 ले पश्चिम जर्मनीको आंशिक हिउँ पग्लिएको एयरपोर्टबाट आफ्नो उडानको तेस्रो प्रयास गर्यो । विमानभित्र म्यान्चेस्टर युनाइटेड फुटबल टिमको 'बस्बाइ बेब्स' उपनाम पाएको फुटबल टिम केहि प्रशंसक र पत्रकारका साथ थियो । विमानमा सवार 40 मध्ये 20 को तत्कालै मृत्यु भयो । घाइते र अचेत विमानयात्रुहरूलाई म्युनिखको रेच्ट्स डर आइसर अष्पताल पुर्याइयो जहाँ थप 3 जनाको मृत्यु भयो । तत्कालिन युगोस्लाभिया को बेलग्रेडमा रेड स्टार बेलग्र"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 925,
+    "text_length_max": 925,
+    "text_length_avg": 925.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2461,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16843.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16843.txt",
+    "relative_path": "16843.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16843.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2461,
+    "mtime": 1782796474.205065,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cd92eb21393b6bf08ebd585e7554cad94c81beb7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

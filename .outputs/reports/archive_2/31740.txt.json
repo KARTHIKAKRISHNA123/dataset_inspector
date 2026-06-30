@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31740.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पोखरा स्पोर्ट्स अवार्ड एक मुख्य गरि पोखरा वा पश्चिमाञ्चलका खेलाडीलाई प्रदान गर्ने एक खेलकुद पुरस्कार हो ।यो पुरस्कार 2073 साल बाट सुरूवाट भएको पुरस्कार हो ।महिला र पुरूष गरि दुई विधा तर्फको यो पुरस्कार पहिलो पटक पुरूषको तर्फबाट हेमन गुरुङ र महिला तर्फबाट मञ्जु गुरूङले जितेको थियो ।",
+    "मुख्यत कास्की जिल्लामा खेलकुद क्षेत्रमा आबद्ध तथा योगदान पुर्‍याउने विभिन्न खेलाडी,भुपु खेलाडी,प्रशिक्षक र खेलकुद संघलाई यो अवार्डद्वार सम्मानित गरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 282,
+    "text_length_avg": 69.0,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2226,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31740.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31740.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31740.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2226,
+    "mtime": 1782796649.5314355,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.981,
+    "sha1_quick": "49e24a126e5102a750b4cb2e3224ecdca830cec3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

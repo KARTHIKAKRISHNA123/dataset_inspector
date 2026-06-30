@@ -1,0 +1,92 @@
+{
+  "dataset": "30139.txt",
+  "file_name": "30139.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वेज नहर इजिप्टमा अवस्थित भुमध्य सागर र लाल सागरलाई जोड्ने मानव निर्मित जहाजी नहर हो । निर्माण को 10 वर्ष पछि,17 नोभेम्बर, 1869 मा खुला गरिएको थियो । यसले जहाजलाई युरोप र दक्षिण एसिया बीच यात्रा गर्न अनुमति दिन्छ।",
+    "फ्रेन्च कम्पनीले सन् 1859 बाट बनाउन थालेको यो नहर सन् 1869 बाट प्रयोगमा आउन थालेको हो । यो नहर भू–मध्य सागरको जलमार्ग र संसारकै सबैभन्दा ठूलो व्यापारिक रुट भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 386,
+    "text_length_avg": 238.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3050,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30139.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30139.txt",
+    "relative_path": "30139.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30139.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3050,
+    "mtime": 1782796536.3875117,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "bdf599edb8456842c3b17e78091962adb70ecad5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

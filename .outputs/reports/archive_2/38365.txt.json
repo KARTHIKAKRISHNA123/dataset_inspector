@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38365.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टटलो अर्थात टटेलो तरबारका आकारको लामो कोसा र घण्टाजस्तो फूल फुल्ने वनस्पति हो। यसका फूल सुकाएर प्रायः औलो ज्वरोमा औषधीका रूपमा खुवाइन्छ। कोसाभित्रको पत्रमा जेलिएको बियाँलाई फूलको अभावमा माला उनीने वा देउतालाई चढाइने गरिन्छ।किरात सुनुवार, राई, लिम्बुहरुको कार्जे, बिबाह, ब्रत-बन्दन आदिमा यो टटेलो नभई नहुने भएकोले यो हरेक किरातहरुको घर-घरमा प्राय यो टेटेलो पाइन्छ, साथै थाइल्याण्ड, लाओ आदि देशहरुमा पनि यो टटेलो प्रयोक गरिन्छ ।",
+    "Oroxylum indicum flowers in Rangareddy district of Andhra Pradesh, India"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 426,
+    "text_length_avg": 128.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6169,
+      "Latin": 0.3831
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1582,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6169,
+      "Latin": 0.3831
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38365.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38365.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38365.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1582,
+    "mtime": 1782796662.8912294,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "1fa8f92a7b6b73dd06c9168d0c70591f8fe4fe38",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

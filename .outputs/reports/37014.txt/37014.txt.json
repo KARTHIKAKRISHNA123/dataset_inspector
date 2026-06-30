@@ -1,0 +1,96 @@
+{
+  "dataset": "37014.txt",
+  "file_name": "37014.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Oral र Maxillofacial Surgery is surgery to correct a wide spectrum of diseases, injuries र defects in the head, neck, face, jaws र the hard र soft tissues of the oral र maxillofacial region. It is a recognized international medical specialty, which requires a minimum length of formation of 5 years for a basic medical training र 4 years for a basic medical र dental training, in the European Union. In the U.S.A. र Canada it is one of the 9 dental specialties recognized by the American Dental Assoc",
+    "Oral र maxillofacial surgeons are trained to treat problems such as the extraction of wisdom teeth, misaligned jaws, tumors र cysts of the jaw र mouth, र to perform dental implant surgery. They are also trained to administer anesthesia, र provide care in an office setting. The scope of this specialty is extensive र concerns the diagnosis र treatment of diseases affecting the oral र maxillofacial regions, including the following:"
+  ],
+  "statistics": {
+    "records_sampled": 31,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 737,
+    "text_length_avg": 256.52,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9892,
+      "Devanagari": 0.0108
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8134,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9874,
+      "Devanagari": 0.0126
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37014.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37014.txt",
+    "relative_path": "37014.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37014.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8134,
+    "mtime": 1782796568.171937,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0739db5a094523a7f6fc9f720ce465dbda42c2be",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

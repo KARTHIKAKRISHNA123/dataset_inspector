@@ -1,0 +1,92 @@
+{
+  "dataset": "10726.txt",
+  "file_name": "10726.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देवराज जोशी",
+    "बाजुरा, क्षेत्र नं.1बाट निर्वाचित नेपाली कांग्रेसका सभासद देवराज जोशी त्रिभुवन विश्वविद्यालयबाट शिक्षाशास्त्रमा स्नातक हुनुहुन्छ। विद्यार्थी राजनीतिबाट 2039 सालमा राजनीतिक जीवन प्रारम्भ गरेका जोशी 2046 देखि निरन्तर नेपाली कांग्रेसमा आवद्ध हुनुहुन्छ। 2048 देखि हालसम्म नेपाली काङ्ग्रेस महासमिति सदस्य रहेका जोशी नेपाली काङ्ग्रेस- वाजुराका सभापति हुनुहुन्छ। यस अघि 2057-59मा र 2059-64मा पनि उहाँ क्रमशः नेपाली काङ्ग्रेस र नेपाली काङ्ग्रेस का जिल्ला सभापति हुनुहुन्थ्यो। सभासद जोशी 2046को संसदीय निर्वाच"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1456,
+    "text_length_avg": 733.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3906,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10726.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10726.txt",
+    "relative_path": "10726.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10726.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3906,
+    "mtime": 1782796446.1083908,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.967,
+    "sha1_quick": "4aa754ef2193303641067a304c122c77e02acfbd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

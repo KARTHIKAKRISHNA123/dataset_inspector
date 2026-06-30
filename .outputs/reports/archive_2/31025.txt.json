@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31025.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साना शिशुको पर्याप्त हेरविचार अत्यावश्यक छ किनभने उनीहरू आफ्ना बारेमा केही पनि बताउन सक्दैनन्। शिशुको सही हेरचाह गरे उसको मनमा भएको कुरा सही ढंगमा बुझ्न- जान्न सकिन्छ। शिशुको विशेष केयर जन्मिएपछि साढे दुई वर्षको उमेरसम्म गर्नुपर्छ। शिशु हेरचाहको सुरुवात उसको आहारसँगै हुन्छ। यसको सही ज्ञान शिशुकी आमालाई हुनु आवश्यक छ। शिशुको जन्म हुनासाथ न्यानो, सफा तथा नरम कपडाले पुछेर आमाको छातीमा -दुई स्तनको बीचमा) केही समय टाँसेर राखिदिनुपर्छ। यसो गर्नाले शिशुलाई न्यानो हुनुका साथै आमा र शिशुबीच आत्मीयता बढ्छ",
+    "स्तनपान"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 1335,
+    "text_length_avg": 300.04,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20791,
+    "estimated_records": 69
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 69,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31025.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31025.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31025.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20791,
+    "mtime": 1782796648.1234057,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a01c8b108d1bd7f1e7a28265ceb12ef480ec9bfc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

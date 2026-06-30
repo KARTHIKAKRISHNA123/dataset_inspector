@@ -1,0 +1,92 @@
+{
+  "dataset": "29178.txt",
+  "file_name": "29178.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पल शाह एक चर्चित नेपाली नायक हुन् । उनको पहिलो भिडीयो तिम्रो यादमा रहन्छु अचेल जसले उनलाई चर्चित बनायो । उनले 150 भन्दा बढी भिडीयो गरिसकेका छन् । उनले यस क्षेत्रमा नाई नभन्नू ल 4 बाट डेब्यु गरेका हुन । उनि यस क्षेत्रमा 2012 देखी हालसम्म कार्यरत छन् ।",
+    "पलले पेशागत जीवन म्युजिक भिडियो बाट शुरु गरेकी हुन् । हाल उनि चलचित्र अभिनय तर्फ अघाडी बढेका छन ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 250,
+    "text_length_avg": 52.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 920,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29178.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29178.txt",
+    "relative_path": "29178.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29178.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 920,
+    "mtime": 1782796531.7855868,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8e2e24ad5f5d8f8bbfa80a0bc159a055fcb66464",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

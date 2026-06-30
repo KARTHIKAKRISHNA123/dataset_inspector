@@ -1,0 +1,92 @@
+{
+  "dataset": "37633.txt",
+  "file_name": "37633.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्स्यनारायाण मेला काठमाडौं जिल्लामा कीर्तिपुरको नजीकै रहेको मच्छेगाउँमा लाग्छ । हरेक मलमासमा यहाँको मत्स्यनारायण मन्दिरमा वैशाख 2 गतेदेखि मेला सुरु हुन्छ । एक महिना भरी लाग्ने हुँदा यसलाई एक महिने मेला पनि भनिन्छ । काठमाडौं उपत्यका वरपरका ग्रामीण भेगका भक्तजनको बढी घुइँचो हुने गर्दछ । मेला व्यवस्थापनका लागि स्थानीय बासिन्दाको पहलमा मूल व्यवस्थापन समिति गठन भएको छ । समितिले बस स्टपदेखि मन्दिरसम्म जाने गोरेटो बाटो निर्माण गरेको छ । मन्दिरको दुवैतर्फ बस पार्किङको व्यवस्था मिलाईएको छ । पानी अभाव टा",
+    "पौराणिक कथनअनुसार भगवान विष्णुले मच्छेगाउँमा दस अवतारमध्ये पहिलो मत्स्य अवतार ग्रहण गरेको मान्यता छ । पौराणिक राजा सत्यव्रतले कुवा खनाएको र पछि भगवान विष्णुले त्यही कुवामा मत्स्यावतार धारण गरेको तथ्य विभिन्न पुराणमा उल्लेखित छ । गोपालवंशका पालामा मात्रै कुवाको अस्तित्व सार्वजनिक भएको र मन्दिर लिच्छविकालमा निर्माण भएको विश्वास गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 336,
+    "text_length_max": 589,
+    "text_length_avg": 462.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2493,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37633.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37633.txt",
+    "relative_path": "37633.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37633.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2493,
+    "mtime": 1782796571.3855412,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8cedb00af6656b4e432889fd15b8d99e7e1e7f7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

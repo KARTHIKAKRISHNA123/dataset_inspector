@@ -1,0 +1,123 @@
+{
+  "dataset": "other-00000-of-00001.parquet",
+  "file_name": "other-00000-of-00001.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "source",
+    "title",
+    "text",
+    "lang"
+  ],
+  "preview": [
+    "Two children were killed when an attacker opened fire through the windows of the city's Annunciation Church.",
+    "Lawyers for Dr Susan Monarez say she is being targeted for refusing \"to rubber-stamp unscientific, reckless directives\"."
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 161,
+    "text_length_avg": 115.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [
+      "other"
+    ],
+    "file_size_bytes": 2734,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "source",
+      "title",
+      "text",
+      "lang"
+    ],
+    "n_columns": 4,
+    "nested": false,
+    "text_column": "text",
+    "language_column": "lang",
+    "source_column": "source",
+    "target_column": null,
+    "metadata_columns": [
+      "title"
+    ],
+    "estimated_records": 5,
+    "raw_schema": {
+      "source": "str",
+      "title": "str",
+      "text": "str",
+      "lang": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.9,
+    "reasoning": "`lang` column holds 1 distinct language value(s): other; corroborated by 1 distinct script(s)",
+    "languages_seen": [
+      "other"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "columns": [
+      "source",
+      "title",
+      "text",
+      "lang"
+    ],
+    "n_columns": 4,
+    "num_rows": 5,
+    "num_row_groups": 1,
+    "arrow_schema": {
+      "source": "string",
+      "title": "string",
+      "text": "string",
+      "lang": "string"
+    }
+  },
+  "meta": {
+    "file_name": "other-00000-of-00001.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\other-00000-of-00001.parquet",
+    "relative_path": "other-00000-of-00001.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "other-00000-of-00001.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 2734,
+    "mtime": 1782736689.8780053,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "148da6fa2d25d47ec147379c5055e62c0f5e5293",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15205.txt",
+  "file_name": "15205.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देवी हिन्दू धर्ममा शक्तिकी स्वरूप हुन्।हिन्दू धर्ममा नारी रूपकी जुनसुकै देवतालाई देवी भनिन्छ। देवी नै देवताको स्त्रीलिङ्गी शब्द हो। भगवती, दुर्गा, चामुण्डा, काली, महाकाली, महालक्ष्मी, महासरस्वती, गौरी, कालरात्री, कुष्माण्डा, बाराही, आदि देवीका रूप हुन्।नवदुर्गा, सिंहवाहिनी, आदि रूपमा विभिन्न देवीहरू रहेका छन्। नेपाली गाउँघरमा विभिन्न देवीथान, देउराली, आदि रहेका छन्। ",
+    "इन्द्रायणी,कुमारीस्थान थापाथली,गढीमाई ,गुह्येश्वरी,चण्डेश्वरी,चामुण्डा,छिन्नमस्ता, जयवागेश्वरी,जालपादेवी,दक्षिणकाली दक्षिणकाली,दन्तकाली, नक्साल भगवती,नरदेवी,पञ्चकन्या, सिंहवाहिनी, गजुरमुखी, पलाञ्चोक भगवती,पाथीभरा, बज्रबाराही,बज्रयोगिनी,भद्रकाली,मैतीदेवी,विन्द्यबासिनी,शोभा भगवती,श्वेत बाराही,संकटा,"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 369,
+    "text_length_avg": 234.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1899,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15205.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15205.txt",
+    "relative_path": "15205.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15205.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1899,
+    "mtime": 1782796466.4503276,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "242589fd5718799eeb39da500c5c2e4169cf14d3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

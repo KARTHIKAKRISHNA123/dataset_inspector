@@ -1,0 +1,94 @@
+{
+  "dataset": "3765.txt",
+  "file_name": "3765.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेविड वुडार्ड एक अमेरिकी लेखक तथा संगीत निर्देशक हुन् । सन् 1990 ताका उनले \"prequiem\", preemptive र requiem शब्दहरुको सन्धिबाट बनेको शब्द प्रत्युत्पादन गरेका थिए, जसले उनको बौद्ध अभ्यास अनुसार मृत्युको बेला वा त्यो भन्दा केही अगाडी बजाउन तयार पारिने समर्पित संगीतलाई बुझाउँछ ।",
+    "सन् 2001मा हाल निष्कृय रहेको एन्जल्स फ्लाईट फनिक्युलर रेलवेमा दुर्घटनामा दिवंगत भएका लियोन प्रापोर्ट तथा उनका घाईते श्रीमती लोलाका सम्मानमा आयोजित नागरिक समारोह उनले संगीत निर्देशकका रुपमा काम गरेको लस एन्जलस मेमोरियल सर्भिसेजमा समावेश भएको छ ।:125 उनले समुद्री तटमा खसेर मरेको क्यालिफोर्नियाको खैरो पेलिकन लगायत अन्य वन्यजन्तुको सम्झनामा शोक गीतहरु प्रस्तुत गरेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 121,
+    "text_length_max": 709,
+    "text_length_avg": 443.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9826,
+      "Latin": 0.0174
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9310,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9826,
+      "Latin": 0.0174
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3765.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3765.txt",
+    "relative_path": "3765.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3765.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9310,
+    "mtime": 1782796571.4764838,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "db04689e4e8c7dcc2d32529cf79b04fc3767a2a1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

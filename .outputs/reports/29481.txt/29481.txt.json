@@ -1,0 +1,94 @@
+{
+  "dataset": "29481.txt",
+  "file_name": "29481.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अदुवा, वैज्ञानिक वर्गीकरणअनुसार जिन्जीविरेसी परिवारमा पर्ने प्रमखु बिरुवा हो। यसको प्रयोग साधारणत तरकारी, मसला र औषधिको रूपमा आउँछ। यसको गानो रेशादार हुन्छ। जति कम रेशा भयो अदुवा त्यति नै राम्रो मानिन्छ। नेपालमा सल्यानको अदुवा त्यस अर्थमा उत्कृष्ट मानिन्छ। ",
+    "अङ्ग्रेजी नाम ginger पाली भाषाको सिन्गिभेर बाट भएको विश्वास गरिन्छ। पालीभषाको सिन्गिभेरको अपभ्रंशबाट तामिल=> फारसी )=>फ्रेन्च=>अङ्ग्रेजी हुदै अहिलेको ginger हुनपुगेको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 985,
+    "text_length_avg": 254.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Latin": 0.0028
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13517,
+    "estimated_records": 53
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 53,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29481.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29481.txt",
+    "relative_path": "29481.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29481.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13517,
+    "mtime": 1782796533.2911108,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6b37fa2004ea2b8b3acc660b3471002f01c7d89e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "27055.txt",
+  "file_name": "27055.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेरा इस्माइल खान जिल्ला पाकिस्तानको खैबर पख्तुनख्वा प्रदेशमा रहेको एक प्रमुख जिल्ला हो । यो शहरको सदरमुकाम डेरा इस्माइल खान शहर हो । सन् 1998 को राष्ट्रिय जनगणना अनुसार यस जिल्लाको कुल जनसङ्ख्या 8529,95 रहेको छ भने यस जिल्लाले पाकिस्तानको कुल क्षेत्रफल 7,326 वर्ग किलोमिटर रहेको छ ।",
+    "डेरा इस्माइल खान जिल्ला चारै तिरबाट जिल्लाहरूले घेरेको छ जसमा पुर्वमा भक्कर र डेरा गाजी खान जिल्ला रहेको छन् । यस जिल्लाको पुर्वी भागमा सिन्धु नदि छ र छेउछाउका ठाउँहरू उब्जनी गर्न उपयुक्त छ । यस जिल्लाको उत्तरपश्चिममा टङ्क जिल्ला रहेको छ । डेरा इस्माइल खान जिल्लालाई पाकिस्तानको केन्द्र रुपमा रहेको छ किन भने यो दक्षिण पञ्जाब प्रदेशको भक्कर, उत्तर पञ्जाबको मिलवाली, बलुचिस्तानको झोब र दक्षिण वारिस्तानको बिचमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 282,
+    "text_length_max": 926,
+    "text_length_avg": 497.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5203,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27055.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27055.txt",
+    "relative_path": "27055.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27055.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5203,
+    "mtime": 1782796521.892091,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "550702c12382dd5b1b1e75dbf0540175eecc48e7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "10239.txt",
+  "file_name": "10239.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुलमान घिसिङ नेपाल विद्युत प्राधिकरणका प्रबन्ध निर्देशक हुन्।",
+    "रामेछापको दुर्गम गाउँ बेथान मा जन्मिएका कुलमानको प्राथमिक शिक्षा गाउँमै वित्यो। 5 कक्षा पास गरेपछि उनी दाइहरुसँग काठमाडौं आएपछि बालसेवा माध्यमिक विद्यालयमा र पछि अमरआस बोर्डिङ स्कुलमा पढे। अस्कल क्यापसबाट आईएस्सी गरेपछि उनी छात्रवृत्तिमा भारतमा जम्सेदपुरबाट सन् 1994 मा इलेक्ट्रीकल इन्जिनियरिङ् गरे। पुल्चोक क्याम्पसबाट पावर सिस्टम इन्जिनियरिङमा मास्टर्स गर्दा ‘इन्टिग्रेटेड रिसोर्स प्लानिङ विथ डिमाण्ड साइड म्यानेजमेन्ट’मा थेसिस गरेका उनले पोखरा विश्वविद्यालयबाट इएमबीए पनि गरेका छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 486,
+    "text_length_avg": 274.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3678,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10239.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10239.txt",
+    "relative_path": "10239.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10239.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3678,
+    "mtime": 1782796443.6406007,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "a181be356ce7a0ddc5f13df494d3b79bf943106c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

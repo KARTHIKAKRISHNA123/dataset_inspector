@@ -1,0 +1,91 @@
+{
+  "dataset": "35204.txt",
+  "file_name": "35204.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जर्ज हर्बर्ट वाकर बुश अमेरिकाको 41औँ राष्ट्रपति थिए जसले 1989 देखि 1993 सम्म राष्ट्रपतिको कार्यभार सम्हाले । राष्ट्रपति हुनु अघि उनले 1981 देखि 1989 सम्म अमेरिकाको 43 औ उपराष्ट्रपतिको जिम्मेव्वारी सम्हाले । रिपब्लिकन पार्टीका सदस्यको रुपमा उनले अमेरिका प्रतिनिधि सदस्य, राजदुत र केन्द्रिय गुप्तचरको निर्देशकको रुपमा काम गरेका थिए । उनका पुत्र जर्ज डब्लू बुस अमेरिकाका 43 औ राष्ट्रपति थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 390,
+    "text_length_max": 390,
+    "text_length_avg": 390.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1003,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35204.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35204.txt",
+    "relative_path": "35204.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35204.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1003,
+    "mtime": 1782796559.5861838,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "f11ea4842d6b4ad04a527fb3b5b2d846f3d28756",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

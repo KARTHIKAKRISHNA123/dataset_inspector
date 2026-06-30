@@ -1,0 +1,92 @@
+{
+  "dataset": "7250.txt",
+  "file_name": "7250.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महायान वर्तमान कालमा बौद्ध धर्म को दुई प्रमुख शाखाहरू मध्ये एक हो। अर्को शाखाको नाम थेरवाद हो। महायान बुद्ध धर्म नेपाल बाट आरम्भ भएर उत्तर तिर धेरै अरू एसियाली देश हरूमा फैलिएर गएको पाईन्छ, जस्तै भारत, चिन, तिब्बत, कोरिया, जापान, ताइवान, भूटान, मंगोलिया र सिंगापुर। महायान सम्प्रदायको अगाडि अरू उपशाखा हरू पनि छन्, मसलन ज़ेन/चान, पवित्र भूमि, तियानताई, निचिरेन, शिन्गोन, तेन्दाई तथा तिब्बती बौद्ध धर्म।",
+    "'थेरवाद' शब्द का अर्थ हो 'श्रेष्ठ पुरुषहरुको कुरा'। बौद्ध धर्मको यो शाखामा पाली भाषा मा लेखिएको प्राचीन त्रिपिटक धार्मिक ग्रन्थहरूका पालन गर्नुमा जोर दिने गर्दछन। थेरवाद बौद्ध अनुयायीहरूको अनुसार यसलाई बौद्ध धर्मको मूलरूपमा मानिन्छन। यिनीहरुको लागि गौतम बुद्ध एक महापुरुष जरूर हो तर कुनै देउता होइन। उनीहरू बुद्ध लाई पूजा गर्दैनन् र उनीहरूको धार्मिक समारोहमा पनि बुद्ध-पूजा हुँदैनन्। जहाँ महायान बौद्ध परम्परा हरूमा देवी देउता इत्यादि धेरै दिव्य-जीवको मान्ने गर्दछन तर थेरवाद बौद्ध परम्परामा यस्तो कु"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 2208,
+    "text_length_avg": 318.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7675,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7250.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7250.txt",
+    "relative_path": "7250.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7250.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7675,
+    "mtime": 1782796593.6095557,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "89abd8e57c97629e864a36fafa4814585da52f5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

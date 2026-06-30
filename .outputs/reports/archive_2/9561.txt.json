@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9561.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वन हेल्सिंग 2004मा बनी अमेरिकी भुतहा-एक्शन फिल्म छ जसको निर्देशन स्टीफन सोमर्स द्वारा गरिएको छ। यसमा ह्यू जैकमैन एक शैतानको शिकार गर्ने शिकारी गैब्रियल वैन हेल्सिंगको भूमिकामा केट बेकिंसेलका साथ छ।",
+    "फिल्मको शीर्ष किरदार अब्राहम वैन हेल्सिंगका पात्रदेखि प्रेरित छ जो आयरिश लेखक ब्राम स्टोकरका उपन्यास ड्रैकुलादेखि छ। फिल्मको वितरण यूनिवर्सल पिक्चर्स द्वारा गरिएको थियो र यसमा धेरै दानव अनि शैतान जस्तै काउंट ड्रैकुला, फ्रैन्कहरुस्टाइनको दानव र भेडियामानव सामेल छ। समीक्षकहरु द्वारा नकारात्मक समीक्षाका बावजूद फिल्म एक बक्स-अफिस हीट साबित भएको र यसलाई $160 मिलियनका बजटदेखि $300 मिलियनको व्यवसाय गरे।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 1110,
+    "text_length_avg": 472.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10116,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9561.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9561.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9561.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10116,
+    "mtime": 1782796674.8561935,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bbac77bb063d61308cef84d101d696f725b3989e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

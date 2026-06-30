@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3096.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रानी भिक्टोरिया  बेलायती साम्राज्ञी थिइन्। उनले 20 June 1837 देखि 1901 सम्म बेलायती साम्राज्यको शासन चलाईन्।",
+    "भिक्टोरियाको जन्म सन्‌ 1819को मे महिनामा भएको थियो। आठ महिनाको उमेरमा उनको पिताको देहान्त भयो। भिक्टोरियाको मामाले उनको शिक्षा-दीक्षाको कार्य सम्हाले। उनि स्वयं पनि योग्य र अनुभवी व्यक्ति थिइन्। साथ नै उनि पुरानो सभ्यताको पक्षपाती थिइन्। भिक्टोरियालाईको कुनै पनि पुरुष सँग एकान्तमा भेट्न दिइएको थिएन। यहाँ सम्म कि बयस्क नौकर-चाकर पनि उनको नजीकै आउन पाउँदैनथे।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 1303,
+    "text_length_avg": 513.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9748,
+      "Latin": 0.0252
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9332,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9748,
+      "Latin": 0.0252
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3096.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3096.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3096.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9332,
+    "mtime": 1782796647.9871376,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "72368d6218150f8cfcafca742332af2eaab40861",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

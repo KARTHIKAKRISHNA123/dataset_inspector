@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8671.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Tantalus leucocephalusIbis leucocephalusPseudotantalus leucocephalus",
+    "लालटाउके गरुड पानी वा हिलोमा हिड्न सक्ने गरुड प्रजातिको एक चरा हो। यो चरा दक्षिण एसियाको उष्णदेशीय समथल सिमसार क्षेत्र देखि भारतीय उपमहाद्वीप र दक्षिण पूर्वी एसियासम्ममा पाइन्छ। यसको प्वाँख पियाजी रातो भएकाले यसको नाम लालटाउके गरुड राखिएको थियो। यसले आफ्नो आहारा छिपछिपे पानी, नदी र तालको वरिपरि सङ्कलन गर्ने गर्दछ। यसले आफ्नो चुच्चे पानीको मुनि लान्छ र माछा वा अन्य साना पानीमा बस्ने प्रजातिहरूले यसको चुच्चोमा ठोकिनसाथ यसले उक्त आहारा पकड्ने गर्दछ। यसले पानी वा हिले ठाउँमा हिड्दै लुकेका माछाहरूलाई"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 783,
+    "text_length_avg": 453.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9713,
+      "Latin": 0.0287
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7119,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9713,
+      "Latin": 0.0287
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8671.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8671.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8671.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7119,
+    "mtime": 1782796673.0203106,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7c6be6f344690f2de4bae6530d379ded37b1295a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

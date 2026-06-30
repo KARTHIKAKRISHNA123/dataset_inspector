@@ -1,0 +1,92 @@
+{
+  "dataset": "10565.txt",
+  "file_name": "10565.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोमिल्ला चिटागोंग प्रदेशको एक प्रमुख शहर हो । यो शहर ढाका-चिटागोंग राजमार्गमा पर्छ कोमिल्ला चिटागोंग पछि पूर्वी बङ्गलादेशको दोस्रो सबैभन्दा ठूलो शहर र बङ्गलादेश तेस्रो सबै भन्दा पुरानो शहर हो ।",
+    "कोमिल्ला क्षेत्र एक पटक पुरातात्विक प्राचीन अवस्थामा त्रिपुरा राज्य संग सामेल भएको थियो । यो जिल्ला नौं शताब्दी मा हरिकोलाका राजाहरूको शासनमा अाएको थियो । दिबावंशकी महारानी लालमाई मिनामतीले अाठौँ शताब्दी एस शहरमा शासन चलाएकी थिईन । 1732 मा यो शहर मानिक्या को बङ्गाल-समर्थित डोमेन को केन्द्र बन्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 171,
+    "text_length_max": 315,
+    "text_length_avg": 240.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5069,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10565.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10565.txt",
+    "relative_path": "10565.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10565.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5069,
+    "mtime": 1782796445.2940896,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4a80bdc0e22bf7872902d17e6e415ec9916de899",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

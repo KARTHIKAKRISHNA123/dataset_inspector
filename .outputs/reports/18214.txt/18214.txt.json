@@ -1,0 +1,92 @@
+{
+  "dataset": "18214.txt",
+  "file_name": "18214.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त राष्ट्र सचिवालय संयुक्त राष्ट्रको एक मुख्य अंग हो जो संयुक्त राष्ट्र महासचिव द्वारा नेतृत्व गरिन्छ। संयुक्त राष्ट्रका बाकी अंगहरूको लागि आवश्यक जानकारी र सुविधा सचिवालयद्वारा प्राप्त हुन्छ। संयुक्त राष्ट्र अधिकारपत्रको अनुरूप, महासचिव आफ्नो सहायताको लागि दक्ष, योग्य, र सत्यनिष्ठ कर्मचारीहरूको अन्तरराष्ट्रिय समूह स्वयं चुन्छन्।",
+    "महासचिवका कर्तव्य अन्तरराष्ट्रिय संघर्षलाई सुलझाउनु, शांतिरक्षा कार्यहरूको प्रबंध गर्नु, अन्तरराष्ट्रिय सम्मेलन आयोजित गर्नु, सुरक्षा परिषद प्रस्तावहरूको कार्यान्वयन जांच्नु, र सदस्य सरकारसित बातचीत गर्नु हुन् । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 212,
+    "text_length_max": 336,
+    "text_length_avg": 266.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2164,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18214.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18214.txt",
+    "relative_path": "18214.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18214.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2164,
+    "mtime": 1782796481.0297594,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bbefe73c7b43f373bd93dcd2bd02f0f945115bac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

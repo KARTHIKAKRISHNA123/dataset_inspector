@@ -1,0 +1,94 @@
+{
+  "dataset": "16645.txt",
+  "file_name": "16645.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Tigris striatus Severtzov, 1858",
+    "सिंह एउटा जंगली र हिंस्रक पशु हो।यसलाई जङ्गलको राजा पनि भनिन्छ । जंगली यो सिंह ठुला ठुला देबी -देवताको युद्द बहान पनि मानिन्छ । सिंह शब्द जंगलको सिंह संग मात्र सम्बन्धित नभएर मान्छेको थर संग पनि सम्बन्धित छ । नेपाल र भारतमा सिंह थर लेख्ने मान्छे हरु भेटिन्छन । सिंह थर लेख्ने राजपुत, वैश्य र दलित हरु पनि भेटिन्छन । नेपालको दार्चुला को मार्मा गर्खा ,बझांग, बाजुरा,डोटी मा कश्यप र कौशिक गोत्रका सिंह राजपुत हरु छन् । रोल्पाको गजुल ,खुन्ग्री डोटी को अलाड़ क्षेत्रमा शौनक गोत्रका सिंह राजपुत/ठकुरी छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 685,
+    "text_length_avg": 358.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9601,
+      "Latin": 0.0399
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1827,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9601,
+      "Latin": 0.0399
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16645.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16645.txt",
+    "relative_path": "16645.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16645.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1827,
+    "mtime": 1782796473.2614138,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "0f1d3ee2bcfa470615117f56aa134ecf7e2655f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

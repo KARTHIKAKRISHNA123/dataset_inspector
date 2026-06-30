@@ -1,0 +1,91 @@
+{
+  "dataset": "20156.txt",
+  "file_name": "20156.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौ उपत्यका सडक यातायातले जोडिनु भन्दा पहिले उपत्यका छिर्न र बाहिरिन चार दिशामा रहेको चार वटा भञ्ज्याङलाई चार भञ्ज्याङ भनिन्छ| त्यो मध्ये पश्चिमको थान्कोट र पूर्वको साङ्गा बढि प्रचलित र सुरक्षाको दृष्टिकोणले महत्वपूर्ण मानिन्थ्यो |उपत्यकाको उत्तर तर्फको पांचमाने भाज्यांङ र दक्षिणको फर्पिङ भञ्ज्याङ कम चल्ती का थिए|"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 319,
+    "text_length_max": 319,
+    "text_length_avg": 319.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 862,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20156.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20156.txt",
+    "relative_path": "20156.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20156.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 862,
+    "mtime": 1782796490.3739724,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e25b84a46d466a64234ad44a0bf55d858c28195d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26495.txt",
+  "file_name": "26495.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महबुब आलम नेपाली क्रिकेट खेलाडी हुन् । उनी बायाँ हाते ब्याट्सम्यान तथा बायाँ हाते मध्यम तेज गतिका बलर हुन् । उनि सन् 2000 देखि नेपाली राष्ट्रिय क्रिकेट टिममा खेल्दै आएका छन् । उहाँले अन्तर्राष्ट्रिय खेलको सुरुवात जापान विरुद्ध सन् 2000 नोवेम्बेर मा गरेका थिए। ",
+    "उनको जन्म 31 अगस्त 1981 राजविराज नगरपालिका मा भएको हो । मेहबुबले सर्वप्रथम नेपाल बाट खेल्ने मौका सन् 2000 मा श्रीलङ्कामा भएको अन्डर 19 विश्वकपमा पाएका थिए । त्यसलगत्तै उनले नेपाली राष्ट्रिय क्रिकेट टिम मा पनि स्थान पक्का गरेका थिए । उनले राष्ट्रिय क्रिकेट टोलीबाट युएई मा भएको एसिसि ट्रफी त्यसै बर्ष खेलेका थिए । ओंटेरियोमा भएको सन् 2001 को एसिसि ट्रफीको 3 म्याच उनले खेलेका थिए । सन् 2002 मा सिंगापुरमा भएको एसिसि ट्रफीमा उनले उत्कृष्ट प्रदर्शन गर्दै नेपाललाई फाइनल सम्म पुर्याएका थिए । युएई र मलेसि"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 260,
+    "text_length_max": 596,
+    "text_length_avg": 428.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2210,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26495.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26495.txt",
+    "relative_path": "26495.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26495.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2210,
+    "mtime": 1782796519.379403,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "70979e16b9002736c90e01945ed39a3dece0c2c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

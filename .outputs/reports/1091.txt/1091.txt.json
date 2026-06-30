@@ -1,0 +1,92 @@
+{
+  "dataset": "1091.txt",
+  "file_name": "1091.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2014 फिफा विश्वकप 20 औ फिफा विश्वकप हो जो कि एउटा अन्तर्राष्ट्रिय पुरुष फुटबल प्रतियोगिता हो । यो फुटबल विश्वकप ब्राजिलमा 12 जुन देखि 13 जुलाई 2014 को बीच संचालन हुनेछ । ब्राजिलले यो भन्दा पहिला सन् 1950 मा विश्वकपको आयोजन गरिसकेको छ । ब्राजिलले यस पल्टको विश्वकप फुटबलको आयोजन बिना कुनै रोकावट प्राप्त गरेको छ, फिफाको तर्फबाट सन् 2007 मा आधिकारिक रुपमा सन् 2014 को विश्वकप फुटबल दक्षिण अमेरिकामा नै हुने घोषणा भएको थियो । दक्षिण अमेरिकामा यो भन्दा बिगतमा विश्वकप फुटबल अर्जेन्टिनामा सन् 1978 मा भएको",
+    "31 वटा देशको राष्ट्रिय फुटबल टिमले विश्वकप फुटबलमा छनौटको लागि जुन 2011 देखि प्रतिस्पर्धा थालेको थियो । संचालक राष्ट्र भएको हुँदा ब्राजिल स्वत: छनौट भएको थियो । विश्वकप फुटबल अन्तर्गत जम्मा 64 वटा म्याच संचालित हुनेछ जसमा ब्राजिलको 12 वटा शहरको 12 वटा स्टेडियम सामेल हुनेछ । यस विश्वकपमा पहिलो चोटी गोल लाईन प्रविधि को प्रयोग गरियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 535,
+    "text_length_avg": 144.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8553,
+    "estimated_records": 59
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 59,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1091.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1091.txt",
+    "relative_path": "1091.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1091.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8553,
+    "mtime": 1782796446.9295907,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4816822de987aaf1cb43b924e45ba1fa2810178e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

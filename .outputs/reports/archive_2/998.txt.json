@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "998.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्र सिंह धोनी को जन्म 7 जुलाई 1981 मा भएको हो । उनि भारतिय राष्ट्रिय क्रिकेट टिम तथा चेन्नई सुपर किङ्गसका कप्तान हुन् । उनि ले अहिले सम्म क्रिकेटका सबै रास्ट्रीय खेलहरु जितेका छन् | महेंद्र सिंह धोनी एस्तो कप्तान हो,जले आईसीसी को तिनोटा बड़ी ट्रॉफ़ी मा कब्ज़ा गरेको छ। धोनी को कप्तानी ले भारतलाई आईसीसी को वर्ल्ड-टीट्वेन्टी, क्रिकेट वर्ल्ड कप र आईसीसी चैंपियंस ट्रॉफ़ी  जीतका छन् ।",
+    "धोनीको जन्म राँँची, बिहार मा भएको हो । उनी आफूलाई हिन्दू राजपूत मान्छन् । उनको पैतृक ल्वाली गाउँ उत्तराखण्डको अल्मोडा जिल्लाको लाम्गढामा पर्छ । धोनीको असली थर धौनी हो र यस थर उत्तराखण्डको खस राजपूत समुदायमा पर्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 214,
+    "text_length_max": 386,
+    "text_length_avg": 300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1570,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "998.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\998.txt",
+    "relative_path": "archive (2)\\valid\\valid\\998.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1570,
+    "mtime": 1782796675.7484317,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0ebf86b0de145afa18dc026ea4832b4787ae1019",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

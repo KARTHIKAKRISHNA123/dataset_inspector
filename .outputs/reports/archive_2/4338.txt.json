@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4338.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खरी बाख्रा समुद्र सतहबाट 700 देखि 7000 फिट सम्म नेपाली भूभागको रैथाने प्रजाति हो जुन केही अघिसम्म धेरै पालिने बाख्रामा पर्थ्यो । खरीका विभिन्न सात रंगमध्ये कालो र खैरोलाई बढी तिक्खर मानिन्छ। मासु पर्ने कुरामा पनि खरी अरू प्रजातिभन्दा पछाडि छैन। खरी बाख्रा 18 महिनामा 40–45 किलोको हुन्छ।खरी बाख्रा 16 महीनापछि हरेक दुई वर्षमा तीन पटक बियाउँछ। हरेक बेतमा कम्तीमा दुइटा पाठापाठी जन्माउँछ। अरू जातको बाख्रामा नपाइने खरीको विशेषता के पनि हो भने पाठापाठी हुर्काउन यसको माउ बढी दत्तचित्त हुन्छे। रैथाने भएको",
+    "खरी"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 707,
+    "text_length_avg": 355.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1876,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4338.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4338.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4338.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1876,
+    "mtime": 1782796664.3698251,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d6738414a6482ae8232143fc19dca466abea4b17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

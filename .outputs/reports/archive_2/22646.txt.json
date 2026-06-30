@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22646.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मंगल पांडे, सन 1857 का प्रथम भारतीय स्वतन्त्रता संग्रामका अग्रदूत थिए।",
+    "उनको जन्म 19 जुलाई 1827 मा उत्तर प्रदेशको फैजाबाद जिल्लाको दुगवा रहीमपुर गाँवमा भएको थियो। उनी, कोलकाताको छेउ बैरकपुरको सैनिक छावनी मा 34 औं बङ्गाल नेटिव इन्फैंट्रीका एक सिपाही थिए। भारतको स्वतत्रताको पहिलो लडाई अर्थात 1857 को विद्रोहको शुरुवात उनकै विद्रोहबाट भएको थियो। 29 मार्च सन 1857 कादिन उनले अंग्रेज अफसरहरुमाथि आक्रमण गरे। उनले आफ्ना अन्य साथीहरुसित उनलाई सघाउने आह्वान गरे। तर उनीहरुले उनको साथ दिएनन् र उनलाई पक्रा गरियो। उनलाई मुद्दालगाएर 6 अप्रिलको दिन मृत्यु दण्ड सुनाइयो। 18 अप्रिलको द"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 678,
+    "text_length_avg": 202.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2636,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22646.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22646.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22646.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2636,
+    "mtime": 1782796631.5832572,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fabb05e2d02671905838e90f3011d3667234929c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

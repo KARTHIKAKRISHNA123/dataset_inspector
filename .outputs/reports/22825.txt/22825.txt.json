@@ -1,0 +1,94 @@
+{
+  "dataset": "22825.txt",
+  "file_name": "22825.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'रकेट महोत्सव'  बूनबङफाई परम्परा थाईको इसन क्षेत्र र लाओका बसिन्दाहरुले युगौ युग देखी मनाउदै आएको परम्परा हो यो महतोसब मा युबतीहरुको नाचगन, पुरुषहरु बाजागजा बजाउदै धुमधामका साथ-साथै अन्तिममा रकेट उडाउने कार्य गरि खुशीयली मनाउने चलनलाई बूनबङफाई वा रकेट महोत्सव भनिन्छ वा मनाइन्छ । सामान्यतया प्रारम्भिक संगीत र नृत्य प्रदर्शन समावेश गरिछ ।",
+    "Yasotho"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 338,
+    "text_length_avg": 75.8,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8812,
+      "Latin": 0.1187
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 948,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8812,
+      "Latin": 0.1187
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22825.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22825.txt",
+    "relative_path": "22825.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22825.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 948,
+    "mtime": 1782796502.4384596,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "84655e9101f460bb2c0535ac736e9233ae86295f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

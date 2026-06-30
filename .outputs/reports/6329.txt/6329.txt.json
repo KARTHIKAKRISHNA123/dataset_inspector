@@ -1,0 +1,91 @@
+{
+  "dataset": "6329.txt",
+  "file_name": "6329.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोबी मरुभूमि, चीनले कब्जा गरेको तिब्बत क्षेत्र र मङ्गोलियामा स्थित छ। यो विश्वका ठुला मरुभूमि मद्धे एक हो। गोबी दुनियाको चिसो मरुभूमि मद्धे एक हो, यसको तापक्रम शून्यदेखि चालीस डिग्री मुनि सम्म पुग्छ। यो मरुभूमि एसियामा मङ्गोलियाको धेरै ठाउमा फैलिएको छ। 'गोबी' एक मङ्गोलियन शब्द हो, जसको अर्थ पनि नभएको क्षेत्र हो। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 314,
+    "text_length_avg": 314.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 830,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6329.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6329.txt",
+    "relative_path": "6329.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6329.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 830,
+    "mtime": 1782796589.263235,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3a8188c4861ce13d8fe11a92ae53cb59d0b858a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

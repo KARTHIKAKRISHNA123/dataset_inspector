@@ -1,0 +1,94 @@
+{
+  "dataset": "33057.txt",
+  "file_name": "33057.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1999 क्रिकेट विश्वकप 7 औ विश्वकप क्रिकेट प्रतियोगिता हो जुन मुख्यत: इङ्ल्याण्डमा र केही खेलहरू अन्य आयोजक राष्ट्र हरू आयरल्यान्ड, नेदरल्यान्ड, स्कटल्याण्ड र वेल्समा संचालन गरिएको थियोे । यो विश्कपको उपाधि  अस्ट्रेलियाले पाकिस्तान लाई 8 विकेटले हराउँदै जित्यो । न्युजिल्यान्ड र दक्षिण अफ्रिका सेमिफाइनल सम्म पुगेका थिए ।",
+    "यो प्रतियोगिता सहभागी 12 राष्ट्रहरूलाई 2 ग्रुपमा बिभाजन गरि खेलाइएको थियो । लिग चरणमा प्रत्येक टिमले एकआपसमा प्रतिस्पर्धा गरेका थिए । प्रत्येक ग्रुपका शिर्ष 3 टिमले सुपर सिक्समा स्थान बनएका थिए ।यो 1999 को बिश्वकपको नयाँ अवधारणा थियो । सुपर सिक्समा ग्रुप A को प्रत्येक टिमले ग्रुप B को प्रत्येक टिमसग प्रतिस्पर्धा गरेका थिए । सुपर सिक्सबाट शिर्ष चार टिम सेमिफाइनलमा पुगेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 133,
+    "text_length_max": 378,
+    "text_length_avg": 250.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9827,
+      "Latin": 0.0173
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2607,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9827,
+      "Latin": 0.0173
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33057.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33057.txt",
+    "relative_path": "33057.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33057.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2607,
+    "mtime": 1782796549.8777997,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "3ec051b65b541d29eeff05ffbdcb6a65cb586812",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

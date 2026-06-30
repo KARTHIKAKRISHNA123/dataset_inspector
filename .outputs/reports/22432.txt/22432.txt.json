@@ -1,0 +1,92 @@
+{
+  "dataset": "22432.txt",
+  "file_name": "22432.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बहादुर शाह पश्चात् निर्वासनबाट फर्केर नेपाल एकीकरण अभियानमा योगदान दिए।",
+    "राजकुमार बहादुर शाहले रण बहादुरको नायवी ग्रहण गर्दै नेपालको एकिकरण अगाडि बढाए। राजकुमार बहादुर शाहले पश्चिम नेपालको शक्तिशाली पाल्पा राज्यका राजाकी बहिनी सँग वैवाहिक संबन्ध बनाइ पश्चिम पर्वत देखि गुल्मी, अर्घा, खांची, रूकुम प्युठान, सल्यान, जाजरकोट, दैलेख, दुल्लु, जुम्ला, डोटी, अछाम, बझाङ, हुदै कुमाउ गढवाल हुदै सतलज नदी पारी गोरखाली पुगेका थिए। नेपाल एकिकरणको अभियानमा बहादुर शाहको नेतृत्वकाललाई स्वर्ण काल मानिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 576,
+    "text_length_avg": 279.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4434,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22432.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22432.txt",
+    "relative_path": "22432.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22432.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4434,
+    "mtime": 1782796500.800624,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "95e01a2aa69a9e24f1a6914dee51873a27209c59",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "33492.txt",
+  "file_name": "33492.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैद्यनाथधाम अछाम जिल्लाको साँफेबगर नजिक बुढीगंगाको किनारामा अवस्थित छ।यो अछाम जिल्लाको एक प्रसिद्ध र पवित्र स्थान मानिन्छ।यसलाई स्थानिय भाषामा वैजिनाथ भन्ने गरिन्छ।",
+    "अछामको साँफेबगरमा रहेको वैद्यनाथधाम पौराणिक भनाई अनुसार भगवान शिवले वैद्यको ज्ञान आर्जन गरेको स्थान मानिन्छ। वैद्यनाथधामलाई आर्यवर्तका पवित्र चार धाम मध्यको एक पवित्र स्थान मानिन्छ।भगवान शिव र देवी पार्वती को विवाह यसै क्षेत्रमा भएको मानिन्छ। वैद्यनाथधाममा महाशिवरात्रीमा ठुलो मेला लाग्ने गर्दछ।जुन मेला भर्नको लागि नेपाल र भारतका विभिन्न भू-भागबाट भक्तजनहरू आउने गर्छन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 370,
+    "text_length_avg": 267.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1462,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33492.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33492.txt",
+    "relative_path": "33492.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33492.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1462,
+    "mtime": 1782796551.8503249,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7b539e6069e5c1f092d8b0f2db8cec9c4341589f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

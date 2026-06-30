@@ -1,0 +1,94 @@
+{
+  "dataset": "18323.txt",
+  "file_name": "18323.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कास्की जिल्लाअन्तर्गत उत्तरपूर्वी क्षेत्र कालिका गाविसअन्तर्गत पर्ने रमणीय स्थल हो। यसको निकटमा कास्कीका 'राखी गाविस' र 'भिजुरे गाविस' रहेको छ|",
+    "'लेखनाथ नगरपालिका, अर्घौंपौवा' बजारबाट उत्तरतर्फ करिब तीन-चारघण्टाको दूरीमा यो ठाउँ रहेको छ। करिब दुई हजार मि.को उचाइमा रहेको यस ठाउँबाट दक्षिणभेकमा पोखरा बजार, सात तालहरू र विशाल उर्वर समतल भूमिलगायत देख्न सकिन्छ। अनि उत्तरतर्फ धौलागिरि, माछापुच्छे्र, अन्नपूर्णलगायत हिमशृङ्खलाको लहर देखापर्छ।बिहान-बेलुकाको रमणीय दृश्यावलोकनमा सूर्‍योदय र सूर्यास्तको दृश्यले जो कोहीलाई पनि यसले निकै लोभ्याउने काम गरिरहेको अनुभूत हुन्छ।स्वयं कविशिरोमणि लेखनाथ पौड्यालको बाल्यकालताक नै पनि यस भेकमा यो निकै नाम चलेक"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 950,
+    "text_length_avg": 403.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9716,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18323.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18323.txt",
+    "relative_path": "18323.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18323.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9716,
+    "mtime": 1782796481.5519729,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b29f342795d53190fc7e2f4cec09d640fdd10445",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

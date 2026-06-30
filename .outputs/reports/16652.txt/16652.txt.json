@@ -1,0 +1,91 @@
+{
+  "dataset": "16652.txt",
+  "file_name": "16652.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुहम्मद युनूस बाङ्गलादेशका ख्यातिप्राप्त अर्थशास्त्री, बैंकर तथा नागरिक समाजका अगुवा हुन् । उनलाई सन् 2006 मा नोबेल शान्ति पुरस्कारद्वारा सम्मानित गरिएको थियो । बङ्गलादेशमा ग्रामिण बैंक तथा लघुवित्त स्थापना गरी ग्रामिण क्षेत्रमा उल्लेखनीय आर्थिक सुधार गरेबापत त्यहाँको ग्रामिण बैंक तथा युनूसलाई संयुक्त रुपमा सो पुरस्कार प्रदान गरिएको हो । विश्वमा शान्ति स्थापनाका निम्ति गरिबीलाई चिर्नु आवश्यक छ भन्ने निष्कर्षका साथ नर्वेको नोबेल कमिटीले डा. युनूस तथा उनले स्थापना गरेको ग्रामिण बैंकलाई नोबेल पुरस्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 891,
+    "text_length_max": 891,
+    "text_length_avg": 891.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2368,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16652.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16652.txt",
+    "relative_path": "16652.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16652.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2368,
+    "mtime": 1782796473.3078098,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "0b831bfa15e0402e42b3cc7cab941b0b70ff37bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

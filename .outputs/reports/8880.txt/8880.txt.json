@@ -1,0 +1,92 @@
+{
+  "dataset": "8880.txt",
+  "file_name": "8880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 51°48′46″उत्तर 2°43′01″पश्चिम / 51.812688° उत्तर 2.716828° पश्चिम / 51.812688; -2.716828",
+    "मनमाउथ रेजिमाटल संग्रहालय  कासल हिल, मनमाउथ, मनमाउथशायर, वेल्समा स्थित एक सैन्य संग्रहालय छ। संग्रहालय ग्रेट कासल हाउसको एक शाखा छ, जो ग्रेड प्रथम इमारत हुनको साथ-साथ मनमाउथ हेरिटेज ट्रेलका चौबीस स्थलहरु मध्येको एक पनि छ। संग्रहालयमा प्रदर्शित वस्तुहरु सबैभन्दा अधिक ब्रिटिश प्रादेशिक सेनामा सबैभन्दा वरिष्ठ रेजिमाट रॉयल मनमाउथशायर रॉयल इंजीनियर्स मा केन्द्रित छन्। ग्रेट कासल हाउस रॉयल मनमाउथशायर रॉयल इंजीनियर्सको कार्यालय छ र संग्रहालय रेजिमाटका अभिलेखागारको कार्य गर्दछ। संग्रहालय 1989मा राजकुमार"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 1312,
+    "text_length_avg": 739.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17692,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8880.txt",
+    "relative_path": "8880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8880.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17692,
+    "mtime": 1782796601.4921951,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "fb20bc5c119154269ff74a7de3e5a933fc29f1de",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

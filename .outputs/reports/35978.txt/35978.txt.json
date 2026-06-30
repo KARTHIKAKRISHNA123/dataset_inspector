@@ -1,0 +1,92 @@
+{
+  "dataset": "35978.txt",
+  "file_name": "35978.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पात्रो वा क्यालेण्डर एक प्रणाली हो जो समयलाई व्यवस्थित गर्नका लागि प्रयोग गरिन्छ। क्यालेण्डरको प्रयोग सामाजिक, धार्मिक, वाणिज्यिक, प्रशासनिक वा अन्य कार्यहरुका लागि गर्न सकिन्छ। यो कार्य दिन, सप्ताह, मास, वा वर्ष आदि समयावधिहरुलाई केही नाम दिएर गरिन्छ। प्रत्येक दिनलाई जो नाम दिइन्छ त्यो \"तिथि\" कहलाउँछ। प्राय: मास र वर्ष कुनै खगोलीय घटनादेखि सम्बन्धित हुन्छन् किन्तु यो सबै क्यालेण्डरहरुका लागि जरूरी छैन। अनेक सभ्यताहरु र समाजहरुले आफ्नो प्रयोगका लागि कुनै न कुनै क्यालेण्डर निर्मित गरे थिए जो प्रा",
+    "क्यालेण्डर एक भौतिक वस्तु पनि हो। क्यालेण्डर शब्द बहुधा यसै अर्थमा प्रयुक्त हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 82,
+    "text_length_max": 546,
+    "text_length_avg": 314.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1674,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35978.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35978.txt",
+    "relative_path": "35978.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35978.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1674,
+    "mtime": 1782796563.2435987,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "22e6068afbee5a4d4a7e471f2e36f6b7941a498f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

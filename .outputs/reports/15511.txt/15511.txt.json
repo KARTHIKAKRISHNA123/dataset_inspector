@@ -1,0 +1,91 @@
+{
+  "dataset": "15511.txt",
+  "file_name": "15511.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्वाँटी नेपालीको विभिन्न चाडपर्वमध्ये एक हो जनैपूर्णिमा । परापूर्वकालदेखि नै जनैपूर्णिमाका दिन क्वाँटी खाने प्रचलन छ । \"क्वाँटि\" शब्द नेपालभाषाको \"क्वाति\" शब्दबाट बनेको हो, जस अनुसार \"क्वा\" को अर्थ तातो र \"ति\" को अर्थ झोल वा सुप अर्थ लाग्ने भएकोले \"क्वाति\" वा \"क्वाँटि\" को अर्थ तातो सुप भन्ने बुझिन्छ । जनै पुर्णिमाको समयमा अधिकांसको घरमा गेडागुडीको परिकार क्वाँटी खाने चलन छ । चना, मस्याङ, मुगी, बोडी, मास, भटमास, ठूलो सिमी, ठूलो केराउ, सानो केराउ मिसाएर खानेचलन छ । यस्ता गेडागुडीको मिश्रण खानु अघि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 2080,
+    "text_length_max": 2080,
+    "text_length_avg": 2080.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5517,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15511.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15511.txt",
+    "relative_path": "15511.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15511.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5517,
+    "mtime": 1782796467.9402375,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "39ddf9d48dd7ffc33bc967e652476b6683933d4f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

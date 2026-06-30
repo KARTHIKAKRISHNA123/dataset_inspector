@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21506.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चितवनिक्सका विशेषताहरु→ चितवनिक्स लिनक्समा अाधारित नेपाली युवाहरुद्वारा नेपालमै निर्मित अपरेटिङ्ग सिस्टम सफ्टवेयर हो। यो सफ्टवेयर विनडोज र म्याक जसरीनै कम्प्यूटरमा राखेर सबै काम गर्न सकिन्छ।→ स्वतन्त्र सफ्टवेयरको सिद्धान्तमा अाधारीत भएर निर्माण गरिएको हुनाले यो प्रयोग गर्दा लाईसन्स खरिद र एक्टिवेसन वा क्रयाक गर्नु पर्दैन। → यसको स्रोत कोडहरु पठन-पाठन र परिवर्तनका निम्ति उपलब्ध छन्। → यस सफ्टवेयर संगै 40000 बढी विविध विधाका दैनिक जिवनमा प्रयोगहुने सफ्टवेयरहरु निशुल्क डाउनलोड गरी प्रयोग गर्न सकिन्",
+    "तपाईसंग चितवनिक्सको बुटएवल डिभिडि हुनुपर्दछ।छैन भने www.chitwanix.com/download बाट chitwanix.iso फाईललाई डाउनलोड गरी नयाँ डिभिडिमा बनाउनुहोस्। अब ईनस्टल गर्न खोज्नुभएको कम्प्यूटरमा चितवनिक्सको बुटएवल डिभिडि लोड गर्नुहोस् र कम्प्यूटर रिस्टार्ट गरी बुटमेनुमा पुग्न F12 अठ्ठयाई रहनुहोस्। बुटमेनुमा डिभिडि सेलेक्ट गर्नुहोस्।स्क्रिनमा देखाए झैं \"Start Chitwanix OS” चयन गर्नुहोस्।"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 866,
+    "text_length_avg": 189.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9147,
+      "Latin": 0.0853
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12571,
+    "estimated_records": 66
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 66,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.934,
+      "Latin": 0.066
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21506.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21506.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21506.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12571,
+    "mtime": 1782796629.2435277,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "eeb7a69c9ec3ab57d578b38d909347ed86e7aebd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20040.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केवलपुरे किसान का उपनामले प्रसिद्द, धादिङ जिल्लाको केवलपुर गा. बि. स.मा जन्मिएका नेपाली साहित्यकार देवीप्रसाद पौडल |",
+    "विद्यादेवी र हरिप्रसाद पौडेलबाट धादिङको केवलपुरमा जन्मिएका देवीप्रसाद पौडेल 2016 सालपछि केवलपुरे किसानका रूपमा नेपाली लोक साहित्यमा छाएका हुन्। उनको पहिलो रचना 2005 सालमा लक्ष्मीप्रसाद देवकोटाद्वारा सम्पादित युगवाणीमा छापिएको थियो। त्यसपछि बाघ आयो, नेपाल नछो!, समातेर पछार, छिःछिः, सङ्घर्षको ठीक गर, शङ्कैशङ्का, बोकी खस्यो लगायतका गीत र कविता सङ्ग्रह प्रकाशित भए। आफ्नो चिनारी आफ्नै शब्दमा, 2016 पछिका रचनाहरू र केवलपुरको आन्द्रा भुँडी का साथै जीवनसँगिनी सावित्रीलाई गुमाएपछि आँसुको पोखरी शोककाव्य पन"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 116,
+    "text_length_max": 742,
+    "text_length_avg": 428.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4560,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20040.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20040.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20040.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4560,
+    "mtime": 1782796626.5300777,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ed2468330e386aa3543163e6fb5c7a78d398d05f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

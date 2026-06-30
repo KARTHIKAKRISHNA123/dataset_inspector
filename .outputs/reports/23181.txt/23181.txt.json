@@ -1,0 +1,91 @@
+{
+  "dataset": "23181.txt",
+  "file_name": "23181.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकिसमाचार एक नि: शुल्क सामग्री समाचार स्रोत हो र यो विकिमिडिया फाउन्डेसन को एक परियोजना हो जसले सबैलाई उचित, निःशुल्क र रोचक समाचार प्रदान गर्दछ । अन्य विकिपरियोजना को जस्तै, जानकारीहरु साधारण पाठकहरु द्वारा लिखित छ । पुराना लेखहरू सुरक्षित छन् ताकि सम्पादकहरुले तिनीहरूलाई बदल्न सक्दैन ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 289,
+    "text_length_max": 289,
+    "text_length_avg": 289.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 770,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23181.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23181.txt",
+    "relative_path": "23181.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23181.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 770,
+    "mtime": 1782796504.034757,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2a9b54e8dfd4682e5bd243b8b6db631f718a1929",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

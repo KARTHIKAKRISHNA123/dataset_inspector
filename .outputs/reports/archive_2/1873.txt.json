@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1873.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समावेशी नेपालमा लोकतन्त्र को उदय पछि बढि प्रचलित शब्दहरु मध्येको एक शब्द समाविशी पनि हो। नेपालमा प्रतिनिधि सभाको घोषणा पश्चात निर्माण भएको अन्तरिम सम्विधान 2063 ले शमावेशी को नारालाई चर्चामा ल्याइ प्राथमिकता दिएको छ।",
+    "नेपाल बहु भाषिक बहु-सांस्कृतिक, बहु-जातिय, बहुवर्गिय र भौगोलिक दृश्टिले विविधता युक्त देश हो। नेपालमा बिभिन्नको भागमा भिन्न भिन्न जातजाति, भाषाभाषी वर्ग सम्प्रदायका मानिसहरु बस्छन्। यी सबै वर्ग र सम्प्रदायका मानिसहरु राज्यको मुलधारसम्म नपुगेको नेपाली समाजमा यिनै पिछडिएको मानिसहरुलाई राज्यको नुलधारसम्म पुर्याउन तथा समान प्रतिनिधित्व गराउने उपाय समावेशी प्रकृया हो। राज्य संचालनको हरेक पक्ष र निकाय कार्यपालिका, व्यबस्थापिका, न्यायपालिका, बिभिन्न संघ सस्था, स्थानिय निकाय, गैर सरकारी सस्था, सार्वजनिक"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 216,
+    "text_length_max": 575,
+    "text_length_avg": 395.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2129,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1873.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1873.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1873.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2129,
+    "mtime": 1782796623.8637447,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a3b3b31f3bde041c3443762788f72a98036eb994",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

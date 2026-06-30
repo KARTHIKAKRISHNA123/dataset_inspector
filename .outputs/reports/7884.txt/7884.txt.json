@@ -1,0 +1,91 @@
+{
+  "dataset": "7884.txt",
+  "file_name": "7884.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेलिङ्गटन न्यु जिल्यान्डको राजधानी शहर र दोश्रो सबैभन्दा ठुलो नगरीय क्षेत्र हो । यहाँ लगभग 3,93,600 मानिस बसोबास गर्छन । यस नगरको स्थापना सन् 1839 मा भएको थियो र सन् 1865 मा यस शहरलाई राजधानी घोषित गरिएको थियो । वेलिङ्गटन विश्वको सबैभन्दा दक्षिणमा रहेको राजधानी शहर हो । पर्यटकीय दृष्टिकोणले यो शहर उत्तम मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 314,
+    "text_length_avg": 314.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 804,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7884.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7884.txt",
+    "relative_path": "7884.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7884.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 804,
+    "mtime": 1782796596.6081626,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "87a14b5d7878091e7f399fdda0477b6be4d15985",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

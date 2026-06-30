@@ -1,0 +1,94 @@
+{
+  "dataset": "20371.txt",
+  "file_name": "20371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चेक त्यो आदेशपत्र हो जसको माध्यमबाट बैंकबाट रकम वा पैसा निकाल्न सकिन्छ । बैंक खातामा जम्मा गर्ने ग्राहकलै बैंकद्वारा तयार गरिएको पैसा झिक्न प्रयोजनको निमित्त ग्राहकलाई दिइन्छ । यो त्यस्तो विनिमयपत्र हो जुन बैंकमाथि खिचिएको हुन्छ र माग हुनासाथ तुरुन्तै भुक्तानी पनि हुन्छ । चेक भनेको ग्राहकले आफ्नो खातामा राखेको रकमको माग फाराम हो । ब्यक्ती वा व्यावसायिक सङ्गठनले बैंकमा रहेको आफ्नो खाताबाट निश्चित ब्यक्ती वा संस्थालाई दिन भनी बैंकलाई लेख्ने आदेश वा निर्देशन हो । यस्तो निर्देशन राष्ट्र बैंक ऐन अनुस",
+    "चेक एउटा लिखित कागजात हो, जसमा भुक्तानी पाउने पक्ष, चेकको रकम, मिति आदि लेखिएको हुन्छ । चेकको रकम अंक र अक्षर दुबैमा प्रष्ट लेखिएको हुनुपर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 776,
+    "text_length_avg": 233.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.996,
+      "Latin": 0.004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5592,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.996,
+      "Latin": 0.004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20371.txt",
+    "relative_path": "20371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20371.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5592,
+    "mtime": 1782796491.3562288,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1cca3fe8ffb9ea05d87a1dc723cf4c0719d77230",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

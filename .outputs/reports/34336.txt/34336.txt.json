@@ -1,0 +1,93 @@
+{
+  "dataset": "34336.txt",
+  "file_name": "34336.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्स्टाग्राम फोटो र भिडियो साझेदारीगर्ने सामाजिक सञ्जाल सेवा हो जुन फेसबुक, Inc को स्वामित्वमा रहेकोे छ । यो केविन सेस्ट्रोम र माइक क्रेइजर द्वारा बनाईएको थियो; अक्टोबर 2010 मा विशेष गरी अक्टोबरबाट सञ्चालनमा आएको थियो । एनड्रोइड उपकरणहरूको लागि एक संस्करण दुई वर्ष पछि अप्रिल 2012 मा जारी गरिएको थियो, नोभेम्बर 2012 मा एक फीचर-सीमित वेबसाइट इन्टरफेस पछि, र क्रमशः विन्डोज 10 मोबाइल र विन्डोज 10 को अप्रिल 2016 र अक्टोबर 2016 मा एप्स सार्बजनिक गरिएको थियोे। यस एपले प्रयोगकर्ताहरूलाई फोटो र भिडियो अपल"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 619,
+    "text_length_max": 619,
+    "text_length_avg": 619.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1593,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34336.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34336.txt",
+    "relative_path": "34336.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34336.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1593,
+    "mtime": 1782796555.7227244,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2021bacf11de976b24b8a95c0a94cb3003ac8736",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

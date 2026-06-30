@@ -1,0 +1,94 @@
+{
+  "dataset": "2303.txt",
+  "file_name": "2303.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संस्कृति कुनै समाजमा गहराईसम्म व्याप्त गुणहरूका समग्र रूपको नाम छ जुन ती समाजका सोचने, विचारने, कार्य गर्न, खान-पिउँने, बोल्न, नृत्य, गायन, साहित्य, कला, वास्तु आदिमा परिलक्षित हुन्छ। संस्कृतिको वर्तमान रूप कुनै समाजका दीर्घ कालसम्म अपनाइएका पद्धतिहरूको परिणाम हुन्छ।",
+    "संस्कृतिको शब्दार्श छ - उत्तम या सुध्रेको स्थिति। मनुष्य स्वभावतः प्रगतिशील प्राणी छ। यो बुद्धिका प्रयोगबाट आफ्नो चारहरू पटिको प्राकृतिक परिस्थितिलाई निरन्तर सुधारता र उन्नत गर्दै रहन्छ। यस्तो प्रत्येक जीवन-पद्धति, रीति-रिवाज रहन-सहन आचार-विचार नवीन अनुसन्धान र आविष्कार, जसबाट मनुष्य पशुहरू र जंगलीहरूका दर्जाबाट माथि उठ्दछ तथा सभ्य बन्दछ, सभ्यता र संस्कृतिको अंग छ। सभ्यता बाट मनुष्यका भौतिक क्षेत्रको प्रगति सूचित हुन्छ जबकि संस्कृति बाट मानसिक क्षेत्रको प्रगति सूचित हुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1087,
+    "text_length_avg": 488.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22396,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9934,
+      "Latin": 0.0066
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2303.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2303.txt",
+    "relative_path": "2303.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2303.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22396,
+    "mtime": 1782796503.327336,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4e24a215a523273594d609ba24c48663195c0a4f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

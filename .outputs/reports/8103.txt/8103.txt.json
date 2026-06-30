@@ -1,0 +1,91 @@
+{
+  "dataset": "8103.txt",
+  "file_name": "8103.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको प्राचीन तथा ऐतिहासिक र राजनीतिक सुरुवात हेर्दा प्रमाणिक रूपमा किराँत कालबाट नै सुरु भएको हो भन्ने कुरा इतिहासले नै प्रमाणित गरेको छ। हुनत किराँत कालभन्दा अगाडि पनि यो मुलुकमा गोपाल, महिषपाल जस्ता अन्य जातिहरूको राज्य थियो भन्ने अपुष्ट इतिहासहरू पनि पाइन्छ तर प्रष्ट प्रमाणको अभावमा किराँत काल सुरु हुनुभन्दा अगाडिको समयलाई प्रामाणिक इतिहासको रूपमा लिइँदैन। यसर्थ आजसम्म नेपालको प्रामाणिक प्राचीन इतिहासको सुरुवात किराँत कालबाटै सुरु भएको हो भन्ने कुराको ऐतिहासिक मान्यता स्थापित भइसकेका छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1288,
+    "text_length_max": 1288,
+    "text_length_avg": 1288.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3402,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8103.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8103.txt",
+    "relative_path": "8103.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8103.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3402,
+    "mtime": 1782796597.6447208,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "50ba2c7be1a8513abfc9faebeb960b0e41744c59",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

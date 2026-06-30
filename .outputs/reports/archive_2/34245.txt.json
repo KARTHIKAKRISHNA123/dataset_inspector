@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34245.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रुप सामान्यतया माथिल्लो श्वास मार्गको घातक भाइरल संक्रमणको कारणले हुने एउटा श्वास प्रश्वासको अवस्था हो। संक्रमणले घाँटी भित्र सुन्निने अवस्थासम्म पुर्‍याउँछ, जसले सामसन्य श्वास प्रश्वासमा बाधा उत्पन्न गर्छ र \"भुकाइ” खोकी, स्ट्रिडर, र घाँटी बस्ने का सामान्य लक्षणहरु देखाउँछ। यसले हल्का, मध्यम, वा गम्भीर लक्षणहरु उत्पन्न गर्न सक्छ, जसले प्राय: रातीमा दु:ख दिन्छन्। यो प्राय: खाने स्टेरोइडहरुको एउटा मात्रै मात्रा बाट उपचार गरिन्छ; कहिलेकहीँ गम्भीर अवस्थाहरुमा एपिनेफ्रिन को पनि प्रयोग हुन्छ। अस्पता",
+    "एकपटक लक्षणहरुका सम्भावित बढी गम्भीर कारणहरु लाई छोडेर, क्रुपलाई नैदानिक आधारमा पहिचान गरिन्छ। रगत परिक्षण, एक्स्-रेहरु, र कल्चरहरु-जस्ता अधिक जाँचहरु-सामान्यतया आवश्यक पर्दैनन्। यो तुलनात्मक रुपमा सामान्य अवस्था हो जसले केही विन्दुमा सामन्यतया 6 महिना र 5-6 वर्ष उमेर बीचका, करिब 15% बालबालिकाहरुलाई प्रभावित गर्छ। यो प्राय: किशोर वा वयस्क अवस्थामा कहिल्यै पनि देखिँदैन्। एकपटक मुख्य रुपमा डिप्थीरियाको कारणले भइसकेपछि, खोप को सफलता र स्वच्छता र जीवन स्तरमा आएको सुधारले यो कारणलाई अहिले मुख्यत: पश्"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 896,
+    "text_length_avg": 398.36,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9692,
+      "Latin": 0.0308
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23031,
+    "estimated_records": 57
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 57,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9385,
+      "Latin": 0.0615
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34245.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34245.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34245.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23031,
+    "mtime": 1782796654.559302,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "e1796a72a503a35c9fb702262295b1cfe24102cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

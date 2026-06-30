@@ -1,0 +1,94 @@
+{
+  "dataset": "37590.txt",
+  "file_name": "37590.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारत राज्यहरूको एक संघ हो। यसमा उन्तीस राज्य र सात केन्द्र शासित प्रदेश छन्। यि राज्य र केन्द्र शासित प्रदेश पुनः जिल्लाहरू तथा अन्य क्षेत्रहरूमा बाँडिएका छन्।.",
+    "ढाँचा:भारतका प्रभागभारतको इतिहासमा भारतीय उपमहाद्वीपमा विभिन्न जातीय समूहरूले शासन गरे र यसलाई अलग-अलग प्रशासन-सम्बन्धी भागहरूमा विभाजित गरे। आधुनिक भारतको वर्तमान प्रशासनिक प्रभाग नयाँ घटनाक्रम हौन्, ब्रिटिश औपनिवेशिक कालको समयमा विकसित भए। ब्रिटिश भारतमा, वर्तमान भारत, पाकिस्तान बङ्गलादेश, साथै अफ़्गानिस्तान प्रान्त र यसमा जोडिएका संरक्षित प्रान्त, पछि गएर उपनिवेश बने, बर्मा आदि, सबै राज्य समाहित थिए। यस अवधिमा, भारतका क्षेत्रहरूमा या तो ब्रिटिहरूको शासन थियो या उनमा स्थानीय राजाहरूको नियन्त्र"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 1082,
+    "text_length_avg": 422.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9609,
+      "Latin": 0.0391
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6526,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9609,
+      "Latin": 0.0391
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37590.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37590.txt",
+    "relative_path": "37590.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37590.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6526,
+    "mtime": 1782796571.1578574,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "53d3f0c00499f456c9fb8032c410a573d61003ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

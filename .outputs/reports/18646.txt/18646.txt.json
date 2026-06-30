@@ -1,0 +1,92 @@
+{
+  "dataset": "18646.txt",
+  "file_name": "18646.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकास अर्थशास्त्र अर्थशास्त्रको त्यो उपविभाग हो जसमा आर्थिक वृद्धिका सिद्धान्तहरुको अध्ययन र विश्लेषण गरिन्छ । सन् 1960 पछि आर्थिक वृद्धिका सिद्धान्तहरुको विकास भएको हो । आर्थिक वृद्धिका सिद्धान्तहरुको विकास केन्सीयन अर्थशास्त्रका जगमा भएको छ । ह्यारोड र डोमार ले आर्थिक वृद्धि तर्फ विचार गर्न थालेका हुन् । अर्थव्यवस्था निरन्तर सन्तुलनमा रहनका लागि त्यसको कुल आय र कुल व्यय बराबर हुनु पर्छ । यसबाट के स्पष्ट हुन्छ भने अर्थव्यवस्थाको कुल बचत र कुल लगानी पनि बराबर हुनु पर्छ । राष्ट्रिय आयमा वृद्धि गर",
+    "केही मुख्य मोडेल यस प्रकार छन"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 732,
+    "text_length_avg": 424.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10197,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18646.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18646.txt",
+    "relative_path": "18646.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18646.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10197,
+    "mtime": 1782796483.1253805,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aeaa136caca93dd39f785dc99d9fd36b5f1a1c5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

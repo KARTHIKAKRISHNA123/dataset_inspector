@@ -1,0 +1,92 @@
+{
+  "dataset": "24763.txt",
+  "file_name": "24763.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिम सिक्किम भारतीय राज्य सिक्किमको एक जिल्ला हो। यसको सदरमुकाम गेजिंग हो,जसलाई ग्यालसिङ्को रूपमा पनि चिनिन्छ। उच्च स्थान भएको कारण ट्रेकिङ् गर्नेहरूलाई यो जिल्ला उपयुक्त छ। अन्य महत्वपूर्ण शहरहरूमा पीलिंग र जोरथाङ शामिल छन्।",
+    "उपलब्ध गराउन जिलामा पशुवर्ग र वनस्पतिको विस्तृत विविधता छ। जिल्लाको अधिकांश पहाडी भएको कारण छ यहा शीतोष्ण जलवायु पाइन्छ। 3800 मीटर भन्दा माथि भिरालो जमीन लालिगुरास जंगलले भरिएको छ। पश्चिम सिक्किम युक्सोम राज्यकोको प्राचीन राजधानी पनि हो। राब्तेन्से नसारुञेल सम्म, 1642 शुरु देखि पुरै 50 बर्ष यसले राजधानिको काम गर्‍यो। अठार औं र उन्नीसऔं सताब्दीको धेरै दशकसम्म यो जिल्ला नेपालीको कब्जामा थियो। गोरखा युद्ध पछि, यो जिल्ला सिक्किमलाई फर्काइएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 447,
+    "text_length_avg": 313.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3342,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24763.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24763.txt",
+    "relative_path": "24763.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24763.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3342,
+    "mtime": 1782796511.2637312,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "23286c1c1388309ae5abd3818857c03d52c57ed0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

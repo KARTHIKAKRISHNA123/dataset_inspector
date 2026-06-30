@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10869.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लिजा हेडन एउटा भारतीय मोडल र अभिनेत्री हुन् । सन् 2014 मा बलिउड चलचित्र रानीमा दमदार अभिनयको लागी उनलाई ख्याती दिलाएको हो ।",
+    "एलिजाबेथ मारी हेडनको जन्म 17 जुन 1986 मा भारतको चेन्नईमा भएको हो । उनको बुवा भेङ्कट तमिल थिए भने आमा एना हेडन अस्ट्रेलियाली थिइन् । उनको बहिनी मल्लिका हेडन मोडल हुन । सन् 2007मा हेडन भारतमा मोडलिङ गर्नु पूर्व अस्ट्रेलिया र अमेरिकामा बसोबास गर्दै आएकी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 123,
+    "text_length_max": 258,
+    "text_length_avg": 190.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 981,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10869.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10869.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10869.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 981,
+    "mtime": 1782796608.2140584,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "63404630f2450e90c1e74bc25708b5a4d5f91018",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

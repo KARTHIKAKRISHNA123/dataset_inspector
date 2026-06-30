@@ -1,0 +1,91 @@
+{
+  "dataset": "21471.txt",
+  "file_name": "21471.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्टेमिसको मन्दिर प्राचिन विश्वका सात आश्चर्यहरू मध्ये एक हो । जसलाई डाईनाको मन्दिर पनि भनिन्छ एउटा प्राचिन यूनानी मन्दिर थियो । यो आजको बर्तमान टर्कीमा रहेको थियो । यो मन्दिर देवी डायनालाई समर्पित ग्रीक मन्दिर थियो । यो मन्दिर ईशापुर्व 401 मा बिनाश हुनु पुर्व तीन पटक पुनर्निर्माण गरिएको थियो । अहिले मन्दिर रहेको ठाउँमा जग तथा मुर्तिका टुक्राहरू रहेका छन् ।यो पनि विश्वका सात आश्चर्य मध्ये एक हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 399,
+    "text_length_max": 399,
+    "text_length_avg": 399.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1056,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21471.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21471.txt",
+    "relative_path": "21471.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21471.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1056,
+    "mtime": 1782796496.5268543,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "93def29c9cda63cb2418cc3e15d323120221b02c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

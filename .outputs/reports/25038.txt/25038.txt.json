@@ -1,0 +1,92 @@
+{
+  "dataset": "25038.txt",
+  "file_name": "25038.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"श्री दरबार\" नेपाल राजधानी काठमाडौँ पाटनमा अवस्थित एक राणाकालीन दरबार हो । यो दरबार लाजिम्पाट दरबारको पुर्व पट्टि पाटनढोकामा रहेको छ र व्यवस्थित आँगन, बगैचा र भवनको व्युहले सुसच्छीत छ । श्री दरबारको निर्माण प्रधानमन्त्री चन्द्र शमशेरले वि.सं 1984 मा गरेका थिए ।",
+    "श्री दरबारको निर्माण चन्द्र शमशेर ज ब राले आफ्नी कान्छी रानी बाल कुमारी देवी र उनका छोरा जनरल मदन शमशेर र विष्णु शमशेरको लागि गरेका थिए । वि.स 1986 मा चन्द्र शमशेरको निधन भएपछी, उनकी पत्नी बालकुमारी देवीले नेपाल छाडेर बरनासीमा बस्न थालिन र आफ्ना सबै श्री सम्पति छोराहरु मदन शमशेर र विष्णु शमाशेरको नाममा नामसारी गरिदिइन् । प्रधानमन्त्री भिम शमशेरको कार्यकालमा विष्णु शमशेर, सरकारको बिना अनुमति नेपाल छाडेर संयुक्त अधिराज्य बेलायत र पछी संयुक्त राज्य अमेरिका बस्न थाले । विष्णु शमशेरलाई अंग्रेजी इसाई "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 261,
+    "text_length_max": 727,
+    "text_length_avg": 434.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3432,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25038.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25038.txt",
+    "relative_path": "25038.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25038.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3432,
+    "mtime": 1782796512.461057,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "70b991941e13e07766ad2affd3af88b3a486e144",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "38695.txt",
+  "file_name": "38695.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोत्रे-पुणिटार यान्त्रिक पुल नेपालकै पहिलो यान्त्रिक पुल मानिन्छ । तनहुँ जिल्लाको दुलेगौंडा गाविस वडा नम्बर 2 मा रहेको कोत्रेबाट कास्की जिल्लाको भरत पोखरी गाविस वडा नम्बर 1 मा रहेको पुणिटार जोड्ने यो पुल सेती नदीमाथि निर्माण गरिएको हो । करिब 55 लाख रुपियामा निर्माण सम्पन्न भएको यस पुलको निर्माणकार्य 2061 सालमा सुरु भएको थियो । हेर्दा झट्ट केबुलकार जस्तो देखिने यस यान्त्रिक पुलमा काँच, फलाम र टिनले बनेका दुईवटा ट्रली बक्स जडान गरिएको छ । एउटा ट्रली पारी पुग्दा अर्को वारि आइपुग्छ । दुवै ट्रली एउटै"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 645,
+    "text_length_max": 645,
+    "text_length_avg": 645.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1694,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38695.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38695.txt",
+    "relative_path": "38695.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38695.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1694,
+    "mtime": 1782796576.506188,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f243a26616e3a44f3d9e4fc7128a13eff08e3586",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

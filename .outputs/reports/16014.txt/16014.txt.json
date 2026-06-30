@@ -1,0 +1,91 @@
+{
+  "dataset": "16014.txt",
+  "file_name": "16014.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रयोगको हिसाबले नेपाली भाषामा माया को सामान्य अर्थ कुनै जीव -प्राणि अथवा वस्तु प्रति मनै देखि चाहनाको अनुभव गर्नु अथवा लगाव महसुस गर्नु वा एक ब्यक्तिको अर्को ब्यक्ति वा वस्तु प्रतिको आकर्षण हो । संस्कृतमा माया शब्दको अर्थ भ्रम लाग्दछ ।पशुहरूले पनि माया अनुभव गर्ने बताइन्छ । दिमाग भित्र हुने रसायन प्रतिक्रिया संग मायाको सम्बन्ध हुन्छ; त्यही रसायनले मायाको अनुभव उत्पन्न हुन्छ; जसलाई फिनाइल-इथायल-अमाइन भनिन्छ । मिठाइ खाँदा पनि यो रसायन दिमागभित्र प्रतिक्रिया गर्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 466,
+    "text_length_max": 466,
+    "text_length_avg": 466.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1243,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16014.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16014.txt",
+    "relative_path": "16014.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16014.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1243,
+    "mtime": 1782796470.3016293,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b17029a167a236acdfa16db4f1c9e72f2202c424",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "30233.txt",
+  "file_name": "30233.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. जगदीश चन्द्र बसु  भारतका प्रसिद्ध वैज्ञानिक हुन् जसलाई भौतिकी, जीवविज्ञान, वनस्पतिविज्ञान तथा पुरातत्वको गहिरो ज्ञान थियो। यिनी पहिलो वैज्ञानिक थिए जसले रेडियो र सूक्ष्म तरंगहरूको प्रकाशिकीमा कार्य गरे। वनस्पति विज्ञानमा यीनले कयौँ महत्त्वपूर्ण खोजेहरू गरे। साथ साथै यिनी भारतका पहिला वैज्ञानिक शोधकर्त्ता पनि थिए। यिनी भारतको पहिलो वैज्ञानिक थिए जसले अमेरीकी पेटेंट प्राप्त गरे। यिनलाई रेडियो विज्ञानका पिता मानिन्छ । उनी विज्ञानकथाहरू पनि लेख्ने गर्थे ,र यिनलाई बङ्गाली विज्ञानकथा-साहित्यको पित",
+    "ब्रिटिश भारतको बङ्गाल प्रान्तमा जन्मिएका बसुले सेन्ट जैवियर महाविद्यालय, कलकत्ताबाट स्नातकको उपाधि प्राप्त गरे। यिनी फेरी लंदन विश्वविद्यालयमा चिकित्साको शिक्षा लिन गए, तर स्वास्थ्यको समस्याहरूको कारण यिनी शिक्षा बीचमा नै छोडेर भारत आउनु पर्यो। यिनले फेरी प्रेसिडेंसी महाविद्यालयमा भौतिकीको प्राध्यापकको पद सम्हाले र जातिगत भेदभावको सामना गरेर भए पनि धेरै महत्त्वपूर्ण वैज्ञानिक प्रयोग गरे। यिनले बेतार संकेत प्रसारण गर्न असाधारण प्रगति गरे र सबै भन्दा पहिले रेडियो सन्देशोहरू प्राप्त गर्न अर्धचालकोह"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 1111,
+    "text_length_avg": 440.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9193,
+      "Latin": 0.0807
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13416,
+    "estimated_records": 30
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 30,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30233.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30233.txt",
+    "relative_path": "30233.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30233.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13416,
+    "mtime": 1782796536.8654966,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a7fbd1666b6d34830797b6e5b58ce92c48bae6db",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

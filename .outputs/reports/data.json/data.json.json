@@ -1,0 +1,105 @@
+{
+  "dataset": "data.json",
+  "file_name": "data.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "te",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "sourceText",
+    "targetText"
+  ],
+  "preview": [
+    "'ముప్పెట్‌ల లాగా అనిపిస్తుందేమో' అని వెల్ష్ ఎ.ఎమ్‌లు చింతిస్తున్నారు",
+    "There is consternation among some AMs at a suggestion that their title should change to MWPs (Member of the Welsh Parliament)."
+  ],
+  "statistics": {
+    "records_sampled": 1997,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 436,
+    "text_length_avg": 131.63,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5025,
+      "Telugu": 0.4975
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1044993,
+    "estimated_records": 7938
+  },
+  "schema": {
+    "columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "estimated_records": 7938,
+    "raw_schema": {
+      "sourceText": "str",
+      "targetText": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Telugu",
+    "languages_seen": [
+      "en",
+      "te"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "te",
+    "dominant_script": "Telugu",
+    "script_distribution": {
+      "Telugu": 0.5299,
+      "Latin": 0.4701
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "data.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\data.json",
+    "relative_path": "data.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "data.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 1044993,
+    "mtime": 1782795423.706231,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0da9a0f15585748db024f2d68bd1642617e95a19",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

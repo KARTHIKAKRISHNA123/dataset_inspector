@@ -1,0 +1,92 @@
+{
+  "dataset": "36943.txt",
+  "file_name": "36943.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाघभैरव मन्दिर काठमाडौंको कीर्तिपुरमा छ । यो मन्दिरलाई कीर्तिपुरवासीले आराध्यदेवका रूपमा पूजा गर्छन् । ",
+    "काठमाडौं उपत्यकाबाट सात किलो मिटर दक्षिण पश्चिममा रहेको बाघभैरवको मन्दिर समुद्री सतहबाट एक हजार 4 सय 5 मिटर उचाइमा लम्बाइ 50 मिटर र चौडाइ 30 मिटर क्षेत्रफलमा रहेको चोकभित्र छ ।पूर्व-पश्चिम भागमा लाम्चो आकारमा फैलिएको कीर्तिपुर डाँडाको बीच भागमा फैलिएको बाघभैरव मन्दिर यस क्षेत्रमै सर्वाधिक ठूलो र महत्वपूर्ण मन्दिर हो । प्यागोडा शैलीको तीन तले मन्दिर जसको माथिल्लो छानो पित्तल, त्यसभन्दा तलको दुई छाना झिँगटीले छाएको छ ।मन्दिरको सबैभन्दा माथि 11, बीचमा छ र सबैभन्दा तल एक गरी 18 वटा गजुर छन् । मन्दिर"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 785,
+    "text_length_avg": 262.73,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7717,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36943.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36943.txt",
+    "relative_path": "36943.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36943.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7717,
+    "mtime": 1782796567.8384871,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2e8b0b5cb6d431d39f6dcdffc9aab82b02c71ba6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

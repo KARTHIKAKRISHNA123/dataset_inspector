@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8166.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एनिमे (जापानी: アニメ, उच्चारण: एनिमे जापानी हातलै कोरिएको चित्र वा कम्प्युटरद्वारा बनाइएको एनिमेसन हुन् । \"एनिमे\" शब्द अङ्ग्रेजी शब्द एनिमेसनको लघु रुप हो, जसले सम्पूर्ण एनिमेसन निर्मित सामग्रीहरूलाई जनाउँछ । जापान बाहिर विशेषत: पश्चिमा मुलुकमा भने एनिमेले जापानमा वा जापानी शैलीमा बनाइएका एनिमेसन सामग्रीलाई बुझाउँछ । एनिमेको ईतिहास सन् 1917 बाट सुरु भएको मानिन्छ भने सन् 1960 को दशक बाट एनिमे शैलीगत विकास भएको पाइन्छ । जापानमा करिब 430 एनिमेसन उत्पादन कम्पनी रहेका छन् । एनिमेहरू अङ्ग्रेजी भाषामा अन",
+    "जापानमा एनिमेले सम्पूर्ण संसारभरको एनिमेसनद्वारा बनाइएका सामग्रीलाई बुझाउँछ । अङ्ग्रेजीमा एनिमेले जापानमा बनाइएका एनिमेसनलाई नै जनाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 544,
+    "text_length_avg": 222.7,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9872,
+      "Latin": 0.0128
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5790,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9872,
+      "Latin": 0.0128
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8166.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8166.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8166.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5790,
+    "mtime": 1782796672.1308508,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "00dadcb3a0d4414fca872d2996172f6655984387",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "13396.txt",
+  "file_name": "13396.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रङ्गपुर बङ्गलादेश र रङ्गपुर प्रदेशको एक प्रमुख शहर हो । रङ्गपुर 16 डिसेम्बर 1769 मा एक जिल्ला मुख्यालय घोषित गरियो र 1869 मा नगरपालिकाको रूपमा स्थापित भएको थियो । यो शहर बांग्लादेशको सबैभन्दा पुरानो नगरपालिकाको रुपमा रहेको छ । यो शहरको प्रमुख कार्यलय सन् 1892 मा राजा जनक बल्लभ सेनको अादेशमा निर्माण गरियको थियो । यो शहर बङ्गलादेश उत्तरपूर्वी भागमा स्थित छ । यसको दक्षिणी भागमा, भर्खरै स्थापित गरिएको सार्वजनिक विश्वविद्यालय बेगम रुक्या विश्वविद्यालय रङ्गपुर स्थापित गिरियको छ ।",
+    "रङ्गपुरलाई मुगल बादसाह अकबरका सेनापती राजा मान सिंहले सन् 1575 मा कब्जा गरेका थिय तर यो शहरलाई 1886 सम्म पनि मुगल शासन पुण रुपमा लागू हुन सकेको थिएन । बेलायती ब्रिटिश इस्ट इन्डिया कम्पनी शासनमा एक 'उत्परिवार विद्रोह' युद्ध भयो र रङ्गपुर गोरघाट रियाज -ल-सलिटनको रूपमा उल्लेख गरिएको थियो । कम्पनीको शुरुआती शासनको समयमा फकीर-संसारीको प्रतिरोध र किसान विद्रोही रङ्गपुरमा आयोजित गरियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 653,
+    "text_length_avg": 347.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9148,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13396.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13396.txt",
+    "relative_path": "13396.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13396.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9148,
+    "mtime": 1782796458.3993602,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "61de49303401f92d0429d416c1c1942cadc52ca1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "12474.txt",
+  "file_name": "12474.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कार्लोस इरविन एस्टेवेज़, जो व्यवसायिक रुपमा चार्ली शीन बाट चिनिन्छन्, एक अमेरिकन कलाकार हुन्। उनले प्लाटून, वाल स्ट्रीट, यंग गन्स, एट मेन आउट, मेजर लिग्, हट् शट्स! र थ्री मस्किटरस जस्ता सफल हलिवुड चलचित्रहरुमा अभिनय गरेका छन्। ",
+    "सन् 2000 को दशकमा उनी टेलिभिजनको माध्यमबाट प्रख्यात भए। उनी माइकल जे. फक्स को साटो स्पिन सिटी मा अनुबन्धित भएपछि गोल्डेन ग्लोब अवार्ड को हकदार समेत हुनपुगे। त्यसपछि उनी टु एन्ड अ हाफ म्यान मा मुख्य भुमिका मा देखापरे जसबाट उनी गोल्डन ग्लोब र एम्मी अवार्ड नोमिनेसनमा पर्न सफल भए। उनीद्वारा अभिनित पछिल्लो टलिभिजन श्रृंखला FX को हास्य श्रृंखला एन्गर म्यानेज्मेन्ट थियो जसको समापन सयौं भागमा सन् 2014 मा भएको थियो। सन् 2019 मा चार्ली शीन सबैभन्दा बढी पारिश्रमिक लिने सिट्कम कलाकार समेत हुनपुगे।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 831,
+    "text_length_avg": 379.27,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9872,
+      "Latin": 0.0128
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10796,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12474.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12474.txt",
+    "relative_path": "12474.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12474.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10796,
+    "mtime": 1782796454.1510396,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b2d8f0859be2d2d20616c72c484542712bdeaab6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

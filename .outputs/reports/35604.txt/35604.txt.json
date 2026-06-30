@@ -1,0 +1,96 @@
+{
+  "dataset": "35604.txt",
+  "file_name": "35604.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिस्रको इतिहास धेरै भागहरूमा बाँडीएको छ। यहाँ प्राचीन सभ्यताहरू विकसित भए जुन पछि ग्रीक, ईरानी, रोमन तथा अरब साम्राज्यहरूको अंश रहेका थिए।",
+    "मिस्र को इतिहास · प्राचीन मिस्र  · हखामनी मिस्र  · टलेमिक मिस्र  · रोमन मिस्र  · अरबी मिस्र  · उस्मानी मिस्र  · आधुनिक मिस्र  · Architecture · Art · Burial customs · Chronology · Cuisine · Dynasties · Geography · History · Mathematics · Medicine · Religion · Pharaohs · People · Language · Sites · Technology · Writing"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 318,
+    "text_length_avg": 174.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5088,
+      "Latin": 0.4912
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 959,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5088,
+      "Latin": 0.4912
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35604.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35604.txt",
+    "relative_path": "35604.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35604.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 959,
+    "mtime": 1782796561.44207,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d07bdf3393c9e4b00c7e1a319b2232e7248142b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "12221.txt",
+  "file_name": "12221.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वच्छन्दतावाद, अन्य नाम: रोमान्टिक धारा, रोमान्टिकवाद, रोमान्टिक मान्यता, छायावाद) अठारौं शताब्दीतिर विकसित कलात्मक, साहित्यिक, र बौद्धिक आन्दोलन मानिन्छ ।",
+    "Romance शब्दको प्रयोग प्राचीन समयदेखि नै विभिन्न अर्थमा गर्दै आएको पाइन्छ । प्रारम्भमा रोमेली भाषाहरूमा लेखिएका कृतिहरूलार्इ रोमान्स भानिन्थियो । यस्ता कृतिहरू हल्का, घटिया, असत्य र काल्पनिक हुन्थे । त्यसपछि प्रचीन फ्रान्सेली भाषामा romanz शब्दको प्रयोग पल्पित, असम्भव, वीरतापूर्ण, प्रेमविषयक उपन्यास वा कलाका लागि गर्न थालिएको देखिन्छ । सत्रौ शताब्दीको बेलायतमा पनि यसको प्रयोग कल्पनाप्रधान, हीन तथा असत्यकै सन्दर्भमा भएको पाइन्छ । अठारौ शताब्दीमा प्रथम पटक यसकाे अर्थ भावुकता, चारुत्व, रमणीयता, रोच"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 699,
+    "text_length_avg": 326.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10528,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12221.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12221.txt",
+    "relative_path": "12221.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12221.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10528,
+    "mtime": 1782796453.0179427,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ca2dd33fdb0468244c45a1cc304af57d258ad183",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

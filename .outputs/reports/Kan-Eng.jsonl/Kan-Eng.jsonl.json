@@ -1,0 +1,103 @@
+{
+  "dataset": "Kan-Eng.jsonl",
+  "file_name": "Kan-Eng.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ಶಿಯೋಮಿ ನೋಟ್‌ಬುಕ್‌ ಏರ್‌ ಲ್ಯಾಪ್‌ಟಾಪ್‌ 1080 x 1920 ಪಿಕ್ಸಲ್ ರೆಸಲ್ಯೂಶನ್ ಸಾಮರ್ಥ್ಯದೊಂದಿಗೆ 12.5 ಇಂಚಿನ ಫುಲ್‌ ಹೆಚ್‌ಡಿ ಡಿಸ್‌ಪ್ಲೇಯನ್ನು ಹೊಂದಿದ್ದು, ಕಂಫರ್ಟ್ ಮಾದರಿಯ ಡಿಸ್‌ಪ್ಲೇ ಎನ್ನಲಾಗುತ್ತಿದ್ದು, ಆದರೆ 13 ಇಂಚಿನ ಗಾತ್ರದಲ್ಲಿ ಇರಲಿದೆ ಎಂದುಕೊಂಡಿದ್ದ ಗ್ರಾಹಕರ ನಿರೀಕ್ಷೆ ಹುಸಿಯಾಗಿದೆ. The Xiaomi Notebook Air laptop with a 1080 x 1920 pixel resolution display capability and a 12.5 inch full HD display has been described as having a comfortable display, but customers who expected it to be 13 inches in size have been disappointed.",
+    "ಬೆಂಗಳೂರು: ಸಂಸತ್‌ನಲ್ಲಿ ಚರ್ಚಿಸದೆ ಕಾವೇರಿ ನದಿ ನೀರು ನಿರ್ವಹಣಾ ಪ್ರಾಧಿಕಾರ ಮತ್ತು ಕಾವೇರಿ ನೀರು ನಿಯಂತ್ರಣ ಸಮಿತಿ ರಚಿಸಿದ ಕೇಂದ್ರ ಸರ್ಕಾರದ ‘ಸ್ಕೀಂ’ ಪ್ರಶ್ನಿಸಿ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನಲ್ಲಿ ಮೂಲ ದಾವೆ ಹೂಡಲು ರಾಜ್ಯ ಸರ್ಕಾರ ತೀರ್ಮಾನಿಸಿದೆ. Bengaluru: The state government has decided to file an original petition in the Supreme Court challenging the 'scheme' formulated by the Cauvery River Water Management Authority and Cauvery Water Regulation Committee set up by the central government without discussing it in the parliament."
+  ],
+  "statistics": {
+    "records_sampled": 40000,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 5655,
+    "text_length_avg": 906.03,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5043,
+      "Kannada": 0.4957,
+      "Devanagari": 0.0,
+      "Tamil": 0.0,
+      "Arabic": 0.0,
+      "Telugu": 0.0,
+      "Gujarati": 0.0,
+      "Bengali": 0.0
+    },
+    "unicode_replacement_chars": 8,
+    "unicode_control_chars": 26,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 66460835,
+    "estimated_records": 72470
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 72470,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Kannada",
+    "languages_seen": [
+      "en",
+      "kn"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "en",
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.5449,
+      "Kannada": 0.4551
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Kan-Eng.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Kan-Eng.jsonl",
+    "relative_path": "Kan-Eng.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Kan-Eng.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 66460835,
+    "mtime": 1782728867.8519394,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9583ef330e0541afc42410818a443578222aaeee",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

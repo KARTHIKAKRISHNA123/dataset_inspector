@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22226.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गन्धर्व पौराणिक कालमा वर्णित एक जाति हो । हाल नेपालको विभिन्न भागमा बसोवास गरी सारङ्गी रेटेर गीत गाउँदै हिड्ने गाइनेहरूलाई पनि गन्धर्व जाति भनिन्छ ।",
+    "कश्यप ऋषिका तीन पत्नीबाट सुरु भएको सृष्टिमा क्रमशः गन्धर्व, यक्ष, र राक्षस बने । गन्धर्व विशिष्ट शक्तियुक्त मानवेतर प्राणी हुन् । गन्धर्वलाई संगीत र कलाका विशिष्ट शक्ति प्राप्त छन् । यिनीहरु स्वर्गमा बस्छन् । यिनका सुन्दर पत्नीहरुलाई अप्सरा भनिन्छ । विश्वावसु एक गन्धर्वको नाम हो जसको उल्लेख मेघदूतमा आउ“छ । चित्ररथलाई प्रमुख गन्धर्व बताइएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 148,
+    "text_length_max": 345,
+    "text_length_avg": 246.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1319,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22226.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22226.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22226.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1319,
+    "mtime": 1782796630.7289734,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1e6cb7ca768f0e961227a8b377fa33b658cc4a60",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

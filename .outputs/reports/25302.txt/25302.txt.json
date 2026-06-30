@@ -1,0 +1,96 @@
+{
+  "dataset": "25302.txt",
+  "file_name": "25302.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो अध्यात्म ज्योति काठमाडौं उपत्यका बाट सञ्चालित एफएम स्टेसन हो। एफएम 104.8 मेघाहर्जमा प्रसारण हुने यो एफएममा विशुद्द अध्यात्मिक कार्यक्रमहरु प्रसारण हुन्छन् ।2055 साल बैसाख 26 गते स्थापना भएको यो एफएमले शुरुमा रेडियो नेपालको एफएम 100 मेघाहर्ज बाट आफ्नो पहिलो प्रसारण शुरु गरेको थियो र 2058 माघ देखि डिल्लीबजार बजार स्थित आफ्नै प्रसारण केन्द्र बाट प्रसारण हुदै आएको छ ।एफ एम अध्यात्मज्योति",
+    "शान्ति रेडियो"
+  ],
+  "statistics": {
+    "records_sampled": 38,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 850,
+    "text_length_avg": 141.53,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7246,
+      "Latin": 0.2754
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11783,
+    "estimated_records": 83
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 83,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9701,
+      "Latin": 0.0299
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25302.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25302.txt",
+    "relative_path": "25302.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25302.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11783,
+    "mtime": 1782796513.7092295,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "47bf2cbde8be99c51df8366ae71cd359f7a03166",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

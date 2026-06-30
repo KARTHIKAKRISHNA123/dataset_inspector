@@ -1,0 +1,94 @@
+{
+  "dataset": "5097.txt",
+  "file_name": "5097.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वर्षाबन उष्म क्षेत्रमा पाइने यस्तो बन हो जहाँ धेरै पानी पर्दछ। यस्तो बनमा धेरै प्रकारका बनस्पति र जीव पाइन्छन्। एमेजोन वर्षाबन एक निक्कै नाम चलेको वर्षाबन हो। यसको धेरैजसो भाग ब्राजिल मा पर्दछ, र अरु भागहरू इक्वाडोर, कोलम्बिया, चिली र अन्य देशहरूमा पर्दछ।",
+    "बैज्ञानिकहरूका अनुसार सबै बनस्पति र जीबका आधा भन्दा धेरै प्रजातिहरू वर्षाबनमै बस्दछन्। सबै औषधिको करिब एक चौथाई भन्दा बढी भाग यहीँबाट उपलब्ध हुन्छ। पृथ्वीको 2% मात्र भूभाग ओगटे पनि अक्सिजनको 40% यहीँबाट आँउछ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 255,
+    "text_length_avg": 118.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1545,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9753,
+      "Latin": 0.0247
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5097.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5097.txt",
+    "relative_path": "5097.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5097.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1545,
+    "mtime": 1782796582.963166,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7b7938900e6fe8cf57ea41534c25e68b4b4caf7e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

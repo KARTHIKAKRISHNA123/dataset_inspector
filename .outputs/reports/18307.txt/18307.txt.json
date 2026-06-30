@@ -1,0 +1,92 @@
+{
+  "dataset": "18307.txt",
+  "file_name": "18307.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गण्डकी प्रदेश नेपालका सात वटा प्रदेश मध्येको एक प्रदेश हो जसलाई नेपालको संविधान 2072 को मर्म अनुसार हालको आकारमा बिभाजन गरिएको छ ।",
+    "नेपालको शासनव्यवस्था सुदृढीकरणका लागि संविधान सभाबाट नेपालको संविधान जारी भयो । यसै संविधान बमोजिम नेपाल संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य कायम हुन पुग्यो । नेपालको संविधान बमोजिम नेपाललाई 7 प्रदेशमा विभाजन गरियो । यी मध्ये साविकका धौलागिरी अञ्चलका 4 जिल्ला, गण्डकी अञ्चलका 6 जिल्ला र लुम्बिनी अञ्चलको नवलपुरको भू-भाग समेटी कुल 11 जिल्लाको प्रदेश नं. 4 कायम भयो । भौगोलिक रुपमा यस प्रदेशले हिमाल, पहाड र तराई गरी तिनै धरातलीय स्वरुपलाई समेटेको छ । त्यस्तै हावापानीको दृष्‍टिकोणले हेर्दा पनि यस प"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 130,
+    "text_length_max": 959,
+    "text_length_avg": 441.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8927,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18307.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18307.txt",
+    "relative_path": "18307.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18307.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8927,
+    "mtime": 1782796481.47339,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "782db95910d812e2a666ae529cbc4cd879bfdc08",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

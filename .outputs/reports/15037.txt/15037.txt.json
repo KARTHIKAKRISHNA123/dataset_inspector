@@ -1,0 +1,92 @@
+{
+  "dataset": "15037.txt",
+  "file_name": "15037.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमार बहादुर जोशी प्रसिद्द साहित्यकार एवं समालोचक हुन् ।उहाँ त्रि . वि. वि. र वनारस हिन्दू विश्वविद्यालयमा का प्राध्यापक पनि हुनुहुन्छ ।",
+    "वि.सं. 1998 मङ्सिर 23मा पिता प्रेमबहादुर जोशी र माता जुलुममाया जोशीको कोख वाट चावहिलमा जन्मनु भएका ,"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 100,
+    "text_length_max": 325,
+    "text_length_avg": 219.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2920,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15037.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15037.txt",
+    "relative_path": "15037.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15037.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2920,
+    "mtime": 1782796465.7384846,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "1f541488db44847d4cd56e839be0aeef01ad0005",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

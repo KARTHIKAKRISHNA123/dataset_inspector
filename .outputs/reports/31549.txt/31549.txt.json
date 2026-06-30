@@ -1,0 +1,92 @@
+{
+  "dataset": "31549.txt",
+  "file_name": "31549.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उमा सिंह नेपालकी रेडियो पत्रकार थिइन । रेडियो टुडेमा काम गर्ने सिंह 2065 पुस 27 गते जनकपुरमा उमेश यादव नामको व्यक्तिले धारिलो हतियार प्रहार गरी हत्या गरेको थियो । सिंहको हत्याको अभियोगमा 2070 सालमा पक्राउ परेको उमेश यादवलाई जिल्ला अदालत धनुषाले 2072 बैशाखमा जन्मकैदको फैसला सुनाएको छ। सोही अभियोगमा उनकी भाउजू ललिता सिंह र नेवलाल पासवानको पनि संग्लनता रहेको हुनाले, उनीहरूलाई पनि जन्मकैदको फैसला भएको छ। ",
+    "सिंहको स्मृतिमा उमा सिंह पत्रकारिता पुरस्कारको स्थापना भएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 404,
+    "text_length_avg": 233.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1225,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31549.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31549.txt",
+    "relative_path": "31549.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31549.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1225,
+    "mtime": 1782796543.075323,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "598fbe6123620da3e39afc0bcd5f83f6142fabb1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

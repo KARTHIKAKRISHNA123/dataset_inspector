@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20423.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दुर्गा घिमिरे एक सामाजिक कार्यकर्ता र महिला हित र महिला बेचविखन विरुद्ध काम गर्ने गैर-नाफामूलक संस्था एबीसी नेपालको अध्यक्ष हुनुहुन्छ । सन् 1948 मे 12 मा नेपालको पुर्बी शहर बिराटनगरमा बुवा गणेश आचार्य र आमा शान्ता आचार्यको पाँचौ सन्तानको रूपमा उहाँको जन्म भएको हो । उहाँले त्रिभुवन विश्वविद्यालयबाट आर्ट्समा मास्टर्स र कानुनमा ब्याचलर गर्नुभएको छ । वहाँ नेपालीको प्रख्यात लेखक र राजनीतिक विश्लेषक स्वर्गीय जगदीश घिमिरेको श्रीमती हुनुहुन्छ ।",
+    "सामाजिक कार्यकर्ता हुनुका साथै उहाँ लेखक पनि हुनुहुन्छ । उहाँले केही साहित्यिक पुस्तक र महिला, महिला स्वास्थ्य बेचविखन, सुरक्षित बसाइँसराइ आदि जस्ता बिषयमा धरै लेखहरू लेख्नुभएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 182,
+    "text_length_max": 440,
+    "text_length_avg": 311.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1658,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20423.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20423.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20423.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1658,
+    "mtime": 1782796627.2717967,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fddd39dc66f31543572b7c5130885a5b6f702694",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "33980.txt",
+  "file_name": "33980.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नोबेल एकेडेमी काठमाडौं जिल्लाको नयाँबानेश्वरमा अवस्थित एक उच्च माध्यमिक विद्यालय हो । यस नोबेल एकेडेमीको स्थापना स.न् 1998मा भएको थियो ।",
+    "नोबेल एकेडेमीनयाँबानेश्वर, काठमाडौं, नेपालटेलीफोन: 977-1-4781401,4781515, 4780232फ्याक्स: 977-1-4780927ईमेल: info@nobel.edu.np"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 136,
+    "text_length_avg": 131.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9222,
+      "Latin": 0.0778
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 596,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9222,
+      "Latin": 0.0778
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33980.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33980.txt",
+    "relative_path": "33980.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33980.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 596,
+    "mtime": 1782796554.097866,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.977,
+    "sha1_quick": "c81bb1a666d2f5acc38ef99363f655a902cb73c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

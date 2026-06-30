@@ -1,0 +1,92 @@
+{
+  "dataset": "3841.txt",
+  "file_name": "3841.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राणाहरूले गरेको पारिवारिक शासन। नेपालमा यो विक्रम सम्बत 1903 देखि प्रारम्भ भएर 2007 साल सम्म कायम रह्यो। यसमा राणा प्रधानमन्त्रीका भाईमा पद सर्दै जाने नियम थियो। देशका मुख्य मुख्य शक्तिशाली पदहरूमा पनि राणा खानदानका नै मानिसहरू नियुक्त हुन्थे। आधारभूत मौलिक अधिकार हुँदैनथ्यो। राणाले जे बोले पनि कानुन सरह लागू हुन्थ्यो। ",
+    "नेपाली कांग्रेसले मातृकाप्रसाद कोइरालाको नेतृत्वमा सशस्त्र विद्रोहको उद्घोष गरसिकेको थियो । त्यस क्रान्तिमा विद्यार्थी पनि सरकि हुनुपर्छ भनेर वनारसबाट 50 जना विद्यार्थी वीरगन्जको युद्धमोर्चामा खट्ने निर्णय गर्‍यौँ । तर, त्यसका लागि पटनामा रहेको नेपाली कांग्रेसको हेडक्वार्टरमा कमान्डर मातृकाप्रसाद कोइरालासँग सम्पर्क गरेर अनुमति लिनुपर्ने प्रावधान थियो ।मातृकाप्रसाद कोइरालाले नेपाली कांग्रेसको झन्डा नबोकी मोर्चामा सरकि हुन नपाइने उर्दी सुनाएपछि शैलेन्द्रकुमार उपाध्यायसहित 11 जना कम्युनिस्ट समर्थक "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 321,
+    "text_length_max": 4752,
+    "text_length_avg": 2536.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13599,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3841.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3841.txt",
+    "relative_path": "3841.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3841.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13599,
+    "mtime": 1782796575.127666,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "862146970eda72a2e7ab1a2ff1a6d9a05cce3e68",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "9457.txt",
+  "file_name": "9457.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं. 2022 साल पुस 14 ",
+    "नेपाल उद्योग वाणिज्य महासंघ अंग्रेजीमा Federation of Nepalese Chambers of Commerce and Industry नेपाल राज्यका उद्योग वाणिज्य क्षेत्रमा संलग्न उद्यमी तथा व्यापारीहरूको पेशागत हकहित संरक्षण एवम् उद्योग वाणिज्य क्षेत्रको विकासमा सहयोग पुर्‍याउने उद्देश्यले स्थापित महासंघ हो। यो संघ वि.सं. 2022 साल पुस 11 देखि 14 गतेसम्म काठमाडौंमा आयोजित एवम् राजा महेन्द्रबाट समुद्घाटित 'प्रथम नेपाल वाणिज्य तथा औद्योगिक सम्मेलन'को निर्णयानुसार उद्योग वाणिज्य क्षेत्रको संघीय संस्थाका रूपमा वि सं 2022 साल पुस 14 गते "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 665,
+    "text_length_avg": 243.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9387,
+      "Latin": 0.0612
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2484,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9387,
+      "Latin": 0.0612
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9457.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9457.txt",
+    "relative_path": "9457.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9457.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2484,
+    "mtime": 1782796604.239403,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "70a6aeb162cd23f3d7b58411e2cf6320dd2a3ac1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

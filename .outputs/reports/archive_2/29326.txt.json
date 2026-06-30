@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29326.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भर्सेलिजको सन्धि जर्मनी र मित्र राष्ट्रहरू को बीच प्रथम विश्व युद्धको अन्त्यमा भएको थियो। विश्वयुद्धको युद्ध पछि, जर्मनीले 28 जुन 1919 मा भर्सेलिसको सन्धिमा हस्ताक्षर गरेका हुन्। यसकारण, जर्मनीले यसको जमिनको ठूलो भागको त्याग्नुपर्यो, अन्य राज्य कब्जा गर्न प्रतिबन्ध लगाइयो। आर्मीको आकार सीमित गराइयो र भारी जरिवाना लगाईयो। भर्सेलिसको सन्धि जर्मनीमा लागू भएको थियो। यस कारण एडल्फ हिटलर र अन्य जर्मनहरुले यो सन्धिलाई व्यभिचारी मानिदिए र यसैले यो सम्झौता द्वितीय विश्वयुद्धको कारण थियो।",
+    "भर्सेलिज सन्धिको क्षेत्रीय परिवर्तनहरूद्वारा जर्मनीको अंग-भंग भयो। 1871 मा, जर्मनीले फ्रान्सबाट एलिस-लरेनको क्षेत्रमा कब्जा गरेको थियो। सबैले एक स्वरले यो एक गलत काम थियो र यसको अन्त्य आवश्यक छ भनेर स्विकार गरे। त्यसकारण, सन्धिका सर्तहरूबमोजिम, अल्स्सा-लोरेन फ्रान्सले पायो।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 899,
+    "text_length_avg": 382.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9907,
+      "Latin": 0.0093
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20430,
+    "estimated_records": 53
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 53,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29326.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29326.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29326.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20430,
+    "mtime": 1782796644.772429,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "668d7649e9962163b5639a873fa2156296e14d63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

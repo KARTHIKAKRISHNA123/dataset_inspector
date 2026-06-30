@@ -1,0 +1,92 @@
+{
+  "dataset": "8631.txt",
+  "file_name": "8631.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व सुन्दरी प्रतियोगिता सबै भन्दा पुरानो सुन्दरी प्रतियोगिता हो जो अहिले सम्म पनि निरन्तर प्रत्येक वर्ष आयोजना हुने गर्दछ। यो प्रतियोगिता संयुक्त अधिराज्यमा एरिक मोर्लेद्वारा सन् 1951मा सुरु गरिएको हो। सन् 2000मा उनको देहान्त पश्चात उनकी पत्नी जुलिया मोर्लेले प्रतियोगिता सम्हाल्दै आएकिछन्।",
+    "विजेताहरूले विश्व सुन्दरी संस्था तथा संस्थाका उद्देश्यहरूको प्रतिनिधित्व गरि बिभिन्न भ्रमणहरूमा एक बर्ष बिताउँछन्। परम्परागतरूपमा, विजेताहरू आफ्नो कार्यकाल भरि लण्डनमा नै बस्ने गर्दछन। "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 292,
+    "text_length_avg": 50.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2444,
+    "estimated_records": 48
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 48,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8631.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8631.txt",
+    "relative_path": "8631.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8631.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2444,
+    "mtime": 1782796600.315682,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.963,
+    "sha1_quick": "6d822c62298d443e982822444cfe0fb943f4d85e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

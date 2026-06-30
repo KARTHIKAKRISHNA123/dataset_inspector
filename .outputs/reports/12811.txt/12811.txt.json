@@ -1,0 +1,94 @@
+{
+  "dataset": "12811.txt",
+  "file_name": "12811.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "4G चौथो पुस्ताको वायरलेस मोवाइल दुरसञ्चार प्रविधि हो, यो प्रविधि 3G पछिको पुस्ताको प्रविधि हो । 4G प्रणालीमा अन्तर्राष्ट्रिय दुरसञ्चार युनियनले उल्लेख गरे अनुसारको विशेषता हुनु पर्ने हुन्छ, उदाहरणको लागी सुधारिएको मोबाईल वेभको पहुँच, गेमिङ सेवा, उच्च गुणस्तरको मोबाईल टेलिभिजन, भिडियो कन्भरेन्सिङ तथा थ्रिडि टेलिभिजनहरू हुन् । 4G मा पूर्ण रूपमा आईपी आधारित सेवाहरू सञ्चालन हुनेछ । यसमा ध्वनि, इन्टरनेट र मल्टिमीडियालाई समान गतिमा पठाउन र प्राप्त गर्न सकिन्छ । ",
+    "4G सेवाको पहिलो मापदण्डलाई व्यावसायिक रूपमा नर्वेको ओस्लो तथा स्विडेनको स्टकहोल्समा सन् 2009 मा कार्यान्वयन गरिएको थियो । नेपालमा 4G सेवा शुचारू गर्ने सेवा प्रदायक नेपाल टेलिकम हो, यस सन् 2017 जनवरी 1 मा यो सेवा शुचारू गरेको थियो । भने हाल अन्य दुरसञ्चार सेवाप्रदायकहरू एनसेल तथा स्मार्टसेलले समेत 4G सेवा सञ्चालनमा ल्याएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 460,
+    "text_length_avg": 367.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9922,
+      "Latin": 0.0078
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2889,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9922,
+      "Latin": 0.0078
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12811.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12811.txt",
+    "relative_path": "12811.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12811.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2889,
+    "mtime": 1782796455.7998106,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3598cb5ddc502d20f9d8dccc551ed53953b9c2cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

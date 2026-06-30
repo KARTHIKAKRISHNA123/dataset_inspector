@@ -1,0 +1,92 @@
+{
+  "dataset": "4759.txt",
+  "file_name": "4759.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "घोडेजात्रा - पर्व र वर्ष",
+    "यो काठमाडौंको टुँडिखेलमा मनाइने एक प्रसिद्ध जात्रा हो । यो दिनलाई घोडचढी प्रतिस्पर्धाको रूपमा मनाइन्छ, त्यसमा पनि कुनै दिन एसियाकै ठूलो परेड मैदान भनिएर चिनिएको काठमाडौंको मुटुमा रहेको टुँडिखेलमा यसको आयोजना हुनु र देशको अति उच्च देखि साधारण नागरिक सम्मले हेर्नु यो जात्राको विशेषता हो । यो चाडका दिन टुँडिखेलमा नेपाली सेनाले घोडचढी कला प्रदर्शन गर्दछ। कुनै दिन काठमाडौं बासीमा मात्र सीमित यो जात्रा अहिले राष्ट्रिय महत्त्व पाउन थालेको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 1755,
+    "text_length_avg": 623.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11672,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4759.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4759.txt",
+    "relative_path": "4759.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4759.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11672,
+    "mtime": 1782796581.1979609,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "d905f8466b9661f6fa6e891b66044abe2ebde1c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

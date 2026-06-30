@@ -1,0 +1,91 @@
+{
+  "dataset": "15111.txt",
+  "file_name": "15111.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इस्मत चुग़ताई  भारतकि उर्दू भाषामा लेख्ने एक उर्दू लेखिका थिइन्। उनलाई ‘इस्मत आपा’को नामले पनि सबै तिर जनिने गर्छ। उनी उर्दू साहित्यको सर्वाधिक विवादास्पद र सर्वप्रमुख लेखिका थिइन, जसले महिलाहरूको प्रस्नहरूलाई नयाँ पाटोबाट उठाइन्। उनीले निम्न मध्य वर्गका नारी र चेलीको सामाजिक स्थिति र अवस्थाको बर्णन गर्दै आफ्नु कृतिहरूमा यस विषयलाई उठाएर साहित्यमा आफ्नु कलम चलाइन्। उनको मृत्यु 24 अक्टोबर 1991मा भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 408,
+    "text_length_max": 408,
+    "text_length_avg": 408.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1085,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15111.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15111.txt",
+    "relative_path": "15111.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15111.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1085,
+    "mtime": 1782796466.0416121,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "a7ef5b1911adb0a05fd61af2f340f9e1271edf30",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

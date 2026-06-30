@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5120.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यज्ञराज सत्याल नेपाली लेखक तथा साहित्यकार हुन्। काठमाडौंको गैह्री धारामा जन्मिएर हुर्किएका सत्यालले स्नातकोत्तरसम्मको अध्ययन गरी शिक्षा तथा साहित्यको सेवा गरेको देखिन्छ । उनले 2013 देखि 2015 सम्म कलेज अफ एजुकेसनका विद्यर्थीहरूलार्इ नेपाली विषय प्रध्यापन गरेका थिए । यसै अध्ययन र प्रध्यापनका क्रममा उनीबाट तयार भएका पाठ्यसामग्रीलार्इ अन्वेषणमूलक ग्रन्थका रूपमा उनले निम्नानुसार प्रकाशमा ल्याएको पाइन्छ -"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 402,
+    "text_length_max": 402,
+    "text_length_avg": 402.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1081,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5120.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5120.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5120.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1081,
+    "mtime": 1782796665.898984,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f9c7bd9200e18808d1cb48ce73592e4815732724",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

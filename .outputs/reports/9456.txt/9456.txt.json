@@ -1,0 +1,92 @@
+{
+  "dataset": "9456.txt",
+  "file_name": "9456.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नरनारायण पाँडे जसलाई पाँडे भनी चिनिन्छ, भद्रगोल टेलिनाट्य श्रंखलाका मुख्य पात्र हुन् ।",
+    "उनी चोरी, ठगी, जालसाजी तथा ढोंगका लागि प्रसिद्ध छन् । मुड्खु भञ्ज्याङ्गका बासिन्दा नरनारायण पाँडे गाउँका सबैभन्दा गरिब तथा अल्छी व्यक्ति हुन् । गाउँका साधारण मानिसहरूलाई झुक्याउने तथा प्रलोभन गराउने गर्छन् । पाँडेको विवाह तथा सन्तानहरू भएको देखिदैन । उनी एक झुपडीमा बस्छन् जसलाई कटेज भनी सम्बोधित गर्छन् । उनका नजिका साथीहरूमा जिग्री, कक्रोज तथा बले, आदि पर्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 364,
+    "text_length_avg": 213.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1702,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9456.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9456.txt",
+    "relative_path": "9456.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9456.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1702,
+    "mtime": 1782796604.2334025,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7d8e2d22e7f9ef30a1e0578cbfc77e00496d535c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

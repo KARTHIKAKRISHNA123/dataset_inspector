@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17798.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेलचौरः ",
+    "पिपल गाविसकाे वडा नं. 1 अन्तरगत पर्ने मेलचौर पनि एक एेतिहासिक तिर्थस्थल हाे यहाँ भाइटिकाको 5 दिन पछि र माघ 1 गते माघे संक्रान्तीका दिन पालाकोटकै मेलचौर भन्ने स्थानमा भव्य मेला लाग्ने गर्दछ । यो मेलाको पनि वेग्लै स्थान र विशेष्ता छ । मेलचौर मेला लाग्ने नजिकै एउटा मन्दिर छ -जिर्ण मन्दिरमा अरु मन्दिरमा जस्तै पुजारि भने हुदैन किनकी यसको छुट्टै इतिहास छ ,यहाँ जो पुजा गर्न जान्छ त्यो व्यक्ति नै पुजारि हो, संसारमा यस्तो मन्दिर छैन जो आफु स्वतन्त्र होस यहाँ कसैको कर र बाध्यता छैन सम्पुर्ण अधिकार आफैमा छ"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 1633,
+    "text_length_avg": 841.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6677,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17798.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17798.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17798.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6677,
+    "mtime": 1782796622.0211446,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ce70eb0144feed02ab244db89d8c4c49e5817daf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

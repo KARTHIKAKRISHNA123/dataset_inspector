@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4560.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय रेल एसियाको सबभन्दा ठूलो रेलवे सञ्जाल हो तथा एकल व्यवस्थापन अन्तरगतको यो विश्वको दोस्रो सबभन्दा ठूलो रेलवे सञ्जाल हो। यो 150 वर्ष भन्दा पनि धेरै समयसम्म भारतको यातायात क्षेत्रको मुख्य संघटक रहेकोछ। यो विश्वको सबभन्दा ठूलो नियोक्ता हो, यसका 16 लाखभन्दा पनि धेरै कर्मचारी छन्। यसले न केवल देश्को मूल संरचनात्‍मक आवश्यकताहरूलाई पूरा गर्नमा महत्वपूर्ण भूमिका निभाएकोछ अपितु छरिएका क्षेत्रलाई एक साथ जोडनमा र देश राष्ट्रिय अखण्डताको पनि संवर्धन गर्दछ। राष्‍ट्रीय विपत्तीको समयमा विपत्ती ग्रस्त क्षे",
+    "भारतमा रेलको शुरुवात 1853 मा अंग्रेजहरूद्वारा प्राशासनिक सुविधाको लागि गरिएको थियो। तर आज भारतका धेरै जसो भागहरूमा रेलको जाल बिछाइएकोछ र रेल यातायातको सस्तो र मुख्य साधन बनेको छ। सन् 1853 मा धेरै नै मामूली शुरूआतसित जब पहिलो अप रेलले मुम्बई देखी थाणेसम्म दूरी तय गरेको थियो, अब भारतीय रेल विशाल नेटवर्कमा विकसित भैसकेकोछ यसका 63,465 कि.मी. मार्गको लम्बाईमा 7,133 स्‍टेशनहरू छन्। भारतीय रेलका 7,910 इन्जिनहरूको बेडा छ; 42,441 सवारी सेवाधान, 5,822 अन्‍यलाईच यान, 2,22,379 वैगन । हो;जसको ब्रोड गेज मीटर "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 1097,
+    "text_length_avg": 361.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5523,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4560.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4560.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4560.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5523,
+    "mtime": 1782796664.8719697,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "aec5df77f3f9f3c875626cc530725b179798f1b0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "23679.txt",
+  "file_name": "23679.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एनिबल लि अमेरिकाली कवि एड्गार एलेन पोद्वारा लेखिएको कविता हो । कवितामा सुन्दर महिला सँगको प्रेम, उनको मृत्यु र महिलाको मृत्युु पश्चात् पछि पनि कविको प्रेम देखि अप्सराहरू पनि ढाडस गर्ने बयान गरिएको छ । 'पो'को मृत्यु पछि मात्र यस कविता प्रकाशित भएको थियो ।",
+    "समुन्द्र किनारको एउता सानो सन्सारमा एनिबल लि भन्ने भर्खर कि ठिटी बस्थी। उ मलाई हृदय को फेदैबाट प्रेम गर्थी, म पनि उसलाई सारै माया गर्थे । म सानैमा थिए उ पनि सानै थिई। तर हाम्रो माया-पिर्ती देखेर स्वर्गका परिहरुले पनि ईष्र्या गर्थे। एक रात बाद्लको देशबाटा मुटु मा लाग्ने चिसो बतास सिरिरी बह्यो अनि मेरि अनिबल लि मरि। एनिबल मेरो हृदय चोरेर सुटुक्क बादलको देशपारी गई। एनिबल मरे पनि उसको र मेरो गासिएको आत्मालाई आकाशकी परि अथवा पानीको दैत्यले छुट्टयाउन सक्ने होइनन् । जुनेली रातमा मेरि प्यारिको मधुर यादम"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 254,
+    "text_length_max": 672,
+    "text_length_avg": 463.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2444,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23679.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23679.txt",
+    "relative_path": "23679.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23679.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2444,
+    "mtime": 1782796506.300597,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8d71391459622f917d7bd282a53d0a199029f5c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "30079.txt",
+  "file_name": "30079.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मलेसिया महिला राष्ट्रिय फुटबल टिमअन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा मलेसियाको प्रतिनिधित्व गर्ने महिला फुटबल टिम हो । यो मलेसिया फुटबलको लागि शासकीय निकाय मलेसिया फुटबल संघको नियन्त्रणमा रहेकोे छ । यो फिफा द्वरा मान्यता प्रप्त र एएफसीको सदस्य राष्ट्र हो ।",
+    " चाइनिज ताइपेइ 16–0 मलेसिया , फिलिपिन्स; 7 नोभेम्बर 1997)"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 259,
+    "text_length_avg": 158.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 834,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30079.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30079.txt",
+    "relative_path": "30079.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30079.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 834,
+    "mtime": 1782796536.1228886,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f373b53f68cc451d79c3f335d40483171b9fa418",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

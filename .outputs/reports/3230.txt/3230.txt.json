@@ -1,0 +1,91 @@
+{
+  "dataset": "3230.txt",
+  "file_name": "3230.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त युवा तथा विद्यार्थी मञ्च नेपालका राजनीतिक पार्टीहरु संग आबद्ध युवा तथा विद्यार्थी सङ्गठनहरुको साझा संजाल हो । यसले युवा तथा विद्यार्थीहरुको साझा मुद्धाहरुमाथी जागरणात्मक, अभियानात्मक र सचेतनात्मक अभियानहरु सञ्चालन गर्दै आइरहेको छ । 2063 चैत्र 24 गते अनौपचारीक रुपमा स्थापना भएको यसले साझा युवा मुद्धा निर्माण गरी पहिलो संबिधानसभाको कार्यकालमा नै सभामुख सुभास नेम्वागंलाई बुभएको थियो । शैक्षिक बहसहरु सञ्चालन गर्ने, पर्यटन र कृषिको विकासमा युवाहरुको सहकार्यलाई अभियानको रुपमा लैजाने, युवा नेतृ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 950,
+    "text_length_max": 950,
+    "text_length_avg": 950.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2560,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3230.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3230.txt",
+    "relative_path": "3230.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3230.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2560,
+    "mtime": 1782796546.4705133,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e69cdb15ac32c22178444993b9a70f9d4257ca45",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

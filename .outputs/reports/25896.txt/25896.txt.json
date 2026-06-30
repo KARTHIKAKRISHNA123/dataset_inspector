@@ -1,0 +1,94 @@
+{
+  "dataset": "25896.txt",
+  "file_name": "25896.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइफोन इन्टरनेट तथा मल्टीमीडिया चलाउन मिल्ने एप्पल आइएनसीद्वारा बनाइएको तथा बजारमा ल्याइएको एउटा स्मार्टफोन हो । पहिलो आइफोन 9 जनवरी 2007 मा एप्पल आइएनसीका प्रमुख कार्यकारी अधिकृत स्टिभ जब्सले सार्वजनिक गरेका थिए । र यो 29 जुन 2007 मा बजारमा आएको थियो । यसको सबैभन्दा पछिल्लो संस्करण आइफोन 6 र आइफोन 6+ हो । नेपालमा पनि आइफोन सिक्सको बिक्रिवितरण एनसेलले गरेको छ ।",
+    "आईफोनको हार्डवेयर राम्रो तरिकाले व्यवस्थापन गरिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 362,
+    "text_length_avg": 130.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3103,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25896.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25896.txt",
+    "relative_path": "25896.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25896.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3103,
+    "mtime": 1782796516.5335824,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3088ce3d3f3588d7673a6c1b2a0af0a44f65db32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

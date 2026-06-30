@@ -1,0 +1,92 @@
+{
+  "dataset": "356.txt",
+  "file_name": "356.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मैरेड मगुइरे, अर्को नाम \"मैरेड कोर्रिगन मगुइरे\" हुन् । उनी आयरलैण्डको एक समाजिक कार्यकर्ता हुन् । ",
+    "मगुइरे को जन्म उत्तरी आयरल्याण्डको बेल्फास्टमा रोमन क्याथोलिक समुदायमा भएको हो । उनि आठ सन्तान मध्ये दोस्रो हुन् भने उनका पाँच दिदि बहिनिहरु र दुइ दाजुभाइ छन् । उनका बुवा एनड्रुए हुन् भने आमा मार्गरेट कोरिगान हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 215,
+    "text_length_avg": 156.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 832,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "356.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\356.txt",
+    "relative_path": "356.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "356.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 832,
+    "mtime": 1782796561.4190419,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4c020c88bd26302d84aa237b76f796caa3499114",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "3613.txt",
+  "file_name": "3613.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मधेसी जन अधिकार फोरम, नेपाल  नेपालको एक राजनीतिक दल हो। कतै कतै मधेसी जनाधिकार फोरम पनि लेखिएको भेटिन्छ भने कतै मधेशी जनअधिकार फोरम नेपाल । व्यक्तिका आधारभूत आवश्यकता पुरा गर्ने, लैगिक समानता कायम गर्ने, स्वतन्त्रता, राष्ट्रियता र सामाजिक न्याय प्राप्त गर्ने मधेसी जनअधिकार फोरम नेपालका मुख्य उद्देश्य हुन् । यो पार्टी को अध्यक्ष उपेन्द्र यादव हुन्।",
+    "मधेसी जनअधिकार फोरमको जन्म गैरसरकारी संस्थाका रुपमा 2054 सालमा भएको हो । 2054 सालमा उपेन्द्र यादवको नेत्तृवमा विराटनगरमा भएको विभिन्न क्षेत्रका व्यक्तिहरुको भेलाले नेपालमा सामाजिक, आर्थिक र राजनीतिक समस्या मुख्य समस्याको रहेको भन्दै सचेतनामुलक कार्यक्रम गर्नुपर्ने निष्कर्ष निकाल्यो । यही भेलाले उपेन्द्र यादवको नेतृत्वमा मधेसी जनअधिकार फोरम नेपालको जन्म दियो । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 1133,
+    "text_length_avg": 471.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7373,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3613.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3613.txt",
+    "relative_path": "3613.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3613.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7373,
+    "mtime": 1782796563.9292164,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8934db9e7bf4d7df9b792a6787e2c3fadc0585ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

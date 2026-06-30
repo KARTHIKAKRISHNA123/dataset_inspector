@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9927.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सामन्तवादको उत्पत्तिको मूल कारण राजनीतिक अराजकता थियो । सामन्तवाद व्यवस्थामा व्यक्तिको राजनीतिक अधिकार तथा कर्तव्य निर्धारण भूमिबाट गरिन्थ्यो ।",
+    "सामन्तवाद मध्यकालीन युगमा इङ्ल्यान्ड र यूरोपमा प्रचलीत प्रथा थियो । यो सामन्तहरुको कयौं श्रेणिहरु थिए जसमा शीर्ष स्थानमा राजा हुने गर्थ्यो । राजापछि विभिन्न कोटिका सामन्त हुने गर्थे र सबैभन्दा निम्न स्तरमा किसान या दास हुन्थे। यो व्यबस्था रक्षक र अधीनस्थ मानिसहरुको संगठन थियो। राजा समस्त भूमि तथा जमिनको स्वामी मानिन्थ्यो। सामन्तगण राजाका प्रति स्वामिभक्ति प्रस्तुत गर्थे, राजाको रक्षाको लागि सेना सुसज्जित गर्ने काम सामन्तहरुको हुने गर्थ्यो, र बदलामा राजाबाट जमिन पाउथे । सामंतगण भूमि के क्रय-विक्र"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 851,
+    "text_length_avg": 497.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2686,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9927.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9927.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9927.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2686,
+    "mtime": 1782796675.6415548,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "10fde79e856cd15627ad180daf8e1f968d6c13e5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

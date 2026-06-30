@@ -1,0 +1,92 @@
+{
+  "dataset": "6416.txt",
+  "file_name": "6416.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. उपेन्द्र देवकोटा नेपालका विख्यात स्नायुरोग विशेषज्ञ चिकित्सक थिए। यिनी राजाको प्रत्यक्ष शासन कालमा स्वास्थ्यमन्त्री पनि बनेका थिए।डा. देवकोटाकै प्रयासमा वीर अस्पतालमा न्यूरो सर्जरी विभागको स्थापना गरिएको थियो। त्यसैगरी बीर अस्पताललाई चिकित्सा विज्ञान राष्ट्रिय प्रतिष्ठानमा रुपान्तरण गराउन पनि यिनले उल्लेख्य योगदान गरेका थिए। ",
+    "गोर्खा जिल्लामा जन्मेका डा देवकोटाको 2075 असार 4 गते राती न्युरो अस्पताल काठमाडौंमा निधन भयो। देवकोटा पित्तथैलीको क्यान्सर रोग बाट पीडित थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 331,
+    "text_length_avg": 236.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1277,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6416.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6416.txt",
+    "relative_path": "6416.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6416.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1277,
+    "mtime": 1782796589.6111379,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "90bd5b886eacc18de92cd34dbc0bf987256d6db6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

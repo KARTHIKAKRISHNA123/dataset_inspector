@@ -1,0 +1,92 @@
+{
+  "dataset": "8411.txt",
+  "file_name": "8411.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चतांमरि चामलबाट बनाइने रोटि हो । यो रोटि बिशेष गरेर काठमाडौ उपत्यकाका नेवार समुदायमा बनाइने गर्दछ साथै यसलाई विशेष चाड तथा पर्वमा खाने गरिन्छ । नेवारीमा चटामरीको शाब्दिक अर्थ हुन्छ -\"चामल बाट बनाएको रोटि\" । यो चामलको पातलो रोटिमा मासु, लशुन प्याजको किमा, अण्डा र अन्य मसला राखेर बनाईन्छ । रोटिको माथि राखेको मरमसला लाई माथि बाट छोप्नेले छोपेर \"बाफ\"ले पकाइन्छ ।",
+    "हाल आएर चतांमरि खाजाको रूपमा समेत प्रख्यात भई रहेको छ भने विभिन्न जातिय समुदायहरूमा यो रोटि बनाइने तथा खाने गरिन्छ । काठमाडौं उपत्यकाका विभिन्न खाजा घरहरूमा चतांमरि खाजाको परिकारको रूपमा समेत बेच्ने गरिएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 210,
+    "text_length_max": 360,
+    "text_length_avg": 285.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1506,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8411.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8411.txt",
+    "relative_path": "8411.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8411.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1506,
+    "mtime": 1782796599.1874077,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5cc0c4a68c7381bdebef75e890a910dce638aeb1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

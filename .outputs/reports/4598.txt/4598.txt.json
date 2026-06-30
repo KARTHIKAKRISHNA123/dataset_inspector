@@ -1,0 +1,94 @@
+{
+  "dataset": "4598.txt",
+  "file_name": "4598.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दूरसञ्चार भन्नाले कुनै संकेत, सन्देश, शब्द, लेख, तस्वीर, आवाज वा अन्य किसिमको जानकारीको तार, रेडियो, प्रकाश वा विद्युतचुम्बकीय तरङ्गको माध्यमबाट प्रसारण गरिने पद्दतिलाई बुझिन्छ। प्रविधिको माध्यमबाट कुनै सूचना तथा जानकारीलाई प्रेषकबाट प्रापकसम्म पुर्याउने कार्य नै दूरसञ्चार हो। यस क्रममा सूचनाहरुलाई विद्युतीय रुपमा रुपान्तरण गरी भौतिक माध्यम मार्फत अथवा विद्युतचुम्बकीय तरङ्गको रुपमा प्रसारित गरिन्छ। दूरसञ्चार प्रणालीमा सूचना प्रसारणको मार्गलाई प्राय: सञ्चार च्यानलहरुमा विभाजन गरिन्छ, जसले गर्दा म",
+    "परापूर्वकालमा लामो दूरीमा सञ्चार सम्पर्क स्थापना गर्न प्रकाश संकेतहरु प्रयोग गरिन्थ्यो। पूर्व-आधुनिक युगमा ध्वनि संकेतहरु मार्फत सूचना तथा जानकारीहरु प्रदान गर्न थालियो। 20 औं र 21 औं शताब्दीमा भएका नयाँ नयाँ आविस्कारसंगै विद्युतीय तथा विद्युतचुम्बकीय प्रविधिको प्रयोग गरेर लामो दुरीमा सम्पर्क स्थापना गर्न सम्भव भयो। टेलिग्राफ, टेलिफोन, टेलिप्रिन्टर, रेडियो, माइक्रोवेव, अप्टिकल फाइबर, भू-उपग्रह आदि नयाँ प्रविधिमा आधारित दूरसञ्चार सेवा हुन।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 442,
+    "text_length_max": 817,
+    "text_length_avg": 576.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4660,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4598.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4598.txt",
+    "relative_path": "4598.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4598.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4660,
+    "mtime": 1782796580.457728,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "810713f35f1eb7ee7c48cd5a3fd6c1d186e25b02",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

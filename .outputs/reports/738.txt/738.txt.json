@@ -1,0 +1,94 @@
+{
+  "dataset": "738.txt",
+  "file_name": "738.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भर्जिनिया वुल्फ बिसौँ शताब्दीको अङ्ग्रेजी साहित्यको आधुनिक लेखिका थिइन् । विश्व युद्ध 1 र 2 को बिचमा उनी उल्लेख्य व्यक्तित्व थिइन् र बुल्मसबेरी ग्रुप नामक साहित्यिक समूहको प्रमुखकर्ता थिइन् । टु द लाईटहाउस, ओर्लयान्डो, अ रुम अफ वान्स ओन उनका केही चर्चित कृति हुन् । जीवन भरी नै मानसिक रोगले ग्रस्त वुल्फले सन् 1941 मा 59 वर्षको उमेरमा आत्महत्या गरिन् ।",
+    "भर्जिनिया वुल्फको जन्म एडलिन भर्जिनिया स्टेफेनको रुपमा लण्डनमा भयो । उनका बाबू सर लेस्ली स्टेफन इतिहासकार, लेखक, समालोचक र पर्वतारोही थिए र आमा जुलिया भने भारतमा जन्मिएकी बेलायती थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 824,
+    "text_length_avg": 303.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5514,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "738.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\738.txt",
+    "relative_path": "738.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "738.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5514,
+    "mtime": 1782796594.1957324,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b2c843e7aa3c07740e328f3a883e42447e948a82",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

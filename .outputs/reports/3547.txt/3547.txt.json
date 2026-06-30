@@ -1,0 +1,92 @@
+{
+  "dataset": "3547.txt",
+  "file_name": "3547.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मदिना वा अल-मदिना, जसलाई सम्मानपूर्वक 'अल-मदिना अल-मुनव्वरा' सम्बोधन गरिन्छ, साउदी अरबको पश्चिमी हिजाज क्षेत्रमा स्थित एक शहर हो जो मदिना प्रान्तको राजधानी पनि हो। ",
+    "यो इस्लाम धर्ममा पवित्रतम दोश्रो शहर हो, र इस्लामी पैगंबर मुहम्मदको दफनगाह हो र यो उनको हिजरह पछि उनको घर आएको कारण ऐतिहासिक रूपबाट महत्वपूर्ण छ। इस्लामको आगमन भन्दा पहिले, मदिना शहर 'यसरिब' नामबाट जानिन्थ्यो, तर व्यक्तिगत रूपबाट पैगंबर मुहम्मद द्वारा नाम दिईयो। मदिनामा इस्लामको तीन सबभन्दा पुरानो मस्जिद अल मस्जिद अल नबवी, मस्जिद ए कूबा, र मस्जिद अल किब्लतैन उपस्थित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 371,
+    "text_length_avg": 263.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2090,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3547.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3547.txt",
+    "relative_path": "3547.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3547.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2090,
+    "mtime": 1782796560.8046968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ec0249c07dcc2660ff3367f7d89b46d7d980bbc2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "19989.txt",
+  "file_name": "19989.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विन्ध्यवासिनी मन्दिर पोखरा शहरमा अवस्थित प्रसिद्ध मन्दिर हो। यो मन्दिरलाई पोखराका प्रख्यात पर्यटकिय स्थलमध्ये एक प्रमुख स्थलको रूपमा मानिन्छ। यहाँबाट अन्नपुर्ण हिमश्रृङ्खलाको राम्रो दृश्यावलोकन गर्न सकिन्छ। यस मन्दिर धार्मिक र पर्यटकीय दृष्टिले पनि महत्वपूर्ण रहेको छ। यहाँ दर्शनका लागि नेपालबाट मात्र नभई भारत तथा अरु विभिन्न देशबाट भक्तजन आउने गर्दछन्। विन्ध्यवासिनी मन्दिर पोखराबाट सराङ्कोट जाने बाटोमा अवस्थित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 416,
+    "text_length_max": 416,
+    "text_length_avg": 416.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1135,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19989.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19989.txt",
+    "relative_path": "19989.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19989.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1135,
+    "mtime": 1782796489.6137087,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5ddbcd6909260211de53be9c0848537f88a9f442",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

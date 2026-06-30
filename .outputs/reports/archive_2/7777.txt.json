@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7777.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युगान्डा एउटा अफ्रिकी मुलुक हो जसको आधिकारिक नाम गणतन्त्र युगान्डा रहेको छ । युगान्डा एउटा भूपरिवेष्ठित मुलुक हो जुन दक्षिणपूर्वी अफ्रिकामा रहेको छ । यसको पूर्वमा केन्या ,उत्तरमा उत्तरी सुडान,दक्षिण पश्चिममा रवान्डा तथा दक्षिणमा तान्जानिया रहेको छ । युगान्डाको राजधानी कम्पाला हो।अभिव्यक्ति त्रुटि: अज्ञात विराम चिन्ह चरित्र \"1\"।",
+    "निर्देशाङ्क: 1° उत्तर 32° पूर्व / 1° उत्तर 32° पूर्व / 1; 32"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 329,
+    "text_length_avg": 140.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9367,
+      "Latin": 0.0633
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1056,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9367,
+      "Latin": 0.0633
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7777.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7777.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7777.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1056,
+    "mtime": 1782796671.4686308,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "de32c692575854f69c9bb077fd82cc17589c75e3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

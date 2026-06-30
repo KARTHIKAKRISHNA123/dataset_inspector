@@ -1,0 +1,105 @@
+{
+  "dataset": "ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+  "file_name": "ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+  "source": "unknown",
+  "file_type": "docx",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "or",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text",
+    "style"
+  ],
+  "preview": [
+    "ଓଡ଼ିଆ ସାହିତ୍ୟ",
+    "ଓଡ଼ିଆ ସାହିତ୍ୟ ଭାରତୀୟ ସାହିତ୍ୟ ପରମ୍ପରାରେ ଗୌରବମୟ ଓ ସମୃଦ୍ଧ ସ୍ଥାନ ଅଧିକାର କରିଛି । ଏହା ଓଡ଼ିଶାର ଐତିହ୍ୟ, ସଂସ୍କୃତି, ଧର୍ମ, ଜୀବନ ଧାରା, ସାମାଜିକ ପରିବର୍ତ୍ତନ ଓ ଲୋକ ଭାବନାର ଏକ ସଜୀବ ଦର୍ପଣ । ଭକ୍ତି ମୂଳକ କବିତା ଏବଂ କାହାଣୀ ଠାରୁ ଆରମ୍ଭ କରି ଆଧୁନିକ ଉପନ୍ୟାସ ଏବଂ ପରୀକ୍ଷାମୂଳକ କବିତା ପର୍ଯ୍ୟନ୍ତ ଓଡ଼ିଆ ସାହିତ୍ୟ ଏକ ନିରନ୍ତର ତଥା ଜୀବନ୍ତ ସାହିତ୍ୟ ଯାତ୍ରାକୁ ପ୍ରତିପାଦିତ କରେ ।"
+  ],
+  "statistics": {
+    "records_sampled": 66,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 885,
+    "text_length_avg": 228.06,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Oriya": 0.9893,
+      "Devanagari": 0.0107
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 48052,
+    "estimated_records": 210
+  },
+  "schema": {
+    "columns": [
+      "text",
+      "style"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "style"
+    ],
+    "estimated_records": 210,
+    "raw_schema": {
+      "text": "str",
+      "style": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Oriya",
+    "languages_seen": [
+      "or"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "or",
+    "dominant_script": "Oriya",
+    "script_distribution": {
+      "Oriya": 0.9898,
+      "Devanagari": 0.0102
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "n_paragraphs": 66,
+    "n_tables": 0,
+    "headings_sample": []
+  },
+  "meta": {
+    "file_name": "ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+    "relative_path": "ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "ଓଡ଼ିଆ_ସାହିତ୍ୟ.docx",
+    "source": "unknown",
+    "extension": "docx",
+    "file_type": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "compression": "none",
+    "size_bytes": 48052,
+    "mtime": 1782735941.5823894,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fb477276adf15a4b5cab0c2362073836fa750bb7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

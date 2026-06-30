@@ -1,0 +1,93 @@
+{
+  "dataset": "19975.txt",
+  "file_name": "19975.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्वकप फुटबल एक फुटबल खेलको सबैभन्दा प्रमुख विश्वस्तरीय पुरूष फुटबल प्रतियोगिता हो । यो प्रतियोगिता हरेक 4-4 वर्षको अन्तरालमा प्रत्येक संस्करणमा फरक फरक राष्ट्रहरूमम आयोजना हुने गर्दछ । सन् 1930 बाट सुरू भएको यस प्रतियोगिता हरेक चार चार वर्षमा आयोजना गर्ने गरि निर्णय गरिएता भनि द्वितीय विश्वयुद्धका कारण सन् 1942 र 1946 सालमा भने आयोजना हुन सकेको थिएन । यो प्रतियोगिता सबैभन्दा धेरै पटक ब्राजिलले जितेको छ । ब्राजिले सर्वाधिक पाँच पटक फिफा विश्वकप जिति फुटबल जगत् आफूलाई सर्वमान तुल्याउन सफल भएको छ",
+    "यस प्रतियोगिताको वर्तमान संरचना अनुसार सुरूमा लगभग तीन वर्ष लगाएर प्रतियोगिताको फाइनल चरणका लागि विभिन्न छनोट चरणका खेल तथा प्रतियोगिताहरू आयोजना गर्ने गरिन्छ । बल्ल 32 छनोट चरणहरू पार गर्ने राष्ट्रहरूका बिचमा विश्वकप प्रतियोगिता सञ्चालन हुने गर्दछ । फाइनल चरणमा पुग्ने एउटा टिम भने आयोजकका हैसियतले सिधै छनोट चरणका नखेली फाइनल चरणमा स्थान बनाउँदछ । अहिलेसम्म 21 वटा विश्वकपमा प्रतियोगिताहरू संचालन भइसकेका छन् । जसमा जम्मा 8 राष्ट्रहरूले मात्र विश्वकप जित्न सफल भएको छ । सर्वाधिक धेरै 5 पटक फिफा विश"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 1059,
+    "text_length_avg": 538.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9921,
+      "Latin": 0.0079
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 30824,
+    "estimated_records": 57
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 57,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19975.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19975.txt",
+    "relative_path": "19975.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19975.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 30824,
+    "mtime": 1782796489.545444,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "44029ef35c71dc7cac2a33dbb2e1daac0b5be872",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

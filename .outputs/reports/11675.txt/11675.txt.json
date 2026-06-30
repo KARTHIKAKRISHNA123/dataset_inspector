@@ -1,0 +1,92 @@
+{
+  "dataset": "11675.txt",
+  "file_name": "11675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोमपाल कामी नेपाली क्रिकेट खेलाडी हुन् । उनी दायाँ हाते ब्याट्सम्यान तथा दायाँ हाते मध्यम-तिब्र गतिका बलर हुन् । सोमपाल कामी सन् 2013 देखि नेपाली राष्ट्रिय क्रिकेट टोलीका नियमित सदस्य हुन् । ",
+    "जब उनका पिता कामको सिलसिलामा भारतको पन्जाब तिर लागे तब कामीको बाल्यकाल पन्जाबमै क्रिकेट प्रेममा बितेको हो । कामीले त्यहाँ विभिन्न क्रिकेट टुर्नामेन्टहरुमा आफ्नो सहभागिता जनाएका थिए जस मध्ये सबैभन्दा महत्वपुर्ण उनले इन्डियन प्रिमियर कर्पोरेट लिगमा उसको कप्तानीलाई मान्न सकिन्छ । उनलाई नेपाली राष्ट्रिय क्रिकेट टोलीमा विश्वकप छनौटको लागि समावेश गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 191,
+    "text_length_max": 356,
+    "text_length_avg": 273.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1466,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11675.txt",
+    "relative_path": "11675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1466,
+    "mtime": 1782796450.4910142,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "153d4430fc0ea7d404902e3959fce9051726a186",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

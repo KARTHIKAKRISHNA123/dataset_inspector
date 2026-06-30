@@ -1,0 +1,92 @@
+{
+  "dataset": "29580.txt",
+  "file_name": "29580.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धुर्मुस सुन्तली फाउण्डेशन हास्यकलाकारद्वय धुर्मुस र सुन्तली अर्थात् नेपाली कलाकार सिताराम कट्टेल र कुञ्जना घिमिरेको जोडीले संयुक्त रुपमा खडा गरेको संस्था हो । धुर्मुस सुन्तली फाउण्डेशन सामाजिक कार्य गर्ने उद्देश्यका साथ स्थापना भएको संस्था हो। ",
+    "विक्रम सम्बत् 2072 सालको बैशाख 12 गते आएको महाभूकम्पमा धेरै नेपालीहरु घरबार विहिन भएसँगै यस धुर्मुस सुन्तली फाउण्डेसनको स्थापना भएको हो । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 397,
+    "text_length_avg": 221.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3540,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29580.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29580.txt",
+    "relative_path": "29580.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29580.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3540,
+    "mtime": 1782796533.9144897,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dd1ef4dd5a1b7e122ba8fc5f9f9c098bc7e49a65",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

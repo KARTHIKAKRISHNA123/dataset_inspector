@@ -1,0 +1,92 @@
+{
+  "dataset": "20369.txt",
+  "file_name": "20369.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैज्ञानिक नाम एकासिया क्याटेचु बाट चिनिने खयर बहूउपयोगि वनस्पति हो। यसबाट निकालिने रसायनलाई नेपालीमा कत्था भनिन्छ। यो मसला र औषधि दुवै रूपमा प्रयोग हुन्छ। ",
+    "खयरको बोट नेपालको मधेश, तराई र पहाडी दुनहरूको नदीका किनारामा पाइन्छ। यसलाई नतिउष्ण जलवायुका स्थान उपयुक्त हुन्छ| खयर एक मझौला कदको रुख हो। साधारण विरुवाको गोलाइ 0.6 देखि 0.9 मीटर र अग्लाई 2.48 देखि 3.2 मि. सम्म हुन्छ। तर अनुकुल वातावरणमा यसको फेदको गोलाइ 1.5 मीटर र 6 मीटरसम्म अग्ला हुन्छन्। हरेक आँख्लाबाट एकवटा संयुक्त पात निस्केको हुन्छ। अण्डावृत आकार भएका स–साना 1 मिलिमिटर चौडाई र 3 मिलिमिटर लम्बाई भएका कुड्के पातहरू 20 देखि 50 जोडीसम्म पल्हाएका हुन्छन्। कुड्के पातहरू र काण्डलाई मसिना झुसले ढा"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 632,
+    "text_length_avg": 189.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3963,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20369.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20369.txt",
+    "relative_path": "20369.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20369.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3963,
+    "mtime": 1782796491.34041,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aaf869773df1620d0f71fdc230a393cc948b6080",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

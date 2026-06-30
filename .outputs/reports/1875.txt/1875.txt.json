@@ -1,0 +1,94 @@
+{
+  "dataset": "1875.txt",
+  "file_name": "1875.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्याड्मियम, एउटा रासायनिक तत्व हो । जसको चिन्ह Cd रहेको छ। क्याड्मियम पेरियोडिक तालिकाको 48 औं नम्बरमा रहेको तत्व हो ।",
+    "हाइड्रोजन • हेलियम • लिथियम • बेरिलियम • बोरोन • कार्बन • नाइट्रोजन • अक्सिजन • फ्लोरिन • नियोन • सोडियम • म्याग्नेसियम • एल्युमिनियम • सिलिकन • फोस्फरस • सल्फर • क्लोरिन • आर्गन • पोटासियम • क्याल्सियम • स्क्यान्डियम • टाइटानियम • भेनेडियम • क्रोमियम • म्याङ्गनिज • फलाम • कोबल्ट • निकेल • तामा • जस्ता • ग्यालियम • जर्मेनियम • आर्सेनिक • सेलेनियम • ब्रोमिन • क्रिप्टन • रुबिडियम • स्ट्रन्सियम • इट्रियम • जर्कोनियम • नियोबियम • मलिब्डेनम • टेक्निसियम • रुथेनियम • रोडियम • प्यालेडियम • चाँदी • क्या"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 1321,
+    "text_length_avg": 719.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3802,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1875.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1875.txt",
+    "relative_path": "1875.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1875.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3802,
+    "mtime": 1782796483.5840461,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cdae492db667d808e5425f03ce597e2ea0b04b77",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

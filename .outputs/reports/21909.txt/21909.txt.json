@@ -1,0 +1,92 @@
+{
+  "dataset": "21909.txt",
+  "file_name": "21909.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अतियथार्थवाद संस्कृत समस्त शब्द हाे । यसकाे शाब्दिक व्युत्पत्ति यसरी गर्न सकिन्छ, जस्तै - अतिक्रान्ताे यथार्थाे येन सः वादः अतियथार्थवादः, अर्थात् बाह्य यथार्थलार्इ अतिक्रमण गरेर अान्तरिक यथार्थसम्म पुग्ने वाद वा सिद्धान्त अतियथार्थवाद हाे । ",
+    "अतियथार्थवाद अङ्ग्रेजी र्सिरयलिज्मको नेपाली पर्यायका रूपमा रहेको वाद हाे । याे अन्तर्मन अर्थात् अवचेतन मनको यथार्थलाई अभिव्यक्ति दिने बिसौं शताब्दीको एक आन्दोलनका रूपमा पनि परिचित छ । याे सन् 1921 मा आफुभित्र दादावादलाई प्रवेश गराएर अस्तित्वमा आएको देखिन्छ । फ्रायडेली मनोविश्लेषणबाट प्रभावित यस वादले मुख्यतः अचेतनको अभिव्यक्तिलार्इ अात्मसात गर्छ । यो वाद दोश्रो विश्वयुद्धसम्म व्यापक रुपमा अस्तित्वमा थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 409,
+    "text_length_avg": 203.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2201,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21909.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21909.txt",
+    "relative_path": "21909.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21909.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2201,
+    "mtime": 1782796498.4903321,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "da7629f34abbf97dae5c03da47184f186fa80fd1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

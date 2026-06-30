@@ -1,0 +1,92 @@
+{
+  "dataset": "14410.txt",
+  "file_name": "14410.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्स्यकन्या एक दन्त्यकथामा आधारित जलजीव हो जसको टाउको एवं शरीर आइमाइको हुन्छ र तल्लो भागमा खुट्टाहरूको स्थानमा माछाको पुच्छर हुन्छ। जलपरिहरू धेरैजसो कहानी तथा दन्त्य कथाहरूमा सुन्न पाइन्छन्।",
+    "\"मत्स्यकन्या\"को अङ्ग्रेजी नाम मर्मेड फ्रेंच शब्द मर याने \"सागर\" र मेड याने स्त्री या युवा केटीले बनेको छ । केही सिनेमाहरूमा यिनीहरूलाई पुरुष रूप जलमानव पनि देखाइएको छ परन्तू सबै दंत कथाहरूको अनुसार यो केवल स्त्रिहरू नै हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 172,
+    "text_length_max": 592,
+    "text_length_avg": 311.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9960,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14410.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14410.txt",
+    "relative_path": "14410.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14410.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9960,
+    "mtime": 1782796462.8963993,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "07a498999105185ee8a65f8b14933bbd4107f417",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

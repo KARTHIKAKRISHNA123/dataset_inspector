@@ -1,0 +1,94 @@
+{
+  "dataset": "2011.txt",
+  "file_name": "2011.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मानव बसाईं सराई एक ठाउँ बाट अर्को ठाउँमा हुने मानिसहरूको भौगोलिक चाल हो। यतिले मात्र बसाईं सराईको परिभाषा पूर्ण हुँदैन। निश्चित समय अबधिमा, निशचित भौगोलिक वा राजनितिक एकाइकबाट अर्को भौगोलिक वा राजनितिक एकाईमा बासस्थान परिबर्तन गरेर हुने मानिसहरूको भौगोलिक चाललाई बसाइसराई भनिन्छ। यसकारण निश्चित समय अबधि, निशचित भौगोलिक दुरी र वासस्थान परिबर्तन बसाइसराईका आबश्यक पक्षहरू हुन।",
+    "मानव बसाईँ सराई भनेको मानिस आफ्नो बसोबासका लागि एक ठाउँबाट अर्को ठाउँमा जाने कृया हो। बसाइँ सराई दुई प्रकारका हुन्छन्। आन्तरिक बसाईं सराई र बाह्य बसाईं सराई। त्यसैगरी यसलाई स्थायी बसां सराई र अस्थायी बसाई सराईै गरी अर्को तरिकाले पनि छुट्याउन सकिन्छ। आन्तरिक वसाईं देशभित्रको वसाईं सराई हो भने बाह्य बसाईं सराई देश बाहिर वसाईं सर्ने प्रकृया हो। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 375,
+    "text_length_avg": 126.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2034,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2011.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2011.txt",
+    "relative_path": "2011.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2011.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2034,
+    "mtime": 1782796490.163263,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "a0e05ba4c3d434ad98dd0ed06c329e282ef7f798",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

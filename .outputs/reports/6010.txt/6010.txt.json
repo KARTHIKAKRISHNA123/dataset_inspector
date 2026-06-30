@@ -1,0 +1,92 @@
+{
+  "dataset": "6010.txt",
+  "file_name": "6010.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विवेकशील नेपाली नेपालको एक युवाद्वारा संगठित राजनीतिक दल हो। पार्टीका अध्यक्ष उज्वल थापाले सन् 2013 को दोस्रो संविधानसभाको निर्वाचनमा स्वतन्त्र उम्मेद्वारबाट लडेका थिए । उक्त चुनावको चिन्ह कुकुर थियो ।उक्त निर्वाचनमा चार स्वतन्त्र युवाले 3000 को हाराहारीमा भोट पाएका थिए जुन विशेषतः युवा मत थियो । निर्वाचनपश्चात यिनै स्वतन्त्र युवा नेताहरू मिलेर विवेकशील नेपाली नामको राजनीतिक दलको दर्ता गरेका थिए जसमा चुनाव चिन्ह हाँसेको अनुहार थियो ।",
+    "युवा जनशक्तिमा विश्वास राख्ने यस दलले नेपालको वर्तमान र भविष्य युवामा निर्भर रहने बताउँदै आएका छन् ।यस दलका सदस्यहरू गोविन्द केसीका समर्थक पनि हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 437,
+    "text_length_avg": 137.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2213,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6010.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6010.txt",
+    "relative_path": "6010.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6010.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2213,
+    "mtime": 1782796587.753468,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9d0840ec40876580145b657795c9b77b21815c73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

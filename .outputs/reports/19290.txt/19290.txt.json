@@ -1,0 +1,92 @@
+{
+  "dataset": "19290.txt",
+  "file_name": "19290.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"समय\"लाई सामन्यतया एक देखि अर्को घटनाको अन्तर का रूपमा परिभाषित गर्न सकिन्छ। यस्लाई विभिन्न जुग बाट विभिन्न उपाय अपनाई नाप्ने गरेको पाइन्छ।समय मापन प्रणालीको एउटा महत्वपूर्ण अंग हो। कुनै घटना घटेर बिती सके पछि घटनाको उल्लेख गर्ने बेलादेखि घटना घटेको बेला सम्मको बीचको अंतराललाई हामी समयले नै नाप्ने गर्छौं।",
+    "समय मापनको अनेकौं प्रणालीहरू छन्। समय नाप्ने क्षेत्रिय तथा वैज्ञानिक दुबै प्रणाली छन् तर अचेल वैज्ञानिक प्रणाली चलनमा छ र यस प्रणालीमा धोका हुँदैन।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 366,
+    "text_length_avg": 219.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2355,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19290.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19290.txt",
+    "relative_path": "19290.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19290.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2355,
+    "mtime": 1782796486.3097265,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8eb38833e5b38050370b8d4161cdcb584d0d7cce",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

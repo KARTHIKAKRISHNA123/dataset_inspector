@@ -1,0 +1,92 @@
+{
+  "dataset": "21934.txt",
+  "file_name": "21934.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्मल कुमार रिमाल नेपाली साहित्यकार हुन् । उनी विशेष गरी कविता लेख्छन् । उनको जन्म सन् 1936 मार्च 11 मा काठमाडौको कालिका मार्गमा भएको थियो । ",
+    "्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 142,
+    "text_length_avg": 71.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 368,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21934.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21934.txt",
+    "relative_path": "21934.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21934.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 368,
+    "mtime": 1782796498.6023767,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "79578ef964ed4a4df1dd60105f12212d78426ff3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

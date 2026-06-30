@@ -1,0 +1,91 @@
+{
+  "dataset": "22127.txt",
+  "file_name": "22127.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उमा श्री भारती एक भारतीय राजनीतिज्ञ र भारतको जलश्रोत, नदी विकास तथा गङ्गा सफाई मन्त्री हुन् । उनि मध्य प्रदेशको मुख्यमन्त्री भएर कार्य गरिसकेकी छिन । उनलाई ग्वालियरको महारानी विजयराजे सिंधियाले अगाडि ल्याए जसले गर्दा उनी सानै उमेरमा भारतीय जनता पार्टीको सदस्यता लिएकी थिइन् । उनले साध्वी ऋतम्भरासँग आपसी सहकार्यमा राम जन्मभूमि आन्दोलनमा प्रमुख भूमिका निर्वाह गरेकी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 372,
+    "text_length_max": 372,
+    "text_length_avg": 372.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1000,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22127.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22127.txt",
+    "relative_path": "22127.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22127.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1000,
+    "mtime": 1782796499.4122772,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b00514a4aa0a9f12cb921d8fb4bb1f63f88b1242",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

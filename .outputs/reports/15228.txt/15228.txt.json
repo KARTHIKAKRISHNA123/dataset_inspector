@@ -1,0 +1,94 @@
+{
+  "dataset": "15228.txt",
+  "file_name": "15228.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्याट दूरसञ्चार सार्वजनिक कम्पनी लिमिटेड एक राज्यको स्वामित्वमा रहेको कम्पनी हो जसले अन्तर्राष्ट्रिय मुख्य द्वारहरू, उपग्रह, र पानी मुनि केबल सञ्जालको जडान सहित थाइल्याण्डमा अन्तरराष्ट्रिय दूरसञ्चार पूर्वाधार सञ्चालन गर्दछ ।",
+    "हालैमा, क्याट दूरसञ्चारले अन्तर्राष्ट्रिय टेलिफन सेवा र सीडीएमए मोबाइल टेलिफोन सेवामा एकाधिकार लिएको थियोे । क्याट दूरसञ्चारले, थाइल्यान्ड टेलिफोन सङ्घ सँग साझेदार गरेर जिएसएम मोबाईल सेवा थाई मोबाईल प्रदान गरेको छ । हङकङको हचिसन एसिया दूरसञ्चार समूह सँगको साझेदारीमा, यसले थाइल्यान्डको 25 वटा मध्य क्षेत्रहरूमा CDMA2000 1x सेवा प्रदान गरेको छ र थाइल्यान्डका 51 वटा प्रदेशहहरूमा यसले CDMA2000 1xEV-DO सेवाहरू सञ्चालन गरेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 592,
+    "text_length_avg": 309.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7394,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15228.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15228.txt",
+    "relative_path": "15228.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15228.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7394,
+    "mtime": 1782796466.5584464,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cabd5e888bca2d828a621aa579eddccea3130f65",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

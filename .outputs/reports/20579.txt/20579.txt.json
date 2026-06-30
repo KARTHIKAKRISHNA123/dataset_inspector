@@ -1,0 +1,92 @@
+{
+  "dataset": "20579.txt",
+  "file_name": "20579.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिनियाँ अन्तर्राष्ट्रिय रेडियो, जसको पुरानो नाम रेडियो पेकिंग हो, को स्थापना 3 दिसम्बर, 1941 मा भएको थियो। चीन को एक मात्र अन्तर्राष्ट्रीय रेडियोको के रूपमा सीआरआईको स्थापना चीन र विश्वका अन्य देशहरुको जनताको बीच मैत्री र पारस्परिक समझदारी बढाउने उद्देश्यबाट गरीएको थियो।",
+    "आफ्नो स्थापनाको प्रारम्भिक दिनहरुमा सीआरआई, जापानी भाषा मा प्रतिदिन 15 मिनेटको कार्यक्रम प्रसारित गर्दथ्यो। तर आज 70 वर्षपछि यो 57 विदेशी भाषाहरु र मन्दारिन भाषा र 4 बोलिहरुमा दुनिया भरमा प्रतिदिन 211 घण्टाको प्रसारण सेवा प्रदान गर्दछ। यसको कार्यक्रमहरुमा समाचार, सामयिक टिप्पणीको साथ साथ आर्थिक, सांस्कृतिक, र वैज्ञानिक र प्रबिधिक विषय सम्मिलित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 357,
+    "text_length_avg": 185.36,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5504,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20579.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20579.txt",
+    "relative_path": "20579.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20579.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5504,
+    "mtime": 1782796492.3452222,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d0c8eb759f996a453df787e2694d6d312344565d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

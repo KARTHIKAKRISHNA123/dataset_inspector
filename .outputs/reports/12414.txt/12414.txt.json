@@ -1,0 +1,92 @@
+{
+  "dataset": "12414.txt",
+  "file_name": "12414.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल शिक्षाको इतिहास ",
+    "शिक्षा ज्ञान तथा सिप सिक्ने तथा सिकाउने पद्धति हो। शिक्षाले मानिसालाई अन्धकारबाट उज्यालो तर्फ लम्काउछ | शिक्षा निरन्तर चलीरहने प्रक्रिया हो। यो जन्मे देखि नमरुन्जेल सम्म कुनै न कुनै रुपमा चलिरहेको हुन्छ। ज्ञान सिकाउने तथा विद्यार्थीलाई पढ्न सघाउने काम शिक्षक, गुरु तथा अध्यापकले गर्दछन्। शिक्षा धेरै किसिमको हुन्छ |"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 315,
+    "text_length_avg": 182.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1946,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12414.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12414.txt",
+    "relative_path": "12414.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12414.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1946,
+    "mtime": 1782796453.881555,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5a44e620d9b8677d496f277d282903203a6cd0cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "33646.txt",
+  "file_name": "33646.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रुस को प्रमुख शहर |",
+    "मे 16, 1703 मा तत्कालिन रुसी शासक पिटर पिटर महानले अहिले पिटर-पल फोट्रेस भनेर चिनिने स्तम्भको पहिलो ढुंगा बिछ्याएर सेन्ट पिटर्सवर्गको निर्माण शुभारम्भ गरेका यो शहर तत्कालिन जारको संरक्षक सेन्ट पिटरको नाउँबाट राखिएको थियो।फ्रान्सेली, जर्मन र इटालेली वास्तुकारहरूले दक्ष रूसी समकालीनहरूसित मिलेर निर्माण गरेको यस शहर लाई विश्वकै उत्कृष्ट शहर मानिन्छ|"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 926,
+    "text_length_avg": 459.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12282,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33646.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33646.txt",
+    "relative_path": "33646.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33646.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12282,
+    "mtime": 1782796552.5138273,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "281257d2cdcfd5a5946cc9b6218e99ad825e0139",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "7107.txt",
+  "file_name": "7107.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "–  — ",
+    "बेल्जियम युरोप महादेशमा स्थित एक देश हो जसको राजधानी ब्रसेल्स हो। बेल्जियम इतिहासमा एक प्रमुख यूरोपीय युद्धक्षेत्र बनेको छ। तैपनि पछिल्लो शतकमा प्राप्त आर्थिक समृध्दिका कारणले यो पश्चिमी यूरोपको एक उदाहरणिय राजतन्त्रात्मक लोकतान्त्रिक राष्ट्र बनेको छ।ब्रसेल्स यूरोपीयन युनियन र उत्तर अटलान्टिक संधि सङ्गठन को मुख्यालय हो। जसले गर्दा बेल्जियमको राजधानी ब्रसेल्स अन्तर्राष्ट्रिय राजनीतिको प्रमुख चलखेल स्थान बनेको छ। परन्तु, प्रमुख रूपमा उत्तरी क्षेत्रका डच भाषी र दक्षिणी भागका फ्रेंच भाषीको आपसी तनाव"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 673,
+    "text_length_avg": 230.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1876,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7107.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7107.txt",
+    "relative_path": "7107.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7107.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1876,
+    "mtime": 1782796592.9485896,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dfe4198c7f403f043e6f2dc3345fc9705b3e09e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

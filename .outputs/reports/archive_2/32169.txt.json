@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32169.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रति व्यक्ति आय एउटा महत्वपूर्ण आर्थिक सूचक हो । जसले देशमा मानिसहरुलाई मर्यादित जीवनस्तरमा बाच्नका लागि आवश्यक पर्ने साधनहरु कत्तिको प्राप्त छन् भन्ने कुराको सूचना प्राप्त हुन्छ । प्राचीन अवधारणामा प्रतिव्यक्ति आय वा राष्ट्रिय आयलाई नै मानवीय विकासको प्रमुख सूचक मानिन्थ्यो ।प्रति व्यक्ति आय सूचकलाई अचेल अर्थशासत्रीहरुले परिवर्तन गरि पर्चेजिंग पावर परिटिको प्रयोग गर्दछन् ।",
+    "प्रति व्यक्ति आयले क्रय शक्तिको ठीक नाप दिन नसक्ने हुंदा त्यसलाई क्रयशक्तिमा रुपान्तर गरिन्छ । त्यसैले यस नापको नाम प्रतिव्यक्ति आय क्रय शक्ति सूचक हो । प्रति व्यक्ति आय क्रय शक्ति पत्ता लगाउन क्रयशक्ति समताको प्रयोग गरिन्छ । यसको कारण के हो भने प्रति व्यक्ति आयले भन्दा क्रय शक्ति समताले आयको वास्तविक जानकारी प्राप्त हुन्छ । क्रय शक्ति समतालाई एउटा उदाहरणद्वारा व्याख्या गर्न सकिन्छ । मानौ एउटा ब्रेड जुन नेपालमा 50 रु मा पाइन्छ त्यस्तै ब्रेडलाई अमेरिकामा एक डलर पर्छ । मुद्राको विनिमय दर अनुसार 1 "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 376,
+    "text_length_max": 830,
+    "text_length_avg": 603.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3178,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32169.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32169.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32169.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3178,
+    "mtime": 1782796650.4620986,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "62b2127ca8145bf1553b260f6b71a5385cee9b71",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

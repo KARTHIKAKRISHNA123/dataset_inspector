@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29454.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारुण्ड एक प्राचीन पन्छी हो । महाभारत भीष्म पर्व अध्याय 7 मा भारुण्ड नामक पक्षीको उल्लेख छ । भारुण्डको भुँडी एउटै भए पनि मुख दुईवटा थियो ।",
+    "हिरण्यकश्यप लाई मरेपछि पनि जब नृसिंह को क्रोध शान्त नहुँदा तब भारुण्डले नृसिंहलाई आफ्नो पन्जामा समाएर आकाशमा लिएर उडेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 796,
+    "text_length_avg": 171.15,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5870,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29454.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29454.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29454.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5870,
+    "mtime": 1782796645.031034,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.942,
+    "sha1_quick": "bb3653e166558730ca9619ebfae67091c570c2f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

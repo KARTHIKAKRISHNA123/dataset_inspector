@@ -1,0 +1,92 @@
+{
+  "dataset": "24880.txt",
+  "file_name": "24880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुचेता कृपलानी  एक भारतीय स्वतंत्रता सेनानी एवं राजनीतिज्ञ थिइन्। उनी उत्तर प्रदेशको मुख्य मंत्री बनिन् र भारतको प्रथम महिला मुख्य मंत्री थिइन्। ",
+    "स्वतंत्रता आंदोलनमा श्रीमती सुचेता कृपलानीको योगदानलाई पनि सदै याद गरिने छ। 1908मा जन्म लिएकी सुचेता जीको शिक्षा लाहौर र दिल्लीमा भएको थियो। आजादीको आंदोलनमा भाग लिनको कारण उनलाई जेलको सजाय पनि भयो 1946मा उनी संविधान सभाको सदस्य चुनिएको थिइन्। 1958बाट 1960 सम्म उनी भारतीय राष्ट्रीय कांग्रेसको महासचिव थिइन्। 1963बाट 1967सम्म उनी उत्तर प्रदेशको मुख्यमंत्री रहिन्। 1 डिसेम्बर 1974मा उनका निधन भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 145,
+    "text_length_max": 402,
+    "text_length_avg": 273.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1417,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24880.txt",
+    "relative_path": "24880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24880.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1417,
+    "mtime": 1782796511.7606306,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.978,
+    "sha1_quick": "b030df41418bbf4e549743e794e654caaa03366c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

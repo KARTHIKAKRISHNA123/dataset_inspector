@@ -1,0 +1,93 @@
+{
+  "dataset": "28260.txt",
+  "file_name": "28260.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुलुङ किराती वंशहरू मध्यको एक जाती हुन। कुलुङहरू नेपालको उतरपूर्वी भेगमा मुख्येत सोलुखुम्बुको महाकुलुङ क्षेत्रमा बसोबास गर्दछन।",
+    "1. कुलुङ जाति उत्पतिकुलुङ बंशवली र मिथक अनुसार खारकी श्रीमती दुम्दिलिम गल्काम्माले मिनापोङ्खो हाल्कुम्बुमा खोक्चीलिप जन्माइन् । खोक्चीलिपले नागी वंशका पाछोक्सी येरुकाकी छोरी वेइलिम्मासित विवाह गरे । खोक्चिलिपले वेइलिमसँग विवाह गरेपछि उनीहरुले मिनापोङ्खो हाल्कुम्बूमा पहिलो मानव बस्ती बसाएर सभ्यताको सुरुवात गरे । खोक्चिलिप र वेइलिमको सन्तानका रुपमा रोदु वा किराँतको जन्म भयो । तिनै किरातका सन्तानहरु फैलिँदै जाँदा ब्रह्मपुत्र किनारबाट गंगाको उत्तरी मैदान र सिन्धू घाँटीसम्म पुगे । अधिकांश इतिहासकारले"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 1723,
+    "text_length_avg": 846.82,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9824,
+      "Latin": 0.0176
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24670,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28260.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28260.txt",
+    "relative_path": "28260.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28260.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24670,
+    "mtime": 1782796527.3797226,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4639aae7e6700be978bb399990f673d840671bd5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16762.txt",
+  "file_name": "16762.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरी ईटालीको पूर्व दक्षिण तटमा रहेको भेनिस, पानीमा तैरिरहेको सुन्दर शहर हो । जहाँ 1 सय 20 वटा साना द्विपलाई आपसमा जोड्ने 4 सयभन्दा बढी पुल र नहरहरू रहेका छन | ग्रेन्ड क्यानलमा र रियाल्टो ब्रिज को मुनी आकर्षक गोन्डोलाले पर्यटकलाई आकषिर्त गर्छ । मुरानो द्विप नदेखेसम्म भेनिसको यात्रा अधुरै रहने मान्यता रहँदै आएको छ ।",
+    "एड्रियाटिक समुद्रको उत्तरपश्‍चिमी छेउमा रहेको कच्छ अर्थात्‌ जलाशयको बीचमा भेनिस अवस्थित छ र यो 120 वटा टापुहरूको संगालो हो । नजिकैको समुद्रमा गएर मिल्ने नदीहरूले त्यति गहिरो नभएको समुद्री किनारामा निकै पाँगो माटो थुपार्ने गरेको छ । यहाँ ज्वारभाटा र करेन्टको उतारचढावले गर्दा बनेका बगरहरूले 51 किलोमिटर लामो र 14 किलोमिटर जति चौडाईको एउटा शान्त कच्छ बनाएको छ । समुद्रतिर बग्ने तीनवटा साँघुरों घाटीबाट एक मिटर अग्लो ज्वारभाटा छिर्न सक्छ भने डुङ्गाहरू पनि आवतजावत गर्न सक्ने छ । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 317,
+    "text_length_max": 699,
+    "text_length_avg": 467.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4995,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16762.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16762.txt",
+    "relative_path": "16762.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16762.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4995,
+    "mtime": 1782796473.848746,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bc32bf2c73c186bb510b9b4144c18554c2a465f7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

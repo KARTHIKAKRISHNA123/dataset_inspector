@@ -1,0 +1,92 @@
+{
+  "dataset": "38174.txt",
+  "file_name": "38174.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महिना पुरा बर्षको 12औँ भागको एक भाग भन्ने बुझिन्छ। सामान्यतया अंग्रजी महिना 28 देखि 31 दिनको हुन्छ भने नेपाली महिना 29 देखि 32 दिनको हुन्छ। पुरा बर्ष भरिमा 12वटा महिनाहरू हुन्छन्।",
+    "विक्रम संवत अनुसार बैशाख महिनालाई पहिलो महिना मानिन्छ र चैत्र महिनालाई अन्तिम महिना मानिन्छ । नेपाली साथै हिन्दू धर्मावलम्बीको वसोवास रहेको क्षेत्रमा विक्रम संवतका महिनाहरू नै प्रचलनमा ल्याइएको देखिन्छ । हिन्दू प्रचलमा रहेको विक्रम संवत अनुसार 12 महिनाका नामहरू यस प्रकार रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 347,
+    "text_length_avg": 269.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2138,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38174.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38174.txt",
+    "relative_path": "38174.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38174.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2138,
+    "mtime": 1782796574.0460112,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "62c304decef3617a3b373d8e58a285242cb3d58a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

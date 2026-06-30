@@ -1,0 +1,92 @@
+{
+  "dataset": "22399.txt",
+  "file_name": "22399.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोजालिन् एल्सि फ्रेन्क्लिन अङ्ग्रेजी रसायनविद्, एक्स-रे विज्ञ थिइन् । उनले डिएनए, आरएनए, भाइरस, ग्रेफाइटको मलिक्युलिर संरचनाको बुझाइका लागि योगदान दिइन् । डिएनएको संरचनाको अध्ययन र उनको योगदानको कदर उनको मृत्यु पछि मात्रै गरियो ।",
+    "बेलायती यहुदी परिवारमा जन्मिएकी फ्रेन्क्लिनले निजि स्कुलबाट अध्ययन सुरु गरिन् । त्यसपछि उनले न्युनहम कलेज बाट स्नातक सन् 1941 मा सकाइन् । सन् 1945 मा उनले पिएचडी अध्ययन पूरा गरिन् । यस पश्चात् उनको थुप्रै अध्ययनहरू भए ।उनको सन् 1958 मा क्यान्सरबाट 37 वर्षको उमेरमा मृत्यु भयो । फ्रेन्क्लिन मुख्यत: डिएनएको अध्ययनको योगदानबाट प्रख्यात छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 229,
+    "text_length_max": 340,
+    "text_length_avg": 284.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1493,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22399.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22399.txt",
+    "relative_path": "22399.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22399.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1493,
+    "mtime": 1782796500.6416543,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8718caa956459fc819fe5032aeeeafd59ab53fcc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

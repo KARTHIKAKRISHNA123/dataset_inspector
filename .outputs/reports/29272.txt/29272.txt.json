@@ -1,0 +1,94 @@
+{
+  "dataset": "29272.txt",
+  "file_name": "29272.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालका बहुप्रशंसित नृवंश र समाज-मानवशास्त्री हुन । ",
+    "ललितपुर जिल्लाको झरुवारासीमा जन्मेका उनले आफ्नो विषयमा मौलिक र प्रस्ट दिशानिर्देश गर्नसक्ने धेरै पुस्तकको रचनाकार पनि हुन। अङ्ग्रेजीमा प्रकाशित उनको \"Fatalism and Development: Nepal's Struggle for Modernization\" वहु चर्चित कृति मानिन्छ। विष्टको त्यही फ्याटालिज्म एन्ड डेभलपमेन्ट नामक किताब पढेरै नेपालका आदिवासी जनजाति, मधेसी, दलित, महिला, मुस्लिम, पिछडिएको र उत्पीडित क्षेत्रका अगुवाहरु नेपालमा रहेको जातीय, भाषिक, क्षेत्रीय, लिंगीय, धार्मिक, वर्गीय आदि विभेदविरुद्ध बुलन्द आवाज उठाउन थाले । वि.सं 2"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 745,
+    "text_length_avg": 385.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9449,
+      "Latin": 0.0551
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2954,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9449,
+      "Latin": 0.0551
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29272.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29272.txt",
+    "relative_path": "29272.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29272.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2954,
+    "mtime": 1782796532.225005,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5b17c3a5a04982fae2894d91ce268e55dd6599c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

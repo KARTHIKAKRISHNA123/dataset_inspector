@@ -1,0 +1,91 @@
+{
+  "dataset": "22918.txt",
+  "file_name": "22918.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेणु खाटोर अमेरिका मा डल्लासको फेडरल रिजर्व बैंकको निदेशक बोर्डको प्रमुख हुन् । उनी यो भन्दा पहिले अमेरिकाको ह्यूस्टन विश्वविद्यालयको प्रमुख तथा विश्वविद्यालय आफ ह्यूस्टन सिस्टम्सको कुलपति भई सकेकी छिन्, यसअन्तर्गत उनी ह्यूस्टनको अधिन चार विश्वविद्यालयहरूको प्रशासनिक प्रमुखको कार्यभार सम्भालेकी थिइन् । यो विश्वविद्यालयमा 56 हजार भन्दा बढी छात्र अध्ययन गर्छन । उनी कुनै पनि प्रतिष्ठित अमेरिकी विश्वविद्यालयमा यति ठुलो पद पाउने वाली पहिलो भारतीय महिला हुन् । यो भन्दा पहिले उनलाई 2003 मा साउथ फ्लोरिड"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 799,
+    "text_length_max": 799,
+    "text_length_avg": 799.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2128,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22918.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22918.txt",
+    "relative_path": "22918.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22918.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2128,
+    "mtime": 1782796502.8368258,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7e98de2c9779917571822dcab1cbd7b87c8dac02",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "25587.txt",
+  "file_name": "25587.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोनिया गान्धी ; जन्म एडविग एन्टोनिया एलबिना माइनो, 9 डिसेम्बर 1946) इटालीमा जन्मेका भारतीय राजनीतिज्ञ हुन्, जो सन् 1998 देखि हालसम्म भारतीय राष्ट्रिय काङ्ग्रेसको अध्यक्षको रुपमा जिम्मेवारी वहन गर्दै आएकी छिन् । उनी भूतपूर्व भारतका प्रधानमन्त्री र नेहरू-गान्धी परिवारका राजीव गान्धीकी श्रीमती हुन् । उनको श्रीमानको सन् 1991 मा हत्या पछी काङ्ग्रेसका वरिष्ठ नेताहरूद्वारा उनलाई राजनीतिमा आउन निम्तो दिइएको थियो तर त्यस बेला उनले सो प्रस्तावलाई अस्वीकार गरेकी थिइन् । अन्ततः उनी सन् 1997 मा उनी राजनीतिमा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 577,
+    "text_length_max": 577,
+    "text_length_avg": 577.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1503,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25587.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25587.txt",
+    "relative_path": "25587.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25587.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1503,
+    "mtime": 1782796515.0434792,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "422967591f13a4db834cf005318c596c1110ea83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

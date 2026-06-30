@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6659.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "म्यारी ऐन इभ्यान्स्, साहित्यिक नाम: जर्ज इलियट, अंंग्रेजी उपन्यासकार, पत्रकार, अनुवादक र रानी भिक्टोरिया कालकी मुख्य लेखिका थिइन्। उनका मुख्य सात उपन्यासहरू ऐडम ब्एड, द मिल अन द फल्स, सिलास् मार्नेर, मिडेलमार्च, र ड्यानियल डेरोन्डा हुन् ।",
+    "आफ्नो कार्य ध्यानपूर्वक लिइयोस् भनेर उनले आफ्नो साहित्यिक नाम पुरूषको जस्तो राखिन् । महिला साहित्यकारहरूले त्यतिबेला आफ्नै वास्तविक नामबाट सिर्जना रच्ने गर्थे । उनि आफ्नो साहित्यिक कार्यको भिन्नै रूपबाट विश्लेषण होस् भन्ने चाहन्थिन् । आफ्नो व्यक्तिगत जीवन बाहिरी संसारले थाहा नपाओस् भन्ने हेतुले र विशेषत: उनको जर्ज हेनरी लिविससंगको सम्बन्ध प्रकाशमा नआओस् भन्ने सोचले पनि उनले उक्त साहित्यिक नाम रोजेकी हुन सक्छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 416,
+    "text_length_avg": 185.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1983,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6659.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6659.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6659.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1983,
+    "mtime": 1782796669.0720341,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "57296147e3c1d79d93ce37d4951e2e7a96cbfcf0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

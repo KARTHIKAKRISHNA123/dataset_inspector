@@ -1,0 +1,94 @@
+{
+  "dataset": "6473.txt",
+  "file_name": "6473.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाउलो कोहेल्हो (पोर्चुगिज उच्चारण: ; ब्राजीलका चर्चित गीतकार तथा उपन्यासकार हुन।उनको जन्म अगस्ट 24,1947मा भएको थियो।",
+    "पाउलो कोहेल्होको जन्म ब्राजिलको रियोदी जेनेरियोमा भएको थियो।उनले जेसुइट स्कुल पढेका थिए।किसोर अबस्थामा पाउलो लेखक बन्न चाहान्थे तर जब उनले यो कुरा आफ्नी आमालाई सुनाए तब उनकी आमाले भनिन-\"प्यारो छोरा,तिम्रो बुबा इन्जिनियर हुनुहुन्छ।उहाँ तर्कपुर्ण ,युक्तिसंगत तथा स्पष्ट विचार भएको हुनुहुन्छ।उहाँलाई यो संसारको बारेमा प्रष्टरूपमा थाहा छ।तर के तिमीलाई वास्तबमै थाहा छ लेखक भनेको के हो?\"। त्यसपछि पाउलोले लेखकहरूको बारेमा खोजिनिति गर्ने आटे \"लेखकहरू भनेका ठुलो चश्मा लगाउने,आफ्नो कपाल पनि कहिल्यै नकोर्ने "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 983,
+    "text_length_avg": 389.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6181,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6473.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6473.txt",
+    "relative_path": "6473.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6473.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6181,
+    "mtime": 1782796589.8471959,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7075e199a6652b5e1e66f886db8484dc78c15d1a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

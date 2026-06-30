@@ -1,0 +1,96 @@
+{
+  "dataset": "17676.txt",
+  "file_name": "17676.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ऑल इंडिया फार्वर्ड ब्लाक भारतमा एउटा राष्ट्रवादी राजनीतिक दल हो | दल नेताजी सुभाषचन्द्र बोस 1939मा स्थापना गरियो |",
+    "Debrata Biswas दलको महासचिब हो |"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 114,
+    "text_length_avg": 60.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8222,
+      "Latin": 0.1778
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 540,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8222,
+      "Latin": 0.1778
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17676.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17676.txt",
+    "relative_path": "17676.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17676.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 540,
+    "mtime": 1782796478.5283735,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "09dd1a1a1fe2dda28c1a28fcabc208d80692bf72",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "2927.txt",
+  "file_name": "2927.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ह्रास भन्नाले सम्पत्तिको मुल्यमा आउने कमिलाई जनाउँदछ । सम्पत्तिको प्रयोग सँगै त्यसको रकम घट्दै जाने गर्दछ, यसरी घट्ने रकमलाई नै ह्रास भनिन्छ । लेखामा यस अवधारणाको दुई पक्षहरु छन् । ",
+    "पहिलोले संस्थाको वासलातलाई असर गर्दछ भने दोश्रोले संस्थाको नाफा नोक्सान हिसाबलाई असर गर्दछ । सम्पत्तिको लागत मूल्यलाई प्रयोग गर्न सकिने वर्षमा बाँडफाँड गरि आएको ह्रास रकमलाई प्रयोग गरिएको वर्ष नाफा नोक्सान हिसाबमा खर्चको रुपमा देखाउने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 243,
+    "text_length_avg": 165.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1332,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2927.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2927.txt",
+    "relative_path": "2927.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2927.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1332,
+    "mtime": 1782796532.2084382,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46912e6c1b0a6901f9e0d4802718db661f0cdb11",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

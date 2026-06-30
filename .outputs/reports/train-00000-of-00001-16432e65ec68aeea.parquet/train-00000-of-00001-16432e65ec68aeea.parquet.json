@@ -1,0 +1,105 @@
+{
+  "dataset": "train-00000-of-00001-16432e65ec68aeea.parquet",
+  "file_name": "train-00000-of-00001-16432e65ec68aeea.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेबादि समावनो भारत हादोरनि सासे काबादि खेलानि फोरोंगिरि असन सांगबानआ आबादारि आयेनखौ मिरु सोरखारआ बोखांनानै लायाब्ला गावनि सोरखारनिफ्राय मान मोननाय अर्जुन बान्थाखौ गथायफिनगोन।",
+    "उन्होंने कहा कि जब सोनोवाल सरकार सत्ता में आई तो 6 लाख से अधिक आदिवासियों के पास अपनी जमीन का दावा करने के लिए कोई कागजात नहीं था। उन्होंने अपनी नई भूमि नीति और असम के लोगों के प्रति अपनी प्रतिबद्धता के लिए सोनोवाल सरकार की सराहना की। उन्होंने कहा कि भूमि के पट्टे के कारण, असम के मूल निवासियों की लंबी मांग पूरी हो गई है। इससे लाखों लोगों के जीवन स्तर को बेहतर बनाने का मार्ग प्रशस्त हुआ है।"
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 50006,
+    "text_length_min": 1,
+    "text_length_max": 5232,
+    "text_length_avg": 193.64,
+    "duplicate_estimate": 28,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0085,
+      "Bengali": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 49604792,
+    "estimated_records": 474703
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 474703,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9947,
+      "Latin": 0.0053
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "num_rows": 474703,
+    "num_row_groups": 475,
+    "arrow_schema": {
+      "text": "string"
+    }
+  },
+  "meta": {
+    "file_name": "train-00000-of-00001-16432e65ec68aeea.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train-00000-of-00001-16432e65ec68aeea.parquet",
+    "relative_path": "train-00000-of-00001-16432e65ec68aeea.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train-00000-of-00001-16432e65ec68aeea.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 49604792,
+    "mtime": 1782723066.9273112,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "783aee3087f4632a065b1e858718f9977a9c05c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

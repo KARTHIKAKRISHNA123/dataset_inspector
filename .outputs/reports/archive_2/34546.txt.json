@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34546.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संस्कृत भाषाको कोश, अमरकोशमा अर्थ शब्दका पर्याय यस प्रकार दिइएका छन्- द्रव्यं वित्तं स्वपातेयं रिक्थमृक्थं धनं वसु । हिरण्यं द्रविणं द्युम्नमर्थरैविभवाऽपि अर्थात् द्रव्य, वित्त, स्वापतेय, रिक्थ, धन, वसु, हिरण्य, द्रविण, द्युम्न, अर्थ, रा, विभव आदि । यी मध्ये प्रत्येक शब्दको एउटा अभिधेय अर्थ धन हो यस बाहेकका तात्पर्य कोष्ठमा उल्लेख गरिएको छ– द्रव्य, वित्त, स्वापतेय, रिक्थ, ऋक्थ, धन, वसु, हिरण्य, द्रविण, द्युम्न, अर्थ, रा, विभव । यीमध्ये 10 वटा नपुंसकलिंगी र तीनवटा पुल्लिंगी छन् । संक्षेपमा अर्थका",
+    "नेपाली वृहत् शब्द कोशमा अर्थ शब्दका 11 वटा अर्थ यसरी उल्लेख छ– "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 1073,
+    "text_length_avg": 493.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9967,
+      "Latin": 0.0033
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11842,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34546.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34546.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34546.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11842,
+    "mtime": 1782796655.2590232,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "c87afc355edf926d4c30c002e2e9ad7c081bf73a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

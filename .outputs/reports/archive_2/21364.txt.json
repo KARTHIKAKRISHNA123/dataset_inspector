@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21364.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शान्तिपुर, गुल्मी गुल्मी जिल्लामा अवस्थित एक गाउँ विकास समिति हो। शान्तिपुर गुल्मी जिल्ला को एउटा बिकसित ठाउँ हो ! अहिले एस ठाउँ मा हाइद्रोपवर बनेपछि धेरै ले शान्तिपुर चिनेका हुन् ! येस क्षेत्रका वरी परि चन्द्रकोट,रेमि भंजेंग बिशुखर्क हर्राचौर वुल्के आदि छन्, भने रेमिको टिमुरे ताल, र बिशुखर्क माथि दिब्रुंग देवी को मन्दिर र शिवालय छ ! ",
+    "शान्तिका अग्रदुत गौतम बुद्धको जन्मस्थल लुम्बिनी अञ्चलका 6 जिल्लामध्ये एक पहाडी जिल्ला गुल्मी हो । 27.55ۛ अक्षांस देखि 28.27ۛ उत्तरी अक्षांश र 83.13ۛ पूर्व देखि 83.35ۛ पूर्वि देशान्तर विच पर्ने यो एक पहाडी जिल्ला हो । यस जिल्लाको पूर्वमा स्याङ्जा र पाल्पा पश्चिममा प्यूठान उत्तरमा बाग्लुङ, पर्वत र दक्षिणमा अर्घाखाँची जिल्ला पर्दछन् । यस जिल्लाको क्षेत्रफल 114900 हेक्टर छ र यो जिल्ला समुद्र सतहदेखि 465 मि. देखि 2690 मि. सम्म उचाई रहेको छ । यस जिल्लाको पूर्व पश्चिम सरदर लम्वाई 40 कि.मि. र उत्तर दक्ष"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 891,
+    "text_length_avg": 396.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9982,
+      "Arabic": 0.0018
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7211,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9982,
+      "Arabic": 0.0018
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21364.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21364.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21364.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7211,
+    "mtime": 1782796628.9272587,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "60fae572a773f27644f0df1d9cc0b7b38583e7e7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

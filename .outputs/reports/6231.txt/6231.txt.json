@@ -1,0 +1,92 @@
+{
+  "dataset": "6231.txt",
+  "file_name": "6231.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको राष्ट्रिय खेलकुदमा पहिलो संस्करण देखिनै खोखो खेललाई स्थान दिदै आएता पनि यस खेलले नेपालमा त्यति ठूला परिचय स्थापित गर्न भने सकेको छैन ।",
+    "नेपालमा 2038 सालदेखि विद्यालय पाठ्यक्रममा शिक्षा विषयमा समावेश गरिए पनि तालिम प्राप्त प्रशिक्षकको अभावमा यो खेलले लोकप्रियता पाउन सकेन । वि.स. 2041 सालमा भारतबाट आएका प्रा.भी.डी. बापतले नेपाल भ्रमणगरि प्रदर्शन खेल प्रस्तुत गरेपछि यो खेलले नेपालमा नयाँ रूप धारण गरेको हो । वि.स. 2051 सालमा डा. रामकृष्ण महर्जनको अध्यक्षतामा खो-खो संघको तदर्थ समिति गठन पछि वि.स.2052 सालमा उक्त संघले मान्यता पायो । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 519,
+    "text_length_avg": 352.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2797,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6231.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6231.txt",
+    "relative_path": "6231.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6231.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2797,
+    "mtime": 1782796588.771836,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0da02872a23fa0ae7ac8f451dca49706ca121449",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

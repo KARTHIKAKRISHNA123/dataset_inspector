@@ -1,0 +1,92 @@
+{
+  "dataset": "6621.txt",
+  "file_name": "6621.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाल्कन युद्ध, सन् 1912 - 1913मा भएका थिए । प्रथम विश्वयुद्धका कारणहरुमा माने जान्छन् ।",
+    "सन् 1912मा रूस र फ्रांसमा यो समझौता भयो कि यदि बाल्कन प्रायद्वीपका प्रश्नमा जर्मनी अथवा अस्ट्रिया रूसबाट युद्ध गर्नेछन् त फ्रांस रूस सहित रह्नेछ। फ्रांसीसी सहायताको आश्वासन मिलए पछि बाल्कन प्रायद्वीपमा रूस बेरोक टोक हस्तक्षेप गर्न लागयो। रूसका उकसानेमा चार बाल्कन राज्यहरुले मिलेर सन् 1912मा गुप्त रूपबाट एक समझौता गरे। यो राज्य थिए यूनान, बल्गेरिया, मांटीनीग्रो तथा सर्विया। यस समय टर्की निर्बल भएको थियो र वहाँ आंतरिक अशांति फैली भएको थियो। बाल्कन राज्यहरुका समझौतेको उद्देश्य ेको थियो कि तिनीहरु ट"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 1252,
+    "text_length_avg": 616.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13154,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6621.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6621.txt",
+    "relative_path": "6621.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6621.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13154,
+    "mtime": 1782796590.5715635,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1d30bf80034281a0345a64ee86793164f570ade8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5185.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिकित्सालय या अस्पताल स्वास्थ्यको देखभाल गर्ने संस्था हो। यसमा विशिष्टता प्राप्त चिकित्सकहरू एवं अन्य स्टाफहरूद्धारा तथा विभिन्न प्रकारका उपकरणहरूको सहायताले रोगीहरूको निदान एवं चिकित्सा गरिन्छ। ",
+    "अस्पताल वा चिकित्सालय तथा औषधालय मानव सभ्यताको आदिकाल देखि नै बन्दै आएका हुन। वेद र पुराणोंको अनुसार स्वयं भगवान्ले प्रथम चिकित्सकको रूपमा अवतार लिएको थियो। 5,000 वर्ष या यसले पनि प्राचीन इतिहासमा चिकित्सालहरूको प्रमाण पाइन्छन्, जसमा चिकित्सक तथा शल्यकोविद काम गर्थे। यो चिकित्सक तथा सर्जन रोगिहरूलाई रोगमुक्त गर्न र उनको आर्तिनाशन तथा मानवताको ज्ञानवृद्धिको भावों देखि प्रेरित भएर स्वयंसेवकको भांति आफ्नो कर्ममा प्रवृत्त रहथे। ज्हरू-ज्हरू सभ्यता तथा जनसङ्ख्या बढती गई त्हरू त्हरू सुसज्जित चिकित्सालह"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 1333,
+    "text_length_avg": 512.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 35629,
+    "estimated_records": 69
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 69,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5185.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5185.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5185.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 35629,
+    "mtime": 1782796666.020344,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "13933dae3984dc73d42a25f292d4fb78099118d5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

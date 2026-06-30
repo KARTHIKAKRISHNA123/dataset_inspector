@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9300.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केन्द्रीय अन्वेषण ब्यूरो अर्थात सीबीआई भारत सरकारको प्रमुख जाँच एजेन्सी हो। यो आपराधिक एवं राष्ट्रीय सुरक्षा संग जोडिएका बिभिन्न प्रकारको मामिलाको जाँच गर्नको लागी लगाईन्छ। ",
+    "यसले कार्मिक एवं प्रशिक्षण विभागको अधीन कार्य कार्य गर्दछ। यद्यपि यसको सङ्गठन फेडरल ब्यूरो अफ इन्वेस्टिगेशनसंग मिल्दो जुल्दो छ तर यसको अधिकार एवं कार्य-क्षेत्र एफ् बीआईको तुलनामा धेरै सीमित छ। यसको अधिकार एवं कार्य दिल्ली विशेष प्रहरी संस्थापन ऐन, 1946बाट परिभाषित छ। भारतको लागी सीबीआई नै इन्टरपोल को आधिकारिक एकाइ हो। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 1097,
+    "text_length_avg": 411.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5550,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9300.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9300.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9300.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5550,
+    "mtime": 1782796674.252303,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4fb4840c3c81cabd7044b76fa481250e2eabde3c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

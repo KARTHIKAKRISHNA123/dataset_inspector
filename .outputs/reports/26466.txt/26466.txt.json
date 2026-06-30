@@ -1,0 +1,92 @@
+{
+  "dataset": "26466.txt",
+  "file_name": "26466.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्रैम्पटन कनाडाका सबैभन्दा ठूला राज्य ओण्टारियोका ग्रेटर टोरण्टो एरियाको तेस्रो सबैभन्दा ठूलो सहर छ। यो पीलको क्षेत्रीय नगर पालिका को सीट छ। वर्ष 2011मा भएको जनगणनाका अनुसार ब्रैम्पटनको आबादी 523,911 थियो, जो यसलाई कनाडाका भित्र नौवां सबैभन्दा ठूलो सहर बनाउँछ। औसत आयु 33.7 हुनको कारण यो ग्रेटर टोरण्टो एरियाको सबैभन्दा युवा समुदाय छ। ब्रैम्पटनको कनाडामा दक्षिण एसियाई मानिसहरुको सबैभन्दा अधिक एकाग्र्दछ, यसको 31.7% आबादी दक्षिण एसियाई मूलको छ। ",
+    "ब्रैम्पटनलाई 1853मा एक गाँवका रूपमा निगमित गरिएको थियो। यसको यो नाम यसलाई इंग्ल्याण्डको कम्ब्रिया काउंटीका ब्रैम्पटन ग्रामीण नगरदेखि मिल्यो थियो। एक समयमा ब्रैम्पटन कनाडाका फूलहरुका सहर का नामले जानिन्थ्यो। यो शीर्षक सहरमा स्थित ठूला ग्रीनहाउस उद्योगका कारण मिल्यो थियो। वर्तमान समयमा सहरका प्रमुख आर्थिक क्षेत्रहरुमा उन्नत विनिर्माण, आफूरा प्रशासन र संभार-तन्त्र, सूचना र संचार प्रविधि, मल्य र पेय पदार्थ, जीवन विज्ञान र व्यापार सेवाहरु सामेल छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 445,
+    "text_length_max": 448,
+    "text_length_avg": 446.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2353,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26466.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26466.txt",
+    "relative_path": "26466.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26466.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2353,
+    "mtime": 1782796519.2524242,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "d94b0ef5dab0e74276b9d4c8e5ad4bb48172958c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

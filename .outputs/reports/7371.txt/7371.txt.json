@@ -1,0 +1,92 @@
+{
+  "dataset": "7371.txt",
+  "file_name": "7371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पेनाल्टी सुटआउट  अथवा यसलाई टाइब्रेकर पनि भन्ने चलन छ । यो फुटबल खेलको एक महत्त्वपूर्ण नियम हो । यसले फुटबल खेलमा बिजेता र उपबिजेता छुट्ट्याउन बिशेष भुमिका निर्वाह गर्दछ । फुटबल खेलमा निर्धारित 90 मिनेटको समयमा पनि खेलको कुनै पनि स्पष्ट नतिजा आउन नसके 30 मिनेटको अतिरिक्त समय थपिन्छ । तर यसरी पनि कुनै निर्णय नआएको खण्डमा बल्ल पेनाल्टी सुट आउटको प्रयोग गरिन्छ ।",
+    "समूह चरण वा लिग चरण बाहेकको नक आउट चरणको जुन सुकै फुटबल प्रतियोगिताहरूमा यस नियमको प्रयोग गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 362,
+    "text_length_avg": 273.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2122,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7371.txt",
+    "relative_path": "7371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7371.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2122,
+    "mtime": 1782796594.1543164,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "68bdc82b9f55f5f24fe2629c4437b17467a049ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

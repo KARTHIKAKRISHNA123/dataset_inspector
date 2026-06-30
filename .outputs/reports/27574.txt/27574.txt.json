@@ -1,0 +1,91 @@
+{
+  "dataset": "27574.txt",
+  "file_name": "27574.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भीमसेन दाहालजनआन्दोलन-2मा शहादत प्राप्त गर्ने शहीद हुन्। यिनी काभ्रे उग्रचण्डीका स्थायी बासिन्दा थिए र पोखरामा साइबर चलाएर बसेका थिए। आन्दोलनको क्रममा चैत्र 26 गते महेन्द्रपुल नजीक सेनाको गोली लागी यिनी शहीद भएका थिए। यिनका 2 श्रीमती र 2 छोरा दिनेश एवं विशाल छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 263,
+    "text_length_max": 263,
+    "text_length_avg": 263.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 696,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27574.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27574.txt",
+    "relative_path": "27574.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27574.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 696,
+    "mtime": 1782796524.2692554,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "f232c00fcfddb6bc8895c4ffbce589abad3551a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

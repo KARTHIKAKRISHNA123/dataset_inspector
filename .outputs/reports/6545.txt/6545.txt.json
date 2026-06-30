@@ -1,0 +1,91 @@
+{
+  "dataset": "6545.txt",
+  "file_name": "6545.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोताङ गाउँपालिका नेपालको एक हिमाली गाउँपालिका हो । नेपालमा 744 स्थानीय तह लागू हुँदा सोलुखुम्बुमा साविकका सोताङ, गुदेलको वडा नं. र पावै गाउँ विकास समितिहरूलाई समेटेर सोताङ गाउँपालिका बनाइएको हो । सोताङ गाउँपालिकको कूल जनसंख्या 9,530 रहेको छ । यसको क्षेत्रफल 103 वर्गकिलोमिटर रहेको छ । यस गाउँपालिकाको केन्द्र साविकको सोताङ गाविसको कार्यालयमा राखिएको छ । यस गाउँपालिकालाई 5 वडामा विभाजन गरिएको छ । यस गाउँपालिकाको सिमाना पूर्वमा माहाकुलुङ गाउँपालिका, पश्चिममा दुधकोशी र दुधकौशिका गाउँपालिका, उत्तरमा ख"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 589,
+    "text_length_max": 589,
+    "text_length_avg": 589.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1564,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6545.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6545.txt",
+    "relative_path": "6545.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6545.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1564,
+    "mtime": 1782796590.2178786,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d142ecd4584d3548d665ee156560d4eb32bbd653",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

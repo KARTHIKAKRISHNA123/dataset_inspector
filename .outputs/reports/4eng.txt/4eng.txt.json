@@ -1,0 +1,96 @@
+{
+  "dataset": "4eng.txt",
+  "file_name": "4eng.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "What happened?",
+    "What’s the matter?"
+  ],
+  "statistics": {
+    "records_sampled": 83202,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 1021,
+    "text_length_avg": 107.41,
+    "duplicate_estimate": 10652,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0,
+      "Arabic": 0.0,
+      "Devanagari": 0.0
+    },
+    "unicode_replacement_chars": 2,
+    "unicode_control_chars": 14,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9024482,
+    "estimated_records": 97995
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 97995,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4eng.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4eng.txt",
+    "relative_path": "4eng.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4eng.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9024482,
+    "mtime": 1782794723.7331767,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "58dd5d4cce3a89bd06f25d66473ac19f007cc0c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

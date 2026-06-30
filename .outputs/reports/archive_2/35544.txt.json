@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "35544.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोहान गुटेनबर्ग आधुनिक मुद्रणकलाका आविष्कारक थिए। यिनले सन 1439मा प्रिन्टिङ प्रेसको रचना गरे जसलाई एक महान आविष्कार मानिन्छ। यिनले मूवेबल टाइपको पनि रचना गरे। यिनको छापाखानाबाट छापिएको बाइबल गुटेनबर्ग बाइबलको नामले प्रसिद्ध छ।",
+    "गुटेनबर्गको टाइप-मुद्रणको आविष्कार भन्दा पहिले मुद्रणको सारा कार्य ब्लकहरूमा अक्षर कुँदेर गरिन्थ्यो। गूटेनबर्गको जन्म जर्मनीको मेज नामक स्थानमा भएको थियो। 1420 ई.मा उनको परिवार राजनीतिक अशान्तिको कारणले शहर छोड्नु पर्‍यो। उनले 1439 ई. आसपास स्ट्रासबोर्गमा आफ्नो मुद्रण आविष्करणको परीक्षण गरे। उनले काठको टुक्रामा उल्टो अक्षर कुँदे। त्यसलाई शब्द र वाक्यको रूप दिनको लागि प्वाल मिलाएर परस्परमा जोडे। र यस प्रकार तयार भएका ठूलो ब्लकलाई कालो मसीमा डुबाएर प्रेस गरे। यसरी उनले मुद्रणकलामा सफलता प्राप्त गर"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 545,
+    "text_length_avg": 385.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2057,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35544.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\35544.txt",
+    "relative_path": "archive (2)\\valid\\valid\\35544.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2057,
+    "mtime": 1782796657.441278,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "14dd2ecf34a5120108ae7effbe3e84f5203a0265",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

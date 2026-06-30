@@ -1,0 +1,91 @@
+{
+  "dataset": "8125.txt",
+  "file_name": "8125.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संस्कृत भाषाबाट रूप र अर्थमा कुनै परिवर्तन नभई जस्ताको तस्तै नेपालीमा प्रयोग गरिनु तत्सम हो। जस्तै: प्रज्ञा, ऋषि, अञ्जलि, कीर्ति, दर्शन, विद्वान्। नेपाली भाषाको जननी संस्कृत भाषा भएकाले संस्कृत भाषाको नेपाली भाषामा निकै ठूलो प्रभाव छ। नेपाली प्रयोगमा तत्सम नियमलाई पछ्याउँदै आइएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 283,
+    "text_length_max": 283,
+    "text_length_avg": 283.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 754,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8125.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8125.txt",
+    "relative_path": "8125.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8125.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 754,
+    "mtime": 1782796597.7457497,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "47f8008af51897e191f1004d07b0ae6e0002d8da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

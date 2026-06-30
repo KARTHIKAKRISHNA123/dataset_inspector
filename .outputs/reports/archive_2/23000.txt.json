@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23000.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द्रवलिङ्गी अथवा तरल लैङ्गिकता भएका व्यक्तिहरू भनेका ती व्यक्ति हुन् स्वभाव पुरुषत्व देखि नारीत्वबीच झुलि रहन्छ। जस्तै कहिले उनीहरू एकदम पुरुष जस्तै व्यवहार देखाउँछन्। कहिले एकदम महिला जस्तै व्यवहार देखाँछन्। कहिले ती पुरुषत्व र नारीत्वको बीचमा हुन्छ। उनीहरूको लैङ्गिकता तरल हुने गर्दछ। द्रवलिङ्गीहरूको कुनै लैङ्गिकताको स्थिरबिन्द्रु हुँदैन। मानिलिऔँ पुरुषत्व दक्षिणी ध्रुव र नारीत्व उत्तरी ध्रुव हो भने, उनीहरू यही दुई ध्रुवका बीचमा जहाँ पनि हुन सक्छन्। कहिले ध्रुवको चरम बिन्दुहरूमा होलान्, कहिले अल"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 643,
+    "text_length_max": 643,
+    "text_length_avg": 643.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1728,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23000.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23000.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23000.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1728,
+    "mtime": 1782796632.395145,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4ee42ed038bdc05ee5b889d3d259bf7c927fef14",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

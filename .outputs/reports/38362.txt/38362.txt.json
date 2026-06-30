@@ -1,0 +1,91 @@
+{
+  "dataset": "38362.txt",
+  "file_name": "38362.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पद्म विभूषण सम्मान भारत सरकारले प्रदान गर्ने वाला दोस्रो विशिष्ट नागरिक सम्मान हो । यो सम्मान भारतको राष्ट्रपतिद्वारा प्रदान गरिन्छ ।यो सम्मानको सुरुवात 2 जनवरी 1954मा गरिएको थियो । भारत रत्‍न सम्मान पछिको यो दोस्रो विशिष्ट सम्मान हो । पद्म विभूषण पछि तेस्रो नागरिक सम्मान पद्मभूषण हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 286,
+    "text_length_max": 286,
+    "text_length_avg": 286.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 756,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38362.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38362.txt",
+    "relative_path": "38362.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38362.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 756,
+    "mtime": 1782796574.9418898,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.965,
+    "sha1_quick": "f032fbed6c38fb863ba283d022df36b74805a053",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

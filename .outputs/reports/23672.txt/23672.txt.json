@@ -1,0 +1,92 @@
+{
+  "dataset": "23672.txt",
+  "file_name": "23672.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लेखापरीक्षण लेखापरिक्षण एक बिशेष परिक्षण हो। लेखापरिक्षण भन्नाले संस्थाको वित्तीय कारोवारको बाह्रय व्यक्तिबाट गराइने विशेष परीक्षणलाई जनाउने गर्दछ । लेखापरीक्षणको उद्देश्य भनेको संस्थाको वित्तिय कारोवार जाँच गरी सो वित्तीय विवरणले संस्थाको वित्तीय अवस्था तथा कार्यसम्पादनको यथार्थ चित्रण गर्दछ वा गर्दैन भन्ने बारेमा लेखापरीक्षण प्रतिवेदन मार्फत आफ्नो राय प्रकट गर्नु हो । लेखापरीक्षण भन्नाले सामान्यत वित्तीय लेखापरीक्षणलाई वुझाउँदछ ।",
+    "वित्तीय लेखापरीक्षण भनेको कुनै पन् कानुनी रूपले स्थापना भएको नाफा कमाउने वा नकमाउने ठूला वा साना संस्थाको वित्तीय सूचनाहरूमा राय दिने कार्यका लागि प्रमाणहरू संकलन गर्ने र मूल्याँकन गरी लेखापरीक्षकले आफ्नो राय दिने प्रक्रिया हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 136,
+    "text_length_max": 435,
+    "text_length_avg": 266.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2171,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23672.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23672.txt",
+    "relative_path": "23672.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23672.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2171,
+    "mtime": 1782796506.2790647,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1f0d0b068fb57c837810292cf37e58f52517904d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

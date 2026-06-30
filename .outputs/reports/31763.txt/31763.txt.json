@@ -1,0 +1,91 @@
+{
+  "dataset": "31763.txt",
+  "file_name": "31763.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अपाङ्ग बाल अस्पताल तथा पुनर्स्थापना केन्द्र नेपालको बनेपा स्थित एउटा विशिष्टिकृत अस्पताल हो। यो अस्पतालमा राष्ट्रिय तथा अन्तराष्ट्रिय अपाङ्ग बालबालिकाको उपचार तथा पुनर्स्थापना हुने गर्दछ। यो अस्पतालका प्रमुख डा अशोक कुमार बास्कोटा हुनुहुन्छ। साथै, यो अस्पताल काठमाडौं विश्वविद्यालय अन्तर्गतको मास्टर्स इन सर्जरी कार्यक्रमको शिक्षण अस्पताल पनि हो। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 347,
+    "text_length_max": 347,
+    "text_length_avg": 347.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 946,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31763.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31763.txt",
+    "relative_path": "31763.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31763.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 946,
+    "mtime": 1782796544.0794823,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d053654a12c0f75f4205bf753da65447e692fa60",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

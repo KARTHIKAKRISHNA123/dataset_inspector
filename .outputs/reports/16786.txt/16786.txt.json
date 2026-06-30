@@ -1,0 +1,92 @@
+{
+  "dataset": "16786.txt",
+  "file_name": "16786.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डोटेली भाषा नेपालको,सुदुरपश्चिमाञ्चल र मध्यपश्चिमाञ्चल विकास क्षेत्रमा बोलिने एक भाषा हो । डोटेली भाषा नेपालमा बोलिने प्रमुख भाषाहरू मध्ये एक हो । सुदुरपश्चिमका सबै जिल्लाहरूमा र मध्यपश्चिमका केही जिल्लाहरूमा यो भाषा प्रयोग गरिन्छ । यहाँका बासिन्दाहरू एकआपसमा कुरा गर्दा अथवा बोल्दा आफ्नै भाषा प्रयोगमा ल्याउने गर्दछन् । यो भाषा नेपालमा सबैभन्दा बढी बोलिने भाषाहरु अन्तर्गत दोस्रो स्थानमा रहेको छ । यो भाषा नेपालको 49.56% मानिसहरूले बोल्ने गर्दछन । हाल आएर यस भाषाको विकिपिडिया समेत सुरु भइसकेको छ ।",
+    "डोटेली भाषाको उत्पत्ति कहिलेदेखि भयो भन्ने बारेमा यकिन थाहा हुन नसके पनि यो भाषा परापूर्वकाल देखि नै बोलिदै आएको मानिन्छ । भारतको उत्तराखण्ड राज्य अन्तर्गत गढवाल र कुमाउ क्षेत्रमा बोलिने गढ़वाली र कुमाउनी भाषाका शब्द र लिपीहरु पनि डोटेली भाषासँग मिल्दोजुल्दो रहेको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 499,
+    "text_length_avg": 272.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2188,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16786.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16786.txt",
+    "relative_path": "16786.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16786.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2188,
+    "mtime": 1782796473.9505484,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "34b6778ac242c62adf579259737642b6f93bfefd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

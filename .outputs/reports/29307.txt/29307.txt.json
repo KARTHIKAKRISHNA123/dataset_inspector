@@ -1,0 +1,94 @@
+{
+  "dataset": "29307.txt",
+  "file_name": "29307.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुर्कुच्चाको बाहिर सतहको छाला कडा, रुखो र टुक्रिनेखालको भएपछि यो समस्या देखिन्छ । धेरैजसो कुर्कुच्चा नराम्ररी फुट्छ, जसले दुखाइ मात्र नभई रगतसमेत निस्किन थाल्छ ।यो वंशानुगतसमेत हुन्छ । पुर्खामा कसैलाई यो रोग भए सन्तानमा समेत देखिन सक्ने हुने गर्छ । उसो त यो समस्या चिसोयाममा भने बढी देखिन्छ ।",
+    "चिकित्सकीय तथ्यांकअनुसार कुर्कुच्चा फुट्ने समस्या पुरुषको दाँजोमा महिलामा बढी देखिन्छ । मासिक धर्म सुक्न थाल्दा यो समस्या महिलामा बढी देखिने गरिएको हो, यस्तै 'हाइपोथाइराइडिज्म' अर्थात् थाइराइड ग्रन्थीले शरीरको आवश्यकताभन्दा कम काम गर्दासमेत कुर्कुच्चा फुट्ने समस्या देखिन सक्छ ।यति मात्र नभई छालासम्बन्धी क्षयरोगले समेत यो समस्या देखिन्छ । सोराइसिस पनि यो समस्या निम्तिने एउटा प्रमुख कारण मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 292,
+    "text_length_max": 567,
+    "text_length_avg": 433.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5830,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29307.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29307.txt",
+    "relative_path": "29307.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29307.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5830,
+    "mtime": 1782796532.388689,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b62195ac3bda31643ae108a14c7d85d481a63257",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

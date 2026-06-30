@@ -1,0 +1,94 @@
+{
+  "dataset": "21568.txt",
+  "file_name": "21568.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सञ्चार भन्नाले निश्चित स्रोतबाट सृजित सूचना वा सन्देश कुनै माध्यमबाट प्रापक सम्म पुर्याउने प्रकृयालाई सञ्चार भनिन्छ। निश्चित अर्थपूर्ण सूचना तथा सञ्चार निश्चित समाचार माध्यम बाट आम जनसमुदायमा पुर्याउने प्रकृयालाई आमसञ्चार भनिन्छ। अर्थात् आमसञ्चार सञ्चारको व्यापक रूप हो।पत्रपत्रिका, रेडियो, टेलिभिजन, चलचित्र, पुस्तक, इन्टरनेट, अनलाईन आदि आम सञ्चारका लोकप्रिय माध्यम हुन्।",
+    "नेपाली शब्द “सञ्चार” अङ्ग्रेजी शब्द Communication को अनुबादको रूपमा प्रयोग हुदै आएको छ । हुनत नेपाली शब्द सञ्चार संस्कृत भाषाबाट आएको हो जसको अर्थ ‘सूचना दिने काम वा सूचनाको आदान प्रदान’ भन्ने हुन्छ । सञ्चार विज्ञहरूलाई मान्दा अग्रेजी शब्द ऋयmmगलष्अबतष्यल ल्याटिन भाषाको शब्द Communis र Communicare बाट आएको हो जसको अर्थ हुन्छ, कुनै कुराको साझेदारी,आदान प्रदान गर्नु ,साझा वा समान । यसबाट सञ्चार भन्नाले एक अर्काबीच सूचना,विचार,धारणाहरू,जानकारीहरू साटासाट गर्ने प्िरक्रया वा साझेदारी कायम गर्ने प्रक्"
+  ],
+  "statistics": {
+    "records_sampled": 38,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 1524,
+    "text_length_avg": 280.95,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9127,
+      "Latin": 0.0873
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26981,
+    "estimated_records": 96
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 96,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9706,
+      "Latin": 0.0294
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21568.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21568.txt",
+    "relative_path": "21568.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21568.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26981,
+    "mtime": 1782796496.9546998,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8a03897815d7e21a340c90fe6ee1abe4229da504",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

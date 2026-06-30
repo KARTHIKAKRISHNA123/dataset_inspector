@@ -1,0 +1,94 @@
+{
+  "dataset": "37940.txt",
+  "file_name": "37940.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " रवीन्द्र प्रभात हिन्दीका लोकप्रिय कवि,कथाकार,पटकथा लेखक,उपन्यासकर,स्तम्भकार तथा मुख्य ब्लग विश्लेषक हुन्।उहाँले पछिल्ला दुई दशकदेखि हिन्दीमा निरन्तर लेखन गरी रहेका छन्।",
+    "यिनको जन्म ईस्वी संवत् 05 अप्रैल 1969 महींदवाईरा गाउँ, सीतामढी जिल्ला बिहार को एक मध्यमवर्गीय ब्राह्मण परिवारमा भएको थियो। यिनको मूल नाम रवीन्द्र कुमार चौबे हो। यिनको आरम्भिक शिक्षा सीतामढीमा भएको थियो। पछि उसले बिहार विश्वविद्यालय मुजफ्फरपुरबाट भूगोल विषयमा स्नातक तह तथा उत्तर प्रदेश राजर्षि टंडन मुक्त विश्वविद्यालय इलाहाबादबाट पत्रकारिता र जनसंचारमा स्नातकोत्तर तह सम्मको शिक्षा ग्रहण गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 123,
+    "text_length_max": 1330,
+    "text_length_avg": 574.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9958,
+      "Latin": 0.0042
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10686,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9958,
+      "Latin": 0.0042
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37940.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37940.txt",
+    "relative_path": "37940.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37940.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10686,
+    "mtime": 1782796572.985188,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f6768ced5845ea75f95ef7a5369146849ca87828",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

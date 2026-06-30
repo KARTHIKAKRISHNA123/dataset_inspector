@@ -1,0 +1,92 @@
+{
+  "dataset": "26004.txt",
+  "file_name": "26004.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सेन्जेन क्षेत्रमा पच्चीस यूरोपीय देशहरुको भूभाग छन् जसले, लक्जमबर्गको सेन्जेन सहरमा 1985मा हस्ताक्षरित सेन्जेन समझौता लागू गरेको छन्। सेन्जेन क्षेत्र, अन्तर्राष्ट्रीय यात्राको लागि एकल राष्ट्रको रुपमा सञ्चालित हुन्छ जहाँ यस क्षेत्र भित्र आउन र जान मान्छेहरुको लागि सिमानामा नियन्त्रण गरिदैन।सेन्जेन क्षेत्र सेन्जेन नियमहरुलाई लागू हुन्छ। ",
+    "सेन्जेन क्षेत्रमा यात्रा गर्न या त एक पासपोर्टको या यूरोपीय संघबाट अनुमोदित राष्ट्रीय चिनारी पत्रको आवश्यकता पर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 116,
+    "text_length_max": 338,
+    "text_length_avg": 227.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1229,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26004.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26004.txt",
+    "relative_path": "26004.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26004.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1229,
+    "mtime": 1782796517.0140195,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "5baa26e29991a40cca812e7b7c48f14fde303f2e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

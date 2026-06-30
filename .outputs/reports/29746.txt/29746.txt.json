@@ -1,0 +1,92 @@
+{
+  "dataset": "29746.txt",
+  "file_name": "29746.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि. सं. 2043 माघ 10 गते  देउडा र लोग गायक हुन् । उनको जन्म डोटी जिल्लाको सरस्वतीनगर गाविसमा भएको थियो । उनी सामान्य परिवारमा हुर्केका थिए । उनको बुवाको नाम भोजराज ओझा र आमाको नाम भागरथी देवि ओझा हो ।",
+    "गायक ओझा फिल्मी क्षेत्रमा उदयमान हुन ठुलठुला आशा बोकेर काठमाडौं छिरेका थिए । पहिलो पटक काठमाडौं पसेका ओझाको कोहि आफन्त पनि नभएका र काठमाडौं जस्तो शहरमा प्रयाप्त अनुभव पनि थिएन । कहाँ खाना खाने,बस्ने भन्ने अलमलमा पर्दा दुई दिन रत्नपार्कमा भोकै सुतेका थिए । त्यसपछी चितवन का एकजना  नृत्य प्रशिक्षक छिरिङ लामा ले आफ्नो अफिसमा काम गर्न लगाएका थिए । त्यहा काम गर्दागर्दै ओझा अकस्मात बिरामी परेपछी अस्पताल लागि जाँच गराउदा मुटुको रोग देखाइएको थियो । नृत्य,मोडल र अभिनेता गर्छु भनेर राजधानी छिरेका ओझाको सपन"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 199,
+    "text_length_max": 1462,
+    "text_length_avg": 746.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5894,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29746.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29746.txt",
+    "relative_path": "29746.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29746.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5894,
+    "mtime": 1782796534.6434765,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f7288bffbe642ca11931d8af0b0dec297eedd0fb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

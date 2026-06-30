@@ -1,0 +1,92 @@
+{
+  "dataset": "8031.txt",
+  "file_name": "8031.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोन अब्राहम एउटा भारतीय चलचित्र अभिनेता, चलचित्र निर्माता, भूतपूर्व मोडल तथा बडी बिल्डर हुन् । मोडलिङ सकेपछी जोनले विभिन्न कम्पनीको विज्ञापनहरू गरेका थिए । जोनले भारतीय चलचित्र उद्योगमा पदार्पण जिस्म बाट गरेका थिए, जसले उसलाई फिल्मफेयर उत्कृष्ट पदार्पण पुरस्कारको लागी नामाङ्कित गरेको थियो ।",
+    "सन् 2004 मा जोनको चलचित्र धुम ले उनलाई पहिलो व्यावसायिक सफलता दिलाएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 291,
+    "text_length_avg": 183.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 977,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8031.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8031.txt",
+    "relative_path": "8031.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8031.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 977,
+    "mtime": 1782796597.3223968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0a9aa3b31be40f869151922babc2b57d4bb3744b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

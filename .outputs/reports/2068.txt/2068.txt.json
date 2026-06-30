@@ -1,0 +1,94 @@
+{
+  "dataset": "2068.txt",
+  "file_name": "2068.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चार्ली हेब्डो फ्रान्सेली व्यङ्ग्यात्मक पत्रिका जसले कार्टुन, चुट्किला आदि प्रकाशित गर्दै आएको छ । पत्रिकाले आफुलाई जातीय विभेद विरोधी र वामपन्थी भएको बताउँदै आएको छ र यहुदी, इस्लामी, धर्म, आदि विषयहरुको बारेमा लेखहरु लेख्दै आएको छ ।",
+    "सन् 2011 र 2015 गरि हालसम्म आतंककारीहरुको दुई चोटीको हमलामा परिसकेको छ—हमला मोहम्मदका दोधारत्मक कार्टुनहरुसँग सम्बन्धित भएको बताइएको छ । दोस्रो हमलामा 12 जना मारिएका थिए जसमा पत्रिकाका थुप्रै योगदानकर्ताहरु तथा पूर्व सम्पादक चार्व पनि थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 240,
+    "text_length_avg": 176.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.959,
+      "Latin": 0.041
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2247,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.959,
+      "Latin": 0.041
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2068.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2068.txt",
+    "relative_path": "2068.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2068.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2247,
+    "mtime": 1782796492.8367188,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "666dcadb145f504fac9f3c7515a009d7a4d28be7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

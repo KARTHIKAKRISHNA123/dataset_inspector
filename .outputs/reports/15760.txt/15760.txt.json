@@ -1,0 +1,93 @@
+{
+  "dataset": "15760.txt",
+  "file_name": "15760.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको आमसञ्चार भन्नाले नेपालमा भएका सबै आमसञ्चार माध्यम भन्ने बुझिन्छ। नेपालमा हाल पत्रपत्रिका, रेडियो, टेलिभिजन, चलचित्र, पुस्तक, इन्टरनेट, अनलाईन लगायतका सबै किसिमका आमसञ्चार माध्यमहरू सञ्चालनमा रहेका छन्।",
+    "सामान्य अर्थमा सञ्चार भन्नाले दुई वा दुईभन्दा बढी व्यक्तिहरूका बीच सूचना, बिचार, अनुभव,भावना आदिको विनिमय हुने र एकअर्कामा आपसी समझदारी कायम गर्ने प्रक्रियालाई बुझिन्छ। यसर्थ एकअर्काबीच सूचना, बिचार धारणा जानकारी साटासाट गर्ने प्रक्रिया वा साझेदारी कायम गर्ने प्रक्रियालाई सञ्चारको अर्थमा बुझ्न सकिन्छ। सञ्चारको उद्देश्य कुनै भाव वा विचारको सम्प्रेषण गर्नु हो। तसर्थ सञ्चार मानव जीवनको लागि नभई नहुने कुरा हो। "
+  ],
+  "statistics": {
+    "records_sampled": 23,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 1433,
+    "text_length_avg": 302.61,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9808,
+      "Latin": 0.0192
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18480,
+    "estimated_records": 61
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 61,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15760.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15760.txt",
+    "relative_path": "15760.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15760.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18480,
+    "mtime": 1782796469.0986342,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a404d686e0a95524e198e538c1d6de32c77b6abc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

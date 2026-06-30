@@ -1,0 +1,92 @@
+{
+  "dataset": "4008.txt",
+  "file_name": "4008.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अभिमान सिंह बस्न्यात नेपाल एकीकरण पछिका पहिलो सैनिक कमाण्डर थिए । कीर्तिपुर कब्जा गर्ने क्रममा जनरल कालु पाँडेको मृत्यु भएपछि यिनी गोर्खा सेनाका प्रधान सेनापति बनाइएका थिए । उनले असनमा मान मन्दिर बनाएका थिए जो अहिले तिलङ्गा घर छ ।",
+    "उनको जन्म सेनापति बडावीर शिवराम सिंह बस्न्यात र शूरप्रभा थापा बस्न्यातको तेस्रो पुत्रको रुपमा भयो । उनका दाजुहरू नाहरसिंह बस्न्यात, केहरसिंह बस्न्यात र भाइ धोकलसिंह बस्न्यात हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 135,
+    "text_length_max": 230,
+    "text_length_avg": 181.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1444,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4008.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4008.txt",
+    "relative_path": "4008.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4008.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1444,
+    "mtime": 1782796577.5083058,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0ac97d4a61c099c027370a4389b88a5fe8b6947b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

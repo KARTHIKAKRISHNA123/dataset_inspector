@@ -1,0 +1,92 @@
+{
+  "dataset": "874.txt",
+  "file_name": "874.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महान चोल मन्दिर चोल शासकहरूद्वारा दक्षिण भारतमा बनाएर गएका थिए । यहाँ निम्न मन्दिरहरू छन:",
+    "बॄहदेश्वर मन्दिरलाई युनेस्कोद्वारा 1987मा विश्व सम्पदा क्षेत्र घोषित गरिएको थियो । ऐरावतेश्वर मन्दिर, दारासुरमलाई सन् 2004 मा यो सुचिमा सूचीमा जोडेको थियो । यो स्थलमा अब \"महान जीवित चोल मन्दिर\" नाम दिइएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 208,
+    "text_length_avg": 69.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 919,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "874.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\874.txt",
+    "relative_path": "874.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "874.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 919,
+    "mtime": 1782796600.7871947,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "91e72dbd8332dd9b9e2d4e42a32c7ec67c43868c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

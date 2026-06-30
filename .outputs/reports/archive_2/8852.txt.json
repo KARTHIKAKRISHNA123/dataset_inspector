@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8852.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नागरिकता एक विशेष सामाजिक, राजनीतिक,राष्ट्रिय वा मानव संशाधन समुदायको एक नागरिक हुने अवस्था हो। ",
+    "सामाजिक अनुबन्धका सिद्धान्त मातहत नागरिकताको अवस्थामा अधिकार र उत्तरदायित्व दुइटै सामेल हुन्छन्। \"सक्रिय नागरिकता\"को दर्शन अर्थात् नागरिकहरुलाई सबै नागरिकहरुका जीवनमा सुधार गर्नका लागि आर्थिक सहभागिता, सार्वजनिक, स्वयंसेवी कार्य, र यस्तै प्रकारका प्रयासका माध्यमदेले आफ्नो समुदायलाई अझ राम्रो बनाउने दिशामा कार्य गर्नु पर्नेछ. यस दिशामा, केही देशहरुमा स्कूल नागरिकता शिक्षा उपलब्ध गर्दछन्. भर्जीनिया लिएरी द्वारा नागरिकतालाई \"अधिकारहरुका एक समुच्चय-को रूपमा परिभाषित गरिएको छ- तिनको अनुसार नागरिकताको"
+  ],
+  "statistics": {
+    "records_sampled": 40,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 1129,
+    "text_length_avg": 299.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9879,
+      "Latin": 0.0121
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 31839,
+    "estimated_records": 106
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 106,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8852.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8852.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8852.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 31839,
+    "mtime": 1782796673.3997798,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4aae9df0fe7f515147c9e8aee5f7b31a621af036",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37270.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिमालय शमशेर जंगबहादुर राणा नेपालका बैंकर तथा नेपाल राष्ट्र बैंकका पहिलो गभर्नर हुन् । यिनी अप्रिल 26, 1956 देखि फेब्रुअरी 7, 1961 सम्म नेपाल राष्ट्र बैंकको गभर्नर थिए। उनले पछि हिमालयन बैंक लिमिटेड नामको ब्याङ्क खोलेका छन् जुन नेपालको क बर्गको बैंकमा गनिन्छ।",
+    "अर्थसचिव हिमालय शमशेर जबराले अर्थमन्त्रीले आफू लगायत तीनजना एमए पास गरेका युवालाई केही दिन काम लगाई राम्रो कामको आधारमा आफूलाई सचिवमा छानेको बताउनुभएको थियो।उनले वि.सं. 2007 सालपछि 5 वर्ष देशको पहिलो अर्थसचिव भई कार्यरत रहँदा अर्थमन्त्रालय र त्यस मन्त्रालय मातहतका नयाँ निकायहरु संस्थापन गर्न सकृय भूमिका निर्वाह गरे । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 806,
+    "text_length_avg": 397.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7403,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37270.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37270.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37270.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7403,
+    "mtime": 1782796660.8263886,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "eefaa5fa9ac88872fb8a528769d9fe55b83ae885",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

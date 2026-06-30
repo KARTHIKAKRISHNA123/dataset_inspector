@@ -1,0 +1,91 @@
+{
+  "dataset": "29069.txt",
+  "file_name": "29069.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालमा 744 स्थानीय तह लागू हुँदा मोरङ जिल्लामा साविकका टंकीसिनवारी, हात्तीमुडा, शिसवनीवडहरा र डंग्राहा गाउँ विकास समितिहरूलाई समेटेर मोधा बुढीगंगा गाउँपालिका बनाइएको हो । यस गाउँपालिकालाई 7 वडामा विभाजन गरिएको छ । यस गाउँपालिकाको कूल जनसंख्या 41,586 रहेको छ । यसको क्षेत्रफल 56.41 वर्गकिलोमिटर रहेको छ । यस गाउँपालिकाको केन्द्र साविकको हात्तीमुडाको कार्यालयमा राखिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 372,
+    "text_length_max": 372,
+    "text_length_avg": 372.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 973,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29069.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29069.txt",
+    "relative_path": "29069.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29069.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 973,
+    "mtime": 1782796531.1286497,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fc94fa9f3b1c956a2f94bb5cd177580b4656d6c6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

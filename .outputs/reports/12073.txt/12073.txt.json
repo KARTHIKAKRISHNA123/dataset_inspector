@@ -1,0 +1,91 @@
+{
+  "dataset": "12073.txt",
+  "file_name": "12073.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गिम्दी नेपालको बागमती अञ्चलको ललितपुर जिल्लाको एक गाँउ विकास समिति हो। बाहुजातिय र बहुभाशिक गाबिस गिम्दीमा ब्राम्हण क्षत्री तामाङ्ग मगर जातिको बाहुल्य रहेतापनि यसका अलवा दमाइ कामी बराम आदी रहेका छन्। यहाँ बिभिन्न किसिमका राष्ट्रिय चाड र स्थानिय चाडपर्व मनाइन्छ बहुसङ्कख्यक मानिसको मुख्य पेशा कृषि नै हो। यँहा उब्जनी हुने अन्नबालीमा धान मकै गहु तोरी फापर हुन भने अन्या बालीमा मास मुसुरो बोडी मस्याङ आलु अदुवा कुचो कुरीलो रहेका छन्। आम्दानीको लागि केही मानिसले खसीबोका कुखुरा पाल्ने गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 489,
+    "text_length_max": 489,
+    "text_length_avg": 489.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1316,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12073.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12073.txt",
+    "relative_path": "12073.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12073.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1316,
+    "mtime": 1782796452.296319,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d6ea3a0f02bab004825601622556823be7d51e09",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "32006.txt",
+  "file_name": "32006.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजेश्वर देवकोटा कवि, उपन्यासकार, निबन्धकार, एवम् राजनीतिक व्यक्तित्व हुन् । नेपाली साहित्यमा लामो समयसम्म क्रियाशील उपन्यासकार राजेश्वर देवकोटाका औपन्यासिक कृतिहरूका बारेमा नेपाली समालोचकहरूद्वारा अनेकौ लेख, अध्ययन र अनुसन्धान गर्ने कार्य भएका छन् । देवकोटाले कविता, निबन्ध, आधादर्जन विचार प्रधान उपन्यास र राजनीतिक लेख लेखेका भए पनि अधिकांश समीक्षकहरूले उनका उपन्यासलाई नै केन्द्र बनाएर विश्लेषण गरेका छन् तर जति उनले उपन्यासका क्षेत्रमा कलम चलाएर चर्चित हुनु पर्ने हो त्यति भएका छैनन्; उनी राजनीति",
+    "उनको जन्म वि.सं. 1986 सालको असोज 23 गते गोरखाको पण्डित गाउँ, लिगलिगमा पिता हरिभक्त र माता बसुन्धरा देवकोटाका पुत्रका रूपमा भएको हो। वि.सं. 2004 सालको जयतु संस्कृतम् आन्दोलनमा अगुवा भएपछि देश निकाला भए। अनि उनी राजनीतिमा प्रवेश गरे। वि.सं. 2007 सम्म राणा शासनविरुद्ध गोरखा क्षेत्रबाट नेतृत्त्व गरे। राजनीतिमा मन्त्री, सांसद्, राष्ट्रिय पञ्चायतका अध्यक्ष भए। फोक्सोको रोगबाट पीडित देवकोटाको 2072 साल साउन 25 गते 86 वर्षको उमेरमा बिहान साढे सात बजे बाँसबारीस्थित न्युरो अस्पतालमा निधन भएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 25,
+    "missing_text": 0,
+    "text_length_min": 89,
+    "text_length_max": 6244,
+    "text_length_avg": 1590.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 106872,
+    "estimated_records": 67
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 67,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9933,
+      "Latin": 0.0067
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32006.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32006.txt",
+    "relative_path": "32006.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32006.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 106872,
+    "mtime": 1782796545.1628604,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3fcd9aca7280fad2d377c8c68bf69c41115e11ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

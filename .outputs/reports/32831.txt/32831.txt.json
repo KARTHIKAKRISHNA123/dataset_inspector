@@ -1,0 +1,92 @@
+{
+  "dataset": "32831.txt",
+  "file_name": "32831.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अद्दु सरह माल्दिभ्सको राजधानी माले पछिको दोस्रो ठूलो शहर हो । यो शहरमा रहेको जनसङ्ख्या माल्दिभ्सको अन्य दुई सहर माले र फुभमुलहको जनसङ्ख्या बराबर रहेको छ । यो सहर माल्दिभ्सको 6 अन्य जिल्लाहरूमा फैलिएर रहेको छ । ती जिल्लाहरूमा हिथाढु, मराढु-फिढु मराढु, फिढु, हुल्हुढु, तथा मेइढु पर्दछन् । यो डिभिजन वा जिल्लाहरू माल्दिभ्सका अन्य टापुहरू नजिकै रहेको छ, तर ती छ वटा जिल्लाहरू भने एक आपसमा जोडिएका छन् ।",
+    "अद्दु सहर           जनसंख्या: 32,062"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 398,
+    "text_length_avg": 219.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7005,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32831.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32831.txt",
+    "relative_path": "32831.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32831.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7005,
+    "mtime": 1782796548.8059547,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "21cdf16db87be18be49f83fd6616a372a67abdaf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

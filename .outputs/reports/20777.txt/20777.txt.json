@@ -1,0 +1,96 @@
+{
+  "dataset": "20777.txt",
+  "file_name": "20777.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आचे; ; Jawi: اچيه‎; Dutch: Atjeh or Aceh) इन्डोनेसियाको एक प्रदेश हो। यो सुमात्रा टापुको उत्तरी भागमा रहेको छ। आचेको राजधानी सहर बन्द आचे हो। यो प्रदेश भारतको अन्डामान तथा निकोबार टापु नजिकै रहेको छ। यी दुई टापु र आचेका बिचमा अन्डामान समुद्र रहेको छ। आचे मुस्लिम बाहुल्यता भएको प्रदेश हो। यो प्रदेशमा मुस्लिम समुदायको जनसङ्ख्या प्रतिसत इन्डोनेसियाभरिमा सबैभन्दा धेरै रहेको छ। यहाँका मुस्लिमहरूले उनीहरूको कठोर परम्परा तथा कानुनको रूपमा चिनिएको सरिया पालना गर्ने गरेका छन्।",
+    "यो क्षेत्रमा 10 फरक-फरक समुदायका आदिवासी जनजातिहरू बसोबास गर्दछन्। यी मध्ये सबैभन्दा धेरै करीब 80-90 प्रतिसत जनसङ्ख्या आचेली मानिसहरूको छ। आचेलाई इन्डोनेसियामा मुस्लिम समुदायको फैलावट सुरु भएको स्थानको रूपमा लिइन्छ। त्यस्तै दक्षिणपूर्वी एसियामा मुस्लिमहरूको फैलावटका लागि मुख्य भुमिका निर्बाह गरेको थियो। आचेमा त्यो समयमा रहेका फन्सुर तथा लमुरी राज्यमा सन् 1250 देखि मुस्लिमहरू पुगेका थिए। सत्रौँ सताब्दीको सुरुवाततिर मुस्लिम राज्य आचे मलाक्का स्ट्रेट क्षेत्रको सबैभन्दा धनि, शक्तिशाली तथा विकसित देश"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 472,
+    "text_length_max": 1556,
+    "text_length_avg": 1014.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9859,
+      "Latin": 0.0118,
+      "Arabic": 0.0024
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5392,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9859,
+      "Latin": 0.0118,
+      "Arabic": 0.0024
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20777.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20777.txt",
+    "relative_path": "20777.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20777.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5392,
+    "mtime": 1782796493.2871208,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "17bda9e12a82bc388f8b7ecceac334d2d7f31fee",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

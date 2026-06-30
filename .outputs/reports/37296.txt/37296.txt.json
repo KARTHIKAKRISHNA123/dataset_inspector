@@ -1,0 +1,91 @@
+{
+  "dataset": "37296.txt",
+  "file_name": "37296.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाम्रोब्लग ब्लगर चित्र:केपी ढुंगानाद्धारा नेपाली भाषामा सञ्चालीत समसामयिक घटनाक्रम र राजनीतिक टिप्पणिमा आधारित ब्लग हो। राजा ज्ञानेन्द्रद्धारा 2061 माघ 19मा चालेको राजनीतिक कुसंगै स्वतन्त्र सञ्चारमाध्ययममाथि लगाइएको अनुदार सेन्सरसिप पछि पत्रकार केपी ढुंगानाले 2061 चैतवाट ब्लगयात्रा शुरु गरेका हुन। प्रारम्भमा ब्लगरनेपाल डटकम डट एनपी डोमेनवाट ब्लग चलाएपछि चार वर्षदेखि उनी हाम्रोब्लग डटकम चलाईरहेका छन। हाम्रोब्लगमा सटिक राजनीतिक टिप्पणि, विष्लेशणका साथै समसामयिक घटनाक्रम समेटिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 484,
+    "text_length_max": 484,
+    "text_length_avg": 484.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1306,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37296.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37296.txt",
+    "relative_path": "37296.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37296.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1306,
+    "mtime": 1782796569.523149,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0e1cdbd512c1906926a30fdae8dc0a099e67ee64",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

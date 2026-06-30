@@ -1,0 +1,91 @@
+{
+  "dataset": "3640.txt",
+  "file_name": "3640.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय वनस्पति उद्यान ललितपुर जिल्लाको गोदावरीमा अवस्थित छ । दुर्लभ, लोपोन्मुख, रैथाने वनस्पतिहरूको संरक्षण तथा संवर्द्धनको लागि विक्रम सम्बत् 2019 सालमा यस उद्यानको स्थापना गरिएको थियो । यस वनस्पति गृहमा करिब 550 भन्दा बढी प्रजातिका स्थानीय तथा अन्य वनस्पतिहरुको संरक्षणका साथै उत्पादन तथा अनुसन्धान पनि गरिन्छ । यहाँको वातावरणसँग मेल नखाने जातका विरुवाहरुलाई पनि हरितगृहमा राखेर विशेष हेरचाहका साथ राखिएको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 419,
+    "text_length_max": 419,
+    "text_length_avg": 419.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1119,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3640.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3640.txt",
+    "relative_path": "3640.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3640.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1119,
+    "mtime": 1782796565.234087,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a3073bd9ee28abe403fdc4325a876b0a04fffb0d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

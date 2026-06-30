@@ -1,0 +1,92 @@
+{
+  "dataset": "29998.txt",
+  "file_name": "29998.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाल बालिकाहरूको नाममा मनाइने दिवसलाई बाल दिवस भनिन्छ। यो दिवस भदौ महिनाको 29 गते मनाइन्छ। वि.स.2063 साल भन्दा अघि बाल दिवस भाद्र 4 गते मनाईने गरिन्थ्यो भने हाल भाद्र 29 मा मनाईन्छ।",
+    "विसं 2021 सालको भाद्र 4 गतेदेखि मनाउन शुरु गरिएको राष्ट्रिय बालदिवस 2063 सालमा आएर भाद्र 29 गते मनाउन सुरु गरियो । इतिहासलाई फर्केर हेर्दा नेपालमा बालदिवसमा रत्नराज्य लक्ष्मीदेवी शाहले भारत भ्रमण गर्ने क्रममा भारतमा महात्मा गान्धीको जन्मदिनमा बालदिवस मनाउने गरेको र भारतका प्रभावशाली राजनेताद्वारा समाजसेवामा सक्रियताका साथ लागेको देख्नुभयो । तत्काल भारतबाट फर्केपछि मुमा रत्नद्वारा आफ्नो जन्म दिनपारी विसं 2021 भाद्र 4 मा नेपाल बाल संगठन स्थापना गरी आफ्नै जन्म दिनमा बालमन्दिर मार्फत टुहुरा अनाथ बाल"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 1605,
+    "text_length_avg": 996.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10599,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29998.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29998.txt",
+    "relative_path": "29998.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29998.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10599,
+    "mtime": 1782796535.7776864,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8022ad984d2271667299baade19b2036a91440b7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

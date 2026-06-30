@@ -1,0 +1,92 @@
+{
+  "dataset": "823.txt",
+  "file_name": "823.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'विधेयक' अङ्ग्रेजीको बिल को नेपाली रूपान्तरण हो। यस लेखमा 'बिल' शब्दको प्रयोग 'संसद द्वारा पारित विधि'का सम्बन्धमा गरिएको छ। ",
+    "इङ्गल्याण्ड]]को संसद नैं आधुनिक कालमा संसदीय पद्धतिको जन्मदात्री मानिन्छ। इङ्गल्याण्डका राजा हेनरी षष्ठका काल भन्दा पहिले राजनियम बनाउने प्रथा दोस्रो प्रकार गरिएको थियो। पार्लमा ट राजाका पास प्रार्थनापत्र पठाइन्थ्यो कि राजाले अमुक नियम बनाउन्। तर बिस्तारै राजनियम बनाउने प्रथा दोस्रो प्रकार गरिएको थियो। आफ्नो हातमा लिन शुरू गरे र ब्रिटिश संसद नैं पूर्णतया विधि बनाउनको अधिकारिणी भयो। यस प्रथाको अनुसरण संसारका सबै विधायी सभाहरूले गरेकाछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 125,
+    "text_length_max": 661,
+    "text_length_avg": 472.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5090,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "823.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\823.txt",
+    "relative_path": "823.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "823.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5090,
+    "mtime": 1782796598.2364442,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d30b2bbbd7a6b1553d4fdf57f1aadbb597e4ed7f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11156.txt",
+  "file_name": "11156.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मञ्जुश्री बौद्ध धर्मग्रन्थमा वर्णन गरिएका एक बुद्ध थिए । यिनले नै प्राचिन समयमा काठमाडौं उपत्यकामा रहेको दहको पानी चोभारबाट बाहिर पठाएर वस्ति बसालेको किम्बदन्ति पाइन्छ ।",
+    "अहिले काठमाण्डौ उपत्यका भनिएतापनि यो ठाउँ केहि समय अघिसम्म पनि नेपाल-खाल्डो कै रुपमा परिचित थियो । यसको उत्पतिको इतिहास नै नेपालको उत्पतिको इतिहास हो । प्राचीन नेपालका शासक गोपालबंशकै निरन्तरता मानिने गोपालीहरुको मान्यतामा कृष्णको सुदर्शन चक्रले चोभारको गल्छी खोलेर यो खाल्डोको पानी बाहिर फालेको र त्यसपछाडि तिनले गोपालहरुलाई त्यो उपत्यका हस्तान्तरण गरेर गएको धारणा रहेको छ । त्यसो दावि रहेता पनि महाभारतकालका कुनै पनि ग्रन्थमा यो दावि उल्लेख नभएको हुँदा त्यो दाविलाई भरपर्दो मानिन्न । बरु स्वयम्भुपु"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 1444,
+    "text_length_avg": 680.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26992,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11156.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11156.txt",
+    "relative_path": "11156.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11156.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26992,
+    "mtime": 1782796448.0547168,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f41ac7f35ffd191b942da03d249669878e447bef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

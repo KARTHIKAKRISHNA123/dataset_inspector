@@ -1,0 +1,92 @@
+{
+  "dataset": "11184.txt",
+  "file_name": "11184.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इनरूवा नगरपालिका कोशी अञ्चल अन्तरगतको सुनसरी जिल्लाको सदरमुकाम हो। यो नगरपालिका सुनसरी नदिको किनारमा, पूर्व पश्चिम लोकमार्गको दक्षिणमा अवस्थित छ। ",
+    "इनरुवा नगरपालिका सुनसरी जिल्लाको छ वटा नगरपालिका मध्ये एक नगरपालिका र सुनसरी जिल्लाको सदरमुकाम हो । यहाँ निम्न भौगोलिक आवस्थितिहरु छन । स्थापना: 2047, भौगोलिक अवस्थिति विकास क्षेत्र: पूर्वाञ्चल अञ्चल: कोशी जिल्ला: सुनसरी वडा नं: 10 सिमाना: पूर्व: गढी गाँउपालिका, पश्चिम भोक्राहा गाँउपालिका उत्तर: रामधुनी नगरपालिका, इटहरी उप-महानगरपालिका दक्षिण: हरिनगरा गाँउपालिका तापक्रम: अधिकतम: 39 डिग्री सेल्सियस न्यूनतम: 10 डिग्री सेल्सियस हावापानी: उष्ण तथा समशितोष्ण "
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 458,
+    "text_length_avg": 81.27,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3252,
+    "estimated_records": 40
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 40,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11184.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11184.txt",
+    "relative_path": "11184.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11184.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3252,
+    "mtime": 1782796448.1971965,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8e066681c3392e678ead0a4e058113dce0c4c866",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

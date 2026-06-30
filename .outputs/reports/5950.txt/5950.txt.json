@@ -1,0 +1,94 @@
+{
+  "dataset": "5950.txt",
+  "file_name": "5950.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेलायत वा ग्रेट ब्रिटेन, युरोप महादेशको उत्तर-पश्चिममा अवस्थित टापू हो । यस अन्तर्गत इङ्गल्याण्ड, स्कटल्याण्ड र वेल्स पर्दछन ।",
+    "बेलायत युरोपियन युनियनबाट अलग हुने पहिलो राष्ट्र बनेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 408,
+    "text_length_avg": 188.76,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10482,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5950.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5950.txt",
+    "relative_path": "5950.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5950.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10482,
+    "mtime": 1782796587.4233513,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "62a827c04a30fdcc897ec8a2fdc9155ae6fb9c4c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

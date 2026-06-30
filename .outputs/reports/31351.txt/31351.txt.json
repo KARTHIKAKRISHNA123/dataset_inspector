@@ -1,0 +1,92 @@
+{
+  "dataset": "31351.txt",
+  "file_name": "31351.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिरिन्डा सन् 1959 मा स्पेनमा बनाइएको नरम पेय को एक ब्रान्ड हो र आहिले विश्वव्यापी वितरण पेप्सिकोको स्वामित्वमा रहेको छ। यसको नाम एस्पेरान्तोबाट अाएको हुन सक्छ जसको अर्थ \"प्रशंसनीय\" हुन आउँछ।",
+    "यो सुन्तला, शङ्खेत्रो, अङ्गूर, स्याउ, ऐसेलु, रास्पबेरी, अनार, केरा, लहरे आँप, कागती, जवा कुसुम, मुन्तला, अारू र खरबुजा साथै तित्रीको स्वादमा समेत उपलब्ध छ। यो पेय क्षेत्रको भाग हो जुन प्रायः स्वाद खण्डको रूपमा उल्लेख गरिएको छ जसले कार्बोनेटेड र बिना-कार्बोनेटेड फल-स्वादयुक्त पेयहरू समावेश गर्दछ। मिरिन्डाको सुन्तला स्वादले हाल मिरिन्डाको बहुमतको प्रतिनिधित्व गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 674,
+    "text_length_avg": 404.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4283,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31351.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31351.txt",
+    "relative_path": "31351.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31351.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4283,
+    "mtime": 1782796542.049005,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1a58eda2a8b70f6aeb8df612a49fc08c1cc8a19a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

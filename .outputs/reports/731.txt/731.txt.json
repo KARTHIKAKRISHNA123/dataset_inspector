@@ -1,0 +1,92 @@
+{
+  "dataset": "731.txt",
+  "file_name": "731.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकिकृत नेकपा माओवादीको तर्फबाट विजयी समानुपातिक सभासद् रोल्पाकी ताराकुमारी घर्तीमगर संविधान सभामा जनजाति समूहबाट महिला प्रतिनिधित्व गर्दै घर्ती विजयी हुनुभएको हो। पार्टी स्थापनका बेला देखि अहिलेसम्म निरन्तरता दिने थोरै महिला मध्येकी एक भएको कारण पनि संविधान सभामा आफूलाई पार्टीले विजयी बनाएको घर्तीमगर हुनुहुन्छ। ",
+    "जनयुद्ध थालनीको पहिलो आक्रमण, 2052 साल फागुन 1 गते रोल्पाको होलेरी प्रहरी चौकीमा आक्रमण गर्ने दुई महिलामा मध्येमा घर्तीमगर एक हुनुहुन्छ। माओवादी पार्टीमा संलग्न भएपछि पार्टी भित्रकै सहकर्मीसँग सामूहिक बिहे गर्ने पहिलो तीन जोडीमध्ये तारा पनि एक हुनुहुन्छ। उहाँका श्रीमान् कुलप्रसाद केसी 'सोनाम' माओवादीको केन्द्रीय सदस्य तथा वाइसीएलका इन्चार्ज पनि हुनुहुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 313,
+    "text_length_max": 463,
+    "text_length_avg": 384.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4103,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "731.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\731.txt",
+    "relative_path": "731.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "731.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4103,
+    "mtime": 1782796593.8799484,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e6b26b4efa309d754174c275cb3b879fc6ef1ab4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

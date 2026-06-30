@@ -1,0 +1,92 @@
+{
+  "dataset": "8154.txt",
+  "file_name": "8154.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाकिस्तान वा इस्लामी गणतन्त्र पाकिस्तान भारतको पश्चिममा अवास्थित एउटा इस्लामी गणतन्त्र हो । यहाँको प्रमुख भाषाहरू उर्दू, पञ्जाबी, सिंधी, बलूची र पश्तो हो । राजधानी इस्लामाबाद र अन्य महत्वपूर्ण शहर कराची र लाहौर हो । पाकिस्तानमा चार प्रान्त छन : पञ्जाब, सिंध, बेलुचिस्तान र सूबा-ए-सरहद, यस लगायात पाक अधिकृत कश्मीर, शुमाली इलाका, कबाइली इलाका, र इस्लामावाद पनि पाकिस्तानमा रहेका छन् । ",
+    "पाकिस्तानको जन्म सन् 1947 मा भारतको विभाजनको परिणामस्वरूप भएको थियो । सर्वप्रथम सन् 1030 मा कवि मुहम्मद इकबालले दुई-राष्ट्र सिद्धांतको उल्लेख गरेका थिए । उनले भारतको उत्तर-पश्चिममा सिन्ध, बेलुचिस्तान, पञ्जाब तथा अफगान लाई मिलाएर एक नयाँ राष्ट्र बनाउने कुरा गरेका थिए । सन् 1933 मा क्याम्ब्रिज विश्वविद्यालयका छात्र चौधरी रहमत अलीले पञ्जाब, सिन्ध, कश्मीर तथा बेलुचिस्तानका मानिसहरूको लागि पाक्स्तान शब्दको सृजना गरे । सन् 1947 देखि 1972 सम्म पाकिस्तान दुई भागहरूमा बाडी रह्यो - पूर्वी पाकिस्तान र पश्च"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 1555,
+    "text_length_avg": 374.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20738,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8154.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8154.txt",
+    "relative_path": "8154.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8154.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20738,
+    "mtime": 1782796597.8634393,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a03a2cf77305cd4eef55b92120b34c7b70ac1de6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

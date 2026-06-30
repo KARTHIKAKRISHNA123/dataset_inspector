@@ -1,0 +1,91 @@
+{
+  "dataset": "20704.txt",
+  "file_name": "20704.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामचरितमानस अवधि भाषाको एक रामायण महाकाव्य हो जसलाई गोस्वामी तुसलसी दासले 16 औं शताब्दीमा रचना गरेका थिए । रामचरितमानसलाई भारतको संस्कृतिमा एक महत्वपूर्ण स्थान प्राप्त छ । यसलाई कतिपय अस्थिक व्यक्तिहरु द्वारा प्रतिदिन पढने गरिन्छ । यसमा भगवान् श्रीरामलाई सर्वशक्तिमान नायकको रुपमा प्रस्तुत गरिएको छ भने उही वाल्मीकीय रामायणमा श्रीरामलाई सामान्य मनुष्य भनिन्छ । रामचरितमानसमा श्रीरामलाई सर्वशक्तिमान हुँदा हुँदै पनि मर्यादा पुरुषोत्तम रहेको उल्लेख छ । यसलाई असोज महिनाको नवरात्रिमा पूरा नौ दिन सम्म अन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 517,
+    "text_length_max": 517,
+    "text_length_avg": 517.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1393,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20704.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20704.txt",
+    "relative_path": "20704.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20704.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1393,
+    "mtime": 1782796492.9705667,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6846f566630865c65d805c69deaa2255efd99d9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

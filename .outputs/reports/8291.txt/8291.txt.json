@@ -1,0 +1,94 @@
+{
+  "dataset": "8291.txt",
+  "file_name": "8291.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झेब उर्दू: ژوب‎)पहिला पाकिस्तानको बलुचिस्तान प्रदेश पर्ने झोब जिल्लाको राजधानी शहर हो । झोब शहर झोब नदिको किनारमा अवस्थित छ । यो शहरलाई पहिले अपोज पनि भन्ने गरिन्थेयो र त्यसपछि ब्रिटीस शासनको बेलामा यस शहरलाई फोर्ट स्यान्डमेनको नाम राखिएको थियो । सन् 1976 30 जुलाईका तत्कालीन प्रधानमन्त्री जुलफिकार अलि भुट्टोले यस शहरलाई नाम परिवर्तन गरेर झोब बनाएका थियो । ",
+    "सन् 2017 को राष्ट्रिय जनगणना अनुसार झोब शहरको जनसङ्ख्या 3,105,44 रहेको छ जसमध्ये पुरुषको जनिङ्ख्या 1,683,58 रहेको छ भने महिला को जनसङ्ख्या 1,421,86 रहेको छ । सन् 1998 देखि 2017 सम्मको तथ्याङ्क अनुसार यस शहरको वार्सिक जनसङ्ख्या ब्रिद्धि दर 2.52 रहेको छ । यस शहरको मुख्य धर्म इस्लाम हु जसको अावाधी पुण जनसङ्ख्याको 98 % रहेको छ भने अन्य धर्महरू मात्र 2 % रहेको छ । यस शहरको प्रमुख भाषा पुस्तु हो जुन झोबको 96% मानिसहरूको मात्रीभाषा हो भने सकरइ दोस्रो ठूलो भाषा हो जुन कुल अावाधिमा 1.8% को मात्रीभाषा हो "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 115,
+    "text_length_max": 621,
+    "text_length_avg": 380.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Arabic": 0.002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4896,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Arabic": 0.002
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8291.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8291.txt",
+    "relative_path": "8291.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8291.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4896,
+    "mtime": 1782796598.5834157,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b437747c487367be7cf111c8c84b2a5af096edf0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33394.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आँखा पाक्ने रोगलाई अङ्ग्रेजीमा कन्जङ्टिभाइटिस वा पिङ्क आई भनिन्छ। यो रोग लागेपछि आँखाको सेतो भागको बाहिरी तह र आँखाको ढकनीको भित्री तहमा पोलेको महशुस हुन्छ भने आँखा फुस्रो वा रातो देखिन्छ। त्यस्तै आँखामा पीडा हुनुका साथै पोलेको, चिलाएको वा केही बिझाएको महशुस हुन्छ। आँखा पाक्ने रोग लागेको आँखामा धेरै आँसु आउने र बिहान उठ्ने बेलामा आँखाको ढकनी एकआपसमा टाँसिने हुन्छ। यो रोग लाग्दा आँखाको सेतो भाग सुन्निन पनि सक्छ। यदि आँखा पाक्ने रोगका साथमा एलर्जी भयो भने अझ धेरै चिलाउने हुन सक्छ। यसले एउटा मात्रै",
+    "आँखा पाक्ने रोगको सबैभन्दा मुख्य कारण भाइरसको सङ्क्रमण भएपछि लगत्तै हुने ब्याक्टेरियाको सङ्क्रमण हुनेगरेको पाइन्छ। यस्तो भाइरसको सङ्क्रमण भएको बेलामा रुगाका लक्षणहरू देखिन्छन्। यस्ता भाइरस तथा ब्याक्टेरिया सजिलै एक मानिसबाट अर्कोमा सर्न सक्छन्। फूलहरूको पुङ्केशर वा जनावरको रौंका कारणले हुने एलर्जी आँखा पाक्ने रोगको अर्को मुख्य कारण हो। प्रायजसो यस रोगको पहिचान बिरामीले देखाउने लक्षणहरूका आधारमा गरिन्छ। कहिलेकाहिँ आँखाबाट निस्कने चिप्रालाई प्रयोगशालामा परीक्षणको लागि पठाउने गरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 856,
+    "text_length_avg": 429.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13941,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33394.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33394.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33394.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13941,
+    "mtime": 1782796652.8773694,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cebeb00cd93c664c35f5a917f9ab95207769b489",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16916.txt",
+  "file_name": "16916.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्स्य पुराणमा भगवान् श्रीहरिको मत्स्य अवतारको मुख्य कथाका साथ अनेक तीर्थ, व्रत, यज्ञ, दान आदिको विस्तृत वर्णन गरिएकोछ। यसमा जल प्रलय, मत्स्य अनि मनुको संवाद, राजधर्म, तीर्थयात्रा, दान महात्म्य, प्रयाग महात्म्य, काशी महात्म्य, नर्मदा महात्म्य, मूर्ति निर्माण माहात्म्य एवं त्रिदेवको महिमा आदिमाथि पनि विशेष प्रकाश पारिएकोछ। चौध हजार श्लोकहरू भएको यो पुराणप्राचीन ग्रन्थहरू मध्येको एउटा हो। ",
+    "यस पुराणमा सात कल्पहरूको कथन छ, नृसिंह वर्णनदेखि शुरु भएर यो चौदह हजार श्लोकहरूको पुराण हो। मनु र मत्स्यको संवादबाट शुरु भएर ब्रह्माण्डको वर्णन ब्रह्मा देवता र असुरहरूको उत्त्पत्ति, मरुद्गणहरूको प्रादुर्भाव यसपछि राजा पृथुका राज्यको वर्णन वैवस्त मनुको उत्पत्ति व्रत र उपवासहरूको साथ मार्तण्डशयन व्रत द्वीप र लोकहरूको वर्णन देव मन्दिर निर्माण प्रासाद निर्माण आदिको वर्णन छ। यस पुराणका अनुसार मत्स्य को अवतारमा भगवान विष्णुले एक ऋषिलाई सब प्रकारका जीव-जन्तु एकत्रित गर्नकालागि भनें र पृथ्वी जब जलमा डुब"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 761,
+    "text_length_avg": 385.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3096,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16916.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16916.txt",
+    "relative_path": "16916.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16916.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3096,
+    "mtime": 1782796474.5512679,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "48371e9351fef6fed347d56e541797d5a90613a8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "14048.txt",
+  "file_name": "14048.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तोरीबारी इलाम जिल्लाभित्र पर्ने गाउँ हो । बरबाेटे गाउँविकास समिति वडा नं 1 मा पर्ने याे गाउँ इलाम फिदिम राजमार्गमा अवस्थित चुरेघाँटी नामक व्यापारिक केन्द्रबाट केही पश्चिममा पर्दछ । यहाँका कृषकहरू धान बाली उब्जाउन पुवा बेंसीमा निर्भर रहन्छन् भने नगदे बालीकाे खेती ताेरीबारीमै गर्दछन् ।",
+    "याे गाउँ पनि अलैची, अदुवा, अम्लिसाे, अाेलन, अालु, अकबरे जस्ता नगदे बालीका लागि प्रिसद्ध छ । यसबाहेक यहाँ इस्कुस, काँक्राे, नास्पाती, अन्य सागसब्जी ता मकै पनि प्रशस्त उब्जनी हुन्छ । इलाम बजार नजिकै भएकाे हुनाले यहाँ उत्पादित सबै अन्न, फलपूल, सागसब्जी इलामा नै खपत हुने गरेकाे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 278,
+    "text_length_max": 284,
+    "text_length_avg": 281.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1485,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14048.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14048.txt",
+    "relative_path": "14048.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14048.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1485,
+    "mtime": 1782796461.2513964,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9f8f1ecd32bb5ce81045ca8af50af7fc8e12e9aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

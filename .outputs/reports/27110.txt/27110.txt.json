@@ -1,0 +1,92 @@
+{
+  "dataset": "27110.txt",
+  "file_name": "27110.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै पनि देवी देवताले धर्म रक्षार्थ वा मानव कल्याणार्थ पृथ्वीमा मनुष्य अथवा पशु रूपमा अवतरित हुन्छन् भने त्यो रूपलाई नै त्यो देवताको अवतार भन्ने बुझिन्छ। जस्तै भगवान विष्णुले मानव कल्याण र धर्म रक्षाको लागि मत्स्य अवतार, नृसिंह अवतार, वामन अवतार आदिको रूपमा अवतार लिएका थिए।मानव कल्याण र धर्म रक्षाकोलागि भगवान् विष्णुले मात्र न भै अन्य शिवादि देवताहरूले पनि अनेकौ पशु आदि अवतार लिएको कुरा हिन्दू धर्म ग्रन्थहरूमा प्रसस्त कथाका रूपमा पाईञ्छन् ।",
+    "हिन्दू धर्मअन्तर्गत एक शृङ्खलाको भाग"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 511,
+    "text_length_avg": 222.63,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11350,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27110.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27110.txt",
+    "relative_path": "27110.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27110.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11350,
+    "mtime": 1782796522.155688,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b2b2aaed2b12f6df07c57a460b2910e327d08858",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

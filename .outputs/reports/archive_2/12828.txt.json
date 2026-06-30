@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12828.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइतबार र त्रयोदशी तिथिको संयोगबाट रवि प्रदोष योगको सृजना हुन्छ। यस दिन भगवान् शिवको प्रसन्नताका निमित्त व्रत सम्पादन गर्ने गरिन्छ। यस व्रतको प्रभावले लामो आयु, राम्रो स्वास्थ्य आदिको प्राप्ति हुन्छ भन्ने विश्वास छ। यस व्रतको कथा यस प्रकार छ -",
+    "एउटा गाँउमा एक जना दीन-हीन ब्राह्मण बस्दथे। उनकी धर्मनिष्ठा पत्नी प्रदोष व्रत लिने गर्दथिन्। ती दम्पत्तिको एउटा पुत्र थियो। एक पल्ट त्यो पुत्र गंगा स्नान गर्न गयो। दुर्भाग्यवश बटोमा उसलाई चोरहरूले घेरे र डर र त्रास सिर्जना गर्दै सोधे-'तिम्रा पिताले गुप्त धन कहाँ लुकाएर राखेका छन्। बिचरा बालकले दीनतापूर्वक आफूहरू अत्यन्त निर्धन र दु:खी भएको कुरा बतायो। उसले पिताजीसँग गुप्तधन रहने प्रश्न नै नउठ्ने कुरा पनि भन्यो। चोरहरूले उसको अवस्था सुनेर दया राखी उसलाई छोडिदिए। ब्राह्मणबटु आफ्नो बाटो लाग्यो। हिं"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 242,
+    "text_length_max": 1565,
+    "text_length_avg": 903.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4847,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12828.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12828.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12828.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4847,
+    "mtime": 1782796611.990564,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "274c8349412316f2b1715147a363a8fe58f077e5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

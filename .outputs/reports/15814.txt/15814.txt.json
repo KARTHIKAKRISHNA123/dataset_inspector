@@ -1,0 +1,92 @@
+{
+  "dataset": "15814.txt",
+  "file_name": "15814.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मीरा कुमारी भारतीय राष्ट्रिय कांग्रेसको प्रमुख नेताहरू मध्ये एक हुन् । उनी पन्ध्रौ लोकसभामा बिहारको सासाराम लोकसभा क्षेत्रको प्रतिनिधित्व गर्नुहुन्छ । वर्तमानमा श्रीमति मीरा कुमारी लोकसभा अध्यक्ष हुन् । उनी लोकसभाको पहिलो महिला स्पीकरको रूपमा बिना बिरोध 3 जुन 2009 मा छानिएको थिइन् ।",
+    "मीरा कुमारी दलित समुदायबाट हुन् र उनी पूर्व उप-प्रधानमन्त्री श्री जगजीवन रामको छोरी हुन् । मीरा कुमारी सन् 1973 मा भारतीय विदेश सेवामा सम्मलित भइन् । उनी धेरै देशहरूमा नियुक्त भई असल प्रशासकको रुपमा कार्य गर्न सफल भइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 220,
+    "text_length_max": 283,
+    "text_length_avg": 251.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1329,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15814.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15814.txt",
+    "relative_path": "15814.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15814.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1329,
+    "mtime": 1782796469.33523,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cc09be569c4e80887d14261623e940a004b77be8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

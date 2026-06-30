@@ -1,0 +1,92 @@
+{
+  "dataset": "18996.txt",
+  "file_name": "18996.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चौधौं/पन्ध्रौं शताब्दिमा हिन्दुहरूको संस्कारमा लोकप्रिय गीत वा श्लोक नै बालन हो । विशेष गरी एकादशी पर्वमा एकादशी महात्म्यलाई मूल आधार बनाएर बालन नाचिन्छ । बालन नाँचले सबैलाई मोहित बनाउँछ । बालनमा प्रयोग भएका शब्दलाई हेर्दा भारतबाट नेपालतिर यो नाँच वा गीत आएको हो भनेर अनुमान गर्न सकिन्छ । ",
+    "सत्य सुकिर्ती, गणपति ब्रम्हा"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 289,
+    "text_length_avg": 52.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1274,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18996.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18996.txt",
+    "relative_path": "18996.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18996.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1274,
+    "mtime": 1782796484.938337,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5f87cd206377543f64389a79d431126223e1cf9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

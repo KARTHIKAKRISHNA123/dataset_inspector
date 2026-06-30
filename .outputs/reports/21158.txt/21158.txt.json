@@ -1,0 +1,92 @@
+{
+  "dataset": "21158.txt",
+  "file_name": "21158.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लालमनिरहाट बङ्गलादेशको उत्तरी सिमानमा पर्ने एक जिल्ला हो । यो जिल्ला रङ्गपुर विभागमा पर्छ । लालमनिरहाट महाकुमा 1 फेब्रुअरी 1984 जिल्लामा परिणत भएको थियो । ",
+    "यस जिल्लामा 5 उप-जिल्ला, 5 थाना, 45 सङ्घीय परिसद र 478 गाउँहरू रहेको छन् तिनिहरू यस प्रकार छन्:"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 523,
+    "text_length_avg": 329.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4913,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21158.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21158.txt",
+    "relative_path": "21158.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21158.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4913,
+    "mtime": 1782796495.088963,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9fa21c834f5c2b0dc38729469b834a878b3dbeb5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "38320.txt",
+  "file_name": "38320.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खुला तथ्याङ्क दिवस अथवा अन्तराष्ट्रिय खुला डाटा दिवस फेब्रुअरी महिनाको 22 तारिकको दिन विश्वभरि नै मनाउने गरिन्छ । उक्त दिन मानिसहरू भेला भएर एपलिकेसन बनाउछन, तथ्याङ्क लाई खुला गर्ने, visualization बनाउने र स्थानिय र रार्ष्टिय सरकारलाई खुला निति अवधरण गर्न प्रोहत्साहन गर्ने गर्दछन । यो दिवस जोसुकैले मनाउन सक्छन । यदि आफुसंग खुला तथ्याङ्कलाई प्रयोग गर्न सक्ने कुनै सोच छ, कुनै चाखलाग्दो प्रोजेक्टमा योगदान गर्नुछ, कसरी तथ्याङ्कलाई विश्लेषण गर्ने अथवा अरुले के गारिरहेको छन भनेर हेर्न मन छ भने खुला तथ",
+    "यो कार्यक्रम हुन 5 वटा कुरामा ध्यान पुर्याउनु पर्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 533,
+    "text_length_avg": 295.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9864,
+      "Latin": 0.0136
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3075,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9864,
+      "Latin": 0.0136
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38320.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38320.txt",
+    "relative_path": "38320.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38320.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3075,
+    "mtime": 1782796574.7218912,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "d66d3d92cdee448f76bb50fb6a7c7e31cc1df391",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14608.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भक्तपुरका प्रसिद्ध मन्दिरहरुमा दत्तात्रय मन्दिर पनि प्रमुख हो । ब्रम्हा, विष्णु र महेश्वरएकै स्वरुप त्रिशक्तीको रुपमा पुजिने यस मन्दिरमा साउन महिनामा विशेष पुजाआजा गर्ने गरिन्छ । साउन महिनामा महादेव भगवानको अवतार हुने जनविश्वासका कारण साउन महिनामा विवाहित महिलाहरु श्रीमान्को लामो आयु र परिवारको सुखद भविष्यको लागि र अविवाहित महिलाहरु असल जीवनसाथी प्राप्तीको कामना सहितप्रत्येक सोमबार ब्रत बसि दत्तात्रयको पूजा गर्ने प्रचलन रहिआएको पाइन्छ ।",
+    "प्यागोडा शैलीमा निर्माण गरिएको यस मन्दिर राजा यक्ष मल्लले बनाउन लगाएका थिए । यसको प्रमुख विशेषता भनेको यो मन्दिर ठूलो एउटै रुखबाट बनेको जनविश्वास रहेको छ । दुइजना राजपूत पहलमानहरु यस मन्दिरको रक्षार्थ अग्रस्थानमा राखिएको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 440,
+    "text_length_avg": 190.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2068,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14608.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14608.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14608.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2068,
+    "mtime": 1782796615.7797608,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "567cc022a1113728b8a6c4c7db6df8de7f7a5eb0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13085.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनुवार भाषा नेपालमा बोलिने एक प्रमुख जातिय भाषा हो । अर्थत: सुनुवारी, कोइचा, मारपचे, मारपचा-दोपचा कुराकानी ।विशेष गरि नेपालको पुर्वी पहाड रामेछाप, दोलखा, ओखल्ढुङ्गा, खोटाङ, तपलेजुङ्, ईलाम जनकपुर्, सुनसारी, सिरहा, सिन्धुलीका साथै भुटान र भारतको सिक्किम र दार्जेलिङ क्षेत्रमा बसोबास गर्ने सुनुवार र किरात जातिहरूले बोल्ने भाषा लाई सुनुवार भाषा अथवा कोइचा-लो भनिन्छ ।",
+    "नमसेउ, सेउ, नमसेवलसेउ, नमसेउ = नमस्ते नमसेवल/ला = नमस्ते+जने वा बिदावारी "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 365,
+    "text_length_avg": 118.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9711,
+      "Latin": 0.0289
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2439,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9711,
+      "Latin": 0.0289
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13085.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13085.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13085.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2439,
+    "mtime": 1782796612.5731127,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "3f1dd52bea8e7268f513885f7bcbc48f8cbb495f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

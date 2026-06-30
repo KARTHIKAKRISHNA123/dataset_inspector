@@ -1,0 +1,92 @@
+{
+  "dataset": "21078.txt",
+  "file_name": "21078.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोबर शब्दको प्रयोग गाई, गोरु, भैंसी वा राँगाका मलका लागि प्राय: हुन्छ। घास, भूस, खली आदि जो केही चार खुट्टे द्वारा खाइन्छ त्यसको पाचनमा कति नैं रासायनिक परिवर्तन हुन्छन् तथा जो पदार्थ अपचित रहन्छ ती शरीरका अन्य अपद्रव्यहरुका साथ गोबरका रूपमा बाहर निस्कन्छन्। यो साधारणत: नम, अर्द्ध ठोस हुन्छ,मा पशुका भोजनका अनुसार यसमा  परिवर्तन पनि हुँदै रहन्छन्। केवल हरियो घाँस वा अधिक खलीमा निर्भर रहने पशुहरुको गोबर पतला हुन्छ। यसको रंग केही पहेंलो एवं गाढा फुस्रो हुन्छ। यसमा घास, भुस, अन्नका दानाहरुका टुकुरा ",
+    "गोबरमा उपस्थित पदार्थ एवं गुण धेरै कुराहरुमा निर्भर गर्दछन्, जस्तै पशुको जाति, अवस्था, चारा, दिनचर्या आदि। चर्ने वा काम गर्ने पशुहरुको गोबर एउटा स्थानमा बाँधिएका रहनेवालहरु भन्दा भिन्न रहन्छ। दूध खाने बच्चाहरु वा बाछाहरुको गोबर मनुष्यहरुका मलबाट केही केही मिल्दो जुल्दो हुन्छ। अधिक भूस एवं कम खली खाने पशुहरुका गोबरमा नाइट्रोजनयुक्त पदार्थ एंव वसाको मात्रा कम तथा सैलूलोज जस्ता वस्तुहरु अधिक रहन्छन्, परन्तु अधिक खली खाने पशुहरुका गोबरमा यसका विपरीत नाइट्रोजनभएका पदार्थ एवं वसाको मात्रा अधिक रहन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 1742,
+    "text_length_avg": 553.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13126,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21078.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21078.txt",
+    "relative_path": "21078.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21078.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13126,
+    "mtime": 1782796494.7144,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7be97dc4b5ad863b36b4cf8d9d76a58faad95d58",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

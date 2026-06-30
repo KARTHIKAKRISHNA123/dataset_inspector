@@ -1,0 +1,92 @@
+{
+  "dataset": "38114.txt",
+  "file_name": "38114.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सराङकोट नेपालको पश्चिमाञ्चल विकास क्षेत्रको गण्डकी अञ्चल, कास्की जिल्लामा अवस्थित गाँउ विकास समिति हो। यस गाविसमा रहेका ऐतिहासिक तथा धार्मिक पर्यटकीय स्थलहरू भुमे कालिका मन्दिर, चिसाखोला वेदविद्याश्रम, वाहकोट देवीको मन्दिर, वागेश्वरी मन्दिर, पदेंली शिव मन्दिर आदि हुन भने सराङकोट भ्यूटावर, चण्डीको डिल, मेथलाङ डाँडा, वाहाकोट, खपौदी र राताडाँडा आदि प्राकृतिक पर्यटकीय स्थलहरू हुन।",
+    "सराङकोटबाट पोखराको रमाइलो दृष्यावलोकन गर्न सकिन्छ। यहाँबाट प्याराग्लाईडिङ मार्फत चरा झैं उडेर शयर गर्न सकिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 110,
+    "text_length_max": 379,
+    "text_length_avg": 244.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1320,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38114.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38114.txt",
+    "relative_path": "38114.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38114.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1320,
+    "mtime": 1782796573.8062804,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cdb2ab004ec8275aa64bbce9a1a38db2a9dd2274",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

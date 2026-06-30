@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34901.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुलचन्द्र गौतम नेपालका कूटनीतिज्ञ हुन्। उनले लामो समय संयुक्त राष्ट्रसंघमा काम गरेका छन्। संयुक्त राष्ट्रसंघमा सबैभन्दा माथिल्लो ओहदामा पुग्ने उहाँ एक नेपाली पनि हुनुहुन्छ। उहाँको जन्म गुल्मी जिल्लाको अमरपुर गाउँमा 2006 साल मंसिर 6 गते भएको हो। उहाँका पिताको नाम ओमप्रसाद र माताको नाम हिमा गौतम हो। उहाँ पहिलो सन्तान हो। उहाँहरू 3 भाइ र 4 बहिनी जन्मनु भएको हो। ",
+    "स्कूलको पढाई सकेपछि सिधा सम्पर्कबाट अमेरिका पढ्न जान खोज्दा उहाँले पासपोर्ट पाउनु भएन। एक वर्ष काठमाडौंं बस्नुपर्‍यो। त्यो बेला उहाँले काठमाडौंंको त्रि-चन्द्र कलेजमा पनि पढ्नुभयो। पढाई खर्च जुटाउन अमेरिकी सहयोग नियोग का विभिन्न सामग्री अनुवाद गर्नुभयो। एक वर्षपछि सहसचिव दीर्घराज कोइरालाको मद्दतले उहाँ अमेरिका आउन पाउनु भयो। सन् 1968 सेप्टेम्बरमा अमेरिकाको न्यू ह्याम्सर राज्यको डार्मोथ कलेजमा आएर पढ्नुभयो। त्यहाँ पढ्न आइपुग्ने उहाँ पहिलो नेपाली विद्यार्थी हुनुहुन्थ्यो। प्रिन्स्टन र हार्भर्ड युनिभ"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 171,
+    "text_length_max": 937,
+    "text_length_avg": 393.53,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9879,
+      "Latin": 0.0121
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18025,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34901.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34901.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34901.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18025,
+    "mtime": 1782796656.1167438,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.981,
+    "sha1_quick": "ff2bb52b6b34b24c1343330fb0f8e9ff66bda918",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

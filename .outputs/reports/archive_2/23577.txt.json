@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23577.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुगल एड्स, पहिले गुगल एडवर्ड्स गूगलको प्रमुख विज्ञापन उत्पादन एवं आय स्रोत हो। 2010 मा गूगलको कुल विज्ञापन आय 28 बिलियन अमेरिकी डालर थियो। ऐडवर्ड पे-पर-क्लिक ) विज्ञापन, कस्ट-पर-थाउजहरुड ) र टेक्स्ट, बैनर तथा रिच-मीडिया विज्ञापनहरु हेतु साइट-लक्ष्यांकित विज्ञापनको सुविधा दिन्छ। एडवर्ड्सका कार्यक्रममा स्थानीय, राष्ट्रीय र अन्तर्राष्ट्रिय वितरण आउँछन्। गूगलका टेक्स्ट विज्ञापन संक्षिप्त हुन्छन्, यिनमा एक प्रमुख पंक्ति र दुइ अतिरिक्त पंक्तिहरु हुन्छन्। चित्र भएका विज्ञापन अनेक भिन्न इंटरएक्टिव एडवरट",
+    "गूगलका एडवर्ड्स प्रभागको बिक्री अनि सहायता केन्द्र माउंटेन व्यू, कैलिफौर्नियामा स्थित हो, यसका प्रमुख द्वीतियक कार्यालय एन आर्बर, मिशिगन मा स्थित छन्, कम्पनीको तेस्रो-सबैभन्दा ठूलो यूएस फैसिलिटी यसका माउन्टेन व्यू, कैलिफौर्निया स्थित मुख्यालयका पछि र न्यूयोर्क सिटी अफिसमा स्थित छ। एडवर्ड्सको ईन्जिनियरिङ् विभाग माउन्टेनव्यू कैलीफौर्नियामा स्थित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1039,
+    "text_length_avg": 397.41,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 30684,
+    "estimated_records": 77
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 77,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9911,
+      "Latin": 0.0089
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23577.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23577.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23577.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 30684,
+    "mtime": 1782796633.5120237,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6e2bc19dcf932ea7a03879c3ba234dd6b3bc39e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

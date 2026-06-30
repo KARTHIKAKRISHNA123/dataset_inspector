@@ -1,0 +1,92 @@
+{
+  "dataset": "7108.txt",
+  "file_name": "7108.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पेरु गणतन्त्र दक्षिण अमेरिकाको एक देश हो। त्यसको राजधानी र सबभन्दा ठूलो शहर लिमा हो। पेरुको आन्देस हिमशृखलाको पहाडी क्षेत्रमा रहेको प्रसिद्ध इङ्का अधिवासीको प्राचीन शहर माचु पिक्चु हो। त्यसलाई \"इङ्काको बेपत्ता शहर\" भन्दछन्। विश्व सम्पदा स्थल हो।",
+    "सन् 2007मा पेरुको जनसङ्ख्या अन्दाजी 28,675,000 थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 245,
+    "text_length_avg": 148.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 775,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7108.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7108.txt",
+    "relative_path": "7108.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7108.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 775,
+    "mtime": 1782796592.955118,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "d4308dbaa17b6f7b33ce52cc4418b0b586bf0837",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

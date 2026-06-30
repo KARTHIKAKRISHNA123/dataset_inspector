@@ -1,0 +1,92 @@
+{
+  "dataset": "31546.txt",
+  "file_name": "31546.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पञ्चगढ बङ्गलादेशको उत्तरी भागमा पर्ने एक जिल्ला हो । यो जिल्ला रङ्गपुर विभागमा पर्छ । यो जिल्लालाई भारतको 288 किलोमिटर लामो सिमानाले घेरेको छ । ",
+    "यो जिल्ला 26°00' देखि 26°38' उत्तर अक्षांश र 89°19' देखि 88°49' पुर्व देशान्तरणमा अवस्थित छ । पञ्चगढ जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 1404.63 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई भारतको पश्चिम बङ्गाले उत्तरबाट घेरेका छन् भने यस जिल्लाको दक्षिणमा दिनाजपुर र ठाकुरगाँउ जिल्ला रहेका छन् । त्यस्तै गरि नीरफामारी जिल्लाले पुर्वमा र भारतको पश्चिम बङ्गाल प्रदेशले पश्चिमबाट घेरेको छ । यस जिल्लाको माटो मलिलो र खेतीयोग्य छ । यो जिल्ला समुन्द्री सतहबाट 150 फिट को उचाइका रहेको छ । यस जिल्लामा 16 वटा"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 573,
+    "text_length_avg": 342.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7795,
+    "estimated_records": 22
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 22,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31546.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31546.txt",
+    "relative_path": "31546.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31546.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7795,
+    "mtime": 1782796543.057753,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "629bca7c0afc0b23a12f8fdebc1b4f0e9f4a5a8e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

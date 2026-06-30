@@ -1,0 +1,92 @@
+{
+  "dataset": "17836.txt",
+  "file_name": "17836.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 नोभेम्बरमा मालीको बमाकोमा रहेको ऱ्याडिसन ब्ल्यू होटेलमा भएको आक्रमण वर्तमान समयमा चलिरहेको आतङ्कवादी हमला हो । बमाको सहरमा रहेको यो परिचित होटल विदेशी पर्यटक, व्यवसायी र विमान परिचालक दलका सदस्यहरू बिच निक्कै लोकप्रिय छ ।",
+    "यकिन भइनसकेको केही स्वाचालित बन्दुकधारीको समूहले होटल भित्र रहेका लगभग 170 जनालाई बन्धक बनाएर राखेको छ । स्थानीय माली प्रहरी तथा सेनाका अनुसार सबै बन्धकलाई हतियारधारीले होटलको सातौँ तल्लामा राखेका छन् ।हालसम्म प्राप्त जानकारी अनुसार दस चीनीयाँ नागरिक, बिस भारतीय, छ टर्कीस विमानका चालक दल र 1 फ्रान्सका नागरिक रहेको छ । यी सबैलाई बन्धक बनाएर राखिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 353,
+    "text_length_avg": 289.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1531,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17836.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17836.txt",
+    "relative_path": "17836.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17836.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1531,
+    "mtime": 1782796479.3038518,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1d53e9c4f68b114a350bf4f2e358deae994c8c80",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "6593.txt",
+  "file_name": "6593.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाडजोर्नी शल्यचिकित्सा वा अर्थोपेडिक्स शल्यचिकित्साको एक क्षेत्र हो। यो क्षेत्र एक्युट, क्रोनिक, ट्रमा र ओभरयुज overuse injuries र अन्य मस्कुलोस्केलिटल व्यवस्थाका रोगहरूसँग सम्बन्धित छ। Orthopaedic surgeons address most musculoskeletal ailments including arthritis, trauma र congenital deformities using both surgical र non-surgical means. ",
+    "Orthopedic surgeons are physicians who have completed additional training in orthopedic surgery after the completion of medical school. According to the latest Occupational Outlook Handbook published by the U.S. Department of Labor, between 3-4% of all practicing physicians are orthopedic surgeons."
+  ],
+  "statistics": {
+    "records_sampled": 24,
+    "missing_text": 0,
+    "text_length_min": 72,
+    "text_length_max": 1448,
+    "text_length_avg": 363.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9721,
+      "Devanagari": 0.0279
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9151,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9493,
+      "Devanagari": 0.0507
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6593.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6593.txt",
+    "relative_path": "6593.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6593.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9151,
+    "mtime": 1782796590.4238105,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e91a03e42b292ebca9d69a8bec05a0e7edced36d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

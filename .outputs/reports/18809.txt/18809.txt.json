@@ -1,0 +1,92 @@
+{
+  "dataset": "18809.txt",
+  "file_name": "18809.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साराटोव एयरलाइन्स 703 एउटा एन्टोनोव एएन-148-100बी विमान थियो, जो 11 फरवरी 2018 मा रूस मा मस्को को डोमोडेदेवो विमानक्षेत्रबाट ओर्स्क विमानक्षेत्रका लागि उडान भर्ने समय अर्को विमानसँग ठक्कर खाएको कारण दुर्घटनाग्रस्त भएको थियो। दुर्घटनाको समय विमानमा 65 यात्री र चालक दलको 6 वटा सदस्य उपस्थित थिए।",
+    "कुनै यात्री जेट विमानको यो दुर्घटना लगभग एक वर्षको शान्ति पछी घटेको बताएका छन्। यो भन्दा पहिले घातक दुर्घटना नोभेम्बर 2016 मा लामीआ फ्लाइट 2933 को थियो, जसमा त्यो विमानमा सवार 77 मध्ये 71 मानिसको मृत्यु भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 213,
+    "text_length_max": 583,
+    "text_length_avg": 408.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4116,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18809.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18809.txt",
+    "relative_path": "18809.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18809.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4116,
+    "mtime": 1782796483.8627498,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d3e7b37cbdb5adb0ac5f3c7e68ad912ad0afed7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

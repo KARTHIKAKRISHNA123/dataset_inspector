@@ -1,0 +1,94 @@
+{
+  "dataset": "3273.txt",
+  "file_name": "3273.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सजना राना नेपाली महिला फुटबल खेलाडी हुन् । उनी अहिले नेपाल महिला राष्ट्रिय फुटबल टिमकी सदस्य रहेकी छिन् । त्यस्तै उनी फुत्सालमा मध्यपंक्तिबाट New Radiant क्लबबाट खेल्छिन् । यसभन्दा अघि उनले एपीएफ क्लबबाट पनि फुटबल खेलिसकेकी छिन् ।",
+    "सजनाले 2013 मा भएको महिला एनसेल कपको पन्ध्रौं संस्करणमा मस्ट भल्युएबल प्लेयर को उपाधि जितेकी थिइन् । उनले उपहार स्वरुप यामाहा स्कुटर प्राप्त गरिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 148,
+    "text_length_max": 638,
+    "text_length_avg": 362.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9863,
+      "Latin": 0.0137
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4708,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9863,
+      "Latin": 0.0137
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3273.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3273.txt",
+    "relative_path": "3273.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3273.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4708,
+    "mtime": 1782796548.3347764,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6c4463ff20a2462b3aa15c424bbc8d44f3bfab4d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

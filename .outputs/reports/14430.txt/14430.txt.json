@@ -1,0 +1,92 @@
+{
+  "dataset": "14430.txt",
+  "file_name": "14430.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 31°38′उत्तर 74°52′पूर्व / 31.64° उत्तर 74.86° पूर्व / 31.64; 74.86अमृतसर भारतको पञ्जाब प्रान्तको एक सहर हो। अमृतसर पञ्जाबको सबभन्दा महत्वपूर्ण र पवित्र सहर मानिन्छ। पवित्र यस कारण मानिन्छ किनकी सिखहरूको सबभन्दा ठुलो गुरूद्वारा स्वर्ण मन्दिर अमृतसरमा नै छ। ताजमहल पछि सबभन्दा ज्यादा पर्यटक अमृतसरको स्वर्ण मन्दिरलाई नै हेर्न आउदछन। स्वर्ण मन्दिर अमृतसरको मुटु मानिन्छ। यो गुरू रामदासको डेरा हुने गर्दथ्यो। अमृतसरको इतिहास गौरवमयी छ। यो आफ्नो संस्कृति र लडाइहरूको लागि धेरै प्रसिद्ध रहेको ",
+    "अमृतसर लगभग साढे चार सौ वर्ष देखी अस्तित्वमा छ। सबभन्दा पहिले गुरू रामदासले 1577मा 500 बीघामा गुरूद्वाराको आधार शिला राखेका थिए। यो गुरूद्वारा एक सरोवरको बीचमा बनेको छ। यहाँ बनेको तंदूर बडा लजीज हुदछ। यहाँ सुन्दर कृपाण,आम पापड, आपको आचार र सिखहरूको दस गुरूहरूको आकर्षक तस्वीर पाईन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 28,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 976,
+    "text_length_avg": 328.61,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24395,
+    "estimated_records": 74
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 74,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14430.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14430.txt",
+    "relative_path": "14430.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14430.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24395,
+    "mtime": 1782796462.9758291,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "216b654f1c4ada5612833c534444d0942845bfa1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

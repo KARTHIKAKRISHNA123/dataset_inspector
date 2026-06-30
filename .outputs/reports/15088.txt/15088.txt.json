@@ -1,0 +1,94 @@
+{
+  "dataset": "15088.txt",
+  "file_name": "15088.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 31°46′31.73″ उत्तर 35°13′59.16″ पूर्व / 31.7754806° उत्तर 35.2331000° पूर्व / 31.7754806; 35.2331000",
+    "मन्दिर संस्थान यरूशेलममा रहेको संग्रहालय, अनुसन्धान संस्थान र शिक्षा केन्द्र हो । यो सन् 1987मा स्थापित भएको थियो । दुई समर्पित छ यरूशलेममा मन्दिर (को पहिलो भनिन्छ र दोस्रो मन्दिर को."
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 183,
+    "text_length_avg": 102.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9493,
+      "Latin": 0.0507
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 951,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9493,
+      "Latin": 0.0507
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15088.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15088.txt",
+    "relative_path": "15088.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15088.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 951,
+    "mtime": 1782796465.9416833,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "b54a130fb5f1aff6bc0ba49cda8f7f30be2cba20",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

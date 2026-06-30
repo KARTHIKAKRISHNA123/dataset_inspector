@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19708.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एनआरटी क्लबले शहिद स्मारक ए डिभिजन लिग 2075 को पहिलो खेल नेपाल आर्मी क्लबसँग 2075 असोज 13 खेलेको थियो।जुन लिगकै पहिलो तथा उद्घाटन खेल रहेको थियो।",
+    "लिगको उद्घाटन खेलमा नेपाली फुटबलमा पुरानो र चर्चित न्युरोड टिम एनआरटीले विभागीय टोली त्रिभुवन आर्मी क्लबको सामना गरेको थियो।चार पटकको लिग च्याम्पियन एनआरटी एक समय नेपाली फुटबलमा निर्क सशक्त टोली रहेको थियो । तर, आर्थिक संकटले गर्विलो इतिहास बनाएको एनआरटी झनै संकटमा परेको थियो । 2069 सालमा एनआरटीले आर्थिक संकटको कारण देखाउदै लिग नखेल्ने निर्णय गर्यो फलस्वरुप एन्फाले एनआटरीलाई कारवाही स्वरुप ‘बी’ डिभिजनमा घटुवा गराएको थियो । 2073 मा ‘बी’ डिभिजन लिगको उपविजेता भएर एनआरटी पुनः ‘ए’ डिभिजनमा फर्कन सफल"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 512,
+    "text_length_avg": 230.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2996,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19708.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19708.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19708.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2996,
+    "mtime": 1782796625.8669777,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6fc0cd5707d7bac100f7fc4422440d636c9ca99c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

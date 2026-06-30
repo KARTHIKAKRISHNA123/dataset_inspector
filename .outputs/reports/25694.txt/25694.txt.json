@@ -1,0 +1,92 @@
+{
+  "dataset": "25694.txt",
+  "file_name": "25694.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्जिन इन्धनमा रहेको रासायनिक शक्ति लाई यान्त्रिक शक्ति मा रुपान्तरण गर्ने यन्त्र हो।ताप इन्जिनहरूले इन्धनलाई ताप शक्ति बनाउँदछ जुन त्यसपछि काम गर्न प्रयोग गरिन्छ। इलेक्ट्रिक मोटर्सले विद्युतीय ऊर्जालाई यांत्रिक गतिमा बदलिदिन्छ। जैविक प्रणालीमा, आणविक मोटर्स, मांसपेशिहरु मा माइओसिनजस्ता, रासायनिक ऊर्जा प्रयोग गर्न र बलहरू सिर्जना गर्न प्रयोग गर्दछ।",
+    "कम्बसन च्याम्बरमा हावा र पेट्रोलको मिश्रण कम्प्रेस हुन्छ।कम्प्रेस भएको मिश्रणमा स्पार्क प्लगले धेरै ठूलो भोल्टेजको झिल्काले पेट्रोल स्थिर भोलुममा बल्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 350,
+    "text_length_avg": 260.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2840,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25694.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25694.txt",
+    "relative_path": "25694.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25694.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2840,
+    "mtime": 1782796515.5689337,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4842b761aec25b3728160c0b94293db088abb5ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

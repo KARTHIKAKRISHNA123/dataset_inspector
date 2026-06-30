@@ -1,0 +1,94 @@
+{
+  "dataset": "2eng.txt",
+  "file_name": "2eng.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "ascii",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "In Punjab, the Child Rights Cell of the Department of Social Welfare Punjab collaborates with UNICEF to celebrate this day.",
+    "In recent years this style of wrestling has also become popular in other countries."
+  ],
+  "statistics": {
+    "records_sampled": 22712,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 568,
+    "text_length_avg": 107.42,
+    "duplicate_estimate": 653,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 6008,
+    "unicode_control_chars": 0,
+    "encoding_quality": 0.9975,
+    "languages_seen": [],
+    "file_size_bytes": 2462391,
+    "estimated_records": 23705
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23705,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2eng.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2eng.txt",
+    "relative_path": "2eng.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2eng.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2462391,
+    "mtime": 1782794723.4718056,
+    "encoding": "ascii",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4cba4d3be1e36049d4dcdee662ad3cc02412520a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

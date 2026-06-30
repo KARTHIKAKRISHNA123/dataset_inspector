@@ -1,0 +1,92 @@
+{
+  "dataset": "19853.txt",
+  "file_name": "19853.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गङ्गालाल श्रेष्ठ नेपालका शहीद हुन् जसले राणा शासन विरुद्धको आन्दोलनमा ज्यान गुमाएका थिए।",
+    "स्व. भक्तलाल श्रेष्ठ र माता तुलसीमाया श्रेष्ठका छोरा गङ्गालालको जन्म वि.सं. 1975 सालमा रामेछाप जिल्लाको भँगेरी गाउँमा भएको थियो। आफ्ना काकासँगै भारतको कोलकातामा बसी 2-3 वर्ष पढेपछि उहाँ काठमाडौं र्फकनुभयो। वि.सं. 1994मा उहाँले दरबार हाई स्कूलबाट पहिलो श्रेणीमा एस्.एल्.सी. उत्तीर्ण गर्नुभयो र त्रि-चन्द्र कलेजमा आई.एस्सी.पढ्दै हुनुहुन्थ्यो। गङ्गालाल कलाकार तथा महावीर संस्थाका कार्यकर्ता हुनुहुन्थ्यो। महावीर संस्थामा राणाविरोधी प्रवचन र क्रियाकलापहरू हुन्थे। राणा सरकारले गङ्गालाललाई शुक्रराजको सभाम"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 911,
+    "text_length_avg": 499.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2663,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19853.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19853.txt",
+    "relative_path": "19853.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19853.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2663,
+    "mtime": 1782796488.9769495,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "66d14cb0bb1fc2576144c28bc8a69e91c216a575",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

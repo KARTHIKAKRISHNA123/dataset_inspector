@@ -1,0 +1,92 @@
+{
+  "dataset": "25027.txt",
+  "file_name": "25027.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुर्नया बैतडी जिल्लामा अवस्थित गाउँपालिका हो। शंकरपुर गाविसलाई हाल सुर्नया गाउँपालिका बनाइएको हो। यस सुर्नया गाउँपालिका 6 मा बढी जसो 90 प्रतीशत बसोवास अवस्थीहरुको रहेको छ।",
+    "भेलेलिड़्ग देवताको स्थान चारैतिर घनाजंगल जंगलको बिचमा रहेको दिउसै एक/दुइ जना जान नसकीने डरलाग्दो ठाउमा छ । मन्दिर भन्दा झन्नै 20 मिटर उत्तर पश्चिमतिर सुर्नया नदिको किनारमा यस देवताको फुट्लिड़्ग छ जहा पौष शुक्ल द्वितियाका दिन चिउराले पुजा लगाइन्छ । मेरो गाउघरमा हामी भन्दा अग्रजहरूले भन्ने गर्थे हामी सम्पुर्ण अवस्थी परीवारको इष्टकुल देवता भेलेलिड़्ग को पुजाआजा वा जात्रा हुन्छ अरे तर हामीहरूको लागी उखानमा मात्र सिमीत थियो । प्रतेक बर्ष पौष शुक्ल द्वितियाको दिन हुनुपर्ने उक्त जात्रा विगत लामो समय दे"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 171,
+    "text_length_max": 642,
+    "text_length_avg": 406.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2172,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25027.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25027.txt",
+    "relative_path": "25027.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25027.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2172,
+    "mtime": 1782796512.4207783,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e331b3f295439451621956cccd5eee545cc1183f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

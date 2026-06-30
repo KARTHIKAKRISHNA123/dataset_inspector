@@ -1,0 +1,92 @@
+{
+  "dataset": "22772.txt",
+  "file_name": "22772.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजगीर, भारतको बिहार प्रांतमा नालंदा जिल्लामा स्थित एउटा सहर र अधिसूचीत क्षेत्र हो। यो कुनै बेला मगध साम्राज्यको राजधानी हुने गर्थ्यो, जहाँबाट पछि मौर्य साम्राज्यको उदय भयो।",
+    "राजगृहको ऐतिहासिक र धार्मिक महत्व छ. वसुमतिपुर, वृहद्रथपुर, गिरिब्रज र कुशग्रपुरको नामबाट पनि प्रसिद्ध रहेको राजगृहलाई अचेल राजगीरको नामबाट जानिन्छ. पौराणिक साहित्य अनुसार राजगीर बह्माको पवित्र यज्ञ भूमि, संस्कृति र वैभवको केन्द्र तथा जैन तीर्थालु महावीर र भगवान बुद्धको साधनाभूमि रहेको छ। यसको बारेमा ऋगवेद, अथर्ववेद, तैत्तिरीय पुराण, वायु पुराण, महाभारत, बाल्मीकि रामायण आदिमा छ। जैनग्रन्थ विविध तीर्थकल्प अनुसार राजगीर जरासंध, श्रेणिक, बिम्बसार, कनिक आदि प्रसिद्ध शासकहरूको निवास स्थान थियो। जरासं"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 173,
+    "text_length_max": 588,
+    "text_length_avg": 380.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2040,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22772.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22772.txt",
+    "relative_path": "22772.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22772.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2040,
+    "mtime": 1782796502.2240152,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8f3d4a6b5b860bee016c9f62c33cdec51ba75e5f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

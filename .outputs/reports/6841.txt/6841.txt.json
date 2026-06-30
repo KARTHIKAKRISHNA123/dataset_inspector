@@ -1,0 +1,92 @@
+{
+  "dataset": "6841.txt",
+  "file_name": "6841.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तिहार हिन्दु धर्मावलम्बीहरुको दशैं पछिको सबैभन्दा ठूलो पर्व हो । यो पर्व कार्त्तिक कृष्ण पक्ष त्रयोदशीका दिन काग तिहारको नामले शुरु भएर कार्त्तिक शुक्ल पक्षको द्वितीया तिथिको भाइटीकासम्म मनाइन्छ । पाँच दिनसम्म मनाइने भएकाले यसलाई यमपञ्चक पनि भनिन्छ । यो पाँच दिवसीय पर्व विशेष गरी नेपालमा मनाइन्छ । हिन्दू धर्मावलम्वीले दीपावली को रुपमा यस पर्वलाई धूमधामसाथ मनाउँछन् । यस पर्वको नाम हिन्दी शब्दको 'त्योहार' शब्दबाट विकृत हुँदै तिहार बनेको अनुमान लगाइन्छ। यसलाई दीपावली अनि दिवाली नामले पनि चिनिन्छ । ",
+    "पाँच दिनसम्म मनाईने तिहारको सम्बन्धमा हिन्दू धर्मशास्त्रका पौराणिक कथाहरूको अनुसार सूर्यका छोरा यमराजले आफ्नी बहिनी यमुनाको निम्तो स्वीकार गरी बहिनीका घरमा गई रमाइलो मनाएको हुँदा यी पाँच दिनलाई यमपञ्चक मानिएको कुरा हिन्दू शास्त्रमा उल्लेख गरिएको छ । यसरी रहँदा-बस्दा यमुनाको व्यवहारले निकै प्रसन्न भई यमराजले बहिनी यमुनालाई \"जे मन लाग्छ वर माग\" भन्दा यमुनाले 'हरेक वर्ष आजकै दिन मलाई भेट्न आउनुपर्ने, साथै दिदी-भाइ दाजु-बहिनीको प्रेम सदा अटल रहोस् र दाजु भाइको आयू, कीर्ति सदा वृद्धि होस्' भन्ने वरदा"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 3333,
+    "text_length_avg": 780.95,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 46026,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6841.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6841.txt",
+    "relative_path": "6841.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6841.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 46026,
+    "mtime": 1782796591.6539793,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "774f744bdf86209c0b2c4d795c6a40f5f39edc6e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

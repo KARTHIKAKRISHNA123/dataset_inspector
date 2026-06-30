@@ -1,0 +1,94 @@
+{
+  "dataset": "369.txt",
+  "file_name": "369.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तिब्बत, 藏區, ज्याङ्कू, हेर्नुहोस् नाम खण्ड) क्षेत्रहरू मध्य एसियाको उच्च समस्थली हो। र तिब्बती जनताको स्वदेश-घर। जसको सरदर ढाल 4,900 मीटर ft), संसारकै उच्च क्षेत्रहरूमा पर्दछ र यो \"विश्वको छहारी \" नामले प्रसिद्ध छ।",
+    "शताब्दियौं सम्म बेग्लै राष्ट्रको रूपमा रहेको तिब्बत आज जनवादी गणतन्त्र चीन अन्तरगत पर्दछ। तिब्बत चिनीयाँ गणतन्त्र भएको दावी छ। यद्यपि तिब्बतीय सार्वभौमिकता विवाद,मा जनवादी गणतन्त्र चीन सरकार र निर्वासनमा रहेको तिब्बत सरकार बीच विवाद कायमै छ। निर्वासनमा रहेको तिब्बत सरकार अन्तर्राष्ट्रिय कानुन बमोजिम तिब्बत चीनको प्रान्त भएको स्वीकार्दैन।तिब्बतीय साम्राज्य सातौं शताब्दी तिर अस्तित्वमा आएको हो जब सम्राट स्रोङ्चन गम्पोले विभिन्न क्षेत्र र जातजातिहरूलाई एकीकृत पारे। सन् 1600को शुरू देखि नै टुल्कुका,"
+  ],
+  "statistics": {
+    "records_sampled": 40,
+    "missing_text": 0,
+    "text_length_min": 40,
+    "text_length_max": 1000,
+    "text_length_avg": 317.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9868,
+      "Latin": 0.0132
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33532,
+    "estimated_records": 105
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 105,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9654,
+      "Latin": 0.0346
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "369.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\369.txt",
+    "relative_path": "369.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "369.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33532,
+    "mtime": 1782796567.6280198,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "752ffa590b69976f8bb3f30cf82a8ec2d4026b0c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

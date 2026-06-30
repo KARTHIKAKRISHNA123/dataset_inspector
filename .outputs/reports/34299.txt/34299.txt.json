@@ -1,0 +1,92 @@
+{
+  "dataset": "34299.txt",
+  "file_name": "34299.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुढासुब्बा गोल्डकप 2074 बुढासुब्बा गोल्डकपको बीसौं संस्करण हो। धरानमा भएको यस नकआउट फुटबल प्रतियोगिताको उपाधि थ्री स्टार क्लबले जितेको थियो।",
+    "प्रतियोगिता जीतेसँगै थ्री स्टार क्लबले 6 लाख नगदसहित ट्रफि हात पारेको थियो, भने उपबिजेता नेपाल पुलिस क्लबले 3 लाख नगद सहित ट्रफी जितेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 140,
+    "text_length_max": 141,
+    "text_length_avg": 140.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 747,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34299.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34299.txt",
+    "relative_path": "34299.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34299.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 747,
+    "mtime": 1782796555.544328,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aac619e5884720e1593dfefab02df58e10c89666",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

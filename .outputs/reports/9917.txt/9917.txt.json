@@ -1,0 +1,92 @@
+{
+  "dataset": "9917.txt",
+  "file_name": "9917.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सातखीरा बङ्गलादेशको दक्षिण-पश्चिम भागमा रहेको एक जिल्ला हो । यो जिल्ला खुल्ना विभागमा अवस्थित छ । यो जिल्लाले भारतको पश्चिम बङ्गाल राज्यसँग सिमान जोडिएको छ । यो जिल्ला बेतना नदिको किनारमा अवस्थित छ ।",
+    "यो जिल्ला 21°36' देखि 22°54' उत्तर अक्षांश र 89°54' देखि 89°20' पुर्व देशान्तरणमा अवस्थित छ । मेहेरपुर जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्य 3858.33 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई जशोर जिल्लाले उत्तरबाट घेरेको छ भने यस जिल्लाको दक्षिणमा बङ्गालको खाडी रहेको छ । त्यस्तै गरि खुल्ना जिल्लाले पुर्वमा र भारतको पश्चिम बङ्गाल र चौबीस परगन जिल्लाले पश्चिमबाट घेरेको छ । यस जिल्लामा बेतना, इकमती, रायमङ्गल, बेतराबती अादि देशकै प्रमुख नदिहरू रहेका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 535,
+    "text_length_avg": 341.91,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9642,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9917.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9917.txt",
+    "relative_path": "9917.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9917.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9642,
+    "mtime": 1782796606.2730844,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6a051f951c1f441fc32a4f8fea427de6e8da0cd1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

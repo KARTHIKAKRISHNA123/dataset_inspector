@@ -1,0 +1,92 @@
+{
+  "dataset": "18107.txt",
+  "file_name": "18107.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैज्ञानिक नाम रुबस इलिप्टिकसले चिनिने यो वनस्पति हिमालय पर्वत श्रृङ्खला आसपासका पहाडी भूभागमा पाइने एक बहुबर्षीय बुट्यान वर्गको वनस्पति हो। रुबस इलिप्टिकस अर्थात रातो ऐँसेलु एसियाको हिमालय पर्वत श्रृङ्खला आसपासका क्षेत्रको रैथाने वनस्पति हो। यो जातको ऐँसेलु नेपालको पहाडी भेगको सबै ठाउँमा पाइन्छ। नेपालका अलावा भारतका उत्तरी पहाडी भूभाग, चीन र पाकिस्तानमा समेत पाइन्छ। यसको बोट एक झाडी खालको हुन्छ। रातो ऐँसेलु पनि दुई प्रकारको हुन्छ। एक प्रकारको ठूलो झाडी हुन्छ भने अर्को सानो बोट भएको हुन्छ। पहिलो ",
+    "यसको फल काँचोमा हरियो र पाकि सकेपछि रातो हुने हुनाले यसलाई रातो ऐँसेलु भनिएको हो। ठूलो झाडीहुने प्रजातिको फलको स्वाद गुलियो हुन्छ भने अर्को सानो बोट भएको प्रजातिको फलको स्वाद अलि चुकिलो हुन्छ। पहिलो जातको चैत देखि जेठको अन्त सम्म पाकेको पाइन्छ भने दोस्रो जातको ऐँसेलु जेठको अन्तमा पाकेको हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 687,
+    "text_length_avg": 357.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2872,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18107.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18107.txt",
+    "relative_path": "18107.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18107.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2872,
+    "mtime": 1782796480.5190222,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cf260b4a723d75b930596ecf268e24396bc4546b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

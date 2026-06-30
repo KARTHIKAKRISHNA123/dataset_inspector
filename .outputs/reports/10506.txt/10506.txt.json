@@ -1,0 +1,94 @@
+{
+  "dataset": "10506.txt",
+  "file_name": "10506.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हैदराबाद पाकिस्तानको सिन्ध प्रान्तमा रहृको एक मुख्य शहर हो । यो शहर कराचीबाट 140 किलोमिटर पुर्वमा पर्छ, यो शहर सिन्ध प्रान्तको जनसङ्ख्याको अाधारमा दोस्रो ठूलो शहर हो भने पाकिस्तानकै अाठौँ ठूलो शहर हो । यो शहरलाई कालहोडा वङ्शका मियान शाह कालहोडा द्वरा 1768 मा पत्ता लगाईएको थियो । यो शहर ब्रिटिस्ट साम्राज्यको शासन कालमा यस शहर सिन्ध प्रान्तको राजधानी थियो भने सन् 1843 मा कराचीलाई प्रान्तको राजधानीमा सारिएको थियो । ",
+    "सन् 1998 को राष्ट्रिय जनगणना अनुसार हैदराबाद शहरको जनसङ्ख्या 565,799 रहेको थियो भने सन् 2017 को राष्ट्रिय जनगणना अनुसार यस शहरको जनसङ्ख्या 1,732,693 रहेको छ । पहिले र अहिलेको जनसङ्ख्या ब्रिद्धी 48.5 % ले बढेको छ । यो शहर पाकिस्तानको ठूला शहर मध्यको सबैभन्दा थोरै जनसङ्ख्या ब्रिद्धी भएको तथ्याङकले जनाएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 65,
+    "text_length_max": 577,
+    "text_length_avg": 323.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9908,
+      "Latin": 0.0092
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4965,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9908,
+      "Latin": 0.0092
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10506.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10506.txt",
+    "relative_path": "10506.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10506.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4965,
+    "mtime": 1782796444.9653604,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "04880fcb437f60db0103b32eaabb7ef9d8998f38",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

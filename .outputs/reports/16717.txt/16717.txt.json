@@ -1,0 +1,94 @@
+{
+  "dataset": "16717.txt",
+  "file_name": "16717.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भगवान मेरो ज्योति हो ",
+    "यूनिभर्सिटी अफ अक्सफोर्ड वा नेपालीमा अक्सफोर्ड विश्वविद्यालय, ओक्सफर्ड, इङ्गल्याण्ड, मा स्थित, अङ्ग्रेजीभाषी विश्व को भन्दा पुरानो विश्वविद्यालय हो।अक्सफोर्ड बिश्वबिद्यालयको स्थापनाबारे प्रयाप्त प्रमाण नभेटिए पनि किंवदंती अनुसार,सन् 872 मा तत्कालिन Wessex का राजा अल्फ्रेड द ग्रेटले केहि भिक्षुहरु संगको केहि दिनसम्मको बहस पश्चात स्थापित गर्नु भएको थियो।  12 औं शताब्दीमा केहि प्रख्यात शिक्षकहरुको समूहको अगुवाइमा बिद्यार्थीहरु संगठित गरि शिक्षामा सुधार को थालनी गरियो साथ साथै 1167 मा राजनीतिक कारण "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 786,
+    "text_length_avg": 375.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9935,
+      "Latin": 0.0065
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2977,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9935,
+      "Latin": 0.0065
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16717.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16717.txt",
+    "relative_path": "16717.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16717.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2977,
+    "mtime": 1782796473.6387897,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5e8493df3c8feffae6e5df723d289b663a1cab7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

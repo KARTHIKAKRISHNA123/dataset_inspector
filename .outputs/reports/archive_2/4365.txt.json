@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4365.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खानीखोला सुर्खेत जिल्लामा अवस्थित एउटा गाउँ विकास समिति हो। यस क्षेत्र पहाडी ईलाकामा पर्ने भएकाले कोणधारी बोटबिरुवाहरू पाइन्छन। जसमा प्रमुख रुपमा सल्लाका रुखहरू पाईन्छन । यहाँ सुर्खेत जिल्लाकै अग्लो स्थान भोटेचुली अवस्थित रहेको छ। जुन स्थानबाट पुरै सुर्खेत जिल्ला र सिस्ने हिमाल देखिन्छ । खानीखोला गाविसलाई सिम्ता क्षेत्रको आठ गाविसहरूमध्ये एक गाविसको रुपमा मानिन्छ। जुन क्षेत्रलाई सिङ्गारू नाचको मौलिक स्थान भनिन्छ । खानीखोला गाविसको बिच क्षेत्रबाट खोला बग्दछ जुन खोलालाई खानीखोलखानीखोला"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 488,
+    "text_length_max": 488,
+    "text_length_avg": 488.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1325,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4365.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4365.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4365.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1325,
+    "mtime": 1782796664.4333825,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7cedbf50751cda0c332186349a1926e6ec3cda0a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11809.txt",
+  "file_name": "11809.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेरूत लेबनानको राजधानी तथा सबैभन्दा ठुलो शहर हो । यहाँ कुनै जनगणना भएको छैन, तर सन् 2007 को आबादीका अनुमानमा यहाँ 10 र 20 लाखको बीच मानिस छन् । यो लेबनानको भूमध्य सागरको साथ लागेको तटको लगभग मध्यमा एक छोटो प्रायद्वीपमा रहेको छ र लेबनानको प्रमुख बन्दरगाह पनि हो । राष्ट्रको राजधानी हुनको साथ-साथै यो लेबनानको सांस्कृतिक, राजनीतिक, सामाजिक तथा आर्थिक केन्द्र पनि हो । यो शहर लामो समयदेखि आफ्नो सांस्कृतिक जिन्दादिलीको लागि जानिन्थ्यो तर 1975-1990 कालमा 15 साल सम्म चलने वाला लेबनानी गृह युद्धमा यसलाई ध",
+    "बेरुतको भूमिको इतिहास ईसापूर्व 2500 इस्वीको आसपासको फीनिक संस्कृतिबाट शुरु भएको हो, जो सामुद्रिक शक्ति थिए । उनले भूमध्य सागरमा स्पेन र अफ़्रीकाको तटहरूमा आफ्नो उपनिवेश बनाएका थिए जसमा आधुनिक लीबियाको कार्थेज सबैभन्दा प्रसिद्ध हो । यी जगामा फीनिसियन आफ्नो व्यापारको सिलसिलामा बस्दै पनि गए । उनले एक 24 अक्षरहरूको वर्णमाला बनाए जुन आधुनिक कई एसियालि र यूरोपीय वर्णमालाहरूको पूर्वज मानीन्छ । यसमा रोमन, ग्रीक, अरबी, हिब्रू, आरामाईक र देवनागरी शामिल छ । असीरिया तथा बेबीलोनको साम्राज्यहरूको यो सहायक पनि"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 608,
+    "text_length_avg": 468.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4883,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11809.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11809.txt",
+    "relative_path": "11809.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11809.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4883,
+    "mtime": 1782796451.0784862,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bc421b5346b3a0f029f9bb094331ed0619b839f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

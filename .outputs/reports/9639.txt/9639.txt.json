@@ -1,0 +1,92 @@
+{
+  "dataset": "9639.txt",
+  "file_name": "9639.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रविन्द्र मिश्र बीबीसी नेपाली सेवा लण्डनका पुर्व निर्देशक हुन्। उनी एक पत्रकार तथा स्तम्भकार पनि हुन्। उनीद्वारा नेपाली विभिन्न पत्रिकाहरूमा मुख्यत: नेपाल साप्ताहिकमा विभिन्न कालखण्डमा छद्दनाम प्रयोग गरेर छपाइएका समसामयिक स्तम्भ लेखहरूको सङ्गालो भूमध्य रेखा नामको पुस्तक प्रकाशित भएको छ। त्यस पुस्तकबाट प्राप्तहुने रोयल्टी रकम मिश्रले चितवनस्थित राउटेहरूलाई सहयोग गर्ने कुरा पुस्तक बिमोचन समारोहमा गराएका थिए ।",
+    "रबिन्द्र मिश्रले त्रिभुवन विश्वविद्यालयबाट अङग्रेजीमा स्नातकोत्तर हासिल गरेका हुन् । त्यसैगरि पन्जाब विश्वविद्यालय, पाकिस्तानबाट पत्रकारितामा तथा लन्डन विश्वविद्यालय, बेलायतबाट अन्तराष्ट्रिय राजनितिमा स्नातकोत्तर गरेका हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 443,
+    "text_length_avg": 252.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4094,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9639.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9639.txt",
+    "relative_path": "9639.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9639.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4094,
+    "mtime": 1782796605.0323389,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "af8b0d951d5837cce58a2ecd722af36babbef629",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

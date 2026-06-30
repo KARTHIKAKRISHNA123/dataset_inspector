@@ -1,0 +1,91 @@
+{
+  "dataset": "31469.txt",
+  "file_name": "31469.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गिनिज वर्ल्ड रेकर्डस, प्रत्येक वर्ष प्रकासित हुने एउटा सन्दर्भ पुस्तक हो जसम विश्व किर्तिमानहरूको सङ्कलन हुने गर्छ । सन् 2000 सम्म यसलाई 'गिनिज बुक अफ रेकर्डस' को नामले जान्ने गरिन्थ्यो । यो पुस्तक सर्वाधिक बिक्री भएको कपिराइट पुस्तकको रूपमा स्वयं एक किर्तिमानधारी पुस्तक हो । यो पुस्तक अमेरिकाको सार्वजनिक पुस्तकालयहरूबाट सर्वाधिक चोरी गरिएको पुस्तक पनि हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 359,
+    "text_length_max": 359,
+    "text_length_avg": 359.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 953,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31469.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31469.txt",
+    "relative_path": "31469.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31469.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 953,
+    "mtime": 1782796542.7159376,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "48ba6037131a2efe67628c951e3576431a47b39a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

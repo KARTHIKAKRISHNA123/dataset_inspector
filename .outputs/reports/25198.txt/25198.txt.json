@@ -1,0 +1,92 @@
+{
+  "dataset": "25198.txt",
+  "file_name": "25198.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "पुराणहरूको दिइएको सूचीमा यस पुराणलाई प्रथम स्थानमा राखिन्छ, यस पुराणमा सृष्टिको उत्पत्ति, पृथुको पावन चरित्र, सूर्य एवं चन्द्रवंशको वर्णन, श्रीकृष्ण-चरित्र, कल्पान्तजीवी मार्कण्डेय मुनिको चरित्र, तीर्थहरूको माहात्म्य एवं अनेक भक्तिपरक आख्यानहरूको सुन्दर चर्चा गरिएकोछ। भगवान् श्रीकृष्णको ब्रह्मरूपमा विस्तृत व्याख्या हुनको कारण यस ब्रह्मपुराणको नामले प्रसिद्ध छ। यस पुराणमा साकार ब्रह्मको उपासनाको विधान छ। यसमा 'ब्रह्म' लाई सर्वोपरि मानाइएकोछ। यसीलिए यस पुराणलाई प्रथम स्थान दियाइएकोछ। पुराणहरू कोमा"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 1055,
+    "text_length_avg": 530.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2833,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25198.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25198.txt",
+    "relative_path": "25198.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25198.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2833,
+    "mtime": 1782796513.2415051,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b8c8962c5aad639bbc1db46fa1e44bfa9ce23d01",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

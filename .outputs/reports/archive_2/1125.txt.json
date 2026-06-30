@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1125.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भकुण्डो एक खेल सामग्री हो। हेर्दामा गोलो देखिन्छ। भकुण्डो साधारणतया रबर तथा प्लास्टिकको बनाईको हुन्छ। तर गाउँघरमा साना साना केटा केटीहरूले कपडाको भकुण्डो बनाएर खेलेको पनि पाइएको छ। भकुण्डोलाई धेरै जसो निम्न खेलहरूमा प्रयोग गरिन्छ।",
+    "यो खेल 11-11 जनाको 2 समुहमा खेलिन्छ। यो खेलमा एउटा भकुन्डोलाई खेलाडीहरू खुट्टाले अर्का तर्फ बढाउँदै लगेर गोलपोष्ट सम्म छिराउँदै खेल्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 484,
+    "text_length_avg": 68.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3508,
+    "estimated_records": 51
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 51,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1125.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1125.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1125.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3508,
+    "mtime": 1782796608.992119,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "16da3e72341a5b536857102f987b1657d0b7f2ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

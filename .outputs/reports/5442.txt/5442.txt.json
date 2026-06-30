@@ -1,0 +1,96 @@
+{
+  "dataset": "5442.txt",
+  "file_name": "5442.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीलो – हिउँदहरियो – वर्षभरि",
+    "Fringilla rutilans Temminck, 1835Pyrgita cinnamomea Gould, 1836Passer russatus Temminck and Schegel, 1850"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 105,
+    "text_length_avg": 74.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5511,
+      "Latin": 0.4489
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 424,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5511,
+      "Latin": 0.4489
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5442.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5442.txt",
+    "relative_path": "5442.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5442.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 424,
+    "mtime": 1782796585.1489544,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "53b3c0c8b65d0ae2b46f7fe499cc6325fbe101b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

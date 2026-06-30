@@ -1,0 +1,93 @@
+{
+  "dataset": "7602.txt",
+  "file_name": "7602.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिक्किम भारतको एक पहाडी राज्य हो । सिक्किम सबैभन्दा कम जनसंख्या भएको भारतको राज्य हो तथा क्षेत्रफल गोआ पछि न्यूनतम छ। सिक्किम नामग्याल राजतन्त्रद्वारा शासित एक स्वतन्त्र राज्य थियो, तर प्रशासनिक समस्याहरूको कारण तथा भारतमा विलयको जनमतको कारण सन 1975 मा एक जनमत-संग्रहको आधारमा भारतमा विलीन भयो। यसै जनमत संग्रहपछि राजतन्त्रको समाप्ति तथा भारतीय संवैधानी व्यवस्था अन्तर्गत सिक्किमको सम्प्रभुता समाप्त भएको थियो । बुढी औंलाको आकारको यो राज्य पश्चिममा नेपाल, उत्तर तथा पूर्वमा चीन तिब्बत स्वायत्त क्षेत्",
+    "अङ्ग्रेजी, नेपाली, लेप्चा, भूटिया, लिम्बु तथा हिन्दी सरकारी कामको लागि मान्यता प्राप्त भाषा हुन् तर पनि सरकारी कामकाजमा अङ्ग्रेजी भाषा नै अत्यधिक रूपमा प्रयोग भएको पाइन्छ। आपसी बोलाचालको निम्ति नेपाली भाषाको प्रयोग हुने गर्दछ र यहाँका सबै नागरिकहरूले नेपाली बोल्छन्, यहाँको बोलचालको प्रमुख माध्यम नै नेपाली भाषा हो ।हिन्दू तथा बज्रयान बौद्ध धर्म सिक्किमका प्रमुख धर्महरू हुन् । गान्तोक राजधानी तथा सिक्किमको सबभन्दा ठूलो शहर हो । सानो आकार भएता पनि सिक्किम भौगोलिक दृष्टिबाट धेरै नै विविध छ । नेपालको"
+  ],
+  "statistics": {
+    "records_sampled": 46,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1269,
+    "text_length_avg": 455.37,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.998,
+      "Latin": 0.002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 55042,
+    "estimated_records": 120
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 120,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7602.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7602.txt",
+    "relative_path": "7602.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7602.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 55042,
+    "mtime": 1782796595.2625985,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9c1d5398d07fce57235af8974f4d083acbbda62d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

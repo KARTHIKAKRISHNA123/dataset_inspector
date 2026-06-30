@@ -1,0 +1,92 @@
+{
+  "dataset": "21913.txt",
+  "file_name": "21913.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिउरे डुबुल्कीचरा वा शिव हाँस नेपालमा पाइने एक प्रकारको चराको एक नाम हो। यो पङ्क्षी पानी बस्ने ग्रेब प्रजातीको एक सदस्य हो। यो यसको विस्तृत सम्भोग प्रदर्शनको लागि उल्लेख गरिएको छ। यसको वैज्ञानिक नाम ल्यनटिन भाषाबाट आएको हो।",
+    "सिउरे डुबुल्कीचरा, पूर्वजगत मा पाइएको ग्रेब प्रजातीको सबैभन्दा ठूलो सदस्य हो जसमा ठूला प्रजातीहरू भने दक्षिण र उत्तर अमेरिकामा बसोबास गर्ने गर्दछन्। यो चरा लम्बाइ 46–51 सेमी हुन्छ र यसको एउटा पखेटा देखि अर्को पखेटासम्मको लम्बाई 59–73 सेमी हुन्छ भने यसको तौल 0.9 बाट 1.5 किग्रा हुन्छ। यस प्रजातीका चराहरू पौडि खेल्न माहिर हुन्छन् र पानिमुनि हामफाल्न पनि सक्षम हुन्छन्। यसले पानी मुनि पनि सिकार गर्ने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 474,
+    "text_length_avg": 136.48,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7613,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21913.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21913.txt",
+    "relative_path": "21913.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21913.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7613,
+    "mtime": 1782796498.5074177,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "82de12f32723bea99db78dabd38a2e56aaf30b9e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

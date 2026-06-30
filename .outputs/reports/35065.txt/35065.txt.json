@@ -1,0 +1,92 @@
+{
+  "dataset": "35065.txt",
+  "file_name": "35065.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टोनी क्रूस जन्म 4 जनवरी 1990) जर्मन फुटबल खेलाडी हुन् जो स्पेनिस क्लब रियल म्याड्रिड र जर्मनीका लागि मध्यपंक्ति बाट खेल्दै अायका छन्।",
+    "17 बर्षको उमेरमै बायर्न म्युनिखको वरिष्ठ टोलीमा अटाएका क्रुज 18 महिना बायर 04 लेभरकुसेनमा बिताएर बायर्न फर्कँदा बायर्न बुन्डेस लिगामा निरिह सावित भइरहेको थियो । बायर्नको त्यो स्थितिलाई उल्टाउँदै बायर्नलाई 3 बुन्डेस लिगा र 2013 युइएफए च्याम्पियन्स लिग जिताउने काम क्रुजले गरे । उनी 2014 फिफा विश्वकप जितेपछी आफुलाई 6 बर्षे अनुबन्धनमा पार्दै रियल म्याड्रिड प्रवेश गरेका हुन् । सही स्थानमा सही खेलाडीलाई बल वितरण गर्न एकदमै सक्षम मानिने क्रुजलाई वर्तमान पुस्ताका सबभन्दा आक्रामक मिडफिल्डरका रूपमा लिइन्छ"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 73,
+    "text_length_max": 503,
+    "text_length_avg": 215.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2251,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35065.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35065.txt",
+    "relative_path": "35065.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35065.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2251,
+    "mtime": 1782796559.0417452,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "29d4e96e67a01a68f2f12a8a21106af9456b8c21",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

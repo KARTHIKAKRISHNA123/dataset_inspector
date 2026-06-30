@@ -1,0 +1,92 @@
+{
+  "dataset": "20690.txt",
+  "file_name": "20690.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिश्रका पिरामिडहरू, जस मध्ये केही सैबै भन्दा ठूला मानव निर्मित संरचना कहल्लिएका छन, प्राचिन मिश्र सभ्यताका सबैभन्दा अटल एवम् बलिया प्रतिक हुन्।",
+    "सामान्यतया धेरैजसो पुरातत्वविदहरू के मान्छन् भने, यिनीहरूको निर्माण राजकिय, सौर्य र ज्योतिष चलनहरू सँग सम्बन्धित अन्त्येष्ठी स्मारकहरूको रूपमा गरिएको हो। र धेरैजसोको निर्माण पुरानो र मध्य अधिराज्यको समयमा गरिएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 387,
+    "text_length_avg": 248.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2031,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20690.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20690.txt",
+    "relative_path": "20690.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20690.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2031,
+    "mtime": 1782796492.8995328,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8daf6512c90a5b5b03ff4973dcac96013f40c4bf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "20626.txt",
+  "file_name": "20626.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उर्दू भाषा हिन्द आर्य भाषा हो । उर्दू भाषा हिन्दुस्तानी भाषाको एक मानकीकृत रूप मानिने गरिन्छ । उर्दू मा संस्कृत को तत्सम शब्द न्यून छ र अरबी-फारसी र संस्कृत बाट तद्भव शब्द अधिक रहेको छ । यो मुख्यतः दक्षिण एसिया माबोलिने गरिन्छ । यो भारत को शासकीय भाषाहरु मध्ये एक हो, र पाकिस्तान को राष्ट्रभाषा पनि हो । यो बाहेक भारत को राज्य तेलङ्गाना, दिल्ली, बिहार तथा उत्तर प्रदेश को अतिरिक्त शासकीय भाषा हो ।",
+    "'उर्दू' शब्द मूलतः तुर्की भाषा को हो र यसको अर्थ हो- 'शाही शिविर’ । तुर्कीहरु संग यो शब्द भारत मा आयो र यसको यहाँ प्रारम्भिक अर्थ खेमा वा सैन्य थियो । शाहजहाँ ले दिल्ली मा लालकिल्ला बनाएका थिए । यो पनि एक प्रकारको ‘उर्दू’ थियो, र धेरै ठुलो थियो । अतः यसलाइ ‘उर्दू’ न भनेर ‘उर्दू ए मुअल्ला’ भनिन गयो र यो बोलिने भाषा- ‘जबान ए उर्दू ए मुअल्ला’  बन्न पुग्यो । भाषा विशेष को अर्थ मा ‘उर्दू’ शब्द यो ‘जबान ए उर्दू ए मुअल्ला’ को संक्षेप हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 134,
+    "text_length_max": 435,
+    "text_length_avg": 322.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2507,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20626.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20626.txt",
+    "relative_path": "20626.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20626.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2507,
+    "mtime": 1782796492.5757034,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9d5a2a0434dffc0f0d374fe01345d38fa0cc8684",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

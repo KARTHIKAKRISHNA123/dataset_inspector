@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22454.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आईओएस जेलब्रेकिङ्ग एउटा प्रक्रिया हो जसले एप्पल आइएनसी द्वारा उसको डिभाइस जुन आइओएस अपरेटिंग सिस्टमसंग सम्बन्धित हुन्छ त्यसमा लगाइएको सीमिततालाई सफ्टवेयर तथा हार्डवेयरबाट हटाउने काम गर्दछ। यो प्रक्रिया एप्पल आइफोन,आइपोड टच,आइप्याड तथा दोश्रो पुस्ताको एप्पल टिभीमा काम गर्दछ।जेलब्रेकिंगले आइओएसको रुट भित्र प्रवेश गरेर तिनीहरुलाई अतिरिक्तरुपमा अप्लिकेसन,एक्सटेन्सन तथा थीम डाउनलोड गर्न मद्दत गर्दछ जुन एप्पलको आधिकारिक एप स्टोरमा उपलब्ध हुदैन।जेलब्रेक मुलत: एप्पल डिभाइसलाई जेलबाट मुक्त गर्ने भएको हुँ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 933,
+    "text_length_max": 933,
+    "text_length_avg": 933.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2536,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22454.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22454.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22454.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2536,
+    "mtime": 1782796631.165682,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8e818cbe47b2232b383875096f1ede646841a16b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "26932.txt",
+  "file_name": "26932.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूचना तथा सञ्चार प्रविधि शिक्षा शिक्षा शास्त्र संकाय अन्तरगतको एक विषय हो। ",
+    "त्रिभुवन विश्वविद्यालय अन्तरगत पठन पाठन हुने यो विषयको स्नातक तहको अध्यापन सन् 2011 देखि सुरू भएको थियो भने 2013 देखि सूचना तथा सञ्चार प्रविधि शिक्षाको स्नातकोत्तर तह मा नयाँ पाठ्यक्रम शुरू गरेको छ। यो विषयको अध्यापन भक्तपुरस्थित सानोठिमी क्याम्पस लगायत विविन्न क्याम्पस मा संचालन भयको छ । संचार प्रविधि विभाग सानोठिमी नेपालमा सुरु भएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 75,
+    "text_length_max": 471,
+    "text_length_avg": 295.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9768,
+      "Latin": 0.0232
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2320,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9768,
+      "Latin": 0.0232
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26932.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26932.txt",
+    "relative_path": "26932.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26932.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2320,
+    "mtime": 1782796521.3885562,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a042928a08b721d55f8f66a03d0bbdaef455fd8a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "9613.txt",
+  "file_name": "9613.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फ्रान्समा धेरै पहिलेदेखि निरंकुस शासन चलेको थियो । फ्रान्समा लुई चौधौं योग्य भए पनि उनका छोरा लुई पन्धौं योग्य थिएनन् । लुई चौधौंको मृत्युपछि सन् 1715 मा 5 बर्षको उमेरमा लुई पन्धौं गद्दिमा बसेका थिए । उनी अयोग्य, विलासी र अदुरदर्शी थिए । सन् 1774 मा उनको मृत्यु भएपछी उनका छोरा लुई सोह्रौ 20 बर्षको उमेरमा गद्दिमा बसे । यी सबै राजाहरु निरंकुस भएकाले जनताहरु राजनीतिक, सामाजिक, आर्थिक आदि रुपमा शोषित थिए ।",
+    "सन् 1789 मा फ्रान्समा निरंकुस शासन व्यबस्थालाई समाप्त गर्न ठुलो क्रान्ति भयो | उक्त क्रान्तिलाई फ्रान्सेली राज्यक्रान्ति भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 610,
+    "text_length_avg": 304.37,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15341,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9613.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9613.txt",
+    "relative_path": "9613.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9613.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15341,
+    "mtime": 1782796604.8982089,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "839bb50255a8172d558fe2238b4ce437a1a3d6fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

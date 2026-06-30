@@ -1,0 +1,93 @@
+{
+  "dataset": "5888.txt",
+  "file_name": "5888.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पूर्व-पश्चिम राजमार्ग नेपालको सबैभन्दा लामो राजमार्ग हो। यो राजमार्ग नेपालको तराईमा पूर्वदेखि पश्चिमसम्म फैलिएको छ। भारत, बेलायत, ADB तथा सोभियत संघको सहयोगमा निर्माण भएको यो राजमार्गको लम्बाई 1027.67 किलोमिटर छ। झापाको काँकरभिट्टादेखि कञ्चनपुरको बनबासा सम्मको दुरी तय गर्दा यो राजमार्गले कोशी, बाग्मती, गण्डकी, कर्णाली जस्ता ठूलठूला नदीहरू पार् गर्दछ। राजा महेन्द्रले वि.सं 2019 मा निर्माण शुरू गरेको यो राजमार्गको नाम उनकै नामबाट महेन्द्र राजमार्ग राखिएको भएता पनि जनताले यसलाई पूर्वपश्चिम राजमार्ग"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 589,
+    "text_length_max": 589,
+    "text_length_avg": 589.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1563,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5888.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5888.txt",
+    "relative_path": "5888.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5888.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1563,
+    "mtime": 1782796587.1282427,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fc15b6b9dc573535e7144b0f604bd72167ec77c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

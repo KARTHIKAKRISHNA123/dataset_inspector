@@ -1,0 +1,92 @@
+{
+  "dataset": "35984.txt",
+  "file_name": "35984.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लमजुङ नेपालको सात प्रदेशहरु मध्येको गण्डकी प्रदेशका 11 वटा जिल्लाहरूमध्ये एक ऐतिहासिक महत्व रहेको जिल्ला हो ।",
+    "लमजुङ जिल्ला भौगोलिक रूपमा मध्य पहाडी क्षेत्र देखि उत्तरी हिमाली क्षेत्र सम्म फैलिएर रहेको छ । नेपालकै झण्डै बीच भागमा पर्ने जैविक विविधताको धनी र पर्यटकीय दृष्टीले महत्वपूर्णा यो जिल्लाले 1,692 वर्ग किलोमिटर क्षेत्रफल ओगटेको छ । गुरुङ जातिको बाहुल्यता रहेको यस जिल्ला ऐतिहासिक, धार्मिक तथा सांस्कृतिक महत्वको हिसावले प्रमुख स्थानमा रहन्छ । नेपाललाई चिनाउने संस्कृति माध्यम लोक दोहोरी गीतको उदगम स्थल यस जिल्लालाई मानिन्छ । समुद्र सतहबाट 800 मिटर उचाईमा पर्ने यस जिल्लाको सदरमुकाम बेसीसहर पृथ्वी राजम"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 690,
+    "text_length_avg": 221.87,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8851,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35984.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35984.txt",
+    "relative_path": "35984.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35984.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8851,
+    "mtime": 1782796563.2849581,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "62f693b6a2bddde49489124488ea233181814c16",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26148.txt",
+  "file_name": "26148.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिलवास वा सिलवासा उच्चारण ; भारतको केन्द्र शासित प्रदेश दादरा र नगर हवेलीको राजधानी सहर हो । यो सहर अरब सागरको नजिकै अवस्थित छ । अङ्ग्रेजी प्रभावको कारण सिलवासको उच्चारण प्रायजसो सिलवासा गर्ने गरिन्छ र मुख्यतया मानिसहरू अब यसलाई सिल्वासा वा सिलवासा भनेर नै बोलाउने गर्दछन् । गुजरती जनसङ्ख्याको प्रभावकै कारण यसलाई सेलवास पनि भन्ने गरिन्छ । पोर्चुगेली शासनको समयमा लिसबन नजिकै रहेको सहरको नाममा सिलवासलाई भिला डी पेको डी'एक्रोस' को नामले समेत जानिन्थ्यो ।",
+    "यस नगरमा 10,000 भन्दा बढीको सङ्ख्यामा उद्योग व्यवसाय स्थापित छन्, जुन यहाँको स्थानीय सरकारलाई राम्रो मात्रामा राजस्व तिर्ने गर्छन् । भारतको प्रस्तावित 100 स्मार्ट सिटी बनाउने लक्ष्य अनुरुप यो सहरको नाम पनि रहेको छ । हिन्दी र गुजराती सहरको प्रमुख भाषा हुन्, उद्योग व्यवसाय बढ्दो क्रममा भएको हुनाले अङ्ग्रेजीको प्रयोग बढ्दो छ । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 454,
+    "text_length_avg": 332.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5211,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26148.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26148.txt",
+    "relative_path": "26148.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26148.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5211,
+    "mtime": 1782796517.7158554,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "607044676139c0a8a59c10db3c41237d9443ea5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

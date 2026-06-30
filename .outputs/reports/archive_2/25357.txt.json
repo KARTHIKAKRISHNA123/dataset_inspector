@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25357.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्राह्मी लिपि विश्वको प्राचीनतम् लिपिमध्ये एउटा हो। यो लिपिको उत्पत्ति भारतमा भएको भन्ने विषयमा दुईमत छैन। यद्यपि ब्राह्मी लिपिको उत्पत्ति यसैबेला भएको भन्नलाई आज पनि कुनै निश्चित आधार छैन। ब्राह्मण समुदायबाट यो लिपिको उत्पत्ति भएको भन्ने जनविश्वास छ। त्यसैले यो लिपिको नाउँ पनि ब्राह्मणबाट ब्राह्मी भएको भनाइ छ। भारतमा ब्राह्मणले धार्मिक ग्रन्थ 'वेद'को संरक्षणका लागि नै यस लिपिको सिर्जना गरेको भन्ने आमविश्वास छ। भारतमा ई.पू. 400 वर्षअघि यस लिपिबाट लिखित कुनै ऐतिहासिक सामग्री भेटिएको छैन। जैनसूत्र",
+    "नेपालमा प्रचलित देवनागरी लिपिको जननी ब्राह्मी लिपि हो। नेपालमा ई.पू. 200 वर्षअघिको लुम्बिनीको अशोक स्तम्भ र कपिलवस्तुको निग्लिहवामा रहेको पुष्पीकरणको अशोकस्तम्भ अभिलेखमा उल्लेखित लिपि ब्राह्मी लिपि हो। नेपालको लागि यो सबैभन्दा प्राचीन, ऐतिहासिक सामग्री र लिपि भएको छ। यसरी नेपालको यो स्तम्भ र लिपिको ऐतिहासिक महत्त्व छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 1188,
+    "text_length_avg": 341.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4560,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25357.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25357.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25357.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4560,
+    "mtime": 1782796637.0235858,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "db237b311fc8ebdb3081462b39e0aa0dc405b7d4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

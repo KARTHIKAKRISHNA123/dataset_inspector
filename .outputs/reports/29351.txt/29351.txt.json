@@ -1,0 +1,94 @@
+{
+  "dataset": "29351.txt",
+  "file_name": "29351.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बङ्गलादेश दक्षिण एसियाको एउटा राष्ट्र हो। देशको उत्तर, पूर्व र पश्चिम सीमाना भारत र दक्षिणपूर्व सीमाना म्यानमार देशसँग जोडिएको छ ; दक्षिणमा बङ्गालको खाडी छ। बङ्गलादेश र भारतीय राज्य पश्चिम बङ्गाल एउटा बंगलाभाषी अञ्चल, बङ्गाल हो, जस्को ऐतिहासिक नाम “বঙ্গ” बङ्गो वा “বাংলা” बांग्ला हो। यसको सीमारेखा त्यस समय निर्धारित भयो जब 1947मा भारतको बिभाजनको बेला यसलाई पूर्वी पाकिस्तानको नामबाट पाकिस्तानको पूर्वी भाग घोषित गरिएको थियो। पूर्व र पश्चिम पाकिस्तानको बिच लगभग 1600 किमी को भौगोलिक दूरी थियो। पाकिस्",
+    "बङ्गलादेशमा सभ्यताको इतिहास धेरै पुराना छ। आजको भारतको अंधिकांश पूर्वी क्षेत्र कुनै वेला बङ्गालको नामबाट जानिन्थो। बौद्ध ग्रन्थहरूको अनुसार यस क्षेत्रमा आधुनिक सभ्यताको शुरुवात 700 इसवी इसा पू.मा प्रारम्भ भएको मानिन्छ। यहाँको प्रारम्भिक सभ्यतामा बौद्ध र हिन्दू धर्मको प्रभाव स्पष्ट देख्न सकिन्छ। उत्तरी बङ्गलादेशमा स्थापित भएको यस्तो हजारौ अवशेष अहिले पनि मौजूद छ जिसलाई मन्दिर वा मठ भन्न सकिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 30,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 1742,
+    "text_length_avg": 275.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Bengali": 0.0013
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21884,
+    "estimated_records": 79
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 79,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9973,
+      "Bengali": 0.0027
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29351.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29351.txt",
+    "relative_path": "29351.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29351.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21884,
+    "mtime": 1782796532.613172,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "722efb679ae41494cc9611cc77b97a5d1688ffc6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

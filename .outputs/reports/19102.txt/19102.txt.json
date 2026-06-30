@@ -1,0 +1,92 @@
+{
+  "dataset": "19102.txt",
+  "file_name": "19102.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माइक्रोसफ्ट वर्ड एक कम्प्युटर अनुप्रयोग हो। यसलाई कुनै पाठ लेख्न अनि त्यसलाई संशोधन/प्रसोधन गर्न मद्दत गर्छ त्यसैले यसलाई पाठ प्रसोधक या 'वर्ड प्रोसेसर' पनि भनिन्छ । यो माइक्रोसफ्ट कर्पोरेशनले तयार गरेको एउटा पूर्ण वर्ड प्रोसेसिङ अनुप्रयोग हो । यस सफ्टवेयरमा टाइपिङ, इडिटिङ, फर्मैटिङ, प्रिन्टिङ जस्ता सुबिधाहरू रहेका छन् । माइक्रोसफ्ट वर्डको प्रयोगबाट दस्तावेजहरु सुरक्षित गरेर राख्न सकिन्छ । यो मार्इक्रोसफ्ट अफिस प्रोग्राम समुह भित्र पर्दछ ।",
+    "माइक्रोसफ्ट वर्ड को पहिलो संस्करण चार्ल्स सिमोनी र रिचार्ड ब्रोडेइ द्वारा विकसित भएको थियो । दुवै प्रोग्रामरहरु बिल गेट्स र पावल एलनका लागी काम गरि रहेका थिए । माइक्रोसफ्ट वर्डको पहिलो संस्करण वर्ड 1.0, अक्टोबर 1983 मा जारी भएको थियो । यो संस्करण सफल हुन नसकेपछि सन् 1989 मा पहिलो विन्डोज संस्करण तयार गरियो । क्रमिक रूपमा माइक्रोसफ्ट वर्डको विकास हुदै गयो र यसलार्इ बिभिन्न नामहरूले नामाकरण गरीयो, वर्ड 95, वर्ड 97, वर्ड 2000, वर्ड फर अफिस एक्स.पी., वर्ड 2003, वर्ड 2007, वर्ड 2010, वर्ड 2013 । माइक"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 443,
+    "text_length_max": 554,
+    "text_length_avg": 498.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2559,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19102.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19102.txt",
+    "relative_path": "19102.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19102.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2559,
+    "mtime": 1782796485.409968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7209fa9a81429cb093ef5f83434b7363d659b53c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,140 @@
+{
+  "dataset": "test-00000-of-00001.parquet",
+  "file_name": "test-00000-of-00001.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "id",
+    "revid",
+    "url",
+    "title",
+    "text",
+    "script"
+  ],
+  "preview": [
+    "रॉकफॅलर प्रतिश्ठान संवासारांतल्या मनीसजातीच्या कल्याणाक गती दिवपाखातीर जॉन डी. रॉकफॅलर हाणें 14 मे 1913 वर्सा स्थापन केल्ली लोकोपकारी संघटना. हें प्रतिश्ठान संवसारीक पातळेवयलो लोकोप्रयोगी वापर करता.\nह्या प्रतिश्ठानाच्या वावरांत संवसारीक पातळेचेर जावपी कार्यक्रमांनी (1) भुकेचेर मात (2) लोकसंख्या न्यंक्षण, भलायकेची जतनाय हातूंत सुदारणा (3) आंतरराश्ट्रीय संबंदांमदले संघर्श आनी ताण हांचें निरसन (4) विकसनशील राश्ट्रांतले शिक्षणीक विकास हांचो आस्पाव जाला. अमेरिकेच्या संयुक्त संस्थानांत प्रतिश्ठानावरवी",
+    "रुमानियन भास ही उदेंतेकडली एक भास. रोमान्स भाशाचोंब्यांत हे भाशेचो आस्पाव जाता.\nरुमानियन भाशेचे थळावे भेद आसता ते अशे – (1) डाकोरुमानियन ही रुमानियाक लागून आशिल्ल्या युगोस्लाव्हिया, बल्गेरिया आनी सोव्हिएत संघांतल्या मॉल्डेव्हिया राज्यांतल्या संलग्न प्रदेशांत उलयतात.\n(2) मॅसिडो रुमानियन वा आरुमानियन ही भास ग्रीसांतले मॅसिडोनिया आनी थेसाली हे प्रदेश आनी युगोस्लाव्हिया आनी बल्गेरियांतल्या कांय भागांनी उलयतात.\n(3) मेग्लेनो – रुमानियन ग्रीसांत सालोनिकी लागसार उलयतात.\n(4) इस्त्रियो – रुमानियन ही युगोस"
+  ],
+  "statistics": {
+    "records_sampled": 375,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 23970,
+    "text_length_avg": 3434.99,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7328,
+      "Latin": 0.2413,
+      "Kannada": 0.0252,
+      "Malayalam": 0.0005,
+      "Arabic": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 60,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1162316,
+    "estimated_records": 375
+  },
+  "schema": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "script"
+    ],
+    "estimated_records": 375,
+    "raw_schema": {
+      "id": "str",
+      "revid": "str",
+      "url": "str",
+      "title": "str",
+      "text": "str",
+      "script": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9967,
+      "Latin": 0.0033
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "num_rows": 375,
+    "num_row_groups": 1,
+    "arrow_schema": {
+      "id": "string",
+      "revid": "string",
+      "url": "string",
+      "title": "string",
+      "text": "string",
+      "script": "string"
+    }
+  },
+  "meta": {
+    "file_name": "test-00000-of-00001.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\test-00000-of-00001.parquet",
+    "relative_path": "test-00000-of-00001.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "test-00000-of-00001.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 1162316,
+    "mtime": 1782729902.3527277,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bb5a08122de8c7803a306e3539a0ca5335056011",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

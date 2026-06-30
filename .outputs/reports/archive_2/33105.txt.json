@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33105.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माइक्रोसफ्ट कर्पोरेशन एउटा बहुराष्ट्रिय संस्था हो, जसको वार्षिक आम्दानी करीब 44.28 अर्ब जति छ। जुलाई 2006 सम्मको तथ्यांक अनुसार यो संस्थाको 102 वटा देशका शाखाहरूमा करीब 71,553 कर्मचारीहरू कार्यरत छन्। यसले धेरै किसिमका कम्प्युटिड उत्पादनहरू बनाउने, लाईसेन्स प्रदान गर्ने र सहयोग गर्ने काम गर्दछ। यसको प्रमुख कार्यालय रेडमन्ड, वाशिंग्टन, यु एस एमा छ। यसका सर्वाधिक बिक्रि हुने उत्पादनहरू विन्डोज अपरेटिड सिस्टम र माइक्रोसफ्ट अफिस सुट हुन्। यी दुबै उत्पादनहरू बजारमा सर्वाधिक पाइने उत्पादन मध्य पर्दछन्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 501,
+    "text_length_max": 501,
+    "text_length_avg": 501.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1312,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33105.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33105.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33105.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1312,
+    "mtime": 1782796652.355734,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46f9f1ee9866d54cbe4c3047359ec1909fe9ba9f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

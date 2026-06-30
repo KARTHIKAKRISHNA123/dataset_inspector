@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "901.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 26°26′44.4″ उत्तर 87°16′25.7″ पूर्व / 26.445667° उत्तर 87.273806° पूर्व / 26.445667; 87.273806",
+    "महेन्द्र मोरङ आदर्श बहुमुखी क्याम्पस बिराटनगरमा स्थित त्रिभुवन विश्वविद्यालयको एक आङ्गिक क्याम्पस हो । 1955 मा स्थापित महेन्द्र मोरङ अदर्श बहुमुखी क्याम्पस, जिल्लामा त्रिभुवन विश्वविद्यालयको सबैभन्दा पुरानो आङ्गिक क्याम्पस हो । यस क्याम्पसमा 165 शैक्षिक कर्मचारीहरू र 3234 विद्यार्थीहरु छन् । 15 अप्रिल 2018 मा, त्रिभुवन विश्वविद्यालयले कलेज प्रशासनमा बाबु राम तिमल्सिना को नेतृत्वमा निर्वाचित गर्यो जसलाइ प्रायः \"क्याम्पस प्रमुख\"भन्ने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 993,
+    "text_length_avg": 397.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4110,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "901.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\901.txt",
+    "relative_path": "archive (2)\\valid\\valid\\901.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4110,
+    "mtime": 1782796673.7207031,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "8ae84bbbfa55cca4e1f11f35120260351835aa76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "25800.txt",
+  "file_name": "25800.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चूडामणि रेग्मी साहित्यकार हुन् । नेपाली साहित्यमा उनकाे विशेष याेगदान रहेकाे छ । उनका बारेमा निम्नानुसार संक्षिप्त रूपमा चर्चा गर्नु यस लेखकाे प्रमुख उद्देश्य रहेकाे छ ।",
+    "वि.सं.1993 चैत्र 29 गते माता खिलेश्वरीदेवी र पिता पीताम्बर रेग्मीका 11 सन्तानमध्ये कान्छाे सन्तानका रूपमा कोशी अञ्चलको संखुवासभा जिल्ला अन्तर्गत वानामा जन्मिएका चूडामणि रेग्मीको कर्मथलो झापा हो । वि.सं.2006 मा उनकाे विवाह वेदकुमारी सँग भएकाे पाइन्छ । तिन छाेरी र तिन छाेराका पिता रेग्मीका 11 नातिनातिना र 5 पनाति पनातिना रहेका छन् । हाल रेग्मीकाे वसाेवास झर्राे नेपाली घर चन्द्रगडीमा रजेकाे छ । "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 530,
+    "text_length_avg": 196.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9683,
+      "Latin": 0.0317
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4588,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9683,
+      "Latin": 0.0317
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25800.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25800.txt",
+    "relative_path": "25800.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25800.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4588,
+    "mtime": 1782796516.0917852,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e236498d9c57b1f587bef08c47618df488a60c0e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

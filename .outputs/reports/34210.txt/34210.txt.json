@@ -1,0 +1,92 @@
+{
+  "dataset": "34210.txt",
+  "file_name": "34210.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रा. डा. गोविन्दराज भट्टराई अङ्ग्रेजीका प्राध्यापक हुनुहुन्छ। उहाँ अनुवाद साहित्यमा विद्यावारिधि गर्ने पहिलो नेपाली हुनुहुन्छ। उहाँको जन्म 2010 साल चैत 4 गते भएको हो।",
+    "उहाँ साहित्यकार तथा 'कान्तिपुर दैनिक' का स्तम्भकार पनि हुनुहुन्छ। डा. भट्टराई अहिले त्रिभुवन विश्वविद्यालय को शिक्षाशास्त्र संकायमा सहायक डीन हुनुहुन्छ। उहाँले एम्.ए., एम्.एड्. पछि पिएचडी गर्नुभएको हो। उहाँले करिब आधा दर्जनभन्दा बढी पुरस्कार एवं सम्मान पाउनुभएको छ। डा. भट्टराई हाल कीर्तिपुर नगरपालिका 2 ट्याङ्लाफाटमा बस्नुहुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 329,
+    "text_length_avg": 194.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1564,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34210.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34210.txt",
+    "relative_path": "34210.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34210.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1564,
+    "mtime": 1782796555.150535,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e0b30e1860377758d7d7453bd8745cf4d262f92c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

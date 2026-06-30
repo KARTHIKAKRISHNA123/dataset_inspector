@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9014.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोलखा जिल्लाको ओराङ्ग र लामाबगर गाविसको सीमानामा रहेको देउलाङ्गेश्वर महादेवको मन्दिर उत्तरी क्षेत्रको प्रसिद्ध तिर्थ स्थल हो। स्वस्थानी पूर्णिमाको दिन ठूलो मेला लाग्ने यस मन्दिरमा सत्य यूगमा महादेवले सत्यदेवीलाई जोगीको भेषमा विवाह गरी ल्याउँदा यहि मन्दिरसंगै रहेको कुटीमा राखेको र सत्यदेवीले विलौना गर्दा खरले छापेको सो कुटीको भित्तो च्याती हिमालय पर्वतको दर्शन गराएको किम्बदन्ती रहेको छ। उक्त कुटी मन्दिरसंगै अझै पिन देख्न सकिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 431,
+    "text_length_max": 431,
+    "text_length_avg": 431.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1172,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9014.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9014.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9014.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1172,
+    "mtime": 1782796673.7325,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b1da8636e5f95af942c6e97eb27745a8ecf8df41",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

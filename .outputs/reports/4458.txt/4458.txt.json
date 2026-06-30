@@ -1,0 +1,94 @@
+{
+  "dataset": "4458.txt",
+  "file_name": "4458.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीमो न्यूज मोजिल्लाको संक्षिप्त रूप हो । नीमोको लक्ष्य मोजिल्ला र अन्य खुला श्रोतको नजीकरहेको गतिविधिहरूको सचेतना बढाउनु हो । शैक्षिक लेखहरूको एउटा डेटाबेस सृजना गर्ने र तीनीहरूलाई योगदान दिएका लेखहरूको रूपमा विश्वभरीका स्थानीय प्रकाशनमा पठाउने, मोजिल्ला, यसको उत्पाद र खुला श्रोत सफ्टवेरका फाइदाको बारेमा प्रयोगकर्ताहरूलाई शिक्षित गराउने आशा गर्दछ ।",
+    "एउटा उल्लेखनीय जनसङ्ख्या अझै पनि रुचि, अनुराग र जानकारीको लागि समाचार पत्र र अन्य किसिमको प्रिन्ट मिडियामा निर्भर छन् ।त्यसैले योगदान लेखको माध्यमवाट उनीहरूसंग पुग्ने भन्दा अरु सजिलो केही हुन सक्दैन ।विश्वको अधिकांश भागमा, अंग्रेजीमा वितरण गरिएको समाचार, महत्वपर्ण जनसङ्ख्या जो पूर्ण रूपमा आफ्नो जन्मजात/स्थानीय भाषामा निर्भर हुन्छन सम्म पुग्न असफल भएको हुन्छ । त्यसैले नीमोको मुख्य प्रयास भनेको यो भाषा बाधा बन्धनलाई तोड्नु तथा मोजिल्लाको सन्देशलाई स्थान र भाषा भन्दा बाहिर भएर मानिसकहाँ पुराउनु हो "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 894,
+    "text_length_avg": 289.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.983,
+      "Latin": 0.017
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5395,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.983,
+      "Latin": 0.017
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4458.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4458.txt",
+    "relative_path": "4458.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4458.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5395,
+    "mtime": 1782796579.7960625,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dd5fc41844e70a37a8b10b1ba6adc06e36db4550",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

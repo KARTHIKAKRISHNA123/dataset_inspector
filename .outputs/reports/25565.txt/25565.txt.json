@@ -1,0 +1,92 @@
+{
+  "dataset": "25565.txt",
+  "file_name": "25565.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जैविक विषादी शत्रु जीवलाई मार्नका निम्ति प्रयोग गरिने जैविक वस्तु हुन् । जैविक वस्तुमा विभिन्न उपयोगी जीव, मित्र जीव एवम् सूक्ष्म जीवहरू पर्नुका साथै विभिन्न जीव तथा वनस्पतिहरूको तत्त्व, उत्पादन वा सक्रिय तत्वहरू पर्दछन् । जैविक विषादी वातावरण मैत्री र वातावरणीय पक्षबाट स्वस्थ हुने गर्दछ र एकीकृत शत्रु जीव व्यवस्थापनको महत्त्वपूर्ण अंश मानिन्छन् ।",
+    "जैविक विषादीमा सूक्ष्म जीव, सूक्ष्म परजीवी, किराहरू, वनस्पतिजन्य नीमको धुलो, बोझो, टिमुर आदि पर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 102,
+    "text_length_max": 400,
+    "text_length_avg": 246.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2646,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25565.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25565.txt",
+    "relative_path": "25565.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25565.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2646,
+    "mtime": 1782796514.9400275,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "29ec77e50127589c05d23dba1a69a19904ac3055",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

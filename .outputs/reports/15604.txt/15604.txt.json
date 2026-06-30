@@ -1,0 +1,92 @@
+{
+  "dataset": "15604.txt",
+  "file_name": "15604.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 26°43′48″उत्तर 77°01′59″पूर्व / 26.73° उत्तर 77.033° पूर्व / 26.73; 77.033",
+    "हिण्डौन सिटी राजस्थान राज्यको ऐतिहासिक तथा पौराणिक शहर हो । यो शहर अरावली पहाडीको नजिक रहेको छ । प्राचीनकालमा हिण्डौन शहर मत्स्यको अन्तर्गत आउँथ्यो । मत्स्य शासनको बेला बनाइएको प्राचीन भवनहरू आज पनि रहेको छ । भागवतपुराणको अनुसार हिण्डौन, भक्त प्रहलाद तथा हिरण्यकश्यपको कर्म भूमि रहेको छ । महाभारत कालको राक्षसी हिडिम्बा पनि यसै शहरमा रहेकी थिइन् । हिण्डौन, ऐतिहासिक मन्दिरहरू तथा भवनहरूको गढ मानिन्छ, जो पर्यटकहरूलाई आफ्नोतर्फ आकर्षित गर्छ । यो एक प्रमुख औद्योगिक नगर हो । यो नगर राजस्थानको पूर्वमा ह"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 87,
+    "text_length_max": 1065,
+    "text_length_avg": 576.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2972,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15604.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15604.txt",
+    "relative_path": "15604.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15604.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2972,
+    "mtime": 1782796468.3651984,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "e57d5f5c9bd82ed804ec4db421ba5640fe836096",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

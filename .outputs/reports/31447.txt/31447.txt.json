@@ -1,0 +1,92 @@
+{
+  "dataset": "31447.txt",
+  "file_name": "31447.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महिला विरुद्धका हिंसा विशेष रूपमा महिलाको विरुद्धमा हुने सम्पूर्ण हिंसात्मक कार्यहरू हुन् । यस्तो प्रकारको हिंसाले कुनै पिडितको लिङ्गलाई प्राथमिकतामा राखेर कुनै विशेष समूहलाई लक्षित गरेको हुन्छ । यस्तो हिंसा लिङ्गमा आधिरित हुन्छ अर्थात महिला भएकै कारण कसैले यस्तो हिंसाको शिकार बन्नु परेको हुन्छ ।",
+    "महिलामाथि हुने हिंसा भन्नाले महिलाको जन्मपूर्व देखि मृत्यु नहुञ्जेल सम्मको अवस्थामा महिला भएकै कारणबाट हुने विभिन्न खाले विभेदपूर्ण व्यवहार शोषण शारीरिक, मानसिक तथा यौनिक यातनाहरू र दुर्व्यवहारलाई बुझाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 579,
+    "text_length_avg": 258.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5551,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31447.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31447.txt",
+    "relative_path": "31447.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31447.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5551,
+    "mtime": 1782796542.5327318,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f15cee81920332e8dd37b8bc13f4edbfa8f4058d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

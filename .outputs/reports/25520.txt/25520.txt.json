@@ -1,0 +1,92 @@
+{
+  "dataset": "25520.txt",
+  "file_name": "25520.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "घाना राष्ट्रिय फुटबल टिम एक आइभोरि घाना राष्ट्रको तर्फबाट अन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा सहभागीता जनाउने पुरूष फुटबल टिम हो ।",
+    "घाना राष्ट्रिय फुटबल टिमले 1950 मे 28 मा पहिलोपटक अन्तर्राष्ट्रिय फुटबल खेल खेलेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 133,
+    "text_length_avg": 68.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 646,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25520.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25520.txt",
+    "relative_path": "25520.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25520.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 646,
+    "mtime": 1782796514.7466035,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bef79bfe4b9a3fbcf8f40e1002a50a4f45a60b45",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

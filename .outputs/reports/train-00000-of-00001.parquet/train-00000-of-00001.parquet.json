@@ -1,0 +1,144 @@
+{
+  "dataset": "train-00000-of-00001.parquet",
+  "file_name": "train-00000-of-00001.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "id",
+    "revid",
+    "url",
+    "title",
+    "text",
+    "script"
+  ],
+  "preview": [
+    "भेनोर्डे Bendordem हे दक्षिण गोवा जिल्ह्यातल्या केपें तालुक्यातील ५१९ हेक्टर क्षेत्राचे गाव आसून २०११ च्या जनगणनेनुसार ह्या गावात १३१ कुटुंबाचे व पुराय ६०९ लोकसंख्या आसा. हांगा लागीचे शार QUEPEM १४ किलोमीटर अंतरावर आसा. हांगा ३०२ दादले आनीक ३०७ बायला आसा. हांगा अनुसूचित जातीचे लोक ० आसून अनुसूचित जमातीचे ६०७ लोक आसात. ह्या गावाचो जनगणनेतलो स्थल निर्देशांक ६२६९५५ [1] आसा.\nशैक्षणिक सुविधा.\nसगळ्यांत लागीं पूर्व-प्राथमिक शाळा बाळ्ळी ५ ते १० किलोमिटराच्या अंतराचेर आसा.\nगांवांत १ शासकीय प्राथमिक शाळा ",
+    "Sirak achem Pustok.\nSirach\nAdlea Korarachea pustokam modem, provadianchim pustokam bhairaun, heach pustokak sompadpeachem nanv dilam : Jerusaleacho boroinnar, Jezu, Sirakacho put (polle Sir. 50/27), dekhun hea pustokak Sirakachem Pustok mhonnttat. Dusrem mhollear Ecclesiasticus, hem nanv Latin poromporentlean ieta, kiteak hem pustok Kristi somudaiamnim vapuddtale, odik-korun Povitr-Snanak apli toiari kortalet tankam.\nKhub vixoi thoim melltat, punn hem pustok don mottea bhagamnim vanttum ieta : m"
+  ],
+  "statistics": {
+    "records_sampled": 2992,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 104551,
+    "text_length_avg": 3468.1,
+    "duplicate_estimate": 15,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7203,
+      "Latin": 0.2398,
+      "Kannada": 0.0397,
+      "Arabic": 0.0002,
+      "Malayalam": 0.0,
+      "Bengali": 0.0,
+      "Tamil": 0.0,
+      "Telugu": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 397,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9015526,
+    "estimated_records": 2992
+  },
+  "schema": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "script"
+    ],
+    "estimated_records": 2992,
+    "raw_schema": {
+      "id": "str",
+      "revid": "str",
+      "url": "str",
+      "title": "str",
+      "text": "str",
+      "script": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9948,
+      "Latin": 0.0045,
+      "Arabic": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "columns": [
+      "id",
+      "revid",
+      "url",
+      "title",
+      "text",
+      "script"
+    ],
+    "n_columns": 6,
+    "num_rows": 2992,
+    "num_row_groups": 3,
+    "arrow_schema": {
+      "id": "string",
+      "revid": "string",
+      "url": "string",
+      "title": "string",
+      "text": "string",
+      "script": "string"
+    }
+  },
+  "meta": {
+    "file_name": "train-00000-of-00001.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train-00000-of-00001.parquet",
+    "relative_path": "train-00000-of-00001.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train-00000-of-00001.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 9015526,
+    "mtime": 1782729907.5631275,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6ae5cc0eb0ca728a7ac2fd0d896fa7ad24420031",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

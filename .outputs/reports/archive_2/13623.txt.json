@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13623.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भूटनदेवी मन्दिर हेटौडा उपमहानगरपालिकामा अवस्थित एक प्रसिद्ध शक्तिपिठ हो । किम्वदन्ती अनुसार माहाभारत कालिन समयमा पाँच पाण्डवहरू वनबासमा रहँदा यस स्थानमा पाण्डव र हिडम्बासुर नामक राक्षस संग युद्ध भएको थियो र सो युद्ध मा भीमसेन ले हिडिम्वा को बध गरेको र सोही हिडिम्वाकी भुटन्देवी लाई त्यस स्थान को जिम्मा लगाएको मा कालान्तरमा हिडिम्वा नगरी अपभ्रम्श भै हेटौडा हुनपुगेको भन्ने बुझिन्छ ।",
+    "यस मन्दिरमा हिन्दु तथा बौद्ध धर्मावलम्बीले पुजा अर्चना तथा भाकल राख्ने चलन रहिआएको पाइन्छ । विशेषगरी बडा दसौं को नौरथा मा यहाँ श्रदालु भक्तजनको भिड लाग्ने गर्दछ । त्यसका अलावा हरेक शनिबार पनि उल्लेख्य रूपमा भक्तजनको उपस्थिति रहन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 232,
+    "text_length_max": 382,
+    "text_length_avg": 307.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1648,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13623.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13623.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13623.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1648,
+    "mtime": 1782796613.7322292,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "22c42b85e075999971f128bc206e3ad868454328",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27981.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चौकीडाँडा, भोजपुर जिल्लाको उत्तरी भागमा पर्दछ। पूर्वमा कुलुङ् पश्चिममा खाटाम्मा, दक्षिणमा नेपालेडाँडा र उत्तरमा छिमेकी जिल्ला संखुवा-सभा सँग यसको सिमाना जोडिएको छ।यातायात तथा विद्युत् जस्ता विकाशका पूर्वाधारबाट बन्चित प्रक्रितिको सुन्दर छटाले सिंगारिएको यो गाउँले खासगरि शैक्षिक क्षेत्रमा भने ठूलो प्रगरि गरेको छ। सानो क्षेत्रफलमा फैलिएको यो गा0बि0स0मा तीनवटा प्राईमरी, एउटा लोवर सेकेण्डरी र एउटा प्रस्तावित उच्च मा0बि0 संचालनमा छन्।सडक निर्माण हुन थाल्नु एउटा अर्को विकासको खुड्कीलो साबित भएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 497,
+    "text_length_max": 497,
+    "text_length_avg": 497.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1338,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27981.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27981.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27981.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1338,
+    "mtime": 1782796642.1850474,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.964,
+    "sha1_quick": "f8ba48f1994510997b7d800252d9c8f4a713d9fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

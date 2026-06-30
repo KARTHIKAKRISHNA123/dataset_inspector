@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1438.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनसङ्ख्या शिक्षा मानव जनसङ्ख्याको विविध विषयमा गरिने अध्ययनको हो। यसमा प्रजनन्, मृत्यु र बसाई सराइ मुख्य हुन। ",
+    "कुनै पनि देशको आवश्यकता अनुसार त्यस देशको जनसङ्ख्याको बृद्धि,बितरण,क्षमता विकास र नियन्त्रणका कार्य गर्नुलाई जनसङ्ख्या व्यवस्थापन भनिन्छ । आवश्यकता भन्दा धेरै जनसङ्ख्या तथा थोरै जनसङ्ख्या दुवैले समाज तथा राष्ट्रलाई प्रतिकूल असर पारिरहेको हुन्छ । तसर्थ उपलब्ध प्राकृतिक स्रोत र साधनहरुको समुचित परिचालनको निमित्त पर्याप्त जनशक्ति उपलब्ध छैन भने त्यस अवस्थामा जनसङ्ख्या वृद्धि गर्नु नै जनसङ्ख्या व्यवस्थापन हो । जनसङ्ख्या व्यवस्थापनका उपायहरु निम्न प्रकार छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 459,
+    "text_length_avg": 99.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1857,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1438.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1438.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1438.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1857,
+    "mtime": 1782796615.351946,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "73f5981943b5445b3ed25d45a537fc48a0646d3f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13579.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ईन्दिरा प्रियदर्शिनी गान्धी भारतीय राजनितिज्ञ महिला थिइन्। यिनी 1966 देखि 1977 सम्म तीन पल्ट र 1980 देखि 1984 मृत्यु पर्यन्त एक पल्ट गरी जम्मा 15 वर्षसम्म भारतकी प्रधान मन्त्री बनिन्।इन्दिरा गान्धीको जन्म 19 नोवेम्बेर 1917मा भएको हो र आफ्नै सुरक्षाकर्मीले गोली प्रहार गरी 31 अक्टूबर 1984मा उनको मृत्यु भयो। उनका पिता पण्डित जवाहरलाल नेहरू स्वतन्त्र एवं गणतन्त्र भारतका प्रथम प्रधानमन्त्री बनेका थिए।",
+    " जवाहरलाल नेहरु · गुलजरीलाल नन्दा† · लालबहादुर शास्त्री · ईन्दिरा गान्धी · मोरारजी देसाई · चौधरी चरण सिंह · राजीव गांधी · विश्वनाथ प्रताप सिंह · चन्द्रशेखर · पी. वी. नरसिंह राव · अटल बिहारी वाजपेयी · एच. डी. देवगौडा · इन्द्र कुमार गुजराल · मनमोहन सिंह · नरेन्द्र मोदी"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 267,
+    "text_length_max": 399,
+    "text_length_avg": 333.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1698,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13579.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13579.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13579.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1698,
+    "mtime": 1782796613.6304014,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "1c5f1158ea8ad8e916d6f631c527f80fbd0845c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "30656.txt",
+  "file_name": "30656.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महा नेपाली",
+    "बाजुरा निवासी महा नेपाली समानुपातिकतर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। लोकतन्त्र नभएसम्म दलित वर्गको भविष्य सुरक्षित हुन नसक्ने महसूस गरी 2047 सालदेखि नेपाली काङ्ग्रेस मार्फत राजनीतिमा सक्रिय नेपाली हाल पार्टीको बाजुरा जिल्ला कार्यसमिति सदस्य हुनुहुन्छ। राजनीतिक यात्राका क्रममा पक्राउ परेर हिरासत समेत भोगिसकेका नेपालीले यसअघि नेपाली कांग्रेसको भातृसंस्था तरुण दलको जिल्ला सदस्यको जिम्मेदारी सम्हालिसक्नुभएको छ। समाजसेवामा विशेष रुचि राख्ने सभासद नेपाली समतामूलक समाज विकास र जिल्ला दलित नेटवर्क"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 963,
+    "text_length_avg": 486.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2642,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30656.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30656.txt",
+    "relative_path": "30656.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30656.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2642,
+    "mtime": 1782796538.8454387,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "87194619e51e41f178d987fc59033b53da7cea7e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

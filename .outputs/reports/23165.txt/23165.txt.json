@@ -1,0 +1,91 @@
+{
+  "dataset": "23165.txt",
+  "file_name": "23165.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्खा नेपाली समाजमा प्रचलित गाइने गाथा हो । यसलाई वीरता तथा वीर पुरुषका प्रशंसा वा सम्झनामा गाइने साहस र वीरता सञ्चारित गर्ने गाथाका रूपमा चिनिन्छ । यसलाई गन्धर्वहरूले गाउने गरेका छन् । उनीहरूले वीरताको बखान गर्दै र त्यस्तै वा थेगो भएको नेपालका गाउने एक प्रकारको नेपाली लोकगीत र लोकगाथालाई पनि कर्खा भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 308,
+    "text_length_max": 308,
+    "text_length_avg": 308.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 821,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23165.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23165.txt",
+    "relative_path": "23165.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23165.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 821,
+    "mtime": 1782796503.9716144,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9d7effe96732ff1b41119171f5487e394bf7abb3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

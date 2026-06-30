@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "11069.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आत्माराम ओझा सुदूरपश्चिममामा बसेर कलम चलाई रहनु भएका साहित्यकार तथा इतिहासकार हुन् । बैतडी जिल्लाको दशरथचन्द नगरपालिका बमरडामा जन्मेका ओझाका इतिहास र साहित्यका गरि दुई दर्जन भन्दा बढी कृतिहरु प्रकाशित भएका छन् ।",
+    "बि. सं. 2006 सालमा ‘देवस्तुति श्लोकबद्ध भाषा’ पुस्तक सार्वजनिक गरेर लेखन यात्रा सुरु गरेका ओझाका स्वयम्वर, शरणार्थी राजकुमार, संक्षिप्त सरल नेपाली रामायण, कृष्णायान, तीला, नेपाल प्रजातन्त्र सुकृति विकृति शतक, सुपको इतिहास परिचय, विविधा, रुवस, त्रिविधा, सुविधा, राजा नागमल्ल, प्रतिचर, मधुरिमा, संजीवनी लगायतका पुस्तक चर्चित छन् । उनका स्थानीय तथा राष्ट्रिय पत्रपत्रिकामा सयौं फुटकर रचना प्रकाशन भएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 113,
+    "text_length_max": 404,
+    "text_length_avg": 242.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1913,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11069.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\11069.txt",
+    "relative_path": "archive (2)\\valid\\valid\\11069.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1913,
+    "mtime": 1782796608.6118815,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bcfd5e3c5a88c8b6dc3e3386dfe9554e418b3431",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

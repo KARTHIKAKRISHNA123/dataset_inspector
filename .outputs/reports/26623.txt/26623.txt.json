@@ -1,0 +1,91 @@
+{
+  "dataset": "26623.txt",
+  "file_name": "26623.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विद्यालय त्यो स्थल हो जहाँ शिक्षा प्रदान गरिन्छ। यसमा धेरै तहका विद्यालयहरू पर्दछन्। पहिलो त्यो विद्यालय जसमा कक्षा एल के जी यो के जी पढाइन्छ जसलाई नर्सरी भनिन्छ। दोस्रो जहाँ कक्षा एक देखि पाँचसम्म पढाइन्छ जसलाई प्राथमिक विद्यालय भनेर जानिन्छ। तेस्रो कक्षा एकदेखि आठौं श्रेणीसम पढाइन्छ र यसलाई निम्न माध्यमिक विद्यालय भनिन्छ। चौथो- कक्षा दशौं सम्म पढाइन्छ जसलाई माध्यमिक विद्यालय भनिन्छ। पाचौं- कक्षा बह्रौंसम्म पढाइन्छ यसलाई उच्च माध्यमिक विद्यालय भनिन्छ अनि इण्टर कलेज पनि भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 482,
+    "text_length_max": 482,
+    "text_length_avg": 482.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1297,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26623.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26623.txt",
+    "relative_path": "26623.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26623.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1297,
+    "mtime": 1782796519.9694157,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f9085ef417948ec6d28763e1e1bf88e52410eac6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

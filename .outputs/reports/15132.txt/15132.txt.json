@@ -1,0 +1,92 @@
+{
+  "dataset": "15132.txt",
+  "file_name": "15132.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकै व्यक्तिले सर्वाधिक 6 पदक पाएका छन्। यस्तै5 पदक पाउने दुई जना 4 पदक पाउने 1 जना र 3पदक जित्ने 4 जना खेलाडीहरू छ। ओलम्पिकको अन्तिम दिन सम्मको पदक तालिकाअनुसार अमेरिकी पौडीबाज माइकल फ्लेप्सले 5स्वर्ण र एक रजतसहित 6 पदक जितेका छन्। यस्तै अमेरिकाकै केटी लेट्कीले 4 स्वर्ण र एक रजत पदक जितेकी छन्।",
+    "यस्तै अमेरिकाकै बिलोस सिमेनले 4 स्वर्ण र एक कास्य जितेर जम्मा 5 पदक जितेकी छन्। यस्तै हंगेरीकाहुस्सु काटिन्का, जमैकाका युसेन बोल्ट, ग्रेट ब्रिटेनकी केन्नी जासोन, हंगेरीकाकोजाक दानुटा, र अमेरिकाका ]ले 3-3 स्वर्ण पदक आफ्नो पारेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 232,
+    "text_length_max": 295,
+    "text_length_avg": 263.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1371,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15132.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15132.txt",
+    "relative_path": "15132.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15132.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1371,
+    "mtime": 1782796466.1286552,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "d4d4e9906e82449e00c41029c3d2f81325ccb084",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14335.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "See Pinus classification for complete taxonomy to species level. See list of pines by region for list of species by geographical distribution.",
+    "सल्लो वा सल्ला नेपाल लगायतका देशहरूमा पाइने चाँडो बढ्ने एक प्रकारको रूख हो। यो कोणधारी  वर्गमा पर्दछ। यसको रूख माथितिर चुच्चो परेको हुन्छ। नेपालमा खोटेसल्लो, लौठसल्लो, गोब्रेसल्लो, पाटुलेसल्लो, धूपी, आदि जातका सल्लो पाइन्छन्।सल्लो रुखको लिङ्गो गाड्ने चलन पनि छ /भक्तपुर ,श्रीखंदपुर,काठमाण्डौको हनुमान ढोका र साँगामा लिङ्गो गाड्दा नाला बनबाट सल्लोलाइ विधिवत पुजा गरि काटेर लगिन्छ र लिङ्गो गाडिन्छ / हाल सल्लोबाट खोटो निकालेर तर्पेन तेल उत्पादन गरिन्छ /"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 451,
+    "text_length_avg": 93.8,
+    "duplicate_estimate": 6,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8478,
+      "Latin": 0.1522
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2274,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8478,
+      "Latin": 0.1522
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14335.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14335.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14335.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2274,
+    "mtime": 1782796615.239308,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d8409e21d51f75ea21bf335f7a1061ee1af42c46",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

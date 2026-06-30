@@ -1,0 +1,91 @@
+{
+  "dataset": "33669.txt",
+  "file_name": "33669.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बरुवा नेपालको बागमती अञ्चलको सिन्धुपाल्चोक जिल्लामा अवस्थित एक गाउँ विकास समिति हो। बरुवा गाविस जिल्लाको मध्य भागमा पर्दछ। जिल्ला सदरमुकामबाट 4 कोष दुरी टाढा पर्ने यस गाविसको कुल क्षेत्रफल 18 वर्ग किलोमिटर छ। यस गाविको पूर्वमा भोताङ गाविस, थाम्पालकोट गाविस, थाम्पालधाम गाविस, पश्चिममा हेलम्बु गाविस, किउल गाविस, उत्तरमा तिब्बत र दक्षिणमा बाँखर्क गाविस पर्दछ। पाल्चोक थुम अन्तर्गत पर्ने यस गाविमा चिसो हावापानी पाइन्छ। यस गाविसमा तामाङ जातिहरूको बाक्लो बस्ती छ। बरुवाका मानिसहरू कृषिका साथसाथै अन्य नो"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 924,
+    "text_length_max": 924,
+    "text_length_avg": 924.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2451,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33669.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33669.txt",
+    "relative_path": "33669.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33669.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2451,
+    "mtime": 1782796552.6283975,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "76bf45ac68dd98bb875179bcc3765e68d33a380a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

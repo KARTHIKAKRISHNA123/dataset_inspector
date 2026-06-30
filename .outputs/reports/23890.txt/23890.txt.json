@@ -1,0 +1,94 @@
+{
+  "dataset": "23890.txt",
+  "file_name": "23890.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मनोविज्ञान शब्द अङ्ग्रेजी बहसको Psychology शब्दको नेपाली रुपान्तर हो । Psychology शब्द ग्रिक भाषाको psyche+logos बाट बनेको मानिन्छ । यसको अर्थ हुन्छ Soul + Science । यसको शाब्दिक रुपमा यसलाई 'As a Science of Soul' भनिन्छ ।",
+    "मनोविज्ञान भन्नाले मनोभाव र मानसीक अध्यायनको विज्ञान हो भन्ने बुझिन्छ। मनो विज्ञानको अध्यायन र अनुसन्धान गर्ने व्याक्तीलाई मनो वैज्ञानिक भनिन्छ। मनो विज्ञानको अध्यायन गरेर मानसिक रोग अथवा मनोरोग चिकित्सकहरूले त्यस्ता रोगीहरूको उपचार गर्न सक्छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 70,
+    "text_length_max": 246,
+    "text_length_avg": 179.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8714,
+      "Latin": 0.1286
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1329,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8714,
+      "Latin": 0.1286
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23890.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23890.txt",
+    "relative_path": "23890.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23890.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1329,
+    "mtime": 1782796507.2566276,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a370168c7c899ef68bb71983bc333c7d43eff2ff",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16499.txt",
+  "file_name": "16499.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल मुस्लिम सङ्घका महासचिव तथा अल हेरा एजुकेशनका संस्थापक फैजल अहमदसुनसरीका स्थानीयबासी हुन्। मुस्लिम विश्वबाट प्राप्त विदेशी सहयोगमार्फत् उनको संस्थाले इस्लामी शिक्षा र संस्कृतिको क्षेत्रमा काम गर्दै आएको छ।",
+    "यदि यो प्रमुख पृष्ठ चाँडै मेटाउने आधारको मापदण्ड भित्र नपरेको खण्डमा, अथवा तपाईँ यसमा पर्याप्त सुधार गर्न सक्नुहुन्छ भने यो सूचना हटाउनुहोला तर यदि यो तपाईँले सृजना गरेको लेख हो भने तपाईँ आफैले यो सूचना नहटाउनुहोला । यदि यो तपाईँले पृष्ठ बनाउनु भएको हो र तपाईँ यसलाई मेटाउनु पर्ने कुरामा सहमत हुनुहुन्न भने तल रहेको मेटाउन सहमत छैन बटन थिच्नुहोला र वार्तालापमा आफ्नो विचार व्यक्त गर्नुहोला । अथवा तपाईँ सिधै वार्तालापमा गई आफ्नो कुरा राख्न वा आफ्नो कुराको प्रतिक्रिया हेर्न सक्नुहुनेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 492,
+    "text_length_avg": 282.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4546,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16499.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16499.txt",
+    "relative_path": "16499.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16499.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4546,
+    "mtime": 1782796472.5625582,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6b472642ef8cf0e250b192b460f08e1ac839862d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

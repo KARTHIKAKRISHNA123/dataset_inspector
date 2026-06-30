@@ -1,0 +1,92 @@
+{
+  "dataset": "28962.txt",
+  "file_name": "28962.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन्दर्भ कार्य जानकारीको एक सामान्यतया पुस्तकमा संकलित एक विशिष्ट प्रकारको सारांश हो । त्यो जानकारी आवश्यक हुँदा चाँडै भेट्टाउनको लागी सजिलो हुन्छ । सन्दर्भ कार्यहरू सामान्यतया जानकारीको विशेष टुक्राहरूको लागि निर्दिष्ट गरिएको हुन्छ । यी कार्यहरूले प्रयोग गरिएको लेखन शैलीको जानकारी; लेखक पहिलो व्यक्तिको प्रयोगबाट बच्ने, र तथ्याङ्कलाई जोड दिन्छ । अनुक्रमणिका सामान्यतया सन्दर्भ प्रकारको काममा प्रदान गरिन्छ । अद्यावधिक गरिएका संस्करणहरूलाई आवश्यक रूपमा परिमार्जन गर्नुपर्ने हुन्छ।",
+    "तुलनामा, एक सन्दर्भ पुस्तक वा एक पुस्तकालयमा सन्दर्भ-पुस्तक मात्र हो जुन केवल पुस्तकालयमा मात्र प्रयोग गर्न सकिन्छ । पुस्तकहरूका सन्दर्भ कार्यहरू धेरै छन् । सामान्यतः मात्र छोटो वा फोटोकपी प्रयोग गरिन्छ र त्यसैले किन्न आवश्यक छैन । तिनीहरूलाई पुस्तकालयमा राखेर उनीहरूलाई सधैँ मागमा प्रयोगको लागि उपलब्ध हुनेछ । अन्य सन्दर्भ-पुस्तकहरू केवल पुस्तकहरू हुन् जुन उधारकर्ताहरूले तिनीहरूलाई बाहिर निकाल्न अनुमति दिन सक्दैनन् । सन्दर्भ-मात्र वस्तुहरू परिसरका वस्तुहरूबाट अलग गरिएका एक सन्दर्भ संग्रहमा अवस्थि"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 480,
+    "text_length_max": 602,
+    "text_length_avg": 541.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2928,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28962.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28962.txt",
+    "relative_path": "28962.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28962.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2928,
+    "mtime": 1782796530.6128998,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dc5cbbac17e402d143cf04340b115bdaeaa88a29",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

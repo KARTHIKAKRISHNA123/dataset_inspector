@@ -1,0 +1,94 @@
+{
+  "dataset": "5308.txt",
+  "file_name": "5308.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बहावलपुर पाकिस्तानको पञ्जाब प्रदेशमा पर्ने एक शहर हो । बहावलपुर पाकिस्तानको सबैभन्दा धेरै जनसङ्ख्या भएको शहर मध्य 11 स्थानमा पर्छ । यस शहरको कुल जनसङ्ख्या 7,985,09 रहेको छ । यो शहर पञ्जाबको दक्षिण क्षेत्रमा अवस्थित छ ।",
+    "सन् 1748 मा स्थापना भएपछि सन् 1948 मा बहावलपुर बहवलपुरको पूर्व रियाली राज्यको राजधानी शहर बनेको थियो । यस शहरमा 1955 सम्म नाबाबको अब्बासी परिवारले शासन गरेका थिय र नवबालिकाहरू एक समृद्ध वास्तुकला विरासत छोडेर गएका थिय त्यसैले बहवलपुर अहिले उनीहरूको स्मारकका लागि ज्ञात छ । शहर चोलस्तान मरुभूमिको किनारामा अवस्थित छ, र नजिकै को लाल सुहर्रा राष्ट्रिय निकुञ्ज को प्रवेशद्वार को रूपमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 471,
+    "text_length_avg": 267.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9087,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5308.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5308.txt",
+    "relative_path": "5308.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5308.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9087,
+    "mtime": 1782796584.4948366,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a902bf17f52e1715020948a2ab2755d46f603ad5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

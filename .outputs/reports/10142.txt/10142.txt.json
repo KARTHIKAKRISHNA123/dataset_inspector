@@ -1,0 +1,94 @@
+{
+  "dataset": "10142.txt",
+  "file_name": "10142.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो 'बोनम्यारो' भित्रको प्लाज्मामा हुने क्यान्सर हो । प्लाज्माको काम रोगप्रतिरोधात्मक श्वेत–रक्तकोष निर्माण गर्नु हो । क्यान्सर लागेपछि बोनम्यारोमा प्लाज्माको संख्या बढे पनि नयाँ श्वेत–रक्तकोष उत्पादन रोकिन्छ । यसले शरीरमा विभिन्न प्रकारका संक्रमण बढाउँछ । त्यसको असर रगतमा देखिन थाल्छ ।",
+    "माइलोमा भएपछि यसले शरीरका विभिन्न भागमा असर देखाउन थाल्छ । यसले रोगीको हड्डी, रोग प्रतिरोधात्मक क्षमता, मिर्गौला र रातो रक्तकोषको संख्या घटाउँछ । चिकित्सकका अनुसार सामान्यतया माइलोमा भएका बिरामीको मृत्यु कि छातीको इन्फेक्सनका कारण हुन्छ कि मिर्गौला फेल भएर ।यो रोग पत्ता लगाउन रेडियोलोजिस्ट र प्याथेलोजिस्टको पनि उत्तिकै भूमिका हुन्छ, अन्य भागलाई असर गरेपछि मात्र यो क्यान्सर थाहा हुन्छ ।खास कारण थाहा नभए पनि कुनै किसिमको रेडियसन वा रसायनसँग लामो समय प्रत्यक्ष सम्पर्कमा रहनेलाई यस्तो रोगको सम्भावना"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 529,
+    "text_length_avg": 248.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.94,
+      "Latin": 0.06
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2569,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.94,
+      "Latin": 0.06
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10142.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10142.txt",
+    "relative_path": "10142.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10142.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2569,
+    "mtime": 1782796443.1761167,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "875a6a2b81c820a3ff2fa72b9f6d60ae4d9ae9c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

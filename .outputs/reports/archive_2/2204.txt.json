@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2204.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खासगरी ब्राहृमण-क्षेत्री समाजमा बालन गायन र त्यसको लयसागै नाच्ने परम्परा धेरै पुरानो हो। ब्राहृमण-क्षेत्री समाजमा प्रचलित रहेको हुनाले यसलाई 'बाहुननाच' पनि भनिन्छ। बालन, नेपाली संस्कृतिको एक महìवपूर्ण पक्ष हो। पश्चिमा संस्कृतिको प्रभावसागै केही यता बालन गाउने र नाच्ने चलनमा कमी मात्र आएको छैन, यो चलन झण्डै लोप हुने अवस्थामा पुगेको छ।",
+    "बाहुन-क्षेत्रीबाहेक नेपालका अन्य समुदायमा कम प्रचलित 'बालन' देवीदेवताको गुणगानमा केन्दि्रत रहेको पाइन्छ। सृष्टिकालदेखिका भगवान्का लीला र अवतारहरूको वर्णन बालनमा हुन्छ। त्यसैले गेयात्मक पक्षको प्रवलता र त्यसमा नाचसमेत प्रस्तुत गरिने हुादा यसको एउटा उद्देश्य श्रोताहरूको मनलाई आकषिर्त गर्ने रहेको पाइन्छ। लमजुङको सिम्पानीका स्थानीय टुकमान थापा भन्नुहुन्छ, \"बालनको रचना गीता, महाभारत, रामचरित्र, कृष्णचरित्र र भगवान्का दस अवतारलाई लिएर गरिएको हो। त्यसैले यो धर्मशास्त्रमा आधारित छ।\""
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 220,
+    "text_length_max": 898,
+    "text_length_avg": 425.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10214,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2204.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2204.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2204.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10214,
+    "mtime": 1782796630.3419614,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "883f97ac250082009c23bb33042e2cfde2bc0547",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

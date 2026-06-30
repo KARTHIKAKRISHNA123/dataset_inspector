@@ -1,0 +1,92 @@
+{
+  "dataset": "6768.txt",
+  "file_name": "6768.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 34°05′उत्तर 74°47′पूर्व / 34.09° उत्तर 74.79° पूर्व / 34.09; 74.79श्रीनगर भारतको जम्मू र कश्मीर प्रान्तको राजधानी हो । कश्मीर घाटीको मध्यमा रहेको यो शहर भारतको प्रमुख पर्यटन स्थल मध्ये एक हो । श्रीनगर एक तर्फ डल झीलको लागि प्रसिद्ध छ र अर्को तर्फ विभिन्न मन्दिरहरूको लागि विशेष रूपमा प्रसिद्ध छ ।",
+    "1700 मीटर ऊंचाईमा रहेको श्रीनगर विशेष रूपमा झील र हाऊसबोटको लागि जानिन्छ । यस बाहेक श्रीनगर परम्परागत कश्मीरी हस्तशिल्प र सिखा मेवाको लागि पनि विश्व प्रसिद्ध छ । श्रीनगरको इतिहास काफी पुराना छ । मानिन्छ कि यस जगाको स्थापना प्रवरसेन द्वितीयले 2,000 वर्ष पूर्व गरेका थिए । यस जिल्लाको चौतर्फि 5 अन्य जिल्ला स्थित छ । श्रीनगर जिल्ला कारगिलको उत्तर, पुलवामाको दक्षिण, बुद्धगमक्प् उत्तर-पश्चिमको बगलमा स्थित छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 211,
+    "text_length_max": 761,
+    "text_length_avg": 352.36,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10097,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6768.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6768.txt",
+    "relative_path": "6768.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6768.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10097,
+    "mtime": 1782796591.3016634,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "897684408867d4bdb288937f7422409250c1d81b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

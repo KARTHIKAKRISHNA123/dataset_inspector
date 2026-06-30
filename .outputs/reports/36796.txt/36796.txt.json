@@ -1,0 +1,91 @@
+{
+  "dataset": "36796.txt",
+  "file_name": "36796.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इङ्ल्यान्ड यू-16 राष्ट्रिय फुटबल टिम अन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा इङ्ल्यान्डको प्रतिनिधित्व गर्ने 16 बर्ष मुनिका खेलाडी हरुको पुरुष फुटबल टिम हो । यो इङ्ल्यन्ड फुटबलको लागि शासकीय निकाय इङ्ल्यान्ड फुटबल संघको नियन्त्रणमा रहेकोे छ । यो फिफा द्वरा मान्यता प्रप्त र युइएफएको सदस्य राष्ट्र हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 300,
+    "text_length_max": 300,
+    "text_length_avg": 300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 803,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36796.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36796.txt",
+    "relative_path": "36796.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36796.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 803,
+    "mtime": 1782796567.107856,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c91f172b19b5418f958b55eda8848eea010e9252",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

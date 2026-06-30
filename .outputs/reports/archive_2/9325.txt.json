@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9325.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूर्य अथवा कुनै अन्य ताराहरूको चारै तिर परिक्रमा गर्ने खगोल पिण्डहरूलाई ग्रह भन्छन्। अन्तरराष्ट्रिय खगोल संघको परिभाषा अनुसार हाम्रो सौरमण्डलमा आठ ग्रहहरू छन - बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुणग्रह र बरुणग्रह। यस बाहेक अतिरिक्त तीन शिशुग्रहहरू अझ छन - सीरिस, प्लूटो र एरीस। प्राचीन खगोलशास्त्रिहरूले तारा र ग्रहहरू बीचमा अन्तर यस प्रकार स्पष्ट गरे - राति आकाशमा चमकने धेरै पिण्डहरू सधै पूर्ब दिशाबाट उठछन, एक निश्चित गति प्राप्त गर्छन र पश्चिम दिशामा अस्त हुने गर्छन। यस पिण्डहरूको आपसमा ",
+    "तर केही यस्तो पनि पिण्ड छन जुन बाकी पिण्डहरूको सापेक्षमा कहिले अगाडि र कहिले पछाडि हुन्थ्यो - यानी कि ति ग्रहहरू घुमक्कड थिये। Planet एक ल्याटिन शब्द हो जसको अर्थ यता-उता घूमने हुन्छ। यसलागि यस पिण्डहरूको नाम Planet र नेपालीमा ग्रह राखियो। शनिग्रहको टाढाको ग्रह दूरबीनको बिना हेर्न सकिन्न, यसैले प्राचीन वैज्ञानिकहरूलाई मात्र पाँच ग्रहहरूको ज्ञान थियो, पृथ्वीलाई त्यति बेला ग्रह नहीं मानिन्दैन थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 577,
+    "text_length_avg": 113.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8335,
+      "Latin": 0.1665
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4053,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8335,
+      "Latin": 0.1665
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9325.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9325.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9325.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4053,
+    "mtime": 1782796674.2878182,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "b722ce6fbf26fa90fb5e2fb8258eaf3d18d35943",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

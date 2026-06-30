@@ -1,0 +1,122 @@
+{
+  "dataset": "ULCA_merged_output.csv",
+  "file_name": "ULCA_merged_output.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "Index No.",
+    "Hindi",
+    "Sanskrit",
+    "Kannada"
+  ],
+  "preview": [
+    "अस्माकं वैदिकवाङ्खयम्‌ विलक्षणम्‌ वर्तते।",
+    "ಲೌಕಿಕಕಾವ್ಯಗಳಿಗಿಂತ ವೈದಿಕಕಾವ್ಯಗಳು ವಿದ್ವಾಂಸರ ಮನಸ್ಸಿಗೆ ಹೆಚ್ಚು ಆನಂದವನ್ನು ಮೂಡಿಸುತ್ತವೆ."
+  ],
+  "statistics": {
+    "records_sampled": 19232,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 1613,
+    "text_length_avg": 78.08,
+    "duplicate_estimate": 587,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Kannada": 0.5348,
+      "Devanagari": 0.4648,
+      "Latin": 0.0004,
+      "Oriya": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11097948,
+    "estimated_records": 135388
+  },
+  "schema": {
+    "columns": [
+      "Index No.",
+      "Hindi",
+      "Sanskrit",
+      "Kannada"
+    ],
+    "n_columns": 4,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "Index No.",
+      "Hindi",
+      "Sanskrit",
+      "Kannada"
+    ],
+    "estimated_records": 135388,
+    "raw_schema": {
+      "Index No.": "str",
+      "Hindi": "str",
+      "Sanskrit": "str",
+      "Kannada": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Kannada, Devanagari",
+    "languages_seen": [
+      "kn"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6076,
+      "Kannada": 0.3924
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "Index No.",
+      "Hindi",
+      "Sanskrit",
+      "Kannada"
+    ],
+    "n_columns": 4
+  },
+  "meta": {
+    "file_name": "ULCA_merged_output.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\ULCA_merged_output.csv",
+    "relative_path": "ULCA_merged_output.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "ULCA_merged_output.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 11097948,
+    "mtime": 1782796076.9570625,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.918,
+    "sha1_quick": "727b3b252d8dadcbbedd9c6d561f856ecec793b4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

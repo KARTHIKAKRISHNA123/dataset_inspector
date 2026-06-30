@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "11730.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सहिद स्मारक बि-डिभिजन लिग  नेपाली फुटबल जगतको दोस्रो दर्जाको राष्ट्रिय फुटबल लिग हो। यस लिगबाट बढुवा भएका टोलीहरू सहिद स्मारक ए-डिभिजन लिग र घटुवा भए सहिद स्मारक सी-डिभिजन लिग लिगमा पुग्ने गर्दछन्। यस लिगलाई अखिल नेपाल फुटबल सङ्घले सञ्चालन गर्ने गर्दछ।",
+    "यस लिगको प्रमुख खेल संरचना भनेको राउन्ड रोविन संरचना नै हो। यस लिगका प्रमुख उत्कृष्ट 2 टोलीहरू सहिद स्मारक ए-डिभिजन लिगमा बढवा हुन्छन् भने,अन्तिम दुई कम्जोर टोलीहरू भने रेलिगेसनमा पर्दछन् र सहिद स्मारक सी-डिभिजन लिगमा पुग्द छन्। बाँकी टिमहरू यसै लिगमा यथावत् रहन्छन्। यो ढाँचा स्थिर भएतापनि लिग संरचना हरेक वर्ष अखिल नेपाल फुटबल सङ्घद्वारा परिवर्तन हुने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 360,
+    "text_length_avg": 159.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1704,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11730.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\11730.txt",
+    "relative_path": "archive (2)\\valid\\valid\\11730.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1704,
+    "mtime": 1782796609.886922,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8cf5c32bda8be9d4d2d9216b503930d730f0d112",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

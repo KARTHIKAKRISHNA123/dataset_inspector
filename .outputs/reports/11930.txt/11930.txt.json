@@ -1,0 +1,93 @@
+{
+  "dataset": "11930.txt",
+  "file_name": "11930.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेने डेसकार्टस आधुनिक गणितका प्रथम वक्तिको रूपमा चिनिन्छ उनि सन् 1612 मा world of fashion भनिने पेरिसमा विश्वविद्यालयको शिक्षकका लागि गएका थिए। उनी र उनका साथी Mersenne ले दुई वर्षको अवधि गणितको लागि छुटाएका थिए यो समयमा मानिस शिक्षा पछि सेनामा कि चर्चमा संलग्न हुन्थ्ये तर रेने ले सेनामा प्रवेश गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 301,
+    "text_length_max": 301,
+    "text_length_avg": 301.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9106,
+      "Latin": 0.0894
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 750,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9106,
+      "Latin": 0.0894
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11930.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11930.txt",
+    "relative_path": "11930.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11930.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 750,
+    "mtime": 1782796451.653283,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "503f49beb5d55f23bae9f8cd80c9cc4abd1c62bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

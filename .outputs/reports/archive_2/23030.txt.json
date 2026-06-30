@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23030.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मौरी पालन एक कृषि पेसा हो । यो पेसा मह का साथै मैन जस्ता बस्तुको उत्पादन गर्ने गरिन्छ । मान्छेले आज भन्दा 15,000 बर्स आघि देखि जङ्गली मौरीबाट मह संकलन गर्दै आएका थिए । तर आज भन्दा 4,500 बर्स आघि देखि येसलाई घरमै पल्न थलियो ।त्यसबेला सदरन छुरि र धुवा को प्रयोग गरेर मह निकालेर बयाममा भर्ने चलन थियो ।",
+    "18 औं सताब्दिमा युरोपियन नागरिकहरूले मौरीको बारेमा बुझ्दै पेसालाई सन् 1851 मा आधुनिक घारको निर्माण गरे, जस्मा मौरीलाई असर नपुर्याई वा नस्ट नगरि मह निकल्न सकिन्थ्यो । यस पेसाका लगि धेरै जग्गा वा लगानिको अवश्यकता पर्दैन । यो पेसा कम मेहेनतले पनि सजिलै गर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 299,
+    "text_length_avg": 135.91,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3908,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23030.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23030.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23030.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3908,
+    "mtime": 1782796632.4711065,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "583d650bdf3dad7f5099bd86154bf4b8c4b95500",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

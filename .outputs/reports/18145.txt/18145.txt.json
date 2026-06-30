@@ -1,0 +1,91 @@
+{
+  "dataset": "18145.txt",
+  "file_name": "18145.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्तर्राष्ट्रिय प्रकृति संरक्षण संघ प्राकृतिक संसाधनहरूको संरक्षणको लागि समर्पित एउटा अन्तर्राष्ट्रिय सङ्गठन हो । सङ्गठनको घोषित लक्ष्य, विश्वको सबैभन्दा दुर्गम पर्यावरण र विकास सम्बन्धि चुनौतीहरूको लागि व्यावहारिक समाधान खोज्ने दिशामा मद्दत गर्ने हो । संघ विश्वको विभिन्न संरक्षण सङ्गठनहरूको नेटवर्कबाट प्राप्त जानकारीको आधारमा \"खतरायोग्य प्रजातिको रातो सूची\" प्रकाशित गर्दछ, जो विश्वमा सबैभन्दा अधिक संकटग्रस्त प्रजातिहरुलाई प्रदर्शित गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 444,
+    "text_length_max": 444,
+    "text_length_avg": 444.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1211,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18145.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18145.txt",
+    "relative_path": "18145.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18145.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1211,
+    "mtime": 1782796480.6965208,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9cd2c7645401a37db01425bf1093c8bf7fd52169",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

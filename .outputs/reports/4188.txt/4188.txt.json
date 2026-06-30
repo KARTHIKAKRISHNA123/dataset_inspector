@@ -1,0 +1,94 @@
+{
+  "dataset": "4188.txt",
+  "file_name": "4188.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अरुणाचल प्रदेश पूर्वोत्तर भारतको एउटा प्रान्त हो अरुणाचलको अर्थ \"उदाउदै गरेको सूर्यको पर्वत\" हुन्छ। । ",
+    "यस प्रदेशको सीमाहरू दक्षिणमा आसाम, दक्षिणपूर्वमा नागाल्याण्ड, पूर्वमा बर्मा/म्यांमार, पश्चिममा भूटान र उत्तरमा चिनको तिब्बतसँग टासिएको छ। अरुणाचल प्रदेशको एउटा भू-भागलाई चीनले आफ्नो दक्षिणी तिब्बतको भाग हो भनेर दावा गर्छ। ईटानगर यस राज्यको राजधानी हो। यस प्रदेशको मुख्य भाषा हिन्दी र असमिया हो। अङ्ग्रेजी पनि बिस्तारै लोकप्रिय हुँदैछ। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 335,
+    "text_length_avg": 159.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9754,
+      "Latin": 0.0246
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3341,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9754,
+      "Latin": 0.0246
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4188.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4188.txt",
+    "relative_path": "4188.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4188.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3341,
+    "mtime": 1782796578.3857105,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "44c289fff54a3bd937aefb7bff749ae8039d61e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

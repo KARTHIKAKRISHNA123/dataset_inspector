@@ -1,0 +1,92 @@
+{
+  "dataset": "937.txt",
+  "file_name": "937.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल वित्तीय प्रतिवेदन मानहरु व्यवसायिक कारोवार सम्बन्धी एक विश्वव्यापी भाषाको रुपमा तयार गरिएको छ । जसले गर्दा एउटा देशमा तयार भएको कम्पनीकी वित्तीय तथा लेखा सम्बन्धी विवरणहरु अन्य देशमा पनि सजिलै बुझ्न सकिनेछ । नेपालमा नेपाल वित्तीय प्रतिवेदन मानहरु अन्तराष्ट्रिय वित्तीय प्रतिवेदन मानहरु ) अबलम्वन गर्न तयार गरि लागु गरिएको हो । अन्तराष्ट्रिय वित्तीय प्रतिवेदन मानहरु लागू अघि विश्वका प्रत्येक देशहरुले आफ्नो आवश्कयता अनुसार लेखामानहरु तयार गरि लागु गर्ने गर्दथ्यो जसले गर्दा एउटा देशमा तयार भएको",
+    "नेपालमा नेपाल वित्तीय प्रतिवेदन मानहरु नेपाल लेखामान बोर्डले तयार गरि नेपाल चार्टर्ड एकाउन्टेन्ट्स संस्था मार्फत लागु गराउँदछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 121,
+    "text_length_max": 629,
+    "text_length_avg": 251.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2712,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "937.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\937.txt",
+    "relative_path": "937.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "937.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2712,
+    "mtime": 1782796603.8235888,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "59e3332a498e2e019f9420b462236c77de67eebd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

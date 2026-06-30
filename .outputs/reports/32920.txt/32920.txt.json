@@ -1,0 +1,92 @@
+{
+  "dataset": "32920.txt",
+  "file_name": "32920.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कैथी एक ऐतिहासिक लिपि हो जसको मध्यकालीन भारतमा प्रमुख रूपले उत्तर-पूर्व र उत्तर भारतमा बृहत रूपले प्रयोग गरिएको देखिन्छ । प्रमुख रूपले आजको उत्तर प्रदेश र बिहार राज्यको क्षेत्रहरूमा यस लिपिमा वैधानिक र प्रशासनिक कार्य गरिएको प्रमाण पर्याप्त भेट्ने गरिन्छ । यस लिपिलाई कयथी वा कायस्थी लिपिको नामले समेत जान्ने गरिन्छ । पूर्ववर्ती उत्तर-पश्चिम भारत, मिथिला, बङ्गाल, उडिसा र अवध क्षेत्रमा यस लिपिको प्रयोग गरिएको इतिहास रहेको छ । यसको प्रयोग प्रमुख रूपले न्यायिक, प्रशासनिक र निजी तथ्याङ्क सङ्ग्रहणमा गर",
+    "'कैथी' लिपिको उत्पत्ति कायस्थ शब्दबाट भएको हो । यो जाति उत्तर भारतको एक सामाजिक समूह हो । यसै जातिद्वारा मुख्य रूपले व्यापार सम्बन्धि ब्यौरा सुरक्षित राख्नका लागि सबैभन्दा पहिले यस लिपिको प्रयोग गरेका थिए । कायस्थ समुदायको पुरानो रजवाडा र ब्रिटिश औपनिवेशिक शासकहरूको धेरै नै नजिकको सम्बन्ध रहेको छ । यसै समुदायका मानिसहरू अङ्ग्रेजहरूका विभिन्न प्रकारका तथ्याङ्कहरूको प्रबन्धन र भण्डारण गर्नका लागि नियुक्त गर्ने गरिन्थ्यो । कायस्थहरूद्वारा प्रयुक्त यस लिपिलाई पछि कैथी नामले जान्न थालिएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 838,
+    "text_length_avg": 547.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5835,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32920.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32920.txt",
+    "relative_path": "32920.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32920.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5835,
+    "mtime": 1782796549.2131007,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b7041663726497ad9fbb51306fcad3629cee9ad9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

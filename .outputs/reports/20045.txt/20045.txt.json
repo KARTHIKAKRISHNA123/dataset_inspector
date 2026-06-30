@@ -1,0 +1,92 @@
+{
+  "dataset": "20045.txt",
+  "file_name": "20045.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ओलिभिएर जिरुड ; जन्म 30 सेप्टेम्बर 1986 एक फ्रान्सेली व्यावसायिक फुटबल खेलाडी हुन् । उनी प्रिमियर लिगको क्लब चेल्सी र फ्रान्स राष्ट्रिय फुटबल टिमको लागि खेल्ने गर्दछन् । उनी अग्रपङ्क्तिको रूपमा मैदानमा उत्रने गर्दछन् ।",
+    "सन् 2008 मा टुर्स फुटबल क्लबमा सम्मिलित हुनुभन्दा अगावै उनले लिग 2 खेल्ने क्लब, ग्रिनोबलबाटआफ्नो आधिकारिक फुटबल कार्यकाल शुरू गरेका थिए । टुर्समा आवद्ध रहेकै समय उनले आफ्नो दोस्रो सिजनमा 21 गोलका साथ सर्वाधिक गोलकर्ता बनेका थिए । जसको फलस्वरूप उनी फ्रान्सको सबभन्दा माथिल्लो श्रेणीको फुटबल लिग, लिग 1 को फुटबल क्लब मोन्टेपिलरमा आवद्ध हुने मौका पाए । जिरुड सन् 2010 मा अङ्ग्रेजी प्रिमियर लिगको फुटबल क्लब आर्सनलमा आवद्ध हुनु अघि, लिग 1 को सिजन 2011-2012 मा 21 गोलका साथ पुन सर्वाधिक गोलकर्ता बने, जसले"
+  ],
+  "statistics": {
+    "records_sampled": 28,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 1145,
+    "text_length_avg": 414.64,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 29957,
+    "estimated_records": 72
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 72,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20045.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20045.txt",
+    "relative_path": "20045.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20045.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 29957,
+    "mtime": 1782796489.8702962,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6d7be4ec43a017036e5ca712c746f2b94b46fc63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

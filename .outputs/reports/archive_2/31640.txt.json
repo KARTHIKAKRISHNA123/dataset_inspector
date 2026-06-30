@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31640.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको जुम्ला जिल्लाको सीमित मात्रामा उत्पादित हुने स्थानीय जातको धान हो । संसारमै सवैभन्दा उंचाई अर्थात समुन्द्र सतहबाट करीव 3 हजार मिटरसम्म उत्पादन हुने जुम्ली मार्सी धान जुम्लाको हावापानिमा मात्र हुने दुर्लभ प्रजातिको धान हो । यसको स्वाद, रोग र किराको प्रतिरोध गर्न सक्ने गुण र पोषक तत्वको कारण जुम्ली मार्सी धानको महìव अन्तर्राष्ट्रिय जगत्सम्म पुगेको छ । राणाकालमा केन्द्रमा रहेका शासकहरूका लागि यही मार्सी धानको चामल हुलाक चलान गरी काठमाडौंसम्म आउने गरेको कुरा अति ज्येष्ठ नागरिकबाट सुन्न पाइन्",
+    "किंवदन्तीअनुसार सुरुमा जुम्लामा कुनै पनि धान पाकेन । बाबा चन्दननाथले काश्मिरबाट धानको बीउ ल्याएर सुरुमा लाछु जिउरो भन्ने ठाउमा रोपेका र पछि अरूहरूले पनि यसैगरी रोप्दै जाँदा मार्सी धान यहाँ फैलिएको हो भन्ने भनाइ पनि रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 224,
+    "text_length_max": 1591,
+    "text_length_avg": 782.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8248,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31640.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31640.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31640.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8248,
+    "mtime": 1782796649.3778944,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0ddd4c0f97318ab2e38936b6d22fe2a00c20c8b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

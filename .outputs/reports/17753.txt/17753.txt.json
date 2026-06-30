@@ -1,0 +1,94 @@
+{
+  "dataset": "17753.txt",
+  "file_name": "17753.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "†Homo sapiens idaltuHomo sapiens sapiens",
+    "मानिस ल्याटिन: \"बुद्धिमान प्राणी\" वा \"चेतनशिल प्राणी\"), मनुष्य वर्गमा पर्ने एक मात्र प्रजाति हो । यो स्तनधारी समूहमा पर्ने दोपाया प्राणी हो । मानिसको उच्च विकसित मस्तिष्क हुन्छ जुन आमूर्त तर्क, भाषा, अन्तरावलोकन, र समस्या समाधानमा सक्षम हुन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 924,
+    "text_length_avg": 156.09,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9756,
+      "Latin": 0.0244
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4527,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9756,
+      "Latin": 0.0244
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17753.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17753.txt",
+    "relative_path": "17753.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17753.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4527,
+    "mtime": 1782796478.8760188,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "83d8c2efd3fc11ce0c576c820d9b9788c0370f3c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

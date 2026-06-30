@@ -1,0 +1,94 @@
+{
+  "dataset": "9118.txt",
+  "file_name": "9118.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अलैँची Amomum subulatum Roxb. पहाडी भेगमा पाइने एक वनस्पति हो । वनस्पति जगतको Zingiberaceae परिवार अन्तर्गत पर्ने अलैंची एक अत्यन्तै उपयोगी बहुवर्षिय पोथ्रा Perennial Herb हो । यो प्राकृतिक रूपमा दक्षिण भारतको आर्द्र, सदाबहार जंङ्गल क्षेत्रमा प्रशस्त पाइन्छ । नेपाल बाहेक भुटान, श्रीलङ्का, मलेशिया र चिनमा पनि यसको खेती गरिन्छ भने विभिन्न प्रजातीका अलैंचीहरू इण्डोचिन उत्तरपूर्वी भारत तथा पूर्वी र पश्चिमी अफ्रिकामा पनि पाइन्छन् । नेपाल, भारत र भुटान विश्वका अत्याधिक परिमाणमा अलैंची उत्पादन गर्ने मु",
+    "जमीनमा सहि सदुपयोग गर्न सकिन्छ साथै जमीनलाई भू-क्षय हुनबाट पनि बचाउन सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 683,
+    "text_length_avg": 322.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9885,
+      "Latin": 0.0115
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15158,
+    "estimated_records": 46
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 46,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9861,
+      "Latin": 0.0139
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9118.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9118.txt",
+    "relative_path": "9118.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9118.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15158,
+    "mtime": 1782796602.6493032,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cf38f46ef6df3a78b2cab6b315eab292ed2146cb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

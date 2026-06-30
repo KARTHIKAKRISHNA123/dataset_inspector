@@ -1,0 +1,92 @@
+{
+  "dataset": "21887.txt",
+  "file_name": "21887.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुफापोखरी नेपालको संखुवासभा जिल्ला, नुनढाकी गाविसमा अवस्थित पर्यटकीय महत्वको स्थान हो। लालीगुराँसको राजधानी भनेर चिनिने धनकुटा, तेह्रथुम, संखुवासभा र ताप्लेजुङको सङ्गमस्थल तीनजुरे मिल्के जलजले क्षेत्रमा 2900 मिटरको उचाइमा अवस्थित गुफापोखरी क्षेत्रमा चण्डी, धान-च्याब्रुङ, तामाङ सेलो, विझुवा झाँक्री र वालन नाच र पञ्चेबाजाका लागि पनि चिनिन्छ। ",
+    "राजधानीबाट 539 किलोमिटर पूर्वमा छ धरान। काठमाडौंबाट धरानका लागि बस पनि पाइन्छ वा विराटनगरसम्म हवाईजहाजमा पनि पुग्न सकिन्छ। एक दिन धरान बसेर भोलिपल्ट यस वरपरका बराहक्षेत्र, रामधुनी, पिण्डेश्वर, दन्तकाली, शिवजट्टा, पञ्चकन्या, किरातकालीन दरबार, ऐतिहासिक विजयपुर, विष्णुपादुका एक दिनमै घुम्न सकिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 206,
+    "text_length_max": 672,
+    "text_length_avg": 371.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6927,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21887.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21887.txt",
+    "relative_path": "21887.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21887.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6927,
+    "mtime": 1782796498.4113517,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f5ab316cab649f607787a2ba75edbc5ae8d4e23a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

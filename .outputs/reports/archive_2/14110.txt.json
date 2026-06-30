@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14110.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सचिन तेन्दुलकर सन्यास लिइसकेका भारतीय क्रिकेट खेलाडी तथा कप्तान हुन् । वहाँ आफ्नो पुस्ताका महान ब्याट्सम्यानको रूपमा परिचित छन् । उनले अन्तर्राष्ट्रिय क्रिकेटमा सबैभन्दा बढि रन प्रहार गरेका छन् । ",
+    "वहाँले आइसीसीले आयोजना गरेका टेस्ट र ओडिआइमा शतक प्रहार गरेका छन् । वहाँको टेस्टमा 51 र एकदिवसीयमा 49 शतक रहेको छ, जुन सर्वाधिक शतकको किर्तिमानको रूपमा रहेको छ । सन् 2012 को मार्चमा बङ्गलादेश विरुद्ध 114 रन बनाउने क्रममा वहाँ 100 शतक प्रहार गर्ने पहिलो र एकमात्र क्रिकेटर बनेका थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 196,
+    "text_length_max": 621,
+    "text_length_avg": 367.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2852,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14110.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14110.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14110.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2852,
+    "mtime": 1782796614.7882788,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "469d4f9f472a661eae40401ed0889fbcbd52a424",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

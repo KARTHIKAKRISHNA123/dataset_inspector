@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33449.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गणितका केही प्रमुख शाखाहरूमध्ये एक हो - Algebra अर्थात् बीजगणित। बीजगणित अन्तर्गतका उपसमुहहरूमध्येको एउटा हो बूलियन बीजगणित। संक्षेपमा भन्दा, बूलियन बीजगणितमा कुनै पनि तथ्यको मुल्य वा मान या त \"Yes-हो\" वा \"No-होइन\" मात्र हुनसक्छ। यी दुई बाहेक कुनै तेस्रो वा कुनै अन्य मुल्य हुन सक्दैन। यही \"हो\" वा \"होइन\" भन्ने मुल्यको परिणाम दिने तर्कलाई \"Boolean Logic\" अर्थात \"बूलियन तर्क\" भनिन्छ। यो \"Yes\" लाई \"1\" एक र \"No\" लाई \"0\" शून्यले प्रतिनिधित्व गर्ने चलन छ। Electronics अर्थात् विद्युत् यान्त्रिकी र Compu",
+    "मानौ 0 भोल्ट विद्युत बहदा त्यसले 0 जनाउँछ र 1 भोल्ट बिद्युत बहदा 1। कुनै पनि जानकारीलाई यसरी नै कम्युटरमा जनाइन्छ। यो सोच सर्वप्रथम लेडी अदा लोभलेसले दिएकी थिइन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 161,
+    "text_length_max": 596,
+    "text_length_avg": 378.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9076,
+      "Latin": 0.0924
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1862,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9076,
+      "Latin": 0.0924
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33449.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33449.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33449.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1862,
+    "mtime": 1782796653.0202463,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3ff82a2298d490ecd9aaf4bbf1a0ccd0a23e1e0e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

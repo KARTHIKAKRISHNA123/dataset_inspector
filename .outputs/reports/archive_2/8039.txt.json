@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8039.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तक्षशिला प्राचिन भारतमा गान्धार राज्यको राजधानी तथा हाल पाकिस्तानको पन्जाब राज्यको रावलपिण्डी जिल्लामा अवस्थित एक पुरातात्विक स्थान हो । यो स्थान बौद्ध तथा हिन्दु दुबै धर्मको केन्द्र बिन्दु थियो ।",
+    "तक्षशिलाको नाम रामका भाई भरतका दुइ छोराहरुमध्ये एकको नामबाट रहेको भन्ने उल्लेख पाइन्छ । भरतका दुइ छोरा थिए तक्ष र पुष्कर । तक्षले सिन्धु नदीको एकातिर तक्षशिला वा तक्षखण्डको स्थापना गरे । पुष्करले नदीको अर्कातिर पुष्करावती राजधानी बनाएर राज्य गरे । यो विवरण रामायणमा पाइन्छ । तक्षशिला गान्धारको राजधानीका रुपमा रहेको कुरा महाभारतमा समेत उल्लेख छ । सर्प यज्ञ गरिएको स्थान पनि त्यही मानिन्छ । त्यसैले परीक्षितले राज्यारोहण गराएको स्थान पनि त्यही हुनुपर्छ । तक्षको एउटा अर्थ हुन्छ तलास्नु वा ताछ्नु र शिल"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 1652,
+    "text_length_avg": 408.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13150,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8039.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8039.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8039.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13150,
+    "mtime": 1782796671.870965,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "391ecac7d79f8c7686d0c3e3d651a992b37d52ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

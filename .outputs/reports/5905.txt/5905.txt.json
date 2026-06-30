@@ -1,0 +1,92 @@
+{
+  "dataset": "5905.txt",
+  "file_name": "5905.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतका प्रोभिन्सहरू, त्यो भन्दा पहिला ब्रिटिश भारतका प्रेसिडेन्सीहरू त्यो भन्दा पनि पहिला प्रेसिडेन्सी सहरहरू यि सबैलाई संयुक्त रूपमा ब्रिटिश भारत भनिन्थ्यो। यि सबै भारतका प्रशासनिक क्षेत्रहरू थिए जुन ब्रिटिश इस्ट इण्डिया कम्पनी वा ब्रिटेनका प्रतिनीधीहरूको अधिकारमा 1612 देखि 1947 सम्म प्रत्यक्ष वा अप्रत्यक्ष रूपमा रह्यो।",
+    "1600 देखि 1858 सम्म यी क्षेत्रहरू अङ्ग्रेजी इस्ट इण्डिया कम्पनीको अधिकारमा रह्यो। 1858 देखि 1947 सम्म यी क्षेत्रहरूमाथि संयुक्त अधिराज्य सरकारको अधिपत्य रह्यो, उनीहरूले यी क्षेत्रहरूलाई भारतको प्रभारमा सुम्पी दियेका थिए। 1877 पछि ब्रिटिश भारत ब्रिटिश भारतीय सम्राट को हिस्सा बन्यो, जस्मा सयौं यस्ता प्रान्तहरू थिए जहाँका शासक भारतीयनै थिए तर उनीमाथि ब्रिटिश सरकारको अधिपत्य थियो यस्ता प्रान्तहरूलाई प्रिन्सली स्टेट भनिन्थ्यो। ब्रिटिश भारतमा आजका भारत, पाकिस्तान, बङ्गलादेश तथा बर्मा थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 534,
+    "text_length_avg": 264.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8386,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5905.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5905.txt",
+    "relative_path": "5905.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5905.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8386,
+    "mtime": 1782796587.2178001,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "a91bdfe68dc9342dbfc4018d4e43900bf9e87483",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

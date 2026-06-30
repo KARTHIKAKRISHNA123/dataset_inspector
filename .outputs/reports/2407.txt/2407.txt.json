@@ -1,0 +1,92 @@
+{
+  "dataset": "2407.txt",
+  "file_name": "2407.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'पुबुदु दस्सानायके श्रीलङ्का का क्रिकेटर हुन।उनी नेपाली राष्ट्रिय क्रिकेट टिम का पुर्व प्रमुख प्रशिक्षक समेत हुन।पुबुदुले चार बर्षसम्म नेपाली क्रिकेट प्रशिक्षणको बागडोर समालेका थिए।",
+    "क्रिकेट एशोसियशन नेपाल ले नेपाली राष्ट्रिय क्रिकेट टिमको प्रशिक्षकमा सन 23, अगष्ट 2011 मा छ महिने कार्यकालका लागी दसानायकेलाई नियुक्त गरेको थियो। दसानायकेको कार्यकालमा नेपाल डिभिजन 3 सम्मको यात्रा पुरा गर्न सफल भएको थियो पुबुदुकै प्रशिक्षण कालमा नेपालले एशोशियट टिम को रूपमा अन्तराष्ट्रिय प्रतियोगितामा खेलिसकोको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 172,
+    "text_length_max": 315,
+    "text_length_avg": 222.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1797,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2407.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2407.txt",
+    "relative_path": "2407.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2407.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1797,
+    "mtime": 1782796507.9966402,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "26383d17945f3f6a50723ad8ac425010ca310e91",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

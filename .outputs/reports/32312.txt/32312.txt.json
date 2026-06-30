@@ -1,0 +1,92 @@
+{
+  "dataset": "32312.txt",
+  "file_name": "32312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. वासुदेव त्रिपाठी नेपाली साहित्यकार हुन्। उनले वि.सं. 2034 सालको मदन पुरस्कार पाएका हुन्। ",
+    "वासुदेव त्रिपाठीको जन्म बाबु प्रेमदत्त त्रिपाठी र आमा गोमादेवीका सुपुत्रका रूपमा वि.सं. 1999 साल चैत्र 13 गते भानुनगर, तनहुँ जिल्लामा भएको हो। उनले नेपाली विषयमा नै त्रिभुवन विश्वविद्यालयको पहिलो विद्यावारिधि उपाधि प्राप्त गरेका छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 234,
+    "text_length_avg": 131.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1384,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32312.txt",
+    "relative_path": "32312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1384,
+    "mtime": 1782796546.5338922,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9f8e58a7bf9dad1c1d269882b28b605ee323d44a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

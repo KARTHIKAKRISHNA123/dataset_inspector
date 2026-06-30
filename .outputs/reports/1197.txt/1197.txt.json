@@ -1,0 +1,91 @@
+{
+  "dataset": "1197.txt",
+  "file_name": "1197.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको मध्य पश्चिमाञ्चल विकास क्षेत्रको क्षेत्रीय अस्पताल सुर्खेत उपत्यका स्थित मध्यपश्चिमाञ्चल विकास क्षेत्रको सदरमुकाम वीरेन्द्रनगर सहरको टारीगाँउमा रहेको छ। भर्खरमात्र स्थापना गरिएको यो अस्पतालको निर्माण कार्य पनि चलि नै रहेको छ। हाल यो अस्पताल 100 सैयामा संचालित छ निकट भविष्यमा नै भवन निर्माण सकिए पछि अस्पताल पूर्णत क्षेत्रीय अस्पतालको स्तरमा संचालित हुने छ। यो अस्पताललाई नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्र कै सबै भन्दा ठूलो सरकारी श्वास्थ संस्था तथा उपचार केन्द्र बनाइने लक्ष्य राखीएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 500,
+    "text_length_max": 500,
+    "text_length_avg": 500.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1351,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1197.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1197.txt",
+    "relative_path": "1197.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1197.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1351,
+    "mtime": 1782796451.8240244,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "60f6d6cd279307696f20300388cd20f0e6e76ed7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

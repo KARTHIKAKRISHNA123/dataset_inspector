@@ -1,0 +1,94 @@
+{
+  "dataset": "9635.txt",
+  "file_name": "9635.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्थशास्त्रमा नोबेल पुरस्कार विजेता ",
+    "पल ए सैमुअल्सनको जन्म मई 15, सन् 1915 मा इन्डियाना, यु एस ए मा भएको हो । उनको मृत्यु 94 वर्षको उमेरमा दिसम्बर 13, सन् 2009 मा भएको हो । उनी एम आ टी का प्रोफेसर पदमा कार्यरत रहेका थिए । सैमुअल्सनको पुस्तक इकोनोमिक्स Economics, अर्थशास्त्रको सबैभन्दा बढी बिक्री हुने पुस्तक मानिन्छ । सन् 1948 मा प्रथम पटक फाउन्डेशन्स अफ इकोनोमिक्सको नामबाट प्रकाशित यस वर्तमान समयका एक ज्यादै प्रभावशाली अर्थशास्त्री हुन् पल एन्थनी सैमुअल्सन । यद्यपि उनले केवल दुईवटा पुस्तक रचना गरेका छन् । तर अर्थशास्त्र विषयलाई लोक"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 1611,
+    "text_length_avg": 886.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9929,
+      "Latin": 0.0071
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13958,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9905,
+      "Latin": 0.0095
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9635.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9635.txt",
+    "relative_path": "9635.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9635.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13958,
+    "mtime": 1782796605.014144,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7dec68ae86989105debf8b8e6ca73c92b17d1787",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

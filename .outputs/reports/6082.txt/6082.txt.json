@@ -1,0 +1,92 @@
+{
+  "dataset": "6082.txt",
+  "file_name": "6082.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय दूरसञ्चार निगम वा एक सरकारी स्वामित्वको सूचना प्रविधि र दूरसञ्चार निगम हो र पाकिस्तानको एक मुख्य दूरसञ्चार सेवा प्रदायक हो । यसको स्थापना पाकिस्तान सरकारद्वरा सन् 1996 मा भएको थियो भने यसको मुख्यालय पाकिस्तानको इस्लामाबादमा रहेकोे छ । आहिले यस कम्पनीका प्रकाअ भिगर रशिद खान हुन् । यसले विभिन्न सेवाहरू जस्तै इन्टरनेट सेवा, टेलिफोन, मेलका साथै विभिन्न सेवाहरू सञ्चालन गर्दै आइरहेको छ ।",
+    "जम्मू र कश्मीर र उत्तरी क्षेत्रहरू बाहेक, पाकिस्तान भरी सरकारी विभाग / संस्थाहरूलाई सुरक्षित र विश्वसनीय दूरसञ्चार सेवाहरू प्रदान गर्नु यसको प्रमुख उदेश्य हो । एनटीसीले पाकिस्तानका दूरसञ्चारका आवश्यकताहरु पूरा गर्नको लागी दूरसञ्चार प्रणालीको निर्माणमा यसको ध्यान केंद्रित छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 394,
+    "text_length_avg": 245.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5235,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6082.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6082.txt",
+    "relative_path": "6082.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6082.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5235,
+    "mtime": 1782796588.0501814,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d6c79dbcded9227a85d3a15b1b760435487a9962",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

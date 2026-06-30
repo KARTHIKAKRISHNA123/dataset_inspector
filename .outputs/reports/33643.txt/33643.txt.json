@@ -1,0 +1,92 @@
+{
+  "dataset": "33643.txt",
+  "file_name": "33643.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बालकृष्ण पोखरेल नेपालका चर्चित भाषाशास्त्री, लेखक र प्राध्यापक हुन् । उनले \"नेपाली भाषा र साहित्य\"का लागि मदन पुरस्कार 2021 प्राप्त गरेका हुन् ।",
+    "पोखरेलको जन्म वि.सं. 1990 भाद्र कृष्णाष्टमीमा भएको हो। बाबु सुब्बा शारदा पोखरेल र आमा कृष्णछायाँदेवीका सुपुत्रका रूपमा चिसापानीगढी, मकवानपुरमा भएको हो। उनी रूपावासी, वसन्त, वत्सल, र्इसावापुर, लक्ष्मीविलास पाध्या, केकेमनुक्च्यो पोखरेल, गढतिरे साहिलो, हिमालपाने बराल आदि उपनामबाट पनि नेपाली साहित्यका क्षेत्रमा चिनिन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 633,
+    "text_length_avg": 176.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5927,
+    "estimated_records": 33
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33643.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33643.txt",
+    "relative_path": "33643.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33643.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5927,
+    "mtime": 1782796552.5022023,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2b481ecd9345da939be0e1dd519545e7e95ef3dd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

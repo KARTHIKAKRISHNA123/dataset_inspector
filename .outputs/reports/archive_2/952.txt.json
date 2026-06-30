@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "952.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पूर्वी सिक्किम भारतीय राज्य सिक्किमको चार प्रशासनिक जिल्लाहरू मध्येको एक जिल्ला हो। भौगोलिक दृष्टिले, पूर्वी सिक्किम राज्यको दक्षिण पूर्वी कुनामा छ। पूर्वी सिक्किमको सदरमुकाम राजधानी गंगटोक हो, जुन राज्यको राजधानी पनि हो। यो राज्यको सबै प्रशासनिक गतिविधिहरूको केंद्र हो।",
+    "यो जिल्ला 244,790 मानिसहरूको आबादीसँग 964 बर्ग किमी फैलिएको छ। नागरीक क्षेत्र केन्द्र सरकारद्वारा नियुक्त जिल्ला कलेक्टर प्राशासित हुन्छ भने, सैन्य क्षेत्र मेजर जनरलद्धारा।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 172,
+    "text_length_max": 819,
+    "text_length_avg": 388.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5191,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "952.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\952.txt",
+    "relative_path": "archive (2)\\valid\\valid\\952.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5191,
+    "mtime": 1782796674.7583177,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d6ecc16eb949402b00c673b16e05a86ec320e5a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

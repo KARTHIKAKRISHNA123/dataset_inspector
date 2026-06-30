@@ -1,0 +1,105 @@
+{
+  "dataset": "Assamese%28monolingual%29.jsonl",
+  "file_name": "Assamese%28monolingual%29.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "as",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "আমেৰিকাৰ গেঙে বিপদত পেলাব আপোনাকো বিশেষ প্ৰতিবেদনঃ কৰ'না ভাইৰাছৰ সংক্ৰমণ ৰোধ কৰিবলৈ সমগ্ৰ বিশ্বৰ দেশে দেশ অব্যাহত থকা লকডাউনৰ ফলত বিধ্বস্ত হৈ পৰিছে ব্যৱসায়-বাণিজ্য",
+    "উপাৰ্জন নাইকিয়া হৈ পৰাত গ্ৰাহকসকলে অত্যাৱশ্যাকীয় দুই-এপদ সামগ্ৰীৰ বাদে আন সামগ্ৰীসমূহ ক্ৰয় কৰিবলৈ এৰি দিছে"
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 29230,
+    "text_length_avg": 192.41,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Bengali": 0.9955,
+      "Devanagari": 0.0036,
+      "Arabic": 0.0003,
+      "Telugu": 0.0003,
+      "Gujarati": 0.0001,
+      "Tamil": 0.0001,
+      "Gurmukhi": 0.0,
+      "Kannada": 0.0,
+      "Oriya": 0.0,
+      "Latin": 0.0,
+      "Malayalam": 0.0,
+      "MeeteiMayek": 0.0
+    },
+    "unicode_replacement_chars": 3,
+    "unicode_control_chars": 5,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 671307733,
+    "estimated_records": 3796001
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3796001,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Bengali",
+    "languages_seen": [
+      "as"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "as",
+    "script_hint": null,
+    "dominant_script": "Bengali",
+    "script_distribution": {
+      "Bengali": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Assamese%28monolingual%29.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Assamese%28monolingual%29.jsonl",
+    "relative_path": "Assamese%28monolingual%29.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Assamese%28monolingual%29.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 671307733,
+    "mtime": 1782717853.8778632,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "38d02843c57dd6d9c29c8562300f1da298f56a97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

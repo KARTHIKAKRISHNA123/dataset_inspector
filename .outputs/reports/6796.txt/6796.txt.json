@@ -1,0 +1,91 @@
+{
+  "dataset": "6796.txt",
+  "file_name": "6796.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिन्तामणी नागेश रामचन्द्र राव जसलाई सीएनआर राव को नामले पनि चिनिन्छ, एक भारतीय रसायन वैज्ञानिक हुन् । उनले संरचनात्मक रसायन शास्त्रको क्षेत्रमा मुख्य रूपमा काम गरेका छन् । अहिले वहाँ भारतको प्रधानमन्त्रीको वैज्ञानिक सल्लाहकार परिषदको प्रमुखको रूपमा काम गरिरहेका छन्। रावलाई विश्व भरिको 60 विश्वविद्यालयहरूद्वारा मानद डाक्टरेटको उपाधि प्राप्त छ । वहाँले लगभग 45 वैज्ञानिक पुस्तकहरू लेखेका छन् । 2013 मा भारत सरकारले वहाँलाई भारतको सबैभन्दा सम्मानित नागरिक पुरस्कार भारत रत्नले सम्मानित गर्ने घोषणा गरि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 539,
+    "text_length_max": 539,
+    "text_length_avg": 539.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1429,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6796.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6796.txt",
+    "relative_path": "6796.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6796.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1429,
+    "mtime": 1782796591.412871,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ce238e2800ef0e4eb18700be769536b6d7066379",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

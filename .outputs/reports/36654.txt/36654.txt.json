@@ -1,0 +1,92 @@
+{
+  "dataset": "36654.txt",
+  "file_name": "36654.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तनुश्री दत्ता 19 मार्च 1984 ) हिन्दी चलचित्र अभिनेत्री हुन्। उनीले 2004मा फेमिना मिस इन्डिया युनिभर्स 2004को उपाधि जितेकी थिइन् । उनी मिस युनिभर्स 2004को प्रमुख दशमा पनि एक हुन्।",
+    "उनको जन्म 19 मार्च, 1984मा बिहारको जमशेदपुर भन्ने ठाउँमा भएको थियो। उनी एक बङ्गाली हिन्दु परिवारमा जन्मेकी थिइन्। उनकी बहिनी इशिता दत्ता पनि एक अभिनेत्री र मोडेल हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 167,
+    "text_length_max": 178,
+    "text_length_avg": 172.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 874,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36654.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36654.txt",
+    "relative_path": "36654.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36654.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 874,
+    "mtime": 1782796566.4283903,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.977,
+    "sha1_quick": "a7c51377cb3698acf2277a8eb5a7b3b507b59d25",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

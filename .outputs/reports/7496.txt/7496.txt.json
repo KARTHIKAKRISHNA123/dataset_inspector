@@ -1,0 +1,93 @@
+{
+  "dataset": "7496.txt",
+  "file_name": "7496.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सामान्यतः नाजी पार्टी भनेर चिनिने यो पार्टीको औपचारीक नाम राष्ट्रिय समाजवादी जर्मन मजदुर पार्टी थियो। जर्मनीको यो राजनीतिक पार्टी सन् 1920 देखि 1945 को बीच सक्रिय रही नाजीवाद अभ्यासरत थियो। यसको पूर्ववर्ती पार्टी जर्मन मजदुर 'पार्टी सन् 1919 देखि 1920 सम्म सक्रिय थियो। यो पार्टी पहिलो विश्व युद्धपछि जर्मनीमा कम्युनिस्टहरु बिरुद्दको बढ्दो प्रभाव र अर्धसैनिक बल संस्कृति संगै प्रादुर्भाव हुन थाल्यो । यो पार्टी साम्यवाद देखि र völkisch राष्ट्रवाद सम्म कार्यकार्ता आकर्षित गर्ने एक साधनको रूपमा सृष्टि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1027,
+    "text_length_max": 1027,
+    "text_length_avg": 1027.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2709,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9906,
+      "Latin": 0.0094
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7496.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7496.txt",
+    "relative_path": "7496.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7496.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2709,
+    "mtime": 1782796594.7451346,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3651892267d07ec37136f6235ebd9a5c92d941a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

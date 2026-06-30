@@ -1,0 +1,91 @@
+{
+  "dataset": "1362.txt",
+  "file_name": "1362.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द एफए कप, आधिकारिक रूपमा द फुटबल एसोसिएसन च्यालेञ्ज कप, पुरुषहरूको घरेलु अङ्ग्रेजी फुटबल अन्तर्गत वार्षिक रूपमा आयोजना हुने नकआउट फुटबल प्रतियोगिता हो । यसको पहिलो संस्करण सन् 1871-72 मा खेलिएको थियो । यो विश्वकै पुरानो राष्ट्रिय फुटबल प्रतियोगिता हो ।यस प्रतियोगिताको नाम द फुटबल एसोसिएसनमा आधारित छ जसले यो प्रतियोगितालाई 'द एफए' को नामले सञ्चालित गर्दछ । सन् 2015 देखि सन् 2018 मा प्रायोजकको कारणले गर्दा यस प्रतियोगिताको नाम द इमिरेट्स एफए कप राखिएको थियो । पुरुष जस्तै महिलाहरूको लागि छुट्टै एफए"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 537,
+    "text_length_max": 537,
+    "text_length_avg": 537.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1398,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1362.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1362.txt",
+    "relative_path": "1362.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1362.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1398,
+    "mtime": 1782796459.369815,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8c2b0a2421d382e24d123e351964d44c4aa6f542",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

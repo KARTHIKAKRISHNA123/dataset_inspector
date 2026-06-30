@@ -1,0 +1,92 @@
+{
+  "dataset": "31576.txt",
+  "file_name": "31576.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढुकुटी नेपालमा गैरकानुनी मानिएको एउटा जोखिमपूर्ण आर्थिक कारोबार हो। सबै ढुकुटीका लागि न्यूनतम 10 देखि अधिकतम 50 जनासम्म खेलाडी हुन्छन्। खेलाडीहरूका अनुसार सबैभन्दा राम्रो 20 जनाको समूह हो। दामाशाहीले निश्चित रकम एकैठाउँमा नियमित जम्मा गरेर निश्चित अन्तरालमा तोकिएको पूर्वनिर्धारीत प्रक्रियाबाट छानिएको खेलाडीलाई निश्चित रकम ब्याजमा चलाउन दिने र निश्चित ब्याज लिएर ढुकुटीको मूल धन बढ्ने ब्यबस्था गरिएको हुन्छ।",
+    "समूहअनुसार ढुकुटी खेल्ने आ-आफ्नै नियम हुन्छन्। कसैले गोलाप्रथा गर्छन्, केही पैसा छोड्छन्, कुनैमा नम्बर सिस्टम पनि चलेको पाइन्छ। गोलाप्रथा ढुकुटीको प्रचलित नियम हो, जसमा नाफा पनि सामान्य हुन्छ र जोखिम पनि कम। यसमा जसलाई 'बधाई' लेखिएको गोला पर्छ, त्यो पटकको ढुकुटी उसैले खान्छ। अर्को नियमको ढुकुटीमा जसले बढी पैसा छोड्छ, उसैले ढुकुटी खान्छ। यो नियममा जति छोडेर पनि खान पाउने तथा किस्ताअनुसार न्यूनतम वा अधिकतम यति छोड्नैपर्ने भनेर पूर्वसहमति गरिएको हुन्छ। तेस्रो सबैको नम्बर सिस्टम गरी जसको पालो आउँछ, "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 274,
+    "text_length_max": 792,
+    "text_length_avg": 489.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10525,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31576.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31576.txt",
+    "relative_path": "31576.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31576.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10525,
+    "mtime": 1782796543.1926146,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fab5d6f10a075eb6ee58c2c86b7e7d23f4764fdd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

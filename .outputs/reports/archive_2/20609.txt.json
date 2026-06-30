@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20609.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुस्ताङ नेपालको पश्चिमाञ्चल विकास क्षेत्रको धौलागिरी अञ्चलको सबैभन्दा उत्तरमा पर्ने जिल्ला हो। हिमालपारीको जिल्लाको नामबाट चिनिने यो जिल्ला धौलागिरी र निलगिरी दुई अग्ला हिमशिखरको विचमा अवस्थित छ। करिव 3000 वर्ष भन्दा अगाडिको पुरातात्विक उत्खननबाट देखिए अनुसार यो क्षेत्र परापूर्वकालमा नेपाल र तिब्बत वीचको व्यापारिक मुख्य नाका रहेको बुझिन्छ।",
+    "यसको सदरमुकाम जोमसोम हो। यस जिल्लाको पूर्वमा मनाङ, पश्चिममा डोल्पा दक्षिणमा म्याग्दी र उत्तरमा तिब्बत पर्दछन्। यसको उत्तर-दक्षिण लम्बाई करिब 80 किलोमिटर र चौडाई बढिमा 45 किलोमिटर छ। यो जिल्ला अन्नपूर्ण हिम श्रृङ्खलाको उत्तरमा पर्ने भएको हुनाले यहाँ एकदमै कम पानी पर्दछ। यसको करिब करिब बिच भाग भएर काली गण्डकी नदी बग्दछ। यस नदीलाई स्थानीय भाषामा थाक खोला पनि भनिन्छ। यस जिल्लाका धेरै जसो बस्ती यही नदीको किनारमा अवस्थित छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 31,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 994,
+    "text_length_avg": 182.13,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15091,
+    "estimated_records": 82
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 82,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20609.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20609.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20609.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15091,
+    "mtime": 1782796627.6038575,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "18b6f5581572a92baeb4ecc7de28a990a8a4d2ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

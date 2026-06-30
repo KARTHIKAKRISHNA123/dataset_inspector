@@ -1,0 +1,92 @@
+{
+  "dataset": "4220.txt",
+  "file_name": "4220.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मैन तापको नजिक पर्दा नरम हुने वा पग्लने वर्गको तत्वहरूबाट बनेको ठोस वस्तु हो । विशेषतया, यो 45° से भन्दा माथिको तापक्रम पग्लिएर चिपचिप लाग्ने तरल पदार्थमा परिणत हुन्छ । मैन कृतिम तथा प्राकृतिक दुवै तरिकाबाट निर्माण हुने जैविक तत्व हो । यसलाई मैनबत्ति बनाउन,मुर्ति बनाउन जस्ता कर्यमा प्रयोग गरिन्छ ।",
+    "मैनबत्ति बनाउन"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 298,
+    "text_length_avg": 84.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 897,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4220.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4220.txt",
+    "relative_path": "4220.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4220.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 897,
+    "mtime": 1782796578.515412,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0f44863c1f05c9a0d17ceca45829c95626143465",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

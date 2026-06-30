@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dataset-inspector"
+version = "0.1.0"
+description = "Standalone streaming inspector/profiler for heterogeneous multilingual datasets."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Karthika Krishna M" }]
+
+dependencies = [
+    "PyYAML>=6.0",
+    "charset-normalizer>=3.0",
+    "tqdm>=4.65",
+]
+
+[project.optional-dependencies]
+parquet = ["pyarrow>=14.0"]
+docx = ["python-docx>=1.1.0"]
+sys = ["psutil>=5.9"]
+full = ["pyarrow>=14.0", "python-docx>=1.1.0", "psutil>=5.9"]
+dev = ["pytest>=7.4", "pytest-cov>=4.1", "ruff>=0.1.0"]
+# Note: xml + gguf readers use ONLY the standard library (xml.etree.iterparse, struct) — no deps.
+
+[project.scripts]
+dataset-inspect = "dataset_inspector.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["dataset_inspector*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"

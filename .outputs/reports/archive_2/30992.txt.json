@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30992.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मम: / मःम /ममचा /मोमो /ममो",
+    "मःम तिब्बती खान्की हो । उहिल्यै व्यापारका लागि तिब्बत जाने नेवारी व्यापारीहरूले मःम नेपाल भित्र्याएको मानिन्छ । 'मोहमोः' भन्ने तिब्बती शब्दबाट अपभ्रंश हुँदै नेपालमा आइपुग्दा मःम बनेको हो । \"तिब्बतमा यसलाई 'मोहमोः' भनिन्छ, जसको आकार नेपालमा पाइने मःमको भन्दा ठूलो हुन्छ | मःम व्यवसायीहरूका अनुसार, लाम्चो आकारकोलाई मःम र डल्लो आकारकोलाई मःमचा भन्न थालियो। नेवार समुदायको बाहुल्य रहेकाले मःमको पुच्छरमा चा जोडेर डल्लो मःम -जसलाई लोकल पनि भनिन्छ- मःमचा नाम दिएको हुनसक्ने अड्कल छ । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 479,
+    "text_length_avg": 172.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1355,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30992.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30992.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30992.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1355,
+    "mtime": 1782796648.0451224,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "da000d8855572bf1150036ee9559401e07b39e7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

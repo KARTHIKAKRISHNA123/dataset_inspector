@@ -1,0 +1,92 @@
+{
+  "dataset": "2894.txt",
+  "file_name": "2894.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दीप कुमार उपाध्याय",
+    "पूर्व मन्त्री दीपकुमार उपाध्याय लामिछाने कपिलवस्तु क्षेत्र नं. 1 बाट निर्वाचित नेपाली कांग्रेसका सभासद हुनुहुन्छ । 59 वर्षीय उपाध्याय 2048 र 2049को संसदीय निर्वाचनमा कपिलवस्तु-2 बाट विजयी हुनुहुन्थ्यो। उहाँ 2056को संसदीय निर्वाचनमा पनि नेपाली कांग्रेसका उम्मेदवार हुनुहुन्थ्यो। यस अघि 2038 र 2043को राष्ट्रिय पञ्चायत निर्वाचनमा समेत उम्मेदवार रहेका उपाध्याय दुवै पटक 32 हजारभन्दा वढी मत पाएर पनि पराजित हुनुभएको थियो। 2046 सालमा नेपाली काङ्ग्रेस प्रवेश गरेका उपाध्यायले अर्थ राज्यमन्त्री र संस्कृति प"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 743,
+    "text_length_avg": 274.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3665,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2894.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2894.txt",
+    "relative_path": "2894.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2894.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3665,
+    "mtime": 1782796530.510918,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "9a4fba64363b4010438baaf3c0dafec7576a5ba5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

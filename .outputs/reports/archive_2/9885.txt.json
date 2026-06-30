@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9885.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ट्रेजरी बिल मुद्रा बजारमा खरिद बिक्री गरिने मुख्य प्रतिभूति हो । ट्रेजरी बिल एक वर्ष वा एक वर्षभन्दा कम अवधिको आन्तरिक ऋण उठाउन प्रयोग गरिने अल्पकालीन सरकारी ऋणपत्र हो । सरकारलाई आवश्यक पर्ने अल्पकालीन अवधिको स्रोत जुटाउन यो बिल बिक्री गरिन्छ । ट्रेजरी बिल 28 दिने, 91 दिने, 182 दिने र 364 दिने गरी 4 अवधिको निष्कासन गर्ने गरिन्छ।",
+    "निष्काशन र बोलकबोलमा प्रयोग गरिने विधि ट्रेजरी बिल बोलकबोलको माध्यमबाट निष्काशन हुने गर्दछ । सरकारलाई आवश्यक पर्ने अल्पकालीन अवधिको स्रोत जुटाउन यो ऋणपत्र बिल विक्रि गरिन्छ । निष्कासन र बोलकबोलमा प्रयोग गरिने विधि ट्रेजरी बिल बोल-कबोलको माध्यमबाट निष्कासन हुने गर्दछ । बोल-कबोलमा बहु–बोलमूल्य विधि प्रयोग गरिन्छ । बोल-कबोल ट्रेजरी बिलको बोलकबोल मूल्यमा गर्नुपर्दछ । एकै व्यक्ति वा संस्थाले अलग–अलग वा बहु–मूल्यमा पनि बोल गर्न सक्छ । ट्रेजरी बिलमा ब्याजदरको सट्टामा डिस्काउण्ट दर लागू गरिन्छ । डिस्काउ"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 543,
+    "text_length_avg": 352.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2801,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9885.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9885.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9885.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2801,
+    "mtime": 1782796675.5352645,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ee10518f592c15c59befb6e0b61e522d9d280256",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

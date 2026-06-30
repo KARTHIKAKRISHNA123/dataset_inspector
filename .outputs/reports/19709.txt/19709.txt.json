@@ -1,0 +1,93 @@
+{
+  "dataset": "19709.txt",
+  "file_name": "19709.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रस-सिद्धान्तका आदि प्रवर्तक आचार्य भरतमुनिद्वारा प्रणीत नाट्यसूत्रका परवर्ती व्याख्याता र आचार्हरूले चारवटा रस-सिद्धान्तहरूलाई विकसित गरे। ती हुन्- उत्पत्तिवाद, अनुमितिवाद, भुक्तिवाद र अभिव्यक्तिवाद। आचार्य भरतमुनिको सूत्र- विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिःमा प्रयुक्त निष्पत्ति शब्दको चारवटा भिन्नभिन्न व्याख्या गर्ने व्याख्याताहरू क्रमशः भट्टलोल्लट,श्रीशङ्कुक, भट्टनायक र अभिनवगुप्त हुन्।",
+    "आचार्य अभिनवगुप्तले अभिनवभारतीनामक ग्रन्थमा भट्ट लोल्लटको उल्लेख भरतमुनिको नाट्यसूत्रको आदरणीय टीकाकार आचार्यका रूपमा गरेको पाइन्छ। यिनको जन्मकाल तथा ग्रन्थ आदि अप्राप्य छन्। अभिनवभारती, ध्वन्यालोक आदिमा यीसँग सम्बन्धित केही फुटकर विचारहरू प्राप्त हुन्छन्, जुन विचारबाट यिनको विद्वत्ता र सिद्धान्तका बारेमा जानकारी प्राप्त हुन्छ। काव्यप्रकाश नामक ग्रन्थको सङ्केत टीका र श्रीशङ्कुक आदि आचार्यद्वारा यिनको खण्डन गरिएको हुँदा यी श्रीशङ्कुकभन्दा पूववर्ती हुन् भन्ने अनुमान गर्न सकिन्छ। श्रीशङ्कुकको समय ई"
+  ],
+  "statistics": {
+    "records_sampled": 42,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 1853,
+    "text_length_avg": 506.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 57677,
+    "estimated_records": 113
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 113,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19709.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19709.txt",
+    "relative_path": "19709.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19709.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 57677,
+    "mtime": 1782796488.25663,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5542b336b2880420d9e2b3c562ed74a3e5dc43d5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

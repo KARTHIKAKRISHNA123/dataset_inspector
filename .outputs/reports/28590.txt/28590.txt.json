@@ -1,0 +1,92 @@
+{
+  "dataset": "28590.txt",
+  "file_name": "28590.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जबलपुर भारतको मध्यप्रदेश राज्य को एक शहर हो । यहाँ मध्य प्रदेश उच्च न्यायालय तथा राज्य विज्ञान संस्थान छ । यसलाई मध्यप्रदेशको संस्कारधानी पनि भनिन्छ । थलसेनाको छावनी बाहेक यहाँ भारतीय आयुध निर्माणिहरूको कारखाना तथा पश्चिम-मध्य रेलवेको मुख्यालय पनि छ ।",
+    "पुराणहरू अनुसार यस शहरको नाम पहिला जबालिपुरम् थियो, किनकि यसको सम्बन्ध महर्षि जाबालिसङ जोडिन्छ, जसको बारेमा भनिन्छ कि उनी यहीं निवास गर्थे । सन् 1781 पछि नै मराठहरूको मुख्यालयको रूपमा चुनिएपछि यस नगरको सत्ता बढ्यो, पछि यह यो सागर र नर्मदा क्षेत्रहरूको ब्रिटिश कमीशनको मुख्यालय बनाइयो । यहाँ 1864 मा नगरपालिकाको गठन भएको थियो । एक पहाडीमा मदन महल स्थित छ, जुन लगभग 1100 ई. मा राजा मदन सिंह द्वारा निर्माण गरिएको एक पुराना गोल्ड महल हो । यसको ठीक पश्चिममा गढ छ, जुन 15औ शताब्दीको चार स्वतन्त्र गोल्ड रा"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 1478,
+    "text_length_avg": 372.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6815,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28590.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28590.txt",
+    "relative_path": "28590.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28590.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6815,
+    "mtime": 1782796528.9063754,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "85553fa5dd179b06129c47c5a0753ca05c0e9b12",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

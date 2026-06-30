@@ -1,0 +1,92 @@
+{
+  "dataset": "4727.txt",
+  "file_name": "4727.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिउँ चितुवा ठूलो बिरालो प्रजातिको मांसाहारी जनावर हो, जुन दक्षिण एसिया तथा मध्य एसियाका हिमाली क्षेत्रमा पाइन्छ। हिउँ चितुवा समुन्द्री सतहबाट 3,000 देखि 5,500 मिटर उचाई बीचका चट्टानी हिमाली क्षेत्रमा बसोबास गर्छन। लुकेर रहने स्वभाबको कारण यिनिहरूको सही संख्या थाहा हुन सकेको छैन, तापनि खुला जंगली क्षेत्रमा 3,500 देखि 7,000को संख्यामा तथा बिश्वका चिडियाघरहरूमा 600 देखि 700को संख्यामा हिउँ चितुवाहरू रहेको अनुमान गरिएको छ।",
+    "हिउँ चितुवा अन्य ठूला बिरालो प्रजातिका जनावर भन्दा सानो हुन्छ, तर उनीहरू कै आकारमा देखिन्छ, सामान्यतया यिनीहरूको तौल 27 देखि 54 किलोग्राम तथा लम्बाई 75 देखि 130 सेन्टिमिटरको हाराहारीमा हुन्छ भने पुच्छर सहितको लम्बाई यो लम्बाईको 75 देखि 90 प्रतिशत बढी हुने गर्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 422,
+    "text_length_avg": 215.27,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6203,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4727.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4727.txt",
+    "relative_path": "4727.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4727.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6203,
+    "mtime": 1782796581.038767,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "58d3cf5d6f6886fa52f100a81261f6755a079dae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

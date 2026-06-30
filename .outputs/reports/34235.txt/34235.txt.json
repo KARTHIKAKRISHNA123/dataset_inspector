@@ -1,0 +1,92 @@
+{
+  "dataset": "34235.txt",
+  "file_name": "34235.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2016 अन्डर-19 क्रिकेट विश्वकप एक सिमित ओभरको क्रिकेट प्रतियोगिता हो जुन जनवरी 22 देखि फेब्रुअरी 14 सम्म बङ्गलादेशमा हुन गइरहेको छ । यो आइसिसी अन्डर-19 क्रिकेट विश्वकपको एघारौँ संस्करण हो, र बङ्गलादेशमा यो प्रतियोगिता दोस्रो पटक हुन लागेको हो । यो भन्दा अगाडि सन् 2004को संस्करण बङ्गलादेशमा भएको थियो ।",
+    "आइसिसीका सदस्यहरू मध्ये छनौट भएका 16 राष्ट्रहरूले यो प्रतियोगिता खेल्नेछन्, र यस प्रतियोगितामा खेलिने सम्पूर्ण खेलहरूले अन्डर-19 ओडिआइ को मान्यता प्राप्त गर्नेछन् । आइसीसीका पूर्ण सदस्यको मान्यता पाएका 10 राष्ट्रहरू यस प्रतियोगिताको लागि स्वत छनौट भएका छन् भने अन्य 5 राष्ट्र क्षेत्रीय छनौट प्रतियोगिता जितेर र बाकी एउटा टिम 2015 आइसिसी अन्डर-19 क्रिकेट विश्वकप छनौट प्रतियोगिता जितेर छनौट भएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 399,
+    "text_length_avg": 155.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3263,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34235.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34235.txt",
+    "relative_path": "34235.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34235.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3263,
+    "mtime": 1782796555.273062,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "f04aa578d00fd6350ebad956d462b5393fd4409e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

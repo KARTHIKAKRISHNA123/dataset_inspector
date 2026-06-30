@@ -1,0 +1,92 @@
+{
+  "dataset": "22164.txt",
+  "file_name": "22164.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीलङ्का टेलिकम को सहयोग सँग निजीकृत भएको थियो र कोलम्बो स्टक एक्सचेन्जको, मिलङ्का मूल्य सूचकाङ्कमा सूचीबद्ध गरिएको थियो ।",
+    "2008 मा निप्पोन टेलिग्राफ र टेलिफोनले श्रीलङ्का टेलिकमलाई नेदरल्यान्ड्सको ग्लोबल दूरसञ्चार होल्डिङ्सना बिक्री गरेको थियो, जो वर्तमानमा श्रीलङ्का टेलीकम मा 44.98% स्वामित्वमा छ जबकि 50.50% श्रीलङ्का सरकारको स्वामित्वमा रहेको छ भने बाँकी सार्बजनिक स्वामित्वमा रहेकोे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 85,
+    "text_length_max": 337,
+    "text_length_avg": 183.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3408,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22164.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22164.txt",
+    "relative_path": "22164.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22164.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3408,
+    "mtime": 1782796499.5896509,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "91cb3d0691a0b14e83873d077b55ceffda19e6c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

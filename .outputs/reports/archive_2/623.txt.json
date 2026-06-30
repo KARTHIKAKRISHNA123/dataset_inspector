@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "623.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू पञ्चाङ्गको एघारौं तिथिलाई एकादशी भनिन्छ । यो तिथि महिनामा दुई पल्ट आउँछ। पूर्णिमापछि र औंसी पछि । पूर्णिमापछि आउने एकादशीलाई कृष्ण पक्षको एकादशी र अमावस्यापछि आउने एकादशीलाई शुक्ल पक्षको एकादशी भनिन्छ । यी दुवै प्रकारका एकादशीहरूको हिन्दू सनातन संप्रदायमा धेरै महत्व छ । चैत्र महिनाको कृष्ण एकादशीलाई पापमोचिनी एकादशी भनिन्छ ।",
+    "पुराण-अनुसार चैत्र कृष्ण पक्षको एकादशी पाप मोचिनी हो अर्थात पापलाई नष्ट गर्ने सामर्थ्य भएको । स्वयं भगवान श्रीकृष्णले यसबारेमा अर्जुनलाई बताउनु भएको छ । कथा-बमोजिम भगवान अर्जुन सित भन्नुहुन्छ, राजा मान्धाताले एक समयमा लोमश ऋषिसित 'मनुष्य जसले जानी नजानी पाप कर्म गर्दछ त्यसबाट कसरी मुक्त हुन सक्ला' भनी प्रश्न गर्नुभयो । राजा मान्धाताको यस प्रश्नको उत्तरमा लोमश ऋषिले राजालाई एउटा कथा सुनाउनु भयो,जुन यस प्रकार छ । जो यस प्रकार रहेको छ :-"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 333,
+    "text_length_max": 1128,
+    "text_length_avg": 661.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7030,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "623.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\623.txt",
+    "relative_path": "archive (2)\\valid\\valid\\623.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7030,
+    "mtime": 1782796668.1621113,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9aea4de0fa433b07dad65efe4e98a9316887e964",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

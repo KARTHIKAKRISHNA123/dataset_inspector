@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23643.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Dermatologic surgery is surgery performed by a dermatologipt physician. A dermatologic surgeon is a dermatologist with a special interest in this field who has applied for fellowship status in the American Society for Dermatologic Surgery, a professional organization dedicated to supporting र educating these physicians.",
+    "Techniques available to a dermatologic surgeon include lasers, traditional scalpel surgery, electrosurgery, cryosurgery, photodynamic therapy, liposuction, blepharoplasty, minimally-invasive facelift surgery, र a variety of topical र injectable agents such as dermal fillers including fat transfer र hyaluronic acid."
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 177,
+    "text_length_max": 321,
+    "text_length_avg": 271.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9942,
+      "Devanagari": 0.0058
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 825,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9942,
+      "Devanagari": 0.0058
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23643.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23643.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23643.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 825,
+    "mtime": 1782796633.6093256,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "30184bdb322c3dc9f693a9ca2463ac8c9c115e9c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

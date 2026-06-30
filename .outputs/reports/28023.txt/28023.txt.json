@@ -1,0 +1,92 @@
+{
+  "dataset": "28023.txt",
+  "file_name": "28023.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमाऊँनी भारत को उत्तराखण्ड राज्य अन्तर्गत कुमाऊँ क्षेत्र मा बोलीने एक भाषा हो । यो भाषा लाई हिन्दी को सहायक भाषा को श्रेणीमा राखीएको छ । कुमाऊँनी भारत को 325 मान्यता प्राप्त भाषाहरू मधये एक हो र 26,60,000 भनदा बढी मानिसले बोलने गरिन्छ। उत्तराखण्ड का निम्नलिखित जिल्ला- अल्मोडा जिल्ला, नैनीताल, पिथौरागढ, बागेश्वर, चम्पावत, ऊधमसिंह नगर का अतिरिक्त असम, बिहार, दिल्ली, मध्य प्रदेश, महाराष्ट्र र पञ्जाब, तथा हिमाचल प्रदेश र नेपाल का केहि भेकमा पनि यो बोलीने गरिन्छ ।",
+    "कुमाऊँनी बोली एक अर्वचीन बोली हो । लिपिबद्ध हुन् न सकेका कारण आज पनि जस्ताको तस्तै आपसी वार्तालाप का माध्यम सम्म सीमित रहेको छ । मध्य पीढी का मानिस कुमाऊँनी र हिन्दी दुवै भाषामा कुराकानी गर्ने गर्छन । कुमाऊँनी, देवनागरी लिपि मा लेखिने गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 75,
+    "text_length_max": 464,
+    "text_length_avg": 261.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2036,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28023.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28023.txt",
+    "relative_path": "28023.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28023.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2036,
+    "mtime": 1782796526.25461,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "83278ae206ef1c65ec225bfa32a59e907d7291f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

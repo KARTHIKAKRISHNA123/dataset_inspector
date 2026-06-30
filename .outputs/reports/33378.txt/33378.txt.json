@@ -1,0 +1,92 @@
+{
+  "dataset": "33378.txt",
+  "file_name": "33378.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गौतमी एक भारतीय चलचित्र अभिनेत्री हुन् जो मुख्यत तमिल भाषाको चलचित्रमा अभिनय गर्ने गर्छिन । उनले अन्य भाषाहरूमा समेत अभिनय गरेकी छन् जस्तै तेलुगु भाषा, मलयालम भाषा, हिन्दी भाषा र कन्नड भाषाको चलचित्रमा अभिनय गरेकी छन् । उनी चलचित्र वाहेक टेलिभिजन अभिनेत्री, टेलिभिजन प्रस्तोता र मानिएका कपडा डिजाइनर हुन् ।",
+    "गौतमीको जन्म पश्चिमी गोदावरी जिल्ला आन्ध्र प्रदेशमा भएको हो । उनले 17 वर्षको उमेरमा नै तेलुगु चलचित्र दयामायुदुमा अभिनय गरेकी थिइन् । उनी तमिल चलचित्र क्षेत्रमा रजनीकान्त र प्रभु गनेशन अभिनित चलचित्रबाट प्रवेश गरेकी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 223,
+    "text_length_max": 306,
+    "text_length_avg": 264.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1412,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33378.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33378.txt",
+    "relative_path": "33378.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33378.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1412,
+    "mtime": 1782796551.3461199,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e4ca5b042c7784bf6cf889b880495f58446ccd73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

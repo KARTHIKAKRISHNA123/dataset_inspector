@@ -1,0 +1,93 @@
+{
+  "dataset": "38122.txt",
+  "file_name": "38122.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ड्यारेन एभरेट् क्रिस् एक अमेरिकी अभिनेता, गायक, गीतकार र संगीतकार हुन। उनी शिकागोमा अवस्थित स्टारकिड प्रोडक्शन्स् नामक एक मिडिया र संगीत थिएटर निर्माण कम्पनीको सह-संस्थापक र सह-सञ्चालक पनि हुन। उनी विशेष गरि फक्सको टिभि श्रृंखला ग्लीमा ब्लेन एंडरसन, एक उच्च विद्यालयको समलैंगिक छात्र,को भुमिका निर्भाह गरेकोमा चिनिन्छन।",
+    "क्रिसले पहिलो पल्ट स्टारकिडको सांगीतिक नाटक, \"अ भेरि पट्टर म्युजिकल\" र त्यसपछि \"अ भेरि पट्टर सिक्वल\"मा ह्यारी पट्टरको प्रमुख भूमिका खेलेर सबैको ध्यान खिचेका थिए। जनवरी 2012मा उनले आफ्नो ब्रडवे शुरुवात, \"हाउ टु सक्सिड इन बिजनेस विथाउट रियल्ली ट्राइन्ग\" नाटकमा जे. पिएरपोन्ट फिन्चको भूमिकाबाट गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 715,
+    "text_length_avg": 291.87,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9946,
+      "Latin": 0.0054
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34259,
+    "estimated_records": 117
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 117,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38122.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38122.txt",
+    "relative_path": "38122.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38122.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34259,
+    "mtime": 1782796573.8524182,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dca7a92a69175318048bb1993d41c6d508126f2c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

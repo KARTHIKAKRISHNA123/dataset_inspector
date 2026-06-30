@@ -1,0 +1,92 @@
+{
+  "dataset": "3632.txt",
+  "file_name": "3632.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चार धाम हिन्दूहरूको लागि अत्यन्त पवित्र स्थल हुन जुन भारतको भिन्न भिन्न राज्यमा स्थित मन्दिर तथा तीर्थस्थल हुन । ति धामहरू हुन:",
+    "चार धाम हिन्दूहरुको श्रद्धेय तथा धार्मिक महत्व राखेको ठाउँको नाम हो : बद्रीनाथ,द्वारका, पुरी र रामेश्वरम । हिन्दु शास्त्र तथा बेदका अनुसार एउटा मनुष्यले आफ्नो जीवनकालमा चार धामको भ्रमण गर्नु उपयुक्त मानिन्छ । आठौँ शताब्दीमा जन्मेका हिन्दू धर्मका जगतगुरू आदी शंकाराचार्य द्वारा माथी उल्लेखीत स्थानहरूलाई हिन्दूहरूका चार धामको रूपमा नामांकन गरेका थिए ।)"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 790,
+    "text_length_avg": 243.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9054,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3632.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3632.txt",
+    "relative_path": "3632.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3632.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9054,
+    "mtime": 1782796564.795309,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "516a197e6fdcbac0c50448a1ea4a179f35d38d12",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

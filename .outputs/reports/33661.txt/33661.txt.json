@@ -1,0 +1,92 @@
+{
+  "dataset": "33661.txt",
+  "file_name": "33661.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देवनागरी एउटा लिपि हो। यो लिपि विशेष गरेर दक्षिण एसियामा प्रयोग हुन्छ । यो लिपि देब्रे देखि दायाँतर्फ लेखिन्छ । यो लिपि संस्कृत, नेपाली, नेवारी, हिन्दी, मराठी, भोजपुरी, मैथिली, पाली, रोमानी आदि भाषाहरू लेख्नमा प्रयोग भएको पाइन्छ ।",
+    "देवनागरी एक लिपि हो जसमा अनेक भारतीय भाषाहरू तथा नेपाली भाषाहरू लेखिन्छन् । संस्कृत, पालि, हिन्दी, मराठी, कंकणी, सिन्धी, कश्मीरी, नेपाली, तामाङ, गढवाली, बोडो, अंगिका, मगही, भोजपुरी, मैथिली, संथाली आदि भाषाहरू देवनागरीमा लेखिन्छ । यसका अतिरिक्त केही स्थितिहरूमा गुजराती, पञ्जाबी, बिष्णुपुरिया मणिपुरी, रोमानी र उर्दू भाषाहरू पनि देवनागरीमा लेखिन्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 3697,
+    "text_length_avg": 691.74,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34670,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33661.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33661.txt",
+    "relative_path": "33661.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33661.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34670,
+    "mtime": 1782796552.5887897,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d973739f829f8be55802b964599728bd5624dff4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

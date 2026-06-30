@@ -1,0 +1,91 @@
+{
+  "dataset": "17616.txt",
+  "file_name": "17616.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नुर-उन-निसा इनायत खान भारतीय मूलको ब्रिटिश गुप्तचर थिइन्, जिनले द्वितीय विश्वयुद्ध को दौरान मित्र देशहरू को लागि जासूसी गरिन् । ब्रिटेनको स्पेशल अपरेशन्स एक्जीक्यूटिवको रूपमा प्रशिक्षित नुर द्वितीय विश्वयुद्धको दौरान फ्रान्स को नाजी अधिकार क्षेत्रमा जाने पहिलो महिला वायरलेस अपरेटर थिइन् । जर्मनी द्वारा गिरफ्तार गरि यातना दिने र गोली मारी उनको हत्या गर्नु भन्दा पहिले द्वितीय विश्वयुद्धको दौरान उनी फ्रान्समा एक गुप्त अभियानको अन्तर्गत नर्सको काम गर्थिन । फ्रान्समा उनको यस कार्यकाल तथा त्यसपछि आगाम"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 997,
+    "text_length_max": 997,
+    "text_length_avg": 997.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2659,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17616.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17616.txt",
+    "relative_path": "17616.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17616.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2659,
+    "mtime": 1782796478.24945,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4f9c0baf3dba2f4fc5eedad902032c02ef2b848d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

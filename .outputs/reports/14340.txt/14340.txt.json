@@ -1,0 +1,92 @@
+{
+  "dataset": "14340.txt",
+  "file_name": "14340.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाहाँ चःह्रेको दिन काठमाडौंका विभिन्न टोलहरूमा सानासाना नानीहरूलाई खुवाउने खाना |",
+    "मलजा काठमाडौंका विभिन्न टोलहरूमा सानासाना केटाकेटीहरूलाई लाईनमा राखी र परीमा भात, गेडागुडी, तरकारी, हरियो सागपात मिठाइ, फलफूल, दही मसला राखी भोज जस्तो गरी खुवाउने मल जा नकेगु यानी हो । मल जा खुवाउने स्थानमा पान, मसला, चकलेट पैसा दुध आदि दिनको लागि थुप्रै मानिसहरू आउने गर्छन् । मल जा खुवाउने भनेको सामाजिक कार्य र उपकारको काम पनि हो । मल जा खुवाउनको लागि आ-आफ्नो टोलमा क्षेत्रमा गुठीहरू हुन्छन् । यी गुठीहरूले नै आ-आफ्नो टोलमा मल जा खुवाउने व्यवस्था गरेको हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 463,
+    "text_length_avg": 272.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1436,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14340.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14340.txt",
+    "relative_path": "14340.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14340.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1436,
+    "mtime": 1782796462.598869,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f04af772fcbbe6f53a1c05041583992496f88612",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

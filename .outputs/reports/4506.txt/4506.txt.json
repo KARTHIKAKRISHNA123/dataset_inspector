@@ -1,0 +1,92 @@
+{
+  "dataset": "4506.txt",
+  "file_name": "4506.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिम्तासुर्खेत जिल्लाको पुर्वि क्षेत्रका आठ वटा गा.वि.स.को क्षेत्र जस्लाई सिम्ता क्षेत्र भनिन्छ जुन पुरानो दैलेख जिल्लाको एक हिस्सा हो । जुन क्षेत्र लाई सिङगारु नाचको उदगम ठाऊँ भनिन्छ।",
+    "यस क्षेत्रमा कोणधारी बिरुवा सल्ला बढी भएकाले सल्लाको फल जसलाई \"सिम्टा\" भनिन्छ त्यसकारण सिम्टा हुने ठाँऊ भन्दै जादाँ सिम्ता नाम रहन गएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 304,
+    "text_length_avg": 208.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1635,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4506.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4506.txt",
+    "relative_path": "4506.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4506.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1635,
+    "mtime": 1782796580.0288472,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "9dfe14668f25a2536fdf8e2abd7d3601851a7f1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "771.txt",
+  "file_name": "771.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विज्ञानमा खुला तथ्यांकको लागि सिधान्तहरु",
+    "बिज्ञान पुनप्रयोग र खुला आलोचना प्रकाशित बैज्ञानिक ज्ञानको शरीर विकाशमा आधारित गरिन्छ ।विज्ञानलागि राम्ररी कार्य गर्न, र वैज्ञानिक प्रयत्नहरूबाट समाजकोलागि पूर्ण फाइदाहरु प्राप्तगर्न, विज्ञान तथ्यांकलाई खुला गर्नु अपरिहार्य हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 381,
+    "text_length_avg": 157.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8030,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "771.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\771.txt",
+    "relative_path": "771.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "771.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8030,
+    "mtime": 1782796595.7373185,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ab75b3796bc14d785b71f5930b884f39265ea7a8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

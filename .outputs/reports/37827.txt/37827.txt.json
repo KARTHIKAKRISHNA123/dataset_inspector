@@ -1,0 +1,92 @@
+{
+  "dataset": "37827.txt",
+  "file_name": "37827.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "अक्षौहिणी शव्दको प्रयोगद्वारा प्राचीन भारतमा सेनाको सङ्ख्या नापिन्थ्यो। यो संस्कृतको शब्द हो। विभिन्न स्रोतहरू अनुसार यसको सङ्ख्यामा केही केही अन्तर मिल्दछन्। महाभारतका अनुसार यसमा 21,870 रथ, 21,870 हात्ती, 65, 610 घोडसवार एवं 1,09,350 पैदल सैनिक हुन्थे। यस अनुसार यिनको अनुपात 1 रथ:1 गज:3 घुडसवार:5 पैदल सनिक हुन्थ्यो। यसका प्रत्येक भागको सङ्ख्याका अङ्कहरूको कुल जम्मा 18 आउँछ। एक घोडामा एक सवार बसेको हुनेछ, हातीमा कमभन्दा कम दुइ व्यक्तिहरूको हुनु आवश्यक छ, एक पहलवान र अर्को लड्ने वाला योद्धा, यसै"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 885,
+    "text_length_avg": 200.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3154,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37827.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37827.txt",
+    "relative_path": "37827.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37827.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3154,
+    "mtime": 1782796572.4509687,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "81b6a1cd74a393e203fdd7ee4806168510963600",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

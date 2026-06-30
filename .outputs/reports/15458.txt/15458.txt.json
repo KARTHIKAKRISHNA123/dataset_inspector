@@ -1,0 +1,92 @@
+{
+  "dataset": "15458.txt",
+  "file_name": "15458.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बीर बिक्रम छ मिलान चाम्स द्वारा निर्देशित एक 2016 मनोरम र कमेडी फिल्म हो। यो चलचित्र नेपाली अभिनेता दयाहंग राई, अनुप बिक्रम शाही, दीया पुन, अर्पण थापा, र नजिर हुस्सैन नेतृत्व भूमिकाको मा विशेषताहरु.",
+    "यो चलचित्र तिनीहरूले जवान थिए तर तिनीहरूले साना थिए जब थियो आफ्नो सपना मिलेर पूरा गर्दा विभाजित प्राप्त गर्ने राम्रो मित्र बारेमा कथा छ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 461,
+    "text_length_avg": 206.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8618,
+    "estimated_records": 41
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 41,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15458.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15458.txt",
+    "relative_path": "15458.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15458.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8618,
+    "mtime": 1782796467.6709733,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6c4c5e97e3a8ee4dbaecc13e65b2c35f669044e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36869.txt",
+  "file_name": "36869.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै पनि देशको शैक्षिक प्रशासन धेरै जसो उनको राष्ट्रिय हितहरूका अनुरूप सुनिर्देशित प्रयोजनहरूबाट संबद्ध हुँदछ। ब्रिटिश शासन कालमा भारतको शैक्षिक नीति एवं प्रशासन विदेशी सत्ता द्वारा सञ्चालित हुँनेका कारण राष्ट्रिय परंपराहरू संस्कृति तथा देशवासीहरूको आवश्यकताहरूका अनुकूल न थियो",
+    "भारत सरकारको शैक्षिक प्रशासन 1919का अधिनियम बाट पूर्व पूर्णत: केद्रीकृत थियो। यस अधिनियम बाट आंशिक प्रादेशिक स्वायता प्रदान गरियो र तदुपरांत शिक्षा प्रादेशिक मंत्रालयहरूका अधिन एक अंतरित विषय बन्यो। समुचित समन्वयका अभावमा वित्तिय कठिनाइयहरूसहित नैं यसबाट प्रादेशिकताको भावना जाग्रत भए। महत्वपूर्ण विषयहरूमा सल्लाह दिनको लागि एक केन्द्रिय शिक्षा सलाहकार मंडलको स्थापना 1921मा गरियो,मा दुइ वर्ष उपरांत इबाट भंग गरेर दिइएको। तर 1935मा यसको पुन: स्थापना भए। भारतिय शैक्षिकबाट वामा भर्ति 1896मा प्रारंभ गर"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 210,
+    "text_length_max": 1283,
+    "text_length_avg": 455.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9879,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36869.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36869.txt",
+    "relative_path": "36869.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36869.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9879,
+    "mtime": 1782796567.4954963,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5238d8556c50999e2f159cf07f7f029ac58825fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "7375.txt",
+  "file_name": "7375.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एन्थनी पान्नेकुक - डच सामाजिक-जनवादी। सन् 1918-1921 ताका हल्याण्ड कम्युनिष्ट पार्टीमा सामेल भएर उनले कम्युनिष्ट इन्टरनेसनलको क्रियाकलापमा भाग लिए। उनी उग्र वामपन्थी संकीर्णतावादी स्थिति अपनाउन पुगेका थिए। सन् 1921मा पान्नेकुक कम्युनिष्ट पार्टीबाट निस्किए र छिट्टै नै सक्रिय राजनीतिक क्रियाकलापमा पनि त्याग गरे। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 311,
+    "text_length_max": 311,
+    "text_length_avg": 311.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 820,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7375.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7375.txt",
+    "relative_path": "7375.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7375.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 820,
+    "mtime": 1782796594.172877,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "98d5cb21382305f374ccf5f87f9157f8340d69c7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

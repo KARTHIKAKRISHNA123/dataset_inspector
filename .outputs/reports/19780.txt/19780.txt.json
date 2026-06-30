@@ -1,0 +1,92 @@
+{
+  "dataset": "19780.txt",
+  "file_name": "19780.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू पञ्चाङ्गको एघारौं तिथिलाई एकादशी भनिन्छ । यो तिथि महिनामा दुई पल्ट आउँछ। पूर्णिमापछि र औंसी पछि। पूर्णिमापछि आउने एकादशीलाई कृष्ण पक्षको एकादशी र अमावस्यापछि आउने एकादशीलाई शुक्ल पक्षको एकादशी भनिन्छ । यी दुवै प्रकारका एकादशीहरूको हिन्दू सनातन संप्रदायमा धेरै महत्व छ । माघ महिनाको शुक्ल पक्षमा पर्ने एकादशीलाई जया एकादशी भनिन्छ ।",
+    "जया एकादशीका विषयमा जुन कथा प्रचलित छ, त्यस बमोजिम धर्मराज युधिष्ठिरले भगवान श्रीकृष्ण सित निवेदन गर्दछन् । माघ शुक्ल एकादशीका दिन कसको पूजा गर्नुपर्छ ? र यस एकादशीको के महत्त्व के छ ? श्री कृष्ण आज्ञा गर्नुहुन्छ । माघ शुक्ल पक्षको एकादशीलाई जया एकादशी भन्दछन् । यो एकादशी अति नै पुण्यदायी छ, यस एकादशीको व्रत गर्नाले व्यक्ति नीच योनि जस्तै भूत, प्रेत, पिशाचको योनिबाट मुक्त हुनपुग्छ । श्रीकृष्णले यस सन्दर्भमा एउटा कथा पनि युधिष्ठिरलाई सुनाउनुभयो ।नंदन वनमा उत्सव चल्दै थियो । त्यस उत्सवमा सबै देवता"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 337,
+    "text_length_max": 2622,
+    "text_length_avg": 1479.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7873,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19780.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19780.txt",
+    "relative_path": "19780.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19780.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7873,
+    "mtime": 1782796488.5974386,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e54439761ac6b1fd460024cd9b1fde7d32c9218b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

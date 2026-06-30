@@ -1,0 +1,94 @@
+{
+  "dataset": "9784.txt",
+  "file_name": "9784.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल एक भूपरिवेष्ठित राष्ट्र भएकोले जलयातायातका फाइदाहरूवाट वञ्चित मात्र नभइ उच्च हिमाल, पहाड जस्ता जटिल भू बनौटले सडक यातायात समेत अपेक्षित रूपमा विकास हुन नसकी यस वाट समेत जनताहरू लाभान्वित हुन सकिरहेका छैनन्।सुगम यातायातबाट बञ्चित क्षेत्रका जनताका लागि न्यूनतम आधारभूत आवश्यकताहरू खाद्यान्न, ओषधि ओसार पसार गर्न र आवागमनको निम्ति हवाई यातायातको आफै‍मा बढी महत्व रहन गएको छ। एक स्थानबाट अर्को स्थानमा छिटो पहुच हुने, खोज तथा उद्धार, दैवी विपत्ती एव‍ व्यापारिक प्रयोजनका साथै यात्राहरूको श्रङ्खलामा",
+    "विश्व इतिहासमा सन् 1903 देखि शुरु भएको हवाई यातायातको एक शताव्दी भन्दा लामो इतिहासमा आजको अवस्थामा आइपुग्दा यस क्षेत्रको अधिकतम विकास भएको मान्न सकिन्छ। सन् 1948मा Beach Banaya नामक वायुयानलाई बेलायती नागिरक H. Wedlerले काठमाडौं‍को गौचरणमा सफलतापूर्वक अवतरण गरेको नै नेपालको सन्दर्भमा हवाईयातायातको शुरुवात भएको पाइन्छ। त्यस पछि सन् 1949मा पहिलो पटक काठमाडौं‍ गौचरणमा डकोटा-3 वायुयान अवतरण, वि. स‍. 2007मा भारतको पटना बाट ईण्डियन नेशनल एयसवेजले पहिलो वाणिज्य उडान, सन् 1954मा गौचर विमानस्थल पक्की, सन"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 946,
+    "text_length_avg": 292.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9916,
+      "Latin": 0.0084
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6891,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9916,
+      "Latin": 0.0084
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9784.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9784.txt",
+    "relative_path": "9784.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9784.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6891,
+    "mtime": 1782796605.68511,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "44cd1ef2757cae932ccb90e45bd63f50509d974c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

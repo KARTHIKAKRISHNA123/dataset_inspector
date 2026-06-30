@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32473.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोदारी नेपाल-चीन सीमामा रहेको तिब्बतसंग मिलेको एक गाउँ हो । कोदारी बागमती अञ्चलको सिन्धुपालचोकमा अवस्थित छ । यसको अर्को तरफ झाङ्गमु गाउँ छ जो तिब्बतमा रहेको छ ।",
+    "कोदारी 2,515 मीटर को उचाइ मा अवस्थित छ । कोदारी काठमाडौंबाट 114 किलोमिटर टाढा छ । यसको उचाई 1,317 मीटर देखि 2,300 मीटर सम्म छ । कुनै एक स्पष्ट दिनमा, खासा देखि न्यालम सम्म हिमालयन चेन सडकको दुवै पक्षमा देखिन्छन् । यो 33 किलोमिटर को दूरी उचाई 2,300 मीटर देखि 3,750 मिटर सम्म छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 277,
+    "text_length_avg": 120.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1534,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32473.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32473.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32473.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1534,
+    "mtime": 1782796651.078431,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "06f7c6e0c116d493fdb0ff39787d68f87bc1b9df",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20657.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पकटेल पाकिस्तानको अग्रगामी सेलुलर परिचालक थियो । केबल एण्ड वायरलेसद्वारा स्थापित, सेलुलर फोन सेवाहरू दिनको लागी इजाजतपत्र दिइएको यो पहिलो कम्पनी थियो । यसले कम्पनीमा 2004 सम्म एमपिएस सेवाहरू सञ्चालन गर्यो र यसले जिएसएम प्रबिधि पनि सुरू गरेको थियो ।",
+    "पकटेलले त्यसबेलाको मोबाइल टेलिफोन सेवा प्रदान गर्ने एकमात्र दूरसञ्चार कम्पनी थियो जसले 20 लाख भन्दा बढि प्रयोगकर्ताहरूलाई आफ्नो सेवा दिएको थियो । 2007 का अनुसार, बजार शेयरका हिसाबले पाकटेल पाकिस्तानमा पाँचौ सबैभन्दा ठूलो सेवा प्रदायक हो । चीन मोबाइलद्वारा यसको अधिग्रहण पूरा भएपछि, पाकटेल 1 अप्रिल 2008 मा जोङ पाकिस्तानसँग मिलेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 433,
+    "text_length_avg": 213.13,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8236,
+    "estimated_records": 38
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 38,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20657.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20657.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20657.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8236,
+    "mtime": 1782796627.6673517,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7c46e9975a490fd5c6933c7d3871ddfaa6aeb5c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

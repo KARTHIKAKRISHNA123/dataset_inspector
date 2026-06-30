@@ -1,0 +1,92 @@
+{
+  "dataset": "6726.txt",
+  "file_name": "6726.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको कानुनी इतिहास धर्ममा आधारित भएको पाइन्छ। विभिन्न समयमा तत् तत् समयमा प्रचलनमा रहेका धर्मग्रन्थ संस्कृति, सामाजिक मान्यता, सद्-विवेकको आधारमा त्यसबेलाको न्याय प्रणाली निर्देशित भएको पाइन्छ।",
+    "नेपालको कानुन खासगरी हिन्दू विधिशास्त्रमा आधारित रहेको देखिन्छ यद्यपि नेपालमा हाल कमन लको न्याय प्रणाली विद्यमान रहेको छ"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 507,
+    "text_length_avg": 113.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8293,
+    "estimated_records": 72
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 72,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6726.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6726.txt",
+    "relative_path": "6726.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6726.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8293,
+    "mtime": 1782796591.0763614,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3ce783a91f9d85d6a2ddb743a948b20bc152c0e8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

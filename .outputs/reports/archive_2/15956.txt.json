@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15956.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गूगल क्रोम एक वेब ब्राउजर हो जसलाई गूगल द्वारा मुक्त स्रोत कोड द्वारा निर्मित गरिएको हो । यसको नाम ग्राफिकल यूजर इन्टरफेस को फ्रेम यानि क्रोम मा राखिएको छ । यस प्रकल्पको नाम क्रोमियम हो तथा यसलाई बीएसडी लाइसेन्सको तहत जारी गरिएको छ । 2 सेप्टेम्बर, 2008 मा गूगल क्रोमको 43 भाषाहरू मा माइक्रोसफ्ट विन्डोज प्रचालन तंत्र हेतु बीटा संस्करण जारी गरिएको थियो । यो नयाँ ब्राउजर मुक्त स्रोत लाइनक्स कोड मा आधारित हुनेछ, जसमा तृतीय पार्टी विकासकर्तालाई पनि उसको अनुकूल अनुप्रयोग बनाउनका सुविधा मिल्न सक्छ ।",
+    "गूगलले हालैमात्र क्रोम ब्राउजरको तेस्रो संस्करणको बीटा भर्जन रिलीज गरेको छ । यस क्रोममा एक्सटेन्शन सपोर्ट पहिल्यैदेखि नै सुचारू भएको हुन्छ । यस संस्करणमा थीमिङ्ग सुविधाहरू पनि सम्मिलित हुन्छ, तर यसको लागि कस्टमाइज एण्ड कन्ट्रोलमा अप्सन्समा पर्सनल स्टफमा जानु पर्दछ । दायाँ दिइएको चित्रमा हेर्नुस् जसमा थीम्स भएको अनुभागमा गेट थीम्स नामक बटन मिल्छ जसले गूगलको थीम ग्यालरीमा लैजाने काम गर्दछ । यसलाई क्लिक गर्दा तल भएको चित्र जस्तै पृष्ठ खोलिन्छ, जहाँबाट थीम छान्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 471,
+    "text_length_max": 496,
+    "text_length_avg": 483.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2559,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15956.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15956.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15956.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2559,
+    "mtime": 1782796618.4360867,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "494707d6b64b1bc22bfc326711b2cc815995f6b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

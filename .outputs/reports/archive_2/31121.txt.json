@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31121.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आयोजना भनेको अस्थायी तथा विशेष कार्य हो, जसको अवधि कार्य पुरा नभएसम्मको लागी हुने गर्दछ र सामान्यतया कार्य पुरा भए पश्चात आयोजना पनि समाप्त हुने गर्दछ । ",
+    "अमेरिकाको आयोजना व्यवस्थापन संस्थाको परिभाषा अनुसार \"आयोजना भनेकोे विभिन्न सीप र साधनको प्रतिबद्धता सहित निश्चित समय र लक्ष्य तोकिएको एकपटक सञ्चालन हुने प्रमुख कार्य हो । यो मानवीय तथा गैर मानवीय श्रोतको संयोजनमा पूर्व निश्चित लक्ष्य प्राप्त गर्ने एउटा अस्थायी सङ्गठन हो ।\""
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 273,
+    "text_length_avg": 213.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1136,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31121.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31121.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31121.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1136,
+    "mtime": 1782796648.3485942,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e1b97f3248028fac181c115b025cd6a0a8226925",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

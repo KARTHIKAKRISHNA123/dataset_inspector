@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5099.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रतुवा नदी दमक नगरपालिकाको पूर्वी भाग हुँदै मावा नदीमा मिसिने यस नदीको उपजलाधार 12,422 हेक्टर रहेको छ। भू-क्षयको दृष्टिले उपजलाधार क्षेत्र मध्ये जिल्लाको तेस्रो स्थानमा रहेकोले यस रतुवा नदीमा वर्षायाममा आउने बाढीबाट दमक नगरपालिका, लखनपुर, कोहवरा गाविसको आवादी जग्गा र बसोबास क्षेत्रलाई हरेक वर्ष क्षति पुर्‍याई रहेको छ। सिंचाईको सुविधाबाट वञ्चित यस भेगमा रतुवा नदीको वर्षाको पानीलाई उपयोग गर्न सकेमा भरमगदुर फाइदा लिन सकिन्छ। रतुवा नदी र मावा नदीलाई दमक नगरपालिका र लखनपुर, कोहवरा गाविसको दुःख पनि भनि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 504,
+    "text_length_max": 504,
+    "text_length_avg": 504.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1339,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5099.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5099.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5099.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1339,
+    "mtime": 1782796665.8338957,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "6593d41291c46a3a8ab479a9314e77b0baf4569c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

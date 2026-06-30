@@ -1,0 +1,94 @@
+{
+  "dataset": "27610.txt",
+  "file_name": "27610.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिमी चंपारण भारतको बिहार राज्यमा एक प्रशासनिक जिल्ला हो। यो तिरहुत डिवीजनको एक हिस्सा हो। जिल्ला मुख्यालय बेतियामा स्थित छ।",
+    "यो नेपालको साथ झरझरा सीमा, को रूपमाको रूपमा अच्छी तरह से अपराध र तस्करीको उच्च स्तर है कि इस को साथ के लिए जानिन्छ। यो गांजा र भारत र नेपालको बीच यात्रा हथियारको लागी मुख्य पारगमन बिंदु था, लेकिन बिहारमा नई सरकार र क्षेत्रमा अपहरण र तस्करीमा एक महत्वपूर्ण कमी को लागी नेतृत्व गरेको छ। यो वर्तमानमा रेड करिडोरको एक हिस्सा हो। "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 1650,
+    "text_length_avg": 376.95,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9165,
+      "Latin": 0.0835
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17463,
+    "estimated_records": 46
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 46,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.895,
+      "Latin": 0.105
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27610.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27610.txt",
+    "relative_path": "27610.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27610.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17463,
+    "mtime": 1782796524.424954,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.999,
+    "sha1_quick": "66a1abc3607c64df06c9c69f0286c2147cddf4c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

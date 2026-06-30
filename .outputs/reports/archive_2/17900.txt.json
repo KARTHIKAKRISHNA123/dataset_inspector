@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17900.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बृहस्पतिको पद भनेको देवगुरु हो । ऋग्वेदमा बृहस्पतिलाई सुन्दर तथा सुविधा सम्पन्न सुनको महलमा निवास गर्ने भनिएको छ । उनको क्षेत्रलाई प्रभास भनिन्छ । महाभारतमा बृहस्पतिलाई महर्षि अंगिराका पुत्र भनिएको छ । गुरु बृहस्पतिको रचनालाई बार्हस्पत्य अर्थशास्त्र भनिन्छ । काणेले बार्हस्पत्य अर्थशास्त्रको रचना काल वि.पू. 300 देखि 500 वि.पू.अनुमान गरेका छन् । तर हाल यो ग्रन्थ प्राप्त छैन बृहस्पति अर्थसूत्र नामको एक सानो संकलन पाइन्छ । यसका सम्पादक र संकलक एफ डब्लु थोमसले छैठौं वा सातौं शताब्दीको ग्रन्थ हुनपर्ने",
+    "उपलब्ध बृहस्पति सूत्रमा प्रारम्भमा नै स्पष्ट रुपमा के लेखिएको छ– बृहस्पतिरथाचार्य इन्द्राय नीतिसर्वस्वमुपदिशति ।।"
+  ],
+  "statistics": {
+    "records_sampled": 25,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 1343,
+    "text_length_avg": 159.96,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10696,
+    "estimated_records": 66
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 66,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17900.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17900.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17900.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10696,
+    "mtime": 1782796622.2035272,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "eaabfb8b42e18a0a48bc32d85d735e512bec312b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

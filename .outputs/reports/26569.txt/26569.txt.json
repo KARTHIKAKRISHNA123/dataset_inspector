@@ -1,0 +1,92 @@
+{
+  "dataset": "26569.txt",
+  "file_name": "26569.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिसाको लेनिङ टावर इटालीको पिसामा अवस्थित तथा विश्वका सात आश्चर्यहरूको सूचीमा परेको टावर हो । इटलीमा पिसाको लेनिङ टावरलाई वास्तुशिल्पको अदभुत नमूना मान्ने गरिन्छ । आफ्नो निर्माण पश्चात यो टावर लगातार तल तिर ढल्किदै गएको छ जसको काराण यसलाई विश्व भरमा प्रसिद्ध गरेको छ । यसै कारण यो खतरा पनि बन्दै गएको थियो की यो टावर एक दिन झर्छ की । ",
+    "पछिल्लो दस बर्ष देखि एउटा विशेष परियोजाना आयोजना गरिएको छ जसको उद्देश्य यस टावरलाई स्थायित्व दिनु हो । यसै परियोजनाको परिणामस्वरूप टावरको उत्तर तर्फ रहेको जमीनबाट 70 टन माटो खनियो जसले गर्दा यस टावरलाई सिधा गर्न सकियोस । जब यो काम पुरा भयो त्यति खेर हेर्दा यो टावर लगातार सीधा रहेको देखिन्छ । सात बर्ष पछी अब यो टावर 48 सेंटीमीटर सीधा भएको छ । इन्जिनियरको भनाई अनुसार पहिलो चोटी यो टावर अब पूर्ण रुपले स्थिर रहेको छ । वास्तुशिल्पको यो अनौठौ नमूना जब 20औ शताब्दिमा निर्माण कार्य हुँदै थियो त्यति खेर न"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 877,
+    "text_length_avg": 87.8,
+    "duplicate_estimate": 16,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4641,
+    "estimated_records": 52
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 52,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26569.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26569.txt",
+    "relative_path": "26569.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26569.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4641,
+    "mtime": 1782796519.7119503,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "802c9d30734072ec7efa08f6d794c79cee21ee66",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

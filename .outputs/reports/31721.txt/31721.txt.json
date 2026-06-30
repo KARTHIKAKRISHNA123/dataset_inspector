@@ -1,0 +1,92 @@
+{
+  "dataset": "31721.txt",
+  "file_name": "31721.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2072 नेपाल नाकाबन्दी विसं 2072 आश्विन 06 गतेबाट शुरु भएको थियो । यसले नेपालको जनजीबन तथा अर्थतन्त्रमा ठुलो असर पारेको छ । नेपालको सरकारले यसलाई भारतले अघोषित रूपमा लगाएको नाकाबन्दी भनेर उल्लेख गरेता पनि भारतले यस कुरालाई स्वीकार गरेको छैन ।",
+    "नेपालको तराइ क्षेत्रमा संबिधान घोषणाको दिन नजिकिदै गर्दा तनाब र हिम्सात्मक गतिबिधीहरु बढ्दै गएका थिए । बिशेष गरी सिमान्कन का बिषयमा प्रमुख दलहरु र तराइकेन्द्रित दलहरुको बिबाद बढ्दै गैरहेको थियो । यही बिबादका माझ 2072/06/03 संबिधानसभाबाट संबिधान जारी भयो । संबिधान जारी हुने बेलामा भारतबाट बिशेष दुत पठाएर आफ्नो चासो र चिन्ता ब्यक्त गर्ने काम भयो । तराइको सीमामा सुरक्षाको कारण देखाएर मालबाहक साधनहरु बिशेष गरी पेट्रोलियम पदार्थ बोकेका गाडीहरुलाई जाचपासमा कडाइ गर्ने काम सुरु भयो । यसरी नेपालमाथि भारत"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 532,
+    "text_length_avg": 280.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4462,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31721.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31721.txt",
+    "relative_path": "31721.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31721.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4462,
+    "mtime": 1782796543.9004118,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "35902613f53e2cf6dd360f212d17732dc76aa5bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "15066.txt",
+  "file_name": "15066.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फिजी /ˈfiːdʒiː/, आधिकारिक नाम गणतन्त्र फिजी प्रशान्त महासागरको दक्षिणमा अवस्थित टापू राष्ट्र हो ।",
+    "फिजी द्वीपको मुख्य द्वीप विती लेवुको नाम बाट जानिन्छ र यही नामको उच्चारण यसको छिमेकी द्वीप टोंगाको निवासी \" फिसी \"को रूपमा गर्थे जसको कारण यसको नाम फिजी रहेको हो। यूरोपियहरूलाई फिजीवासीहरूको बारेमा सर्वप्रथम कैप्टन कुकको महासागरिय अभियानको बेलामा उनको दलको सदस्य रहेको लेखकहरूको लेखहरू द्वारा जानकारी भयो । यो लेखक फिजीवासीहरूसित पहिला पहिला टोंगा द्वीपमा भेटेको थिए। यस लेखहरूमा फिजीको मूल निवासीहरूको दुर्जेय योद्धा र क्रूर आदमखोरहरूको रूपमा वर्णित गरिएको थियो साथै उनिहरूलाई प्रशांत क्षेत्रमा श्रे"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 97,
+    "text_length_max": 726,
+    "text_length_avg": 411.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9942,
+      "Latin": 0.0058
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2192,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9942,
+      "Latin": 0.0058
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15066.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15066.txt",
+    "relative_path": "15066.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15066.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2192,
+    "mtime": 1782796465.8595502,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.976,
+    "sha1_quick": "cec5b9d6781872ac4272c239df145124a9fde6f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

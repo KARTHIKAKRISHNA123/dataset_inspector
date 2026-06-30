@@ -1,0 +1,96 @@
+{
+  "dataset": "6945.txt",
+  "file_name": "6945.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल दक्षिण एसियाको मध्य हिमालयमा पर्ने देश हो। यो देशको भौगर्भिक बनावट अन्य सामान्य मुलुकहरूको भन्दा अलग किसिमको छ।नेपालको भौगर्भिक बनोट जान्नु अघि हिमालयको उत्पत्तिको बारेमा जान्नु आवश्यक हुन्छ।हिमालयको उत्पत्ति मोड अर्थात् Fold बाट भएको मानिन्छ। यो सिद्धान्त प्लेट टेक्टोनिक Plate Tectonic Theory सिद्धान्तमा आधारित भएको भूगर्भविदहरूले पुष्टि गरिसकेका छन्।नेपालको भौगर्भिक बनावट नेपालको भौगर्भिक बनोटबारे चर्चा गर्नुअघि सिङ्गो हिमालय क्षेत्रको भौगर्भिक बनोटको बारेमा वर्णन गर्न आवश्यक छ। किनभने ह",
+    "आजभन्दा करिब चार करोड पचास लाख वर्ष पहिले युरेशियन प्लेट र भारतीय प्लेट एक आपसमा ठक्कर खाई हिमालयको जन्म भएको थियो। यी दुवै प्लेटहरूबीच रहेको तेथीस महासागर हिमालय बन्ने क्रममा विलय भएको थियो। दक्षिणतिर अवस्थित भारतीय प्लेट उत्तरतिर गतिशील भई एशियन प्लेटसँग ठक्कर खाएपश्चात भारतीय प्लेट एशियन प्लेटभित्र घुस्न वा छिर्न शुरू भयो। यो काम आज पनि 2 सेन्टिमीटर प्रतिवर्षको दरले उत्तरतिर सर्ने र छिर्ने प्रक्रिया यथावत छ। भारतीय प्लेट एशियन प्लेटभित्र छिर्न थालेपछि भारतीय प्लेटको भूपटल मा ठूला–ठूला दरारहरू"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 1864,
+    "text_length_avg": 429.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8316,
+      "Latin": 0.1684
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9162,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8316,
+      "Latin": 0.1684
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6945.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6945.txt",
+    "relative_path": "6945.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6945.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9162,
+    "mtime": 1782796592.1889439,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6d40168f3a658d2a60964cedede219ed628fe754",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

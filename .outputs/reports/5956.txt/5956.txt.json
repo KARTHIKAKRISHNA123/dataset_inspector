@@ -1,0 +1,92 @@
+{
+  "dataset": "5956.txt",
+  "file_name": "5956.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "753 इ.पू मा नगरराज्यका रूपमा रोमको स्थापना भएको विश्वास गरिन्छ।रोमस र रोम्बुलस नामका दुई भाइले टावर नदीको किनारमा रोम नगरको स्थापना गरेको थिए भन्ने लोककथा प्रचलित भएको पाइन्छ।पुरातात्त्विक स्रोतका आधारमा करिब 750 इ.पू मा युट्रस्कन जातिहरूले रोम राजतन्त्रको स्थापना गरेको कुरा प्रमाणित भएको छ।",
+    "509 इ.पू मा गणतन्त्रको स्थापना भए पनि रोममा शान्ति र प्रगति हुन सकेन।युट्रस्कनहरूको शासनकाल देखि नै रोमका दुई जाति पेट्रिसियन र प्लेवियनका बिच एक अर्काप्रति घृणाको भावना बढिरहेको थियो।गणतन्त्रको स्थापना पछि झन् यसले उग्र रूप लिएको थियो।पेट्रिसियनहरू कुलीन थिए।यिनीहरूलाई सबै किसिमको राजनीतिक अधिकार प्राप्त थिए।प्लेवियनहरू गरिब थिए।यिनीहरूको मुख्य व्यवसाय कृषि थियो।पछि यी दुई जातिको एकता भयो र रोमन साम्राज्यको विस्तार गर्ने अनुकूल वातावरण तयार भयो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 450,
+    "text_length_avg": 293.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3187,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5956.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5956.txt",
+    "relative_path": "5956.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5956.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3187,
+    "mtime": 1782796587.4406905,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "600cf38dec16bc599dcf8b878d64fa72e32c2930",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

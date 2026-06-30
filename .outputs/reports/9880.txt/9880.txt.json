@@ -1,0 +1,92 @@
+{
+  "dataset": "9880.txt",
+  "file_name": "9880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोएचिम लो पूर्व फुटबल खेलाडी र जर्मनी राष्ट्रिय फुटबल टिमका तत्कालिन प्रशिक्षक पनि हुन् । सन् 2014 मा जर्मनीलाई ऐतिहाँसिक विश्वकप जिताउने लो ड्युचल्याण्ड फुटबल बन्डका विश्वासिला सावित भइरहेका छन् ।",
+    "सन् 1978 मा लो ले एससी फ्रेइबर्गबाट खेल जीवन सुरू गरे । उनी सो क्लबका सर्वाधिक गोलकर्ता पनि हुन् । सन् 1980 मा लो ले भी एफ बी स्टुटगार्ट जाने निधो गरे तर आफुलाई त्यहाँ स्थापित गर्न उनलाई धेरै गार्हो भयो । उनले लगत्तै सन् 1981–82 को सिजनमा क्लब परिवर्तन गरे र इन्ट्राच्ट फ्रान्कफर्ट तिर हानिए जहाँ 24 खेल खेल्दै 5 गोल गरे । अर्को सिजन उनी फ्रेइबर्ग फर्किहाले । सन् 1982–83 मा उनले 34 खेल खेल्दै 8 गोल गरे भने, सन् 1983-84 मा त गोल मेसिन नै सावित हुँदै 31 खेलमा 17 गोल गरे । कार्लस्रुहर एससी मा उनको आग"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 655,
+    "text_length_avg": 265.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5470,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9880.txt",
+    "relative_path": "9880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9880.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5470,
+    "mtime": 1782796606.1059604,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b95094362188fdf23327aeb658f9390dda64196b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

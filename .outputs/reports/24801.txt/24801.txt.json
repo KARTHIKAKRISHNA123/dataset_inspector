@@ -1,0 +1,92 @@
+{
+  "dataset": "24801.txt",
+  "file_name": "24801.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लगानीको लागि वास्तविक सम्पत्तिहरू र वित्तीय सम्पतीहरु गरि दूई प्रकारका सम्पत्तिहरु उपलब्ध हुन्छन । भौतिक स्वरूप भएका र देख्न सकिने सम्पत्तिहरु जस्तै : घरजग्गा, भवन, मेसिनरी उपकरण आदिलाई वास्तविक सम्पत्ति भनिन्छ । वास्तविक सम्पत्तिमाथिको अधिकार प्रतिनिधित्व गर्ने र स-साना अंशमा विभाजन गर्न सकिने सम्पत्तिहरु जस्तै शेयर, ऋणपत्र, ट्रेजरी बिल आदिलाई वित्तीय सम्पत्ति भनिन्छ । शेयर, ऋणपत्र जस्ता वित्तीय सम्पतीहरुलाई नै प्रतिभूति भनिन्छ । ",
+    "प्रतिभूतिहरुको विशेषताले कारणले प्रतिभूतिलाई लगानीको सरल र आकर्षक विकल्प मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 435,
+    "text_length_avg": 179.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1450,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24801.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24801.txt",
+    "relative_path": "24801.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24801.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1450,
+    "mtime": 1782796511.4177375,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "99a24103e7ac09c620425c00c64a6b2c79b3732c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

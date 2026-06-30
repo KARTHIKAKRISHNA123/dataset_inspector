@@ -1,0 +1,94 @@
+{
+  "dataset": "28796.txt",
+  "file_name": "28796.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मीरपुर खास (सिन्धी र उर्दू: میرپور خاص पाकिस्तानको सिन्ध प्रदेशमा रहेको मीरपुर जिल्लाको राजधानी शहर हो । मीरपुर खास सिन्ध प्रदेशको चौथो सबैभन्दा ठूलो शहर हो जसको सन् 2009 मा अनुमानित जनसङ्ख्या 48,859,09 रहेको छ । मीरपुर खास अाँप खेती को लागि प्रख्यात छ जसमा वर्षको सयौं प्रकारका अाँपहरू उत्पादन हुन्छन् । सन् 1955 देखि यस शहरमा एक परम्परागत अाँप पर्व मनाइदै अाएको छ । ",
+    "मीरपुर खास शहर वाह नगरमा 25°31' उत्तर र 69°00' पुर्वमा सिन्ध प्रदेशको पुर्वी भागमा अवस्थित छ । यो शहर हैदराबाद शहरबाट 65 किलोमिटर पुर्वमा रहेको छ जहाँबाट दुवै सडकहरू जोडिएका छन् । यो शहर कराचीबाट 220 किलोमिटर दक्षिण-पश्चिममा रहेको छ भने नजिकको भारतीय सिमाना शहरबाट 170 किलोमिटरको दुरीमा पर्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 509,
+    "text_length_avg": 347.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Arabic": 0.0046
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6322,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Arabic": 0.0046
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28796.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28796.txt",
+    "relative_path": "28796.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28796.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6322,
+    "mtime": 1782796529.873461,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d99501ebe063b9108bf9a4f7c2a230ee42b8da82",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

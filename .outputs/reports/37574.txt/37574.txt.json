@@ -1,0 +1,91 @@
+{
+  "dataset": "37574.txt",
+  "file_name": "37574.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शशांक कोईराला नेपाली कांग्रेसका महामन्त्री हुन्। उनले उक्त पदका लागि 1417 मत ल्याई विजयी भएका थिए। उनी विश्वेश्वर प्रसाद कोइरालाका पुत्र हुन्। उनी एक चर्चित ओप्थ्याल्मोलोजिष्ट हुन्। सन् 2008 को निर्वाचनमा उनले नवलपरासी जिल्लाबाट विजय प्राप्त गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 252,
+    "text_length_max": 252,
+    "text_length_avg": 252.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 669,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37574.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37574.txt",
+    "relative_path": "37574.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37574.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 669,
+    "mtime": 1782796571.061943,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6d0ae0cc6c31283c527ce65d8b9674a480a7f3aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

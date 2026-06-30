@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8821.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमर कल्याण उच्च मा. वि. इलाम जिल्लाको नयाँबजार गाविसमा पर्ने एक माध्यमिक विद्यालय हो। यो विद्यालयको स्थापना 2011 सालमा स्वयंभू सिद्ध पाठशालाको रूपमा भएको थियो।",
+    "बालागुरूले नाङ्गो पहाड नाघी को रूपमा रहेको डाँडामा बस्ती बसाई नयाँबजार नामाकरण गरेपछि प्राथमिक स्कूलको रूपमा यस विद्यालयको स्थापना भएको थियो। पछि निम्न माध्यमिक विद्यालय हुँदै 2040 सालदेखि यो माध्यमिक विद्यालय बनेको हो। 2060 सालदेखि यस विद्यालयले उच्च माध्यमिक शिक्षा परिषद् बाट सम्बन्धन लिई 10+2 कक्षा सञ्चालन गर्न सुरू गरेको हो।यस विद्यालयमा कक्षा 1 देखि 10 सम्म नेपाली तथा अङ्ग्रेजी विषयमा पठन पाठन हुन्छ। हाल मानविकी, शिक्षा शास्त्र, वाणिज्य विषयमा कक्षा 11 र 12 को पनि पढाई हुन्छ। 2059 सालको प्र"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 589,
+    "text_length_avg": 284.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2239,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8821.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8821.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8821.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2239,
+    "mtime": 1782796673.3364456,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5271433bf5c1d06d491843759ca3f6a8277e1a05",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

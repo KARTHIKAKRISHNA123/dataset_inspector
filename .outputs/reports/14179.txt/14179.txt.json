@@ -1,0 +1,92 @@
+{
+  "dataset": "14179.txt",
+  "file_name": "14179.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीता अम्बानी एक भारतीय महिला उद्यमी हुन् । उनी भारतको सबैभन्दा धनि व्यक्ति मुकेश अम्बानीकी पत्नी र रिलायन्स इन्डस्ट्रीजको संस्थापक धीरूभाई अम्बानीकी बुहारी हुन् । नीता अम्बानी धीरूभाई अम्बानी इन्टरनेशनल स्कूलकी संस्थापक र चेयरपर्सन हुन् ।",
+    "उनलाई श्री चन्द्रशेखरेन्द्र सरस्वती विश्व महाविधालय कांचीपुरमबाट डाक्टरेटको उपाधि मिल्यो । यो उपाधि उनलाई शिक्षा, समाज सेवा र मानव प्रेमको लागि मिलेको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 457,
+    "text_length_avg": 242.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3892,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14179.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14179.txt",
+    "relative_path": "14179.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14179.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3892,
+    "mtime": 1782796461.847644,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72c471b00304bcc0b1694aee7b88fb5ef1365df5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

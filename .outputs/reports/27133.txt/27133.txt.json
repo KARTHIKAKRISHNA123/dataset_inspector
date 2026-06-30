@@ -1,0 +1,92 @@
+{
+  "dataset": "27133.txt",
+  "file_name": "27133.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भोजेश्वर मन्दिर  मध्य प्रदेशको राजधानी भोपाल देखि लगभग 30 किलोमिटर दूर स्थित भोजपुर नामक गाउँमा बनाइएको मन्दिर हो । यो मन्दिर बेतवा नदीको किनारमा विन्ध्या दायराको मध्य एक पहाडीमा स्थित छ । मन्दिरको निर्माण एवम् यसको शिवलिङ्गको स्थापना धारको प्रसिद्ध परमार राजा भोज ले गरेका थिए । उनको नाममा नै यसलाई भोजपुर मन्दिर वा भोजेश्वर मन्दिर पनि भनिन्छ, तथापि केहि पौराणिक कथाहरूको अनुसार यस स्थलको मूल मन्दिरको स्थापना पाण्डवहरू द्वारा गरिएको मानिन्छ । यसलाई उत्तर भारतको सोमनाथ पनि भनिन्छ । यहाँको शिलालेखहर",
+    "यस मतको अनुसार माता कुन्तीद्वारा भगवान शिवको पूजा गर्नका लागि पाण्डवहरूले यस मन्दिरको निर्माणको एक रात्रिमा नै पूरा गर्ने संकल्प लिए जुन पूरा हुन सकेन । यस प्रकार यो मन्दिर आज सम्म अधुरो छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 1485,
+    "text_length_avg": 745.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5955,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27133.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27133.txt",
+    "relative_path": "27133.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27133.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5955,
+    "mtime": 1782796522.2750902,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cc53a44e133c53de248f49ce62448a6feadc882b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

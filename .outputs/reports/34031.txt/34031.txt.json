@@ -1,0 +1,94 @@
+{
+  "dataset": "34031.txt",
+  "file_name": "34031.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिल्ला प्रशासन कार्यालय जिल्लाको प्रमुख प्रशासकीय निकाय हो। यस कार्यालयले जनतालाई उपलब्ध गराउने सेवा सुविधालाई प्रभावकारी बनाउने दायित्त्व बोकेको हुन्छ। जिल्ला भित्र रहेका सरकारका विभिन्न निकाय र कार्यालयहरूको बीचमा समन्वय गराउने, नियन्त्रण गर्ने तथा उपलब्ध सेवाको अवस्थाको निगरानी गर्ने जिम्मेवारी पनि यस कार्यालयको हुन्छ। ",
+    "स्थानीय पञ्जिकाधिकारीको काम पनि जिल्ला प्रशासन कार्यालय मार्फत गाविस र नगरपालिकामा प्रत्यायोजित हुन्छ।नागरिकको आधिकारिक विवरणको रेकर्ड राखी नागरिकता प्रमाणपत्र तथा राहदानी वितरण गर्नु जिल्ला प्रशासन कार्यालयको अर्को एक महत्त्वपूर्ण काम हो। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 393,
+    "text_length_avg": 226.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9974,
+      "Latin": 0.0026
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3710,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9974,
+      "Latin": 0.0026
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34031.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34031.txt",
+    "relative_path": "34031.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34031.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3710,
+    "mtime": 1782796554.312114,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f562b057b5a8e8aa8603da316c92a602f183af4a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

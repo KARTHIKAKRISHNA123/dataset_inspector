@@ -1,0 +1,92 @@
+{
+  "dataset": "1388.txt",
+  "file_name": "1388.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केशव स्थापित काठमाडौं महानगरपालिकाका पूर्व नगर-प्रमुख हुन्। 2054 सालको स्थानीय निर्वाचनमा उनी काठमाडौं महानगरपालिकाको मेयरमा निर्वाचित भएका थिए। नेकपा एमालेका तर्फबाट उम्मेदवार बनेका स्थापितले \"मेरो पौरख, मेरो गौरव, मेरो काठमाडौं\" भन्ने नारा ल्याएका थिए। उनी मेयर भएकै बखतमा पशुपति क्षेत्र, माइतीघर, तीनकुने जस्ता ठाउँमा निर्माण भएका अव्यवस्थित घर-टहराहरू भत्काइएका थिए।",
+    "केशव स्थापित राजा ज्ञानेन्द्रको प्रत्यक्ष शासनकालमा पुनः मेयर मनोनित भए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 72,
+    "text_length_max": 370,
+    "text_length_avg": 199.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2113,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1388.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1388.txt",
+    "relative_path": "1388.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1388.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2113,
+    "mtime": 1782796460.5181916,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "af0931bbb4528157fcc21a10fae8fa41c171d158",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

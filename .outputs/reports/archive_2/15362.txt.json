@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15362.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एसके दूरसञ्चार कम्पनी लिमिटेड दक्षिण कोरियाको ताररहित दूरसञ्चार परिचालक हो । यो एसके समूह को एक भाग हो । कम्पनीको मुख्यालय दक्षिण कोरियाको राजधानी सोलमा रहेको छ भने कम्पनीका हालका प्रमुख कार्यकारी अधिकृत जङ हो पार्क हुन् ।",
+    "एसके दूरसञ्चार, दक्षिण कोरियाको सबैभन्दा ठूलो दूरसञ्चार सेवा प्रदायक हो । सन् 2008 को अनुसार यसले स्थानीय बजारको 50.5 प्रतिशत भाग अोगटेको छ । सन् 1984 मा यसको निर्माण पछि, कम्पनी पहिलो पुस्ताको एनालग सेलुलर प्रणालीबाट दोस्रो सिडिएमए विकास गरेको थियोे । त्यसपछि यसले पहिलो तेस्रो पुस्ता आईएमटी-2000 सेलुलर प्रणाली विकास गरेको थियोे । एसके दूरसञ्चार, मे 2006 मा एचएसडिपीडीए को व्यावसायिककरण गर्न पहिलो दूरसञ्चार सेवा प्रदायक बन्यो । एसकेले निश्चित-लाइन परिचालक, हनारो टेलिकमको फेब्रुअरी 2008 मा प्राप्त"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 222,
+    "text_length_max": 856,
+    "text_length_avg": 478.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9941,
+      "Latin": 0.0059
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4956,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9941,
+      "Latin": 0.0059
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15362.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15362.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15362.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4956,
+    "mtime": 1782796617.293296,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "76fdf66ca56c64930214805259fa458666409b59",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

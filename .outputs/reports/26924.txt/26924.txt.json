@@ -1,0 +1,92 @@
+{
+  "dataset": "26924.txt",
+  "file_name": "26924.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दैदवारी गौरीगंगा नगरपालिकावार्ड न:6 मा पर्ने एक गाउँ हो । यहाँ थारू जातिको घना बस्ती छ या भनौ थारू गाउँ नै हो। दैदवारी गाउँ जङ्गलको बीचमा छ। पश्चिममा वनवेहडा गाँउ, पूर्वमा कुचैनी गाउँ र शिवगङ्गा नदी छ भने पश्चिम 5 कि.मी.मा खुटीया नदी पर्दछ। यहाँ साझेदारी बाह्रवनको वैज्ञानिकवन ब्यवस्थापनको मुख्य कार्यालय रहेको छ।",
+    "यहाँका मानिसहरूको मुख्य पेशा ज्याला मजदूरी हो । यहाँ 80% गाडी चालक छन् भने 89% पक्कीघर बनाउने मिस्त्री छन्।यहाँ सबै किसिमका कामदार छन्"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 48,
+    "text_length_max": 313,
+    "text_length_avg": 165.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1291,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26924.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26924.txt",
+    "relative_path": "26924.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26924.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1291,
+    "mtime": 1782796521.3492296,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a39928a3fb1bd4509351e5bf2b14212748bf4cf3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

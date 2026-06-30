@@ -1,0 +1,92 @@
+{
+  "dataset": "3102.txt",
+  "file_name": "3102.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुरुषार्थको अर्थ हो जुन कुराले मानिसको जीवन सार्थक हुन जान्छ । वेद उपनिषद, पुराण, र स्मृतिग्रन्थहरुले सामाजिक जीवनका तीन स्तम्भहरु बताएका छन्– चार पुरुषार्थ, चार वर्ण र चार आश्रम । चार वर्ण भनेको ब्राह्मण, क्षत्रिय, वैश्य र शूद्र हो । चार आश्रम भनेको ब्रह्मचर्य, गृहस्थ, वानप्रस्थ र संन्यास हो । चार पुरुषार्थको अर्थ हो– धर्म, अर्थ, काम, र मोक्ष । यी तीनवटै कुराहरु आपसमा सम्बन्धित छन् ।",
+    "वर्ण व्यवस्था र आश्रम व्यवस्था आपसमा कति जोडिएका छन् भने यसलाई वर्णाश्रम व्यवस्था भनिन्छ । यी दुवै व्यवस्था पुरुषार्थ प्राप्तिको मार्गका साधन बताइउका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 156,
+    "text_length_max": 1787,
+    "text_length_avg": 668.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8905,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3102.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3102.txt",
+    "relative_path": "3102.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3102.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8905,
+    "mtime": 1782796540.5368052,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3d7377225df144cfda5e99301b6402143916a314",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

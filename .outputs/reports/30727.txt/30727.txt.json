@@ -1,0 +1,92 @@
+{
+  "dataset": "30727.txt",
+  "file_name": "30727.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दी भारतको संविधान अनुसार भारतको पहिलो राष्ट्र भाषा हो र यो भारतका बहुसंख्यक जनताले प्रयोग गर्ने भाषा पनि हो। हिन्दी मुख्य रूपले उत्तर तथा मध्य भारतका भूभागहरूमा बोलिन्छ। सन 26 जनवरी 1965 मा हिन्दीलाई भारतको आधिकारिक भाषाको मान्यता दिइएको थियो ।",
+    "चिनियाँ भाषा पछि हिन्दी विश्वमा सबभन्दा धैरै मानिसहरूले मातृभाषाको रूपमा बोल्ने भाषा हो। भारत तथा अन्य देशमा 60 करोड भन्दा बढी मानिसहरू हिन्दी प्रयोग गर्दछन् । फिजी, मौरिसस, गुयाना, तथा सुरिनेमका धेरै जनता दैनिक रूपमा हिन्दी प्रयोग गर्दछन् । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 242,
+    "text_length_max": 514,
+    "text_length_avg": 334.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2681,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30727.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30727.txt",
+    "relative_path": "30727.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30727.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2681,
+    "mtime": 1782796539.1968572,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "06ebc91d7e52bc8bfaf90672852c98ce3184e123",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

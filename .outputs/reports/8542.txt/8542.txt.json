@@ -1,0 +1,92 @@
+{
+  "dataset": "8542.txt",
+  "file_name": "8542.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "राम प्रसाद 'बिस्मिल' भारतका महान क्रान्तिकारी तथा अग्रणी स्वतन्त्रता सेनानी मात्र हैनन्, अपितु उच्च कोटिका कवि, शायर, अनुवादक, बहुभाषाभाषी, इतिहासकार तथा साहित्यकार पनि थिए जसले भारतको स्वतन्त्रताको लागि आफ्नो प्राणको आहुति दिए । शुक्रवार ज्येष्ठ शुक्ल एकादशी विक्रमी संवत् 1954को उत्तर प्रदेशको ऐतिहासिक नगर शाहजहाँपुरमा जन्मेका राम प्रसादलाई 30 वर्षको उमेरमा सोमवार पौष कृष्ण एकादशी विक्रमी संवत् 1984को बेरहम ब्रिटिश सरकारले गोरखपुर जेलमा फाँसी दियो। बिस्मिल उनको उर्दू तखल्लुस थियो जसको हिन्दीमा "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 998,
+    "text_length_avg": 654.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6930,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8542.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8542.txt",
+    "relative_path": "8542.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8542.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6930,
+    "mtime": 1782796599.8682492,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "07e9a3fa9c99342b89357c9ef41e23a7e87cb278",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

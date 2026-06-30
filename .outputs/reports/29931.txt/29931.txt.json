@@ -1,0 +1,94 @@
+{
+  "dataset": "29931.txt",
+  "file_name": "29931.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अपकृत्य “Tort” शब्दको नेपाली रूपान्तरण हो । यो शब्द Latin शब्द “TORTUM” बाट बनेको हो । फ्रेन्च भाषामा यसको अर्थ तोड मरोड गर्नु भन्ने हुन्छ । जसलाई दोष, दुष्कृति, अपकार भनेर बुझन सकिन्छ । दोषपूर्ण कार्यलाई फौजदारी अर्थात आपराधिक गल्ती र देवानी गल्तीको रूपमा विभाजन गर्न सकिन्छ । अपकृत्य देवानी गल्ती वर्गमा पर्दछ । अपकृत्यमा वादीलाई भएको क्षतिको लागि क्षतिपूर्ति तिर्न बाध्य पारिन्छ ।",
+    "अपकृत्य विधिको मुख्य उद्देश्य पीडित व्यक्ति वा उसको आश्रित व्यक्ति वा परिवारलाई दोषकर्ताबाट क्षतिपूर्ति दिलाउनु हो । क्षतिपूर्ति दिलाउने विभिन्न तरिकाहरू मध्ये कहिलेकाँही अनुकरणात्मक क्षतिपूर्ति दिलाएर दोषीलाई पुनः अपकार गर्नबाट रोक्ने उद्देश्य पनि राखिन्छ । देवानी क्षति भनेर दावी गरिएको अवस्थामा यदि क्षतिपूर्तिको कारवाही स्वीकारयोग्य छैन भने त्यसलाई अपकृत्य भनिँदैन । अपकृत्य हुनको लागि अनिर्धारित क्षतिपूर्तिको विषय हुनु अनिवार्य रहन्छ । अन्य कुनै कानुन, सम्झौता आदिबाट कुनै पनि प्रकारको क्षतिपूर"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 173,
+    "text_length_max": 996,
+    "text_length_avg": 571.09,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9968,
+      "Latin": 0.0032
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16818,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0045
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29931.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29931.txt",
+    "relative_path": "29931.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29931.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16818,
+    "mtime": 1782796535.5037682,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fdc0767360f75a2e75b8f6b4e3246240f870e8eb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

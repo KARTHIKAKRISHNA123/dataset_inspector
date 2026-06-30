@@ -1,0 +1,94 @@
+{
+  "dataset": "18288.txt",
+  "file_name": "18288.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतमा सबै मोटरचालित वाहनहरूलाई एक दर्ता सङ्ख्या दिइन्छ। लाइसेन्स पट्टलाई नामपट्ट पनि भनिन्छ । यो संख्या भारतका सबै प्रदेशहरूमा जिल्ला स्तरका क्षेत्रीय परिवहन कार्यालय द्वारा दिईन्छ। यो चलान अनुज्ञप्‍ति पट्ट वाहनका अगाडि र पछाडिको दिशामा लगाईन्छ। नियमानुसार सबै पट्टिहरू लैटिन वर्ण सहित आधुनिक भारतीय अङ्क प्रणालीमा हुनपर्छ।",
+    "चलान अनुज्ञप्‍ति पट्ट निजी कारहरू र द्वि-पाङ्रे वाहन मालिक सेतो पृष्ठभूमिको साथमा काला अक्षरहरूमा हुनुपर्छ । व्यावसायिक वाहन जस्तै ट्याक्सी, ट्रकको लागी पहेंलो पृष्ठभूमिको साथ काला अक्षरहरूमा लेखिएको अनुज्ञप्ति पट्ट हुन पर्छ । विदेशी दूतावासहरूसँग सम्बन्धित वाहन हल्का निलो रङ्गको पृष्ठभुमिका साथ सेता अक्षरहरूमा लेखिएको हुनपर्छ ।) भारतीय राष्ट्रपति र राज्यपालका आधिकारिक कारहरू अनुज्ञप्ति पट्ट रहित हुन्छन्। यसको ठाउँमा उनीहरू रातो पट्टिमा सुनौला अक्षरहरूमा समुद्भृत भारतको राष्ट्रीय प्रतीक राख्दछन्"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 501,
+    "text_length_avg": 208.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9854,
+      "Latin": 0.0146
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5461,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9854,
+      "Latin": 0.0146
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18288.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18288.txt",
+    "relative_path": "18288.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18288.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5461,
+    "mtime": 1782796481.38109,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "967deb0c38fd46a4d690195809b0d7c840e0c888",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

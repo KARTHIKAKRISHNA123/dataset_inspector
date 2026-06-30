@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "35718.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनकोशी, बाह्रबिसेबजार नजीकै ",
+    "भोटेकोशी नदी तिब्बतमा उत्पति भएर नेपाल प्रवेश गर्ने नदी हो। यो नदी सप्तकोशी नदीको सहायक नदी पनि हो । पहाडी खोंच हुदै बग्ने यो नदीको तेज बहावका कारण यो नदी विद्युत उत्पादन तथा राफ्टिङका लगि अत्यन्तै प्रशिद्द छ। नेपालको मध्यमाञ्चल विकास क्षेत्र, बागमती अञ्चलको सिन्धुपाल्चोक जिल्ला अवस्थित यो नदी बन्जी जम्पका लागि पनि प्रख्यात छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 929,
+    "text_length_avg": 428.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3439,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35718.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\35718.txt",
+    "relative_path": "archive (2)\\valid\\valid\\35718.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3439,
+    "mtime": 1782796657.8438506,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "3d32d0031171e2ac03c56b43c5024807f7a9337c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

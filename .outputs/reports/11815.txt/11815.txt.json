@@ -1,0 +1,91 @@
+{
+  "dataset": "11815.txt",
+  "file_name": "11815.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बोलिभिया दक्षिण अमेरिकाको सबैभन्दा गरीब राष्ट्र हो। सन् 2003 देखि बोलिभिया सामाजिक र राजनीतिक मामिलाका विषयमा गम्भीर संकटमा पर्न गयो। राष्ट्रपति लोजाडा सत्ताच्युत गरी कार्लोस मेजा राष्ट्रपति बनाइए। सन् 2004मा राज्य सुधारका लागि संविधानसभाबाट नयाँ संविधान बनाउने घोषणा भयो। पछि इडुराडो रोडि्रज अन्तरिम सरकारको राष्ट्रपति बन्न पुगे। संविधानसभाको निर्वाचन 2006 सालमा सम्पन्न भयो। क्षेत्रीय स्वायत्तताका लागि जनमतसंग्रह भयो। क्षेत्रीय स्वायत्तता प्राकृतिक श्रोतका रूपमा रहेको ग्याससँग थियो। पछि क्षेत्रीय"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1418,
+    "text_length_max": 1418,
+    "text_length_avg": 1418.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3818,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11815.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11815.txt",
+    "relative_path": "11815.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11815.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3818,
+    "mtime": 1782796451.104027,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c5c1b6229766ee09b67010d76708a1ec57f04667",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

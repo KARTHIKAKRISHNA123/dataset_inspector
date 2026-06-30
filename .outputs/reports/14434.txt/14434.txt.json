@@ -1,0 +1,93 @@
+{
+  "dataset": "14434.txt",
+  "file_name": "14434.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिशिर ऋतु वा हिउँद ऋतु हिन्दू ऋतु अनुसार 6 वटा ऋतु मध्यको एक ऋतु हो । शिशिर ऋतुमा बर्षभरको तुलनामा धेरै जाडो हुने हुनाले र हिउँ पर्ने तुषारो जम्ने हुनाले यो ऋतुलाई हिउँद ऋतु पनि भनिन्छ । हेमन्त ऋतुको समाप्ती पछि शिशिर ऋतु आरम्भ हुन्छ । हिन्दू महिना अनुसार माघ र फागुन 2 वटा महिना शिशिर ऋतुमा पर्दछन् l"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 301,
+    "text_length_max": 301,
+    "text_length_avg": 301.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9959,
+      "Latin": 0.0041
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 785,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9959,
+      "Latin": 0.0041
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14434.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14434.txt",
+    "relative_path": "14434.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14434.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 785,
+    "mtime": 1782796462.9868393,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0ce3a2c0c10957717f21a879dd90580c6468457e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

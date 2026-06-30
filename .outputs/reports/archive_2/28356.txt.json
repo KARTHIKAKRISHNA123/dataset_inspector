@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28356.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अयोध्या विवाद एउटा राजनीतिक, ऐतिहासिक र सामाजिक-धार्मिक विवाद हो, जुन 90 को दशकमा सबै भन्दा धेरै उग्र रूपमा देखियेको थियो। यस विवादको मूल मुद्दा हिंदू देवता रामको जन्मभूमि र बाबरी मस्जिदको स्थिति हो। विवाद यस मुद्दामा छ कि के हिन्दू मन्दिरलाई ध्वस्त गरेर त्यहां मस्जिद बनाईयेको थियो वा मन्दिरलाई मस्जिदको रूपमा परिवर्तन गरियो।",
+    "राम जन्मभूमिको इतिहासमुस्लिम शासक बाबर {1527 मा फरगना देखि आयो. उसले चित्तौरगढको हिंदू राजा राणा संग्राम सिंहलाई फतेहपुर सिकरीमा परास्त गरि दियो. बाबरले आफ्नो युद्धमा तोपहरू र गोलाहरूको प्रयोग गर्‍यो। जीते पछि बाबरले यस क्षेत्रको प्रभार कार्य मीर बांकीलाई दियो।मीर बांकीले त्यस क्षेत्रमा मुस्लिम शासन लागू कर गरि दियो। उसले साधारण जनताहरूलाई नियंत्रणमा राख्नको लागि आतंकको सहारा लियो। मीर बांकी 1528 }मा अयोध्या आयो र मन्दिरलाई भत्काउन लगाएर मस्जिदको निर्माण गरायो।."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 326,
+    "text_length_max": 466,
+    "text_length_avg": 396.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2100,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28356.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28356.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28356.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2100,
+    "mtime": 1782796642.9219747,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "2e07a7cfa5d36af4a52eb4cdba5bc0c86b25df59",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

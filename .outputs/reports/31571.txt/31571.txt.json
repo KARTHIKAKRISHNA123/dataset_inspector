@@ -1,0 +1,92 @@
+{
+  "dataset": "31571.txt",
+  "file_name": "31571.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "याज्ञवल्क्य, वैदिक साहित्यमा शुक्ल यजुर्वेदको वाजसनेयी शाखाका द्रष्टा हुन्। याज्ञवल्क्यको अर्को महत्वपूर्ण कार्य शतपथ ब्राह्मणको रचना हो। बृहदारण्यक उपनिषद महत्वपूर्ण उपनिषद हो जसको प्रमुख ऋषि याज्ञवल्क्य हुन्। यिनको काल लगभग 1800 ई पू मानिन्छ। याज्ञवल्क्यलाई देवरातका पुत्र र वैशम्पायनका शिष्य बताइएको छ । आफ्ना गुरु वैशम्पायनसंग यिनको ठूलो विवाद पर्यो । त्यसपछि उनले वैशम्पायनबाट प्राप्त ज्ञान परित्याग गरेर नया“ ज्ञानको खोजी गरे । साथै के निर्णय गरे भने अब कुनै पनि मानवीय शक्तिलाई गुरु बनाउने छैन"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 1537,
+    "text_length_avg": 574.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19897,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31571.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31571.txt",
+    "relative_path": "31571.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31571.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19897,
+    "mtime": 1782796543.179912,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ef482f45a9e0926b24c76901d8654c13347c6b1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

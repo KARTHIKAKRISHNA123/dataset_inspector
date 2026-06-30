@@ -1,0 +1,92 @@
+{
+  "dataset": "586.txt",
+  "file_name": "586.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लरेन्स एड्वार्ड पेज अमेरिकाका कम्प्युटर वैज्ञानिक हुन्। उनी विश्व प्रसिद्ध इन्टरनेट सञ्जाल गुगलका सह-संस्थापक हुन्। ल्यारी पेज सन् 2018 मा विश्वकै दोस्रो शक्तिशाली सिइओ हुन् । अलफाबेट कम्पनी मा सिइओ रहेको उनको उमेर 45 बर्ष भयो । कम्पनी मा उनी भन्दा तल्लो तहमा रहेर 88 हजार 1 सय 10 जनाले काम गर्छन् ।",
+    "पेज 26 मार्च, 1973 मा पूर्वी लन्सिङ्, मिचिगन मा जन्मिएका थिए । उनी पढ्न र लेख्न थालेपछि घरमा पाइने अखबारमा रमाउने गर्थे । उनी सानैमा स्याक्सोफोनले खेल्नुको साथै म्युजिक कम्पोजिङमा समेत रुचि राखेका थिए । यो क्रियाकलापले संगीत शिक्षालाई कम्प्युटिङ कसरी गर्ने भन्ने ज्ञानसमेत उनी पाउन सफल भए । ल्यारी पेजले स्टान्फोर्ड विश्वविद्यालयबाट कम्प्युटर इन्जिनियरिङ पढे । पढाइकै क्रममा उनको जम्का भेट सर्गेइ ब्रिनसँग भयो । सन् 1998 मा उनले ब्रिनसँग मिलेर खोज इन्जिन गुगल सुरु गरेका हुन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 299,
+    "text_length_max": 478,
+    "text_length_avg": 388.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2023,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "586.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\586.txt",
+    "relative_path": "586.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "586.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2023,
+    "mtime": 1782796587.004611,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3c23a17db70dce6bdac75a97c8616aa2e9f4be77",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

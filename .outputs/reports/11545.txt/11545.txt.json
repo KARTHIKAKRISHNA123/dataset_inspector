@@ -1,0 +1,91 @@
+{
+  "dataset": "11545.txt",
+  "file_name": "11545.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हङकङ आधिकारिक रूपमा हङकङ जनवादी गणतन्त्र चीनको विशेष प्रसासनिक क्षेत्र रूपमा चिनिन्छ । हङकङ चिनको पर्ल नदी डेल्टा र साउथ चाइना सागरको दक्षिणी कुनामा अवस्थित एक स्वायत्त प्रदेश हो । हङकङ आफ्नो गगनचुम्बी इमारत र गहिरो प्राकृतिक बन्दरगाहको लागि प्रसिद्ध छ । यसको क्षेत्रफल 1104 किमी2 छ र यसको उत्तरी सिमामा चिनको गुआङ्डोङ प्रदेश रहेको छ । यो स्थानको जनसङ्ख्या 7.2 मिलियन छ जुन भिन्न भिन्न राष्ट्रियताका छन् । हङकङ संसारकै सबैभन्दा बढी जनघनत्व भएको महानगर मध्ये एक हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 465,
+    "text_length_max": 465,
+    "text_length_avg": 465.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1223,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11545.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11545.txt",
+    "relative_path": "11545.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11545.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1223,
+    "mtime": 1782796449.838036,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0ccdae24e9d70b582e0dc4eef2c0250a3237ded5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

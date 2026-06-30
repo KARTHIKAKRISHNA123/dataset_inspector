@@ -1,0 +1,94 @@
+{
+  "dataset": "27753.txt",
+  "file_name": "27753.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दक्षिण अफ्रिकाले 2015 को सेप्टेम्बर 29 देखि डिसेम्बर 15 सम्म भारतको भ्रमण गरेको छ । यो भ्रमणमा 4 वटा टेस्ट, 5 वटा ओडिआई र 3 वटा टिट्वान्टी खेलहरू खेलिनेछ । भारतमा यी दुई राष्ट्रबिच पहिलोपटक चार म्याचको टेस्ट शृङ्खला हुन लागेको हो भने दक्षिण अफ्रिकाले पहिलोपटक भारतमा भारत विरुद्ध टिट्वान्टी खेल्न लागेको हो ।",
+    "यस शृङ्खला सुरुवातसँगै, भारत र दक्षिण अफ्रिकाबिच खेलिने सम्पूर्ण द्विपक्षीय शृङ्खलाहरूलाई महात्मा गान्धी-नेल्सन मन्डेला शृङ्खलाको रूपमा चिनिने छ । यसपश्चात यिनिहरू फ्रिडम ट्रफीको लागि खेल्नेछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 308,
+    "text_length_avg": 196.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9664,
+      "Latin": 0.0336
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2054,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9664,
+      "Latin": 0.0336
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27753.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27753.txt",
+    "relative_path": "27753.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27753.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2054,
+    "mtime": 1782796525.0414577,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3f1ca74c00634514daa7fde9f781a98af4da4be0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

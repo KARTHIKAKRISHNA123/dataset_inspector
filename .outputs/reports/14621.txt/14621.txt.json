@@ -1,0 +1,91 @@
+{
+  "dataset": "14621.txt",
+  "file_name": "14621.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोहोरो कर उन्मुक्ति सम्झौता भनेको कुनै पनि देशको नागरिकको आम्दानी एक भन्दा बढी देशहरुमा हुन सक्छ, जसले गर्दा एउटा देशमा कमाएको आम्दानीमा कर तिरे पछि पुन सोही आम्दानीमा कर नलाग्ने हेतु दुई देशका सरकारहरू बिच भएको समझदारी वा सम्झौता हो । यस सम्झौता भएको राष्ट्रमा नागरिकको एउटा आम्दानीमा दोरोहो कर लाग्दैन । हालसम्ममा नेपालको  देशहरूसँग दोहोरो कर उन्मुक्ति सम्झौता भइ कायान्वयनमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 387,
+    "text_length_max": 387,
+    "text_length_avg": 387.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1032,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14621.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14621.txt",
+    "relative_path": "14621.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14621.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1032,
+    "mtime": 1782796463.893811,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3b09ec29a1fad114790a9cf7ddd9899c9e2e89f8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

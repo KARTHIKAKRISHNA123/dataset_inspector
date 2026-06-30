@@ -1,0 +1,93 @@
+{
+  "dataset": "23622.txt",
+  "file_name": "23622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल, आधिकारिक नाम: सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल एक दक्षिण एसियाली भूपरिवेष्ठित हिमाली राष्ट्र हो । यसको भौगोलिक अक्षांश 26 डिग्री 22 मिनेट देखि 30 डिग्री 27 मिनेट उत्तर र 80 डिग्री 4 मिनेट देखि 88 डिग्री 12 मिनेट पूर्वी देशान्तर सम्म फैलिएको छ । यसको कूल क्षेत्रफल 1,47,181 वर्ग कि.मि छ । यो क्षेत्रफल पृथ्वीको कूल क्षेत्रफलको 0.03% र एसिया महादेशको 0.3% पर्दछ । लण्डन स्थित ग्रीनवीच मिनटाइम भन्दा पूर्वतर्फ रहेकोले गौरीशङ्कर हिमालको नजीक भएर जाने 86 डिग्री 15 मिनेट पूर्वी देशान्तरलाई आधार म",
+    "नेपालको पूर्वी सीमाना मेची नदीदेखि पश्चिमी सीमाना महाकाली नदीसम्मको कूल लम्वाई 885 कि.मि. छ । उत्तर देखि दक्षिणको चौडाई भने एकनासको छैन । पूर्वी भाग भन्दा पश्चिमी भाग केही चौडा छ । त्यस्तै मध्य भाग भने केही खुम्चिएको छ । यसमा अधिकतम चौडाई 241 कि.मि. र न्युनतम चौडाई 145 कि.मि. रहेको छ । यसर्थ नेपालको सरदर चौडाई 193 कि.मि. रहेको छ । नेपालको उत्तरमा चीनको स्वशासित क्षेत्र तिब्बत पर्दछ भने दक्षिण, पूर्व र पश्चिममा भारत पर्दछ । नेपालका 80% भन्दा बढी नागरिक हिन्दू धर्म मान्दछन् जुन विश्वकै सबैभन्दा बढ"
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 1617,
+    "text_length_avg": 612.51,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 72812,
+    "estimated_records": 118
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 118,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23622.txt",
+    "relative_path": "23622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 72812,
+    "mtime": 1782796506.044513,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "22d5654bc3e747efdc8efabd299110cbe928afdd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

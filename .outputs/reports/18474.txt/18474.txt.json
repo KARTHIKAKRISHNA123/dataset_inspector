@@ -1,0 +1,92 @@
+{
+  "dataset": "18474.txt",
+  "file_name": "18474.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शम्भुनाथ मन्दिर पूर्वी नेपालको प्रसिद्ध मन्दिरहरु मध्ये एक हिन्दू मन्दिर हो । यो मन्दिर पूर्व पश्चिम राजमार्गको दक्षिण भाग सप्तरी जिल्लाको शम्भुनाथ नगरपालिकामा अवस्थित छ । यस मन्दिरमा शिव प्रमुख देवताको रूपमा रहेको छ । भारत तथा नेपालको भक्तजनहरूको आस्थाको केन्द्रको रूपमा यो मन्दिर रहेको छ । यहाँ प्रत्येक वर्ष बैसाख महिनामा महिना दिन लामो मेला लाग्ने गर्दछ । ",
+    "यो मन्दिर स्थानीय र वरिपरिका समुदायमा ऐतिहासिक, सांस्कृतिक र धार्मिक दृष्टिकोणले महत्वपूर्ण रहेको छ । यस मन्दिर भित्र रहेको शिवलिङ्ग धेरै पिढी पहिले चन्द्रभोगा गढीबाट ल्याएर स्थापित गरिएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 360,
+    "text_length_avg": 276.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1481,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18474.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18474.txt",
+    "relative_path": "18474.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18474.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1481,
+    "mtime": 1782796482.2228937,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a1e51d93994a53302323d500e546ba695924851b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

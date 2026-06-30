@@ -1,0 +1,92 @@
+{
+  "dataset": "33888.txt",
+  "file_name": "33888.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन् 2014 सम्ममा पश्चिमी एसियाका 17 वटा देशहरूको 82 वटा सम्पदालाई संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक सङ्गठन द्वारा विश्व सम्पदा क्षेत्रमा मान्यता प्रदान गरिएको छ । जसमा अर्मेनिया, अजरबैजान, बहराइन, साइप्रस, इरान, इराक, इजरायल, जोर्डन, लेबनान, ओमान, प्यालेस्टाइन, साउदी अरब, सीरिया, टर्की, संयुक्त अरब इमिरेट्स, कतार र यमन रहेका छन् । यस क्षेत्रमा रहेको इरानकोको सबैभन्दा बढी 17 सम्पदा सूचीकृत गरिएको छ ।",
+    "31°42′16″ उत्तर 35°12′28″ पूर्व / 31.70444° उत्तर 35.20778° पूर्व / 31.70444; 35.20778 "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 417,
+    "text_length_avg": 196.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1353,
+    "estimated_records": 6
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 6,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33888.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33888.txt",
+    "relative_path": "33888.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33888.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1353,
+    "mtime": 1782796553.698774,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b978e993ebdfe71391c6ea404a86069e5fd86b9f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

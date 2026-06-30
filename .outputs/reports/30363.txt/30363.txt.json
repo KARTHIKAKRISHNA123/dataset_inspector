@@ -1,0 +1,96 @@
+{
+  "dataset": "30363.txt",
+  "file_name": "30363.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "छिर्के गौंथली नेपाल लगायत दक्षिण एसियामा पाइने एक प्रकारको चराको प्रजाति हो ।",
+    "Streak-throated swallow, at Mohali, Punjab"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 77,
+    "text_length_avg": 30.4,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7308,
+      "Latin": 0.2692
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 347,
+    "estimated_records": 11
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 11,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7308,
+      "Latin": 0.2692
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30363.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30363.txt",
+    "relative_path": "30363.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30363.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 347,
+    "mtime": 1782796537.46672,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "fa8b9a66ed3dd3270c367e4ff292ffe372f4be1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

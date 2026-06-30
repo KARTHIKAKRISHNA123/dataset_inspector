@@ -1,0 +1,92 @@
+{
+  "dataset": "6750.txt",
+  "file_name": "6750.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन्द2018 मा घटेका मुख्य घटनाहरू",
+    "अघिल्लो वर्षमा जस्तै सन् 2017 मा पनि उत्तर कोरियाले शृंखलाबद्ध रूपमा आणविक हमला गर्यो । कोरियाली प्रायद्वीपको विवादलाई लिएर अमेरिका र उत्तर कोरियाबीच वाकयुद्ध नै भयो । दुई देशका नेताले एक–अर्कालाई ध्वस्त पार्ने चेतावनी दिए । संयुक्त राष्ट्रसंघ, संयुक्त राज्य अमेरिकालगायत संसारका धेरै देशको आग्रहको बेवास्ता गर्दै प्योङयाङले शृंखलाबद्ध रूपमा क्षेप्यास्त्र परीक्षण गर्यो । उत्तर कोरियाको आणविक कार्यक्रमको विरोधमा यो वर्ष राष्ट्रसंघले पटक–पटक ऊमाथि विभिन्न प्रतिबन्ध लगाएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 1098,
+    "text_length_avg": 531.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15730,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6750.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6750.txt",
+    "relative_path": "6750.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6750.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15730,
+    "mtime": 1782796591.216285,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "85b1c132f7eb0d4fe45a2ee67b198b3d731c3505",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

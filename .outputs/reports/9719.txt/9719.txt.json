@@ -1,0 +1,92 @@
+{
+  "dataset": "9719.txt",
+  "file_name": "9719.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बादशाह कुर्मी",
+    "2042 सालदेखि राजनीतिमा संलग्न बादशाह कुर्मी समानुपातिक तर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। पिछडिएका, मधेसी र अदिवासीलाई राज्यको मूलप्रवाहमा ल्याउन नसकेसम्म मुलुकले प्रगति गर्न सक्दैन भन्ने धारणा राख्‍ने कुर्मी राजनीतिका अतिरिक्त समाजसेवामा समेत रुचि राख्नुहुन्छ। बाँके, परसपुर निवासी कुर्मी राजनीतिक संघर्षका क्रममा एक महीना जेल पर्नुभएको छ। निरंकुश राजतन्त्रको समाप्‍ति र लोकतन्त्र स्थापनाका निम्ति भएको 2062 सालको जनआन्दोलनमा उहाँको हात भाँच्चिएको थियो। प्रचारप्रसारबाट टाढा रहेर काम गर्न रुचाउ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 993,
+    "text_length_avg": 503.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2725,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9719.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9719.txt",
+    "relative_path": "9719.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9719.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2725,
+    "mtime": 1782796605.3976445,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.931,
+    "sha1_quick": "1a8bb10f0ef077e02d3c769ae8bdc9c52f3d63f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

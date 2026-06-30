@@ -1,0 +1,92 @@
+{
+  "dataset": "1194.txt",
+  "file_name": "1194.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दुलेगौंडा तनहुँ जिल्लामा अवस्थित एक शहर हो । यो शहर हाल शुक्लागण्डकी नगरपालिकामा रहेको छ, भने शुक्लागण्डकी नगरपालिकाको व्यापारिक केन्द्रका रूपमा रहेको छ । हाल यो सहर नेपालको नयाँ प्रदेशीक संरचना अन्तरगत प्रदेश नम्बर 4, गण्डकी अञ्चल, तनहुँ जिल्लामा रहेको छ । यो शहर नयाँ संरचना अन्तरगत 18 मे 2014 मा नगरपालिकाको रूपमा स्थापना भएको थियो । सन् 1991 सालको नेपाल सरकारको आधिकारिक तथ्याङ्क अनुसार यो शहरका कुल 7412 जना मानिसहरू बस्ने गर्दथे भने 1507 वटा विभिन्न किसिमका घरहरू रहेको थियो ।",
+    "यो दुलेगौंडा सहरमा प्रमुख उपचार सेवा दिने अस्पतालका रूपमा तनहुँ सेवा अस्पताल रहेकोमा छ । यो अस्पतालको तत्कालीन नेपालका स्वास्थय मन्त्री खगराज अधिकारीले वि.स. 2071 पुस 28 गते गरेका थिए । यस अस्पतालले तनहुँका मात्र नभइ स्याङ्जा जिल्ला, कास्की जिल्ला तथा पाल्पा जिल्ला बासिन्दाहरूलाई समेत सेवा दिने गर्दछ । यसबाहेक यो सहरमा अन्य सानाठूला स्वास्थ क्लिनिकहरू, औसधि पसलहरू तथा आयुर्वेदिक औषधालयहरू समेत रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 482,
+    "text_length_avg": 283.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3726,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1194.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1194.txt",
+    "relative_path": "1194.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1194.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3726,
+    "mtime": 1782796451.7022202,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "40a3d07d54ec639f9e493316c70f39afc13123f9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

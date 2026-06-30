@@ -1,0 +1,91 @@
+{
+  "dataset": "34956.txt",
+  "file_name": "34956.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय गान कुनै पनि राष्ट्रको राष्ट्रभक्तिले अोतप्रोत भएको आधिकारिक गीत हो। यो देश प्रेमले भरिएको एउटा यस्तो संगीत रचना हो, जसले उक्त देशको इतिहास, सभ्यता, संस्कृति र त्यहाँका जनताको संघर्षको व्यख्या गर्छ। यो संगीत रचना कि त त्यस देशको सरकार द्वारा स्वीकृत गरिएको हुन्छ या त परम्परागत रूपमा प्रचलित भइअाएको हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 316,
+    "text_length_avg": 316.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 844,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34956.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34956.txt",
+    "relative_path": "34956.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34956.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 844,
+    "mtime": 1782796558.5155644,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ac6ad9bd3bdbbe8ddc1be4d1f38b07e4b9cc14ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "18948.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नामले नै यसको बारेमा धेरै कुरा भन्छ । सफ्टवेयरसंग जोडेर हेर्दा, खुला श्रोत सफ्टवेयर भनेको त्यस्तो सफ्टवेर जसको श्रोत कोड पनि प्रयोगकर्तासंग हुन्छ, जसलाई उसले सजिलोसंग उपयोग गर्न संक्छ भन्ने हुन्छ, तर यतिले मात्र यो पूर्ण हुदैन । कुनै पनि सफ्टवेयर पूर्ण रूपमा खुल्ला श्रोत अवलम्बन गर्नका निम्ति :",
+    "स्वामित्व सफ्टवेयरको विपरित खुल्ला सफ्टयवेर कुनै एउटा व्यक्ति वा कम्पनीको मातहतमा नभई विश्व समुदायका स्वयंसेवक र डेवलोपरको सहयोगमा विकास हुन्छ । केही विश्व प्रसिद्ध कुल श्रोत सफ्टवेयरहरू मोजिल्ला फायरफक्स ब्राउजर, फेडोरा, उबुन्टुहरू हुन ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 373,
+    "text_length_avg": 143.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9933,
+      "Latin": 0.0067
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5733,
+    "estimated_records": 40
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 40,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9933,
+      "Latin": 0.0067
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18948.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\18948.txt",
+    "relative_path": "archive (2)\\valid\\valid\\18948.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5733,
+    "mtime": 1782796624.242031,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "5018c261213875f38a34be2ecbe2d05ca4f74b9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

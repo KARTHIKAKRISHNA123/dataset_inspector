@@ -1,0 +1,96 @@
+{
+  "dataset": "7125.txt",
+  "file_name": "7125.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साझा सवाल रेडियो र टेलिभिजनको माध्यमबाट प्रसारण भइरहेको बीबीसी मिडिया एक्सन ले उत्पादन गर्ने साप्ताहिक बहसको कार्यक्रम हो। साझा सवाल मार्फत जनताले नेता, नीति निर्माता र विश्लेषकहरूलाई सोझै प्रश्न गर्न सक्छन्। यसअगाडि नेपालमा प्रधानमन्त्रीसहित नेताहरू, नीति निर्माताहरूलाई जनताले सिधै प्रश्न सोध्ने चलन नेपाली सञ्चार माध्यममा थिएन।यो कार्यक्रम मंसिर 2064मा शुरू भएको हो। साझा सवालको पहिलो भागमा तत्कालीन प्रधानमन्त्री गिरिजाप्रसाद कोइराला अतिथि हुनुहुन्थ्यो। त्यो कार्यक्रम बीबीसी नेपाली सेवासँगै कान्",
+    "साझा सवालका कार्यक्रमहरु https://www.youtube.com/c/sajhasawalbbcsajhasawal यहाँ हेर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 842,
+    "text_length_avg": 209.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8466,
+      "Latin": 0.1534
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2542,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8466,
+      "Latin": 0.1534
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7125.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7125.txt",
+    "relative_path": "7125.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7125.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2542,
+    "mtime": 1782796593.0615263,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "a1c4a996b355190bd9b5439a6cd490cd615137b0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

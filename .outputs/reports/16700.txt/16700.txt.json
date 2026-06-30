@@ -1,0 +1,92 @@
+{
+  "dataset": "16700.txt",
+  "file_name": "16700.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतको संविधान निर्माण गर्ने संविधानसभालाई एक अंगका रूपमा लिइन्थ्यो। भारतमा जम्माजम्मी 36 महिना संविधान निर्माणमा खर्चिनुपरेको थियो। यसको कारण महात्मा गान्धीको हत्या र मुस्लिम लिगको अनुपस्थिति नै हो। यसबाट ठूलो संकट पनि पैदा भयो र भारतको स्वतन्त्रतामा पनि ढिलाई हुन गयो। भारतको स्वतन्त्रता र भारतीय संविधानको निर्माणको सफलता संविधानसभाको सदस्यहरूको दुरदृष्टि, उद्देश्यमाथिको एकता, इमानदारी तथा साहस नै हो। ",
+    "भारतीय संविधानसभाको सुरुको बैठक सन् 1946को डिसेम्बर 9 तारिखमा भएको थियो। संविधानसभाको स्थायी अध्यक्षमा सन् 1946को 11 डिसेम्बरमा डा. राजेन्द्रप्रसाद निर्वाचित भएका थिए। सन् 1946 डिसेम्बर 13 तारिखमा पण्डित नेहरूले संविधानसभाको उद्देश्य तथा लक्ष्यमाथि जोड दिएका थिए, जसलाई सन् 1947को 22 जनवरीमा पास गरिएको थियो। त्यसमा भनिएको थियो कि, त्यहाँ एउटा स्वतन्त्र, अभिभाज्य सार्वभौम गणराज्य हुनेछ। स्वतन्त्रता, समानता र न्यायको प्रत्याभूति सबै अल्पसंख्यीय, पिछडिएका जाति, जनजातिलाई दिलाईनेछ। सरकार जनताको बनाइन"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 406,
+    "text_length_max": 1365,
+    "text_length_avg": 758.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5988,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16700.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16700.txt",
+    "relative_path": "16700.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16700.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5988,
+    "mtime": 1782796473.5670192,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "04887f1f67da037c292efe66a857515bfa618105",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

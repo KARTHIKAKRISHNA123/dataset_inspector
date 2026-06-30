@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8723.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "मनमाथ दक्षिण-पूर्वी वेल्समा स्थित एक परम्परागत काउंटी नगर छ। यो इंग्ल्याण्डको सीमादेखि 2 मील टाडा महरुनो अनि वेया नामक नदीहरूका संगममा स्थित छ। यो नगर कार्डिफदेखि 36 मील उत्तर-पूर्वमा तथा लण्डनदेखि 127 मील पश्चिममा स्थित छ। यो मनमाउथशायर स्थानीय प्राधिकरण तथा मनमाथ संशताव्दीय निर्वाचन क्षेत्रका अन्तर्गत आउँछ। 2001को जनगणनाका अनुसार यसको जनसङ्ख्या 8,877 थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 376,
+    "text_length_avg": 237.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3129,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8723.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8723.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8723.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3129,
+    "mtime": 1782796673.1414173,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "624bdc5d045fcd598c7139e73377047cb6e18c0d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

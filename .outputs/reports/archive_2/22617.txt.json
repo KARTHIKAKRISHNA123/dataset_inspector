@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22617.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रिङ्गेरीके नर्वेको बुस्केरु प्रान्तमा रहेको नगरपालिका हो। यसको मुख्य प्रशासन केन्द्र होनेफोसमा रहेको छ। ",
+    "1 जनवरी 1964मा होनेफोस्, होले, नोर्देरहोभ, तिरिस्त्रान्द र ओदाललाई एकीकरण गरेर यसको निर्मण गरिएको थियो। तर 1 जनवरी 1977 देखि होलेलाई यस समीकरणबाट हटाइ छुट्टै होले नगरपालिका को निर्माण गरियो। रिङ्गेरीकेको ऐतिहासिक क्षेत्रफलमा अहिलेको आधुनिक नगरपालिकालाई मात्र नभएर मोडुमको र क्रोसहेराडको उत्तरी भाग समेत संग्लन रहेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 647,
+    "text_length_avg": 298.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.8773,
+      "Devanagari": 0.1227
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4313,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.8773,
+      "Devanagari": 0.1227
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22617.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22617.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22617.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4313,
+    "mtime": 1782796631.5240633,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "17d092144839aab46cc9824397508c0da350d5b4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

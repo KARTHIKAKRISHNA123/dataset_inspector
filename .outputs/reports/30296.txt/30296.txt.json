@@ -1,0 +1,92 @@
+{
+  "dataset": "30296.txt",
+  "file_name": "30296.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्री अन्नपूर्ण उच्च माध्यमिक विद्यालय सेति अञ्चल स्थित अछाम जिल्लाको कालागाउँ गाविसमा अवस्थित नेपाल सरकारको अनुदान प्राप्त पूर्ण सरकारी विद्यालय हो।जसको स्थापना नेपालमा प्रजातन्त्रको उदय सँगै वि.स.2008 सालमा अछामकै दोस्रो विद्यालका रुपमा भएको हो। सुदुरपश्चिमतिरका जनताहरुलाई शिक्षित बनाउने अवधारणा अनुरूप वि.स.2008 सालमा केन्द्रबाट गएको टोलिका संयोजक निर्मल लामाले यसको औपचारिक उद्घाटन गर्नुभएको थियो।सुरुमा शारदा भाषा पाठशालाका रुपले प्रख्यात यस विद्यालयमा अनौपचारिक रुपमा यस विद्यालयमा पढाई हुनेगर्",
+    "कालागाउँ श्रोत केन्द्र भनेर चिनिने यस विद्यालय अन्तर्गत प्रा.वि, नि.मा.वि र उ.मा.वि. गरी पैतीसवटा विद्यालय पर्दछन ।बेलाबेलामा उत्कृष्ट नतीजा ल्याउदै आएको यो विद्यालय अछाम को उत्कृष्ट विद्यालयमा पर्दछ।विभिन्न श्रोतकेन्द्र एवं जिल्ला स्तरीय शैक्षिक एवं खेलकूद प्रतियोगिताहरुमा उत्कृष्ट प्रदर्शन गर्दैआइरहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 614,
+    "text_length_avg": 261.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2839,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30296.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30296.txt",
+    "relative_path": "30296.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30296.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2839,
+    "mtime": 1782796537.168603,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f832e906fb471f17586ab7bee0623bf5c10810ef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

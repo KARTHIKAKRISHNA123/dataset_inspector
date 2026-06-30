@@ -1,0 +1,111 @@
+{
+  "dataset": "valid2.csv",
+  "file_name": "valid2.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "headings",
+    "paras",
+    "label"
+  ],
+  "preview": [
+    "आर्थिक वर्ष २०७४/७५ मा जिल्लामा आएको १ अर्ब ३९ करोड २२ लाख रकम फ्रिज भएको छ ।\nचालुतर्फ ७० करोड ४ लाख ७ हजार र पुँजीगततर्फ ६९ करोड १८ लाख ३ हजार रूपैयाँ खर्च हुन नसकेर फिर्ता गएको हो ।",
+    "गोरखा र नुवाकोटमा भूकम्पबाट क्षतिग्रस्त पचास हजार घरको पुनर्निर्माणका लागि भारत सरकारले १ करोड ६२ लाख अमेरिकी डलर (१ अर्ब ६७ करोड ७० लाख रुपैयाँ) अनुदान सहयोग गर्ने भएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1495,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 446,
+    "text_length_avg": 196.02,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 928962,
+    "estimated_records": 4739
+  },
+  "schema": {
+    "columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "estimated_records": 4739,
+    "raw_schema": {
+      "headings": "str",
+      "paras": "str",
+      "label": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "n_columns": 3
+  },
+  "meta": {
+    "file_name": "valid2.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\valid2.csv",
+    "relative_path": "valid2.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "valid2.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 928962,
+    "mtime": 1782796475.2255137,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6891bd353b376b1cfa0240a37a2d275845c1c582",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

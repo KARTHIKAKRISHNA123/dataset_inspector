@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24857.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तिवारी नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बी विशेषतया ब्राह्मण जातिय थर हो । नेपालमा कौशिक, कौटिल्य, अत्री र गौतम गोत्रका तिवारीहरूको बसोवास छ । ",
+    "गौतम गोत्री तिवारीहरूको नेपाल तथा भारतको विभिन्न स्थानमा बसोवास रहेको छ । प्रायः भारतको उत्तराखण्ड तथा नेपालको विभिन्न भू-भागमा गौतम गोत्री तिवारीहरू फैलिएका छन् । उत्तराखण्ड राज्यका पूर्व मुख्य मन्त्री नारायण दत्त तिवारी गौतम गोत्रिय तिवारी हुन् । यसै गरी भारतको कुमाउँबाट नेपाल भित्रियका गौतम गोत्रिय तिवारीहरू नेपालका झापा, मोरङ, सिन्धुपाल्चोक, काभ्रेपलाञ्चोक, भोजपुर, नुवाकोट, धादिङ, लमजुङ, तनहुँ, कास्की, स्यांजा, पर्वत, मकवानपुर, पाल्पा, रुपन्देही, नवलपरासी, चितवन लगायतका 45 वटा जिल्लाहरूमा बस"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 171,
+    "text_length_max": 2479,
+    "text_length_avg": 838.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8933,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24857.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24857.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24857.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8933,
+    "mtime": 1782796636.0517726,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "adf1bb8ed3331935fbc00c9b114b71176cf4c14f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

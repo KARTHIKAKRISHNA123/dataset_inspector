@@ -1,0 +1,92 @@
+{
+  "dataset": "32526.txt",
+  "file_name": "32526.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भलाक्चा नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्रको राप्ती अञ्चल, रुकुम जिल्लामा अवस्थित एक गाउँ विकास समिति हो । भलाक्चा गाविस रुकुम जिल्लामा पर्ने 43 गाविस मध्ये सदरमुकाम खलंगा देखि तीन कोष दक्षिणी क्षेत्रमा अवस्थित भलाक्चा गाविस पनि एक हो । पहाडी भूगोलमा रहेको भलाक्चा गाविस आफ्नै खालको ऐतिहासिक भौगोलिक धार्मीक राजनीतिक तथा सामाजिक महत्व र विशेषता बोकेर रहेको छ । ",
+    "भौगोलिक स्वरूपलाई हेर्दा यो गाविस समथर भिरालो फाँट लेक जस्ता विविध भौगोलिक बनावट रहेको छ भने घना जङ्गल चट्टान समेत रहेको छ। यो गाविसको थोरै भाग फाँट र ज्यूलामा पर्दछ भने अन्य भाग पहाडी तथा लेकाली भागमा पर्दछ । भलाक्चा गाविसको पूर्वमा चौखावाङ र साँख गाविस पश्चिममा र मुरु गाविस उत्तरमा खलंगा गाविस र दक्षिणमा रुँघा गाविसको विचमा रहेको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 205,
+    "text_length_max": 747,
+    "text_length_avg": 363.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9638,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32526.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32526.txt",
+    "relative_path": "32526.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32526.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9638,
+    "mtime": 1782796547.4420948,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "26869a2f98d3378564c8e8c1db1097e4df76eb87",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

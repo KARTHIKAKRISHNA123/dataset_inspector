@@ -1,0 +1,92 @@
+{
+  "dataset": "20729.txt",
+  "file_name": "20729.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाकिस्तान महिला क्रिकेट टिम पाकिस्तानको एक अन्तर्राष्ट्रिय महिला क्रिकेट टिम हो जसको संचालन पाकिस्तान क्रिकेट बोर्ड गर्दछ ।",
+    "टिमले आफ्नो पहिलो टेस्ट क्रिकेट म्याच श्रीलङ्का महिला क्रिकेट टिम विरुद्ध 17 अप्रिल 1998 मा कोलम्बोमा खेलेको थियो । जबकि पहिलो एक दिवसीय अन्तर्राष्ट्रिय म्याच 28 जनवरी 1997 मा क्रिश्चर्च मा न्युजिल्यान्ड महिला क्रिकेट टिम विरुद्ध खेलेको थियो र पहिलो ट्वेन्टी-ट्वेन्टी म्याच 25 मे 2009 मा डबलिनमा आयरल्यान्ड महिला क्रिकेट टिम विरुद्ध खेलेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 346,
+    "text_length_avg": 177.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1397,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20729.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20729.txt",
+    "relative_path": "20729.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20729.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1397,
+    "mtime": 1782796493.0696871,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4b6eb60ca2e53569f7277575c47c713287318fdb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

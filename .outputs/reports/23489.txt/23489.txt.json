@@ -1,0 +1,93 @@
+{
+  "dataset": "23489.txt",
+  "file_name": "23489.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिजयपुर बर्तमान धरानको पूर्वमा रहेको डाडा र त्यसमा रहेको बस्ती हो | नेपाल एकिकरण पूर्व यो लिम्बुवान राज्यको राजधानी थियो र यो लिम्बुवान भूभागको सदर मुकाम पनि थियो|",
+    "हालका यस विजयपुरका जम्मा चारवटा नामहरू रहेका कुरा पुराण र लोकोक्तिहरूबाट स्पष्ट हुन्छ। ती नामहरू रुद्राक्षारण्य वेदीपुर, विजयपुर र शीतशैल हुन्। रुद्राक्षारण्यमहात्म्यले विजयपुर क्षत्रलाई धेरै रुद्राक्ष पाइने वन भएको हुँदा \"रुद्राक्षारण्यनाम\" दिएर यसको धार्मिक महात्म्यको बढाई गरेको छ। त्यस्तै एउटा लोकआहानले मकवानपुरे सेनवंशी विजयसेन राजाद्वारा शासित भएको हुँदा यसलाई विजयपुर भनिएको हो भन्ने गरेको पाइन्छ। यसलाई शीतशैल चािहं शीतल हावा बहने ठाउँको रूपमा रुद्राक्षारण्यमहात्म्यमा वर्णन गरिएको पाइएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 866,
+    "text_length_avg": 326.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 25513,
+    "estimated_records": 78
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 78,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23489.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23489.txt",
+    "relative_path": "23489.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23489.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 25513,
+    "mtime": 1782796505.3788204,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1b4324998a236c41c91f776b08bc8cba7ff648c2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "23864.txt",
+  "file_name": "23864.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्थिक विकास भन्नाले कुनै पनि मुलुकको आर्थव्यावस्थामा आएको सकारात्मक परिवर्तनको प्रक्रिया हो । आर्थिक विकास भन्नाले भौतिक संरचनाहरुको विकासका साथसाथै सामाजिक कल्याण जस्तै शिक्षा, स्वास्थ्य, सन्चार, सरसफाई आदीमा भएको गुणात्मक तथा परिमाणत्मक परिवर्तन भन्ने बुझिन्छ । ",
+    "जलस्रोत मुलुकमा उपलब्ध साधन र स्रोत मध्य एक हो। जलस्रोतको समुचित उपयोग गर्न सके आर्थिक विकास गर्न सहज हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 108,
+    "text_length_max": 265,
+    "text_length_avg": 186.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1007,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23864.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23864.txt",
+    "relative_path": "23864.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23864.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1007,
+    "mtime": 1782796507.1533844,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5a764d415f728e51cfc9d2ca1bef639512ab7b57",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

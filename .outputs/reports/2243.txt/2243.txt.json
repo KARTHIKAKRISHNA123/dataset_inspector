@@ -1,0 +1,92 @@
+{
+  "dataset": "2243.txt",
+  "file_name": "2243.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लैनसिंह बाङ्गदेल नेपाली साहित्यकार तथा चित्रकार हुन्।",
+    "लैनसिंहको जन्म सन् 1924 डिसेम्बर 21 तारिख दार्जीलिङमा भएको हो। बाङ्गदेल नेपाल प्रज्ञा प्रतिष्ठानको कुलपति समेत बने। उनको वि.सं. 2010 साल वैशाख 19 गते पेरिसमा मानकुमारी क्षेत्रीसँग बिहे भयो। मानकुमारी लन्डनको रोयल फ्री अस्पतालमा स्टाफ नर्स थिइन्। बाङ्देलको उत्तराधिकारीका रूपमा डिनाबाङ्देल छिन्। उनको पुर्ख्यौली घर नेपालको खोटाङ्ग जिल्लामा पर्दछ। पछि उनी सानेपा, ललितपुरमा बसेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 382,
+    "text_length_avg": 154.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1627,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2243.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2243.txt",
+    "relative_path": "2243.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2243.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1627,
+    "mtime": 1782796500.7895255,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "9c7f9f16e1f8b54c9bd53e56c29e90ec17bca6ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

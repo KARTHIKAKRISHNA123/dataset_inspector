@@ -1,0 +1,91 @@
+{
+  "dataset": "20101.txt",
+  "file_name": "20101.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तैत्तिरीयोपनिषदकृष्ण यजुर्वेद अंतर्गत पर्ने संस्कृत भाषाका दश उपनिषदहरू मध्येको अत्यन्त मह्त्वपूर्ण तथा प्राचीन उपनिषद हो । यसमा आद्य शंकराचार्यको शांकरभाष्य पाइन्छ |ययसलाई 3 भाग शिक्षावल्ली ब्रह्मानंदवल्ली र भृगुवल्लीमा विभक्त गरिएको छ । शिक्षावल्लीमा 12 अनुवाक र 25 मंत्र, ब्रह्मानंदवल्लीमा 9 अनुवाक र 13 मंत्र तथा भृगुवल्लीमा 19 अनुवाक र 15 मंत्र छन ।शिक्षावल्लीलाई सांहिती उपनिषद र ब्रह्मानन्द वल्ली तथा भृगुवल्लीको प्रवर्तक वरुण हुनाले वारुणी उपनिषद पनि भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 467,
+    "text_length_max": 467,
+    "text_length_avg": 467.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1241,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20101.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20101.txt",
+    "relative_path": "20101.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20101.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1241,
+    "mtime": 1782796490.1234736,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a0b834637a45cda48e66508c6a82bb3bae3af921",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

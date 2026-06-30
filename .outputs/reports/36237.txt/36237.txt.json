@@ -1,0 +1,92 @@
+{
+  "dataset": "36237.txt",
+  "file_name": "36237.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ईटानगर ) भारतको राज्य अरुणाचल प्रदेशको राजधानी सहर हो । यो हिमालयको तराईमा अवस्थित छ । समुद्र सतहदेखि यसको उचाई 350 मिटर छ । यो प्रादेशिक राजधानी भएको कारण सडक व्यवस्था राम्रो छ । गुवाहाटी र ईटानगरको नाहरलागुनको मध्यमा हेलिकप्टर सेवाको विकल्प समेत रहेको छ । हेलिकप्टर वाहेक पर्यटक बसहरूद्वारा पनि गुवाहटी देखि ईटानगरसम्म पुग्न सकिन्छ ।",
+    "ईटानगरको खोज मायापुर सँगै भएको थियो । मायापुर 11औं शताब्दीमा जित्रि वंशको राजधानी थियो । ईटानगरमा पर्यटकहरू ईटा किल्ला पनि हेर्न सक्छन् । यस किल्लाको निर्माण 14-15औँ शताब्दीमा गरिएको थियो । यसै किल्लाको नाममा यस सहरको नाम ईटानगर राखिएको हो । पर्यटक यस किल्लामा कयौं सुन्दर दृश्य हेर्न सक्छन् । हाल आएर यस किल्लालाई राजभवनको नामले जान्ने गरिन्छ र यो यहाँको राज्यपालको सरकारी निवास हो । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 398,
+    "text_length_avg": 272.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4964,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36237.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36237.txt",
+    "relative_path": "36237.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36237.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4964,
+    "mtime": 1782796564.43428,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "193f4fcacd8bdb3d9099aeaade7f8eb72a4cb8dd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

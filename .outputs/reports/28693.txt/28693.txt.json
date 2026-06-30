@@ -1,0 +1,92 @@
+{
+  "dataset": "28693.txt",
+  "file_name": "28693.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अफगान वायरलेस सञ्चार कम्पनी वा अफगान वायरलेस वा एडब्लूसिसि पनि भनेर चिनिने, दक्षिण एसियाको देश अफगानिस्तानको पहिलो वायरलेस वा ताररहित सञ्चार कम्पनी हो । 1998 मा स्थापित यस कम्पनी, बिभिन्न क्षेत्रीय कार्यालयहरु सहित अफगानिस्तानको काबुलमा आधारित छ । कम्पनी, संयुक्त राज्य अमेरिकाको इन्टरनेट कम्पनी, टेलीफोन सिस्टम्स इन्टरनेशनलको एक सहायक कम्पनी को रूपमा सञ्चालित थियो, जो बयात समूह र अफगान सञ्चार मन्त्रालय बीचको एक संयुक्त उद्यम हो । अफगान वायरलेसले 2017 मा अफगानिस्तानमा पहिलो 4 जी एलटिइ सेवा सञ्चालन",
+    "1998 मा अफगानिस्तानका दूरसञ्चार उद्यमी एसान बयात अफगानिस्तानको तालिबानी सरकारबाट एक विशेष इजाजत पत्र जितेको थियो, जसले देशको सञ्चार मंत्रालयसँग संयुक्त उद्यम सिर्जना गर्यो र जसलाई 20% स्वामित्व दिइएको थियो । यो सम्झौताले संयुक्त राज्य, बेलायत र स्वीडेनबाट लगानीकर्ताहरूले सम्झौताको लागि वार्ता गरेका थिए । अफगानिस्तान वायरलेस सञ्चार कम्पनी वा एडब्लूसिसि, टेलीफोन सिस्टम्स इन्टरनेशनलको सहायक कम्पनीको रूपमा स्थापित भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 728,
+    "text_length_avg": 344.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5471,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28693.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28693.txt",
+    "relative_path": "28693.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28693.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5471,
+    "mtime": 1782796529.4218695,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1ae5d81146d9dff7b76ff1d436d91aa40ca3464e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

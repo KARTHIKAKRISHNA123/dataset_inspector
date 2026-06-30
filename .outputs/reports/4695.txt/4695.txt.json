@@ -1,0 +1,92 @@
+{
+  "dataset": "4695.txt",
+  "file_name": "4695.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " 200 बिलियन (अमेरिकी डलर भन्दा बढी",
+    "2015 दक्षिण भारतीय बाढी नोभेम्बर-डिसेम्बर महिनामा उत्तर-पूर्वी मनसुनको कारणले आएको हो । यसले भारतको दक्षिण भारतीय राज्यहरू तमिलनाडु, आन्ध्र प्रदेश र पुदुच्चेरीलाई नराम्री प्रभावित गरेको छ । यस विनासकारी बाढीले सबैभन्दा बढी क्षति चेन्नईलाई पुऱ्याएको छ । यस बाढीको कारणले हालसम्म लगभग 300 मानिस मारिएका छन् भने 18 लाखभन्दा बढी मानिस यसबाट प्रभावित भएका छन् । यस बाढीबाट हालसम्म ₹200000 करोडभन्दा बढीको नोकसान भएको अनुमान छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 423,
+    "text_length_avg": 228.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1184,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4695.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4695.txt",
+    "relative_path": "4695.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4695.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1184,
+    "mtime": 1782796580.9117258,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "3dae264119373d9200c8174010a5f526913c0986",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "17867.txt",
+  "file_name": "17867.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुलुकी ऐन नेपालको सबैभन्दा पहिलो लिखित कानुन हो। मुलुकी ऐन नेपालको संहिताबद्द राष्ट्रिय कानुन हो। पहिलो पटक बिक्रम सम्बत 1910 मा मुलुकी ऐन जारि गारिएको थियो। जंगबहादुर राणा ले बेलायात यात्रा बाट फर्के लगत्तै यो ऐन बनाएकोले यसमा युरोपको ठुलो छाया परेको छ भन्ने पानि गरिन्छ। तर यो कानुन नितान्त मौलिक कानुन हो। नेपालको कानुनको ईतिहास हेर्दा चौधौ सताव्दीमानै राजा जयस्थिति मल्लले मानव न्यायशास्त्र जारी गरेका थिए।",
+    "यो ऐन हिन्दू दर्शनसनमा आधारित रहेको स्पस्ट रुप्मा देख्न सकिन्छ। यो कानुनको मुख्य उदेश्य जातको आधारमा अपराधीहरुलाई सजायको ब्यबस्था गर्नु रहेको थियो। यो ऐनको मस्यौदा लोकपाति र लेसपाति झा ले मनुस्मिर्तिको आधारमा गारेका थिए । उनिहरु दुबै जना भारतीय बार्महण थिए । राजा सुरेन्र्दले ऐनको मस्यौदा गरेबापात लोकपाति र लेसपाति झालाई महोत्तरिमा 500 बिघा जग्गा दिएका थिए भन्ने कुरा इतिहासमा पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 353,
+    "text_length_max": 1015,
+    "text_length_avg": 543.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7093,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17867.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17867.txt",
+    "relative_path": "17867.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17867.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7093,
+    "mtime": 1782796479.4476788,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a63b82d3afbe71e11d3bcce769fcca2008573833",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

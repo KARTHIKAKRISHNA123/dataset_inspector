@@ -1,0 +1,92 @@
+{
+  "dataset": "24276.txt",
+  "file_name": "24276.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेओमी मेलनी हैरिस एक अंग्रजी अभिनेत्री हुन्। उनी पाइरेटस् अफ द क्यारिबियन चलचित्र श्रंखलामा आफ्नु भूमिका टिया डेल्माको लागि जनिने गर्छिन्। नेओमी आगामी जेम्स बन्ड चलचित्र स्कायफलमा पनि छिन् ।",
+    "उनको जन्म 6 सेप्टेम्बर 1976मा लण्डन, इङ्गल्याण्ड, संयुक्त राज्यमा भएको थियो । उनले सेन्ट मर्लिबोन स्कुलमा शिक्षा प्राप्त गर्नेको लागि भर्ना भइन् र उनले 1998मा पेमब्रोक कलेज, क्याम्ब्रिज विश्वविद्यालय बाट आफ्नु शिक्षा पुरा गरिन् । उनकी आमा जमेकाबाट हुन् भने पिता त्रिनिदादबाट हुन् । उनले आफ्नु अभिनयको सुरुवात 9वर्षको हुदा द टुमरोस् पिपलबाट गरिन् । नोभेम्बर 2002मा उनले 28 डे लेटर नामक चलचित्रमा अभिनय गरिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 408,
+    "text_length_avg": 299.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1570,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24276.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24276.txt",
+    "relative_path": "24276.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24276.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1570,
+    "mtime": 1782796509.0466402,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "827dcd3c3a9483b936dc9a3c082cc1d43248114e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

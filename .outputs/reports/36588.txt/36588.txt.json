@@ -1,0 +1,91 @@
+{
+  "dataset": "36588.txt",
+  "file_name": "36588.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पूर्वाञ्चल अनाथाश्रम पूर्वी नेपालको विराटनगर उपहानगरपालिका 17 मा सञ्चालित छ। यो एक गैरसरकारी संस्था हो। वि. सं. 2044 अर्थात् सन् 1988 मा श्रीमती सीता पोखरेलको नेतृत्वमा समाजसेवीहरूको समूहले मुठ्ठीदानबाट सञ्चालन गर्ने गरी 4/5 जना अनाथहरू लिई यो आश्रम सुरु गरिएको हो। सुरुमा यो सानो कोठामा चलाईएको थियो। यस संस्थाको उद्देश्य- असहाय, अनाथ, परित्यक्त, असुरक्षित बालबालिकालाई संरक्षण, सुरक्षा र शिक्षा दिने हो। उनीहरू शिक्षित भई आत्मनिर्भर बनाउन आश्रम लागिपरेको छ। यहाँ करिब 1 सय अनाथ बालबालिका तथा वृद्धव"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 510,
+    "text_length_max": 510,
+    "text_length_avg": 510.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1338,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36588.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36588.txt",
+    "relative_path": "36588.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36588.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1338,
+    "mtime": 1782796566.094698,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "48f0b37d534a1b690464005e31d758a91fe6194e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

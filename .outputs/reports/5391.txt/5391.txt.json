@@ -1,0 +1,94 @@
+{
+  "dataset": "5391.txt",
+  "file_name": "5391.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:Unreliable sources",
+    "हरि सिंह थापा भारतीय अन्तराष्ट्रीय बक्सर एवम् राष्ट्रिय कोच हुन् । उनी भारतीय बक्सिङ्गको पितामह उपाधिले परिचत छन् । भारतको प्रत्येक राष्ट्रिय प्रतियोगितामा उनले स्वर्ण पदक जितेका थिए । भारतमा उनले कुनै पनि प्रतियोगिता हारेनन् । उनकै कारण आज भारतमा बक्सिङ्ग फैलिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 545,
+    "text_length_avg": 209.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9876,
+      "Latin": 0.0124
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4395,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9876,
+      "Latin": 0.0124
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5391.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5391.txt",
+    "relative_path": "5391.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5391.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4395,
+    "mtime": 1782796584.8919628,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "32182080744cc0c1107f745493709e2eb0c9814c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

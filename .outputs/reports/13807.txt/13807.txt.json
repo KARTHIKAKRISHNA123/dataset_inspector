@@ -1,0 +1,92 @@
+{
+  "dataset": "13807.txt",
+  "file_name": "13807.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दी बाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "मानव द्वारा मंगलको उपनिवेशण, अटकल र गंभीर अध्ययनको एक केन्द्र बिंदु हो, किनभनें त्यसको सतही परिस्थितिहरू र जलको उपलब्धताले साँच्चैं नै मंगल ग्रहलाई सौरमण्डलमा पृथ्वीका अतिरिक्त अन्य सबैभन्दा अधिक मेहमाननवाज ग्रह बनाउँछ| चन्द्रमालाई मानव उपनिवेशनका लागि पहिला स्थानका रूपमा प्रस्तावित गरिएको छ, तर मंगल ग्रहका नजीक एउटा पतला वायुमण्डल छ, जो यसलाई मानव र अन्य जैविक जीवनको मेजबानीका लागि सामर्थ्य क्षमता दिन्छ |  संभावित उपनिवेशण स्थलहरूका रूपमा, मंगल र चन्द्रमा दुइटैका साथ तल गहिरा गुरुत्वीय कूपहरूमा"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 96,
+    "text_length_max": 646,
+    "text_length_avg": 371.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1985,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13807.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13807.txt",
+    "relative_path": "13807.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13807.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1985,
+    "mtime": 1782796460.2304037,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7bd29726697ff6db0fa1830fcf9818e0af0d7b75",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

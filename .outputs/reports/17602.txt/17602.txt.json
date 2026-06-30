@@ -1,0 +1,96 @@
+{
+  "dataset": "17602.txt",
+  "file_name": "17602.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीलङ्का,सिंगापुर ।",
+    "तमिल /ˈtæmɪl/ द्रविडेली भाषा परिवार अन्तर्गत पर्ने एक भाषा हो । यो भारत र श्रीलङ्कामा मुख्य रूपले बसोबास गर्ने तमिल समुदायको मानिसहरूद्वारा बोलिने मुख्य भाषा हो । भारतको तमिलनाडु र सङ्घीय राज्य पुदुच्चेरीमा यसलाई आधिकारिक भाषाको मान्यता प्रदान गरिएको छ । तमिल भाषा श्रीलङ्काको आधिकारिक र राष्ट्रिय भाषा हो भने सिंगापुरमा पनि यो आधिकारिक भाषाको रूपमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 359,
+    "text_length_avg": 127.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9848,
+      "Latin": 0.0076,
+      "Tamil": 0.0076
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1696,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9848,
+      "Latin": 0.0076,
+      "Tamil": 0.0076
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17602.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17602.txt",
+    "relative_path": "17602.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17602.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1696,
+    "mtime": 1782796478.1891813,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "3bf00743b1831a1de114e2cd1f7a8fbdf712619d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

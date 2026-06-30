@@ -1,0 +1,92 @@
+{
+  "dataset": "21707.txt",
+  "file_name": "21707.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2023 क्रिकेट विश्वकप भारत तथा बङ्गलादेशले आयोजना गर्दैछ ।यो क्रिकेट विश्वकपको 13औ संस्करण हुनेछ तथा चौथौ पटक भारतमा हुनेछ । भारतले एक्लै आयोजन गर्न लागेको भने यो पहिलो विश्वकप हो । यसभन्दा पहिले भारतले अन्य राष्ट्रहरू सँग मिलेर 1987 क्रिकेट विश्वकप, 1996 क्रिकेट विश्वकप तथा 2011 क्रिकेट विश्वकप आयोजन गरिसकेको छ ।",
+    "सन् 2023 विश्वकपमा पनि 14 वटा टिम मात्र खेल्ने छन्, यस भन्दा पूर्व सन् 2011 तथा 2015 मा 14 वटा टिम खेल्न पाउने व्यस्था थियो । उत्कृष्ट 8 टिम आईसीसीको क्रमाङ्क अनुसार स्वत: छनौट हुनेछन भने बाँकी रहेको 2 टिमको निर्णय सन् 2022 क्रिकेट विश्वकप छनौटबाट हुनेछ । यसले आईसिसी एसोसिएट र सहयोगी सदस्यहरूलाई 2 वटा ठाउँको लागि मात्र भिड्ने अवसर दिन्छ, भन्नुको अर्थ यस प्रतियोगितामा टेस्ट खेल्ने राष्ट्रहरू पनि खेल्न पाउने अवसरबाट विमुख हुन सक्नेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 436,
+    "text_length_avg": 375.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1908,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21707.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21707.txt",
+    "relative_path": "21707.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21707.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1908,
+    "mtime": 1782796497.5849338,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "e6692063cc986bc2ba343e2e8f73a22c10c0400a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

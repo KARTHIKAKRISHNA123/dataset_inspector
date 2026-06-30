@@ -1,0 +1,92 @@
+{
+  "dataset": "33777.txt",
+  "file_name": "33777.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुष्पलाल श्रेष्ठ - नेपाल कम्युनिष्ट पार्टीको संस्थापक नेता पुष्पलालको जन्म वि.सं. 1981 असार 15 गते पूर्व 2 नं. रामेछाप जिल्लामा पिता भक्तलाल र माता तुलसीकुमारीको माहिला छोराका रूपमा भएको थियो। ",
+    "पिता भक्तलाल 2009 सालको अखिल नेपाल न्यून वैतनिक सरकारी कर्मचारीहरूको हडतालको क्रममा एक्सन कमिटीको अध्यक्ष पनि बन्नुभएको थियो। वि.सं. 1997 सालमा आफ्ना दाजु अमर शहीद गंगालाल श्रेष्ठलाई गोली ठोकी मार्नु ठीक एकदिनअघि भद्रगोल जेलमा सपरिवार भेट्न जाँदा गङ्गालालले पुष्पलाललाई \"माइला, मैले प्रजातन्त्रका निमित्त बालेको दियोलाई तैँले प्रज्वलित पार्नेछस्\" भन्नुभएको थियो र दाजुको यही शब्द नै पुष्पलालको निम्ति राजनीतिमा प्रवेश गर्ने प्रेरणाको श्रोत बन्यो। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 880,
+    "text_length_avg": 537.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7159,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33777.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33777.txt",
+    "relative_path": "33777.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33777.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7159,
+    "mtime": 1782796553.0909216,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46cee896cf529c370ec1206463b1f72f5501f0a1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

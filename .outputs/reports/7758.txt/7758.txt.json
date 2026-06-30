@@ -1,0 +1,92 @@
+{
+  "dataset": "7758.txt",
+  "file_name": "7758.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मौसम पोर्टल",
+    "वर्षा वायुमण्डलमा संकलित जलवाष्प अत्याधिक गह्रौ भएर पृथ्वीको गुरुत्वाकर्षण बलको कारण आकाशबाट पानी थोपाको रुपमा जमिनमा खस्ने प्रक्रिया हो । तर सबै वर्षा जमीनसम्म पुगदैनन, केही त सुख्खा हावा भएर खस्दा वाष्पीभूत हुन्छन । कुनै कुनै बेला त सबै बर्षा हावामा नै वाष्पीभूत हुन्छन । जल चक्रमा वर्षाको प्रमुख भुमिका हुन्छ, जसमा सागरहरूका ओस वाफिएर गई वादलमा चिसिन पुग्छ, अनि पृथ्वीमा खसेर अन्ततोगत्वा खोलानालाका माध्यमबाट सागरमै पुग्छ र यो चक्र दोहोरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 482,
+    "text_length_avg": 266.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4262,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7758.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7758.txt",
+    "relative_path": "7758.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7758.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4262,
+    "mtime": 1782796595.9765453,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "66b80507ffa8f881f8c0078d98a18312cf2c5175",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

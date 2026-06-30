@@ -1,0 +1,92 @@
+{
+  "dataset": "24884.txt",
+  "file_name": "24884.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्स्येन्द्रनाथ/मच्छिन्द्रनाथ",
+    "सहकालका देवताका रूपमा मानिने मत्स्येन्द्रनाथ हिन्दू धर्मवलम्बीमध्ये शैव धर्मावलम्बीका नाथ सम्प्रदायका भगवान् हुन् भने बौद्ध धर्मावलम्बीमाझ श्री करुणामय वंगद्यः पद्मपाणि आर्यावलोकितेश्वर, लोकनाथ आदि नामले पुकारिन्छ। पाटनको रातो मत्स्येन्द्रनाथ र काठमाडौको सेतो मत्सेन्द्रनाथ प्रसिद्द छन भने यी बाहेक लिच्छवीकालीन र मल्लकालीन समयमा स्थापित भएका अन्य तीनवटा मत्स्येन्द्रनाथका मूर्ति र मन्दिरहरू रहेका छन्। त्यस अन्तर्गत सेतो मत्स्येन्द्रनाथमा काठमाडौ र नालाको सेतो मत्स्येन्द्रनाथ हुन्। त्यस्तै रातो मत्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 914,
+    "text_length_avg": 562.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6120,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24884.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24884.txt",
+    "relative_path": "24884.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24884.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6120,
+    "mtime": 1782796511.7728596,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "201a72e756918a5a30745e9d9f2af4e9ee72c733",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

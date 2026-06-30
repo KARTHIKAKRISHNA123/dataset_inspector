@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12386.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तर पूर्वी भारत",
+    "पूर्वोत्तर भारत, भारतको सुदुर पूर्वीय क्षेत्रहरूको तर्फ संकेत गर्दछ जसमा एक साथ जोडिएको सेवेन सिस्टर्सको नामबाट प्रसिद्ध राज्य, सिक्किम र उत्तरी बङ्गालको केही भाग शामिल छं. पूर्वोत्तर भारत सांस्कृतिक दृष्टिबाट भारतको अन्य राज्यहरू भन्दा भिन्न छ। भाषाको दृष्टिबाट यो क्षेत्र तिब्बती-बर्मी भाषाहरूको धेरै प्रचलनको कारण अलगबाट पहचानिन्छ। यस क्षेत्रमा उ दृढ जातीय संस्कृति व्याप्त छ जुन संस्कृतिकरणको प्रभावबाट बची रह गई थियो। यसमा विशिष्ट श्रेणीको मान्यता प्राप्त आठ राज्य पनि छं. यी आठ राज्यहरूको आर्थि"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1697,
+    "text_length_avg": 533.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14180,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12386.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12386.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12386.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14180,
+    "mtime": 1782796611.2171562,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "87253922ac46ff5cfec044ea86fdb4ae4ec30349",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

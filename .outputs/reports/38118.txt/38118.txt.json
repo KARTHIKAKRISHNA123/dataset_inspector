@@ -1,0 +1,91 @@
+{
+  "dataset": "38118.txt",
+  "file_name": "38118.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिच्छी एक प्रकारको विषालु कीरा हो। यो कीरा माकुरा समूहको जीव हो। बिच्छीहरू धेरै प्रजातीको हुन्छ। बिच्छीको बिषले सर्प पनि मर्छ। बिच्छी हेर्दा गँगटो जस्तै हुन्छ। दुइटा दाँत, एक पुच्छर र छ वटा खुट्टा बिच्छीको शरीरमा हुन्छन्। यसले एक चोटीमा धेरै बच्चाहरू पैदा गर्छ भने यो प्राय सुकेको गोबर कुहिएको पुरानो रुखको बोक्राम पाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 322,
+    "text_length_max": 322,
+    "text_length_avg": 322.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 860,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38118.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38118.txt",
+    "relative_path": "38118.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38118.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 860,
+    "mtime": 1782796573.829847,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "940e115d9df08748454c2dfc1c6908b86da2998d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

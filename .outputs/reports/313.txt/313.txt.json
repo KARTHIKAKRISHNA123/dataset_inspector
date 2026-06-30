@@ -1,0 +1,96 @@
+{
+  "dataset": "313.txt",
+  "file_name": "313.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शोले एक भारतीय चलचित्र हो, जसको निर्देशन रमेश सिप्पीले गरेका हुन् । युस चलचित्रमा धर्मेन्द्र, संजीव कुमार तथा अमिताभ बच्चन मुख्य भुमिकामा रहेका छन् ।",
+    "All lyrics written by आनन्द बक्शी, all music composed by राहुल देव बर्मन."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 73,
+    "text_length_max": 149,
+    "text_length_avg": 111.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8022,
+      "Latin": 0.1978
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 517,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8022,
+      "Latin": 0.1978
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "313.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\313.txt",
+    "relative_path": "313.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "313.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 517,
+    "mtime": 1782796541.753973,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "22bacd82cc7b3644a503a109ea869791aede6828",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

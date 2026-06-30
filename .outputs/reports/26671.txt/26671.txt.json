@@ -1,0 +1,92 @@
+{
+  "dataset": "26671.txt",
+  "file_name": "26671.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फुन्छोलिङ्ग दक्षिणी भूटानको एक सीमावर्ती शहर हो। यो भारतिय सहर जयगाउँको छेवैमा छ। यो छुखा जोखाङ्गमा पर्छ। भूटानको सीमा पार व्यापारको यो प्रमुख नाकाले स्थानीय अर्थव्यवस्था र सम्पन्नतामा प्रभाव पारेको छ। यो सहरले केन्द्रिय बैंकको प्रधान कार्यालयको रूपमा सेवा गर्दछ। 2005को जनगणना यो सहरको जनसङ्ख्या अनुसार 20,537 छ। ",
+    "पुग्न सकिने नै सडक मार्गबाट मात्र, सहर प्रमुख भारतीय रेल नेटवर्क न्यू जलपाईगुडी,को भागसँग जोडिएको छ। पश्चिम बङ्गालको उत्तरी सहरहरूबाट, फुन्छोलिङ्ग जान जोसुकैले कुनै स्थानीय बस टर्मिनलहरूबाट बस लिनु पर्ने छ। भारतीय र भूटानी दुवै सरकार संचालकद्धारा चलाए जाँदैछन्। यात्राको समय लगभग 6-8 घन्टा छ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 252,
+    "text_length_max": 539,
+    "text_length_avg": 340.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5459,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26671.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26671.txt",
+    "relative_path": "26671.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26671.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5459,
+    "mtime": 1782796520.1733286,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1491c81999d1980de23be35b1393bc9e7a3a248f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

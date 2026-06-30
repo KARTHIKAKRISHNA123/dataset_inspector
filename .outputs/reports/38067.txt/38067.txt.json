@@ -1,0 +1,94 @@
+{
+  "dataset": "38067.txt",
+  "file_name": "38067.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मानव -जीवनमा यहाँदेखि जन्मपछिको अवस्था सुरु हुन्छ । यो मानव जीवनमा जन्मपछि 2 हप्तासम्मको जीवनावधि हो । यो पूरै नया वातावरणमा समायोजन हुने अवस्था हो । यो अवस्थालाई Hurlock का अनुसार 2 भागमा बाडीएको छ ।",
+    "गर्भबाट बाहिरी संसारमा निस्केपछि नाल नाकटुन्जेलको अवस्था हो । करिब 15 देखि 30 मिनेटसम्म यो अवस्था रहन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 105,
+    "text_length_max": 200,
+    "text_length_avg": 152.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9715,
+      "Latin": 0.0285
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 785,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9715,
+      "Latin": 0.0285
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38067.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38067.txt",
+    "relative_path": "38067.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38067.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 785,
+    "mtime": 1782796573.5628185,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "43ff18f3a30cfae1e9ae6942e9437a806f375d3c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

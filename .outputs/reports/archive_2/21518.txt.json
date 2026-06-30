@@ -1,0 +1,98 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21518.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यस सूचीमा एसियाका सार्वभौम सम्पन्न देश र निर्भर प्रदेशहरू अनि यी देशहरूका राजधानी, भाषा, मुद्रा, जनसङ्ख्या, क्षेत्रफल र प्रति व्यक्ति सकल घरेलू उत्पाद दिइएको छ। ",
+    "इटली र स्पेनका केही भागहरू र माल्टा अफ्रीकी महाद्वीपीय प्लेटमा अवस्थित छन्, तर यी देशहरू यूरोपीय महाद्वीपमा छन्। सोकोट्रा द्वीप पनि महाद्वीपीय प्लेटमा छ, तर यो एसियायी देश यमनको भाग हो। मिश्र एसियासम्म फैलिएता पनि यो अफ्रिकाको देश मानिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 239,
+    "text_length_avg": 56.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7573,
+      "Latin": 0.1384,
+      "Tamil": 0.0749,
+      "Arabic": 0.0293
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1914,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7573,
+      "Latin": 0.1384,
+      "Tamil": 0.0749,
+      "Arabic": 0.0293
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21518.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21518.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21518.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1914,
+    "mtime": 1782796629.2829232,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.972,
+    "sha1_quick": "dbb7f9f4f6c67c631110b250301c526dea61b350",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

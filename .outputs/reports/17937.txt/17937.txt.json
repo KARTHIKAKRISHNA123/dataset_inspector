@@ -1,0 +1,94 @@
+{
+  "dataset": "17937.txt",
+  "file_name": "17937.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेरठ भारतको उत्तर प्रदेश राज्यको एक शहर हो । यहाँ नगर निगम कार्यरत छ । यो प्राचीन नगर दिल्लीदेखि 72 कि॰मी॰ उत्तर पूर्वमा स्थित छ । मेरठ, राष्ट्रीय राजधानी क्षेत्र को हिस्सा हो । यहाँ भारतीय सेनाको एक छावनी पनि छ । यो उत्तर प्रदेशको सबैभन्दा क्खिटो विकसित र शिक्षित हुने जिल्लाहरूमा एक हो । ",
+    "मेरठको भौगोलिक स्थिति 28.98° N 77.7° E यहाँको औसत ऊंचाई 219 मीटर छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 393,
+    "text_length_avg": 192.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Latin": 0.0013
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5098,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9987,
+      "Latin": 0.0013
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17937.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17937.txt",
+    "relative_path": "17937.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17937.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5098,
+    "mtime": 1782796479.7691946,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "34e1e48eac75338203316ed1d64587dd3a04f43a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

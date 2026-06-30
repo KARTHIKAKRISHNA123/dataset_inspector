@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1306.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गरीब एकता समाज पार्टी नेपाल नेपालको एक राजनीतिक दल हो। यो पार्टीका वर्तमान अध्यक्ष रमेश राउत हुन्। गरीब एकता समाज पार्टी नेपालको केन्द्रीय कार्यालय ललितपुरको इमाडोलमा छ। यसले संविधान सभा निर्वाचन 2070मा भाग लिएको थियो। उक्त निर्वाचनमा यो दलको चुनाव चिन्ह नाङ्लो थियो। गरीब एकता समाज पार्टी नेपालले संविधान सभा निर्वाचन 2070मा प्रत्यक्ष तर्फ कुल 421 मत प्राप्त गरेको थियो भने समानुपातिक तर्फ 5,859 मत प्राप्त गरेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 419,
+    "text_length_max": 419,
+    "text_length_avg": 419.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1093,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1306.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1306.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1306.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1093,
+    "mtime": 1782796612.5125656,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "20e63bdf8e54cce683d05c7461b17088dc0b0512",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

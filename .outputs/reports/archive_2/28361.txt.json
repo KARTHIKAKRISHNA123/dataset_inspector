@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यमुना नदीका तटमा स्थित आगरा शहर ऐतिहासिक स्मारकहरुका लागि प्रसिद्ध छ। सन् 1506मा सिकंदर लोधीले मुगलहरुको राज्य स्थापित गरेको थियो। मुगलहरुका शासनका बेला खूबसूरत स्मारक स्थापित गरियो थिए जसलाई हेर्ने आज पनि पर्यटक आगरा आउँछन्।",
+    "आगरामा हस्तशिल्प धेरै नैं प्रसिद्ध छ। यहाँ संगमरमरका पत्थरहरुमा सुन्दर आकृतीहरु उकेरी गई छन्। गहने, तोहफे एवं अन्य चीजहरुलाई सुरक्षित रखनका लागि केही विशेष प्रकारका बक्स बनाइन्छन्। जरदोजीदेखि बनाए गए कपडे पर्यटकहरुका मध्य धेरै नैं लोकप्रिय छन्। सदर बाजार, किनारी बाजार, राजा-की-मंडीमा विभिन्न प्रकारको आकर्षक र मनोहारी चीजहरु देखी जा सक्छौं।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 341,
+    "text_length_avg": 162.46,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5695,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28361.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5695,
+    "mtime": 1782796642.9275706,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5a2594ba162cc012700a390b44d769303b48322b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

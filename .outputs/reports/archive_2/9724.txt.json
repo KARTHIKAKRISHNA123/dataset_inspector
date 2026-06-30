@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9724.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भरतपुर नेपालको नारायणी अञ्चलको चितवन जिल्लाको एक महानगरपालिका हो। नेपालको मन्त्री परिषद अन्तर्गतको सामाजिक समितिले 61 वटा नगरपालिका थप गर्ने र 7 वटा नगरपालिकालाई उपमहानगरपालिका बनाउने निर्णय गरेकोमा भरतपुरलाई पनि नगरपालिकाबाट उपमहानगरपालिकामा विस्तार गेरको हो । भरतपुरलाई उपमहानगरपालिका घोषित गर्दा यसमा मङ्गलपुर, फुलबारी, गीतानगर, पटिहानी तथा शिवनगर गाविसलाई समावेश गरिएको छ । यस उपमहानगरपालिकामा 29 वडा छन् । वि.सं. 2035 मा तत्कालीन नगरपञ्चायतको पहिलो नगरप्रमुख मुक्तिलाल चुके र नगर उप-प्रमुख जङ्गब",
+    "नेपालको बि.स.2068 को जनगणना अनुसार भरतपुर न.पा.को जनसंख्या 1,43,836 रहेको छ । यस मध्य पुरुष 51%, र महिला 49% छन् । भरतपुरमामा मुख्यतया थारू, दराइ, बोटे, गुरुङ,मगर,चेपाङ, तामाङ,थोरै संख्यामा राई,लिम्वुका साथै बराल,पौडेल,अधिकारी,थापा, के.सी. बोहोरा थर भएका बाहुन तथा क्षेत्री जाती श्रेष्ठ, प्रधान, महर्जन, साही लगायत थर भएका नेवार जातीका मानिसका साथै नेपालमा पाइने सबै जात जातीका मानिस बसोबास गर्दछन ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 883,
+    "text_length_avg": 409.87,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16289,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9724.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9724.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9724.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16289,
+    "mtime": 1782796675.1935449,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dea1d9ed821d88e7bd9391c0166365c797517e31",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

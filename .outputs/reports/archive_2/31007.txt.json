@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31007.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट खेलमा ब्याटिङ एक कला वा शैली हो जुन क्रिकेट बललाई क्रिकेट ब्याटद्वारा प्रहार गरेर रन बनाउन वा एक विकेट बचाउनका लागि गरिन्छ । एउटा खेलाडी जो वर्तमानमा ब्याटिङ गरिरहेको छ त्यसलाई ब्याट्सम्यान भनिन्छ भने बललाई हिर्काउने कलालाई शट वा स्ट्रोक भन्ने गरिन्छ । विशेसज्ञ ब्याट्सम्यान पदले सामान्य रूपमा त्यस्तो खेलाडीको वर्णन गर्छ जो ब्याटिङ गर्न विशेसज्ञ हुन्छ ब्याटिङ गरिरहेको अवस्थामा खेलाडीलाई ब्याट्सम्यान पदको पनि प्रयोग गरिन्छ । पछि यो पद आफ्नो पालोमा ब्याट गर्ने कुनै पनि खेलाडीको लागि प्रयोग ",
+    "एक इनिङको समयमा ब्याटिङ गर्ने समूहको दुई खेलाडी पिचमा सदैव रहन्छ । बलरको वर्तमान बल सामना गर्नेलाई स्ट्राइकर र अर्कोलाई नन-स्ट्राइकर भनिन्छ । जब कुनै ब्याट्सम्यान आउट हुन्छ त्यस समय उसको कुनै टिमको सदस्यले उसलाई स्थानान्तरित गर्छ । यो निरन्तर चलिरहन्छ जब सम्म एउटा टिमको इनिङको समाप्ति हुदैन वा सो टिमको 10 खेलाडी आउट हुदैन वा अर्को टिमले ब्याटिङ गर्ने अवसर पाउदैन ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 681,
+    "text_length_avg": 409.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3282,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31007.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31007.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31007.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3282,
+    "mtime": 1782796648.0953455,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46aedb5b69c6d48167c686e22c00ffe0072557e4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

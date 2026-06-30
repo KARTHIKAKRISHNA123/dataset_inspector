@@ -1,0 +1,94 @@
+{
+  "dataset": "5312.txt",
+  "file_name": "5312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Tigris striatus Severtzov, 1858",
+    "भालु अर्सिडि परिवार अन्तर्गत पर्ने स्तनधारी जनावर हो। विश्वभरी भालुका आठ प्रजातीहरू मात्रै पाइने भएपनि यिनीहरू उत्तरी गोलर्द्धका प्राय सबै भूभागमा मात्र नभई दक्षिणी गोलर्द्धका केही भूभागमा समेत पाइन्छन्। भालुहरू उत्तरी अमेरिका, दक्षिणी अमेरिका, युरोप र एसियामा प्रसस्त पाइन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 498,
+    "text_length_avg": 295.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9847,
+      "Latin": 0.0153
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5546,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9847,
+      "Latin": 0.0153
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5312.txt",
+    "relative_path": "5312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5546,
+    "mtime": 1782796584.5226197,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dc850b3e9c9a31945f4326260855d28971d27868",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

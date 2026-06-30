@@ -1,0 +1,94 @@
+{
+  "dataset": "15220.txt",
+  "file_name": "15220.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लक्ष्मी बैंकको स्थापना इ. सं. 2002, अप्रीलमा नेपालको सोह्रैा बैंकको रूपमा भएको हो। ",
+    "इ. सं. 2004 सालमा हाइसेफ फाइनान्स लि. लक्ष्मी बैंकसँग गाभिएको थियो। यो नेपालकै पहिलो र अहिले सम्मको एक मात्र मर्जर हो। लक्ष्मी बैंक नेपाल राष्ट्र बैंकबाट “क” वर्गको इजाजत प्राप्त बैंक हो, र इ. सं. 2006मा बैंक तथा बित्तीय संस्था संबन्धी एैन अन्तर्गत पुनः दर्ता भएको हो। बैंकको शेयर नेपाल स्टक एक्स्चेन्जमा किनबेच हुने गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 324,
+    "text_length_avg": 139.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0045
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2181,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0045
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15220.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15220.txt",
+    "relative_path": "15220.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15220.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2181,
+    "mtime": 1782796466.5162554,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "dd1089b003b769bb495f85aba5ed5666d4cd8aa3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

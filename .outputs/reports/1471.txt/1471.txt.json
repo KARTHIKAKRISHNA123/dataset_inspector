@@ -1,0 +1,91 @@
+{
+  "dataset": "1471.txt",
+  "file_name": "1471.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हडसन नदी संयुक्त राज्य अमेरिकाकाे न्यु येार्क प्रान्तकाे पूर्वी भागबाट बग्ने एउटा नदी हाे । दक्षिणी क्षेत्रदेखि यस नदीले न्युयाेर्क र न्यु जर्सीलार्इ सीमामा छुट्याएकाे छ । नदीका अन्वेषक निदरल्यान्डका नागरिक हेनरी हडसनका नामबाट यस नदीकाे नामकरण गरिएकाे छ । न्युयाेर्कदेखि प्रसान्त महासागरसम्म यसकाे लम्बाइ 315 माइल अर्थात् 507 किलाेमिटर रहेकाे छ । यस नदीकाे स्राेत बादलकाे अाँसु नामक ताल हाे र समुद्र सतहबाट याे ताल 4332 फिट अर्थात् 1317 मिटरकाे उचाइमा रहेकाे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 462,
+    "text_length_max": 462,
+    "text_length_avg": 462.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1211,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1471.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1471.txt",
+    "relative_path": "1471.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1471.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1211,
+    "mtime": 1782796464.328014,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "68f5ec46105a5396e43e414e1b894d5ad7208080",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

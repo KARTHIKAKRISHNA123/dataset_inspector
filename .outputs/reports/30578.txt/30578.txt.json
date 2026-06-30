@@ -1,0 +1,92 @@
+{
+  "dataset": "30578.txt",
+  "file_name": "30578.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शास्त्रीयरूपमा आठ प्रकारका विवाहहरू वणिर्त छन् ",
+    "यी परम्परागत विवाहलाई नेपाली समाजले मागी विवाह, भागी विवाह, चोरी विवाह, जारी विवाह, प्रेम विवाह आदि नाम दिने गरेको पाइन्छ। परम्परागतरूपमा मागी विवाहको सर्वव्यापकता थियो। कतिपय जातजातिहरूमा चोरी विवाह र मागी विवाह पनि प्रचलित थिए। हाल सबै शिक्षित समाजमा प्रेम विवाह फस्टाउँदै गएको छ। एक प्रकारले यो मान्य भइसकेको छ। जारी विवाहको प्रचलन हराउँदै गएको छ। गाउँघरमा दुई-चारजना गएर सामान्य किसिमले विवाह सम्पन्न गरी केटी लिएर आउने विवाहलाई कुम्ले विवाह र निकै ठूलो तयारी गरी बाजा र जन्ती लिएर गई केटी लिएर आ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 533,
+    "text_length_avg": 290.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1547,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30578.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30578.txt",
+    "relative_path": "30578.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30578.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1547,
+    "mtime": 1782796538.4931176,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d85d6a2cc9be35c8d171ed9a30095ebdcf548e6e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

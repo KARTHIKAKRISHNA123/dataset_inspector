@@ -1,0 +1,92 @@
+{
+  "dataset": "10116.txt",
+  "file_name": "10116.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमेरिकी केन्द्रीय बैङ्क प्रणालीको गवर्नरहरूको अध्यक्ष अमेरिकाको केन्द्रीय बैङ्क प्रणालीको प्रमुख हुन्छ । सामन्य बोलचालको भाषमा यसको प्रमुखलाई \"फेडको अध्यक्ष\", \"फेड अध्यक्ष\" तथा \"फेड प्रमुख\" पनि भन्ने गरिन्छ । यस प्रणालीको अध्यक्ष अमेरिकी केन्द्रीय बैङ्क प्रणालीको गवर्नरहरूको \"सक्रिय कार्यकारी कर्मचारी\" हुन्छ । वर्तमानमा यसको प्रमुखलाई तटस्थ शीर्षकको रुपमा \"अध्यक्ष\" भन्ने गरिन्छ । ",
+    "हाल यसको प्रमुख जेनेट एलन हुन्, उनी पहिलो महिला हुन् जसले यस जिम्मेवारीलाई वहन गरेकी हुन् । उनले आफ्नो कार्यकाल सन् 2014 फेब्रुअरी 1 मा सुरुवात गरेकी थिइन् यस भन्दा पूर्व उनी उपाध्यक्ष भएर सन् 2010 देखि सन् 2014 सम्म कार्य गरेकी थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 236,
+    "text_length_max": 383,
+    "text_length_avg": 309.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1620,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10116.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10116.txt",
+    "relative_path": "10116.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10116.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1620,
+    "mtime": 1782796443.0317662,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72d8f2f9283668f354266d84fcd2952d96ceeef3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30938.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साहिवाल विभाग पाकिस्तानको पञ्जाब प्रदेशको 9 अौँ विभागको एक हो । सन् 1998 मा यस विभागको जनसङ्ख्या 6,271,247 थियो भने वार्सिक जनसङ्ख्या विद्ध दर 1.92% रहेको छ । सन् 2008 मा साहिवाल विभाग तीन जिल्लामा विभाजन भएको छ जसमा -साहिवाल जिल्ला, अोकरा जिल्ला, पाकपट्टन जिल्लाहरू हुन् । साहिवाल शहर दुवै साहिवाल जिल्ला र साहिवाल विभागको राजधानी शहर हो । ",
+    "यस विभागको 18 माइल दक्षिण-पश्चिममा हडप्पा विभाग रहेको छ जुन पाकिस्तानको एक प्रचीन सिन्धु उपत्यका एक भाग थियो । यस विभागबाट कमिलिया शहरबाट 28 माइल जुन 325 ई.पूमा एलेक्जेन्डर द ग्रेटले अाफ्नो काबुमा लिएका थिए । सन् 1849 मा पाकपट्टन प्रशासनिक जिल्ला लाहौर र मल्तान को बीच मा स्थापित भएको थियो । 1851 मा पाकपट्टनको मुख्यालय गोगरा जिल्लामा सारियो । पकपट्टन प्रशासनिक जिल्लाको गोगरा जिल्लाको नाममा सारिएको थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 541,
+    "text_length_avg": 314.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7306,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30938.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30938.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30938.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7306,
+    "mtime": 1782796647.9260144,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "aadeeb83760ba2ce5d1eb30b2e2231ceee749a9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

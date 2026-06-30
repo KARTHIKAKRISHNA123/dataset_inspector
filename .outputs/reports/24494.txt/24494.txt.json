@@ -1,0 +1,92 @@
+{
+  "dataset": "24494.txt",
+  "file_name": "24494.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय सहकारी महासंघ नेपालका सहकारी संघसंस्थाहरूको छाता सङ्गठन हो। सहकारी ऐन 2048 अनुसार यसको स्थापना 2050 असार 6 गते भएको थियो। ",
+    "महासंघमा हाल देशभरका 321 विषयगत सहकारी संघहरू तथा जिल्ला सहकारी संघहरू सदस्य रहेका छन्। त्यसैगरी 12 वटा कर्पोरेट सदस्यहरू पनि छन्। ती विषयगत संघ तथा जिल्ला सहकारी संघ हरू मार्फत तिनमा आबद्ध रहेका देशभरका 34,412 सहकारी संस्थाहरू पनि यस महासंघमा आबद्ध रहेका छन्। महासंघको अध्यक्ष केशव बडाल रहेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 94,
+    "text_length_max": 298,
+    "text_length_avg": 174.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1367,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24494.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24494.txt",
+    "relative_path": "24494.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24494.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1367,
+    "mtime": 1782796510.0304663,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "99ced9a51362786f178cfc458d992385cbb01bf3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

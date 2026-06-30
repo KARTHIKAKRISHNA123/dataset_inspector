@@ -1,0 +1,92 @@
+{
+  "dataset": "10538.txt",
+  "file_name": "10538.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुद्ध एयर नेपालको निजि विमानसेवा कम्पनी मध्य सबैभन्दा लामो समय नेपाली आकासमा उडान भर्ने नेपाली बिमान कम्पनि हो । अन्तर्राष्ट्रिय र राष्टिय दुवै उडान गर्ने बुद्ध एयरले नेपालका 14 स्थानमा र भारत र भुटानमा पनि उडान गर्छ।यसको मुख्य कार्यालय ललितपुरको जवालाखेलमा छ । ",
+    "अक्टोवर 1997 मा विच 1900 डि वाट बुद्ध एयरले आफ्नो उडान सुरु गरेको थियो । संचालनको 20 बर्ष पूरा गर्दासम्म कम्पनिले 1 करोड 1 लाख भन्दा बढी मानिसहरुलाई उडान सेवा प्रदान गरिसकेको छ । सुरक्षामा कुनै सम्झौता नगर्ने र यात्रुलाई पहिलो प्राथमिकतामा राखेको हुनाले बुद्ध एयर यात्रुको पहिलो रोजाई हुन सफल भएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 300,
+    "text_length_avg": 189.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2509,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10538.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10538.txt",
+    "relative_path": "10538.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10538.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2509,
+    "mtime": 1782796445.1352713,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "af7cc82dbd6947848e7d68f21a9e2153d8634735",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

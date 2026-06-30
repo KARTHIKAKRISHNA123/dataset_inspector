@@ -1,0 +1,96 @@
+{
+  "dataset": "26586.txt",
+  "file_name": "26586.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The 1980 AFC Asian Cup was the seventh edition of the Asian Nations Cup, the football championship of Asia . It was hosted by Kuwait between 15 and 30 September. The field of ten teams was split into two groups of five. Kuwait won their first championship, beating Korea Republic in the final 3–0. Midway through the tournament Iraq invaded Iran. Kuwaiti television supported the attack and aired propaganda in favor of the Iraqis. This led to a very poor atmosphere in the Iranian camp, especially f",
+    "छनोट भएको अन्य राष्ट्रहरू:"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 632,
+    "text_length_avg": 109.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9069,
+      "Devanagari": 0.0931
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1153,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9069,
+      "Devanagari": 0.0931
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26586.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26586.txt",
+    "relative_path": "26586.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26586.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1153,
+    "mtime": 1782796519.7914631,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "1297677812c961b24ee31b7c178d89ef4fec3e2c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

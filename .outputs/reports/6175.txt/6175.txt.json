@@ -1,0 +1,94 @@
+{
+  "dataset": "6175.txt",
+  "file_name": "6175.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ओसामा बिन लादेन 10 मार्च 1957मा साउदी अरबको एक धनी परिवारमा जन्मे। मोहम्मद बिन लादेनका 52 सन्तानमध्ये 17 नम्बरका थिए उनी। मोहम्मद साउदी अरबका अरबपति ठेकेदार हुन्। उनको कम्पनीले देशको लगभग 80 प्रतिशत सडक निर्माण गरेको थियो। जब लादेनका बाबुको 1968मा हेलिकोप्टर दुर्घटनाबाट मृत्यु भएपछि पिताको सम्पत्तिका हकदार उनी युवा अवस्थामै विनामिहिनेत करोडपति बन्न पुगे। साउदी अरब के साह अब्दुल्लाह अजिज विश्वविद्यालयमा उनी इन्जिनियरिङ पढ्दै गर्दा कट्टरपन्थी शिक्षक र विद्यार्थीसँग नजीकिए। ",
+    "अनेकाँै बहस र अध्ययनपछि पश्चिमी देशमा बढेको सामाजिक र पारिवारिक मूल्यको पतनविरुद्धमा देखापरे। त्यसअघि आफ्नो परिवारसँग युरोप घुम्न जाँदा फेसेनेबेल कपडामा देखिएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 3386,
+    "text_length_avg": 569.19,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9973,
+      "Latin": 0.0027
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24174,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6175.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6175.txt",
+    "relative_path": "6175.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6175.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24174,
+    "mtime": 1782796588.5395267,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "710b852abf96a08c6ef22f0afc0c7d28840a6a10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

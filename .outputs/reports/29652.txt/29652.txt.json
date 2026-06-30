@@ -1,0 +1,92 @@
+{
+  "dataset": "29652.txt",
+  "file_name": "29652.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट इनिङमा यदि ब्याट्सम्यान उक्त इनिङको समाप्ति सम्ममा आउट नभएमा ऊ अविजित रहन्छ । ब्याट्सम्यानको इनिङजारी रहेको अवस्थामा पनि उ अविजित रहेको हुन्छ । यदि ब्याट्सम्यानको स्कोरको पछाडि * संकेत भएमा उ अविजित रहेको बुझिन्छ । जस्तैः10* लाई 10 रनमा अविजित रहेको भनेर पढिन्छ । ",
+    "कुनैपनि इनिङको समाप्ति सम्म कम्तीमा एक जना ब्याट्सम्यान अविजित रहन्छ किनकी 10 जना आउट हुन्छन् र एघारौंको ब्याटिङ गर्ने साथी हुदैन । प्रथम श्रेणी क्रिकेटमा यदि डिक्लियरेसन गरेमा र सिमित ओभरको क्रिकेटमा निर्धारित गरिएको ओभर समाप्त भएमा दुई जना ब्याट्सम्यान पनि अविजित रहन सक्छन् । ब्याटिङ क्रममा अविजित रहेको ब्याट्सम्यान भन्दा तल रहेका ब्याट्सम्यानहरू भने अविजित नभइ ब्याटिङ नगरेको भनी उल्लेख गरिन्छ;तर यदि ब्याट्सम्यान क्रिजमा आएमा र उसले 1 बल सामना नगरे पनि उ अविजित हुन्छ । यदि कोही ब्याट्सम्यान घा"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 234,
+    "text_length_max": 592,
+    "text_length_avg": 366.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2909,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29652.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29652.txt",
+    "relative_path": "29652.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29652.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2909,
+    "mtime": 1782796534.2566147,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "d1064363ae24f17397a08c03b2802df99061c636",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

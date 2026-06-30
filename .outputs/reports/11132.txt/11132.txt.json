@@ -1,0 +1,92 @@
+{
+  "dataset": "11132.txt",
+  "file_name": "11132.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोशना चिनप्पा एक भारतीय महिला स्क्वश खिलाडीमा एक हुन्। 2003मा अंडर 19को केटेगरीमा ब्रिटिश स्क्वश छेम्पियनशिप जीतने वाली उनी प्रथम भारतीय महिला बनिन्। उनी भारतकी सबैभन्दा कम उमेरकी नेशनल चेम्पियन पनि हुन्। ",
+    "हालमा उनको विश्व रेङ्किंग 32औं हो। मे 2012मा उनीले चेन्नई ओपन पनि जिती सकेकी छिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 82,
+    "text_length_max": 299,
+    "text_length_avg": 195.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1525,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11132.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11132.txt",
+    "relative_path": "11132.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11132.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1525,
+    "mtime": 1782796447.934247,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.976,
+    "sha1_quick": "ac18535c0f4c4a4565cca9bccb050ec0c89e5254",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

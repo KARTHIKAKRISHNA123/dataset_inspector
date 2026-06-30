@@ -1,0 +1,93 @@
+{
+  "dataset": "37284.txt",
+  "file_name": "37284.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इलाम बजारबाट 36 किलोमिटरमाथि चढेपछि पुगिन्छ इलामको सबैभन्दा अग्लो डाँडो, सन्दकपुर। देखिन त सूर्य जहाँबाट पनि देखिन्छ तर केही ठाउँ यस्ता हुन्छन् जहाँको सूर्य देख्दा आकाश नै आफ्नो भएजस्तो लाग्छ। इलामको सन्दकपुर त्यस्तै थुम्को हो, जहाँ धपधप बलेको सूर्य आकाशमा होइन, हेर्नेको आँखामा उदाउँछ। श्रीअन्तु, सिद्धिथुम्का र सन्दकपुर; यी तीन डाँडाले इलामलाई सूर्‍योदयको जिल्ला का रूपमा चिनाएका छन्।",
+    "माइमझुवा गा.वि.स. 9 र मावु गा.वि.स.8को संगमस्थल सन्दकपुर 3636 मी.को उचाइमा नेपाल भारत सिमा क्षेत्रमा अवस्थित प्रसिद्ध ठाउँ हो । यहाँ बाट कार्त्तिक देखि बैशाख सम्म सूर्योदयको दृश्यावलोकन गर्न सकिन्छ । यही मौसममा हिउँ समेत पर्ने र लामो समयसम्म रही रहन्छ । यहाँबाट सगरमाथा कंचनजंघा लगायतका हिमालको समेत दृश्यावलोकन गर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 25,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 2303,
+    "text_length_avg": 485.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 32241,
+    "estimated_records": 66
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 66,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37284.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37284.txt",
+    "relative_path": "37284.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37284.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 32241,
+    "mtime": 1782796569.4738674,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1833cc777522da3be6e6c675eaa985e1161c9fd3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

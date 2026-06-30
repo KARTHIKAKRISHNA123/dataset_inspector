@@ -1,0 +1,92 @@
+{
+  "dataset": "19525.txt",
+  "file_name": "19525.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विजयवाडा भारतको आन्ध्र प्रदेश राज्यका तीन प्रमुख सहरहरू मध्येको एउटा सहर हो । विजयवाडा [आन्ध्र प्रदेशको पूर्व-मध्यमा कृष्णा नदीको तटमा स्थित छ । दुई हजार वर्ष पुरानो यो शहर बैजवाडाको नामले पनि जानिन्छ । यो नाम देवी कनकदुर्गाको नामम छ, जसलाई स्थानीय मानिस विजया भन्छन् । यो क्षेत्र मन्दिरहरू र गुफाहरूले भरिएको छ । यहाँ भगवान मालेश्वरको प्रसिद्ध मन्दिर स्थित छ । भनिन्छ कि आदि शंकराचार्य यस मन्दिरमा आएका थिए र उनले यहाँ श्रीचक्र स्थापित गरेका थिए ।",
+    "चीनी यात्री ह्वेन त्सांग पनि विजयवाडा आएका थि । विजयवाडाको छेउमा एक पहाडीमा स्थित विक्टोरिया म्यूजियममा एक कालो ग्रेनाइट पत्थरले बनेको बुद्धको विशालकाय मूर्ति छ । पैगम्बर मुहम्मदको पवित्र अवशेषको रूपमा यस स्थलको मुसलमानहरूमा लोगप्रियता छ । यहाँ पाँचौ सताब्दीको भोगलराजपुरमको गुफाहरूमा तीन गुफा मन्दिर छन्, जसमा भगवान नटराज, विनायक र अन्य मूर्तिहरू छन् । अर्द्धनारीश्वरलाई यहाँ मिलेको मूर्ति दक्षिण भारत आफ्नो तरहको इकलौती मूर्ति मान्छन् । यहाँको गुफाहरूमा उन्द्रावल्लीको प्रमुख गुफा छ, जुन सातौ सताब्"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 309,
+    "text_length_max": 595,
+    "text_length_avg": 450.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3605,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19525.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19525.txt",
+    "relative_path": "19525.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19525.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3605,
+    "mtime": 1782796487.4531517,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6a03defbd89fd71c6ba0f037b22ea4fdf7589a87",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

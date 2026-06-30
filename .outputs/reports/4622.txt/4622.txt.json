@@ -1,0 +1,92 @@
+{
+  "dataset": "4622.txt",
+  "file_name": "4622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "न्यायिक संयम न्यायिक व्याख्याको एउटा सिद्धान्त हो जसले न्यायाधीशलाई आफ्नो शक्तिको प्रयोगलाई सीमित गर्न प्रोत्साहित गर्दछ। न्यायाधीशले स्पष्ट रूपमा असंवैधानिक नभईकन कानुनलाई समाप्त गर्न संकोच मान्नु पर्छ भनि यसले जोड दिन्छ। कहिले कहि यसलाई न्यायिक सक्रियताबादको विपरीतको रूपमा मानिन्छ।",
+    "संवैधानिक कानुनको प्रश्नमा निर्णय गर्दा, न्यायिक-संयम भएका न्यायविदहरू कानुनलाई स्थगित गर्ने कुरामा हदसम्म जान्छन्। न्यायिक संयमको सिद्दान्तले जतिसक्दो सम्भव भएसम्म न्यायाधीशले कानुनलाई समर्थन गर्न आबश्यकता ठान्दछ। पूर्व एसोसिएट न्यायधिश फेलिक्स सासीज, डेमोक्रेटजसलाई फ्रेंकलिन रूजवेल्टले नियुक्त गरेका थिए। सामान्यता उनलाई \"न्यायिक संयमको नमुना\"को रूपमा हेरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 284,
+    "text_length_max": 398,
+    "text_length_avg": 354.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4826,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4622.txt",
+    "relative_path": "4622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4826,
+    "mtime": 1782796580.581378,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9cc941a76895d068828f8b559827b352f21c49a0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

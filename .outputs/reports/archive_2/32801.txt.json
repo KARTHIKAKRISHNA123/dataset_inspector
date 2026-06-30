@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32801.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'एडिन्सन रोबर्टो काभानी गोमेज उरुग्वे राष्ट्रिय फुटबल टिम र पेरिस सेन्ट-जर्मेन फुटबल क्लबका स्ट्राइकर हुन । आधुनिक स्ट्राइकरका रूपमा चिनिने कभानीलाई द्रुत, बलिया, र मौकाको सही उपयोग गर्ने खेलाडीका साथसाथै विश्वसनिय फरवार्डका रूपमा लिइन्छ । पेनाल्टी र फ्रि किक विशेषज्ञ कभानी खुट्टा वा हेडर मार्फत प्रभावकारी गोल गर्न माहिर मानिन्छन् । स्ट्राइकर उनको मनपर्दो स्थान भएपनि उनी विङ्गर र सहयोगी स्ट्राइकरका रूपमा पनि खेल्न सक्छन । मन्टेभिडियोको डानुबियो क्लबबाट खेल जीवन सुरू गरेका उनले 2007 मा सिरी ए क्ल"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 589,
+    "text_length_max": 589,
+    "text_length_avg": 589.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1565,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32801.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32801.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32801.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1565,
+    "mtime": 1782796651.773175,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ae9a43c07ad7c1e39bcd756c5df084680e276fb0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

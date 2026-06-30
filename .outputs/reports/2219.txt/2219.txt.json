@@ -1,0 +1,91 @@
+{
+  "dataset": "2219.txt",
+  "file_name": "2219.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लेन्स ज्यादै उपयोगी उपकरण हो । क्यामेरा, सूक्ष्मदर्शक यन्त्र,  टेलिस्कोप आदि विभिन्न प्रकारका उपकरणहरुमा यसको प्रयोग हुन्छ । मानिसको आँखामा पनि लेन्स हुन्छ । उक्त लेन्सले वस्तुबाट आएको प्रकाशलाई आवर्तन गर्दछ । आवर्तित किरणहरु आँखाको रेटिनामा केन्द्रित भई एअस्तुको आकृति बनाउँदछ ।प्रकाशको किरणलाई आवर्तन गरि वस्तुको आकृतिलाई घटबढ गर्न सकिने पार्दर्शी काँचबाट बनाइएको वक्रसतहको खण्डलाई लेन्स भनिन्छ । लेन्स मुख्यत 2 प्रकारका हुन्छ्न् :1. कन्भेक्स लेन्स2. कन्केभ लेन्स"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 465,
+    "text_length_max": 465,
+    "text_length_avg": 465.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1244,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2219.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2219.txt",
+    "relative_path": "2219.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2219.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1244,
+    "mtime": 1782796499.680261,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "7f6f5b9c7eaead90194e1b6134b72e15ac1a101c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

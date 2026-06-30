@@ -1,0 +1,94 @@
+{
+  "dataset": "27985.txt",
+  "file_name": "27985.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अधिक तापमानका कारण उत्पन्न आवेश-वाहकहरु को कुनै सतहदेखि वा कुनै स्थितिज-ऊर्जा बैरियरका विरुद्ध प्रवाह तापायनिक उत्सर्जन कहलाउँछ। ",
+    "प्राय: सबै मानिस यस कुरासित परिचित छन् कि धातुहरुमा विद्युत चालकता स्वतंत्र इलेक्ट्रोनहरुको गतिका कारण हुन्छ। स्वतंत्र इलेक्ट्रोनहरुसित हमारा अभिप्राय ती इलेक्ट्रोनहरुसित छ जसको अन्य कुनै अणु अथवा परमाणु देखि सम्बन्ध हुँदैन। परन्तु यी इलेक्ट्रोन धातुका धरातलको व्यतिक्रमण छैन गर्न सकते, किनभनें धातुका धरातलमा गुरुत्वाकर्षणका समान बल हुन्छ। धरातललाई पार गर्नका लागि इलेक्ट्रोनलाई उति कार्य गर्नु पर्छ जति तिनलाई गुरुत्वाकर्षणका समान यस बललाई पार गर्नमा लाग्दछ। यसको तात्पर्य यो छ कि यी इलेक्ट्रोनहरुक"
+  ],
+  "statistics": {
+    "records_sampled": 28,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 1049,
+    "text_length_avg": 305.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9992,
+      "Latin": 0.0008
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22945,
+    "estimated_records": 75
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 75,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9982,
+      "Latin": 0.0018
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27985.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27985.txt",
+    "relative_path": "27985.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27985.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22945,
+    "mtime": 1782796526.0944023,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f3cd7235e0c79e8f902fb344f916f8ebb103c26b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

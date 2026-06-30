@@ -1,0 +1,92 @@
+{
+  "dataset": "9152.txt",
+  "file_name": "9152.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको लम्बाई करिब 885 किलोमिटर र चौडाई 193 किलोमिटर छ। नेपालको कूल क्षेत्रफल 147,181 वर्ग किलोमिटर छ । नेपाललार्इ भौगोलिक हिसाबले 3 भागमा विभाजन गरिएको छ: हिमाली क्षेत्र, पहाडी क्षेत्र, र तराइ क्षेत्र। यी क्षेत्रहरू पूर्व-पश्चिम दिशामा देशभरि फैलिएका छन् र यिनीहरूलाई नेपालका प्रमुख नदी तथा पहाडहरूले ठाउँ-ठाउँमा विभाजन गरेका छन् | ",
+    "भारतसँग जोडिएको तराइ फांट भारतीय-गंगा समथरको उत्तरी भाग हो । यो भागको सिंचाई तथा भरणपोषणमा तीन नदीको मुख्य हात छ, यी नदीहरू हुन्: कोशी, गण्डकी, र कर्णाली नदी। यो भूभाग उष्म र सन्तृप्त हुन्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 133,
+    "text_length_max": 463,
+    "text_length_avg": 290.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6028,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9152.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9152.txt",
+    "relative_path": "9152.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9152.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6028,
+    "mtime": 1782796602.8274255,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9a692c6c72ad01f80919e82b19edf14015914699",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

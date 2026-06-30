@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31672.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कालिज अथवा कालिच नेपालमा पाइने एक जंगली चरा हो। यो चरा कुखुरा जस्तै हुने भएकाले कतै कतै यसलाई \"वन कुखुरा\" अथवा \"वन मुर्गी\" पनि भनेको सुनिन्छ । कालिजहरू प्राय: पहाडी क्षेत्रको जंगलमा पाइन्छन् । सिकारीहरूले कालिजको सिकार धेरै गर्ने भएकाले अब यसको लोपहुने सम्भावना बढेको छ। कालिजहरूका पनि कुखुरा जस्तै ठूलो समुहमा चल्लाहरू हुन्छन्। बैसाख र जेठमा बढी जसो कालिजहरूले चल्ला निकाल्छन्। मंसिर, पुस सम्म चल्लाहरू एक समुहमा बस्ने गर्छन् भने फागुन लागे पछि कालिजहरू भाले पोथिको अलग अलग जोडी बनाएर छुट्टीन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 498,
+    "text_length_max": 498,
+    "text_length_avg": 498.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1321,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31672.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31672.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31672.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1321,
+    "mtime": 1782796649.417789,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72c75e717355ce1fc49cf39e75eeef87abbc298e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

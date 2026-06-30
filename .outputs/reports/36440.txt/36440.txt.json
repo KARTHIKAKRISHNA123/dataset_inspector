@@ -1,0 +1,92 @@
+{
+  "dataset": "36440.txt",
+  "file_name": "36440.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शुक्र ग्रहण वा शुक्र सङ्क्रमण एक अद्वितीय खगोलीय घटना हो । शुक्रग्रहले आफ्नो कक्षमा रहेर सूर्यलाई परिक्रमा गर्ने क्रममा सूर्य, पृथ्वी र शुक्रग्रह सिधा रेखामा परेपछि सूर्यमा कालो धब्बाको रूपमा शुक्रग्रह देखिनुलाई शुक्र ग्रहण अर्थात अङ्ग्रेजीमा ट्रान्जिट अफ भेनस भनिन्छ ।",
+    "साँझमा पश्चिम दिशातर्फको आकाशमा अलिक माथि हेरेको खण्डमा निकै चम्किलो आकाशीय पिण्ड देखिने छ । एकनासले प्रकाशित भइरहेको त्यो पिण्ड नै शुक्र ग्रह हो । यसरी नै यो ग्रह कहिले सूर्योदयभन्दा अगाडि पूर्वी आकाशमा पनि देखिन्छ । त्यसैले लोकबोलीमा यसलाई बिहानीतारा पनि भनिन्छ ।विभिन्न ग्रह एवं उपग्रह परिक्रमाका क्रममा एकअर्काको नजीक र टाढा हुने गर्दछन् । यसै क्रममा कहिले सूर्य र पृथ्वीको ठीक बीचमा पनि आइपुग्छन् । यसरी सूर्य र पृथ्वीको ठीक बीचमा आउन सक्ने प्रमुख ग्रह र उपग्रहमा चन्द्रमा, शुक्र र बुध छन् । सूर"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 269,
+    "text_length_max": 1483,
+    "text_length_avg": 876.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4538,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36440.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36440.txt",
+    "relative_path": "36440.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36440.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4538,
+    "mtime": 1782796565.4048722,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3746f86a2e4f61a37814214b23aa16fe591467a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

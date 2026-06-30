@@ -1,0 +1,92 @@
+{
+  "dataset": "1170.txt",
+  "file_name": "1170.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाँगा र स्याँगा नेपाली पहिरनका नाम हुन् । पाँगा लुङ्गीजस्तै हुन्छ । मगर र गुरुङ जातिका महिलाहरूले पाँगा लगाउँछन् । सिस्नु र त्यस्तै जातका वनस्पतिका रेशाका धागोबाट खाँडी कपडा/भाङ्ग्रा बुनिन्छ । खाँडी कपडालाई माटो वा रूखका बोक्राले रङ्गाएर पाँगा बनाइन्छ । ",
+    "पृथ्वीनारायण शाहको दिव्योपदेशमा पाँगालाई 'स्वास्नीमान्छेले लगाउने स्वदेशी घरबुना लुगा' भनेर व्याख्या गरिएको छ । सेन राजाहरूले स्याँगा र पाँगाको उत्पादन र प्रयोगमा प्राथमिकता दिएको पाइन्छ । पृथ्वीनारायणले नौ लाख किराँतसहितको हिन्दूपतिको सेन राज्य आफ्नै भूमिमा उत्पादित स्याँगा र पाँगा जस्ता साधारण लुगा लगाएर जितेको प्रसङ्ग राज्य सञ्चालन निर्देशिका/दिव्योपदेशमा उठाएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 254,
+    "text_length_max": 373,
+    "text_length_avg": 313.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1695,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1170.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1170.txt",
+    "relative_path": "1170.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1170.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1695,
+    "mtime": 1782796450.616946,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "487ed898c519f3a95b0b613db2f2edb83a32a105",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

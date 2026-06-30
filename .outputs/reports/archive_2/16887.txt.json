@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "16887.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बलात्कार एक किसिमको सामाजिक समस्या हो । त्यही सामाजिक समस्या अन्तर्गत'क्याम्पसमा हुने बलात्कार पनि एक हो । जसलाई क्याम्पसमा बलात्कार पनि भन्ने गरिन्छ। क्याम्पसबलात्कृत हुन बाध्य हुन्छन् । हासिल गर्नका लागि धाइने एक पवित्र शिक्षाको मन्दिर हो तर शिक्षाको मन्दिर भएपनि क्याम्पस बलात्कार जस्तो सामाजिक समस्या वा सामाजिक पापबाट भने अछुतो हुन सकेको छैन् ।",
+    "क्याम्पसमा हरेक दिन प्रायः केहि न केही तरिकाबाट बलात्कार हुने गर्दछ। जसबाट पुरूष भन्दा महिला बढी शोषित हुने गर्दछ। महिलाहरू आफ्नै पुरूष साथीहरू तथा पढाउने शिक्षकहरूबाट बलात्कृत हुन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 349,
+    "text_length_avg": 183.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2991,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16887.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\16887.txt",
+    "relative_path": "archive (2)\\valid\\valid\\16887.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2991,
+    "mtime": 1782796620.2160456,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3391986ec33ef8dd95c8092c6b57cf00f54e650f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

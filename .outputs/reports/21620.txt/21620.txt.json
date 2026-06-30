@@ -1,0 +1,91 @@
+{
+  "dataset": "21620.txt",
+  "file_name": "21620.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिम नेपालका चौधरी, डगौरा समुदायमा मनाइने पर्व हो- 'हरधोई' । प्रत्येक गाउँमा आपसमा छलफल गरेर अनुकूल परेको दिन सो पर्व मनाउने प्रचलन छ। यो पर्व मनाइसकेपछि वर्षे बाली लगाउने कार्य पूरा भएको संकेत दिन्छ। अर्को वर्षको धान रोपाइँ आरम्भ नभएसम्मका लागि हलो जोत्ने काम बन्द भएको रूपमा लिइने हरधोई पर्वका दिन किसानहरू आफ्ना इष्टमित्रका अलावा धानरोपाइँमा सघाउने सबैलाई आफ्नो घरमा बोलाएर खानपिन गराउँछन्। यस क्रममा किसानहरू उनीहरूलाई आफ्नै घरमा तयार भएको जाँड, रक्सी, माछा-मासु, भात, तरकारी जस्ता खाने कुरा दि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 845,
+    "text_length_max": 845,
+    "text_length_avg": 845.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2245,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21620.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21620.txt",
+    "relative_path": "21620.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21620.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2245,
+    "mtime": 1782796497.1894767,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "60f14276d37fcbf3c425ac56e03e97d650de12f8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "23823.txt",
+  "file_name": "23823.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दीर्घकालीन अब्स्ट्रक्टिभ पलमोनरी रोग, जसलाई दीर्घकालीन अवरोधक फोक्सो रोग, र दीर्घकालीन अवरोधक श्वासमार्ग रोग, र अन्य नामले पनि चिनिन्छ, एक प्रकारको अवरोधक फोक्सो रोग हो जसको मुख्य लक्षण भनेको दीर्घकालीक रूपमा कमजोर श्वासप्रश्वास प्रवाह हो। विशेषत: यो समयसँगै बिग्रँदै जान्छ। मुख्य लक्षणहरूमा स्वाँस्वाँ हुने, खोकी, र खकार निस्कने पर्दछ। दीर्घकालीन ब्रोन्काइटिस भएका धेरैजसो मानिसहरूलाई COPD हुने गर्छ।",
+    "COPD को सबैभन्दा सामान्य कारण भनेको धुम्रपान हो, र वायु प्रदूषण र वंशाणुगत गुणहरू जस्ता केही अन्य तत्वहरूले पनि यसमा केही योगदान पूर्‍याउँछ। विकासोन्मुख क्षेत्रहरूमा, वायु प्रदूषणको सबैभन्दा सामान्य कारण भनेको धूवाँको निकासको लागि राम्ररी व्यवस्था नमिलाईएको खाना पकाउने र तातो बनाउने आगोको स्रोत हो। यी उत्तेजक तत्वहरूको सम्पर्कमा लामो समयसम्म रहनाले फोक्सोमा सुन्निने र जलन हुने हुन्छ र परिणाम स्वरूप साना श्वासमार्गहरू साँगुरिन्छन् र फोक्सोको इम्फिसेमा नामक तन्तुहरूमा विकार पैदा हुन्छ। फोक्सो कार्"
+  ],
+  "statistics": {
+    "records_sampled": 68,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 1191,
+    "text_length_avg": 491.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.982,
+      "Latin": 0.018
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 88197,
+    "estimated_records": 179
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 179,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9844,
+      "Latin": 0.0156
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23823.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23823.txt",
+    "relative_path": "23823.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23823.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 88197,
+    "mtime": 1782796506.9686773,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f12c00d88e4d7a1e26b2ed0ae5c660f1a9d54f11",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

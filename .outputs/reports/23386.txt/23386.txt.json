@@ -1,0 +1,92 @@
+{
+  "dataset": "23386.txt",
+  "file_name": "23386.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विद्याधर मल्लिक नेपालका वर्तमान मन्त्री हुन्। यिनी अन्तरिम चुनावी मन्त्रीपरिषद् 2069मा मन्त्री छन्। नवनियुक्त सङ्घीय मामिला, स्थानीय विकास तथा स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयको कार्यभार सम्हालेका मन्त्री मल्लिक निजामती सेवाबाट आएका हुन्। उनी कुशल प्रशासकको सूचीमा पर्छन्।",
+    "वि.सं. 2014 वैशाख 3 गते विराटनगरमा जन्मेका हुन्। विद्याधर 2046को जनआन्दोलन दमनको अनुसन्धान गर्न गठित बहुचर्चित आयोगका अध्यक्ष जनार्दन मल्लिकका छोरा हुन्। मल्लिकले भन्सार अधिकृतका रूपमा निजामती सेवा सुरुवात गरेका हुन्। पछि उनी अर्थ मन्त्रालयका सचिव पनि भए। मन्त्री हुनुअघि उनले राष्ट्रपति रामवरण यादवको अर्थ, विकास र प्रशासन क्षेत्रका विशेषज्ञका रूपमा कार्यभार सम्हालेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 374,
+    "text_length_avg": 323.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1735,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23386.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23386.txt",
+    "relative_path": "23386.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23386.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1735,
+    "mtime": 1782796504.9186645,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "f139b49f8bbd5e89f5765ec7aaf9511a56bb1cfa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

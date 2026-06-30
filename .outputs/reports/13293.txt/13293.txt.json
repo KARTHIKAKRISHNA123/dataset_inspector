@@ -1,0 +1,92 @@
+{
+  "dataset": "13293.txt",
+  "file_name": "13293.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ऐतिहासिक",
+    "तानसेन दरवार पाल्पा जिल्लामा अवस्थित ऐतिहासिक तथा पर्यटकीय महत्वको दरवार हो । पश्चिम कमाण्डर जनरल प्रतापशमशेरले प्रशासकीय कार्य संचालन गर्न निजी प्रयोजनका लागि विसं 1969 मा बेलायती शैलीमा बनाइएको यो दरवारमा 7-14-2-1 रोपनी क्षेत्रफलमा फैलिएको छ । अत्यन्त आधुनिक शैलीमा बनाइएको यस दरवारमा 4 तला 63 कोठा 2 बैठक कक्ष र 2 बुर्जा समेत छन् । हालसम्म पनि यो दरवारमा अधिकांश कार्याल्यहरु संचालन भई रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 400,
+    "text_length_avg": 103.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1067,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13293.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13293.txt",
+    "relative_path": "13293.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13293.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1067,
+    "mtime": 1782796457.951363,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f0d852fe5acb1202ed2935573e52e7cfb19920fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "37446.txt",
+  "file_name": "37446.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली भाषा लिङ्गका आधारमा विकार हुने भाषा हो। अर्थात लिङ्गका आधारमा भाषाका अङ्गहरू परिवर्तन हुन्छ। कुनै भाषामा ‘लिङ्ग’लाई जनाउन प्रयोग गरिने शब्दलाई ‘व्याकरणात्मक लैङ्गिकता’ भनिन्छ। केही वर्ष अगाडी सम्म पुरुषहरूलाई जनाउने पुलिङ्गी व्याकरण, महिलाहरूलाई स्त्रीलिङ्गी व्याकरण र निर्जीव वस्तुहरूलाई जनाउन निर्जीवलिङ्गी व्याकरण भनेर चिनिन्थ्यो। पछिल्लो व्याकरणमा पुलिङ्गी र स्त्रीलिङ्गी व्याकरण मात्रै छन्। भाषाको लिङ्ग र समाजको लिङ्ग एउटै हुँदैन। समाजमा मानिसहरूको लिङ्गलाई भाषाले भिन्नै तरिकामा व्यक्त ",
+    "नेपाली भाषामा 3 वटा लिङ्ग हटाएपछी 2 वटा स्थापना भयो : पुलिङ्गी र स्त्रीलिङ्गी। यसको कारण के हो भन्दा अङ्ग्रेजी भाषामा केवल नाम मात्र लिङ्गका आधारमा विकार हुन्छ। जस्तै ‘सन’, ‘डटर’, भनेर छोरा छोरीलाई जनाइन्छ। त्यसैले अङ्ग्रेजी भाषामा 4 वटा लिङ्गहरू छन्। एउटा पुरुष जनाउने, अर्को महिला जनाउने, अर्को लैङ्गिक तटस्थ, र अर्को निर्जीव। नेपालीमा भने यसरी छुट्याउन गाह्रो छ। किनभन्दा नेपालीमा विशेषण र क्रियापद पनि लिङ्गका आधारमा परिवर्तन हुन्छ। केटा राम्रो भएछ, केटी राम्री भैछिन्। यसरी विभाज गर्दा भने नेपाल"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 89,
+    "text_length_max": 708,
+    "text_length_avg": 423.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9525,
+      "Latin": 0.0475
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9945,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9525,
+      "Latin": 0.0475
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37446.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37446.txt",
+    "relative_path": "37446.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37446.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9945,
+    "mtime": 1782796570.31091,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d6ca2f83d5fc4d75ca2aeae3bdebea4429911b1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

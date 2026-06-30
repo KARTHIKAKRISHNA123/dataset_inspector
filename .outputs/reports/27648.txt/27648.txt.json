@@ -1,0 +1,92 @@
+{
+  "dataset": "27648.txt",
+  "file_name": "27648.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नारायणमान बिजुक्छे नेपाल मजदुर किसान पार्टीका अध्यक्ष हुन्। रोहित उपनामले पनि चिनिने उनी भक्तपुर क्षेत्र नं 1 का प्रत्यक्ष निर्वाचित सांसद हुन्। उनले 'हरिबहादुर श्रेष्ठ' उपनाममा लेखहरू लेख्ने गर्दछन्।",
+    "नारायणमानको जन्म वि.सं. 1996 साल फागुन 26 गते बागमती अञ्चल, भक्तपुर जिल्लाको सुकुलढोका-5 मा भएको थियो। पिता गणेशमान बिजुक्छे र माता सूर्यमाया बिजुक्छेका एघार सन्तान मध्ये उनी जेठा हुन्। उनले भक्तपुरको पद्म माध्यमिक र शारदा रात्रि माध्यमिक विद्यालय एवम् भक्तपुर कलेजमा पढे। युवा अवस्थामै सक्रिय राजनीतिमा होमिएका बिजुक्छेले औपचारिक शिक्षाको रुपमा मानविकी शास्त्रको स्नातक परीक्षामा सम्मिलित भए तर स्नातक पुरा गरेनन्। राजनीति शास्त्र र अर्थशास्त्र दुवै विषयमा उनको चाख भएकाले उनले यी दुवै विषयमा अध्ययन"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 2078,
+    "text_length_avg": 582.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9173,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27648.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27648.txt",
+    "relative_path": "27648.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27648.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9173,
+    "mtime": 1782796524.564254,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5517cc60ec10f3f960576ec08666f085462e46f7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

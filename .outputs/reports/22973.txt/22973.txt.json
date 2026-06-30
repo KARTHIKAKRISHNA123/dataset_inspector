@@ -1,0 +1,91 @@
+{
+  "dataset": "22973.txt",
+  "file_name": "22973.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुनिता दनुवार, जन्म 1977, एक नेपाली सामाजिक कार्यकर्ता हुन्। उनी नेपालमा स्थापना भएको गैर-नाफामूलक संस्था शक्ति समूहकी अध्यक्ष समेत हुन्। यो संस्थाको प्रमुख उद्देश्य भारतका विभिन्न वेश्यालयमा बेचिएका नेपाली चेलीहरूको उद्दार गर्नु र चेलीबेटी बेचबिखनविरुद्ध काम गर्नु रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 274,
+    "text_length_max": 274,
+    "text_length_avg": 274.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 734,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22973.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22973.txt",
+    "relative_path": "22973.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22973.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 734,
+    "mtime": 1782796503.1036482,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aacc659148bd37e8804263c5a844d32a7e33eb98",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

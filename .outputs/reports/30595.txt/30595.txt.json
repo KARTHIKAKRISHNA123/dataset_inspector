@@ -1,0 +1,93 @@
+{
+  "dataset": "30595.txt",
+  "file_name": "30595.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो अमरगढी डडेलधुरा जिल्लाको सदरमुकाम अमरगढी 5 खलंगामा अवस्थित छ । यो रेडियोले 97.4.Mhzबाट आप्नो प्रसारण गर्दै आएको छ । फोकस नेपाल द्धारा संचालित सामुदायिक रेडियो अमरगढी शुदुरपश्चिम ,मध्यपश्चिम का केहि ठाउँहरु तथा भारतको उत्तराखण्ड मा पनि सुन्न सकिन्छ । यो एफ एम को क्षमता 500वाट रहेको छ ।यो रेडियोलाई अनलाईन http://www.radioamargadhi.org मा संसार भर सुन्न सकिन्छ । यो एफ एम मा पहिला 26 जना सेयर थिए तर हाल एक जनाले मात्र संचालन ,प्रबन्धक लगाएत 10 जना कर्मचारी ले चलाईर्हेका छन । यो एफ एम को फोन न"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 519,
+    "text_length_max": 519,
+    "text_length_avg": 519.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.932,
+      "Latin": 0.068
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1261,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.932,
+      "Latin": 0.068
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30595.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30595.txt",
+    "relative_path": "30595.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30595.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1261,
+    "mtime": 1782796538.5600653,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "b9b2eca813bc975e8c2418d2dd179ba9124b0e0d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

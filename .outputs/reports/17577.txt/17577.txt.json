@@ -1,0 +1,92 @@
+{
+  "dataset": "17577.txt",
+  "file_name": "17577.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अग्रवाल वा अगरवाल भारत र दक्षिण एसियामा ठूलो र प्रभावशाली समुदाय हो। मुलत: उत्तर तथा पश्चिम भारतमा व्यापारी समुदाय भएपनि हालका दिनमा अग्रवालहरूले विभिन्न पेशा अंगालेका छन्। यो समुदायका व्यक्तिहरू प्राय: सफल उद्यमी हुने गरेका छन् र यिनीहरूको भारत, नेपाल र अन्य राष्ट्रको आर्थिक विकासमा ठूलो योगदान छ।",
+    "विभिन्न ग्रन्थ र किव्दन्ती पहिल्याउँदै जाँदा अग्रवालहरूको उत्पति सूर्यवंशी क्षत्रिय राजा अग्रसेनबाट भएको पाइन्छ। महाराजा अग्रसेनले आफ्ना प्रजाको हितमा वानिक धर्म अंगालेका थिए। अग्रवालको शाब्दिक अर्थ अग्रोहाबासी हो। अग्रोहा भारतको हरियाणा प्रान्तको हिसार नजीकै पर्ने शहर हो जुन एक किव्दन्ती अनुसार महाराजा अग्रसेनले बसाएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 326,
+    "text_length_avg": 189.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2041,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17577.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17577.txt",
+    "relative_path": "17577.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17577.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2041,
+    "mtime": 1782796478.0431514,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7201effe8b87002777bb51a7eb27ffb3d46d98c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

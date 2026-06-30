@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21156.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय महिला क्रिकेट टिम जसलाई विमन इन ब्लु को नामले समेत चिनिने भारतको राष्ट्रिय महिला क्रिकेट टिम हो । यस क्रिकेट टिमको सञ्चालन बिसिसिआईले गर्दछ ।भारतीय महिला क्रिकेट टिमले पहिलो टेस्ट क्रिकेट म्याच 31 अक्टोबर 1976 मा बेङ्गलोरमा वेस्ट इन्डिज महिला क्रिकेट टिम विरुद्ध खेलेको थियो भने आफ्नो पहिलो एकदिवसीय अन्तर्राष्ट्रिय 1 जनवरी 1978 मा कोलकातामा इङ्ल्यान्ड महिला क्रिकेट टिम विरुद्ध खेलेको थियो र पहिलो ट्वेन्टी-ट्वेन्टी म्याच 5 अगस्ट 2006 मा डर्बीमा इङ्ल्यान्ड विरुद्ध खेलेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 486,
+    "text_length_max": 486,
+    "text_length_avg": 486.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1273,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21156.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21156.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21156.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1273,
+    "mtime": 1782796628.539162,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b087fc233bd2cc1d2c569d0c3f3c24e045a94f5e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

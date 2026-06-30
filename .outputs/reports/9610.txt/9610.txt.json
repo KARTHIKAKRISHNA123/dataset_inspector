@@ -1,0 +1,91 @@
+{
+  "dataset": "9610.txt",
+  "file_name": "9610.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उमाकान्त झा नेपालका पूर्व प्रशासक तथा वर्तमान मन्त्री हुन्। यिनी अन्तरिम चुनावी मन्त्रीपरिषद् 2069मा मन्त्री छन्।उमाकान्त झाले मुख्य सचिवमा लिलामणि पौडेलको नियुक्तप्रति असहमति जनाउँदै राजीनामा दिएका थिए। उद्योग सचिवको रूपमा कार्यरत रहँदा उनले राजीनामा दिएका हुन्। मधेसी मोर्चाले उनलाई मुख्य सचिव बनाउन जोड दिए पनि तत्कालीन प्रधानमन्त्री बाबुराम भट्टराईले अस्वीकार गरेका थिए। भारतीय राजदूत जयन्तप्रसादले झालाई मुख्य सचिव बनाउन सरकारलाई दबाब दिएको सार्वजनिक भएपछि उनी विवादमा तानिएका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 487,
+    "text_length_max": 487,
+    "text_length_avg": 487.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1321,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9610.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9610.txt",
+    "relative_path": "9610.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9610.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1321,
+    "mtime": 1782796604.8815682,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "b7b16dbd817ed2b23cf4f4ab4ee73167e9fd0dca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

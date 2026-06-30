@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31152.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोंकणी भारतको गोवा, महाराष्ट्रको दक्षिणी भाग, कर्नाटकको उत्तरी भाग, केरलको केही भागहरूमा बोलिने भाषा हो । भाषाको आधारमा यो भाषा भारोपेली भाषा परिवारसँग सम्बन्धित रहेको छ र मराठी भाषासँग यसको धेरै निकट सम्बन्ध रहेको छ । राजनीतिक हिसाबले यो भाषा आफ्नो पहिचानको लागि मराठी भाषासँग धेरै नै सङ्घर्ष गरिरहेको देखिन्छ । अब भारतको संविधानको अनुसार कोंकणी भाषा आठौँ अनुसूचीमा स्थान प्राप्त गरेको छ ।",
+    "सन् 1987 मा गोवा मा कोंकणी को मराठी संग बराबर राजभाषा को दर्जा दिएको थियो तर लिपि सित असहमति का कारण आजसम्म यो कुरामा ठोस काम हुन् सकेको छैन ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 390,
+    "text_length_avg": 233.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1841,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31152.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31152.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31152.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1841,
+    "mtime": 1782796648.3918912,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "37ca3107b037db8f5785b11a171ffe69ca6c1a41",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

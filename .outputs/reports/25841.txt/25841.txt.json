@@ -1,0 +1,94 @@
+{
+  "dataset": "25841.txt",
+  "file_name": "25841.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शरद राई नेपालको प्रथम फोटोग्राफी एकेडेमिसियन मानिन्छन् । उनी नेपालमा आधुनिक फोटोग्राफीको पिताको नामबाट पनि चिनिन्छन् । ",
+    "राईको जन्म धनकुटा पाख्रिबासमा भएको थियो। 16 वर्षको उमेरमा राजधानी काठमाडौ आएका राईका पिता इन्डियन लाहुरेमा जागीरे थिए। उनले वनस्पतिशास्त्रमा त्रिभुवन विश्वविद्यालयबाट एमएस्सी गरेका छन्। त्यसैगरि आमसञ्चारमा पोष्ट ग्य्राजुएट डिप्लोमा, फोटोग्राफी र फोटो सम्पादनमा डिप्लोमा र कम्प्युटर टेक्नोलोजीमा पनि डिप्लोमा गरेका छन्। हिजोआज पनि उनी निरन्तर रूपमा फोटोग्राफी प्रशिक्षणमा व्यस्थ छन्। नेपाली विद्यार्थीहरू मात्र नभएर विदेशी विद्यार्थी समेत एकेडेमिसियन फोटोग्राफी शरद राईस“ग फोटोग्राफी सिक्ने गरेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 119,
+    "text_length_max": 837,
+    "text_length_avg": 383.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7002,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25841.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25841.txt",
+    "relative_path": "25841.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25841.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7002,
+    "mtime": 1782796516.2885668,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "941edfef4e9ade3e1b2d19e2f4f7adbccbcd93c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

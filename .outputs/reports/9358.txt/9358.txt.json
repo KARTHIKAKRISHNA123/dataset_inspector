@@ -1,0 +1,92 @@
+{
+  "dataset": "9358.txt",
+  "file_name": "9358.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गिरिश बल्लभद्वारा बि.सं 1960 ताका लिखित मौलिक नेपाली तिलस्मी उपन्यास ",
+    "बाग्लुङका पण्डित गणेशदत्त अनिकाल परेकोले श्रीमती सहित दुई छोरा लाई लिएर रिडीमा तपस्या गर्न गएदेखि कथा शुरु हुन्छ। कान्छा छोरा विष्णुदत्त मसानका राजाको सेनापति बनाउन मसानदेवीले लगेदेखि निजको खोजमा उनका दाजु अग्निदत्तले गरेको खोजयात्रामा कथा बग्छ। तर कथा झाँक्री,मसानको बेलिविस्तारमा मात्र अल्मलिँदैन। यसमा 'इन्द्रजाल' र विज्ञानको समन्वय छ। यहाँ टेलीग्राफ र हेलीग्राफको प्रयोग गरिन्छ।नयाँ र पुरानोलाई गिरिश बल्लभ एकै पार्छन्- उनका आइमाईहरू कोही मीम लुगा लगाएर हिँड्छन्- कोही शुद्ध ज्यापूनीको पटासी लगाउ"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 645,
+    "text_length_avg": 304.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4915,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9358.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9358.txt",
+    "relative_path": "9358.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9358.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4915,
+    "mtime": 1782796603.7769916,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a35c2faf9a834e13b5f4c895f618c0bbfd02f114",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

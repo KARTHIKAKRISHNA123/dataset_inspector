@@ -1,0 +1,94 @@
+{
+  "dataset": "16705.txt",
+  "file_name": "16705.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो निङ्गलाशैनी एक समाचारमुलक, सूचना, शिक्षा र मनोरञ्जनात्मक नेपाली एफ एम स्टेसन हो । रेडियो निङ्गलाशैनी सञ्चार अाधुनिक पुस्ताका लागि भन्ने नाराका साथ 2070 साल असारमा स्थापना भएको हो । दैनिक 18 घण्टा प्रसारण हुदै आएको यो एफएमले नेपाली भाषाका साथै डोटेली भाषामा समाचारहरू र कार्यक्रमहरू प्रसारण गर्दछ । यस एफ एम स्टेसनको मुख्यालय बैतडीको गुरुखोला गा.वि.स. मिलनचौकमा रहेको छ ।",
+    "यस एफ एम स्टेसनको प्रसारण क्षमता 500 वाट र फ्रिक्वेन्सी 94 मेगाहर्ज रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 377,
+    "text_length_avg": 146.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9184,
+      "Latin": 0.0816
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1796,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9184,
+      "Latin": 0.0816
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16705.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16705.txt",
+    "relative_path": "16705.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16705.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1796,
+    "mtime": 1782796473.5858102,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "4dbc68f81571e2b909c4e535257b86a26d600c5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

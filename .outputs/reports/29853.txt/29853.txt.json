@@ -1,0 +1,94 @@
+{
+  "dataset": "29853.txt",
+  "file_name": "29853.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजशाही ऐतिहासिक रामपुर चिनारीको नाम रेशमको सहर बङ्गलादेशको महानगर पालिका हो । भने बङ्गलादेशको ठुला सहर मध्ये एक हो । यो सहरमा लगभग 1 मिलियन जनसङ्ख्या रहेको छ ।",
+    "सहिद जीया शिशु पार्क राजशाहीको एक महत्त्वपूर्ण तथा लोकप्रिय सार्वजनिक स्थलहरू मध्ये एक हो।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 419,
+    "text_length_avg": 212.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Latin": 0.0046
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6239,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Latin": 0.0046
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29853.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29853.txt",
+    "relative_path": "29853.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29853.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6239,
+    "mtime": 1782796535.126398,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "692f3701352cf219c2fffee8d1ce6ab5a1360ea9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

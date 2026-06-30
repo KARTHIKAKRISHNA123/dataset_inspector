@@ -1,0 +1,92 @@
+{
+  "dataset": "3989.txt",
+  "file_name": "3989.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किशोरदेह नेपाली साहित्यकार दिपेश केसीद्वारा लिखित नेपाली भाषाको उपन्यास हो । ",
+    "मनमा कुण्ठाले स्थान जमाएको छ । यौनकुण्ठाको स्थान बढी । चाहना धेरै छ । सीमित अवसर । बाह्य शक्तिले अवसरलाई सीमित बनायो । अवरोधै अवरोधले कुण्ठालाई बढावा दियो । तन्नेरी उमेर बित्न लाग्दा पनि स्त्रीसँग यौनसुख मिलेन । चाहेर मात्र पूरा हुने रहेनछ । कुण्ठा उचाइमै पुगिसकेकाले समान उमेरका साथीहरूसँग खुलेर कुरा हुन्छ । हाम्रो समूहका अधिकाङ्श कुमारै छन् । कोही-कोही सम्भोगसुखको दाबी गर्छन् । पत्याउनै सकिरहेको छैन । न तिनले देखाएर गरेका छन् न प्रमाण नै ल्याउन सकेका छन् । एउटा साथी सधैँ गर्लफ्रेन्डलाई यसो गरेँ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 4722,
+    "text_length_avg": 2399.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12543,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3989.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3989.txt",
+    "relative_path": "3989.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3989.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12543,
+    "mtime": 1782796577.3835409,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "53909fab03dad2437410c2d2ff202ef8df2a2c00",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

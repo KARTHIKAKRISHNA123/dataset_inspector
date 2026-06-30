@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21442.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो । यो राष्ट्रिय निकुञ्ज पश्चिम नेपालको डोल्पा तथा मुगु जिल्लामा अवस्थित छ। यसको क्षेत्रफल 3,555 बर्ग किलोमिटर. छ। यो निकुञ्ज इ.सं. 1984मा स्थापना गरिएको हो। यस निकुञ्ज भित्र नेपालको सबैभन्दा गहिरो ताल फोक्सुण्डो ताल तथा एक ऐतिहासीक शे गुम्बा रहेका छन् र यिनीहरूकै नाम जोडेर यसको नामाकरण गरिएको हो।",
+    "यो निकुञ्जमा पाइने मुख्य जनावर दुर्लभ हिउँ चितुवा हो र अन्य स्याल, ब्वाँसो, फ्याउरो, झारल, घोरल, तथा लंगुर बाँदरहरू लगायतका जनावरहरू पाईन्छन्। पंक्षीहरूमा डाँफे, कालिज आदि पाइन्छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 371,
+    "text_length_avg": 201.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1595,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21442.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21442.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21442.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1595,
+    "mtime": 1782796629.1018562,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "0599767effe680975c54dc851fae48cbdabadb15",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

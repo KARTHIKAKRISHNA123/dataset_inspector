@@ -1,0 +1,91 @@
+{
+  "dataset": "38443.txt",
+  "file_name": "38443.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेब सर्भर अथवा यचटिटीपी सर्भर एउटा यस्तो सफ्टवेयर हो जसले यचटिटीपी प्रोटोकलको माध्यमबाट क्लाईन्टलाई यचटियमयल डाटा उपलब्ध गराउदछ । सामान्यतय वेब सर्भरले फायरफक्स, इन्टरनेट एक्स्प्लोरर जस्ता ब्राउजर हरूलाई यचटियमयल डाटा उपलब्ध गराउदछ । अपाचे वेब सर्भर सबै भन्दा प्रचलित् वेब सर्भर हो । वेब सर्भरले यचटियमयलका साथै फोटो, सियसयस् तथा स्क्रिप्टहरू पनि उपलब्ध गराउदछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 362,
+    "text_length_max": 362,
+    "text_length_avg": 362.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 977,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38443.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38443.txt",
+    "relative_path": "38443.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38443.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 977,
+    "mtime": 1782796575.278461,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1a8e38f773a55871fb15eed45724768ecbdae915",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "16573.txt",
+  "file_name": "16573.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कोरी एण्डरसन को जन्म 13 डिसेम्बर 1990 मा न्यु जिल्याण्डका क्रिकेट खिलाडी हुन् । उनि क्राइस्टचर्चका हुन् र उनि उत्तर जिल्ला क्रिकेट टिमको तर्फा बाट खेल्छन ।। वहांले 16 जुन 2013 मा अन्तर्राष्ट्रिय एकदिवसीय क्रिकेटमा इंग्ल्याण्डका बिरुद्ध डेब्यु गर्दै न्यु जिल्याण्डको तर्फ बाट एकदिवसीय अन्तर्राष्ट्रिय क्याप प्राप्त गरे । वहांले 1 जनवरी 2014 को दिन वेस्टइंडीजको बिरुद्ध क्वींसटाउनमा खेल्दै 17 वर्ष पुरानो सबैभन्दा तेज शतक पुरा गर्ने शाहिद आफ्रिदी को 37 बलमा हिर्काएको शतकको कीर्तिमानलाई तोड्दै आफ्नो ना"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 549,
+    "text_length_max": 549,
+    "text_length_avg": 549.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1426,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16573.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16573.txt",
+    "relative_path": "16573.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16573.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1426,
+    "mtime": 1782796472.9220145,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "88142772ff3060eb1b9b5332ba233ce19cb5eabe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

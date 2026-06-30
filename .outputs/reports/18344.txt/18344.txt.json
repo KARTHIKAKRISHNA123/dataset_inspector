@@ -1,0 +1,92 @@
+{
+  "dataset": "18344.txt",
+  "file_name": "18344.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कानको बनावटअनुसार कानलाई तीन भागमा बाडिएको छ। बाहिरी कान, मध्य कान र भित्री कान। कान पाक्ने रोग चाहिँ मुख्य गरेर मध्य कानको समस्या हो। मध्य कानमा कुनै पनि कारणले गर्दा रोग लागेर त्यहाँ पीप जम्मा हुन गई, जमेको पीपले कानको जालीलाई प्वाल पारेर त्यस प्वालबाट पीप बाहिर निस्कने समस्यालाई नै 'कान पाक्नु' भनिन्छ।",
+    "विकसित देशमा यस्तो समस्या त्यत्ति देखिँदैन तर विकासशील मुलुक जहाँ स्वास्थ शिक्षाको कमी, कमजोर आर्थिक अवस्था र उचित पोषणयुक्त खानपान र सरसफाई छैन त्यस्तो ठाउँमा यो प्रायः जसो दोहरिरहने समस्या हो। महिला वा पुरुष दुवैलाई बराबरै लाग्ने यो रोग जुनसुकै उमेर समूहका मानिसलाई पनि लाग्न सक्छ। अझ ग्रामीण समुदायमा त यो रोग श्रवण शक्ति कम गराउने मुख्य कारणको रूपमै उभिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 363,
+    "text_length_avg": 133.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7152,
+    "estimated_records": 53
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 53,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18344.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18344.txt",
+    "relative_path": "18344.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18344.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7152,
+    "mtime": 1782796481.6609802,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bf3b6099e19b717fcbe189d38aae87d3b6396e30",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

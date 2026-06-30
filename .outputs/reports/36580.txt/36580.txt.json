@@ -1,0 +1,92 @@
+{
+  "dataset": "36580.txt",
+  "file_name": "36580.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रिमा विश्वकर्मा नेपाली चलचित्र क्षेत्रको एक चर्चित अभिनेत्री, मोडल तथा पूर्व संचारकर्मी हुन् । उनको जन्म बर्दियाको गुलरिया मा भएको हो । उनि 6 वा 7 कक्षामा पढ्दै गर्दा उनले एउटा नेपाली टेलीशृंखला जाँदा जाँदैलाई सन्चालन गरेकी थिइन् ।",
+    "रिमाले आफ्नो प्राथमिक शिक्षा हिमालयन विधा मन्दिर बाट प्राप्त गरिन् भने प्रवेशिका परीक्षा चाहिं नभरत्न माध्यमिक बिद्यालयबाट गरिन् । हाल उनि पिनाकल एकेडमीबाट मास कम्युनिकेसन बिषय लिएर स्नातक गर्दै छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 231,
+    "text_length_avg": 72.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1357,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36580.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36580.txt",
+    "relative_path": "36580.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36580.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1357,
+    "mtime": 1782796566.0514772,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "c06fed80fcbdf8dfb43ee8b12a5a19945ae7a39c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

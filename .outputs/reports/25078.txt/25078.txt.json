@@ -1,0 +1,91 @@
+{
+  "dataset": "25078.txt",
+  "file_name": "25078.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनैपनी ग्रह वा उपग्रह हरुले आफ्नो केन्द्रतिर आकर्षक गर्ने बललाई सो ग्रह वा उपग्रहको गुरुत्वबल भनिन्छ । यस ब्रह्माण्ड मा भएका हरेक आकाशिय पिण्डहरुको आआफ्नो गुरुत्वबल हुन्छ । वास्तवमा कुनै वस्तुको तौल भन्नु नै गुरुत्वबल हो । गुरुत्वबलले गर्दा नै पृथ्वीमा भएका सबै वस्तुहरुको तौल थाहा हुन्छ । कुनैपनी ग्रह वा उपग्रहको गुरुत्वबल त्यसको पिण्ड र अर्धव्याससँग निर्भर हुन्छ । गुरुत्वबललाई न्युटन एकाइमा नापिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 405,
+    "text_length_max": 405,
+    "text_length_avg": 405.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1088,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25078.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25078.txt",
+    "relative_path": "25078.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25078.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1088,
+    "mtime": 1782796512.665424,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f2c787d5d95a016efc42c2710a7af411cb80e152",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

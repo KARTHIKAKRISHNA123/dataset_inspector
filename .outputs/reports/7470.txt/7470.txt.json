@@ -1,0 +1,92 @@
+{
+  "dataset": "7470.txt",
+  "file_name": "7470.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कास्की जिल्ला नेपालको पश्चिमाञ्चल विकास क्षेत्रको गण्डकी अञ्चलमा अवस्थित पर्यटकीय जिल्ला हो। यो जिल्ला अन्नपूर्ण हिम श्रृङ्खला तथा माछापुच्छ्रे हिमालको काखमा रहेको छ। कास्की जिल्लाको सदरमुकाम पोखरा हो। राजधानी काठमाडौं देखि करिब 200 किलोमिटर पश्चिममा रहेको यो जिल्ला प्राकृतिक रूपले अत्यन्त मनोरम स्थान हो।",
+    "यस जिल्लाको सम्पूर्ण भू–भागलाई सप्तगण्डकी प्रवाह प्रणाली अन्तर्गत सेती गण्डकी,मोदी, मादी र तिनका सहायक नदी र खोलाले प्रवाहित गरेका छन् । यो जिल्ला मध्य–पहाडी पर्यावरणीय प्रदेशमा परेता पनि जिल्ला भित्रको थुप्रै भू–भाग उच्च हिमाली क्षेत्रमा पाईन्छ । यो जिल्लाको आकार वृत्ताकार छ भने फैलाबट करिब 70 किलोमिटरको हवाइ दूरीमा पूर्व–पश्चिम एवं उत्तर–दक्षिण फैलिएको छ। समुद्र सतहदेखि मादी नदीको किनारमा करिब 450 मिटर, सेती नदीको कोत्रे स्थित गल्छी करिब 550 मिटर र मोदी नदीको विरेठाँटी नजीक लगभग 950 मिटर उचाइम"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 978,
+    "text_length_avg": 319.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21947,
+    "estimated_records": 68
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 68,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7470.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7470.txt",
+    "relative_path": "7470.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7470.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21947,
+    "mtime": 1782796594.6255128,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "09cb618b2ee65c4397c314bde7bb3041a088b072",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

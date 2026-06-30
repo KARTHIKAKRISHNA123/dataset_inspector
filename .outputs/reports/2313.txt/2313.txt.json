@@ -1,0 +1,92 @@
+{
+  "dataset": "2313.txt",
+  "file_name": "2313.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाथ रोग भन्नाले शरीरको रोग निरोधक शक्तिले आफ्नै शरीरको अंगलाई असर गरेर हुने रोग भन्ने बुझिन्छ। बाथ रोग धेरै प्रकारका हुन्छन् र विभिन्न प्रकारका बाथले विभिन्न लक्षण देखाउँछन्। तर सबैजसो बाथ रोगमा सामान्यतया देखिने लक्षण भनेको जोर्नी दुख्नु तथा सुनिनु हो।",
+    "सयभन्दा बढी प्रकारका बाथ रोगहरूमध्ये गठिया बाथ अथवा प्यालोटोइड आथर्राइटिस सबैभन्दा धेरै देखिने बाथ हो। गठिया बाथले मुख्यतया हात तथा खुट्टाका साना जोर्नीलाई असर गर्छ। यसले 20 देखि 50 वर्षका महिलालाई ज्यादा असर गर्ने देखिए तापनि बालकदेखि वृद्ध, महिला तथा पुरुष सबैलाई यसले समात्न सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 420,
+    "text_length_avg": 259.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4852,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2313.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2313.txt",
+    "relative_path": "2313.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2313.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4852,
+    "mtime": 1782796503.7995431,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "90295a8a2fb7adb152094425f4c0fe8d3402ac1c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

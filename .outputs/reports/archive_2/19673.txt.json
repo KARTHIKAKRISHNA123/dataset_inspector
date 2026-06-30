@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19673.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फतेहपुर सिकरी एक शहर हो, जुन आगरा जिल्ला को एक नगरपालिका हो । यो भारतको उत्तर प्रदेश राज्यमा अवस्थित छ । यो एतिहासिक सहर मुगल साम्राज्यको समयमा अकबर राजाकोको राज्य मा सन् 1571 देखि सन् 1585 सम्म रहेको थियो । पछि सम्भवत पानीको कमीले गर्दा यस सहरलाई खालि गराइएको थियो । फतेहपुर सिकरी हिन्दु र मुसलमान वास्‍तुशिल्‍पको मिश्रणको सबैभन्दा राम्रो उदाहरण हो । फतेहपुर सिकरी मस्जिदको बारेमा भनिन्छ कि यो मक्‍काको मस्जिदको नक्कल हो । अझ यसको वास्तुकला हिन्दु र पारसी वास्‍तुशिल्‍पमा आधार मानेर निर्माण गरिएको छ",
+    "फतेहपुर सीकरी को इमारत"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 686,
+    "text_length_avg": 94.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2237,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19673.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19673.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19673.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2237,
+    "mtime": 1782796625.802502,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.944,
+    "sha1_quick": "14a99083cfb2c653e0b60d9470538a7baef410e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

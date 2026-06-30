@@ -1,0 +1,92 @@
+{
+  "dataset": "2569.txt",
+  "file_name": "2569.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाली इन्डोनेसियामा अवस्थित एक टापु तथा प्रदेश हो। बाली प्रदेशमा बाली टापु तथा नजिकैका अन्य नुसा पेनिदा, नुसा लेम्बोङान र नुसा चेनिङान जस्ता साना टापुहरू पनि समाहित छन्। यो टापु सुन्दा टापुसमूहको तल्लो भागमा सबैभन्दा पश्चिमी छेउमा रहेको छ। बालीको पश्चिममा जाभा टापु र पूर्वमा लोम्बक टापु रहेका छन्। यसको राजधानी सहर देन्पासर टापुको दक्षिणमा रहेको छ।",
+    "इन्डोनेसियाली हिन्दू अल्पसङ्ख्यकहरूको बाहुल्यता रहेको बालीमा सन् 2010 मा गरिएको जनगणना अनुसार 38 लाख 90 हजार सात सय सन्ताउन्न मानिसहरू बसोबास गर्दथे। सन् 2014 को जनवरीमा यहाँको जनसङ्ख्या करीब 42 लाख 25 हजार पुगेको अनुमान गरिएको थियो। सन् 2010 को जनसङ्ख्याका अनुसार बालीमा कुल जनसङ्ख्याको 83.5 प्रतिसत बालेलीहरूले हिन्दू धर्म अबलम्बन गरेको पाइएको थियो भने 13.4 प्रतिसतले मुस्लिम, 2.5 प्रतिसतले क्रिस्चियन र 0.5 प्रतिसतले बौद्ध धर्म अबलम्बन गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 591,
+    "text_length_avg": 397.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8380,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2569.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2569.txt",
+    "relative_path": "2569.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2569.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8380,
+    "mtime": 1782796515.5443888,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "eb2ef3a73428385a04b7392d100dd25a03f4bfb3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

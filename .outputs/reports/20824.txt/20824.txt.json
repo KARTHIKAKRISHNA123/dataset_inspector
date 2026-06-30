@@ -1,0 +1,94 @@
+{
+  "dataset": "20824.txt",
+  "file_name": "20824.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:परिभाषालेखा प्रणाली संस्थाको व्यापारिक कारोवारको सुचना राक्ने, अभिलेख राख्ने, अभिलेख प्रसोधन गर्ने तथा आर्थिक प्रतिवेदनको माध्यमबाट सम्बन्धित पक्षलाई जनकारी दिने पध्दति हो ।आज को युग लेखा को युग हो आजकल लेह हरेक कुरा र ठाउ ठाउ मा काम लाग्ने बिषय हो । लेखा प्रणाली दुई प्रकारका हुन्छन्। एकोहोरो लेखाप्रणाली र दोहोरो लेखाप्रणाली हो ।",
+    "साधारण अर्थमा लेखा भन्नाले प्रचलित कानुन, ऐन नियम, नीति, कार्यक्रम तथा निर्णय, आदेश तथा मापदण्ड समेतलाई आधार मानी कारोबारको यथार्थ विवरण देखिने गरी राखिने अभिलेख वा खाता भन्ने बुझिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 24,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 780,
+    "text_length_avg": 272.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9948,
+      "Latin": 0.0052
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17698,
+    "estimated_records": 64
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 64,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20824.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20824.txt",
+    "relative_path": "20824.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20824.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17698,
+    "mtime": 1782796493.5109098,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bc84bfe576f95ee542a36aea344b827d08687f71",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "37548.txt",
+  "file_name": "37548.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तेलुगु भाषा भारतका आंध्र प्रदेश राज्यको मुख्यभाषा र राजभाषा हो । यो द्रविड भाषा-परिवार अन्तर्गत पर्दछ । यो भाषा आन्ध्र प्रदेश बाहेक तमिलनाडु, कर्णाटक, ओडिसा र छत्तीसगढ राज्यहरूमा पनि बोलिन्छ। तेलुगुका तीन नाम प्रचलित छन् -- \"तेलुगु\", \"तेनुगु\" र \"आंध्र\"। ",
+    "आंध्र शब्दको प्रयोग ऋग्वेदीय ऐतरेय ब्बाटो्मणमा मिल्दछ। तेलुगु शब्दको मूलरूप संस्कृतमा \"त्रिलिंग\" छ। यसको तात्पर्य आंध्र प्रदेशका श्रीशैलका मल्लिकार्जुन लिंग, कालेश्वर र द्राक्षारामका शिवलिंगबाट छ। यी तीनहरू सीमाहरूबाट घेरिएको देश त्रिलिंगदेश र यहाँको भाषा त्रिलिंग कहलाई। यस शब्दको प्रयोग तेलुगुका आदि-कवि \"नन्नय भट्ट\"का महाभारतमा मिल्दछ। यो शब्द त्रिनग शब्दबाट पनि उत्पन्न भयो मानिन्छ। यसको आशय तीन ठूलो बडे पर्वतहरूको मध्य सीमामा व्याप्त यस प्रदेशबाट छ। आंध्र जनता उत्तर दिशाबाट दक्षिणको पटि जब हटा"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 991,
+    "text_length_avg": 443.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9415,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37548.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37548.txt",
+    "relative_path": "37548.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37548.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9415,
+    "mtime": 1782796570.8875964,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b76c5d2ff96cc96601dc3cde762279ba2d7cae23",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

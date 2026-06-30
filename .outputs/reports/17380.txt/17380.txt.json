@@ -1,0 +1,92 @@
+{
+  "dataset": "17380.txt",
+  "file_name": "17380.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खपतरी/खबतरी विभिन्न क्षेत्री थरहरूको विभाजन हो । यो बस्नेत, खड्का, कार्की, बिष्ट, बुढाथोकी आदि जस्ता क्षेत्री थरहरूको विभाजन हो । यस समुहको उत्पति खप्तड पनि मानिन्छ । यस विभाजन भित्र एउटै गोत्र अर्थात कौशिक गोत्र रहने हुँदा विवाहवारी गर्न मिल्दैन ।",
+    "कमाण्डिङ कर्णेल पहलमान सिंह बस्नेत खब्तरी बस्नेत हुन् । उनलाई खप्तडी राजा र श्री 1को उपाधि दिइएको थियो । त्यस्तै पूर्व गृहमन्त्री यज्ञबहादुर बस्न्यात, प्ररधानसेनापति सिँह बहादुर बस्न्यात, पूर्व राजदूत डा. सिँँह बहादुर बस्न्यात पनि खब्तरी बस्नेत हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 248,
+    "text_length_max": 251,
+    "text_length_avg": 249.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1326,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17380.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17380.txt",
+    "relative_path": "17380.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17380.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1326,
+    "mtime": 1782796477.0755193,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "1eacf4557a64ab2a0edfe27092eb28e90790c0ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

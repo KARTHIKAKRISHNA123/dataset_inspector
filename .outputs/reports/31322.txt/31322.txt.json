@@ -1,0 +1,94 @@
+{
+  "dataset": "31322.txt",
+  "file_name": "31322.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डाडेबादाम अथवा म्याकडामिया अङ्ग्रेजी: Macadamia अष्ट्रेलियाको मूल स्वदेशी रूख वा फल हो। म्याकडामिया हवाईमा व्यावसायिक रूपमा बढ्दै गएका छन्, क्यालिफोर्निया र फ्लोरिडामा, धेरै सानो हदसम्म ओगटेको छ । भुटेको म्याकडामिया एक लोकप्रिय खाज को रुपमा लिन सकिन्छ। तर केहि मान्छेले म्याकडामिया नट औषधिको रुपमा पनि प्रयोग गर्छन, जस्तै कोलेस्ट्रोललाई कम गर्दछ। 2015 मा वैश्विभरि 160.000 टन देखि को उत्पादन सगै यो फल मुल्य प्रति किलो 800 देख 1000 रुपिया सम्म पर्द्छ. नेपाल को खिजी गाउँ मा पनि यो रुख-फल पाउन सकिन्छ।",
+    "जर्मन-अस्ट्रेलियन वनस्पतिवादी फर्डिनान्ड वान मलरले स्कटिश-अस्ट्रेलियन रसायनज्ञ, मेडिकल शिक्षक, र राजनीतिज्ञ जॉन म्याकामामको सम्मानमा 1857 मा नाम मेकाडेमियालाई दिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 163,
+    "text_length_max": 500,
+    "text_length_avg": 331.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9831,
+      "Latin": 0.0169
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1714,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9831,
+      "Latin": 0.0169
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31322.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31322.txt",
+    "relative_path": "31322.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31322.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1714,
+    "mtime": 1782796541.87996,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "82c378c44373407017587e452f9c2364edc5a5c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

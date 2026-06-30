@@ -1,0 +1,93 @@
+{
+  "dataset": "14691.txt",
+  "file_name": "14691.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालभाषा :: नेवार भाषा वा नेवार समुदायले बोल्ने प्रादेशिक भाषा नेपालको एउटा प्रमुख समृद्ध भाषा हो। नेपालभाषा भनेको नेवारी साहित्यको ऐतिहासिक,सामाजिक,साँस्कृतिक एवं  साहित्यिक उपनाउँ हो ।चिनी-तिब्बती भाषा परिवार अन्तर्गत तिब्बती-बर्मेली समूहमा पर्ने यस भाषा किराँत भाषामा विभिन्न भाषाहरू मिसिएर विकसित भई मल्लकालदेखि साहित्यिकरूपमा फल्दैफुल्दै आएको छ । आफ्नै विभिन्न लिपि भएको यस भाषा देवनागरी लिपिमा पनि लेखिने एउटै मात्र चिनी-तिब्बती परिवारको भाषा पनि हो ।",
+    "यो भाषा चिनी-तिब्बती भाषा परिवार अन्तर्गत तिब्बती-बर्मेली समुहमा पर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 832,
+    "text_length_avg": 410.63,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 29502,
+    "estimated_records": 71
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 71,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14691.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14691.txt",
+    "relative_path": "14691.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14691.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 29502,
+    "mtime": 1782796464.2349923,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4c41e2f2429a7ff77c3299a53324a30cc8ae6bd7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

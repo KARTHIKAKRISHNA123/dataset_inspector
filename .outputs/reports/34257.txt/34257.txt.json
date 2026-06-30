@@ -1,0 +1,92 @@
+{
+  "dataset": "34257.txt",
+  "file_name": "34257.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "म्यानचेष्टर यूनाइटेड फुटबल क्लब ओल्ड ट्राफोर्ड, ग्रेटर म्यानचेष्टरमा अवस्थित एक अङ्ग्रेजी व्यावसायिक फुटबल क्लब हो । यो 1878 मा हेल्थ एलवाइआर फुटबल क्लबको नामले स्थापित भएको थियो । यस क्लबले 1902 मा आफ्नो नाम म्यानचेष्टर यूनाइटेड राख्यो र 1910 मा ओल्ड ट्राफोर्डमा सर्यो ।",
+    "यो रंगशाला बेलायत को म्यान्चेस्टर मा रहेको छ।यस् रंगशालामा राष्ट्रिय र अन्तराष्टिय दुबै खेल खेलिने गर्दछ। पुरानो ट्रेफर्ड पुरानो ट्रेफर्ड, ग्रेटर म्यानचेस्टर, इंग्ल्याण्ड र म्यानचेस्टर यूनाइटेडको घरको फुटबल स्टेडियम हो। 74, 994 को क्षमता संग, यो बेलायतमा सबै भन्दा ठूलो क्लब फुटबल स्टेडियम हो र युरोप मा ग्यारहऔं सबै भन्दा ठूलो छ। यो पुरानो ट्रेफर्ड क्रिकेट ग्राउण्ड र नजिकैको ट्राम स्टपबाट लगभग 0.5 माइल छ। रंगशाला म्यान्चेस्टर युनाईटेड को घरेलु मैदान हो। यसको क्षमता -75,643 रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 485,
+    "text_length_avg": 75.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2658,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34257.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34257.txt",
+    "relative_path": "34257.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34257.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2658,
+    "mtime": 1782796555.3832643,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "8511964ed0dd9be60c3c979f451cc0d1fd256193",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

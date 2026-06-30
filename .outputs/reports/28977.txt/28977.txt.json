@@ -1,0 +1,92 @@
+{
+  "dataset": "28977.txt",
+  "file_name": "28977.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिमलेश अधिकारी एक नेपाली चलचित्र अभिनेता हुन्। उनी नेपाली साङ्गीतिक भिडियोहरूमा मोडलको रूपमा काम गरिसकेका छन्। उनी ब्रेक फेलनामक नेपाली चलचित्रबाट आफ्नो करियरको सुरुवात गरेका थिए। त्यसपछि उनले मुटु, जङ्गबहादुरको कोट चलचित्रमा अभिनय गरेका थिए।",
+    "उनले बिराटनगरको सरस्वती माध्यमिक विद्यालयबाट एसएलसी उतिर्ण गरेका थिए। उच्च शिक्षाको लागि उनले महेन्द्र मोरङ आदर्श बहुमुखी क्याम्पसबाट व्यस्थापन सङ्कायमा प्रवीणता प्रमाण पत्र तह र काठमाडौंको बानेश्वर स्थित मीन भवन क्याम्पसबाट व्यवस्थापन सङ्कायमा स्नातक उतिर्ण गर्न सफल भए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 242,
+    "text_length_max": 271,
+    "text_length_avg": 256.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1397,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28977.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28977.txt",
+    "relative_path": "28977.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28977.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1397,
+    "mtime": 1782796530.6886172,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a0436b7b10b4a1426381d92bf31d53e1e8c480b7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

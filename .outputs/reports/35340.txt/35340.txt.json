@@ -1,0 +1,92 @@
+{
+  "dataset": "35340.txt",
+  "file_name": "35340.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्र नारायण निधि नेपाली काङ्ग्रेसका गान्धीवादी नेता थिए । उनी नेपाली काङ्ग्रेसका महामन्त्री समेत रहेका थिए । ",
+    "वि.सं. 2007 मा तत्कालीन जहाॅनिया राणा शासन विरूद्ध भारतको बिहारस्थित बैरगनियामा तीन दिनसम्म आयोजित 'बैरगनिया सम्मेलन' मा गणेशमान सिंह, खड्गजीत बराल, बहादुरसिंह बराल, डाक्टर के.आई. सिंह, मातृकाप्रसाद कोइराला, बि.पि. कोइराला, कृष्णप्रसाद भट्टराई र महेन्द्र नारायण निधि आदिको समेत उपस्थिति रहेको थियो । 'बैरगनिया सम्मेलन' मा भाग लिने जति सबैले तत्कालीन जहाॅनिया राणा शासन फाल्न 'डु अर डाई' अर्थात् कि राणा शासन खत्तम गर्ने कि हामी खत्तम हुने निति अप्नाउन स्विकारेका थिए ।  "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 113,
+    "text_length_max": 470,
+    "text_length_avg": 291.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1527,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35340.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35340.txt",
+    "relative_path": "35340.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35340.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1527,
+    "mtime": 1782796560.196658,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8eb144a2ed9650e2a78b9632b8d30f87c5ecc035",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

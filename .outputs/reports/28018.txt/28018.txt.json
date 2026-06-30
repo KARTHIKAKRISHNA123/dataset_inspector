@@ -1,0 +1,92 @@
+{
+  "dataset": "28018.txt",
+  "file_name": "28018.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थापा एक नेपाली मूलनिवासी पहाडी समुदायको थर हो। यस थरका व्यक्तिहरू क्षेत्री र मगर हुन्छन। यो नेपालीहरूमा एउटा भारदारी जातिको रूपमा लिइन्छ । ऐतिहासिक रूपमा थापा चार पुस्त्यौनी काजी परिवारहरू मध्ये एक हो । अन्य तीन परिवारहरू पाँडे वंश, कुँवर परिवार र बस्न्यात वंश हुन् । राजनीतिक थापा खलकको पाँडे खलकसँग ऐतिहासिक दुस्मनी छ । नेपालभरि सर्वत्र बसोबास गर्ने थापाहरू नेपालको ठूलो जनसङ्ख्यामा पाइन्छन् । फोरबियर्स वेभसाइटको अनुसार सन् 2014 मा थापा नेपालको दोस्रो ठूलो थर थियो ।",
+    "नेपालमा क्षेत्रीहरू थापा भनी थर लेख्ने गर्छन् र थापा मगरहरू चाहिँ थापा मगर लेख्ने गर्छन् । त्यसैले विभाजन गर्दा क्षेत्रीहरूलाई थापा काजी भनिन्छ र थापा मगरहरूलाई मगर भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 742,
+    "text_length_avg": 338.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13602,
+    "estimated_records": 40
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 40,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28018.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28018.txt",
+    "relative_path": "28018.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28018.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13602,
+    "mtime": 1782796526.2381938,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "656ee70b3df308eb7b88f994505b81ccdf34727d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

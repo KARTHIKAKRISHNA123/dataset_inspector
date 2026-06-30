@@ -1,0 +1,92 @@
+{
+  "dataset": "23302.txt",
+  "file_name": "23302.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अंशुवर्मा नेपालका लिच्छवीकालिन राजा थिए। यिनी नेपालका राष्ट्रिय विभूतिहरू मध्ये एक हुन्। यिनी लिच्छवी कालमा राजा भएका भए तापनि ठकुरी बंशका थिए। यिनी राजा शिवदेव प्रथमका ज्वाईं थिए। ",
+    "यिनले वि.सं. 662 देखि 678 सम्म 16 वर्ष शासन गरेका थिए। उनी बुद्धिमानी, साहसी र दुरदर्शी लिच्छबी राजा थिए। उनी साहित्य, कला र वास्तूकलाका पनि प्रेमी थिए। उनले बनाएको कैलाशकूट भवन सातौं शताब्दीमा राज्यको सबैभन्दा प्रसिद् दरबारको नामले चिनिएको थियो। अंशुवर्मा शैव धर्म मान्दथे तर बौद्ध धर्मप्रति पनि यिनको ठूलो श्रद्धा रहेको थियो। प्रसिद्ध कैलाशकूट भवन यिनैले निर्माण गरेका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 666,
+    "text_length_avg": 407.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3280,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23302.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23302.txt",
+    "relative_path": "23302.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23302.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3280,
+    "mtime": 1782796504.5439649,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d8519024de0f4035e1a906abfbf92227f63c92f9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "1710.txt",
+  "file_name": "1710.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्मीनिया यूरोपको काकेशस क्षेत्रमा स्थित एउटा देश हो। यसको राजधानी येरेवन हो। 1990 पूर्व यो सोवियत संघको एक अंग थियो जो एक राज्यको रूपमा थियो। सोवियत संघमा एक जनक्रान्ति एवं राज्यहरूको स्वतन्त्रता संघर्षपछि आर्मीनियालाई 23 अगस्ट 1990मा स्वतंत्रता प्रदान गरियो, परन्तु यसको स्थापनाको घोषणा 21 सितंबर 1991मा गरियो एवं यसलाई अन्तरराष्ट्रिय मान्यता 25 दिसंबरमा मिल्यो। यसका सीमाहरू तुर्की, जर्जिया, अजरबैजान र ईरानसित लागेकाछन्। यहाँ 97.9 प्रतिशत भन्दा अधिक आर्मीनियाई जातीय समुदायका अतिरिक्त 1.3% यजिदी,",
+    "अरारत पर्वत"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 728,
+    "text_length_avg": 197.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2069,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1710.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1710.txt",
+    "relative_path": "1710.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1710.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2069,
+    "mtime": 1782796475.3544185,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "e59650c0696142aec7bc744c4fb414f320c68a10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

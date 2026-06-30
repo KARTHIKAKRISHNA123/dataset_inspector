@@ -1,0 +1,92 @@
+{
+  "dataset": "13516.txt",
+  "file_name": "13516.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आगन्तुक पाहुना वा वाहिर बाट आएको |उ: आगन्तुक च‍रा",
+    "आगन्तुक संस्कृत भाषाबाहेक अन्य भाषाबाट नेपाली भाषामा प्रयोग गरिनु आगन्तुक हो। आगन्तुक शब्दहरू नेपाली वर्ण विन्यासका नियमअनुसार लेखिन्छन्। आगन्तुक प्रयोगमा नेपालीमूलक नियमको पछ्याइ बढ्दो छ। जस्तै: स्कूल, महसुस, शहीद, बक्खु, तुम्बा, क्वाँटी, कच्चा आदि।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 250,
+    "text_length_avg": 149.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 799,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13516.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13516.txt",
+    "relative_path": "13516.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13516.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 799,
+    "mtime": 1782796458.9300423,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.974,
+    "sha1_quick": "6761b9d378ae8d1a07c7e50c04535c776ac5574d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

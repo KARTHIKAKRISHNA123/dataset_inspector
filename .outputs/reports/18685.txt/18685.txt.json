@@ -1,0 +1,92 @@
+{
+  "dataset": "18685.txt",
+  "file_name": "18685.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैद्यनाथ 12 ज्यतिर्लिङ्ग मध्यको एक स्थान हो । वैद्यनाथलाई बाबाधाम पनि भनिन्छ । वैद्यनाथ भारतको झारखण्ड राज्यमा पर्ने देवघर जिल्लामा पर्दछ । यहाँ वैद्यनाथको नामले भगवान शिवको पूजा आरधना गरिन्छ ।",
+    "सत्य युगमा राक्षसहरूको राजा रावणले दशहजार वर्षसम्म भगवान शिवको घोर तपस्या गरेको थियो । भगवान शिवको तपस्या गर्दा रावणले प्रत्यक हजार वर्षमा आफ्नो एक शिर काटेर त्यता पट्टीको शरिरको बाजा बनाएर भगवान शिवको स्तुती गर्ने गर्थ्यो । यसरी रावणले 10 हजार वर्षमा आफ्नो 10 औं शिर काट्न लाग्दा महादेव प्रकट भएर रावणलाई ईछ्छा अनुशारको वर माग्न भने । महादेवको कुरा सुनेर रावणले लोक विजयी बन्न पाउँ भन्ने वर माग्यो । रावणले मागेको वरदान देवताहरूको लागी घातक भएपनि रावणको तपस्या देखेर भगवान शिवले लोक विजयीको वरदान दि"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 2339,
+    "text_length_avg": 1266.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6759,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18685.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18685.txt",
+    "relative_path": "18685.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18685.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6759,
+    "mtime": 1782796483.277277,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "342badd54d543903ee557cd4aa4fef9833e5df88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

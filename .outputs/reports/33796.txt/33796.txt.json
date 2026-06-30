@@ -1,0 +1,92 @@
+{
+  "dataset": "33796.txt",
+  "file_name": "33796.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संवैधानिक अदालत एक उच्च न्यायालय हो जसले मुख्य रूपमा संवैधानिक कानुनसँग सम्बन्धित बिषयमा कार्य गर्द छ। यसका मुख्य अख्तियारी चुनौती दिईएको कानुन वास्तवमा असंवैधानिक छ कि छैन, जस्तो कि संवैधानिक रूपमा स्थापित अधिकार र स्वतन्त्रतासँग बिरोधाभास छ छैन भनी अधिकार प्रयोग गर्नु हो। ",
+    "यस लेखमा सूची भएको देशहरूमा भिन्नै संवैधानिक अदालत छ। धेरै देशहरूमा भिन्दै संवैधानिक अदालत छैन, बरु यसको सट्टामा उनिहरूको सर्वोच्च अदालतलाई संवैधानिक न्यायिक अधिकार प्रत्यायोजित गरिएको छ। तथापी, यस्ता अदालतहरूलाई कहिले काही \"संवैधानिक अदालत\" भनिन्छ, उदाहरणको लागी, कसै कसैले संयुक्त राज्य अमेरिकाको सर्वोच्च अदालतलाई, \"विश्वको सबैभन्दा पुरानो संवैधानिक अदालत\" भनेका छन किन भनें असंवैधानिक भएको भनी कानुनलाई बदरभागी गराउने यो विश्वमा पहिलो अदालत हो,जबकि यो भिन्नै संवैधानिक अदालत होईन। ऑस्ट्रियाले सन "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 805,
+    "text_length_avg": 371.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2967,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33796.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33796.txt",
+    "relative_path": "33796.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33796.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2967,
+    "mtime": 1782796553.231692,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "33769fb6833157d584b89de178c65fdb4e5dc47d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

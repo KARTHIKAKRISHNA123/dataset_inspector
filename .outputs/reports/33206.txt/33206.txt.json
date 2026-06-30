@@ -1,0 +1,92 @@
+{
+  "dataset": "33206.txt",
+  "file_name": "33206.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उच्च कोटीको थाङ्का / थान्का प्रशिक्षक।",
+    "बौद्ध धर्ममा चार किसिमका दर्शन छन् – तन्त्र, इतिहास, ज्योतिषशास्त्र र औषधीविज्ञान। यी चारवटै दर्शन राम्रोसँग अध्ययन गरेर त्यसलाई चित्रमा उतार्न सक्ने व्यक्ति नै खाइबा हुन्छ। यी विषय अध्ययन मात्र गर्ने व्यक्ति बौद्ध धर्मको गुरू हुन सक्छ, तर चित्रकार हुन सक्दैन। साधारण चित्र उतार्ने व्यक्ति चित्रकार त हुन सक्छ, तर धर्मको व्याख्याता हुन सक्दैन। यी दुवैको मिश्रण भयो भने त्यो \"खाइबा\"' हुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 390,
+    "text_length_avg": 239.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1925,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33206.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33206.txt",
+    "relative_path": "33206.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33206.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1925,
+    "mtime": 1782796550.5134547,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e420e03132542fec7b0b0de0882a55fcb380d72a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

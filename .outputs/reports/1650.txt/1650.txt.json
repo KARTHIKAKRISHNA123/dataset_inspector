@@ -1,0 +1,96 @@
+{
+  "dataset": "1650.txt",
+  "file_name": "1650.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ग्रह, तारा, सौर्यमण्डल, तारापुञ्ज र अन्य दृस्य र अदृस्य खगोलिय पिण्डहरूको अध्ययन् र अवलोकन गर्ने विधालाई खगोलशास्त्र भनिन्छ। खगोलशास्त्र मानवजातिको एक सारै पुरानो विज्ञान हो। यसको सुरुवात लिखित इतिहास भन्दा धेरै पुरानो छ।",
+    "2009को Total Solar Eclipse नेपालको पूर्वि भागबाट देखिने छ। यसको लागि गाईघाट, उदयपुर एक उचित ठाँऊ हो।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 616,
+    "text_length_avg": 411.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5564,
+      "Devanagari": 0.4436
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9980,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6297,
+      "Latin": 0.3703
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1650.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1650.txt",
+    "relative_path": "1650.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1650.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9980,
+    "mtime": 1782796472.576686,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "317d9447cece45dee6971ceda48406977aecf6e7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

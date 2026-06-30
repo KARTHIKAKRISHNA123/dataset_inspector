@@ -1,0 +1,92 @@
+{
+  "dataset": "27990.txt",
+  "file_name": "27990.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चौकुने गाउँपालिका नेपालको सुर्खेत जिल्लामा अवस्थित एक गाउँपालिका हो । यो चौकुने गाउँपालिका साबिकको लगाम, बेतान, बिजौरा, गुटु र घाटगाउँ गा.वि.स. मिलाएर बनाइएको गाउँपालिका हो । यो गाउँपालिकाको क्षेत्रफल 381.01 वर्ग किलोमिटर रहेको छ । साथै यो गाउँपालिकाको प्रमुख साविक गुटु गा.वि.स.को कार्यालयलाई निर्धारण गरिएको छ ।",
+    "यो गाउँपालिकामा कुल 10 वटा वडाहरू रहेको छ । भने वि.स. 2068 सालको जनगणना अनुसार कुल जनसंख्या 25,240 रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 108,
+    "text_length_max": 313,
+    "text_length_avg": 186.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1451,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27990.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27990.txt",
+    "relative_path": "27990.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27990.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1451,
+    "mtime": 1782796526.117283,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9bbf9b519505d7ae6ea3bcf108731b2d1a5ba711",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

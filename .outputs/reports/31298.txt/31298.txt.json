@@ -1,0 +1,92 @@
+{
+  "dataset": "31298.txt",
+  "file_name": "31298.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "समुन्द्र मन्थन एक प्राचीन हिन्दु कथा हो । यसको कथा श्रीमद्भागवत् पुराण, महाभारत र विष्णु पुराणमा बर्णन पाइन्छ ।",
+    "देवराज इन्द्र ऐरावत हात्तीमा चढी दुर्वाषा ऋषिको छेउमा आइपुगे । दुर्बषाले उनलाई भगवान शिवले दिएको विशेष माला अर्पित गरे । इन्द्रले त्यो माला ऐरावतको सुधमा राखी दिए, र ऐरावतले त्यो माला भुइँमा फ्याकिदियो । यसले दुर्बासाको रिसको पारो तात्यो र उनले इन्द्र र सम्पूर्ण देवहरु'लाई आफ्नो सम्पूर्ण सामर्थ्य, शक्ति र सौभाग्य गुमाउने श्राप दिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 955,
+    "text_length_avg": 279.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8929,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31298.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31298.txt",
+    "relative_path": "31298.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31298.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8929,
+    "mtime": 1782796541.7389798,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8335fe94cfb050f761c111ea5654911f36dc1a83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,110 @@
+{
+  "dataset": "7.csv",
+  "file_name": "7.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "ENGLISH",
+    "bodo"
+  ],
+  "preview": [
+    "रोखोमनै साबसिन त्रेइन जेरै- सताबदि अक्सप्रेस (देलही आरो भुपालनि गेजेराव) आरो ताज एक्सप्रेसनि (दिल्ली आरो गवालिरनि गेजेराव) आग्रासिम हाबग्रा लामाया थोजासे रोखोमनि। ",
+    "Agra, on cross roads of national highways 2, 3 and 11, is excellently connected to all parts of the country."
+  ],
+  "statistics": {
+    "records_sampled": 9099,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 786,
+    "text_length_avg": 137.64,
+    "duplicate_estimate": 56,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5053,
+      "Devanagari": 0.4947
+    },
+    "unicode_replacement_chars": 1,
+    "unicode_control_chars": 8,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4354139,
+    "estimated_records": 31453
+  },
+  "schema": {
+    "columns": [
+      "ENGLISH",
+      "bodo"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "ENGLISH",
+      "bodo"
+    ],
+    "estimated_records": 31453,
+    "raw_schema": {
+      "ENGLISH": "str",
+      "bodo": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7218,
+      "Devanagari": 0.2782
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "ENGLISH",
+      "bodo"
+    ],
+    "n_columns": 2
+  },
+  "meta": {
+    "file_name": "7.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7.csv",
+    "relative_path": "7.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 4354139,
+    "mtime": 1782794723.7925982,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "04911800ad5eb6e45b14fb01964b1466e17d2443",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

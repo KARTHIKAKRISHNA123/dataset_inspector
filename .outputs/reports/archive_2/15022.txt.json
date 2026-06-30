@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15022.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल नेपालको राजधानी काठमाडौंमा रहेको विमानस्थल हो। यो नेपालको प्रमुख र हालसम्म चालु एक मात्र अन्तर्राष्ट्रिय विमानस्थल हो।",
+    "यस विमानक्षेत्र को आरम्भ गौचर विमानक्षेत्र को नाम बाट सुरु भएको थियो । नेपाल मा आधिकारिक रूपमा विमानन को आरम्भ 1949 मा एक लोन 4-सीटर बीचक्राफ़्ट बोनान्ज़ा विमान को अवतरण बाट सुरु भएको थियो। यसमा एक भारतीय राजदूत सवार थिए। गौचर एवम् कोलकाता बिच पहिलो चार्टर उड़ान हिमालयन एविएशन को एक डैकोटा विमान 20 फेब्रुअरी 1950 मा चलेको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 330,
+    "text_length_avg": 175.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2812,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15022.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15022.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15022.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2812,
+    "mtime": 1782796616.625796,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "3ef86305a1e1927d74ac3e27e5488bb69f62d874",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

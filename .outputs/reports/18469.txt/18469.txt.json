@@ -1,0 +1,92 @@
+{
+  "dataset": "18469.txt",
+  "file_name": "18469.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अमिना जे मोहम्मद संयुक्त राष्ट्र सङ्घकी पाँचौं उपमहासचिव तथा नाइजेरियाकी पूर्व वातावरण मन्त्री हुन् । अमिनाले सशक्त विकास लक्ष्य सहित दिगो विकासका लागि 2030 एजेन्डा अघि सार्न महत्वपूर्ण भूमिका निर्वाह गरेकी थिइन् ।",
+    "उत्तर पूर्वी नाइजेरियाको गोम्बे राज्यबाट अमिना जे मोहम्मद प्रतिनिधित्व गर्छिन् । उनको जन्म सन् 1961 जुन 27 मा एक नाइजेरियाली पशु चिकित्सक र ब्रिटिश नर्सको घरमा भएको हो ।उनको परिवारका पाँच छोरीहरूमध्ये उनी सबैभन्दा जेठी हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 214,
+    "text_length_max": 438,
+    "text_length_avg": 292.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2322,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18469.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18469.txt",
+    "relative_path": "18469.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18469.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2322,
+    "mtime": 1782796482.205929,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ed2d1297b48f5225fe53ea718a4f85d6a118369d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

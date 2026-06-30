@@ -1,0 +1,94 @@
+{
+  "dataset": "29282.txt",
+  "file_name": "29282.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हृदयेश त्रिपाठी हृदयश त्रिपाठीको जन्म सन् 1959 मा नवलपरासीमा भएको हो । उनी 30 वर्षदेखि नेपालको राजनीतिमा सक्रिय भएर काम गरदै छन् । हाल तराइ मधेश लोकतान्त्रिक पार्टीका संविधान सभासद तथा विभिन्न समयमा विभिन्न पार्टीहरूसित सम्बद्द भएका नेता हुन्.",
+    "http://www.abhiyan.com.np/new/Articles/view/18098"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 243,
+    "text_length_avg": 146.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8534,
+      "Latin": 0.1466
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 692,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8534,
+      "Latin": 0.1466
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29282.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29282.txt",
+    "relative_path": "29282.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29282.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 692,
+    "mtime": 1782796532.2664392,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "539efc5edb4a5599cf00cfb9c063f1d1fbaec0dd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

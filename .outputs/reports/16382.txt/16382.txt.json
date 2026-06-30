@@ -1,0 +1,92 @@
+{
+  "dataset": "16382.txt",
+  "file_name": "16382.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जण्डौल नेपालको सगरमाथा अञ्चलको सप्तरी जिल्लाको एक गाँउ विकास समिति हो । यो गाविस सप्तरी जिल्लाको महेन्द्र राजमार्गको छेउमा छ । तीन ओटा गाउँ मिलेर जणडौल गाविस बनेको छ । एक देखि पाँच वार्ड सम्म जण्डौल पर्छ । छ- सात घोँघिदाहा र आठ-नौँ भवानीपुर वार्डमा पर्छ । यस गाविसमा दुई वटा उ.मा.वि.छ । यो गाविसमा कम्तिमा पचास विघा जति जमीनमा आँपको बोट छ । यहाँको आम्दनीको श्रोत आँपको खेति रहेको छ । यहाँको बासिन्दालाई प्रत्येक व्यक्तिको घरमा चार-दश ओटा जति आँपको बोट छ । धेरै जातजाती थारु जाति, दनुवार जाति, मुस्लिम",
+    "नेपालको सन् 2011 को जनगणना अनुसार जण्डौलको 870 घर धुरीमा कुल जनसङ्ख्या 4,360 रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 534,
+    "text_length_avg": 310.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1601,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16382.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16382.txt",
+    "relative_path": "16382.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16382.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1601,
+    "mtime": 1782796472.0351746,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "04883d64f5a5fc284b9cecd21b219befef45081a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

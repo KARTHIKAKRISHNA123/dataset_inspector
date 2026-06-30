@@ -1,0 +1,92 @@
+{
+  "dataset": "524.txt",
+  "file_name": "524.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भौतिकतावाद एक सैदान्तिक विश्वास हो। यसका प्रवर्तकहरू भौतिक यानेकी लौकिक रूपमा रहेका र प्रत्येक्ष अनुभव गर्न सकिने कुरामा मात्र विश्वास राख्दछन्। भौतिकतावादीहरू कुनै पनि ठोस सबुत या गणितीय रूपमा सिद्ध गर्न सकिने कुरामा मात्र विश्वास राख्दछन्।",
+    "भौतिकतावादको युरोपको पुनर्जागरण पछि मूख्यरूपमा बृद्धि भए पनि यसको उत्पत्तिको बारेमा कुनै पनि किटानी रहेको छैन। भौतिकतावादीहरू ईश्वरमा विश्वास नराख्न सक्छन यानेकी प्राय: भौतिकतावादीहरू नास्तिक हुन्छन। भौतिकतावादीहरू यो संसारको शृष्टि र चलायमान केवल भौतिक नियमहरूद्वारा हुनेमा विश्वास राख्दछन। कहिले काही यिनीहरूलाई वस्तुवादी भनेर पनि भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 340,
+    "text_length_avg": 221.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1819,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "524.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\524.txt",
+    "relative_path": "524.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "524.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1819,
+    "mtime": 1782796584.053956,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "79e18bb1945e31ca9bda5bb0faceb750123080c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

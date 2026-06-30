@@ -1,0 +1,92 @@
+{
+  "dataset": "12975.txt",
+  "file_name": "12975.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुरूप्रसाद मैनानी नेपाली भाषाका कथाकार थिए ।",
+    "उनको पुख्र्यौली घर काभ्रेपलाञ्चोक जिल्लाको कानपुर हो। उनका बाबु जागीरे थिए। जागीरको सिलसिलामा उनका बुबा धनकुटा गएका थिए। त्यही बेलामा धनकुटामा नै गुरूप्रसाद मैनालीको जन्म भएको हो। उनको जन्म वि.सं. 1957 साल भाद्र शुक्ल चतुर्दशीका दिनमा भएको थियो। उनका बाबुको नाउँ काशीनाथ र आमाको नाउँ काशीरूपादेवी हो।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 1407,
+    "text_length_avg": 607.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9694,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12975.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12975.txt",
+    "relative_path": "12975.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12975.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9694,
+    "mtime": 1782796456.5599742,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "96384ba80ccf7340a5c6e21457a1b29fb6973b9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

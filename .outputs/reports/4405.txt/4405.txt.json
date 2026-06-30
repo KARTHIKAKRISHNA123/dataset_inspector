@@ -1,0 +1,96 @@
+{
+  "dataset": "4405.txt",
+  "file_name": "4405.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेश बाबु एक भारतीय अभिनेता हुन । उनी हाल तेलुगु चलचित्रमा नायकको रूपमा अभिनय गर्ने गर्छन ।",
+    "उत्पादन घर जी महेश Babu मनोरञ्जन प्रा मालिक हो। अनुभवी तेलुगु अभिनेता कृष्ण को कान्छो छोरा, महेश आफ्नो cameo Needa मा एक बच्चा कलाकार को रूपमा, र एक बच्चा कलाकार आठ अन्य चलचित्रमा काम गरे। उहाँले Rajakumarudu संग एक नेतृत्व अभिनेता रूपमा आफ्नो debut गरे र सर्वश्रेष्ठ पुरुष Debut लागि राज्य नन्दी पुरस्कार जित्यो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 91,
+    "text_length_max": 695,
+    "text_length_avg": 366.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8239,
+      "Latin": 0.1761
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2609,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8239,
+      "Latin": 0.1761
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4405.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4405.txt",
+    "relative_path": "4405.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4405.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2609,
+    "mtime": 1782796579.5979855,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "43ad63d25a73714e784eea9fb9c9d0b2ebe37de1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

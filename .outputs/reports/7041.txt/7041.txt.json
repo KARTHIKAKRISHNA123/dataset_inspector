@@ -1,0 +1,91 @@
+{
+  "dataset": "7041.txt",
+  "file_name": "7041.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संवैधानिक जनवादी पार्टी रुसमा एउटा राजनीतिक दल थियो |। कादेत पार्टी रुसका उदारवादी-राजतत्रवादी बुर्जुवावर्गको मुख्य सङ्गठन थियो। कादेत पार्टीको स्थापन अक्टुबर 1905मा भएको थियो। यस पार्टीमा बुर्जुवावर्गका प्रतिनिधिहरू, जमीनदारहरूबाटा आएका जेम्स्तभाका अधिकारीहरू र बुद्धिजीवीहरू सम्मिलित थिए। पि.एन. मिल्यूकोभ, पि.वि स्त्रुभे, एफ.इ. रोदिचेभ आदि कादेत साम्राज्यवादी बुर्जुवावर्गको पार्टीमा परिणत भए। प्रथम विश्वयुद्ध कालमा कादेतहरूले जारसाही सरकारको आक्रमणकारी विदेश नैतिको समर्थन गरे। सन् 1917को फेब्रु"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1100,
+    "text_length_max": 1100,
+    "text_length_avg": 1100.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2985,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7041.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7041.txt",
+    "relative_path": "7041.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7041.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2985,
+    "mtime": 1782796592.6694152,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "d9944ec8fed711eed40d76d2b58e56fd276a5d10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

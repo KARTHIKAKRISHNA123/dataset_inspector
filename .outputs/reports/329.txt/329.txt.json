@@ -1,0 +1,92 @@
+{
+  "dataset": "329.txt",
+  "file_name": "329.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिपल्स क्याम्पस सामुदायिक शिक्षण संस्था हो । यसको स्थापना सन् 1981 मा समाजमा शिक्षाको गुणस्तर सुधारको उद्देश्य लिई भएको थियो । यो क्याम्पस काठमाडौंको पकनाजोलमा अवस्थित छ भने यस संस्थाको पूर्वाधारमा 60 भन्दा बढी कक्षा कोठाहरू रहेको छ ।। यसले त्रिभुवन विश्वविद्यालयसँग सम्बन्धन लिएको छ।",
+    "त्रिभुवन विश्वविद्यालयमाको 42 औं दिक्षान्त समारोहमा पिपल्स क्याम्पसको विद्यार्थी स्नातकोत्तर महिला तर्फ विद्यार्थी उच्च अंक हासिल गरेर सम्मानित भएको ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 284,
+    "text_length_avg": 157.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1272,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "329.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\329.txt",
+    "relative_path": "329.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "329.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1272,
+    "mtime": 1782796549.1025808,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "71b2d633d55dbf8e6a9a0535bb4a4b7a0fa49250",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

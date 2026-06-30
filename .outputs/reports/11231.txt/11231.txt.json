@@ -1,0 +1,92 @@
+{
+  "dataset": "11231.txt",
+  "file_name": "11231.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उन्नत जानकारी सेवा सार्वजनिक कम्पनी लिमिटेड सामान्यतया एअाइएस काे रूपमा उल्लेख गरिने, थाइल्यान्डको सबै भन्दा ठूलो जीएसएम मोबाइल फोन सञ्चालक हो । सन् 2016 का अनुसार 39.87 मिलियन प्रयाेगकर्ताहरू रहेका छन् । अप्रिल 1986 मा स्थापित यस कम्पनीले कम्प्यूटर रेन्टल व्यवसाय वा भाडाबाट हुने आम्दानीकाे रूपमा अाफ्नो सेवा सुरू गरेकाे थियोे । अक्टोबर 1990 मा, यसले 900 मेगाहर्जका साथ एनालग मोबाइल फोन सेवा सुरु गरेकाे थियोे । याे कम्पनी विस्तार हुन पुर्व, थाइल्यान्ड टेलिफोन सङ्गठनले 20-वर्ष सम्म एकाधिकार प्राप्त",
+    "यो अत्यधिक लाभदायिक कम्पनी इन्टच पीएलसी को नियन्त्रणमा रहेकाे छ र एक सिङ्गापुरकाे सरकारी स्वामित्वमा रहेको अायाेग टेमासेक होल्डिङ्स द्वारा सञ्चालनमा रहेको छ । कम्पनी 5 नोभेम्बर 1991 मा थाइल्यान्डको स्टक एक्सचेञ्जमा सुचीकृत गरिएको थियो । 23 डिसेम्बर 2001 को अनुसार, इन्टच पीएलसी कम्पनी कुल शेयरहरूको 40.45% रहेको छ भने सिङ्गापुरको दूरसञ्चार र थाई ट्रस्ट कोषमा यसमा 23.32% स्वामित्व रहेको छ । यसको मुख्य कार्यलय थाइल्यान्डको बैङ्ककमा रहेकाे छ भने यो सार्वजनिक लिमिटेड कम्पनीको रूपमा स्थापित भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 591,
+    "text_length_avg": 214.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5026,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11231.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11231.txt",
+    "relative_path": "11231.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11231.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5026,
+    "mtime": 1782796448.432462,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f640166d9b5335d1f44bede1b47efe6829c4420e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

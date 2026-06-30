@@ -1,0 +1,92 @@
+{
+  "dataset": "3801.txt",
+  "file_name": "3801.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चाँपाइनबाबगञ्ज बङ्गलादेशको उत्तर- पश्चिममा अवस्थित एक जिल्ला हो । यो जिल्ला राजशाही विभागमा पर्छ । यो जिल्ला ब्रिटिस भारतको मालदह जिल्ला उप-विभागको रुपमा रहेको थियो भने सन् 1984 मा यो एक छुट्टै जिल्ला रुपमा स्थापित भएको थियो । ",
+    "चाँपाइनबाबगञ्ज जिल्ला बङ्गलादेशको सुदर पश्चिममा पर्छ भने यो जिल्ला 25°25' देखि 24°58' उत्तर अक्षांश र 89°01' देखि 88°30' पुर्व देशान्तरणमा अवस्थित छ । चाँपाइनबाबगञ्ज जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 1702.56 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई भरातको बङ्गाल राज्यले उत्तर, दक्षिण र पश्चिमबाट घेरेको छ भने यस जिल्ला पुर्वमा राजशाही र नोवागाँउ जिल्ला रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 132,
+    "text_length_max": 544,
+    "text_length_avg": 373.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9617,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3801.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3801.txt",
+    "relative_path": "3801.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3801.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9617,
+    "mtime": 1782796573.325438,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4484609e25c4c1fc95f941a6374725845712511a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

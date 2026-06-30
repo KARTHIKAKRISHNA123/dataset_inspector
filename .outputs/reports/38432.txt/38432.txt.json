@@ -1,0 +1,92 @@
+{
+  "dataset": "38432.txt",
+  "file_name": "38432.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीरजा भनोट मुम्बईमा प्यान एम एयरलाइन्सको विमान परिचारिका थिइन् । 5 सेप्टेम्बर 1986 मा मुम्बई देखि न्युयोर्क जादै गरेको प्यान एम विमान 73 को अपहृत विमानमा यात्रीहरूको सहायता र सुरक्षा गर्दै जाँदा उनी आतंकवादीहरूको बन्दुकको गोलीको शिकार भएकी थिइन् । उनको बहादुरीको लागि मरनोपरान्त उनलाई भारत सरकारले शान्ति कालको आफ्नो सर्वोच्च वीरता पुरस्कार अशोक चक्रले सम्मानित गरेको थियो र साथै पाकिस्तान सरकार र अमेरिकी सरकारले पनि उनलाई यो वीरताको लागि सम्मानित गरेका थिए ।",
+    "वर्ष 2010 मा उनीमाथि एक चलचित्रको निर्माण गर्ने घोषणा भयो जसमा उनको भूमिका सोनम कपूरले निर्वाह गर्दै छिन् । नीरजा भनोट चलचित्रको सुरुवात सन् 2015 मा भएको हो र यस चलचित्रलाई सन् 2016 को 19 फेब्रुअरी मा प्रदर्शन गरिंदैछ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 218,
+    "text_length_max": 460,
+    "text_length_avg": 339.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1773,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38432.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38432.txt",
+    "relative_path": "38432.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38432.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1773,
+    "mtime": 1782796575.2378685,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "34f13b7744ce426424b97fe56087b5346f1595bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

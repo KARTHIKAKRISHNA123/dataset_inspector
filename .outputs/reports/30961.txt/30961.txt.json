@@ -1,0 +1,92 @@
+{
+  "dataset": "30961.txt",
+  "file_name": "30961.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राग बहार ",
+    "यो एक चञ्चल प्रकृतिको राग हो। प्राचीन ग्रन्थमा यो राग का उल्लेख भेटिदैन,अत: यो राग बहारको रचना मध्य कालमा भएको मानिन्छ। संगीत मर्मज्ञहरू यो राग बागेश्वरी ,अडाना र मियाँ मल्हारको मिश्रणबाट रचना भएको विश्वाश गर्दछन्। यो रागको चलन सप्तकको उत्तर अंग तथा तार सप्तकमा हुने कारण उत्तरांग प्रधान राग अन्तर्गत राखिएको छ ।यो रागको गायन समय मध्य रात्रि हो तथापि बसंत ॠतुमा हर समय गाउने परम्परा छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 386,
+    "text_length_avg": 52.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1776,
+    "estimated_records": 33
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30961.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30961.txt",
+    "relative_path": "30961.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30961.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1776,
+    "mtime": 1782796540.2747862,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cf9720bc1298d7bb8ecdaf07528f9fc32d957b4a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

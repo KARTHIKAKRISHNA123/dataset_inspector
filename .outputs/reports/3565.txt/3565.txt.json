@@ -1,0 +1,91 @@
+{
+  "dataset": "3565.txt",
+  "file_name": "3565.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल राहदानी विभाग नेपालको एक सरकारी आयोग हो जसले नेपाली नागरिकहरूको लागि कानुनी राहदानी जारी गर्ने दायित्व लिएको छ र विदेशी कामकाजहरूका लागि कानुनी रूपमा योग्य व्यक्तिहरूको लागि परराष्ट्र मन्त्रालय अधिनमा यात्रा कागजातहरू प्रदान गर्दछ। 31 मार्च 2010 सम्म, नेपालले त्यतिखेर पनि हस्तलिखित राहदानी जारी गर्ने गरेको थियो। तथापि, अन्तर्राष्ट्रिय नागरिक विमान सङ्गठनको सदस्यको रुपमा, नेपाललाई मेसिनद्वारा पढ्ने योग्य राहदानी जारी गर्न बाध्य बनाइएको थियोे। केन्द्रीय राहदानी कार्यालयले 31 मार्च, 2010 मा ह"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 719,
+    "text_length_max": 719,
+    "text_length_avg": 719.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1892,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3565.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3565.txt",
+    "relative_path": "3565.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3565.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1892,
+    "mtime": 1782796561.6543045,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "72c8fc8fcc4404fdfd54daac254d1c42e42b95d2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "6802.txt",
+  "file_name": "6802.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सहभागी 32 देशमध्ये प्रत्येकबाट प्रथम पंक्ति र स्थानापन्नसमेत 23 जना गरी 736 खेलाडीले प्रतिस्पर्धा गर्न पाउने विश्वकपमा नया नायकका प्रत्याशी मानिएका केही नाम:",
+    "लियोनेल मेसी : बाइस वर्षीय अर्जेन्टिनी मिडफिल्डर मेसी चालू वर्षका सर्वश्रेष्ठ खेलाडी अर्थात्, 'फिफा वर्ष खेलाडी' पनि हुन्। स्पेनिस क्लब बार्सिलोनाबाट खेल्दै आएका मेसीले प्रतिष्ठित युरोपेली लिगमा लगातार प्रभावशाली खेल प्रदर्शन गर्दै आफ्नो अपार प्रतिभा देखाएका थिए। त्यहा उनले गोल र ह्याटि्रकको त बाढी नै लगाइदिएका थिए। उनले बार्सिलोना क्लबबाट खेल्दै 34 'ला लिगा' गोल गरेर युरोपियन गोल्डेन बुट पाएका थिए भने थप आठ गोलसहित लगातार दोस्रो वर्ष पनि युएफा च्याम्पियन्स लिगमा सबैभन्दा धेरै गोल गर्ने खेलाडी ब"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 853,
+    "text_length_avg": 566.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20990,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6802.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6802.txt",
+    "relative_path": "6802.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6802.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20990,
+    "mtime": 1782796591.456704,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fdc51f12f99455417ee97bb1a295071e09d73de8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

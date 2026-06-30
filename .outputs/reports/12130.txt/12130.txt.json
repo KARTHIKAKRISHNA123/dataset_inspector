@@ -1,0 +1,94 @@
+{
+  "dataset": "12130.txt",
+  "file_name": "12130.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 25° उत्तर 71° पश्चिम / 25° उत्तर 71° पश्चिम / 25; -71",
+    "आन्ध्र महासागरको समिपवर्ती ठाउँ मा पानीको चम्किला धार, प्रकाश र फिज देखिन्छ ।आन्ध्र महासागरको यही भागलाई बर्मडा त्रिकोण भनिन्छ। यस समुन्द्री भागलाई रहस्यमय त्रिकोण, शैतान सागर, आन्ध्र महासागरको नर्क जस्ता नराम्रा नामले यो ठाउँ चिनिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 66,
+    "text_length_max": 814,
+    "text_length_avg": 328.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13089,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12130.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12130.txt",
+    "relative_path": "12130.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12130.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13089,
+    "mtime": 1782796452.547712,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "4a2a4af2d41f5fc4375bc699bab69e4451e6f435",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

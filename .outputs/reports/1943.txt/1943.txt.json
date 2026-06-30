@@ -1,0 +1,92 @@
+{
+  "dataset": "1943.txt",
+  "file_name": "1943.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सान मारिनो राष्ट्रिय फुटबल टिम अन्तर्राष्ट्रिय फुटबल प्रतिस्पर्धामा सान मारिनो प्रतिनिधित्व गर्ने पुरुष फुटबल टिम हो । यो सान मारिनोमा फुटबलको लागि शासकीय निकाय सान मारिनो फुटबल संघको नियन्त्रणमा रहेकोे छ ।",
+    " सान मारिनो 0–1 क्यानडा "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 206,
+    "text_length_avg": 115.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 616,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1943.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1943.txt",
+    "relative_path": "1943.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1943.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 616,
+    "mtime": 1782796486.9997876,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e6d2b16d1e62935c3b74af5e628d916ac7e23e4d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "23193.txt",
+  "file_name": "23193.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोरखा भाषा प्रकाशिनी समितिले गोरखा शिक्षा प्रचारक विभागका लागि तयार गरेको 'गोरखा पत्रबोध'ले चिठीको परिभाषा, प्रशस्तिहरूको नमूना, बिभिन्न समुदाय का मानिसले एक अर्का लाई, आफन्त नातागोताले र कामदारले ओहदा अनुसार  लेख्ने पत्रहरूको व्यहोरा दिइएको छ। ती नमूना पत्रहरूमा कसरी सम्बोधन गर्ने, कस्ता शब्दहरूको प्रयोग गर्ने, चिठीको सुरुआत र अन्त्य कसरी गर्ने भनेर सिकाइएको छ| पुस्तकले चिठीपत्र बाहेक नोकरी, विदा, सहयोगका निम्ति आवश्यक निवेदन, निमन्त्रणा पत्र, प्रशंसा पत्र, विज्ञापन कसरी लेख्ने भनेर पनि सिकाएको",
+    "परम्परागत पत्रहरूले सामाजिक मर्यादा–शिष्टाचारलाई विशेष महत्व दिएको पाइन्छ। कलकत्तामा बसेको एउटा पुत्रले पितालाई लेखेको नमूना पत्रमा लेखिएको छ– 'उप्रान्त चरणको कोमल गाथ पाउमा सदा कुदा कुशल मङ्गलोदय रहे बालकको प्रति पालोद्धार हुनेछ। चरणका पुण्य प्रतापले यहाँ बालक सकुशल छु। अब 2 र 4 दिनमा यहाँको काम सकिन्छ, सो सकिना साथ चरणको सेवामा हाजीर होउँला भने जस्तो लागेको छ।' यसले आजका पाठकलाई पत्र प्रेषकले के भनेको हो भनेर बुझन पनि कठिन पार्न सक्छ।पुस्तकले गुरु, आमा, बाबु र त्यही किसिमका अरू मान्यजनलाई श्री"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 25,
+    "text_length_max": 1179,
+    "text_length_avg": 618.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4923,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23193.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23193.txt",
+    "relative_path": "23193.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23193.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4923,
+    "mtime": 1782796504.0880675,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d2acb35bdce2490b109eccad82cdbcd7a25535e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

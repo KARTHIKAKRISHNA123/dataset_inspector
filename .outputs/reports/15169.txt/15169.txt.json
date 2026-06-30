@@ -1,0 +1,94 @@
+{
+  "dataset": "15169.txt",
+  "file_name": "15169.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तापविद्युत् त्यो विद्युत छ जो दुइ असमान धातुहरुका ताराहरुको सन्धिलाई गरम गर्नमा यी ताराहरुका परिपथमा प्रवाहित हुन लाग्दछ। यस तथ्यलाई सर्वप्रथम सीबेक ले सन् 1821मा ताँबो एवं बिस्मथका ताराहरुको सन्धिलाई गरम गर्न आविष्कृत गरे। उपर्युक्त परिपथमा उत्पन्न विद्युतवाहक बल न्यून हुन्छ र यसको तीव्रता ",
+    "विद्युद्वाहक बललाई मापनका लागि असमान धातुहरुका ताराहरुका चीसो टुप्पो विभवमापी देखि जोड दिए जान्छन्। यदि परिपथमा कुनै अर्को धातुको तार श्रेणीबद्ध गरियो भनें तापविद्युत् प्रभावहरुमा  परिवर्तन हुँदैन। यदि जेबेक विद्युद्वाहक बलको परिमाण एवं ठंढी सन्धिको तापान्तर र यदि एक सन्धिको ताप शून्य डिग्री सेल्सियस छ भनें E र Tको सम्बन्ध निम्नलिखित सूत्रमा ज्ञात गरिन्छ:"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 145,
+    "text_length_max": 663,
+    "text_length_avg": 366.9,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9701,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15169.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15169.txt",
+    "relative_path": "15169.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15169.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9701,
+    "mtime": 1782796466.3040156,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "035fdcb7c0f9b92014449feeaff4b86cc1d28cf7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

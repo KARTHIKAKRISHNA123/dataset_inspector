@@ -1,0 +1,92 @@
+{
+  "dataset": "23018.txt",
+  "file_name": "23018.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केदारमान सिंह नेपाली पत्रकार हुन्।",
+    "सिंहले वि.सं. 2017मा सगरमाथा संवाद समिति बाट पत्रकारिताको सुरुवात गरेका थिए। पञ्चायतको अन्त्य र बहुदलको स्थापनामा लागेका उनले फ्रान्सेली समाचार समिति एसोसिएट फ्रान्स प्रेस मा 42 वर्ष तथा बिबिसी रेडियोमा दुई दशक काम गरे।पञ्चायतकालमा मरिचमान सिंह प्रधानमन्त्री हुँदा बहुदलका पक्षमा कलम चलाउँदा बरु ज्यान आहूति गर्न तयार, तर समाचार लेख्न नछाड्ने अडान राखेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 359,
+    "text_length_avg": 150.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1195,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23018.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23018.txt",
+    "relative_path": "23018.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23018.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1195,
+    "mtime": 1782796503.2765346,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "bd595417fe7f808678078d726f15195190751198",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

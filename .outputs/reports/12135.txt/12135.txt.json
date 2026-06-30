@@ -1,0 +1,91 @@
+{
+  "dataset": "12135.txt",
+  "file_name": "12135.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिवी चाड पूर्वी तराईका झापा र मोरङ जिल्लाका सतार जातिले दशैं पर्वसँगै मनाउँछन् । दशैंको षष्ठीदेखि विजया दशमीसम्म मनाइने उक्त चाडमा सतार समुदायले मिष्ठान्न भोजनसहित दुर्गा र कालीको पूजाआजा गर्छन्। उक्त चाडमा सतारका कला र संस्कृतिसमेत प्रस्तुत गरिन्छ । एकापसमा सुख र समृद्धिको कामना गर्दै ढोल बजाएर चार दिनसम्म नाचिने नाचलाई दशाए नाच भनिन्छ। सतार संस्कृति अनुसार उक्त नाचमा सहभागी हुन आउनेलाई घरधनीले केराको पातमा सिन्दुर र कलश भिक्षादान दिइन्छ । उक्त भिक्षालाई सतार गुरुले सुरक्षित रूपमा राखी दशमीका द"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 680,
+    "text_length_max": 680,
+    "text_length_avg": 680.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1819,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12135.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12135.txt",
+    "relative_path": "12135.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12135.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1819,
+    "mtime": 1782796452.5669746,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b43c73bbb5e1c11cd5449363c695427fc45ab4b6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

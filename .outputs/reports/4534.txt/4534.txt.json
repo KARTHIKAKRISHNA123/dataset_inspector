@@ -1,0 +1,92 @@
+{
+  "dataset": "4534.txt",
+  "file_name": "4534.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उमङ्ग जैन एक भारतीय अभिनेत्री हुन्। उनी पोगोंको धारावाहिक सुनेनामा नीनाको पात्रमा थिइन्। श... फिर कोईहे र लव ब्रेकअप जिन्दगी आदि धारावाहिकमा पनि उनीले कार्य गरेकी छिन् । उनीले तेरी मेरी लव स्टोरीमा पनि कार्य हरिन् । उनीले ओरल बि, एर्टल, एम टि एस, डाबर आमला जस्ता 200 भन्दा बडी कम्पनीको विज्ञापनमा काम गरेकी छिन्।",
+    "उनको जन्म जनवरी 8, 1995मा भारतको तुमकूर भन्ने ठाउँमा भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 312,
+    "text_length_avg": 187.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 969,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4534.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4534.txt",
+    "relative_path": "4534.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4534.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 969,
+    "mtime": 1782796580.119807,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "a4cee7c5f637239d93d6c6f77e8325426e7b7fdc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

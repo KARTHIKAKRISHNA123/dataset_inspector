@@ -1,0 +1,94 @@
+{
+  "dataset": "2038.txt",
+  "file_name": "2038.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चामुण्डा नेपालको भेरी अञ्चलको दैलेख जिल्लाको सबै भन्दा ठूलो गाँउ विकास समिति हो। यो ठाउँमा 1680 वटा घर छन्।",
+    "यो गा.वि.स.मा रहेको चामुण्डा देवी को मन्दिरको नामबाट यो गा.वि.स.को नाम चामुण्डा गा.वि.स. राखिएको हो। चामुण्डा देबि मन्दिर दैलेखको चर्चित मन्दिर हो यस्तै अर्को भैरबी मन्दिर पनि यहाँको यक महत्त्वपूर्ण तिर्थस्थल हो। चमुण्डा गा.वि.स.को वडा नंवर 9, काफलगैरा दैलेखको सबैभन्दा बढी काफल पाइने ठाउँ भनेर चिनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 303,
+    "text_length_avg": 130.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9681,
+      "Latin": 0.0319
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1317,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9681,
+      "Latin": 0.0319
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2038.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2038.txt",
+    "relative_path": "2038.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2038.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1317,
+    "mtime": 1782796491.4036126,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "26b83950373d0e2a0606c40711feb7f53c11cad5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

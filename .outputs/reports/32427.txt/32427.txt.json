@@ -1,0 +1,92 @@
+{
+  "dataset": "32427.txt",
+  "file_name": "32427.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौंको नया सडकमा जन्मिएका ज्योतिप्रसाद गौतम अाध्यात्मिक साहित्यकार हुन् । उनका भागवत कुञ्ज, रामायणकुञ्ज, गीताकुञ्ज लगायत 50 भन्दा बढी अाध्यात्मिक पुस्तकहरू प्रकाशित छन् ।",
+    "गाैतमका अन्य प्रकाशित कृतिहरू यसप्रकार छन् ः"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 174,
+    "text_length_avg": 109.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 592,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32427.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32427.txt",
+    "relative_path": "32427.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32427.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 592,
+    "mtime": 1782796547.0404792,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "59775f49c454c36b04b1ef438281e6a39302d4d3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

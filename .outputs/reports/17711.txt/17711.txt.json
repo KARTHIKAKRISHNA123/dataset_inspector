@@ -1,0 +1,91 @@
+{
+  "dataset": "17711.txt",
+  "file_name": "17711.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढुङ्ग्री नेपाली गहना हो । महिलाले कानका माझमा भित्रपट्टी लगाउने जडाउदार वा बुट्टे हुन्छ । यो गोलाकार हुन्छ । बाहुन, क्षेत्री, मगर, गुरुङ, राई, लिम्बू, नेवार आदि जातिमा ढुङ्ग्री प्रचलित छ । यसमा प्रत्येक 6 वटा वा त्योभन्दा बढी पातमा माणिक, मोती र हिरा जस्ता बहुमूल्य पत्थर जडेर बनाइराखेको हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 295,
+    "text_length_max": 295,
+    "text_length_avg": 295.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 771,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17711.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17711.txt",
+    "relative_path": "17711.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17711.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 771,
+    "mtime": 1782796478.6714957,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7cc29d45ec5d18a48afb519fa9f771b4ddd456db",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

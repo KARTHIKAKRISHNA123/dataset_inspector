@@ -1,0 +1,91 @@
+{
+  "dataset": "21299.txt",
+  "file_name": "21299.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुगी वुगी एक अन्तर्राष्ट्रिय टेलिभिजन कार्यक्रम हो। बुगी वुगी एक इन्डियन रियालिटी सो हो। उक्त कार्यक्रमको स्थापक जावेद जाफरी र रवि बहल हुन्। सन् 1996मा यो कार्यक्रम पहिलो पटक भारतमा सुरु गरिएको हो। फ्रेन्चाइजमा अभिनेता दिलीप रायमाझी, अभिनेत्री प्रियंका कार्की र कोरियोग्राफर कविराज गहतराज निर्णायक रहेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 308,
+    "text_length_max": 308,
+    "text_length_avg": 308.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 824,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21299.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21299.txt",
+    "relative_path": "21299.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21299.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 824,
+    "mtime": 1782796495.7878497,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "4c2109d86ea09cd15e980fe5e48974869b599da3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

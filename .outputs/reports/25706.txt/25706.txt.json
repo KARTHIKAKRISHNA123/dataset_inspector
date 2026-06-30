@@ -1,0 +1,91 @@
+{
+  "dataset": "25706.txt",
+  "file_name": "25706.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खिजी पवित्र युवा क्लब 2060 साल मा स्थापना भाएको हो । तर फूटबल खेल खिजी चन्डेश्वरी मा 2027 देखिनै खेलिदै आइरहेको हो । कारण सुनुवार बिर्टिश गोर्खा भुतपुर्व सैनिक/आर्मी हरुले सुरुवत गरेका हुन्, गाउँ का युबा हरुलाई खेल को नियम्, कलहरु सबै सुनुवार बिर्टिश गोर्खा भुतपुर्व सैनिकहरुले दिदै आएक थियो । त्यस पछि युबा समुह्, सुनुवार बिर्टिश गोर्खा भुतपुर्व सैनिक समुह र स्कुल समुह गरि 3 समुह मा फूटबल प्रतियोगिता गर्ने गरिन्थियो । 2049 साल तिर ए ग्रोउप, बि ग्रोउप, सि ग्रोउप, र डि ग्रोउप गरी 4 समुह मा खेल्दै आ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 599,
+    "text_length_max": 599,
+    "text_length_avg": 599.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1530,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25706.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25706.txt",
+    "relative_path": "25706.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25706.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1530,
+    "mtime": 1782796515.636801,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a7d172e6aea20ce6134dd86d3c6c5cad0f5d020",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

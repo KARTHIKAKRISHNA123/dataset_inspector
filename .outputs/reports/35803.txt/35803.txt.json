@@ -1,0 +1,92 @@
+{
+  "dataset": "35803.txt",
+  "file_name": "35803.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिजु बज्र नेपालका संगीतकार तथा संगीत निर्देशक हुन् । उनको जन्म 2028 सालमा गुल्मीको वामी टक्सारमा भएको थियो । उनका पिता जुठाराज र आमा लक्ष्मीदेवीको कोखबाट जन्मिएका उनी माहिलो सन्तान हुन् ।",
+    "उनले पन्ध्र सयभन्दा बढी गीतमा संगीत गरेका छन् र थुप्रै मन छुने गीत रचना गरेका छन् । 2049 सालमा रेडियो नेपालमा स्वर परीक्षण पास गरे पछि संगीत क्षेत्रमा व्यवसायिक रूपले लाग्नुभएको थियो । सुगम पोखरेलको स्वरमा रहेको तिमी म भन्दा कोसौँ टाढा छौ, कर्णदासको स्वरमा रहेको बिस्तारै छायो आँखामा अँध्यारो आगन्तुक खरेलको स्वरमा रहेको कुन रङको कमी थियो र सानु रेशमा सुनुवारको स्वरमा रहेको मै ठुली भइछु रे लगायतका गीतहरु उहाँको बहुचर्चित गीत मानिन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 187,
+    "text_length_max": 438,
+    "text_length_avg": 300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2371,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35803.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35803.txt",
+    "relative_path": "35803.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35803.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2371,
+    "mtime": 1782796562.3208985,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "62e8b71b90859af638f7f05b1712ed9ea1be2b20",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

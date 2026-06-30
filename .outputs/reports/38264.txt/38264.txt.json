@@ -1,0 +1,91 @@
+{
+  "dataset": "38264.txt",
+  "file_name": "38264.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खरसाङको हरिप्रिन्टिङ प्रेसबाट वि.सं.1974 देखि मासिक रूपमा प्रकाशित हुन थालेको यस चन्द्रिका पत्रिकाका सम्पादक पारसमणि प्रधान थिए । दार्जिलिङ क्षेत्रबाट प्रकाशित पत्रिकाहरूमध्ये यो पहिलो मानिन्छ । यसमा प्रकाशित महेन्द्रमल्ली र जूनकिरीलार्इ र्इश्वर बरालले सर्वप्रथम निबन्ध मानेका छन् भने पारसमणि प्रधानले यसमा प्रकाशित उनका रचना- अध्यवसाय र विद्यालार्इ सर्वप्रथम मौलिक निबन्ध मानेका छन् । अरू सबैले महेन्द्रमल्लीलार्इ नै सर्वप्रथम निबन्ध मानेका छन् । अठार अङ्कसम्म प्रकाशित भएर यो पत्रिका बन्द भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 496,
+    "text_length_max": 496,
+    "text_length_avg": 496.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1335,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38264.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38264.txt",
+    "relative_path": "38264.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38264.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1335,
+    "mtime": 1782796574.452162,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c612949ce1690424eb5edf874a0fa0450468cada",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

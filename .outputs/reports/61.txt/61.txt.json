@@ -1,0 +1,92 @@
+{
+  "dataset": "61.txt",
+  "file_name": "61.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्लारा जेटकिन अन्तर्राष्ट्रिय श्रमिक महिला दिवसको संस्थापक हुन्। उनी महिला मुक्ति आन्दोलनकी अगुवा हुन्। उनी पहिलोपटक महिला मुक्तिको आवाज लिएर आन्दोलनमा आउने पहिलो महिला यीनै थिइन् ।",
+    "सन् 1857 जुलाई 5 मा जर्मनको एक सामान्य परिवारमा जन्मीएकि जेटकिनका बाबुआमा दुवै शिक्षण पेशामा आबद्ध थिए। हुने बिरूवाको चिल्लो पात भनेझैं उनी सानै उमेर देखि मेहिनती र लगनशील स्वभावकि थिइन् भने उनी त्यतिकै निडर पनि थिइन्।उनको बाल्यकाल पनि सामान्य किसिमबाटनै चल्यो।प्रारम्भिक शिक्षा हासिल गरिसकेपछि उनी शिक्षक बनिन् ।किनभने उनलाई आफ्नो पढाइकालागी आफैंले खर्च जुटाउनु पर्ने बाध्यता रहेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 389,
+    "text_length_avg": 229.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2466,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "61.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\61.txt",
+    "relative_path": "61.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "61.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2466,
+    "mtime": 1782796588.1590855,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bab98b48948364893a0e166f5cd65fb5d0b5730b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

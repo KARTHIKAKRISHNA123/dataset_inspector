@@ -1,0 +1,94 @@
+{
+  "dataset": "12356.txt",
+  "file_name": "12356.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूर्यबहादुर पिवा ",
+    "मास्टरसाहेब, घुयेँत्रो, झटारो र जिउँदो मान्छेको फेला जस्ता कृतिमार्फत नेपाली हास्यव्यङ्ग्य निबन्धका क्षेत्रमा योगदान पुर्याउने सूर्यबहादुर पिवा सशक्त हस्ताक्षरका रूपमा परिचित छन्। उनले आफ्ना हास्यव्यङ्ग्य निबन्धमार्फत नेपाली जीवनका विविध क्षेत्रमा विद्यमान अनेकानेक कमी–कमजोरी एवं विसङ्गत पक्षलाई सम्बन्धित क्षेत्रसम्म पुर्याउने प्रचेष्टा गरेका छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1089,
+    "text_length_avg": 487.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6621,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12356.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12356.txt",
+    "relative_path": "12356.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12356.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6621,
+    "mtime": 1782796453.6308155,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "84b7a030c0d52f23c7fa0726fa1b3252267b1902",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "32799.txt",
+  "file_name": "32799.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कायरो, Coptic: ⲕⲁϩⲓⲣⲏ Kahire) इजिप्टको राजधानी तथा ठूलो शहर हो । यो शहर महानगरीय क्षेत्र तथा संसारको 15 औं ठूलो शहर हो । भने यो शहर प्राचिन इजिप्टसँग जोडिएको छ । नाईल नदिको छेउमा बनेको शहर फातिमिद वंशले स्थापना गरेका थिए । यस शहरको हालको क्षेत्र प्राचिन इजिप्टको राजधानी रहेको थिए, यस कारण पूराना भगनावशेष हालसम्म पनि यो क्षेत्रमा भेटिने गर्दछ ।",
+    "कायरोमा अरब क्षेत्रको सबैभन्दा पूरानो तथा लामो चलचित्र तथा संगित क्षेत्र रहेको छ । साथै यस शहरमा चलचित्र तथा संगित क्षेत्रमा थप अध्ययन गर्न संसारको दोश्रो ठूलो संस्था अल-अजहर विश्वविद्यालय रहेको छ । विभिन्न अन्तर्राष्ट्रिय मिडिया, व्यावसायहरू तथा संस्थाहरूको क्षेत्रिय कार्यालय रहेको छ भने अरब लिगको मुख्या कार्यालय यसको संस्थापन देखि नै रहेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 369,
+    "text_length_avg": 261.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4792,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32799.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32799.txt",
+    "relative_path": "32799.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32799.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4792,
+    "mtime": 1782796548.6580784,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c730b57f6aa6be8af0a839287d3c28c9de932b24",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

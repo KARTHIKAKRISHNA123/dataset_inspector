@@ -1,0 +1,91 @@
+{
+  "dataset": "33223.txt",
+  "file_name": "33223.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द एक्सीडेंटल प्राइम मिनिस्टर विजय रत्नार गौटे द्वारा निर्देशित एक 2019 भारतीय जीवनी चलचित्र हो र मयन्क तिवारी द्वारा लेखिएको हो जसलाई संजय बरु को नाम को 2014 मेमोइर मा आधारित छ। चलचित्र पूर्व प्रधानमन्त्री मनमोहन सिंह को जीवन कथा सङ्ग सम्बन्धित छ। यो फिल्म 11 जनवरी 2019 मा रिलीज भएको र सामान्यतया नकारात्मक समीक्षा आलोचकहरु बाट प्राप्त भएको थियो ।फिल्म विवादास्पद बनी रहेको छ किनकी बिहार को अदालत मा मामलाहरु लाई दर्ज गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 427,
+    "text_length_max": 427,
+    "text_length_avg": 427.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1108,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33223.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33223.txt",
+    "relative_path": "33223.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33223.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1108,
+    "mtime": 1782796550.5968513,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "52a7e4e39410e711dd30ad25af2071a0ecbd0528",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

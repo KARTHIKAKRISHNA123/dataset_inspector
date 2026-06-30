@@ -1,0 +1,94 @@
+{
+  "dataset": "5648.txt",
+  "file_name": "5648.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गिदीको दुवै भाग, जहाँ सब्स्टेनसिया निग्रा भन्ने ठाउँमा न्युरोन्सलाई गिदीले डोपामिन आपूर्ति गर्न नसक्दा यो रोग लाग्ने गर्दछ। सब्स्टेनसिया निग्रा भन्ने गिदीको त्यो क्षेत्र हो, जहाँबाट कोषिकाहरुले डोपामिन स्वतः उत्पादन गर्छ। तर पार्किनसन भएको मानिसको गिदीले डोपामिन बनाउन छाडेपछि यो रोग अग्रगामी दिशातिर बढछ। यो रोग 60 वर्ष पुगेका मानिसलाई लाग्ने बताइन्छ तर 30–40 वर्षमै पनि लाग्न सक्छ|",
+    "पार्किनसनका चार लक्षण हुन्छन्, जसलाई मोटर लक्षण भनिन्छ : "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 495,
+    "text_length_avg": 213.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9979,
+      "Latin": 0.0021
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4534,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9979,
+      "Latin": 0.0021
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5648.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5648.txt",
+    "relative_path": "5648.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5648.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4534,
+    "mtime": 1782796586.0427783,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "42eb59ffd6629111749958dfb61d7612b167eec5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

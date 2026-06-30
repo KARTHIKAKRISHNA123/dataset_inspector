@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27601.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्षत्रिय हिन्दू वर्ण व्यवस्था अन्तर्गत शासक एवम् राजकीय भूमिका निर्वाह गर्ने वर्णसमुह हो । क्षत्रियको अर्थ क्षत्र दिने वा रक्षण दिने हो । पौराणिक व्याख्या अनुसार क्षत्रियहरूले विभिन्न क्षेत्रहरूमा राज्यभार सम्हालेका थिए र प्रजाहरूको रक्षण गरेका थिए । क्षत्रियहरूको दुई कुल वा वंश हुन्छ- सूर्यवंश र चन्द्रवंश । भारत, पाकिस्तान, नेपाल तथा विभिन्न ऐतिहासिक हिन्दु राष्ट्रहरूमा बसोबास गर्ने शासकीय पृष्ठभूमिका व्यक्तिहरू यिनै दुई कुलभित्रका क्षत्रिय भएको दाबी गर्छन् ।",
+    "प्राचिन आर्यावर्तको सिन्धु घाँटीबाट वैदिक संस्कार उत्पत्ति भएको थियो । उक्त समयपूर्व वैदिक शासकहरूलाई राजन्य वर्णका व्यक्ति मानिनथ्यो ।ऋग्वेदको एक संहिता:"
+  ],
+  "statistics": {
+    "records_sampled": 57,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 545,
+    "text_length_avg": 60.28,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6981,
+      "Latin": 0.3019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7295,
+    "estimated_records": 121
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 121,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6981,
+      "Latin": 0.3019
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27601.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27601.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27601.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7295,
+    "mtime": 1782796641.4003892,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a015a1ec8b806fcec18e58432d8893a9cfd67546",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15404.txt",
+  "file_name": "15404.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वजीरीस्थानको युद्ध",
+    "ब्रिटीस भारतको उत्तर पश्चिमी सिमा क्षेत्र वजरीस्थानमा त्याहाका लाडाकु हरूले ब्रिटीस सासन नमान्ने घोषणा गरे, त्याहांका मुसाद भनिने पठान लडाकु सरदार हरूले पहलो विश्वयुद्धमा लडिरहेका ब्रिटीस हरू सँग लडन तयारी गरे।ब्रिटेन लेस्थिति नियन्त्रणका लागि नेपाललाई सैन्य साहयताका लागि अनुरोध गर्‍यो त्यसै अनुसार महेन्द्र दल र फर्ष्ट राइफल गणलाई 1917को मार्चमा विद्रोह समनका लागि परिचालन गरियो यो नेपाल ब्रिटेन संयुक्त सैनिक कारवाही टोली थियो नेपाली फर्ष्ट राइफलले ब्रिटीस 43 ब्रिगेड सँग तथा महेन्द्र दलले ब्रिटीस"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 717,
+    "text_length_avg": 245.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1970,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15404.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15404.txt",
+    "relative_path": "15404.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15404.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1970,
+    "mtime": 1782796467.425285,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "231535bb0214f1e8da8bd382899e768c6c826d74",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "22781.txt",
+  "file_name": "22781.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकि एक प्रकारको वेब साईट हो जसले उक्त वेबसाईटका प्रयोगकर्ताहरूलाई सामग्रीहरू थप्न, हटाउन तथा सम्पादन गर्न दिन्छ। विकिमा जति संख्यामा पनि सामग्रीहरू हाईपलिंक बाट सजिलैसँग जोड्न सकिन्छ। विकिमा बिभिन्न किसिमका सामग्रीहरू राख्न सकिन्छ जस्तै लेख, तस्वीर, श्रब्य सामग्री, भिडियो, एनिमेसन ईत्यादि। यसमा सहकार्य गरी लेख हरू प्रकाशन गर्न सजिलो हुन्छ। उदाहरणको लागि, तपाईंले पढिरहनुभएको यो विकिपिडिया पनि एक विकि हो। ",
+    "विकि शब्द एक इन्टर्नेट अपभाषा हो जुन विकिविकिवेब शब्दको छोटकरी रूप हो। विकिविकि हवाईयन भाषा बाट आएको शब्द हो र उक्त भषामा यसको अर्थ हुन्छ \"छिटो\" वा \"रफ्तार\"।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 145,
+    "text_length_max": 674,
+    "text_length_avg": 327.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9803,
+      "Latin": 0.0197
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6086,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9803,
+      "Latin": 0.0197
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22781.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22781.txt",
+    "relative_path": "22781.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22781.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6086,
+    "mtime": 1782796502.2588854,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ca1845b32c97638b59cfd8b2186f1f62828bc9a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

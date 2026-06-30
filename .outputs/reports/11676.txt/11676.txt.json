@@ -1,0 +1,94 @@
+{
+  "dataset": "11676.txt",
+  "file_name": "11676.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्टार्क्टिका महाद्विप दक्षिण ध्रुवको केन्द्रमा स्थित छ। ",
+    "अन्टार्क्टिका एउटा ठूलो महादेश हो I यो महादेश विश्वको दक्षिणमा स्थित छ। यो युरोपभन्दा पनि ठूलो छ। यहाँको मौसम अत्तिनै चिसो छ। लगभग अन्टार्क्टिकाको 98% भाग बरफले ढाकिएको छ। पानी पनि निकै चिसो र कडा छ, मतलब यहाँ चारै तिर अधिकतर सेतै-सेतो देखिन्छ। यहाँ मैक मुरडो र पाल्मेर शहरमा मात्र केही मान्छे बसो बास गर्छन अन्यथा एकदमै कम मान्छे बसो बास गर्छन। यहाँ एक विज्ञान स्टेशन छ दक्षिण ध्रुव नजीकै जहाँ विज्ञान परिक्षण भइ रहन्छ। यहाँ अत्यन्तै बढी चिसो हुनाले कर्मचारी र बैज्ञानिकहरु गर्मि महिनामा मात्र काम ग"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 623,
+    "text_length_avg": 211.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9855,
+      "Latin": 0.0145
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5048,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9855,
+      "Latin": 0.0145
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11676.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11676.txt",
+    "relative_path": "11676.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11676.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5048,
+    "mtime": 1782796450.4962394,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "583737b6de41ad2aa915e43881f441f6f475202b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

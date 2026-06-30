@@ -1,0 +1,92 @@
+{
+  "dataset": "17529.txt",
+  "file_name": "17529.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "‌‌",
+    "सवारी चालक अनुमतिपत्र कुनै सवारी साधन चलाउन अनुमति दिईएको प्रमाणपत्र हो । नेपालमा यसलाई बोलीचालीको भाषामा 'लाईसेन्स ' मात्र पनि भनिन्छ । तर वास्तवमा अनुमतिपत्र भन्नाले कुनै उद्योग, कम्पनी वा संस्था संचालन गर्न वा कुनै पेशा, व्यवसाय वा उद्यम गर्न वा कानुनद्वारा तोकिएको अन्य कार्य गर्न संबन्धित निकायबाट कानुनी प्रक्रिया सम्पन्न गरेर अनुमति लिइएको प्रमाणपत्र हो।‍‍"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 648,
+    "text_length_avg": 300.39,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14485,
+    "estimated_records": 48
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 48,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17529.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17529.txt",
+    "relative_path": "17529.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17529.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14485,
+    "mtime": 1782796477.8115387,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f938375066ad0b682862a6e1010371a9ac429af2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

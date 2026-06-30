@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3597.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झुल्का एक नेपाली भाषाको पत्रिका हो। यो पत्रिकाको सम्पादन कार्य तीर्थराज अधिकारी र अरूद्वारा भएको छ। यो पत्रिकाको प्रकाशक जिरी वहूद्देश्यीय विद्यालय जिरी उच्चविद्यालय हो। यसको प्रकाशन जिरीमा वार्षिक 2026 फागुनमा प्रकाशित भएको थियो।",
+    "झुल्का जिरि उच्च माध्यमिक बिद्यालयको बरशिक रुपमा प्रकाशन हुने पत्रिका हो । यो जिरिबात निरन्तर निस्किरहेको छ। हाल यस पत्रिकाका सम्पादक जिरी उमाबि का प्राचार्य तेक बहादुर जिरेल हुनुहुन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 187,
+    "text_length_max": 230,
+    "text_length_avg": 208.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1119,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3597.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3597.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3597.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1119,
+    "mtime": 1782796658.4019945,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f3b81664bf18e41c3455d1a501266df6dfee6ebd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

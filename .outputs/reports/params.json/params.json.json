@@ -1,0 +1,96 @@
+{
+  "dataset": "params.json",
+  "file_name": "params.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "ascii",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "NTREX-128",
+    "https://github.com/MicrosoftTranslator/NTREX"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 44,
+    "text_length_avg": 26.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1066,
+    "estimated_records": 40
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 40,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "object"
+  },
+  "meta": {
+    "file_name": "params.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\params.json",
+    "relative_path": "params.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "params.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 1066,
+    "mtime": 1782795423.683659,
+    "encoding": "ascii",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c8b450bfea5518c276d4ae5c6b94d25f42738fdc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

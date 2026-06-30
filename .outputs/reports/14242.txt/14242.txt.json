@@ -1,0 +1,92 @@
+{
+  "dataset": "14242.txt",
+  "file_name": "14242.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्प्युटर विज्ञान गणित, विज्ञान र समस्या समाधान गर्ने खुबीको प्रयोग गरेर कम्प्युटरको निर्माण र प्रयोग संबन्धी अध्ययन हो। यसले गर्दा विश्व हाम्रो सामु सानो भएको छ।कम्प्युटर विज्ञान बिसौँ शताब्दीको अन्त्य तिर मात्र छुट्टिएको हो र यसले कार्य सम्पादनमा आफ्नै तरिका अपनायो अनि आफ्नै शाब्दिक व्याख्या पनि। यसका जराहरू इलेक्ट्रिक इन्जिनियरिङ्ग, गणित र भाषा विज्ञानमा रहेका छन्।तपाईँले यसलाई विज्ञान, इन्जिनियरिङ्ग र कलाको सम्मिश्रणको रूपमा लिन सक्नुहुन्छ।",
+    "कम्प्युटर विज्ञनले साध्यात्मक गणितीय आदर्शमा रहेर कम्प्युटरका अवयवहरूको अध्ययन गर्दछ, कम्प्युटर इन्जिनियरिङ्गले वा स्तविक कम्प्युटरका पाटपुर्जाहरूको अध्ययन गर्दछ, र सफ्टवेयर इन्जिनियरिङ्गले कम्प्युटर कार्यक्रमहरू कसरी प्रभावकारी, सहज बनाउन सकिन्छ भनेर र तिनीहरूको निर्माणमा ध्यान दिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 286,
+    "text_length_max": 448,
+    "text_length_avg": 367.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1999,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14242.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14242.txt",
+    "relative_path": "14242.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14242.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1999,
+    "mtime": 1782796462.1558125,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2e39c0c77640686ee1786208bcdc69f22f806850",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

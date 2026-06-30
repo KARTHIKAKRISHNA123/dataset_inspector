@@ -1,0 +1,92 @@
+{
+  "dataset": "10082.txt",
+  "file_name": "10082.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माघ 1 गते माघ महिनाको पहिलो दिन हो । यो दिनलाई माघे संक्रान्ति पनि भनिन्छ । नेपालमा मनाइने प्रमुख संक्रान्तिहरू मध्ये यो माघे संक्रान्ति पनि एक प्रमुख हो । यस दिन नेपालमा माघ सङ्क्रान्ती पर्व मनाइने गरिन्छ । मुख्य गरि यो चाड मगर जातिको एक प्रमुख चाडका रूपमा लिइएता पनि सबै नेपाली बासीहरूले मनाउने गर्दछन् । यस दिनमा ``पुषको पाक्य माघको खाक्य´´ भनेर पुसको मसानतरको रातमा विभिन्न परिकार पकाएर माघको यस दिन खाने चलन छ । विशेष यो दिन कण्डमुलहरू खाने चलन रहेकोछ ।",
+    " •1 •2 •3 •4 •5 •6 •7 •8 •9 •10 •11 •12 •13 •14 •15 •16 •17 •18 •19 •20 •21 •22 •23 •24 •25 •26 •27 •28 •29"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 458,
+    "text_length_avg": 135.54,
+    "duplicate_estimate": 8,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3223,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10082.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10082.txt",
+    "relative_path": "10082.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10082.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3223,
+    "mtime": 1782796442.8806477,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.924,
+    "sha1_quick": "7033d712b9447f1fa3b5f52a8467bd9ec5f13ec0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

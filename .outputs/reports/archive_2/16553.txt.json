@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "16553.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुद्रा सटहीएउटा देशको मुद्रा अर्को देशको मुद्रा सँग साट्ने प्रक्रिया हो। यस्तो मुद्रा साट्ने व्यक्ति वा एजेन्ट लाई पनि मुद्रा सटही वा मनि चेन्जर भनिन्छ। विदेशी मुद्रा नचल्ने स्थानमा मुद्रा सटहि गरि कारोबार गर्न सहजता ल्याउने उदेश्यले मुद्रा सटही को व्यवस्था गरिएको हो। मुद्रा सटही वापत तोकिएको कमिशन लिने व्यवस्था गरिएको हुन्छ। यस्तो कमिशन नियमक निकाय निर्धारण गरिदिए बमोजिम हुन्छ।मुद्र सटही व्यवसाय सन्चालन गर्ने फर्म, कम्पनि वा संस्थाले नेपाल राष्ट्र बैंकले व्यवस्था गरेको इजाजतपत्रको बार्षिक शुल्क"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 630,
+    "text_length_max": 630,
+    "text_length_avg": 630.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1704,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16553.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\16553.txt",
+    "relative_path": "archive (2)\\valid\\valid\\16553.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1704,
+    "mtime": 1782796619.5647266,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "784cad2918dcb72fc5408f94f4de2fe88fe1e9d2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

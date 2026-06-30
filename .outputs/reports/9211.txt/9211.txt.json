@@ -1,0 +1,91 @@
+{
+  "dataset": "9211.txt",
+  "file_name": "9211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दीपेन्द्र वीर विक्रम शाह (नेपालका तेह्रौ राजा हुन् । उनी सम्भवतः विश्वकै सबैभन्दा छोटो समय राजा हुने व्यक्ति हुन् । दरवार हत्याकाण्ड पछि यिनी अर्धमृत अवस्थामा राजा घोषित गरिएका थिए त्यसको तेस्रो दिन यिनलाई मृत घोषित गरियो । दरवार हत्याकाण्डको जाँचबुझ गर्न बनेको आयोगको रिपोर्ट अनुसार सो हत्याकाण्डमा राजा बीरेन्द्र रानी ऐश्वर्य लगायत राजपरिवारका प्रमुख व्यक्तिहरूलाई यिनैले गोली चलाएका थिए भन्ने निष्कर्ष निकालेको थियो । दीपेन्द्र नेपालका राजा बीरेन्द्र र रानी ऐश्वर्यका जेठा छोरा थिए। यिनी अविवाहित "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 518,
+    "text_length_max": 518,
+    "text_length_avg": 518.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1395,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9211.txt",
+    "relative_path": "9211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1395,
+    "mtime": 1782796603.1416547,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d45f148613c867caac602f4a96bcab12320a0c22",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

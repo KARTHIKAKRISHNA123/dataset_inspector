@@ -1,0 +1,92 @@
+{
+  "dataset": "18810.txt",
+  "file_name": "18810.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सङ्घीयता एउटा राजनीतिक विचारधारा हो जसमा सदस्यहरूको एउटा समूहलाई शासकीय तहमा बन्धन गरिएको हुन्छ। यो शब्दलाई संवैधानिक रूपमा राष्ट्रको शक्तिलाई केन्द्रीय सरकार र प्रान्तीय सरकारमा विभाजित भएको माथि उल्लेखित विचारधारामा आधारित व्यवस्थालाई जनाउन पनि प्रयोग गरिन्छ। यो व्यवस्थामा आधारिक राष्ट्रलाई संघ भन्ने गरिन्छ। ",
+    "सरकारको शक्ति र जिम्मेवारीलाई केन्द्रीय र प्रदेश वा स्थानीयस्तरका बेग्ला - बेग्लै तहमा बाँड्ने पद्धति नै सङ्घीयता हो। यसरी सङ्घीयताको शक्ति उद्भव भएको स्थानमा शक्ति जानुलाई जनाउँदछ। राज्यसत्ता र सार्वभौमसत्ताको समेत विभाजन गरी शासकीय क्रियाकलापमा बढीभन्दा बढी जनतालाई संलग्न गराउने राजनीतिक प्रक्रिया नै सङ्घीयता हो। सङ्घीयता भनेको स्वयं शासन र विभाजित शासनको संयोजन भनेर पनि भनिन्छ। सङ्घीयतालाई बहुजातीय, बहुभाषिक तनाव समाधान गर्ने संवैधानिक र राजनीतिक औजारको रूपमा समेत व्याख्या गर्ने गरिन्छ। अर्को"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 312,
+    "text_length_max": 629,
+    "text_length_avg": 470.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2551,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18810.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18810.txt",
+    "relative_path": "18810.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18810.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2551,
+    "mtime": 1782796483.875506,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "73ec5a7050934dcaaf8bfd8f9eb5f28173ebeb24",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

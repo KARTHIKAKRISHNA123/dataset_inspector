@@ -1,0 +1,92 @@
+{
+  "dataset": "27399.txt",
+  "file_name": "27399.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सतानन्द अथवा शतानन्द वैद्धिककालका सप्तर्षिहरू मध्यका एक महर्षि गौतमका कान्छा छोरा हुन् । शतानन्दकी आमाको नाम अहिल्या थियो । महर्षि गौतमले अहिल्यासँग विवाह गर्नु पूर्व दुई पुत्र वामदेव र नोधासलाई मन्त्रद्वारा रचना गरेका थिए ।",
+    "रामायणले अहिल्या र महर्षि गौतमका सन्तान शतानन्दको बारेमा प्रसस्त उल्लेख गरेको छ । रामायणले बताएको कुरालाई भारतीय इन्साइक्लोपीडियाले यसरी उल्लेख गरेको छ :- "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 722,
+    "text_length_avg": 324.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4359,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27399.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27399.txt",
+    "relative_path": "27399.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27399.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4359,
+    "mtime": 1782796523.4737797,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "45b6f05f5867c07119b967aa451b21f423ba2ac4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

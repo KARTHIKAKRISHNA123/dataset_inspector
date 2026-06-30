@@ -1,0 +1,94 @@
+{
+  "dataset": "28198.txt",
+  "file_name": "28198.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रश्मी तामाङ नेपालकी एक चर्चित मोडल हुन् । उनि नुवाकोट, सामरीको तामाङ बस्तीमा उनको जन्म भएको थियो । उनले आफ्नो भाषाको तामाङ फिल्म बाजीमेला मा समेत अभिनय गरेकी छिन् । उनलाई नेपालको एक चर्चित लोकदोहोरी नायीकका रूपमा लिइन्छ । उनले थुप्रै लोकदोहोरी गीतको म्युजिक भिडियोमा अभिनय गरि छोटो समयमानै आफुलाई चचित बनाउन सफल भएकी छिन् । यो तिजमा ढल्केर नाचिन्छ उनको एकदम चर्चित गित हो । उनले 350 भन्दा बढी भिडियोमा अभिनय गरी सकेकी छिन् । ",
+    "http://screennepal.com/2015/01/23/3353/"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 425,
+    "text_length_avg": 232.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9504,
+      "Latin": 0.0496
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1160,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9504,
+      "Latin": 0.0496
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28198.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28198.txt",
+    "relative_path": "28198.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28198.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1160,
+    "mtime": 1782796527.0879922,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "26f5249e3690ad1b0fa2e0c0eeccae39e6dd12fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "8724.txt",
+  "file_name": "8724.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दुर्गा खोटे  कुनै जमनामा हिन्दी चलचित्र र मराठी चलचित्रकी प्रसिद्ध अभिनेत्री थिइन। उनले अनेक हिट फिल्ममा शानदार अभिनय गरेकी छिन् । आरम्भिक फिल्महरूमा नायिकाको भूमिका गरे पछि उनी चरित्र अभिनेत्रीको भूमिकामा दर्शकहरू समक्ष आएकी थिइन ।",
+    "दुर्गा खोटेको बाल्यकाल सामान्य रहयो । उनले आफ्नो इच्छाले विवाह गरे पनि उनको घरेलु जीवन दुखमय रहेको थियो । आफ्नो पतिको कारण निकै दुःख पाएकी उनलाई जून सुख मिल्नु पर्ने आफ्ना सन्तानबाट मात्र प्राप्त भएको थियो ।तर पनि नारीको धैर्यता भएकी उनले जीवन पति संगै व्यतीत गरेकी थिइन् । मराठी भाषामा लेखिएको उनको आत्मकथा \"मी दुर्गा खोटे\"मा उनले आफ्नो जीवनको ममर्स्पशी घटनाहरू विस्तार संग व्यक्त गरेकी छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 232,
+    "text_length_max": 394,
+    "text_length_avg": 313.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1670,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8724.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8724.txt",
+    "relative_path": "8724.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8724.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1670,
+    "mtime": 1782796600.714723,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "89d29ddbe9be435ff9406d8e08c98ea8bd5fcc33",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

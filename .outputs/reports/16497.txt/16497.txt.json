@@ -1,0 +1,92 @@
+{
+  "dataset": "16497.txt",
+  "file_name": "16497.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेनजिर भुट्टो पाकिस्तानको पूर्वप्रधानमन्त्री हुन् । उनी पाकिस्तानको पहिलो तथा एक मात्र महिला प्रधानमन्त्री पनि हुन्। उनी मुस्लिम धर्म मान्ने मुलुकको पहिलो महिला प्रधानमन्त्री पनि हो।",
+    "उनका पिताको नाम जुल्फिकर अली भुट्टो हो। माताको नाम नुसरत भुट्टो हो। उनी पितामाताकी पहिलो सन्तान एवं जेठी छोरीका रूपमा सन् 1953 जून 21 तारिकमा जन्मेकि हुन्। जुल्फीकर र नुसरतका दुई छोरा र दुई छोरी जन्मिएका थिए। बेनजीरले हार्वर्ड विश्वविद्यालय र अक्सफर्ड विश्वविद्यालयमा पढ्ने मौका पाइन्। बेनजीरलाई सन् 1977 देखि सन् 1984 सम्म घरमा नै नजरबन्दमा राखियो। उनि देशबाहिर पनि बसिन् रसन् 1986मा उनि देश फर्किन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 103,
+    "text_length_max": 401,
+    "text_length_avg": 220.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3459,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16497.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16497.txt",
+    "relative_path": "16497.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16497.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3459,
+    "mtime": 1782796472.5550296,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "dbd8f75e8a4cc9aaa2be627c6c71bde0720c282f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

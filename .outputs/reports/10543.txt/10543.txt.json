@@ -1,0 +1,92 @@
+{
+  "dataset": "10543.txt",
+  "file_name": "10543.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अफ्रिकन ट्रिपानोसोमियासिस वा निद्रा रोग मानिसहरू र अन्य जनावरहरूमा हुने एउटा सरुवा रोग हो। यो प्रजातिको परजीवी ट्रिपानोसोमा ब्रुसेइद्वारा हुने गर्दछ। यीनीहरू दुई प्रकारका छन् जसले मानिसहरूमा संक्रमण गर्छ, ट्रिपानोसोमा ब्रुसेइ ग्याम्बाइन्स र ट्रिपानोसोमा ब्रुसेइ र्होडेसीएन्स । देखिएका केसहरूका 98% भन्दा बढीमा टि.बि.जी. नै कारण हुन्छ। प्राय दुवै संक्रमित सेट्सी झिङ्गा को टोकाइबाट सर्ने गर्दछन् र ग्रामिण क्षेत्रमा यो बढी रहेको देखिन्छ। ",
+    "प्रारम्भिक रूपमा, रोगको पहिलो चरणमा, ज्वरो आउने, टाउको दुख्ने, चिलाउने, र जोर्नीहरू दुख्ने हुन्छ। यो टोकाइ पछि एक देखी तीन हप्तामा सुरू हुने गर्दछ। हप्तौं र महिनौ पछि दोस्रो चरण सुरू हुन्छ जसले गर्दा भ्रम, खराब समन्वय, लाटोपन र सुत्ने समस्या हुने गर्दछ। निदानहरू रगत परिक्षणमा पाइएको परजीवी वा लिम्फ नोडको र्‍याल मार्फत गरिएका हुन्। एउटा लम्बर पंचर प्राय पहिलो र दोस्रो चरण बीचको भिन्नता भन्नका लागि आवश्यक पर्ने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 419,
+    "text_length_max": 630,
+    "text_length_avg": 497.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5198,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10543.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10543.txt",
+    "relative_path": "10543.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10543.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5198,
+    "mtime": 1782796445.170601,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cc5df90a7a829a771c520430f2225798d84f8c83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

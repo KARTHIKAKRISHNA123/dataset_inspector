@@ -1,0 +1,92 @@
+{
+  "dataset": "23910.txt",
+  "file_name": "23910.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व उपभोक्ता अधिकार दिवस मार्च महिनाको 15 तारिखका दिन विश्वभर मनाइने दिवस हो। ",
+    "यो दिवस पहिलो पटक सन् 1962 मार्च 15 का दिन अमेरिकी राष्ट्रपति जोन एफ केनेडीले प्रस्तुत गरेको सुरक्षा, सूचना, छनोट र सुनुवाइलाई उपभोक्ताका चार अधिकारका रूपमा घोषणा गरिएको हो। यसैको सम्झनामा विश्वभर यो दिवस मनाइन्छ। यी चार अधिकारका आधारमा संयुक्त राष्ट्रसङ्घको साधारण सभाबाट सन् 1985 मा थप आठ अधिकारसहितको अनुवन्ध पारित भएको थियो। सोही आधारमा प्रत्येक राष्ट्रले उपभोक्ता कानुन जारी गरेका छन् ।उपभोक्ता अधिकारका अन्तरनिहीत आधारभूत चार सिद्धान्तमा प्रत्येक उपभोक्ता आफैं सचेत हुनुपर्दछ । उपभोक्तालाई सचेत"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 80,
+    "text_length_max": 1191,
+    "text_length_avg": 635.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3379,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23910.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23910.txt",
+    "relative_path": "23910.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23910.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3379,
+    "mtime": 1782796507.3406177,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "718ed3793f6b58f1e8984fd473cfad60cf204036",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

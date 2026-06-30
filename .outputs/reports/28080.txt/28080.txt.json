@@ -1,0 +1,94 @@
+{
+  "dataset": "28080.txt",
+  "file_name": "28080.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोरखा जिल्लाको सदरमुकाम पोखरी थोक बाट उत्तर तर्फ करिव 35 किलोमिटरको दुरीमा यो गाबिस पर्ने गर्दछ । उत्तरमा सिम्जुङ्ग, घ्याच्चोक र बारपाक, पूर्वमा स्वारा, दक्षिणमा ताकुकोट, दक्षिण पश्चिममा ताकुमाझ लाँकुरीबोट र उत्तर पश्चिममा मुच्चेक गा बि ससँग जोडिएको छ सौरपानी गाबिस ।",
+    "धार्मिक, पर्यटकीय र शैक्षिक थलोको रुपमा परिचित छ सौरपानी । त्यस्तै उत्तरबाट दक्षिण पश्चिम मोहडा परेको यो गाबिस आसपासका गाबिसको तुलनामा धेरै अन्य उत्पादन हुने ठाउँको रुपमा निकै अघि देखी परिचित छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 267,
+    "text_length_avg": 195.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9507,
+      "Latin": 0.0493
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2488,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9507,
+      "Latin": 0.0493
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28080.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28080.txt",
+    "relative_path": "28080.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28080.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2488,
+    "mtime": 1782796526.5125902,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5ab34c21aed3a425bd220a3dbbb6f00d8f246837",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

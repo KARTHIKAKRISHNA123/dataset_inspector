@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8588.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाठ हेर्नुहोस",
+    "काग कालो रङ्गको एक चराको नाम हो। यसलाई हिन्दी भाषा, तथा नेपालको तराई प्रदेशका भाषाहरू कौवा भनिन्छ। कागलाई संस्कृतमा काक भनिन्छ। तिहारमा पहिलो दिन कागको पूजा हुन्छ। कागलाई सबै चराहरूको बिचमा चतुर पंक्षी मानिन्छ। ज्योतिष शास्त्रका अनुसार कागलाई पूर्व सूचना दिने पंक्षीका साथै एक सन्देश वाहक पंक्षी पनि मानिएको छ। कागहरू धेरै प्रजातीका हुन्छन्। हाम्रो मुलुकमा दुई थरिका कागहरू प्राय: भेटिएका छन्, काले काग र माले काग। भनिन्छ कागको एउटा आँखा मात्र हुन्छ। यो सत्य पनि हो कागको आँखा दुईटा भए पनि एउटा आँखाल"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 771,
+    "text_length_avg": 392.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2096,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8588.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8588.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8588.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2096,
+    "mtime": 1782796672.8457198,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1ee0af43ac61d7afefaa09a92a14140b1e43f7ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

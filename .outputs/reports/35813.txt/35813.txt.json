@@ -1,0 +1,96 @@
+{
+  "dataset": "35813.txt",
+  "file_name": "35813.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एप्पल क्रीक वायने काउंटी, ओहायो, संयुक्त राज्य अमेरिकाको एक गाउँ हो । जन संख्या 999 थियो 2000 जनगणना अनुसार ।",
+    "एप्पल क्रिकको अवस्थिति 40°45′2″ उत्तर 81°50′13″ पश्चिम / 40.75056° उत्तर 81.83694° पश्चिम / 40.75056; -81.83694Invalid arguments have been passed to the {{#coordinates:}} function रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 416,
+    "text_length_avg": 177.42,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7315,
+      "Latin": 0.2685
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4275,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7315,
+      "Latin": 0.2685
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35813.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35813.txt",
+    "relative_path": "35813.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35813.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4275,
+    "mtime": 1782796562.349712,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "d004b416b6d60376fa5f5ab2cc620045aba29c54",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

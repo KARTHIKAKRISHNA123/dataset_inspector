@@ -1,0 +1,92 @@
+{
+  "dataset": "4737.txt",
+  "file_name": "4737.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुरभि ज्योति एक भारतीय अभिनेत्री र टिभी एंकर हुन्। सुरभि ज्योति पञ्जाबी फिल्म र पञ्जाबी धारावाहिकमा एक लोकप्रिय अनुहार हो। वह जी टिभीको धारावाहिक \"क़ुबूल हेहै\"मा जोया फारूकीको रूपम मुख्य भूमिका निभाउने को कारण आगाडि आएकी थिइन्। वर्तमानमा उनी त्येही शोमा सनमको भूमिकामा काम गरि रहेकी छिन्।",
+    "सुरभि ज्योतिको जालंधरको एक पञ्जाबी-ब्राह्मण परिवारमा 29 मई 1988मा जन्म भएको थियो। उनीले पनि एक आर जेको भूमिका गरि सकेकी छिन्। उनी एक प्रतिभाशाली थिएटर कलाकार र बहसमा तीन बार राष्ट्रीय पुरस्कार बिजेता हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 205,
+    "text_length_max": 288,
+    "text_length_avg": 246.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1305,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4737.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4737.txt",
+    "relative_path": "4737.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4737.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1305,
+    "mtime": 1782796581.0899813,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "b053db5481231505576a480fea066512c1895d21",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

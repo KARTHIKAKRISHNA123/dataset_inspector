@@ -1,0 +1,91 @@
+{
+  "dataset": "27011.txt",
+  "file_name": "27011.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुष पन्ध्र पुष महिनाको 15 गतेका दिन मनाइने चाड हो । पश्चिम नेपालका विभिन्न ठाउँहरूमा यो चाड मनाउने गरिन्छ । पुष पन्ध्र गतेको राती न सुतेर गाउँ खाने कथा र दन्ते कथा सुनेर अथवा सुनाएर रात बिताउने परम्परा छ । यो चाड आफ्नो आफ्नो घरमा नै मनाइन्छ । विशेष गरेर पुष पन्ध्रमा चामलको पिठोको मोटो रोटी बनाएर आगोको भुबरामा पकाएर खाने चलन छ । त्यसैले पश्चिम नेपालमा कसैले मोटो रोटी बनाएमा पुष \"पन्ध्रको जस्तो रोटी बनायो\" भन्ने वख्यान पनि सुन्न पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 439,
+    "text_length_max": 439,
+    "text_length_avg": 439.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1149,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27011.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27011.txt",
+    "relative_path": "27011.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27011.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1149,
+    "mtime": 1782796521.7165225,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5686e7ec2db17555371ad0ff3ffe8a71aa09cccd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

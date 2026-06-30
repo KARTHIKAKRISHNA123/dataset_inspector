@@ -1,0 +1,94 @@
+{
+  "dataset": "22133.txt",
+  "file_name": "22133.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The गोलन हाइट्स  Golan Heights ), वा सामान्य गोलन, करिब 1,800 वर्ग किलोमिटर मा फैलिएको लेभान्टको क्षेत्र हो गोला हाइट्सको परिभाषित दुई विषयले बीच फरक छ: भूवैज्ञानिक र जीवविज्ञान क्षेत्र, गोलान हाइट्स एक बेसाल्टिक उच्चस्थली हो दक्षिणमा यारमोउक नदी द्वारा सीमा, पश्चिमी गलील सागर र हला घाटी सागर, उत्तर लेबनान मा पूर्व मा लेबनान र पूर्व मा वादि राकाद संग सीमा छ ;र एक भौगोलिक क्षेत्रको रूपमा, गोलन हेट्स छ दिने युद्धको बेलामा सीरियाबाट इजरायलले कब्जा गरेको क्षेत्र हो। सन्1981 मा इजरायललाई प्रभावकारी ब",
+    "}}"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 615,
+    "text_length_avg": 308.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9696,
+      "Latin": 0.0304
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1581,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9696,
+      "Latin": 0.0304
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22133.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22133.txt",
+    "relative_path": "22133.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22133.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1581,
+    "mtime": 1782796499.4419024,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "c0b87c11522b848ec3d8b52460b21b2d041f4771",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

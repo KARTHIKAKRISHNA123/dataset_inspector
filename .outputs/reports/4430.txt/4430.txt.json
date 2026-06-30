@@ -1,0 +1,91 @@
+{
+  "dataset": "4430.txt",
+  "file_name": "4430.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एक्काइसौँ शताब्दीकी सुम्निमानेपाली बाम्पन्थी राजनीतिमा र समग्र राजनीतिक क्षेत्रका साथै सामाजिक सक्रियतामा पनि उत्तिकै नाम र प्रख्याति कमाएका लेखक प्रदीप नेपालको आधुनिक नारीवादी चिन्तनले प्रेरित प्रगतिवादी उपन्यास हो।नेपालका शिक्षामन्त्री समेत भइसकेका नेपालको पछिल्लो जीवन सक्रिय राजनीतिबाट अखबारी र साहित्यिक लेखनमा बढी केन्द्रित रहेको देखिन्छ।'मेरो सङ्घर्ष','मेरो बाल्यकाल','मेरो परिवार' लगायतका शीर्षकहरूमा विभक्त उपन्यास एकलपात्रीय प्रथमपुरुष दृष्टिबिन्दुमा अन्तर्वार्तात्मक शैलीमा लेखिएको उपन्यास"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 603,
+    "text_length_max": 603,
+    "text_length_avg": 603.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1652,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4430.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4430.txt",
+    "relative_path": "4430.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4430.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1652,
+    "mtime": 1782796579.678116,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d2b4dca3c1f9d41f8a139799da3b1dc92ebeee48",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15740.txt",
+  "file_name": "15740.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तिमाल क्षेत्र काभ्रेपलाञ्चोक जिल्लाको झिगु खोला, सुनकोसी र रोसी खोलाको मध्यपहाडी एवं बेंसी भागमा पर्छ जसलाई तामाङहरूले आफ्नो उद्गम थलोका रूपमा स्विकार्दै आएका छन्।",
+    "प्राचीन नाम 'तेरमाला' बाट अपभ्रंस भएर 'तेमाल' हुँदै तिमाल भएको दन्त्य कथाहरूमा उल्लेख छ। बेसीदेखि लेकसम्मको भूभागलाई समेटिएको दस गाविस –मेच्छे, चापाखोरी, नारायणस्थान, ठूलो भर्सेल, बोल्देफेदिचे, सरमथली, संर्स्युखर्क, कानपुर, मेथिनकोट, कटुन्जे गाविस तिमाल क्षेत्रमा पर्दछ। झण्डै नेपालको नक्सासँग मेल खाने तिमाल क्षेत्रको हावापानी समेत फरक-फरक रहेको छ। समथल फाँट हुँदै 21 सय मिटर उचाईसम्म रहेको तिमालमा उच्च पहाडी भेगको पहाड, पर्वत, हिमश्रृङ्खला, हरियाली जंगल, सुनकोशी नदी, रोशी खोला, वनबुट्यान र स-साना"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 163,
+    "text_length_max": 644,
+    "text_length_avg": 453.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3626,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15740.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15740.txt",
+    "relative_path": "15740.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15740.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3626,
+    "mtime": 1782796469.004184,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a132a0393d9602d01daaaff100a195ed0b03feb3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

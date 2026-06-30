@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31729.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थोमस जेफरी ह्याङ्क्स एक अमेरिकी अभिनेता हुन् जो लोकप्रिय एवं उत्कृष्ठ समालोचित चलचित्रहरूमा उल्लेख्य भूमिका खेलेर सुप्रसिद्द छन्। उनले आफ्नो अभिनय क्षमताका लागि प्रसिद्दि पाएका छन, र उनी फरेस्ट गम्पको निमुखो देखि, फिलाडेल्फियाको प्रेरणादायी नेत्रित्व र, अपोलो 13को डटि रहने कमाण्डर सम्मका धेरै प्रकारका भूमिका निभाउन सक्षम छन्। ह्याङ्क्स सामान्यतया प्रेरणादायी असल ब्यक्तिको भूमिका न्यानोपनका साथ निभाउन सक्षम छन्, तर रोड टु पर्डिशनमा ज्यानमाराको भूमिका खेल्न पनि उत्तिकै सक्षम छन्।",
+    "ह्याङ्क्सले सुरु सुरुमा धेरैजसो हास्यहरूमा अभिनय गरेता पनि, पछि हास्यबाट टाढिदै बढि गम्भिर नाट्य बनाउन सुरुगरे। तैपनि, हालसालका बर्षहरूमा उनी आफ्नो पुरानै हास्यव्यङ्गको जरो तिर फर्कँदै, धेरै हास्यहरूमा खेल्न पुगेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 482,
+    "text_length_avg": 258.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9925,
+      "Latin": 0.0075
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5526,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9925,
+      "Latin": 0.0075
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31729.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31729.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31729.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5526,
+    "mtime": 1782796649.5031672,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "722dd5890b44d29d7496b1c228e31887fc2042b2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

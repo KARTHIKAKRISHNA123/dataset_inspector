@@ -1,0 +1,92 @@
+{
+  "dataset": "35775.txt",
+  "file_name": "35775.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राधाकृष्ण मैनाली नेपालका बाम राजनीतिज्ञ हुन्। मैनाली 2025 मा विद्यार्थी राजनीतिमा उत्रेका हुन्। उनी 2028 सालको झापा बिद्रोहबाट नेपालको राजनीतिक बृत्तमा चिनिएका हुन्। ताप्लेजुङमा जन्मेका मैनालीले 16 बर्ष जेल जीवन विताएका छन्। नेकपा मालेका संस्थापक रहेका मैनालीले 2046 को जन आन्दोलनमा बाम मोर्चाको नेतृत्व भूमिकामा रही काम गरेका थिए। 2051 सालमा यिनी कृषि तथा भूमिसुधार मन्त्री बने। ",
+    "नेकपा एमालेको पोलिटब्युरो सदस्य भएका उनी पार्टी फुटेर नेकपा माले सत्तामा जाँदा 2054 सालमा स्वास्थ्य मन्त्री बनेका थिए। पार्टी एकीकरण पछि उनी निस्कृय बने। 2061 को शाही कू पश्चात् राजाको शासन कालमा फेरी यिनी शिक्षामन्त्री बने। गणतन्त्रको स्थापना पश्चात् केही समय नेकपा माओवादी प्रवेश गरेका उनी पुनः नेकपा एमालेमा फर्केका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 380,
+    "text_length_avg": 213.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3362,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35775.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35775.txt",
+    "relative_path": "35775.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35775.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3362,
+    "mtime": 1782796562.1757257,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f000ddc73c89a67d5cc47cc4d60677bdc3b2c6b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

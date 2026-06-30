@@ -1,0 +1,94 @@
+{
+  "dataset": "5214.txt",
+  "file_name": "5214.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संकेत भाषा एक यस्तो भाषा हो, जो अर्थ सूचित गर्नका लागि श्रवणीय ध्वनि पैटर्नमा संप्रेषित गर्नका बद्ला, दृश्य रूपमा सांकेतिक पैटर्न संचारित गर्दछ-जसमा वक्ताका विचारलाई धाराप्रवाह रूपले व्यक्त गर्नका लागि, हातको आकार, विन्यास र संचालन, बांहहरू वा शरीर तथा चेहरियाका हाव-भावहरूको एक साथ उपयोग गरिन्छ। ",
+    "जहाँ पनि बहिरो मानिसहरूको समुदाय उपस्थित हो, वहाँ संकेत भाषाको विकास हुन्छ। तिनको पेचीदा स्थानिक व्याकरण, उच्चरित भाषाहरूका व्याकरणदेखि स्पष्ट रूपले अलग छ। संसार भरमा सैक्ने संकेत भाषाहरू प्रचलनमा छन् र स्थानीय बहिरो समूहहरू द्वारा यिनको उपयोग गरेरिंदैछ। केही संकेत भाषाहरूले एक प्रकारको कानुनी मान्यता हासिलको हो, जबकि अन्यको कुनै महत्व छैन।"
+  ],
+  "statistics": {
+    "records_sampled": 50,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 934,
+    "text_length_avg": 190.54,
+    "duplicate_estimate": 21,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9882,
+      "Latin": 0.0118
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 25203,
+    "estimated_records": 132
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 132,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9844,
+      "Latin": 0.0156
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5214.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5214.txt",
+    "relative_path": "5214.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5214.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 25203,
+    "mtime": 1782796583.8163865,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "227986a994689e1408b8d031e32bc8e4c1c3e10f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

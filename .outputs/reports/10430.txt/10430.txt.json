@@ -1,0 +1,92 @@
+{
+  "dataset": "10430.txt",
+  "file_name": "10430.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जुनि डट भिएन सिकाइ वा शिक्षणमा अाधारित एक वेबसाइट हो जुन भियतनाम इन्टरनेट प्रयोगकर्ता समुदाय फाउन्डेसन र भिएनजी निगम द्वारा स्थापित गरिएको थियो । जुनिले अाफ्नो अाधिकारिक सेवा 13 मार्च 2014 मा सुरु गरेको थियो । त्यस समयमा, वेबसाइटमा लगभग 60,000 प्रयोगकर्ताहरू, 300 भिडियो पाठहरू र गणित, भौतिकी, रसायन शास्त्र, अंग्रेजी, साक्षरता, जीवनी, इतिहास, भूगोल सहित भियतनामी विश्वविद्यालय प्रवेश परीक्षाको लागि प्रयोग गरिने आठ मुख्य विषयहरूको लागि 1700 नमूना परीक्षणहरू रहेको थियोे ।",
+    "जुनि परियोजना भियतनाम इन्टरनेट कोष र भिएनजी निगम द्वारा 2012 को अन्त मा शुरू गरिएको थियोे । लि होङ मिन्ह, जो भिएनजी निगमका संस्थापक, कार्यकारी अधिकृत र निर्देशक हुन् र यसका पनि संस्थापक हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 472,
+    "text_length_avg": 175.23,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6017,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10430.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10430.txt",
+    "relative_path": "10430.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10430.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6017,
+    "mtime": 1782796444.5637178,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8b62a43419d4de3563f39c9becd392f8d4b26a60",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

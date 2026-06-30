@@ -1,0 +1,91 @@
+{
+  "dataset": "12185.txt",
+  "file_name": "12185.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विशेष गरेर लिम्बू जातिका मानिसहरुले नाच्ने परम्परागत नाच हो ढोल नाच । यस नाचमा एउटा ठुलो बाजा हुन्छ, जसलाई नै ढोल वा च्याब्रुङ भनिन्छ । ढोल नाचलाई च्याब्रुङ नाचले पनि चिनिन्छ । यो नाच आईमाई र लोग्नेमानिस दुबैले मिलेर नाच्न पाउँछ्न् । यसका विभिन्न चालहरु हुन्छ्न् । यसमा क्रमशः एक अर्काले खुट्टा चाल्दै नाच्दछ्न् । यो नाच गोलो आकार बनाई नाच्ने चलन छ । यसका 36 वटा रागहरु हुन्छन् अर्थात् 36 किसिमले नाचिन्छ । तर अचेलका युवायुवतीले यि सबै प्रकारका नृत्य गर्न जान्दैनन् । यो नाच सँगै पालम पनि गाउने चलन छ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 502,
+    "text_length_max": 502,
+    "text_length_avg": 502.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1313,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12185.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12185.txt",
+    "relative_path": "12185.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12185.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1313,
+    "mtime": 1782796452.8258677,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5c686ed2ef3b0d37a53b85bc65495c8d8157d0c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

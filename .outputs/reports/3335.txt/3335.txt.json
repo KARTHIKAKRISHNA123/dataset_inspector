@@ -1,0 +1,94 @@
+{
+  "dataset": "3335.txt",
+  "file_name": "3335.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खुला एवं स्वतन्त्र सफ्टवेयर आफ्नो प्रयोगकर्तालाई कुनै पनि प्रायोजनकालागि उक्त सफ्टवेयर प्रयोग गर्न, सफ्टवेयरको श्रोत अध्ययन गर्न, आफ्नो कार्य वा आवश्यकता अनुसार उक्त सफ्टवेयरलाई परिवर्तन गर्ने तथा उक्त सफ्टवेयरको परिवर्तित वा अपरिवर्तित रूपलाई वितरण गर्ने स्वतन्त्रता र अधिकार प्रदान गर्ने सफ्टवेयर हुन् । अङ्ग्रेजी शब्द \"Free\" सँग यस सफ्टवेयरको नाम शाब्दिक रूपमा बाझ्न गएको हुदाँ, अन्योलको स्थिति हटाउन विभिन्न संस्था र मानिसले यस नामको सट्टामा अरु नाम प्रस्तावना गरेका छन्।",
+    "\"खुल्ला श्रोत सफ्टवेयर\", \"Software Libre\", \"FLOSS \", \"स्वतन्त्र तथा खुल्ला श्रोत सफ्टवेयर\" आदि केही प्रचलित पर्यायहरू हुन। यी मध्ये सबै भन्दा प्रचलित नाम \"खुल्ला श्रोत सफ्टवेयर\" हो।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 793,
+    "text_length_avg": 339.23,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9418,
+      "Latin": 0.0582
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19151,
+    "estimated_records": 56
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 56,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9443,
+      "Latin": 0.0557
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3335.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3335.txt",
+    "relative_path": "3335.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3335.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19151,
+    "mtime": 1782796551.1909537,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1eada09e7b4ed424ae18655fe60aad1fff127cef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "32711.txt",
+  "file_name": "32711.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महिला वा स्त्री वा नारी मानवको स्त्रीलिंग जाती हो जस्को व्यवहार पनि स्त्रीकै हुन्छ । यो शब्द सम्पूर्ण स्त्री वर्गलाई दर्शाउनको लागि प्रयोग गरिन्छ, जस्तै: नारी-अधिकार ।",
+    "ऐतिहासिक तरिकामा हिन्दु नारीको भूमिकामा धेरै फरक आएको छ। परम्परागत तरिकामा मध्यम वर्गीयमा नारीको भूमिका घरेलू कामहरू सँग जोडिएको हुन्थ्यो जस्तै कि बच्चाहरू लाई हेर्नु र धेरैजसो महिलाहरू पैसा कमाउन जाँदैनन् । गरीब नारीमा, खासगरि मेहनती वर्गमा पैसाको कमीको कारणले नारीको काम गर्न पर्थ्यो हुनत महिलाहरू लाई दिइने काममा संधै पुरूषहरूलाई दिइने कामहरू भन्दा प्रतिष्ठा र पैसा दुवैमा साना हुन्थे । बिस्तारै बिस्तारै, घरमा नारीले काम नगर्नु धन र प्रतिष्ठाको प्रतिक मानिन थाल्यो जबकि नारीले काम गर्नुको मतलब त्"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 533,
+    "text_length_avg": 172.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2322,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32711.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32711.txt",
+    "relative_path": "32711.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32711.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2322,
+    "mtime": 1782796548.233286,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "66417fda4a4e00a2cbee63dfce8179b660e46fec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "12805.txt",
+  "file_name": "12805.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Ursus eogroenlandicusUrsus groenlandicusUrsus jenaensisUrsus labradorensisUrsus marinusUrsus polarisUrsus spitzbergensisUrsus ungavensisThalarctos maritimus",
+    "ध्रुविय भालु उत्तरी ध्रुवको क्षेत्रमा; विशेषत आर्कटिक सागरको वरिपरिको क्षेत्रमा पाइने मांसहारी जनावर हो । यो भालुको ठुला आकार भएका प्रजातिहरू मध्ये एक हो । यसको भालेको तौल 350–700 किलोग्राम हुन्छ भने पोथीको तौल भालेको आधा जति मात्र हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 156,
+    "text_length_max": 239,
+    "text_length_avg": 197.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5664,
+      "Latin": 0.4336
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 784,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5664,
+      "Latin": 0.4336
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12805.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12805.txt",
+    "relative_path": "12805.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12805.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 784,
+    "mtime": 1782796455.7760646,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "2440cf41349f696e63bf4836690e92062ca82dcd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

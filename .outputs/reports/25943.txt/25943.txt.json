@@ -1,0 +1,92 @@
+{
+  "dataset": "25943.txt",
+  "file_name": "25943.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अनिल गुरुङ नेपाली फुटबल खेलाडी हुन् । हाल उनी बेलायतको वोकिङ क्लबको ट्रायल खेल्न गएपछि चर्चामा छन् । हाल उनी मनाङ- मर्स्याङ्दी क्लबबाट खेल्छन् । उनलाई एक समय भारतिय क्लब सिलोङ लाजोङले रु. 63 लाखमा 3 वर्षका लागि अनुबन्ध गरेको थियो ।",
+    "अनिल गुरुङको जन्म दिलबहादुर गुरुङ र लक्ष्मी कुमारी गुरुङका सुपुत्रका रूपमा मालेपाटन, पोखरामा भएको हो। उनले बाराहीमा बि पढेका हुन्। उनले 13 वर्षको कलिलो उमेरमै फुटबल खेल्न थालेका हुन्। उनले पहिला सहारा क्लब, पोखराबाट खेल्न थाले। अरुको जस्तै उनको बा आमाले पनि खेलेर पैसा नकमाइने भन्दै उनलाई खेल्नबाट टाढा राख्न खोजे र सेनामा भर्ती भएको हेर्न चाहन्थे। परिवारको इच्छा विपरीत उनी खेलिरहे।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 231,
+    "text_length_max": 629,
+    "text_length_avg": 329.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5201,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25943.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25943.txt",
+    "relative_path": "25943.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25943.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5201,
+    "mtime": 1782796516.7355525,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5661d81fd89aeffd889c56895e2ff1c27e4cdb36",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

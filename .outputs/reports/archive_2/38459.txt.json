@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38459.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वणिकवाद सत्रौं शताब्दीमा युरोप, विशेष गरी फ्रान्समा सुरु भएको आर्थिक विचार हो । जसको प्रभाव अर्थव्यवस्था निकै लामो समयसम्म रहेको थियो । ",
+    "यस सम्प्रदायलाई कोलबर्टले प्रतिपादन गरेकोले यसको नाम कोलबर्टवाद, व्यापार वाणिज्यलाई मुख्य महत्त्व दिएको र कृषिलाई महत्त्व नदिइएकोले वाणिज्यवाद, महाजनवाद, विदेशी वस्तुलाई प्रतिबन्ध लगाइएकोले प्रतिबन्धवाद, बहुमूल्य धातु संकलन गर्ने राजकीय उद्देश्य बनाइएकोले धातुवाद, राजकीय कोष सम्पन्न गराउने क्रियाकलापलाई जोड दिइएकोले केमरावाद पनि भनिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 136,
+    "text_length_max": 695,
+    "text_length_avg": 401.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4125,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38459.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38459.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38459.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4125,
+    "mtime": 1782796663.092832,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1140aa6d4629aa0d572ef19c298e79a8d98789b2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

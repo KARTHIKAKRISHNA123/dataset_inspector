@@ -1,0 +1,94 @@
+{
+  "dataset": "7528.txt",
+  "file_name": "7528.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृथ्वीलाई जल मण्डल, भू मण्डल र वायु मण्डल गरी 3 भागहरूमा विभाजन गरिएको छ । पृथ्वीको वरिपरि रहेको हावाको बाक्लो तहलाई वायुमण्डल भनिन्छ । यो नाइट्रोजन, अक्सिजन, कार्बन डाइअक्साइड, जलवाष्प तथा धुलाका कणहरूको समिश्रण हो । वायु मण्डल पृथ्वीको गुरुत्वाकर्षण शक्तिको कारण अस्तित्वमा रहेको छ ।वायु मण्डलको तापक्रम तथा आद्रतामा परिवर्तन हुँदा यसले जीवहरूको जीवन पद्धतिमा प्रतिकूल असर पार्छ । पृथ्वीको सतहबाट माथितिर उचाइ बढ्दै जादा वायु मण्डलीय तहको घनत्व पनि घट्दै जान्छ । वायुमण्डलमा विभिन्न ग्यासहरूको उपस्",
+    "वायु मण्डलको सबैभन्दा तल्लो तह निम्न मण्डल हो । यो तह पृथ्वीको सतहबाट लगभग 16 किमी उचाइसम्म फैलिएर रहेको छ । ध्रुवीय क्षेत्रमा यसको चौडाइ 8 देखि 10 किमी र भूमध्य रेखीय क्षेत्रमा 16 किमी सम्म रहेको छ । यस तहमा नाइट्रोजन, अक्सिजन, कार्बन डाइअक्साइड, जलवाष्प तथा धुलाका कणहरू रहेका हुन्छन् । पृथ्वीको वायु मण्डलको लगभग 95 % अवयवहरू निम्न मण्डलमा रहेको अनुमान छ । निम्न मण्डलको सबैभन्दा माथिल्लो तहलाई ट्रोपोपज भनिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 289,
+    "text_length_max": 727,
+    "text_length_avg": 505.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9327,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7528.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7528.txt",
+    "relative_path": "7528.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7528.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9327,
+    "mtime": 1782796594.8872924,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "4b633e35a94a79c6e9c6c7db1a7d6daae367c9e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

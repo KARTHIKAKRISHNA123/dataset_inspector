@@ -1,0 +1,92 @@
+{
+  "dataset": "31120.txt",
+  "file_name": "31120.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सभासद् दुरा माओवादी तमुवान राज्य समिति सदस्य तथा तनहु सहइन्चार्ज हुनुहुन्छ। 046 देखि राजनीतिमा लाग्नुभएकी आस्था संविधानसभामा 13 हजार दुरा जातिको एक मात्र प्रतिनिधि हुनुहुन्छ। अन्तरिम व्यवस्थापिकामा समेत विधायक रहीसक्नुभएकी दुरा कलाशास्त्रमा प्रमाणपत्र तहसम्मको औपचारिक शिक्षा लिनुभएको छ। उहाँका श्रीमान् पूर्ण पौडेल लामो समयदेखि राज्यद्वारा बेपत्ता पारिनुभएको छ।",
+    "उहाँ अनेमसंघ क्रान्तिकारी कास्की अध्यक्ष पनि बन्नुभयो। उहाँ बाग्लुङ जनसरकार उपप्रमुख समेत हुनुभयो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 362,
+    "text_length_avg": 241.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2618,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31120.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31120.txt",
+    "relative_path": "31120.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31120.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2618,
+    "mtime": 1782796540.939475,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "a54232bd8b35f494f0d3c7ab6e757e34d2a3e4c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

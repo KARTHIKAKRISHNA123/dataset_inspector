@@ -1,0 +1,92 @@
+{
+  "dataset": "256.txt",
+  "file_name": "256.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रुबाईको सामान्य चिनारी",
+    "जसरी गजल अरबी साहित्यको उब्जनि हो अरबबाटनै यसको मुख्य विकास भयो। त्यसै गरि रुबाई पनि अरब मुलुककै फरसी भाषामा हो भन्ने इतिहास बिस्व साहित्यमा निहित छ। गजललाई नेपालमा भित्र्याउने श्रेय मोतिराम भट्टलाई जान्छ तर रुबाईको दरिलो प्रमाण भेटिएको छैन तर यसको रचना गरि पुस्तकको रूपमा प्रकासन गर्ने श्रेय भने साहित्यकार प्रकास आङ्गदाग्बेलाई जान्छ। उनको ग्याँसको च्याम्बरमा बुद्ध रुवाई संग्रह प्रकासनमा ल्याएको पाईन्छ।रुबाई नेपालमा धेरै लामो समयबाट लेखिदै आए पनि यसलाई असर भने मुक्तक र टुक्राले गर्‍यो  यसको अर्थ "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 3075,
+    "text_length_avg": 1548.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8320,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "256.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\256.txt",
+    "relative_path": "256.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "256.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8320,
+    "mtime": 1782796515.0939915,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "291a6370fb7c341f48e307cdd0cecdf4f9497810",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

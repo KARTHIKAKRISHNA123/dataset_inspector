@@ -1,0 +1,112 @@
+{
+  "dataset": "train2.csv",
+  "file_name": "train2.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "headings",
+    "paras",
+    "label"
+  ],
+  "preview": [
+    "नेपाली कथानक फिल्म ‘लभ स्टेसन’ को टिम यति बेला भियतनाम र इन्डोनेसियामा छ । फिल्मको गीत छायांकनका लागि अभिनेता प्रदीप खड्का, अभिनेत्री जसिता गुरुङ, निर्माता गोविन्द शाही, कोरियोग्राफर शिशिर खाती, क्यामेरा पर्सन आलोक शुक्लासहितको टिम यी देश पुगेका हुन् ।",
+    "दसैंको मुखमा अस्वाभाविक बढेको तरकारी तथा फलफूलको भाउ घट्न थालेको छ । उत्पादन वृद्धिसँगै सहज आपूर्तिका कारण मूल्य घटेको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5975,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 472,
+    "text_length_avg": 196.61,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0,
+      "Latin": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3731842,
+    "estimated_records": 19027
+  },
+  "schema": {
+    "columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "estimated_records": 19027,
+    "raw_schema": {
+      "headings": "str",
+      "paras": "str",
+      "label": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "headings",
+      "paras",
+      "label"
+    ],
+    "n_columns": 3
+  },
+  "meta": {
+    "file_name": "train2.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train2.csv",
+    "relative_path": "train2.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train2.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 3731842,
+    "mtime": 1782796475.204482,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "419a3bac87759d3969d1906a0d060d7146f67eec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

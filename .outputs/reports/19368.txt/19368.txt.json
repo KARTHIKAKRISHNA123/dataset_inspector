@@ -1,0 +1,92 @@
+{
+  "dataset": "19368.txt",
+  "file_name": "19368.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निजामती सेवा प्रतिस्पर्धाबाट छानिएर आएका गैह्र राजनीतिक कर्मचारीहरूको सेवा सङ्गठन वा पद हो । यो सरकारको अभिन्न गैह्र सैनिक चरित्रको स्थायी तथा अविछिन्न संस्था हो । योग्यतामा आधारित सेवा सरकारको मुख्य अङ्ग सेवाको सुरक्षा स्थायीत्व र वृत्तिविकासका अवसरहरू भएको नियम र कानुनमा आधारित भएर काम गर्ने अनुशासन र आचरणका आधारमा संचालन हुने सरकारको सेवा हो ।",
+    "सामान्यतया मुलुकको सार्वजनिक प्रशासन सँचालन गर्ने स्थायी सँयन्त्रका रुपमा स्थापित राष्ट्रसेवकहरुको समष्टिगत सँरचनालाई निजामति सेवा भनिन्छ । यसलाई स्थायी सरकार पनि भनिन्छ । निजामति सेवा राज्य संचालनको एक आधारभुत तथा अभिन्न अँग हो । "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 348,
+    "text_length_avg": 86.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1865,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19368.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19368.txt",
+    "relative_path": "19368.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19368.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1865,
+    "mtime": 1782796486.6440113,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "ce9f6f1d0ae4be009cababcd6fcce583c3db1803",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

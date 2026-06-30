@@ -1,0 +1,92 @@
+{
+  "dataset": "2966.txt",
+  "file_name": "2966.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय राज्य उत्तर प्रदेशको सिमाना नेपाल लगायत भारतीय राज्य बिहार, झारखंड, छत्तीसगढ, मध्य प्रदेश, राजस्थान, हरियाणा, उत्तराखंड र राष्ट्रिय राजधानी क्षेत्र दिल्लीसँग जोडिएको छ। राज्यको उत्तरमा हिमालय र दक्षिणमा दक्कनको पठार रहेको छ। उनीहरूको बीचमा गंगा, यमुना, घाघरा पूर्व तर्फ बगेको छ। उत्तर प्रदेशलाई तीन अलग क्षेत्रहरू, दक्षिणी पहाड र गङ्गाको मैदानमा बाडन सकिन्छ।",
+    "1947मा जब भारतले स्वतन्त्रता प्राप्त गर्‍यो, संयुक्त प्रान्तको नाम फेरेर उत्तर प्रदेश राखियो। पूर्व राजसी राज्य टिहरी गढवाललाई 1 अगस्ट 1949मा उत्तर प्रदेशमा गाभियो। र रामपुरलाई 1 डिसेम्बर1949मा उत्तर प्रदेशमा एउटा जिल्ला बनाएर गाभियो। । 1956को राज्य पुनर्गठन ऐनले उत्तर प्रदेश प्रान्तको स्थितिमा कुनै विशेष प्रभाव पारेन। "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 365,
+    "text_length_avg": 238.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4393,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2966.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2966.txt",
+    "relative_path": "2966.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2966.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4393,
+    "mtime": 1782796534.3048635,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8650bd3f4b88bae2df68d1a4962d149079dd5e93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

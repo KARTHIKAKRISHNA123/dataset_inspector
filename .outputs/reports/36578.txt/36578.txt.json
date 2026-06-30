@@ -1,0 +1,92 @@
+{
+  "dataset": "36578.txt",
+  "file_name": "36578.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुरदीप कोहली एक भारतीय टेलिभिजन अभिनेत्री हुन् जो स्टार प्लसको धारावाहिक \"संजीवनी\"मा डा जूही र जी टीवीको धारावाहिक \"सिंदूर तेरे नाम का\"मा वेदिकाको रूपमा सबैतिर जनिने गर्छिन्। हालमा नै उनी सोनी टिभीको धारावाहिक दिल की बातें दिल ही जानेमा कार्य गर्ने छिन्। ",
+    "गुरदीप कोहलीको जन्म एक सिख परिवारमा भएको थियो । केही वर्ष टेलिभिजनमा काम गरे पछि उनीले धारावाहिक संजीवनीको आफ्नु सहकर्मी अर्जुन पुंजको साथमा 10 डिसेम्बर 2006मा विवाह गरेकी थिइन्। गुरदीपले 24 मार्च 2010मा आफ्नु पुत्री मेहरलाई जन्म दिइन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 236,
+    "text_length_max": 255,
+    "text_length_avg": 245.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1285,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36578.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36578.txt",
+    "relative_path": "36578.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36578.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1285,
+    "mtime": 1782796566.0341733,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "4e28ae87bea2fd618000e4f81faae3004e7e53ef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

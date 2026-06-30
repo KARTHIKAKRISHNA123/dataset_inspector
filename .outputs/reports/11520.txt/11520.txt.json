@@ -1,0 +1,92 @@
+{
+  "dataset": "11520.txt",
+  "file_name": "11520.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एयर कण्डिसनिङ कुनै बन्द कोठा वा कक्षबाट त्यहाँ बस्ने मानिसको सहजताको निम्ति ताप/तापक्रम र आद्रता हटाउने प्रक्रिया हो । वातानुकूलनको प्रयोग घरायसी तथा व्यवसायिक दुवै अवस्थामा गर्ने गरिन्छ । यो प्रक्रिया कुनै बन्द कोठामा अझ सहज बाताबरण हासिल गर्न उपयोग गरिन्छ ।",
+    "सामान्य रूपमा कोहि व्यक्ति विशेषको लागि वायुमण्डल एवं वातावरणको ताप, आद्रता, वायुको गति एवं वायुमण्डलको गुणस्तर शरीरको सुख-सुविधाको दृष्टिले सधैं अनुकूल तथा सुखप्रद हुदैन। यसैकारण यी कारकहरुलाई सुखप्रद बनाउनको लागि एयर कण्डिसनिङ/वातानुकूलन संयन्त्रको आधुनिक युगमा विशेष प्रचार भएको छ। वातानुकूलित वातावरण मनुष्यको लागि केवल सुखप्रद मात्र हुदैन, यसले मानिसको कार्यक्षमतालाई समेत वृद्धि गर्छ । मनुष्यको शरीरमा विभिन्न उपापचयी क्रियाहरुबाट एवं शारीरिक श्रमबाट ताप/ऊष्माको उत्पादन हुन्छ तथा शरीरबाट वायुम"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 259,
+    "text_length_max": 636,
+    "text_length_avg": 417.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3347,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11520.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11520.txt",
+    "relative_path": "11520.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11520.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3347,
+    "mtime": 1782796449.7212374,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7fee3f20d8a97b67300e1f8821200b3f21d4fadb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

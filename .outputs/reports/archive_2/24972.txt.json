@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24972.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एस्पेरान्तो सबैभन्दा व्यापक रूपमा प्रयोगमा आएको अप्राकृतिक भाषा हो जुन साजिलैसङ्ग सिक्न सकिने तरिकाले बनाइएको छ। यो भाषा पोल्याण्डमा बस्ने डक्टर, लेइजेर लुद्भिक जामेनहोफले बनाएका हुन्। संसारको विभिन्न भागमा बस्ने मान्छे एक अर्कोसङ्ग सजिलै कुरा गरुन्, सबैले सिक्न सक्ने भाषा होस् भनेर उनले एस्पेरान्तो बनाएका हुन्।",
+    "सन् 1887मा जामेनहोफ भाषाको पहिलो किताब लेख्दा, आफैलाई \"दोक्तोरो एस्पेरान्तो\" भन्ने नाम दिए। त्यस नामको मतलब \"आशा गर्ने डक्टर\" हो। त्यो नाम पछि भाषाको नाम पनि भयो। किताबको नाम अन्तर्राष्ट्रिय भाषा :− परिचय तथा पूर्ण पाठ्यपुस्तक थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 313,
+    "text_length_avg": 205.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9651,
+      "Latin": 0.0349
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4849,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9651,
+      "Latin": 0.0349
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24972.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24972.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24972.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4849,
+    "mtime": 1782796636.2811234,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "bcb937c8929676257c0ffa187e4ed40f6c0d152b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

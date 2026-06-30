@@ -1,0 +1,93 @@
+{
+  "dataset": "18209.txt",
+  "file_name": "18209.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टाइटन तृतीय ई वा टाइटन 3ई, जसलाई टाइटन III-सेन्टर पनि भनिन्छ, एक अमरीकी एक्स्पेन्डेबल लन्च प्रणाली थियो, जसलाई 1974देखि 1977का बीच सात पल्ट लन्च गरिएको थियो। यसका द्वारा नासाको उच्च-प्रोफाइल अभियानहरूलाई यात्रा गरायी गयी थियो, जसमा वायेजर, वाइकिंग ग्रहीय अन्वेषण प्रोब र संयुक्त जर्मन-अमरीकी हेलियोस प्रोब अन्तरिक्ष यान प्रमुख रहेका हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 338,
+    "text_length_avg": 338.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9889,
+      "Latin": 0.0111
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 875,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9889,
+      "Latin": 0.0111
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18209.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18209.txt",
+    "relative_path": "18209.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18209.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 875,
+    "mtime": 1782796481.0057056,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "1325a8ce40ceb13160822b200545e1443338e826",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

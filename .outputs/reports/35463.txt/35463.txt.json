@@ -1,0 +1,92 @@
+{
+  "dataset": "35463.txt",
+  "file_name": "35463.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पूर्णबहादुर खड्का",
+    "सुर्खेत, वीरेन्द्रनगर निवासी 53 वर्षीय पूर्णबहादुर खड्का समानुपातिकतर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। उहाँ 2048, 2051 र 2056 का तीनवटै संसदीय निर्वाचनमा सुर्खेत क्षेत्र नं. 1 बाट नेपाली कांग्रेसका उम्मेदवारका रूपमा निर्वाचित हुनुभएको हो। यसबीच उहाँले सूचना तथा सञ्चार मन्त्री र गृह मन्त्रीको जिम्मेदारी पटकपटक सम्हालिसक्नुभएको छ। लामो समयदेखि नेपाली कांग्रेसका केन्द्रीय सदस्य रहिआएका खड्का पार्टी विभाजन हुँदा ने.का. प्रजातान्त्रिकका पनि केन्द्रीय सदस्य हुनुहुन्थ्यो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 473,
+    "text_length_avg": 259.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2794,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35463.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35463.txt",
+    "relative_path": "35463.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35463.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2794,
+    "mtime": 1782796560.77617,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f1940292ba12c43ec2888c37fcbdf3c905fb4e2f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

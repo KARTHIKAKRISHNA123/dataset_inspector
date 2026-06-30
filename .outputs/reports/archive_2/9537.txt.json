@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9537.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लर्ड्स क्रिकेट ग्राउंड लण्डनको सेंट जन्स वुडमा स्थित एक क्रिकेट मैदान हो। यसको नामकरण यसको संस्थापक थमस लर्डको नाममा गरिएको छ। यो मैदान मेरिलबोन क्रिकेट क्लब को स्वामित्वमा छ र मिडिलसेक्स काउंटी क्रिकेट क्लब, द इङ्गल्यान्ड तथा वेल्स क्रिकेट क्लब, द यूरोपियन क्रिकेट संघ र अगस्त, 2005 सम्म आइसिसीको गृह स्थान रहेको थियो । लर्ड्सलाई \"क्रिकेटको घर\"को रूपमा सन्दर्भ गर्ने गरिन्छ र यहाँ संसारको सबभन्दा पुरानो खेल संग्रहालय पनि रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 432,
+    "text_length_max": 432,
+    "text_length_avg": 432.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1137,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9537.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9537.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9537.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1137,
+    "mtime": 1782796674.7977817,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "45aadb55f87eaaa7da30ff2f69721ed989843ed0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

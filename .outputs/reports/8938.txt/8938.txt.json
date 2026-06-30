@@ -1,0 +1,92 @@
+{
+  "dataset": "8938.txt",
+  "file_name": "8938.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतीय रिजर्व बैंक भारतको केन्द्रीय बैंक हो । यो भारतको सबै बैंकहरूको नियामक निकाय हो । रिजर्व बैक भारतको अर्थव्यवस्थालाई नियन्त्रित गर्ने गर्छ ।",
+    "यसको स्थापना 1 अप्रिल सन् 1935 को रिजर्व बैंक अफ इन्डिया ऐन, 1934 अनुसार भएको हो । प्रारम्भमा यसको केन्द्रीय कार्यालय कोलकातामा थियो जसलाई सन् 1937 मा मुम्बईमा सारिएको हो । पहिले यो एउटा निजी बैंक थियो तर सन् 1949 देखि यो भारत सरकारको उपक्रम बनिसकेको छ । उर्जित पटेल भारतीय रिजर्व बैंकका वर्तमान गभर्नर हुन्, उनले सन् 2016 सेप्टेम्बर 4 देखि यो पदभार ग्रहण गर्नुभएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 610,
+    "text_length_avg": 326.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6885,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8938.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8938.txt",
+    "relative_path": "8938.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8938.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6885,
+    "mtime": 1782796601.7231922,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f3cd207af311e012ecfee08105c14b82ccf36f12",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

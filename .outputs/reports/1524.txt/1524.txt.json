@@ -1,0 +1,94 @@
+{
+  "dataset": "1524.txt",
+  "file_name": "1524.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सौर्य परिवारमा प्रमुख रूपमा सूर्य र यसलाई परिक्रमा गर्ने विभिन्न ग्रहहरू पर्दछन्। सूर्य सौर्य परिवारको बिचमा रहेको हुन्छ भने विभिन्न ग्रहहरू यसको वरिपरि निश्चित बाटोमा हिँड्ने गर्दछन्। तर सूर्य र ग्रहहरू बाहेक अन्य खगोलीय पिण्डहरू पनि सौर्य परिवारमा पर्दछन्। ",
+    "सूर्य एक मझौलो आकारको तारा हो। यसको सतहको तापक्रम लगभग   5000 K  {\\displaystyle 5000K} हुन्छ भने यसको केन्द्रको तापक्रम   2.7 × 10 7  K  {\\displaystyle 2.7\\times 10^{7}K} हुन्छ। र यसको केन्द्रको चाप   2.477 × 10 11  b a r  {\\displaystyle 2.477\\times 10^{11}bar} रहेको हुन्छ। सर्यले सम्पूर्ण सौर्य मण्डललाई नै उज्यालो पार्ने गरि प्रकाश दिन्छ। यसले यति धेरै प्रकाश र ताप दिनुको कारण यसको केन्द्रमा भइरहेको आणविक प्रतिक्रिया हो। आणविक प्रतिक्रिया हुन सूर्यको केन्द्रमा रहेको चाप र तापक्रमले मद्दत गर्दछन"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 259,
+    "text_length_max": 1046,
+    "text_length_avg": 523.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9439,
+      "Latin": 0.0561
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3931,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9439,
+      "Latin": 0.0561
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1524.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1524.txt",
+    "relative_path": "1524.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1524.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3931,
+    "mtime": 1782796466.6339307,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "934922d69bc285eaba0f16cd346cf35fd97147e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

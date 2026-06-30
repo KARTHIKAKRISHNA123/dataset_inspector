@@ -1,0 +1,92 @@
+{
+  "dataset": "25732.txt",
+  "file_name": "25732.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सामान्य अर्थमा मध्यपंक्ति भन्नाले अग्रपंक्ति र रक्षापंक्तिको बिचको स्थान भन्ने बुझिन्छ । फुटबलमा मध्यपंक्तिबाट खेल्ने खेलाडीलाई मिड फिल्डर भनिन्छ । केहि मिड फिल्डरहरू रक्षात्मक भूमिकामा देखिन्छन् भने केहि मिडफिल्डर र फरवार्ड बिचको सिमाको यकिन स्थान नखुलाई खेल्ने गर्दछन । मिड फिल्डरको संख्या र भूमिका टोलीको संरचनामा निर्भर गर्दछ ; मैदानमा रहेका मिड फिल्डरहरू बटुलेर बनेको समूहलाई नै मध्यपंक्ति भनिन्छ । धेरै प्रशिक्षकहरूले कम्तिमा एउटा मिड फिल्डरलाई विपक्षी टोलीको आक्रमण माथि धावा बोल्न प्रयोग गर्छ",
+    "केन्द्रिय मिड फिल्डर आक्रामक र रक्षात्मक मिड फिल्डरको पनि बिचबाट खेल्ने खेलाडी हुन् । यो स्थानबाट खेल्ने खेलाडीले आक्रामक मिड फिल्डर र फरवार्डलाई बल पास गर्ने प्रयास गर्छन् भने केहीले तिव्र गतिमा अगाडि बढेर पेनाल्टी क्षेत्रबाट आक्रमण गर्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 170,
+    "text_length_max": 722,
+    "text_length_avg": 418.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5622,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25732.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25732.txt",
+    "relative_path": "25732.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25732.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5622,
+    "mtime": 1782796515.749264,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0e668cf11c4427165d54631428463ca8179aa002",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

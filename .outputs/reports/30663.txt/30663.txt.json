@@ -1,0 +1,91 @@
+{
+  "dataset": "30663.txt",
+  "file_name": "30663.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आम आदमी पार्टी भारतीय राजनीतिक पार्टी हो । यो पार्टीको 26 नोभेम्बर 2012 मा औपचारिक रूपमा घोषणा भएको थियो । सन् 2011 देखि जनलोकपाल अध्यादेशको माग गर्दै इन्डिया एगेन्स्ट करप्सन नामक प्रशिद्ध आन्दोलनको नेतृत्व गरिरहेका अरविन्द केजरीवाल र अन्ना हजारेबीचमा राजनीतिमा जाने वा नजाने भन्ने विषयमा मतभेद भएपछि यो पार्टीको जन्म भएको हो । हजारे आन्दोलनलाई राजनीतिसँग जोड्न असहमत थिए तर केजरीवालले आन्दोलन बिस्तारै विफलतातिर जान लागेकोले अब अघि बढ्न एक प्रत्यक्ष राजनीतिक संलग्नता जरूरी छ भन्ने धारणा राखेका थिए "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 501,
+    "text_length_max": 501,
+    "text_length_avg": 501.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1325,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30663.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30663.txt",
+    "relative_path": "30663.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30663.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1325,
+    "mtime": 1782796538.8851092,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b96ddc91220eb350935ba1c87eafcd27724abb7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "23882.txt",
+  "file_name": "23882.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1967 मा भाकपा बाट विभाजित चारु मजुमदार, कानु सन्याल र जंगल सन्थालले नक्सलबाडीमा 'सिलिगुडी किसान सभा' गठन गरेपछि नक्सलवादी आन्दोलन शुरू भएको थियो।",
+    "शुरूमा शान्तिपूर्ण रहेको त्यो आन्दोलन एक वर्षपछि 'वर्ग शत्रु खत्तम' को नाममा हिंसात्मक बन्यो। हिंसाकै बीच नेताहरूबीचको विवाद तीव्र बनेपछि 1970 मा आन्दोलनका प्रमुख विचारक मजुमदारलाई छाडेर सन्याल, सन्थाल, सत्यनारायण लगायतका नेता अलग भए भने मजुमदारसँग रहेकाहरूले उनलाई वैचारिक र सांगठनिक प्राधिकार मान्दै हिंसात्मक आन्दोलन चलाईरहे। कलकत्तासहित ठूला शहर र पश्चिम बङ्गालका गाउँसम्म पुगेको त्यो आन्दोलन विभाजन, हिंसात्मक गतिविधि र सरकारी दमनका कारण कमजोर बन्दै गयो। 1972 मा पक्राउ परेको केही महीनापछि जेलमै"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 559,
+    "text_length_avg": 296.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4739,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23882.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23882.txt",
+    "relative_path": "23882.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23882.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4739,
+    "mtime": 1782796507.234532,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "146ae452c9ac447f955e3fea8e6e2207552e76af",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

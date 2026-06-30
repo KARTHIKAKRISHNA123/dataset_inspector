@@ -1,0 +1,92 @@
+{
+  "dataset": "37648.txt",
+  "file_name": "37648.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दुर्गानन्द झा नेपालका प्रजातान्त्रिक आन्दोलनका योद्धा तथा शहीद हुन्।2017 पुष 1 गतेको कदम पछि पञ्चायती व्यवस्था विरूद्ध उत्रेका उनले 2018 माघ 9 गते जनकपुरमा राजा महेन्द्र चढेको गाडीमा बम प्रहार गरेका थिए। सोही अभियोगमा पक्राऊ परेका उनलाई पञ्चायत सरकारले मृत्युदण्ड दिएको थियो। ",
+    "दुर्गानन्द झाको जन्म 1999 साल वैशाख 14 गते धनुषाको दक्षिणी गाउँ जटियामा आमा सुकुमारी देवी झा को गर्भबाट भएको थियो। बाबु देवनारायण झा उनी सानो छँदै बितेका थिए। दुर्गानन्द सानैदेखि राम्रो फूटबल खेलाडी थिए र राम्रो गीत पनि गाउँथे। नेपालको जटही गाउँमा प्राथमिक शिक्षा पाएपछि अगाडिको पढाइ त्यहाँ नहुने भएकोले उनी माध्यमिक तहको अध्ययनको लागि भारतको उँमगाउँको एउटा विद्यालयमा भर्ना भए।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 255,
+    "text_length_max": 617,
+    "text_length_avg": 382.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5046,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37648.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37648.txt",
+    "relative_path": "37648.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37648.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5046,
+    "mtime": 1782796571.4613888,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a4467b84170965024ee8c4866df131f7bcf99d10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

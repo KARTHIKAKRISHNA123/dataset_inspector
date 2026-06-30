@@ -1,0 +1,92 @@
+{
+  "dataset": "14453.txt",
+  "file_name": "14453.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्कृष्ट फिफा फुटबल अवार्ड 2017 23 अक्टोबर 2017 का दिन लण्डनमा वितरण गरिएको थियो। यो अवार्ड उत्कृष्ट फिफा फुटबल अवार्ड दोस्रो संस्करण हो।",
+    "24 जना पुरूष फुटबल खेलाडीबाट अन्तिम तीन जना मनोनित गरि अन्तिम मतपरिणाम मार्फत क्रिस्टियानो रोनाल्डोलाई विजेता घोषण गरियको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 137,
+    "text_length_avg": 111.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 871,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14453.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14453.txt",
+    "relative_path": "14453.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14453.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 871,
+    "mtime": 1782796463.0755634,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7f8fa0e7947fcdf7d0c919b0fd9b7a9d7ff72cc2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

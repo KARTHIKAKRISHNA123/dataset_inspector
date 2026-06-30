@@ -1,0 +1,92 @@
+{
+  "dataset": "1853.txt",
+  "file_name": "1853.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रावण रामायणको एक पात्र हुन । रावणको दश शिर थिए । उनी लंकाभन्ने देशका राजा थिए । रावण सृष्टिकर्ता ब्रम्हाका पनाति, पुलस्त्यका नाति र विस्रवाऋषिका छोरा हुन् । उनी शिवका परम भक्त तथा नारायणका कट्टर विरोधी हुन् । शिव विजयी रावण वैदिक10 विषय वेदवेदांगका विद्वान थिए । तर पनि अभिमान र नारीको अपमान गरेकाले उनको पतन भयो ।",
+    "रावणको वास्तविक नाम दशानन् हो। कैलाश पर्वत सङै महादेव र पार्वती लाई लंका हाल श्रीलङ्का लान खोज्दा पर्वतले किचेर पिडादाई रोदनकोआवाजलाई लक्षित गरि महादेवले रावण नाम राखिदिएको कथा छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 97,
+    "text_length_max": 314,
+    "text_length_avg": 201.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2143,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1853.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1853.txt",
+    "relative_path": "1853.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1853.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2143,
+    "mtime": 1782796482.5075183,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "7ed379596af439ff9cd6de629b2843083a7f9887",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34792.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्ल्यास अफ क्लान्स एक मुफ्त व्यापक-रणनीति मल्टी प्लेयर अनलाइन गेम हो। यो गेमलाई फिनल्यान्डको एक भिडियो गेम कम्पनी सुपरसेलले प्रकाशित तथा विकासित गरेको हो। यो गेम 2 अगस्ट 2012 मा आइओएस र 30 सेप्टेम्बर 2013 मा एन्ड्रोइडको लागि उपलब्ध भएको थियो।",
+    "क्ल्यास अफ क्लयान्स एक अनलाइन मल्टीप्लेयर गेम हो, जसले समुदाय का निर्माण गर्छ र आफ्नो योद्धाओ को अभ्यास गरेर तथा शक्तिशाली बनाएर अर्को खिलाडि को कबीला मा आक्रमण गर्छन, जसमा उनीहलाई पदक, सुन तथा अमृत आदि मिल्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 75,
+    "text_length_max": 636,
+    "text_length_avg": 252.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5287,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34792.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34792.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34792.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5287,
+    "mtime": 1782796655.8302927,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aaaf3b055d2caacc6bc8f38b71d8b24ec54e3e33",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

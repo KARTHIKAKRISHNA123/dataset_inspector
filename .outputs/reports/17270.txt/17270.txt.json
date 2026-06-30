@@ -1,0 +1,92 @@
+{
+  "dataset": "17270.txt",
+  "file_name": "17270.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ग्रीक भाषामा एन्टी भनेको विपरीत र बायोस् भनेको जीवन हो। अर्को शब्दमा भन्ने हो भने एन्टिबायोटिक भनेको जीवनाशक वस्तु हो र यसले जीवाणुलाई नाश गरेर मानिसलाई रोगबाट छुटकारा दिलाउँछ। जीवाणु नाश गर्ने एन्टिबायोटिकलाई ब्याक्टेरियल साइडल र फैलिन नदिनेलाई ब्याक्टेरियो स्टाटिक भनिन्छ। सन् 1928मा एलेक्जेन्डर फ्लेमिङले फंगसबाट पेनिसिलिन निकालेका हुन्। फ्लेमिङ फ्लोरी र चेनले उक्त उपलब्धिका लागि संयुक्त रूपमा सन् 1945मा नोबेल पुरस्कार पाएका थिए। हिजोआज विभिन्न किसिमका एन्टिबायोटिक बजारमा उपलब्ध छन्। धेरै चिकित",
+    "अमेरिकाका जीवाणुविज्ञान विशेषज्ञ सेलम्यान वाक्सम्यानले सन् 1943मा स्ट्रेप्टोभाइसिन पत्ता लगाएका हुन्। यसअघि क्षयरोगको ओखती थिएन। राम्रो हावापानी भएको सेनेटोरियममा पौष्टिक खाना ख्वाएर क्षयरोगको उपचार गरिन्थ्यो। यसरी उपचार अभावमा हजारौं क्षयरोगीको मृत्यु हुन्थ्यो। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 204,
+    "text_length_max": 710,
+    "text_length_avg": 417.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5691,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17270.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17270.txt",
+    "relative_path": "17270.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17270.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5691,
+    "mtime": 1782796476.472667,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "09c7a7a88e6a74c56055df6b167313cc17b1f6fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बारूद एउटा बिस्फोटक मिश्रण हो। यसलाई गन पाउडर वा कालो बारूद पनि भन्दछन्।  गन्धक, कोइला एवं शोडा को एउटा मिश्रण हो। यसको रंग कालो हुन्छ यस कारण यसलाई ब्ल्याक पाउदर पनि भनिन्छ। बारूदको प्रयोग पटेकाहरु एवं आग्नेयास्त्रहरु मा गरिन्छ। बारूद आगोको झिल्का पाएर तेजीदेखि बल्दछ जसदेखि भारी मात्रामा ग्यास एवं गरम ठोस पैदा हुन्छ।",
+    "वर्तमान समयमा बारूदलाई कमजोर विस्फोटक का रूपमा जानिन्छ किनभनें विस्फोट भएमा यो अपश्रव्य तरंगहरु पैदा गर्दछ न कि पराश्रव्य तरंगहरु । यस कारण बारूदका बल्नाले उत्पन्न ग्यासे यति नैं दाब पैदा गर्न पाउँछन् जो गोलीलाई अघि फ्याँक्नमा सहायक हुन्छ किन्तु बन्दूकको नलीलाई क्षति पुर्याउँदैन। कुनै चट्टानका विध्वंस वा कुनै किल्लालाई तोडनका लागि बारूदको प्रयोग उपयुक्त हुँदैन तर यिनको लागि टी एन टी आदि राम्रा रहन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 89,
+    "text_length_max": 1111,
+    "text_length_avg": 548.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10017,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7582.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10017,
+    "mtime": 1782796671.0583074,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f6c237fbb95cbb4b16e1d4628ba9fc2c34d53916",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "32370.txt",
+  "file_name": "32370.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल्पसंख्यक माझी जातिको संविधानसभामा प्रतिनिधित्व गर्ने एक मात्र सभासद् हुनुहुन्छ तुलबहादुर माझी 'जेबी'। 046 देखि राजनीतिमा लाग्नुभएका माझी थालनीमा मोहनविक्रम सिंहको मसालको गाउँ कमिटीमा हुनुहुन्थ्यो। मसालबाट विद्रोह गरी माओवादीसँग एकता गर्ने शितलकुमारसँगै उहाँ आउनुभएको थियो। ",
+    "उहाँ लडाकु दल, स्क्वाट कमाण्डर र 052मा माओवादी सिन्धुली सदस्य हुनुभयो। उहाँ 054मा प्लाटुन सहकमाण्डर र 058 देखि माझी राष्ट्रिय मुक्ति मोर्चाको अध्यक्ष हुनुहुन्छ। उहाँ 060मा क्षेत्रीय ब्युरो सदस्य र हाल उहाँ माओवादी राज्य समिति सदस्य हुनुहुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 194,
+    "text_length_max": 275,
+    "text_length_avg": 237.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1897,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32370.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32370.txt",
+    "relative_path": "32370.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32370.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1897,
+    "mtime": 1782796546.7839043,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "e5aaa44350a88ba38c028ede2c5edcdf4a483708",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

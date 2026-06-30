@@ -1,0 +1,94 @@
+{
+  "dataset": "11778.txt",
+  "file_name": "11778.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "google.com/analytics",
+    "गूगल एनलाईटिक अथवा एनलाईटिक्स, प्रकाशन गरिएको वेबसाईट लाई मापन वा वेब विश्लेषण गर्ने गूगलद्वारा सञ्चालन गरिएको सेवा हो । गुगलले यो सेवा सन् 2005 नोभेम्बरमा अर्चिनलाई आफ्नो स्वामित्वमा ल्याए पश्चात शुरू गरेको थियो । गूगल एनलाईटिक हाल इन्टरनेटमा वेभ विश्लेषणको लागी प्रयोग हुने सेवाहरू मध्ये एक रहेको छ । यो सेवा दुई संस्करणमा उपलब्ध रहेको छ, गूगल एनलाईटिक्स 360 तथा गूगल एनलाईटिक्स मोबाईल एप ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 392,
+    "text_length_avg": 217.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9828,
+      "Latin": 0.0172
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3370,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9828,
+      "Latin": 0.0172
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11778.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11778.txt",
+    "relative_path": "11778.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11778.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3370,
+    "mtime": 1782796450.9425695,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "50d29ae50d21def3386a783c1f9f76e7efd6f6d8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

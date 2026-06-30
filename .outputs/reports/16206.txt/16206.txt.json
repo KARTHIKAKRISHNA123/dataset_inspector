@@ -1,0 +1,92 @@
+{
+  "dataset": "16206.txt",
+  "file_name": "16206.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुपेरियर ताल संसारको सबैभन्दा ठुलो ताल सुपेरियर ताल उत्तर अमेरिकाको मिनिसोटा राज्यमा पर्दछ । प्राकृतिक सम्पदाको हिसाबले यो राज्य उत्कृष्ट कोटीमा पर्दो रहेछ । यस राज्यलाई तालैतालको राज्य भनिन्छ । ",
+    "सुपेरियर तालको ख्याति संसारभर फैलिएको छ । यो ताल मिनिसोटा राज्यको डुलुथ भन्ने स्थानमा अवस्थित छ । यो समुद्रजस्तै ठुलो र फराकिलो भएकाले यसलाई समुद्र भन्नुपर्ने हो, तर यो समुद्र सतहभन्दा माथि रहेकाले यसलाई ताल भनिएको हो । सुपेरियर ताल अमेरिका र क्यानाडाको सिमानामा रहेको छ तापनि यसको अधिकांश भाग अमेरिकाभित्र पर्दछ भने केही भाग मात्र क्यानाडाभित्र पर्दछ । यसरी हेर्दा यो तालको उत्तरमा क्यानाडाको अोन्टारियो राज्य र संयुक्त राज्य अमेरिकाको मिनिसोटा राज्य पर्दछ भने दक्षिणमा विस्कान्सिन र मिचिगन राज्य पर"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 195,
+    "text_length_max": 507,
+    "text_length_avg": 351.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1885,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16206.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16206.txt",
+    "relative_path": "16206.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16206.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1885,
+    "mtime": 1782796471.1399186,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8a500817d7e17cc30a2d5f161e8f2cb927daa00c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "25274.txt",
+  "file_name": "25274.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कानुनी कागजपत्र सङ्कलित किताब",
+    "प्रकाश वस्ती द्वारा सम्पादित तथा कानुन व्यवसायी क्लब, काठमाडौं, द्वारा 2063मा प्रकाशित कानुनी कागजपत्र सङ्कलित किताब |यो पुस्तक झण्डै 600 वर्षेदेखिका कानुनी कागजपत्र सङ्कलित किताब हो– कानुनसम्बन्धी केही ऐतिहासिक अभिलेखहरू। यसमा जयस्थिति मल्लका पालाको मानव न्यायशास्त्रदेखि मुलुकलाई नयाँ संवैधानिक बाटोतिर डोर्‍याउने पछिल्लो जनआन्दोलनका बेला 11 बैशाख 2063मा राजा ज्ञानेन्द्रबाट भएको घोषणासम्म छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 875,
+    "text_length_avg": 527.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9930,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25274.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25274.txt",
+    "relative_path": "25274.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25274.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9930,
+    "mtime": 1782796513.5915015,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8a144b9ffcc18a939db90ce84e2b2550f05c8f88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

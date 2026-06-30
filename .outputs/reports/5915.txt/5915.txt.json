@@ -1,0 +1,94 @@
+{
+  "dataset": "5915.txt",
+  "file_name": "5915.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चगास रोग, वा अमेरिकन ट्राइपानोसोमिआसिस, भनेको ट्रोपिकल परजीवी रोग हो जुन प्रोटोजोआn ट्राइपानोसामा क्रुजी को कारणले हुन्छ। यो प्राय: किसिङ बग्सनामले परिचित कीराहरूको माध्यबाट फैलिन्छ। संक्रमणको क्रमसँगै लक्ष्णहरू फैलिन्छन्। प्रारम्भिक चरणमा, लक्षणहरू औसतन देखिदैनन् वा मध्यम हुन्छन् र निम्न शामिल हुन सक्छन्: ज्वरो, सुन्निएको लसीका ग्रन्थी, टाउको दुख्ने, वा टोकेको ठाँउमा सुनिनु। 8–12 हप्तापछि, व्यक्तिहरू रोगको दीर्घकालीन स्थितिमा पुग्छन् र 60–70% मा यसले थप लक्षणहरू देखाँउदैन। अन्य 30 देखि 40% मानि",
+    "टि. क्रुजी सामान्यतया रगत-चुस्ने \"किसिङ बग्स\", ट्रिआटोमिनाइ को उपपरिवारद्वारा मानव र अन्य स्तनधारी जनावरहरूमा फैलिन्छ। यी कीराहरूलाई धेरै सङ्ख्याका स्थानीय नामहरूले चिनिन्छ साथै: अर्जेन्टिना, बोलिभिया, चिली र पाराग्वेमा भिन्चुका, ब्राजिलमा बार्बेइरो, कोलम्बियामा पिटो, सेन्ट्रल अमेरिकामा चिन्चे, र भेनेजुएलामा चिपो । यो रोग रगत दिँदा, अंग प्रत्यारोपण गर्दा, परजीवी भएका खाना खाँदा, and आमाबाट गर्भको बच्चामाफैलिन सक्छ। माइक्रोस्कोप प्रयोग गरि रगतमा भएका पारासाइट फेला पारेर प्रारम्भिक रोगको निदान गरि"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 578,
+    "text_length_max": 711,
+    "text_length_avg": 628.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6628,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5915.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5915.txt",
+    "relative_path": "5915.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5915.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6628,
+    "mtime": 1782796587.27424,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "4676ed3e33be3947ec166675e29982674959b7ba",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

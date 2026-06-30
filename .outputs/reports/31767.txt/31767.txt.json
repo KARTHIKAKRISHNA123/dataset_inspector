@@ -1,0 +1,92 @@
+{
+  "dataset": "31767.txt",
+  "file_name": "31767.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हुन त, ब्रह्मको कुनै नाम छैन तर पछि मानिसहरुले त्यसलाई जुन नाम दिने प्रयास गरे त्यसमा सबैभन्दा उचित यही ॐ हो । ",
+    "भर्तृहरिका अनुसार एकाग्रचित्त भइ घोरिएका परमेष्ठि ब्रह्माजीको हृदयाकाशबाट कण्ठ तालु आदि कहीं पनि संघर्ष नभएको एक अत्यन्त विलक्षण अनाहत नाद प्रकट भयो । त्यही अनाहत नादबाट अ, उ, म् यी तीन मात्राहरुले युक्त ओम् प्रकट भयो । यस शक्तिले नै प्रकृति अव्यक्तबाट व्यक्त रुपमा परिणत भयो । ओंकार स्वयं अव्यक्त अनादि हो । परमात्मस्वरुप भएकोले स्वयं प्रकाश हो । "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 111,
+    "text_length_max": 1754,
+    "text_length_avg": 671.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14116,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31767.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31767.txt",
+    "relative_path": "31767.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31767.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14116,
+    "mtime": 1782796544.096663,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "34b5a8b214886a46266711e750dc3f3f9df79b5c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "6174.txt",
+  "file_name": "6174.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परित्याग",
+    "नगेन्द्रप्रसाद रिजाल 2030 सालमा राजाबाट प्रधानमन्त्री बनाइएका हुन्। उनले नेपाली कांग्रेस परित्याग गरि राजाको पंचायत कदम समर्थन गरेका थिए । उनी अर्थ तथा योजना सहायक मन्त्रि, उद्योग तथा वाणिज्य मन्त्रि, राष्ट्रिय पंचायत सदस्य, राष्ट्रिय पंचायत अध्यक्ष भएर समेत काम गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 274,
+    "text_length_avg": 141.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 753,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6174.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6174.txt",
+    "relative_path": "6174.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6174.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 753,
+    "mtime": 1782796588.5335267,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0d248a5fc0ad5bd2e814b4771cb6bf1e425ef9c4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

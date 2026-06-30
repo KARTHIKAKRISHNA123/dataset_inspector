@@ -1,0 +1,92 @@
+{
+  "dataset": "2526.txt",
+  "file_name": "2526.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्द्रबहादुर गुरुङ",
+    "स्याङजा, पेलकाचौर गाविस निवासी इन्द्रबहादुर गुरुङ समानुपातिक तर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। 67 वर्षीय गुरुङ 2015 सालमा सहायक मन्त्री रहेका आफ्ना बुबाबाट प्रभावित भई राजनीतिमा लाग्नुभएको हो। नेपाली कांग्रेसका केन्द्रीय सदस्य गुरुङ संविधानसभामा निर्वाचित हुँदा कानुन सहायक मन्त्री हुनुहुन्थ्‍यो। उहाँ आदिवासी जनजाति संघका सभापति समेत हुनुहुन्छ। भारत, देहरादूनमा आई.ए. पढ्दापढ्दै 2017 सालमा उहाँ पक्राउ पर्नुभएको थियो। राजनीतिकै क्रममा 2018 सालमा गुरुङले 8 महीना जेल जीवन विताउनुभएको छ।प्रजातान"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 1084,
+    "text_length_avg": 551.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2975,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2526.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2526.txt",
+    "relative_path": "2526.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2526.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2975,
+    "mtime": 1782796513.5168433,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "6af6415d7d44537cca11e9ef9d9010b74161111c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

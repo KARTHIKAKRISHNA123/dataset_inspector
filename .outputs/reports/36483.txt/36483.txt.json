@@ -1,0 +1,94 @@
+{
+  "dataset": "36483.txt",
+  "file_name": "36483.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कौडा समुन्द्री कीराको सिपी हो। मानिसले यसलाई घर सजाउनदेखि लिएर जुवा खेल्न सम्म विभिन्न प्रयोगमा ल्याउने गरेका छन्।",
+    "संसारमा कौडीको अस्तित्व कहिले प्रकाशमा आयो ? यो भन्न मुस्किल छ। प्राचीन कालदेखि नै मानिसको साथ यसको घनिष्ट सम्बन्ध रहँदै आएको छ। कौडी हाम्रो धार्मिक, आर्थिक, सामाजिक एवं सांस्कृतिक जीवनको अनेक पक्षहरूसँग जोडिएको छ। मानिस यसलाई पूजा गर्ने गर्दछ भने यसबाट मनोरञ्जन पनि लिने गर्दछ यसबाट जुवा खेल्ने गरिन्छ भने औषधि पनि बन्दछ। यसले सजावट गर्ने गरिन्छ भने शृङ्गार पनि गर्ने गरिन्छ तर यसको सर्वाधिक उपयोग विनियम प्रणाली लाई सजिलो बनाउनका लागि गर्ने गरियो। यही कारण हो कि संसारभरिमा जहाँ जहाँ ऐतिहासिक उत्खन"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 1043,
+    "text_length_avg": 389.42,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12399,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36483.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36483.txt",
+    "relative_path": "36483.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36483.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12399,
+    "mtime": 1782796565.625303,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d844fc8ec29c07230cd80a38a21960c5b3075b11",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

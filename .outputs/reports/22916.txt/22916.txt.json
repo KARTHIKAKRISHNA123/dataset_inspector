@@ -1,0 +1,91 @@
+{
+  "dataset": "22916.txt",
+  "file_name": "22916.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भिलारियल क्लब डे फुटबल, सामान्यतया भिलारियल सीएफ को रूपमा संक्षिप्त वा केवल भिलारियल, एक स्पेनिश फुटबल क्लब हो जो भिलारियलमा अवस्थित छ ।, 1923 मा स्थापित यो क्लब ला लिगा मा खेल्छ । एस्टोडियो डे ला सेरामिका स्टेडियममा गृह खेल हुने गरेको छ । यसको क्षमता 24,890 छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 262,
+    "text_length_max": 262,
+    "text_length_avg": 262.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 665,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22916.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22916.txt",
+    "relative_path": "22916.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22916.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 665,
+    "mtime": 1782796502.8311634,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8dc3c75f2bbbc32c8d791fa5a8098650628036cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

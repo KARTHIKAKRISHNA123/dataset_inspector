@@ -1,0 +1,92 @@
+{
+  "dataset": "19985.txt",
+  "file_name": "19985.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किशोरावश्थाको गर्भधारण बीस वर्ष भन्दा कम उमेरमा गर्भवती हुनु हो। किशोरावश्थाको गर्भधारण विश्वका धेरै मुलुकहरूमा समस्याको रूपमा देखा परेको छ। खासगरी विकासउन्मुख देशहरूमा बढि देखिने यो समस्या नेपानमा पनि उत्तिकै छ। नेपलामा धेरै महिलाको 20 वर्ष नपुगी विबाह भैसकेको हुन्छ। जनगणना 2068ले 15 देखि 19 वर्षको उमेर समुहका पहिलो विबाह हुने हरू 48.9 प्रतिशत देखाएको छ। त्यस्तै नेपालमा 17 प्रतिशत महिलाहरू 15 देखि 19 वर्ष उमेर समुहमा गर्भवती भईसकेका हुन्छन्।",
+    "किशोरावस्थामा बच्चा जन्माउदा आमा र बच्चा दुबैको स्वास्थ्यमा खतरा उत्पन्न हुने तथा जनसङ्ख्या व्यबस्थापन समेत प्रभवित हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 122,
+    "text_length_max": 446,
+    "text_length_avg": 284.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1498,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19985.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19985.txt",
+    "relative_path": "19985.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19985.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1498,
+    "mtime": 1782796489.602685,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "9013f0d888559cf4384f5f0094ceb8a2caa12c74",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

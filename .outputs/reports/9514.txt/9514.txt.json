@@ -1,0 +1,92 @@
+{
+  "dataset": "9514.txt",
+  "file_name": "9514.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 37°23′41″उत्तर 122°09′01″पश्चिम / 37.3947057° उत्तर 122.1503251° पश्चिम / 37.3947057; -122.1503251",
+    "टेस्ला मोटर्स बिद्दुतीय गाडी, उर्जा संचय र सोलार प्यानल उत्पादक कम्पनी हो जसको मुख्यालय क्यालिफोर्नियामा रहेको छ| 2003 मा स्थापित यो कम्पनीले बिद्दुतीय कार, लिथियम ब्याट्री उर्जा संचय र आवासीय सोलार प्यानलमा दक्षता राखेको छ |"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 111,
+    "text_length_max": 225,
+    "text_length_avg": 168.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 781,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9514.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9514.txt",
+    "relative_path": "9514.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9514.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 781,
+    "mtime": 1782796604.4925745,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "072690b58ce361765b1383ed7965c3ca6744157d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

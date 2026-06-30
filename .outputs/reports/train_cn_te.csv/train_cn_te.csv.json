@@ -1,0 +1,114 @@
+{
+  "dataset": "train_cn_te.csv",
+  "file_name": "train_cn_te.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "te",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ఎక్కుపెట్టు is derived from పెట్టు.",
+    "వచనంబు is related to speaking."
+  ],
+  "statistics": {
+    "records_sampled": 6448,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 97,
+    "text_length_avg": 32.2,
+    "duplicate_estimate": 620,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.6262,
+      "Telugu": 0.3627,
+      "Devanagari": 0.0095,
+      "Tamil": 0.001,
+      "Kannada": 0.0003,
+      "Malayalam": 0.0002,
+      "Arabic": 0.0002,
+      "Gurmukhi": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 343334,
+    "estimated_records": 10662
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10662,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Telugu",
+    "languages_seen": [
+      "en",
+      "te"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "te",
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.6312,
+      "Telugu": 0.3511,
+      "Devanagari": 0.0113,
+      "Tamil": 0.0037,
+      "Gurmukhi": 0.0018,
+      "Malayalam": 0.0009
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1
+  },
+  "meta": {
+    "file_name": "train_cn_te.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train_cn_te.csv",
+    "relative_path": "train_cn_te.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train_cn_te.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 343334,
+    "mtime": 1782795368.7906868,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.999,
+    "sha1_quick": "ed05383a3c4ed5874e524b80f64722075b8af928",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

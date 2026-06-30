@@ -1,0 +1,93 @@
+{
+  "dataset": "20778.txt",
+  "file_name": "20778.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोनाथन डेभिड गुड एक अमेरिकी व्यवसायी कुस्ती खेलाडी र अभिनेता हुन्। अहिले उनी डब्ल्युडब्ल्युईसँग सम्बन्धित छन् जहाँ उनी डिन एम्ब्राेज नामले कुस्ती खेल्छन्। सेथ राेलिन्स र रोमन रेन्जको साथमा उनले द शिल्डकाे रूपमा डब्ल्युडब्ल्युईमा प्रदापण गरेका थिए। उनी सेथ रोलिन्सकाे साथमा 2 पटक ट्याग टिम विजेता, 1 पटक संयुक्त राज्य विजेता र एक पटक डब्ल्युडब्ल्युई विश्व विजेता बनिसकेका छन्। हाल उनी डब्लुडब्लुई र मा कार्यरत छन्।",
+    "गुडले अाफ्नो कुस्ती कार्यकालको सुरुवाती चरणमा सन् 2004-11 सम्म इन्डिपेन्डेन्ट सर्किटमा जोन मोस्लीको नामले कुस्ती खेल्ने गरेका थिए। उनले फुल इम्प्याक्ट प्रो, कमब्याट जोन रेस्लिङ, रिङ्ग अफ अनर, ड्रयागन गेट युएसए अादीमा कुस्ती खेलिसकेका छन् जसमा उनले एक पटक एफअाइपी च्याम्पियनसिप र दुई पटक सिजेडडब्लुयु च्याम्पियनसिप जितेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 56,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 2848,
+    "text_length_avg": 841.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 124605,
+    "estimated_records": 148
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 148,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20778.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20778.txt",
+    "relative_path": "20778.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20778.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 124605,
+    "mtime": 1782796493.2931533,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9940fa46733b4730ed481e68ba6ea6e8753c2717",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

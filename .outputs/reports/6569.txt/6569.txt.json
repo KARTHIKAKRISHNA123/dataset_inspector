@@ -1,0 +1,94 @@
+{
+  "dataset": "6569.txt",
+  "file_name": "6569.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेरो एफएमसुचना शिक्षा र मनोरञ्जनको त्रिबेणी परिवर्तनको संवाहक मुल नारा का साथ ' काठमाडौं उपत्यकाबाट सञ्चालित एक एफएम स्टेसन हो। यसको प्रमुख कार्यालय कामाण्डौ नक्शाल मा रहेको छ ।दैनिक 18 घण्टा नियमित प्रसारण हुन्छ ।",
+    "यसको फ्रिक्वेन्सी 93.5Mhz हो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 486,
+    "text_length_avg": 225.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9968,
+      "Latin": 0.0032
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2981,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9968,
+      "Latin": 0.0032
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6569.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6569.txt",
+    "relative_path": "6569.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6569.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2981,
+    "mtime": 1782796590.3167913,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "adbbca35f7ac9c6a58ce97f37b24040f1a57bb6d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

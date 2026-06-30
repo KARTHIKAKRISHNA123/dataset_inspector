@@ -1,0 +1,92 @@
+{
+  "dataset": "3329.txt",
+  "file_name": "3329.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भोज ताल भारतको भोपालमा अवस्थित ताल हो । यसको क्षेत्रफल 31 वर्ग किलोमिटर छ । यो ताल सहरको प्रमूख पानीको श्रोत पनि हो ।",
+    "किम्बदन्ती अनुसार राजा भोजले भोपाल सहरको स्थापना संगै तालको पनि निर्माण गराएका थिए । उनैको नामबाट यस तालको नाम भोज ताल राखियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 127,
+    "text_length_avg": 47.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 993,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3329.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3329.txt",
+    "relative_path": "3329.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3329.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 993,
+    "mtime": 1782796550.916091,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5a2e159f0386d398eeccb5f73a8748bf333b41e3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

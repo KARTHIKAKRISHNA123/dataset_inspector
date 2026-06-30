@@ -1,0 +1,91 @@
+{
+  "dataset": "17609.txt",
+  "file_name": "17609.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्य समाज एक हिन्दू सुधार आंदोलन हो । यसको स्थापना स्वामी दयानन्द सरस्वतीले सन् 1875 मा मुम्बईमा मथुराका स्वामी विरजानंदको प्रेरणाले गरेका थिए। यो आंदोलन पाश्चात्य प्रभाव तथा प्रतिक्रिया स्वरूप हिंदू धर्ममा सुधारको लागि आरम्भ गरिएको थियो । आर्य समाजमा शुद्ध वैदिक परम्परामा विश्वास गरिन्थ्यो र मूर्ति पूजा ,अवतारवाद, बलि ,कर्मकाण्ड तथा अंधविश्वासलाई अस्वीकार गर्थे । यसको विरोधमा छुआछूत एवं जातिगत भेदभावलाई विरोध गरियो तथा स्त्रिहरू शूद्रलाई पनि उपनय संस्कार गरी यज्ञोपवीत धारण गराईयो र वेद पढ्ने अध"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 952,
+    "text_length_max": 952,
+    "text_length_avg": 952.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2529,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17609.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17609.txt",
+    "relative_path": "17609.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17609.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2529,
+    "mtime": 1782796478.221883,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4721d5ea89759deee51943c003f18ab5452b6be6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

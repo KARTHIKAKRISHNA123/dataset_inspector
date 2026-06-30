@@ -1,0 +1,92 @@
+{
+  "dataset": "31032.txt",
+  "file_name": "31032.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2016-17 युइएफए च्याम्पियन लिग युरोपेली प्रिमियर कपको 62औं संस्करण हो भने युइएफए च्याम्पियन लिग को 25औं संस्करण हो।यस प्रतियोगिताको फाइनलमील्लेन्नियम स्टेडियम, मा हुनेछ । ",
+    "यस प्रतियोगिताको विजेताले 2017 फिफा क्लब विश्वकप र 2017 युइएफए सुपर कप मा आफ्नो उपस्थिति जनाउन पाउनेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 170,
+    "text_length_avg": 100.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1048,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31032.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31032.txt",
+    "relative_path": "31032.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31032.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1048,
+    "mtime": 1782796540.5792675,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "c3d18eb10afe7ae018f360aeb1e4be6fc82f6b8b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

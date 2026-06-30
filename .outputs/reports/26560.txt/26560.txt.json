@@ -1,0 +1,92 @@
+{
+  "dataset": "26560.txt",
+  "file_name": "26560.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द ह्वाइट टाइगर नेपाल भाषामा अर्थ सेतो बाघ भारतीय लेखक अरभिन्द अडिगाको पहिलो उपन्यास हो । यसको पहिलो प्रकाशन सन् 2008 मा भएको थियो भने यसले सोही वर्षामा 40 औ म्यास बुकर पुरस्कार जितेको थियो । यो उपन्यासले अधेरो हास्य दृष्टिकोणबाट अहिलेको विश्वव्यापी संसरामा भारतको संघर्षलाई गाउँको एउटा केटो बलराम हलबाईको माध्यमबाट वर्णन गरेका छन् । विस्तृतमा बलरामको पहिलो यात्रा दिल्लीसम्मको जहाँ उसले धनी जमीदारकोमा चालकको रूपमा कार्य गर्दछ र त्यस पश्चात बेंगलोर जहा उ आफ्नो मालिको हत्या गरि र पैसा चोरी गरि भाग्दछ",
+    "यस उपन्यासले राम्रो प्रतिक्रिया प्राप्त गरेको छ, यसले न्यूयोर्क टाइम्सको अत्यधिक बिक्री भएको सूचीमा पर्नुको साथ साथै म्यान ब्रुकर पुरस्कार समेत जितेको छ । अरभिन्द अडिगा 33 वर्षको उमेरमा सन् 2008 मा दोश्रो युवा लेखक तथा चौथो प्रथम पटक लेखनको पुरस्कार जितेका थिए । उनी भन्छन उनको उपन्यासले भारतको भ्रमणमा तपाईले भेट्ने मानिसको तथा ठूलोसंख्यामा भएको न्यूनवर्गको आवाजलाई उठान गर्ने प्रयास गरेको छ । उनको अनुसार द ह्वाइट टाइगरको आवश्यक अध्यारोबाट भारतको अविकसित ग्रामिण क्षेत्रहरूका नबोलिएका व्यक्तिहरूको "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 808,
+    "text_length_avg": 535.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5691,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26560.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26560.txt",
+    "relative_path": "26560.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26560.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5691,
+    "mtime": 1782796519.6659458,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c8c266ff4e21e70c5a13a494278d2f4e4f7db727",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

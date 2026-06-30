@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12497.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गाईबान्धा बङ्गलादेशको उत्तरी क्षेत्रमा पर्ने एक जिल्ला हो । यो जिल्ला रङ्गपुर विभागमा अवस्थित छ । यस जिल्ला उत्पत्ति हुनु भन्दा अघि यो गाइबान्धा उप-जिल्लाको रुपमा रहेको थियो । यस जिल्ला पहिला भवानीगञ्ज भन्ने गरिन्थ्यो भने सन् 1875 मा यसको नाम गाइबान्धा राखिएको थियो । गाईबान्धा सन् 1984 फेब्रुअरी 15 का दिन जिल्ला घोषित भएको थियो । .",
+    "यो जिल्ला 25°02' देखि 25°39' उत्तर अक्षांश र 89°11' देखि 89°46' पुर्व देशान्तरणमा अवस्थित छ । मेहेरपुर जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 2179.27 वर्ग किलोमिटर अोगटेको छ । यस जिल्लालाई कुरीग्राम र रङ्गपुर जिल्लाले उत्तरबाट घेरेका छन् भने यस जिल्लाको दक्षिणमा बगडा जिल्ला रहेका छन् । त्यस्तै गरि जमलपुर जिल्लाले पुर्वमा र दिनाजपुर जिल्लाले पश्चिमबाट घेरेको छ । यस जिल्लामा जमुना, ब्रह्मपुत्र, टिस्टा, अादि जस्ता देशकै प्रमुख नदिहरू रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 333,
+    "text_length_max": 685,
+    "text_length_avg": 500.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7545,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12497.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12497.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12497.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7545,
+    "mtime": 1782796611.4311783,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a1482061f288a33969cc7f63b11e0ff66a007612",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

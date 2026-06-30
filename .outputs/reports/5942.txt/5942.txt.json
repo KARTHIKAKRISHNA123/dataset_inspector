@@ -1,0 +1,92 @@
+{
+  "dataset": "5942.txt",
+  "file_name": "5942.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एक पदमा अर्का पद जोडिने प्रक्रियालाई पदयोग र एक पदमा अर्का पद नजोडिने प्रक्रियालाई पदवियोग भनिन्छ। पदयोगमा शब्दहरू जोडेर लेखिन्छ भने पदवियोगमा शब्दहरू छुट्याएर लेखिन्छ। सामान्यतः पदयोगमा एउटै डिकोमा र पदवियोगमा भिन्न डिकोमा लेख्ने गरिन्छ तर डिको नै पदयोग र पदवियोगको विभाजक होइन। नेपाल सरकार, सूचना तथा सञ्चार मन्त्रालयजस्ता शब्दहरू समस्त शब्द हुन् तर यी शब्दहरू छुट्टाछुट्टै लेखिन्छन्।",
+    "नेपाली भाषाका प्रयोक्तालाई वर्ण विन्यासको प्रयोगमा समस्या छ। त्यसमा पनि पदयोग र पदवियोगमा अझ बढी समस्या देखिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 386,
+    "text_length_avg": 99.31,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3374,
+    "estimated_records": 33
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5942.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5942.txt",
+    "relative_path": "5942.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5942.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3374,
+    "mtime": 1782796587.3933845,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "3f077848efc83afd60d1c35705285f9f829b79ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

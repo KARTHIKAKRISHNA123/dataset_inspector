@@ -1,0 +1,92 @@
+{
+  "dataset": "27426.txt",
+  "file_name": "27426.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "छत्रपाटी निःशुल्क चिकित्सालय काठमाडौंमा रहेको छत्रपाटी चोकमा छ। 2007 सालमा खुकुरी दलले टोलटोलमा आतंक मच्चाउँदा सुरक्षार्थ गठित स्थानीय शान्ति सुरक्षा संघले 10 रूपैयाँ कुल पुँजीबाट 2013 साल माघ 23 गते श्रीपञ्चमीका दिन छत्रपाटी निःशुल्क चिकित्सालयको स्थापना गरिएको हो।",
+    "तत्कालीन सञ्चार, यातायात तथा नहर मन्त्री गणेशमान सिंहबाट 2016 साल जेठ 18मा मूल भवन शिलान्यास गरिएको हो। उक्त भवनको सिंहबाटै 2048 साल माघ 25मा उदघाटन भएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 266,
+    "text_length_avg": 158.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1233,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27426.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27426.txt",
+    "relative_path": "27426.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27426.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1233,
+    "mtime": 1782796523.6216154,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "c01af1926a4c1f152ef62a131d6f0f4796390a29",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

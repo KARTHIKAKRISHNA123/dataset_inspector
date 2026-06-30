@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37720.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिस्टोफर केथ इरिभिन रिङ्ग नाम क्रिस जेरिकोले चिनिने, एक क्यानडेली पेशेवर कुस्ती खेलाडी र सङ्गीतकार हुन्। उनी हाल न्यु जापान प्रो-रेस्लिङ को लागि कुस्ती खेल्छन्, जहाँ उनी हाल अाइडब्ल्यूजीपि इन्टरनेशनल विजेता हुन्।",
+    "सन् 1990 को दशकमा जेरिकोले अमेरिकी अर्गनाइजेसन एक्सट्रिपम च्याम्पियनसिपका कुस्ती खेल्ने गरेका थिए भने पछि उनले वर्ल्ड च्याम्पियनसिप रेस्लिङमा पनि काम गरेका थिए। जेजेरिकोले त्यसको साथसाथै क्यानाडा, जापान र मेक्सिकोमा पनि कुस्ती खेलेका थिए। सन् 2001 मा उनी डब्ल्यूडब्ल्यूएफको पहिलो डब्ल्यूडब्ल्यूएफ अन्डिस्प्युटेड विजेता बनेका थिए र उनी डब्ल्यूसीडब्ल्यूको अन्तिम उपाधि विजेता पनि हुन्। उनले स्टोन कोल्ड सिटिभ अस्टिन र द रकलाई एकै रातमा हराउँदै दुईवटा उपाधिलाई एक बनाएका थिए। जेरिको हालसम्म डब्ल्यूडब्ल्"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 823,
+    "text_length_avg": 363.07,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8905,
+      "Latin": 0.1095
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13452,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37720.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37720.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37720.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13452,
+    "mtime": 1782796661.641968,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d3adc5ffab5d56dfc0b7e743987a389af1cd8e4d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

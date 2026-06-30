@@ -1,0 +1,91 @@
+{
+  "dataset": "12293.txt",
+  "file_name": "12293.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भारतको राष्ट्रिय मानव अधिकार आयोग एक स्वतन्त्र लोक निकाय हो जसको गठन 12 अक्टोबर 1993 मा मानव अधिकार अधिनियमको संरक्षणको अन्तर्गत 28 सेप्टेम्बर 1993 मा गरियो । भारतको राष्ट्रिय मानव अधिकार आयोगलाई मानव अधिकार अधिनियम, 1993 अन्तर्गत एक वैधानिक आधार दिइएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 261,
+    "text_length_max": 261,
+    "text_length_avg": 261.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 664,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12293.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12293.txt",
+    "relative_path": "12293.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12293.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 664,
+    "mtime": 1782796453.3503404,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "616da5507afb270d7b83f8fda8c243c7fb7a3942",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "35574.txt",
+  "file_name": "35574.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुवेर सिंह राना नेपाल प्रहरीका प्रहरी महानिरीक्षक हुन् । उनी नेपालको मन्त्रिपरिषदको निर्णयले मिति 2069 भाद्र 28 गते प्रहरी महानिरीक्षक पदमा बढुवा भएका थिए । उनी 2040 कार्तिक 30 गतेबाट प्रहरी निरिक्षकको पदमा नियुक्त भएका थिए ।",
+    "कुबेर सिँग राना मगरको जन्म सन् 1960/6/21 मा भएको थियो। उहाँ पाल्पा जिल्ला राना बौघा गाविस 5 का स्थायी बासिन्दा हुनुहुन्छ । 2017 साउन 6 गते स्वर्गवासी मेजर लीलाविर राना र जोगमाया रानाको कोखबाट जन्मनु भएका महानिरीक्षक रानाका चार दिदीबहिनी, सात दाजुभाई मध्ये पाँचौ हुन् । उनका एक श्रीमती, एक छोरा र एक छोरी छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 225,
+    "text_length_max": 504,
+    "text_length_avg": 317.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3233,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35574.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35574.txt",
+    "relative_path": "35574.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35574.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3233,
+    "mtime": 1782796561.3200808,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "35558ceff4d96046a98b7adfaf83d3b7fc709fa4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

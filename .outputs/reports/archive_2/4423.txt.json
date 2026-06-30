@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4423.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिचन्द्र सैनिक अस्पताल काठमाडौं महांकालमा रहेको चन्द्र शमशेर जङ्गबहादुर राणाद्वारा स्थापित एक अस्पताल हो।",
+    "प्रथम विश्वयुद्ध विजेता बेलायतले ‘पोष्ट वार रि–कन्स्ट्रक्सन फण्ड’ अन्तर्गत युद्धको भरपर्दो सहयोगी नेपाललाई उपहारस्वरुप 1982 सालमा ‘त्रिचन्द्र मिलिटरी हस्पिटल’ बनाइदिएको थियो । विश्वयुद्धमा भाग लिएका र ज्यान गुमाएका नेपाली सैनिकको सम्झनामा निर्मित यही अस्पताल थियो, जसले मुलुकमा पहिलो पटक फाइबर अप्टिक इन्डोस्कोपी प्रविधि भित्र्यायो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 448,
+    "text_length_avg": 297.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4853,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4423.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4423.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4423.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4853,
+    "mtime": 1782796664.5829177,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c14f7234dd08cb5824f172ec4716fa8fc3055c73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

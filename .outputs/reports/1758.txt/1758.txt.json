@@ -1,0 +1,94 @@
+{
+  "dataset": "1758.txt",
+  "file_name": "1758.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्प्युटर एउटा प्रोग्रामेबल यन्त्र हो । कम्प्युटर शब्द ल्याटिन शब्द Computare बाट आएको हो । जस्को अर्थ गणना गर्नु हो । यन्त्रको बनावट लगातार र स्वचालित भई गणितिय अथवा तार्किक क्रमाङ्कहरूको कार्य पुरा गर्ने हुन्छ । निश्चित निर्देशनअनुसार कार्य सम्पादन गरि नतिजा प्रस्तुत गर्ने मानव निर्मित यन्त्रलाई कम्प्युटर भनिन्छ । जुन एउटा विधुतीय साधन हो । अाज भन्दा करिब 60/70 बर्ष पहिले हिसाब गर्ने यन्त्रलाई कम्प्युटर भन्न थालिएको थियो । सुरु सुरुमा कम्प्युटर भन्नाले एउटा साधारण हिसाब गर्ने विधुतीय यन्त्र भन",
+    "विशेष गरि कम्प्युटर दुई वटा तत्वहरू मिलेर बनेको हुन्छ । ती हुन् कम्प्युटर हार्डवेयर र कम्प्युटर सफ्टवेयर । यी दुई बिच निकै घनिष्ठ सम्बन्ध रहेको हुन्छ । हार्डवेयर विना सफ्टवेयरले केही काम गर्न सक्दैन र सफ्टवेयर विना पनि हार्डवेयरले केही कार्य सञ्चालन गर्न सक्दैन । यी दुवै हार्डवेयर र सफ्टवेयरको पुर्ण मिलन भएपछि मात्र कम्प्युटरले कार्य सञ्चालन गर्न सक्छ । त्यसैले यी दुई तत्वहरूलाई एकै सिक्काको दुई पाटोको रूपमा वर्णण गर्न सकिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 182,
+    "text_length_max": 781,
+    "text_length_avg": 393.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9456,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1758.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1758.txt",
+    "relative_path": "1758.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1758.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9456,
+    "mtime": 1782796478.0550718,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5f44c827c18c5722fea2cbf2be128e0a250eb483",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

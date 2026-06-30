@@ -1,0 +1,92 @@
+{
+  "dataset": "22196.txt",
+  "file_name": "22196.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्तन ग्रन्थी एक स्तनधारी जनावरको शरीरको विशेष ग्रन्थी हो। यसको प्रमुख कार्य \"दूध\" उत्पादन गर्नु हो जुन नवजात शिशुको लागि पोषक तथा अति आवस्यक आहार हो। स्तन बाट नै यिनिहरूको नाम स्तनधारी प्राणी रहन गएको हो ।",
+    "चिकित्सा विज्ञानको दृष्टिमा स्तन ग्रन्थी बोसो, तथा रेशीय तन्तुहरूले बनेको पिण्ड हो । यो छातीको मांशपेशीको भित्तामा रेशीय तन्तुको स्ट्र्याण्डको मद्दतले टाँसिएको हुन्छ । स्तनभरि नै प्रमुख रुपमा बोसोयुक्त तन्तु हुन्छ र यसले नै स्तनलाई कमलो वा नरम बनाएको हुन्छ र एक निश्चित आकार दिएको हुन्छ । स्तन ग्रन्थी प्राय गरि पोथी स्तनधारी जिवमा मात्र विकसित र दूध उत्पादन हुने गर्छ तर कहिलेकाही भालेमा पनि विकसित हुने र दूध उत्पादन हुने गर्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 205,
+    "text_length_max": 715,
+    "text_length_avg": 418.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5595,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22196.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22196.txt",
+    "relative_path": "22196.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22196.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5595,
+    "mtime": 1782796499.7146933,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ada19b1f956c369a063a2c17b992d8fb8ac774ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

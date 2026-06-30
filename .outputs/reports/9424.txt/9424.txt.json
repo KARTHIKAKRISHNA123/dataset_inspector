@@ -1,0 +1,94 @@
+{
+  "dataset": "9424.txt",
+  "file_name": "9424.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दक्षिण एसियाली सहयोग सङ्गठन वा छोटो नाम सार्क सन 1980मा दक्षिण एसिया क्षेत्रमा विकसित भएको क्षेत्रीय एकताको भावनालाई बङ्गलादेशका राष्ट्रपति जियाउर रहमानले विशेष पहल गरेका थिए । यसअघि नेपालका राजा वीरेन्द्र वीरबिक्रम शाहले सन 1977 ताका कोलोम्बो योजना परामर्शदातृ सम्मेलनमा नेपालको नदी-नालाहरूलाई यस क्षेत्रका मुलुकहरूको हितको लागि प्रयोग गर्न आह्वान गरेका थिए । ",
+    "बङ्गलादेशमा 7-8 डिसेम्बर 1985 मा ढाकामा प्रथम शिखर सम्मेलनको आयोजना गरी औपचारिक रूपमा सार्कको बडापत्रमा हस्ताक्षर गर्न बङ्गलादेश, भूटान, भारत, मालदिभ्स, नेपाल, पाकिस्तान र श्रीलङ्कासहित सात राष्ट्रले सहमति जनाएका थिए। जस अनुरूप 16 जनवरी 1986 मा काठमाडौंमा सार्क सचिवालयको स्थापना गरियो। सार्कको कान्छो सदस्यको रूपमा अफगानिस्तानले नयाँ सदस्यता हासिल गरेको छ। यसबाट सार्क सदस्य राष्ट्रहरूको सङ्ख्या 8 पुगेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 1527,
+    "text_length_avg": 361.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9237,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9424.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9424.txt",
+    "relative_path": "9424.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9424.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9237,
+    "mtime": 1782796604.1000247,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "830061c1e6b65286bdc2065c8342b9b0207495e8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

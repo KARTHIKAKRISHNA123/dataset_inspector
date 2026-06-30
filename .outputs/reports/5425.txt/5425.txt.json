@@ -1,0 +1,92 @@
+{
+  "dataset": "5425.txt",
+  "file_name": "5425.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जया प्रदा  एक भारतीय चलचित्र अभिनेत्री र राजनीतिज्ञ हुन् ।",
+    "जयाप्रदाको जन्म ललिता रानीको रूपमा, भारतको आन्ध्र प्रदेश राज्यमा स्थित राजमन्ड्रीको एक मध्यम-वर्गीय परिवारमा भएको हो । उनको बुवा कृष्णा एक तेलुगु चलचित्र फाइनेन्सियर थिए । उनकी आमा नीलवाणीले उनलाई सानै उमेरमा नृत्य र संगीत कक्षाहरूमा भर्ना गराएकी थिइन ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 253,
+    "text_length_avg": 149.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1204,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5425.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5425.txt",
+    "relative_path": "5425.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5425.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1204,
+    "mtime": 1782796585.0684843,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f479bbf3714d133b1a5d81e060d596ec8fe6404a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

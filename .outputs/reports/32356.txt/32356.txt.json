@@ -1,0 +1,92 @@
+{
+  "dataset": "32356.txt",
+  "file_name": "32356.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं. 2047 वैशाख 23 गते काठमाडौं मा नेपाल राष्ट्रिय जनमुक्ति मोर्चाको नामबाट यो पार्टीको जन्म भएको हो | यही नामबाट पार्टीले वि.सं. 2048 सालको संसदीय निर्वाचनमा 'मान्छे' चुनाव चिन्ह लिएर भाग पनि लियो | त्यस पश्चात वि.सं.2048 माघ 6 गते राष्ट्रिय जन पार्टीसंग एकीकरण भएपछि राष्ट्रिय जनमुक्ति पार्टीको नामकरण भएको हो | यसपछि भएका 2051 सालको मध्यावधि निर्वाचन, 2056 को संसदीय निर्वाचन र 2064 को संविधान सभाको निर्वाचनमा 'घर' चुनाव चिन्ह लिएर पार्टीले भाग लिई सकेको छ | पार्टीको 23 वर्षीय जीवनकालमा प्रथम,",
+    "आदिवासी, जनजाति, दलित एवं उत्पीडित समुदायको मुक्तिको लागि नेपालमा संघीय व्यवस्था हुनुपर्छ भनेर आवाज उठाउने नेपालको पहिलो पार्टी राष्ट्रिय जनमुक्ति नै हो । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 137,
+    "text_length_max": 807,
+    "text_length_avg": 494.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7814,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32356.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32356.txt",
+    "relative_path": "32356.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32356.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7814,
+    "mtime": 1782796546.727438,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9511727d74f507decd072ea6b73fa09b7e9d693b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

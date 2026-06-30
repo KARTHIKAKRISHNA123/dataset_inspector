@@ -1,0 +1,94 @@
+{
+  "dataset": "25055.txt",
+  "file_name": "25055.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आइफोन फाइभ एप्पल कम्पनीले सन् 2012, सेप्टेम्बर 12 तारिकका दिन सार्वजनिक गरेको स्मार्ट फोन हो। यो फोन अहिले सम्मकै भरपर्दो, हलुका, र हाई रिजोल्युसन भएको फोन रहेको कम्पनीको दाबी छ । यसको स्क्रिनको आकार 4 इन्चको छ भने 16:9 इन्चमा फोटो र भिडियो हेर्न मिल्छ । यो फोनमा अहिले सम्मकै सबै भन्दा छिटो काम गर्ने प्रोसेसर राखिएको छ जसलाई ए.सिक्स चिप भनिन्छ । आइफोन फाइभ लाई सिक्थ जेनरेसन को श्रेणीमा राखिएको छ। आइफोनको पछिल्लो सँस्कारण आइफोन फोर एसलाई उछिन्दै यसले धेरै प्रयोगकर्ताको मन जित्न सफल भएको थियो । एप",
+    "आइफोन फोर एस बजारमा आउने बित्तिकै आइफोन फाइभको हल्ला सुरु भइसकेको थियो। सन् 2012 जुन 30 तारिकका दिन, यस फोन बजारमा आउने मिति र यसको बनौटको बारे अनुमान गरिएको थियो। तर सन् 2012 सेप्टेम्बर 4 तारिकका दिन एप्पल कम्पनीले यरबा बुएना सेन्टर उर दि आर्टस्, सन फ्रान्सिस्कोमा एउटा कार्यक्रम आयोजना गर्ने घोषणा गर्यो। सेप्टेम्बर 12, 2012 का दिन यस फोन सार्बजनिक गरिने भन्दै कम्पनीले बिभिन्न मिडियालाई निमन्त्रणा दिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 658,
+    "text_length_avg": 374.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9799,
+      "Latin": 0.0201
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20582,
+    "estimated_records": 54
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 54,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25055.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25055.txt",
+    "relative_path": "25055.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25055.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20582,
+    "mtime": 1782796512.5462697,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c1abaf18418ec9f7724c98f9b41fbfb5cd13de34",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36881.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुवाहाटी असम राज्यको राजधानी हो। ब्रह्मपुत्र नदीको किनारमा बसेको यो सहर, पूर्वोत्तर भारतको मुख्य सहर हो। प्राचीन हिंदू मन्दिरहरूको दर्शनार्थ धेरै मानिसहरू यहाँ आउने गर्छन्। पिकक आइलैंडमा बनेको सुन्दर शिव मन्दिर पनि आकर्षणको केन्द्र हो।",
+    "देशक अन्य मन्दिरको जस्तै यस मन्दिरको पनि आफ्नै महत्व छ। भनिन्छ कि सती पार्वतीले आफ्ना पिताद्वारा आफ्नो पति, भगवान शिवको अपमान गर्दा हवन कुंडमा हाम फालेर ज्यान दिएकिइ थिइन्। भगवान शिव आउन केही ढिलो भयो, तब सम्ममा उनको अर्धांगिनीको शरीर जलीसकेको थियो। उनले सतीको शरीर आगाबाट निकाले र तांडव नृत्य आरंभ गरे। अन्य देवतागण उनको नृत्य चाहन्थे, अत: उनीहरूले भगवान विष्णुसित शिवलाई मनाउने आग्रह गरे। भगवान विष्णुले सतीको शरीरलाई 51 वटा टुकुरा पारी दिएपछि मात्र भगवान शिवले नृत्य रोके। भनाई छ कि सतीको योनि गुव"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 65,
+    "text_length_max": 574,
+    "text_length_avg": 197.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5252,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36881.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36881.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36881.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5252,
+    "mtime": 1782796660.108234,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2a05452fc1a4b3509721564de97b41b75e06c3bb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

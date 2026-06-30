@@ -1,0 +1,92 @@
+{
+  "dataset": "20923.txt",
+  "file_name": "20923.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सीवान अथवा सिवान गणतन्त्र भारतको बिहार प्रान्तमा सारण प्रमंडल अन्तर्गत एक जिल्ला तथा शहर हो। यो बिहारको उत्तर पश्चिमी किनारामा उत्तर प्रदेशको सीमावर्ती जिल्ला हो। जिल्ला सदरमुकाम सिवान शहर दाहा नदी किनारामा बसेको छ। यसको उत्तर तथा पूर्वमा क्रमश: बिहारको गोपालगंज तथा सारण जिल्ला तथा दक्षिण एवं पश्चिममा क्रमश: उत्तर प्रदेशको देवरिया र बलिया जिल्ला छन्। भारतको प्रथम राष्ट्रपति डा॰ राजेन्द्र प्रसाद तथा कतिपय अग्रणी भारतीय स्वतंत्रता सेनानिहरूको जन्मभूमि एवं कर्मस्थलीको लागि सिवानको नाम जानिन्छ।",
+    "सिवानको नामाकरण मध्यकालमा यहाँको राजा 'शिव मान'को नामबाट भएको हो। उनको पूर्वजहरू बाबर यहाँ आउने बेला सम्म शासन गरि रहेको थिए। यसको एउटा अनुमण्डल महाराजगंजमा छ जसको नाम यस क्षेत्रमाथी राज गरिरहेको महाराजाको घर अथवा किला स्थित हुनाले पडेको छ। यस जिल्लालाई एउटा सामंत अली बक्शको नामले गर्दा पनि यसलाई अलीगंज सिवान पनि भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 1128,
+    "text_length_avg": 454.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9642,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20923.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20923.txt",
+    "relative_path": "20923.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20923.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9642,
+    "mtime": 1782796494.014316,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c56b6e61a8d3b3f4da86b16d1d10444349976619",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

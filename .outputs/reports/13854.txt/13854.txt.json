@@ -1,0 +1,92 @@
+{
+  "dataset": "13854.txt",
+  "file_name": "13854.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बडिमालिका नेपालका प्रमुख मन्दिरहरूमा एक हो यो स्थान सेती अञ्चलको बाजुरा जिल्लामा पर्दछ । यहाँ प्रति बर्ष मालिका चतुर्दशीका दिन मुख्य पूजा हुन्छ । बडिमालिकामा 2 वटा पूजारीहरूले पूजा गर्छन् । यि मध्य 1 जना कालिकोटबाट आउँछन् भने अर्को 1 जना बाजुराका पूजारी छन् । ",
+    "पौराणिक कथा अनुशार महादेवकी पत्नी सतिदेवीका पिता दक्ष प्रजापतिले यज्ञा गर्दा महादेव र सतिलाई बोलाएनन् । सतिदेवि दक्ष प्रजापतीको यज्ञा स्थलमा गएर पितासँग आफ्ना पति महादेवलाई नबोलाउनाको कारण सोधिन् । दक्ष प्रजापतीले महादेव भाङ, धतुरो सेवन गर्ने, श्मसानमा वास गर्ने, गलामा सर्पको माला लगाउने, जटाधारी भेषमा रहने, शरिरभरी खरानी घस्ने, बाघको छालाको पहिरन गर्ने हुनाले यो यज्ञामा बस्दा शोभा भएकाले नबोलाएको भनि उत्तर दिए । आफ्ना पतिको यस्तो अपमान सहन गर्न नसकेर सतिदेविले यज्ञाकुण्डको अग्नीमा हाम फालेर प्र"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 2877,
+    "text_length_avg": 449.85,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15631,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13854.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13854.txt",
+    "relative_path": "13854.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13854.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15631,
+    "mtime": 1782796460.4074652,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9d41ed0dc121dc4e20e84d980e0205977799095f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

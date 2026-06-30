@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8697.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ललितपुरको खोकनास्थित सिद्धिकाली रुद्रायणी मन्दिर|देवी सिद्दकाली खोकना वासीको आराध्य एंव ईष्ट देवी रहेकि छिन| सिद्द्काली रुद्रायणीको सिद्धिकाली जात्रा आश्विन शुक्लपक्ष तृतीयाको दिन सुरु भई नवमीसम्म चल्छ। ",
+    "रुद्रायणी मन्दिरअगाडिको पोखरीमा वर्षेनी बलि दिइन्छ। परम्पराअनुसार सुरुमा एउटा बाख्रीलाई पोखरीमा फ्याँकिन्छ। त्यसपछि युवाहरू पानीमा हाम्फालेर त्यसलाई दाँतले टोक्न थाल्छन्। बाख्रा नमरुञ्जेल यो क्रम जारी रहन्छ। ‘बलि दिइएको बाख्रीलाई पोखरीभित्रै टोकीटोकी मार्ने चलन छ|"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 203,
+    "text_length_max": 354,
+    "text_length_avg": 265.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3610,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8697.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8697.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8697.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3610,
+    "mtime": 1782796673.0829313,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "0807a7e96db659a045e08061e285fe997d20dfb0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

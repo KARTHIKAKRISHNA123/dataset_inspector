@@ -1,0 +1,92 @@
+{
+  "dataset": "18524.txt",
+  "file_name": "18524.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महात्मा गान्धीद्वारा भारतमा गरिएको चर्खाप्रचार अभियानबाट अभिप्रेरित भई वि.सं. 1987/88 तिर तुल्सी मेहरले चर्खा प्रचार सुरू गरे। यो कार्यमाथि 'आर्य समाजी' आरोप लगाई राणा प्रधानमन्त्रीले चर्खा प्रचारमा प्रतिबन्ध लगाए। ",
+    "स्मरणीय छ, मेहरले सन् 1977मा भारतको नेहरू पुरस्कार प्राप्त गरेका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 69,
+    "text_length_max": 215,
+    "text_length_avg": 142.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 747,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18524.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18524.txt",
+    "relative_path": "18524.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18524.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 747,
+    "mtime": 1782796482.470047,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "a4fcceba60606fd9aa5853cb554bd1354b8dc4de",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

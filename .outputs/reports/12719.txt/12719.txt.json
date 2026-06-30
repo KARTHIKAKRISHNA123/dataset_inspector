@@ -1,0 +1,92 @@
+{
+  "dataset": "12719.txt",
+  "file_name": "12719.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिसुपाल द्वापर युगमा जन्मेको एक राजा थियो । सिसुपाल चेदी राज्यको राजा थियो । उसको राक्षसी स्वभावका कारण सिसुपाललाई पौराणिक ग्रन्थहरूमा राक्षस अथवा असुर भनिएको छ ।",
+    "सिसुपाल र दन्तवक्र पूर्व जन्ममा जय र विजय नाम गरेका भगवान विष्णुका द्वार पाले थिए । एक दिन शनकादी ऋषिहरू भगवान विष्णुको दर्शन गर्न वैकुण्ठ गए । जय र विजयले शनकादी ऋषिहरूलाई विष्णुको दरबारमा प्रवेस गर्न नदिएकाले ऋषिहरूले तिमीहरू तिन जन्मसम्म राक्षस भएर जन्मनु परोस् र भगवान विष्णुसँग तिम्रो शत्रुता रहोस् भनेर श्राप दिए । ऋषिहरूको श्रापका कारण जय र विजय अर्को जन्ममा हिराण्यक्ष र हिराण्य कसेपु नामका दुइ शक्तीशाली दानवहरू भएर जन्मिए । हिराण्यक्ष र हिराण्य कसेपुलाई भगवान विष्णुले क्रमशः बराह अवतार र न"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 2154,
+    "text_length_avg": 1049.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8380,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12719.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12719.txt",
+    "relative_path": "12719.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12719.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8380,
+    "mtime": 1782796455.3742864,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "40a86005b5c2918cbd14d8e046211a7b703e5172",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

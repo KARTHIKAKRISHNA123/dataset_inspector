@@ -1,0 +1,94 @@
+{
+  "dataset": "23387.txt",
+  "file_name": "23387.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्वाचन आयोग नेपालमा बालिग मताधिकारको आधारमा संसद, गाउँ, नगर तथा जिल्लाका स्थानीय निकायहरूको स्वतन्त्र निर्वाचन सम्पन्न गराउने उद्देश्यले स्थापना भएको संबैधानिक अंग हो । “नेपालको संविधान” को भाग 24 को धारा 245 देखि 247 सम्म निर्वाचन आयोगसम्बन्धी व्यवस्था रहेको छ । यसरी संवैधानिक परिधिभित्र रही स्वतन्त्र, निष्पक्ष र विश्वसनीय वातावरणमा निर्वाचन सम्पन्न गराउने स्वायत्त संवैधानिक अङ्गको रूपमा निर्वाचन आयोगको व्यवस्था रहेकोछ । ",
+    "नेपाल सरकार वैधानिक कानुन, 2004 ले र्सवप्रथम गाउँ पञ्चायत, र जिल्लापञ्चायतहरूमा निर्वाचित जनप्रतिनिधिहरू रहने व्यवस्था गरेको थियो । अन्तरिम शासन विधान,2007 ले निर्वाचन आयोगको व्यवस्था गर्‍यो र आयोगको पहिलो प्रमुख निर्वाचन आयुक्त पदमाश्री सुवर्ण सम्शेर ज.ब.रा नियुक्त भए । नेपाल अधिराज्यको संविधान, 2015 अर्न्तर्गतनेपालमा प्रतिनिधि सभाको लागि फाल्गुण 7, 2015 मा पहिलो संसदीय आम निर्वाचन सम्पन्नभयो। नेपालको संविधान, 2019 अर्न्तर्गत गाउँ तथा नगर तहका प्रतिनिधिका लागि प्रत्यक्षनिर्वाचन सम्पन्न भए। यिनै"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 603,
+    "text_length_avg": 284.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9761,
+      "Latin": 0.0239
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4414,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9761,
+      "Latin": 0.0239
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23387.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23387.txt",
+    "relative_path": "23387.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23387.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4414,
+    "mtime": 1782796504.9245899,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "315cfaaf6c34b73b4ae06a81a04824082507ae97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

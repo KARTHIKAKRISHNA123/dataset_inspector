@@ -1,0 +1,92 @@
+{
+  "dataset": "24228.txt",
+  "file_name": "24228.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किराँत भाषाहरू नेपालका प्रमुख भाषा परिवार मध्ये एक हो। यो भाषा परिवार अन्तर्गत लिम्बू भाषा, याख्खा भाषा, सुनुवार भाषा तथा राई भाषाहरू पर्दछन्। ",
+    "पूर्वि नेपालको किराती प्रदेशभित्र बसोबास गर्ने किराती मूलका व्यक्तिहरूले बोल्ने भाषाहरूलाई किराती भाषा भनिन्छ । पृथ्वीनारायण शाहले गोरखा राज्य विस्तार गरेको समयको प्रमाणहरूलाई हेर्दा दोलखा, रामेछाप र सिन्धुली वल्लो किरातमा पर्छ भने सुनकोशी देखि अरुण नदीसम्मका भाग माँझ किरात मा पर्दछ । अरुणदेखि पूर्व मेची नदीसम्मको भूभाग लिम्बुवान भित्रपर्दछ । वेद, पुराण, रामायण, महाभारत आदिमा अनार्यहरू सवैलाई किराती समुदायभित्र समेटेको देखिन्छ । यसरी हेर्दा चिनियाँ, तिव्वती र नेपालका गुरुड,तामाङ, थकाली, शेर्पा, "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 1185,
+    "text_length_avg": 440.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10565,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24228.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24228.txt",
+    "relative_path": "24228.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24228.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10565,
+    "mtime": 1782796508.8082561,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "404d9f501f332eecfe70956faa41523cb725abeb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

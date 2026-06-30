@@ -1,0 +1,94 @@
+{
+  "dataset": "35327.txt",
+  "file_name": "35327.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टिरिसा टेय्ङ चिनियाँ गायिका थिइन् । उनी लोक गीत र रोमान्टिक गीतहरू का गायिकाका रुपमा प्रख्यात छिन् । उनले चिनियाँ भाषामा मात्र नभई जापानी, अङ्ग्रेजी, कान्टोनिज, इन्डोनेसियाली भाषामा समेत गाएकी छिन् ।",
+    "टय्ङ लामो समय देखि अास्थ्माको रोगी थिइन् । उनको मृत्यु थाइल्यान्डमा सन् 1995 मा 42 वर्षमा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 437,
+    "text_length_avg": 220.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9848,
+      "Latin": 0.0152
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7421,
+    "estimated_records": 33
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 33,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9848,
+      "Latin": 0.0152
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35327.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35327.txt",
+    "relative_path": "35327.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35327.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7421,
+    "mtime": 1782796560.149622,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2edc64c6064cf5d64cb9e5385a74bf01b5a521f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

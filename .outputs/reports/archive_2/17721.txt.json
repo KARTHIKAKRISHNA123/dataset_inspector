@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17721.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Bryophyllum pinnatum OkenBryophyllum calycinum",
+    "अजम्बरी, पत्थरीचुर अथवा पर्णबीज पोथ्रा वर्गमा पर्ने औषधीय । यो वनस्पतिको पात, डाँठ जे काटेर फालेपनि त्यसैबाट पुनरूत्पादन हुने हुनाले अजम्बरी भनिएको हो । त्यस्तै संस्कृतको पर्ण र बीज शब्दको संयोजनबाट पर्णबीज भनिएको हो । संस्कृत भाषामा पर्ण भनेको पात र पात नै बीजको रूपमा भएको हुनाले यसलाई पर्णबीज पनि भनिन्छ । अजम्बरीको बोट 2-3 फिट अग्लो र काण्डमा दुबैतिर लाम्चा दाँतीयुक्त पात लाग्ने गर्दछ । अजम्बरीको स्वाद अमिलो हुन्छ । यसको प्रयोगले अम्लपित्त, कमलपित्त, पत्थरी, गर्मीले हुने रोग, मधुमेह, धातु झर्न"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 791,
+    "text_length_avg": 418.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.937,
+      "Latin": 0.063
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2117,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.937,
+      "Latin": 0.063
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17721.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17721.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17721.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2117,
+    "mtime": 1782796621.8932252,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "81f8cda102168ccc26250ca72a6ce1983df9fc2c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

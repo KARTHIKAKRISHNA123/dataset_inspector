@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29674.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाइपोथर्मिया भन्नाले शरीरको भित्री तापक्रम 35 डिग्री सेन्टिग्रेड भन्दा कम भएको अवस्थालाई बुझिन्छ। यसको लक्षण तापक्रम अनुसार फरक-फरक हुन सक्छ। मन्द खालको हाइपोथर्मियामा जीउ काम्ने तथा दिमाग सुस्त भएर अलमल्ल पर्ने हुन्छ। मध्यम खालको हाइपोथर्मियामा कम्पन बन्द हुन्छ र दिमागको सुस्तता बढेर जान्छ। कडा खालको हाइपोथर्मिया भएपछि बिरामीले बेहोसीमा लगाइरहेको कपडा खोल्न पनि सक्छ र मुटुको धड्कन बन्द हुने खतरा बढेर जान्छ।",
+    "हाइपोथर्मिया मुख्यतया दुई कारणहरूले हुने गर्दछ। साधारणतया यो समस्या लामो समयसम्म चिसोमा बस्नाले लाग्ने गर्दछ। त्यस्तै कुनै कारणले शरीरमा ताप उत्पादन घट्यो वा शरीरबाट ठूलो मात्रामा ताप बाहिरियो भने पनि हाइपोथर्मिया हुन सक्छ। यस्तो हुनुमा अल्कोहलले शरीरलाई पुर्याउने असरको मुख्य भुमिका रहेको हुन्छ भने रगतमा चिनीको मात्रा कम हुनु, खानमा रुची नहुनु तथा बृद्धावस्थाका कारणले पनि शरीरको तापक्रम घट्न सक्छ। शरीरमा सञ्चालन हुने तापक्रम नियमन प्रक्रियाले शरीरको तापक्रम साधारणतया 36.5-37.5 डिग्री सेन्टिग्रेड"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 966,
+    "text_length_avg": 481.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 27246,
+    "estimated_records": 56
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 56,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29674.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29674.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29674.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 27246,
+    "mtime": 1782796645.43525,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "82db8ad01e3662917d286e9d8578d83ded011ff9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

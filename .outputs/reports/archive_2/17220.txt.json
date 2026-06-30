@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17220.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो सूची फर्च्युन ग्लोबल 500 पत्रिकाद्वारा राजस्वको आधारमा सूचीबद्ध गरिएका विश्वका सबैभन्दा ठूला सुचना प्रविधि कम्पनीहरू हुन्। यस सूचीमा कम्पनीहरू जसको प्राथमिक व्यवसायिक गतिविधि प्रविधि उद्योगसँग सम्बन्धित छन् जसमा कम्प्यूटर हार्डवेयर, सफ्टवेयर, इलेक्ट्रोनिक्स, अर्धचालक, इन्टरनेट, दूरसञ्चार उपकरण, ई-वाणिज्य र कम्प्युटर सेवाहरू समावेश गरिएका छन्।पुनश्च: यो सूची 50 बिलियन अमेरिकी डलर भन्दा बढी वार्षिक राजस्व भएका कम्पनीहरुमा सीमित छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 435,
+    "text_length_max": 435,
+    "text_length_avg": 435.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1166,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17220.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17220.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17220.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1166,
+    "mtime": 1782796620.9056313,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d6ddd7fabe0fd0de4e5fab2c11328dff128c45e8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

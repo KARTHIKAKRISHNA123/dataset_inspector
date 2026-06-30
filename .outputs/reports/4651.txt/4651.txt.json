@@ -1,0 +1,92 @@
+{
+  "dataset": "4651.txt",
+  "file_name": "4651.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नातिकाजी नेपाली सङ्गीतका एक चर्चित व्यक्तित्व थिए । नातिकाजी श्रेष्ठ, गायक तथा वरिष्ठ संगीतकार हुन् । नातिकाजीको बहुचर्चित गीत, नेपाली हामी रहौला कहाँमा, उनले नेपाल र नेपाली जनताका बारेमा वर्णन गरेका छन् ।",
+    "वाल्यकालदेखिनै सङ्गीतको सङ्गतमा परेका नातिकाजीले अाफ्नो जीवनका अधिकांश समय हार्मोनियमका पर्दा चाल्दै विताउनुभयो । पार्किन्सन रोगले थलिएर बस्दासमेत हरदम हार्मोनियममा भुलेर बस्ने नातिकाजी आफ्नो समयको कालजयी सङ्गीत सिर्जना गर्ने महान सङ्गीतकार हुन् । उनका सङ्गीत कालजयी छन् । नेपाली सङ्गीतको एउटा कालखण्डको मात्र नभई आउने समयको समेत प्रतिनिधिको रुपमा उनका सङ्गीत रहनेछन् ।सानै उमेरमा आमा बुबा गुमाएका नातिकाजी गुहृयेश्वरीस्थित मामाघरमा हुर्किए । मामाघरका बाजे गुह्वेश्वरीका पुजारी भएका कारण पशूपति र गुह"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 205,
+    "text_length_max": 7651,
+    "text_length_avg": 3928.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20988,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4651.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4651.txt",
+    "relative_path": "4651.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4651.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20988,
+    "mtime": 1782796580.7166753,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "74ef863b90b7996fb6f52bfd6ae3d9ace0fe8925",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

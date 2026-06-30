@@ -1,0 +1,92 @@
+{
+  "dataset": "12625.txt",
+  "file_name": "12625.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोबाइल एप्स भनेको मोबाईल फोन, ट्याबलेट कम्प्यूटर, स्मार्टफोनमा तथा विभिन्न विद्युतीय उपकरणहरुको लागि तयार गरिएको कम्प्यूटर प्रोग्राम हो।",
+    "विभिन्न अपरेटिङ सिस्टमका लागि तयार गरिएका आआफ्नै मोबाइल एप्सहरु हुन्छन। साथै त्यसता एप्सहरु संग्रह गरिने आआफ्नै संग्राहलय हुन्छन। जसलाई एप्लिकेसनको स्टोर भनिन्छ। जहांंबाट त्यस्ता एप्सहरु डाउन्लोड तथा अप्लोड गर्न मिल्दछन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 136,
+    "text_length_max": 220,
+    "text_length_avg": 178.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 974,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12625.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12625.txt",
+    "relative_path": "12625.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12625.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 974,
+    "mtime": 1782796454.899391,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2d58990c7e65736c45a7ca310d62177be9da40fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

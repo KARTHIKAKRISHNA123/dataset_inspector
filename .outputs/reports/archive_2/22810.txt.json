@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22810.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देवनारायण यादव इन्जिनियर हुनुहुन्छ। उहाँ पुलका नक्सा तयार पार्नुहुन्छ। उहाँले बनाएका त्यही नक्सा हेरेर पुल बनाइन्छ। उहाँले नेपालका विभिन्न नदीमा भएका पुलका लागि नक्सा तयार पार्नुभएको छ। तीमध्ये चितवनको कसरास्थित राप्ती नदीको पुल, पोखराको विजयपुरको पुल, काली गण्डकी पुल केही हुन्। उहाँकै नक्सा हेरेर बनाइएका पुल 40 भन्दा बढी छन्। ",
+    "उहाँको जन्म 2004 असोजमा सप्तरी जिल्लाको औरही गाउँ विकास समिति 7मा भएको हो। उहाँका पिताको नाम रामकृष्ण र माताको नाम गंगा हो। यादव जेठो छोरा हो। देवनारायणका एक भाइ र एक बहिनी हुनुहुन्छ। स्कूलमा असाध्यै राम्रो पढ्ने विद्यार्थी भएकाले उहाँले इन्जिनियरिङमा स्नातक र स्नातकोत्तर गर्न छात्रवृत्ति पाउनुभयो। यादवले भारतको गुजरातस्थित सरदार पटेल युनिभर्सिटिबाट बीइ र थाइल्यान्डको एसियन इन्स्टीच्युट अफ टेक्नोलोजीबाट र्एमई गर्नुभएको हो। राजा वीरेन्द्रले जागीर खाने प्रस्ताव गर्दा थोरै तलब भएकाले सरकारी जागीर ख"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 287,
+    "text_length_max": 527,
+    "text_length_avg": 381.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3074,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22810.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22810.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22810.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3074,
+    "mtime": 1782796631.9658432,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "361ee5a68a126690e557a916aa815fa2dae82cd0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "20374.txt",
+  "file_name": "20374.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जगदीश्वर नरसिंह के.सी",
+    "नेपाली कांग्रेसका तर्फबाट संविधानसभामा प्रतिनिधित्व गर्ने जगदीश्बर नरसिंह के.सी. राजनीतिशास्त्रका स्नातक हुनुहुन्छ। राउतबेसी, नुवाकोटका के.सी.ले आफ्नो राजनीतिक यात्रा 2032 सालमा शान्ति विद्यागृहको विद्यर्थी छँदा एकाई सभापतिका रूपमा शुरु गर्नुभएको हो। त्यसपछि निरन्तर प्रजातान्त्रिक आन्दोलनमा क्रियाशील उहाँले जनमतसंग्रह, सत्याग्रह र 2046 र 2062-63 का अन्दोलनहरूमा सक्रियतासाथ भाग लिंदै आउनुभएको छ। यस क्रममा 2042,2046 र 2062-63मा गरी उहाँले झण्डै 6 महिना जेलजीवन बिताउनुभएको छ। यसै बीच उहाँ तीन महिना"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 840,
+    "text_length_avg": 430.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2272,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20374.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20374.txt",
+    "relative_path": "20374.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20374.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2272,
+    "mtime": 1782796491.367828,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "f68be8ae18b3f9236dcd50e186b73260adaefc83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "30179.txt",
+  "file_name": "30179.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थियोडोर रूजवेल्ट संयुक्त राज्य अमेरिकाको 26औँ राष्ट्रपति थिए । उनको कार्यकाल 1901 देखि 1909 सम्म थियो । उनी रिपब्लिकन पार्टीका अध्यक्ष पनि थिए । उनको मृत्यु जनवरी 5, 1919मा भयो ।",
+    "थियोडोर रूजवेल्टको बारेमा विकिपिडियाका भातृ योजनाहरूमा खोज्नुहोस:"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 65,
+    "text_length_max": 178,
+    "text_length_avg": 121.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 625,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30179.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30179.txt",
+    "relative_path": "30179.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30179.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 625,
+    "mtime": 1782796536.6023679,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "29e6eb2d7c531f43a585628af8f64e6673504b7b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

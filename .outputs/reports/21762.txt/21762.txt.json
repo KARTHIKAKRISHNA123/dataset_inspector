@@ -1,0 +1,91 @@
+{
+  "dataset": "21762.txt",
+  "file_name": "21762.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको पुर्वी पहाडको वल्लो किराँत, माझ किराँत र पल्लो किराँतका सुनुवार र राई जातिका विभिन्न चाड पर्व मध्य प्रमुख रुपमा मानिने चाड साकेवा हो। जसलाई पर्वते बोलिमा पूजा भनिन्छ । यो चाड प्रमुख खेती धान रोप्ने समय बैशाख पुर्णिमा देखी पञ्चमीसम्म मनाईन्छ । जसलाई दोङ्वाङ वा काम गरेर खाने समय भनिन्छ । त्यसै गरि बाली उठाई काट्ने समयमा मंसिरे पुर्णिमामा पनि मनाईन्छ जसलाई दोङ्दावा वा बसिखाने समरी भनिन्छ ।यो नाच राई जातिको अति प्रशिद्द तथा एकमात्र नाच हो । यो समुहमा सयौं ब्यक्तीहरु नाच्दछ्न् । तर राईहरुको त"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1199,
+    "text_length_max": 1199,
+    "text_length_avg": 1199.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3174,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21762.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21762.txt",
+    "relative_path": "21762.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21762.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3174,
+    "mtime": 1782796497.8398314,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d5e306f2293208e277b26c56a58ab75c45269bd7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "18824.txt",
+  "file_name": "18824.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिश्राैली,mishrauli एक नवलपरासी जिल्लाकाे रामनगर गा.वि.स.वडा नम्बर 7 मा अवस्थित गाँउकाे नाम हाे । याे गाउँ रामनगर-1 भुमहीमा पर्ने पुर्व-पश्चिम महेन्द्र राजमार्गबाट 3 कि.मि. भित्र उत्तरतर्फ पर्दछ ।यस गाउँमा छ वटा टाेलहरु रहेका छन् । तल्लाे टाेल, माथिल्लाे टाेल, कान्छि टाेल, हनुमान टाेल, ड्राइभर टाेल र डाँडा टाेल रहेका छन् । याे गाउँमा हिन्दु समुदायका मानिसहरु बसाेबास गर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 378,
+    "text_length_max": 378,
+    "text_length_avg": 378.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9705,
+      "Latin": 0.0295
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 971,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9705,
+      "Latin": 0.0295
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18824.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18824.txt",
+    "relative_path": "18824.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18824.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 971,
+    "mtime": 1782796483.9893534,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "528c98d177cd7db742c1cdb19107425cc54b788d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "7016.txt",
+  "file_name": "7016.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एन्जेला डोरोथिया मर्केल जर्मनीको राजनीतिज्ञ तथा वर्तमान चान्सलर हुन् । उनी भूतपूर्व शोध वैज्ञानिक पनि हुन् । मर्केल वर्ष 2000 देखि क्रिस्टियन प्रजातान्त्रिक संघ को नेतृत्व गर्दै आएकी छिन् । उनी जर्मनीका पहिलो महिला हुन् जसले यो मध्येको कुनै पदको दायित्व सम्भाल्दै आएकी छिन् । फोर्ब्स द्वारा विश्वको सबैभन्दा शक्तिशाली महिला वर्ष 2014 को सूचीमा एन्जेला मर्केल प्रथम स्थानमा रहेकी छिन् । 2013 को जारी सूचीमा पनि उनी प्रथम स्थानमा रहेकी थिइन् । ",
+    "मर्केलको जन्म सन् 1954 मा पश्चिम जर्मनीमा एन्जेला डोरिथिय क्यासनरको रुपमा भयो । उनका बाबू होर्सट बरलिनकै स्थानीय थिए, आमा अङ्ग्रेजी र लेटिनको शिक्षिका थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 442,
+    "text_length_avg": 238.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3085,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7016.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7016.txt",
+    "relative_path": "7016.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7016.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3085,
+    "mtime": 1782796592.5304782,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2dcdd225f227d0a4261c157f116659ff0a9de2de",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

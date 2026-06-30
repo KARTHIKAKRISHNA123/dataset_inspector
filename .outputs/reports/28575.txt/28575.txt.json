@@ -1,0 +1,96 @@
+{
+  "dataset": "28575.txt",
+  "file_name": "28575.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल सरकारशिक्षक सेवा आयोगसानोठिमी, भक्तपुर, hhdgyruggdutyegxteiनेपालफोन : 6637872फ्याक्स : 6637873ईमेल : info@tsc.gov.np",
+    "www.cbcomputerinstitute.blogspot.com"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 122,
+    "text_length_avg": 79.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5246,
+      "Devanagari": 0.4754
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 276,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.5246,
+      "Devanagari": 0.4754
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28575.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28575.txt",
+    "relative_path": "28575.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28575.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 276,
+    "mtime": 1782796528.8646832,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "ebb675862f6ab081fc138dce7b9a238b29b7dc75",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

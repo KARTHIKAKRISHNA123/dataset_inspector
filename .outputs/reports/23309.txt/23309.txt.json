@@ -1,0 +1,92 @@
+{
+  "dataset": "23309.txt",
+  "file_name": "23309.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माघी नेपालमा बसोबास गर्ने थारू समुदायले मनाउने प्रमुख चाड हो। माघीलाई थारूहरूको मौलिक संस्कृतिले भरिएको सबैभन्दा ठूलो पर्वको रूपमा लिइन्छ। ",
+    "माघे सङ्क्रान्तिको अघिल्लो दिन अर्थात् पुसको अन्तिम दिन घर घरमा सुँगुर काट्ने चलन छ, जसलाई 'जिता मरना दिन' भनिन्छ । पुस मसान्तमा घरघरमा सुँगुरको मासु, ढिकरी -पिठोको एक परिकार), माछालगायतको परिकार बनाएर जाँड-रक्सीको साथ खानपिन गरेर रातभर नाचगानका साथ रमाइलो गर्ने प्रचलन छ । यतिबेला 'सखियै हो, माघीक पिली गुरी जाँर' भन्ने गीत सबैको मुखमा झुण्डिएको हुन्छ । माघीमा गाइने गीतलाई 'धमार' भनिन्छ । माघीमा नाचिने विशेष मघौटा नाच अघिपछि पनि लोकपि्रय छ । माघे सङ्क्रान्तिको दिन बिहान सबै जना नजीकैको खोलानालामा"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 875,
+    "text_length_avg": 543.1,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14433,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23309.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23309.txt",
+    "relative_path": "23309.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23309.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14433,
+    "mtime": 1782796504.5718193,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1ab49053f072769c2a3215dd74eeb09c16fb6f0d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

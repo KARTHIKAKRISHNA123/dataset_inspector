@@ -1,0 +1,134 @@
+{
+  "dataset": "dataset.jsonl",
+  "file_name": "dataset.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "id",
+    "text",
+    "source",
+    "subject",
+    "grade",
+    "chapter_index",
+    "chapter_title",
+    "segment_index",
+    "tokens_approx",
+    "chars",
+    "chunk_unit"
+  ],
+  "preview": [
+    "सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा कक्षा १२ शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय सानोठिमी, भक्तपुर प्रकाशक शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय सानोठिमी, भक्तपुर (८ सर्वधिकार पाठ्यक्रम विकास केन्द्र यस पाठ्यपुस्तकसम्बन्धी सम्पूर्ण अधिकार पाठ्यक्रम विकास केन्द्र सानोठिमी, भक्तपुरमा निहित रहेको छ | पाठ्यक्रम विकास केन्द्रको लिखित स्वीकृतिबिना व्यापारिक प्रयोजनका लागि यसको पुरै वा आंशिक भाग हुबहु प्रकाशन गर्न, परिवर्तन गरेर प्रकाशन गर्न, कुनै विद्युतीय साधन वा अन्य प्रविधिबाट रेकर्ड गर्न र प्रत",
+    "एकाइ २ जीवनोपयोगी सिपका रूपमा डिजिटल सिपहरू तथा सामान्य अनुसन्धान सिपहरू ९-४६ पाठ १ अनुसन्धान परिचय ९ पाठ २ सामाजिक अध्ययनमा सहसम्बन्ध तथा कार्यकारण सम्बन्धको अवधारणा १३ पाठ ३ अध्ययन प्रस्तावनाको संरचना १६ पाठ ४ लेखनकार्यमा अरूको लेखरचनाको प्रयोग गर्दा ध्यान दिनुपर्ने नैतिक पक्ष १९ पाठ ५ सामाजिक अध्ययनका लागि समस्या निर्माण र अध्ययन विधि चयन २३ पाठ ६ सामाजिक तथ्याङ्क र सूचना सङ्कलनका विधि र साधनहरू २७ पाठ ७ तथ्याङ्क तथा सूचनाको विश्लेषण र प्रस्तुतीकरण ३१ पाठ क तथ्याङ्क प्रशोधन र विश्लेषणमा माइक्"
+  ],
+  "statistics": {
+    "records_sampled": 5634,
+    "missing_text": 0,
+    "text_length_min": 268,
+    "text_length_max": 3745,
+    "text_length_avg": 2911.1,
+    "duplicate_estimate": 308,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9455,
+      "Latin": 0.0545
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 42226198,
+    "estimated_records": 13907
+  },
+  "schema": {
+    "columns": [
+      "id",
+      "text",
+      "source",
+      "subject",
+      "grade",
+      "chapter_index",
+      "chapter_title",
+      "segment_index",
+      "tokens_approx",
+      "chars",
+      "chunk_unit"
+    ],
+    "n_columns": 11,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": "source",
+    "target_column": null,
+    "metadata_columns": [
+      "id",
+      "subject",
+      "grade",
+      "chapter_index",
+      "chapter_title",
+      "segment_index",
+      "tokens_approx",
+      "chars",
+      "chunk_unit"
+    ],
+    "estimated_records": 13907,
+    "raw_schema": {
+      "id": "str",
+      "text": "str",
+      "source": "str",
+      "subject": "str",
+      "grade": "int",
+      "chapter_index": "int",
+      "chapter_title": "str",
+      "segment_index": "int",
+      "tokens_approx": "int",
+      "chars": "int",
+      "chunk_unit": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "dataset.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\dataset.jsonl",
+    "relative_path": "dataset.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "dataset.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 42226198,
+    "mtime": 1782735412.6887963,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "23faebed63f860c6fc79ed23a8e92636c4264940",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

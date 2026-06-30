@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10495.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपिडव म्यानमार को नयाँ राजधानी हो । नेपिडव को अर्थ राजसी नगर हुन्छ । यसको एक अनुवाद राजाहरूको घर पनि हो । 6 नोभेम्बर 2005 मा नेपिडव लाई बर्मा को प्रशासनिक राजधानी घोषित गरियो । राजधानी को नाम 27 मार्च 2006 मा म्यानमार को सशस्त्र बल दिवस को दिन घोषित गरिएको हो । यो नगर बर्मा को पुरानो राजधानी याङ्गोन बाट उत्तरमा लगभग 300 किलोमीटरको दूरीमा अवस्थित छ । यो याङ्गोन र माण्डाले भन्दा पछि म्यानमार को तेस्रो सबै भन्दा धेरै जनसङ्ख्या भएको शहर हो । सन 2009 मा यहाँको जनसङ्ख्या लगभग 9,25,000 थियो ।",
+    "नेपिडव को अर्थ बर्मेली भाषा अनुसार \"राजाको निवास\" भन्ने हुन्छ र सामान्य रूपमा यसको अनुवाद \"शाही राजधानी\" गरिएको छ । परम्परागत रूपमा, यो शाही राजधानीहरूको नामहरूमा प्रत्ययको रूपमा प्रयोग गरिएको थियो, जस्तै माण्डालिया, जसलाई ရတနာပုံနေပြည်တော် भनिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 24,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 545,
+    "text_length_avg": 93.21,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5859,
+    "estimated_records": 62
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 62,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10495.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10495.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10495.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5859,
+    "mtime": 1782796607.5568216,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cbf8af62af3df883ab3c80293d8b4df0c14ce0fc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26169.txt",
+  "file_name": "26169.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृथ्वी वीर विक्रम शाह नेपालका आठौँ शाह वंशीय राजा हुन् । यिनको वि.सम. 1932मा युवराज श्री 5 त्रैलोक्य विक्रम शाहका जेठा सुपुत्रको रूपमा जन्म भएको थियो। यिनी 6 वर्षको उमेरमा यिनका हजुरबुबा श्री 5 सुरेन्द्रको मृत्युपछि वि. सम. 1938को श्रावण महिनामा राजा भएका थिए। यिनको मृत्यु वि.सम. 1968मा 29 वर्षको शासनकालपछि भएको थियो। ",
+    "यिनको पालामा भएका प्रमुख केहि घटनाहरू तथा निर्माण कार्यहरू"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 320,
+    "text_length_avg": 155.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1622,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26169.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26169.txt",
+    "relative_path": "26169.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26169.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1622,
+    "mtime": 1782796517.828554,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "7c8d75f070c5770750b18aba621dc5952bb485e2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

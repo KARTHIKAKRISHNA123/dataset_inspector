@@ -1,0 +1,92 @@
+{
+  "dataset": "22480.txt",
+  "file_name": "22480.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तुलसी क्षेत्री जनआन्दोलन-2मा शहादत प्राप्त गर्ने शहीद हुन्।",
+    "2062 चैत 26 गते भरतपुरको मालपोत चोकमा चारैतिरबाट जुलुस ओइरियो।मध्याह्नको चर्को घामले आलसतालस आन्दोलनकारीलाई शीतल पार्न वरपरका घरघरबाट स्थानीय बासिन्दा पानी छ्यापिरहेका थिए। कोही बोतलमा पानी भरेर ख्वाउँदै थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 208,
+    "text_length_avg": 105.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1992,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22480.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22480.txt",
+    "relative_path": "22480.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22480.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1992,
+    "mtime": 1782796500.9845774,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "6b883bac52d552f4666f98371a1158128c6435d4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

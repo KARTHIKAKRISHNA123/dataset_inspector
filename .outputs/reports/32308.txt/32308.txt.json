@@ -1,0 +1,94 @@
+{
+  "dataset": "32308.txt",
+  "file_name": "32308.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बज्जिका मुख्यतः भारतको बिहारमा तिरहुत प्रमण्डलको चार जिल्लाहरू शिवहर जिल्ला, सीतामढी जिल्ला,मुजफ्फरपुर जिल्ला, वैशाली जिल्ला र दरभंगा प्रमण्डलको समस्तीपुर जिल्ला र मधुबनी जिल्लाको पश्चिम भागमा बोलिन्छ। भारतमा सन 2001 को जनगणना अनुसार यी जिल्लाहरूका लगभग 1 करोड 15 लाख मानिसले बज्जिका बोल्ने गर्छन। नेपालको रौतहट जिल्ला र सर्लाही जिल्ला र यस्को छेउ छाउको तराई क्षेत्रमा बस्ने नागरिकले पनि बज्जिका भाषा बोल्ने गर्छन। वर्ष 2001 को सर्वेक्षण अनुसार नेपालमा 2,38,000 मान्छेहरू बज्जिका बोल्छन। उत्तर बिहारम",
+    "बज्जिका नेपालमा बोलिने एक प्रमुख भाषा हो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 588,
+    "text_length_avg": 166.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9945,
+      "Latin": 0.0055
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1754,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9945,
+      "Latin": 0.0055
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32308.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32308.txt",
+    "relative_path": "32308.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32308.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1754,
+    "mtime": 1782796546.5111158,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "15196ea4e8eb2ecb173e87f399f7b68d106fd912",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

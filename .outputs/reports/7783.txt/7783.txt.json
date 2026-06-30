@@ -1,0 +1,92 @@
+{
+  "dataset": "7783.txt",
+  "file_name": "7783.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीखण्ड चन्दन बनाउन प्रयोग गरिने वासनादार काठ दिने वनस्पति हो ।",
+    "जान्नेलाई श्रीखण्ड नजान्नेलाई खुर्पाको बिड भन्ने उखान नेपाली समाजको लागि कुनै नौलो उखान भने पक्का होइन, तथपी नेपालमा श्रीखण्डको प्रयाप्तता भने अवस्य पनि कम छ । हुन त श्रीखण्ड नेपाली प्रजाती होइन । नेपाली प्रजाती नभए पनि नेपालीमा चलेको उखान तथा अधिकाशं नेपालीहरु तथा हिन्दु धर्म मान्ने भएका हुदाँ नेपालमा यसको बढी उत्पादन हुनु पर्ने अथवा प्रत्येक घर घरमा पाइन पर्ने जस्तो लाग्छ । जस्तै नेपाली समाजमा तुलसीको कुरा गर्ने हो भने तुलसी प्रत्येकको घरमा पाइन्छ । त्यस्तै गरी पीपल, कुश, शालिग्राम साथै चाहिने"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 1730,
+    "text_length_avg": 751.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13927,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7783.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7783.txt",
+    "relative_path": "7783.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7783.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13927,
+    "mtime": 1782796596.0904768,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a417fd63e481a29ddf3b92b86d461ad921465056",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

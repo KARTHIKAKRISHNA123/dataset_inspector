@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26353.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामघाटधाम नेपालको प्रदेश नं. 4 स्थित स्याङ्जा जिल्लामा पर्ने चापाकोट नगरपालिकाको वडा नं. 7 साँखरमा पर्ने अति रमणीय गाउँ, ऐतिहासिक एवं धार्मिक क्षेत्र हो।",
+    "स्याङ्जाको सदरमुकाम पुतलीबजार बाट 57 किलो मीटर दक्षिण-पूर्वको यस धार्मिक रुपमा प्रख्यात यस श्री रामजानकी मन्दिरमा कसैको ध्यान पुग्न सकेको छैन। धार्मिक एवम् ऐतिहासिक आस्था जगाउने राम, जानकी, शिव, लक्ष्मी र नारायण भगवानका मुर्ति रामघाटधाममा रहेका छन्। मन्दिर स्थानीयले निर्माण गरेका हुन्। रामघाटधाममा हिन्दु धर्मालम्वीको शिवरात्री, रामनवमी र अन्य चाडपर्वमा धेरै दर्शनार्थी आउँछन्। रामघाटधाममा रहेका ऐतिहासिक एवम् धार्मिक संरचनाहरु अपहेलित, वेवास्ता र वेवारिसे छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 462,
+    "text_length_avg": 307.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1649,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26353.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26353.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26353.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1649,
+    "mtime": 1782796638.9037657,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4471fe54af13e2065f6c3d4733827045cdf05259",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

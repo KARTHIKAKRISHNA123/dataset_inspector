@@ -1,0 +1,91 @@
+{
+  "dataset": "19876.txt",
+  "file_name": "19876.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नाजीवाद, रष्ट्रिय समाजवादी जर्मन मजदुर पार्टीको छोटकरी जर्मन नाम 'नाजी' थियो । यो पार्टी चर्चित तानाशाह एडोल्फ हिटलरको पार्टीको थियो । यो पार्टीको शासनसत्ता कब्जा गरेपछि जर्मन नागरिकहरूको राष्ट्रवादी भावनालाई दुरूपयोग गर्दै कठोर तानाशाही शासन सन् 1919 बाट शुरु गयो । यस पार्टी र हिटलरले गरेको चरम दमन र नरसंहारले गर्दा नाजीवाद भन्ने शब्द कठोर, निर्मन, दमनकारी, अमानदीय शासन व्यवस्थाको रूपमा स्थापित भयो । जर्मनहरूको अन्ध-राष्ट्रवादी र जर्मनहरू सर्वश्रेष्ठ छन् भन्ने घमण्डी भावनालाई नाजीवादले अघि बढाय"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 760,
+    "text_length_max": 760,
+    "text_length_avg": 760.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2021,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19876.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19876.txt",
+    "relative_path": "19876.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19876.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2021,
+    "mtime": 1782796489.0873992,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "419939624ed3a2bf6388bcbf285bea4f65e58d73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

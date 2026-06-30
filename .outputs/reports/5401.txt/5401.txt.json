@@ -1,0 +1,92 @@
+{
+  "dataset": "5401.txt",
+  "file_name": "5401.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुटु बाट बाहिरिने र भित्र पस्ने रगतद्वारा रक्त नलिमा परेको चाप लाई रक्तचाप भनिन्छ |",
+    "सामान्य रक्तचाप भनेको 120/80 हो। 18 वर्षभन्दा माथिका मानिसमा यदि माथिल्लो ब्लड प्रेसर 140 अथवा त्यसभन्दा बढी र तल्लो -डायस्टोलिक) ब्लड प्रेसर 90 वा त्यसभन्दा बढी पुगे उच्च रक्तचाप भएको मानिन्छ। कार्डियोभास्कुलर रोगका कारण मान्छेको मृत्युसमेत हुनसक्ने खतरा त्यतिखेर उत्पन्न हुनसक्छ, तब सामान्यतया 115/75को रक्तचापमा 20/10 का दरले बढ्दै दोब्बर हुनसक्छ। सामान्य रक्तचाप भएको 55 वषर्ीय व्यक्तिलाई जीवनमा उच्च रक्तचाप हुने खतरा 90 प्रतिशत हुनसक्छ। उच्च रक्तचाप भएको व्यक्तिमा टाउको दुख्ने, झुम्म पार्ने जस"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 636,
+    "text_length_avg": 388.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5141,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5401.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5401.txt",
+    "relative_path": "5401.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5401.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5141,
+    "mtime": 1782796584.9565084,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c53cdcd2dc3fdc7f9d028c221e34bed941034342",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

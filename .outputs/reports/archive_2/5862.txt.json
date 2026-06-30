@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5862.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेन्जामिन ग्राहमद्वारा इन्टेलिजेन्ट इन्भेस्टर, पहिलो 1949 मा प्रकाशित, मूल्य लगानीको एउटा प्रख्यात पुस्तक हो।",
+    "बेञ्जामिन ग्राहमले लेखेको किताब ‘द इन्टेलिजेन्ट इन्भेस्टर’लाई वारेन बफेट आफ्नो व्यावसायिक जीवनका लागि पथ प्रदर्शक ठान्छन् । बफेटका अनुसार बेञ्जामिन ग्राहमको यो किताब पढेपछि नै उनले लगानीका कयौं मन्त्रहरु सिके, यसको सोझो फाइदा उनको पोर्टफोलियोलाई भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 654,
+    "text_length_avg": 213.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5696,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5862.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5862.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5862.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5696,
+    "mtime": 1782796667.3645043,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "917c9cd01623572731fe8cd6cc48fa6ba05e5c68",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

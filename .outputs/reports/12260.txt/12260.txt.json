@@ -1,0 +1,92 @@
+{
+  "dataset": "12260.txt",
+  "file_name": "12260.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उज्यालो एफ् एम् 90 मेहगाहर्जमा काठमाडौ र यसको आसपासको क्षेत्रमा र देश भर बिभिन्न समुदयिक रेडियोहरूद्वर रिले प्रशारण गरिने साहित्यिक कार्यक्रम हो।उत्पदकहरूले यसलाई बुलबुल - एउटा ईरानी चराभन्ने उपनाम दिएका छन।",
+    "उज्यालो रेडियो नेटवर्कबाट हरेक बुधवार राती 9 बजेर 15 मिनेटमा प्रसारण हुने यस कार्यक्रम गजलको कार्यक्रम हो। यसमा नेपाली गजल र गजलका श्रष्टाहरुका बारेमा विभिन्न विषयमा चर्चा हुने गरेको छ। यस कार्यक्रममा गजलकारहरुको अन्तरवार्ता पनि हुने गरेको छ। यसका प्रस्तुता अच्युत घिमिरेको हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 23,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 279,
+    "text_length_avg": 87.26,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4860,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12260.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12260.txt",
+    "relative_path": "12260.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12260.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4860,
+    "mtime": 1782796453.1684399,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "db024aa49b241cdce605a482402cdb7dbe9fce9d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

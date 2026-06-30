@@ -1,0 +1,93 @@
+{
+  "dataset": "7808.txt",
+  "file_name": "7808.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चुरा एक प्रकारको गहना हो । चुरा सुन, चाँदि, पित्तल, काँच, प्लास्टिक आदिबाट बनेको हुन्छ । सामान्यतया महिलाहरूले गहनाका रूपमा नाडीमा लगाउने गर्छन् । यी गोलाकार हुन्छन् । यो महिलाहरूको प्रमुख गहना हो । चुरा विभिन्न रंगका पाइन्छन् । यी जडिएका र साधारण दुवै हुन्छन् । हिन्दू परम्पराअनुसार विधवाहरूले काँच वा प्लास्टिकका रंगीन चुराहरू लगाउँदैनन् । चुरालाई चुरी पनि भनिन्छ। तिजमा हिन्दुहरू यसको प्रयोग गर्छन्| तिजमा महिलाहरूले यसलाई नाडीमा लगाउँछन्| तिजको मुख्य पहिरन मध्य एक पहिरनमा हरीयो चुरा पर्छl"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 493,
+    "text_length_max": 493,
+    "text_length_avg": 493.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9976,
+      "Latin": 0.0024
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1311,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9976,
+      "Latin": 0.0024
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7808.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7808.txt",
+    "relative_path": "7808.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7808.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1311,
+    "mtime": 1782796596.2170973,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "609c40e5b7e7922e5cd741567e6f96e5608371dc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

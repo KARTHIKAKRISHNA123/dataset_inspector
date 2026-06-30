@@ -1,0 +1,92 @@
+{
+  "dataset": "33670.txt",
+  "file_name": "33670.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चलचित्र कलाकार किशोर मालाकारको जन्म वि.सं. 2010 साल भदौमा भएको थियो। उहाँले करिब दुई दशक अभिनय गर्नुभयो। उनको 2055 साल मंसिर 4 गते निधन भयो। उहाँका श्रीमती, तीन छोरा र दुई छोरी हुनुहुन्छ। उहाँले 'के घर के डेरा' नामको नेपाली चलचित्रमा पहिलोपटक अभिनय सुरू गर्नुभएको थियो। ",
+    "1 सय 25 किलोग्राम तौल, ठूलो शरीर र अजंगको अनुहारका कारण चलचित्रहरूमा मूलतः खलनायककै भूमिका गर्नुभयो। उहाँले विश्वास, हामी एक हौँ, चेलीबेटी, लोभीपापी, माया, अन्याय, शिलु, सरस्वती, सक्कली-नक्कली, सुनचाँदी, रक्षा, मायाप्रीति, गरीब, युगदेखि युगसम्म आदि करिब तीन दर्जन जति ठूलो पर्दाका चलचित्रका साथै थुप्रै भिडियो चलचित्र र केही टेलिश्रृंखलाहरूमा समेत साना-ठूलो सबैखाले अभिनय गर्नुभयो। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 175,
+    "text_length_max": 382,
+    "text_length_avg": 275.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2160,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33670.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33670.txt",
+    "relative_path": "33670.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33670.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2160,
+    "mtime": 1782796552.6398995,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "eee7ea3319524b66f09d75699d6b48050f8d51fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "238.txt",
+  "file_name": "238.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनआन्दोलन 2 नेपालमा भएको शान्तिपूर्ण आन्दोलन थियो जुन 19 दिनसम्म चलेको थियो। यस आन्दोलनले नेपालको 2 सय 37 वर्ष पुरानो राजतन्त्र ढालेर देशमा लोकतान्त्रिक गणतन्त्रको जग बसाल्यो। यस आन्दोलनमा विभिन्न राजनीतिक पार्टी र शसस्त्र युद्ध गरिरहेको माओवादी समेत सम्मिलित भएको थियो। ",
+    "2046मा भएको जनआन्दोलनबाट पञ्चायती व्यवस्था ढलेर संसदीय व्यवस्था र संवैधानिक राजतन्त्र स्थापना भएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 1074,
+    "text_length_avg": 311.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7485,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "238.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\238.txt",
+    "relative_path": "238.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "238.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7485,
+    "mtime": 1782796506.8767302,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "78fb528e4b5a9500a94bee3cf847c8ede5ce53c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

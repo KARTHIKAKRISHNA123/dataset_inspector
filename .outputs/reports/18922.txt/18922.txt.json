@@ -1,0 +1,94 @@
+{
+  "dataset": "18922.txt",
+  "file_name": "18922.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अरब पेट्रोल निर्यातक राष्ट्रहरुको संघ कुवेतमा मुख्यालय भएको एक बहु-सरकारी संगठन हो जसले तेल उत्पादन गर्ने अरब राष्ट्रहरु बीच समान उर्जा नीति बनाउन समन्वय गर्ने भूमिका निर्वाह गर्छ । ओएपेक को मुख्य लक्ष्य भनेको तेल उद्योगका आर्थिक क्रियाकलापका विभिन्न पक्षहरुको साझा स्वार्थको सुरक्षा गर्नु तथा तिनीहरु बीच बलियो सम्बन्ध कायम गर्नु हो, उपभोक्तालाई तेल बजारमा न्यायोचित र वास्तविक मुल्य र सर्तमामा पहुच पुर्याउनु र तेल उद्योगका लगानीकर्तालाई पर्याप्त पूजी तथा अनुभव प्रदान गर्नु हो । ",
+    "9 जनवरी 1968 मा अरबको तत्कालिन तीन अनुदारवादी तेल उत्पादक राष्ट्र- कुवेत, लिबिया र साउदी अरब 6 दिने युद्धको प्रतिक्रिया दिन बेरुत, लेबनानमा भएको वार्तामा अरब पेट्रोल निर्यातक राष्ट्रहरुको संघको स्थापना गर्ने निचोडमा पुगे । आर्थिक प्रतिरोध जस्तो आर्थिक हतियार इजरायल बिरुद्ध पटकपटक प्रस्तावव गरिएको थियो, तर 6-दिने युद्ध भए पछी मात्र यो हतियारको प्रयोग भयो । तथापी साउदी अरबको तेल उत्पादन त्यो बर्ष मात्रै 9 प्रतिशतले वृद्धि भयो र मुख्य व्यापार-प्रतिरोध 10 दिन सम्म मात्र चल्यो र खार्तुम सम्मेलन पछी य"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 927,
+    "text_length_avg": 406.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9923,
+      "Latin": 0.0077
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7475,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9923,
+      "Latin": 0.0077
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18922.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18922.txt",
+    "relative_path": "18922.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18922.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7475,
+    "mtime": 1782796484.5752952,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "1f605a1120bc9a0f4eb4fd66cb7a5df9bddacfc9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

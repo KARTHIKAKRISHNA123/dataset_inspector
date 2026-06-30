@@ -1,0 +1,92 @@
+{
+  "dataset": "19753.txt",
+  "file_name": "19753.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल आर्मीले राखेप च्याम्पियनसिपअन्तर्गत 14 औं राष्ट्रिय तेक्वान्दो प्रतियोगितामा 2074 माघ 06 गते शनिबार सर्वाधिक 9 स्वर्ण जितेको थियो ।दक्षिण एसियाली खेलकुदकी दोहोरो स्वर्ण विजेता एवं छनोट चरण पार गरेर ओलम्पिकमा सहभागी हुने पहिलो नेपाली खेलाडी संगीना वैद्यको प्रशिक्षणमा रहेको आर्मीले गेरोगीमा 7 स्वर्ण, 5 रजत र 3 कांस्य जित्यो भने पुम्सेमा 2 स्वर्ण, 2 रजत र 1 कांस्य हात पारेको थियो।",
+    "दोश्रो स्थानमा रहेको नेपाल प्रहरी क्लबले गेरोगीमा 6 स्वर्ण, 4 रजत र 3 कांस्य जित्यो । पुम्सेमा प्रहरीले 2 स्वर्ण, 1 रजत र 2 कांस्य प्राप्त गर्यो । नेपाल एपीएफ क्लबले तेश्रो स्थानमा चित्त बुझायो ।गेरोगीमा 2 स्वर्ण, 3 रजत र 3 कांस्य जितेको एपीएफले पुम्सेमा 1 स्वर्ण र 2 कांस्य हासिल गर्यो । विभागीय टिम बाहेक गेरोगी र पुम्सेमा मध्यमाञ्चल र पूर्वाञ्चलका 1-1 खेलाडीले स्वर्ण जिते ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 260,
+    "text_length_max": 744,
+    "text_length_avg": 461.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7219,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19753.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19753.txt",
+    "relative_path": "19753.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19753.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7219,
+    "mtime": 1782796488.4941435,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "17b861aaf9d1b46bda611b6c126dae84ed9343a2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

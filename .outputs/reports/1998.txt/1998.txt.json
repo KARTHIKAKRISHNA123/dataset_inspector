@@ -1,0 +1,92 @@
+{
+  "dataset": "1998.txt",
+  "file_name": "1998.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालमा महिलाको अबस्था- विश्वका धेरै मुलुकहरूमा जस्तै नेपालमा पनि महिला र पुरुष बिच ठुलो बिभेदको अवस्था छ। यँहाको सामाजिक,आर्थिक, शैक्षिक,राजनितिक,प्रसाशनिक लगायतका सबै क्षेत्रमा पुरूषको तुलनामा महिलाको पँहुच ज्यादै न्यून रहेको छ। नेपालमा कुल जनसङ्ख्याको आधा भन्दा बडी हिस्सा ओगटेका महिलाहरू राज्यका हरेक पक्षमा पिछडिएका छन्। परम्परागत रूपमा जातपातको भेदभाव, चाँडो विबाह,छोराको महत्व जस्ता मान्यता जस्ता कारणले महिलाको स्थर विकास हुन सकेको छैन। लैगिक भिन्नताका कारण लैंगिक असमानता, साधन र स्रोतको अवस",
+    "आत्मनिर्भर बनाउने तथा निर्णय प्रक्रियामा सशक्त बनाउन महत्बपुर्ण भुमिका खेल्ने शक्ति हो, आर्थिक शक्ति। नेपालमा महिलाको आर्थिक आवस्था त्यति राम्रो देखिदैन।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 153,
+    "text_length_max": 931,
+    "text_length_avg": 474.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5041,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1998.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1998.txt",
+    "relative_path": "1998.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1998.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5041,
+    "mtime": 1782796489.5709956,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f914fd034e9af709af82cdc256edaf248761e232",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

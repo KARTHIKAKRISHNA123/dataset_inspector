@@ -1,0 +1,94 @@
+{
+  "dataset": "15255.txt",
+  "file_name": "15255.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सञ्चार भनेको विचार र जानकारी को आदानप्रदान गरिने प्रक्रिया हो। वास्तवमा सञ्चार सुचना, तथ्यान्क एबम जानकारी प्रबाह गर्ने प्रणाली तथा प्रकृया दुबै हो । यो शब्द ल्याटिन भाषाको शब्द बाट आएको हो । जसको अर्थ साझापन commonness वा ब्यक्तिहरुको साझा अनुभव भन्ने हुन्छ । सञ्चारका सबै भन्दा सुलभ रूपहरू यी हुन्:",
+    "साथीसँग कुरा गर्नु, किताब पढ्नु, माया गर्नेलाई अँगालो हाल्नु सञ्चारका सामान्य रूप हो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 85,
+    "text_length_max": 300,
+    "text_length_avg": 168.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9762,
+      "Latin": 0.0238
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1329,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9762,
+      "Latin": 0.0238
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15255.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15255.txt",
+    "relative_path": "15255.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15255.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1329,
+    "mtime": 1782796466.7214093,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "81c0e1b611b3a10e2f0fa29cb8cfe269d9464132",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

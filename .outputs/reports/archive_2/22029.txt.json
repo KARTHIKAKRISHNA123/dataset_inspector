@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विराज महर्जन नेपालका एक फुटबल खेलाडी हुन् । नेपाल राष्ट्रिय फुटबल टिमका लागि 2008 मा उनले पहिलो उपस्थिति बनाए । नेपाल फुटबल टोलीका लागि चौथो सबैभन्दा धेरै पटक उनले कप्तानको पद सम्हालेका छन् । उनि नेपाल राष्ट्रिय फुटबल टोलीका नयाँ नियुक्त कप्तान हुन ।",
+    "विराज महर्जन एक नेपाली डिफेन्डर हुन्।उनि एन्फा एकेडेमीको उत्पादन हुन्।थ्री स्टार क्लब खेल्ने उनी सन् 2007-2015 सम्म उक्त क्लबबाट खेलेका थिए । हाल मनाङ मर्स्याङ्दी क्लबबाट व्यावसायिक फुट्बल खेल्छन।महर्जनले क्लबबाट 11 घरेलु गोल तथा नेपालका लागि 1 गोलको योगदान समेत गरिसकेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 124,
+    "text_length_max": 374,
+    "text_length_avg": 256.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2690,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22029.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2690,
+    "mtime": 1782796630.3126574,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8c403cbe0d4c336af256f8756619e0ba3eea4026",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31037.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिवाजी साटम  एक भारतीय टेलिभिजन र फिलिम अभिनेता हुन् । पूर्व बैंक अधिकारी रहेका साटम धेरै हिन्दी र मराठी फिल्महरूमा देखा पर्नुभय ।",
+    "शिवाकी साटम एक मराठी भाषी परिवारमा जन्मिएक थिए। उनले रसायन विज्ञान मा स्नातक पूरा गरे र पछि उनले बिजनेस एडमिनिस्ट्रेशन मा डिप्लोमा पनि गरे। उनले वर्ली नाका शाखामा बैंक क्याशियर को रूपमा देना बैंकमा रोजगारी गरेर आफ्नो व्यावसायिक क्यारियर सुरु गरे। बैंकमा काम गर्दा गर्दै उनी थिएटरसँग पनि सम्बन्धित रहे र अभिनय गर्न सुरु गरे। उनले आफ्नो पहिलो प्रमुख ब्रेक एक अभिनेता को रूपमा पाए जब उनले थियेटर मा एक भूमिका निभाए जो पौराणिक मराठी थिएटर अभिनेता बाल धुरी द्वारा प्रदान गरिएको थियो। हिन्दी धारावाहिक सीआई"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 130,
+    "text_length_max": 661,
+    "text_length_avg": 395.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2087,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31037.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31037.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31037.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2087,
+    "mtime": 1782796648.164436,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "71b0cd85fda48e156449f3b7dc9d6036e54b2998",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

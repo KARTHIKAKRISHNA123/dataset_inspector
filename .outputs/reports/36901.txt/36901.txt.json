@@ -1,0 +1,92 @@
+{
+  "dataset": "36901.txt",
+  "file_name": "36901.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्तर्राष्ट्रिय खगोलीय संघ एउटा व्यवसायिक खगोलशास्त्रीहरूको सङ्गठन हो । जसको केन्द्रिय सचिवालय पेरिस, फ्रान्समा अवस्थित छ । संघ खगोलशास्त्रको क्षेत्रमा अनुसन्धान तथा अध्ययनको निम्ति अन्तरराष्ट्रिय स्तरमा प्रोत्साहनको निमित्त निर्मित गरिएको हो । जब ब्रह्माण्डमा कुनै नयाँ वस्तु दृष्टिगोचर हुन्छ तबा अ॰ख॰स॰ले यसको नामाकरण गर्छ जो अन्तरराष्ट्रिय स्तरमा मान्य हुन्छ ।",
+    "अन्तरराष्ट्रिय खगोलीय संघलाई अङ्ग्रेजी भाषामा \"इंटरनैशनल ऐस्ट्रोनमिकल यूनियन\" तथा फ्रान्सेली भाषामा \"उनियाँ आस्त्रोनोमीक ऐंतेरनास्योनाल\" भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 145,
+    "text_length_max": 363,
+    "text_length_avg": 254.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1389,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36901.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36901.txt",
+    "relative_path": "36901.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36901.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1389,
+    "mtime": 1782796567.646211,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "24e75e8391f1dc0a88128216fbb5b750d7d63614",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

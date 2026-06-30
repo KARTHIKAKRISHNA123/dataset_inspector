@@ -1,0 +1,92 @@
+{
+  "dataset": "18029.txt",
+  "file_name": "18029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुढी नेपालको लुम्बिनी अञ्चलको कपिलवस्तु जिल्लाको एक गाँउ विकास समिति हो। यो ठाउँमा 895 वटा घर छन्।",
+    "नेपालको सन् 2001को जनगणना अनुसार बुढीको जनसंख्या 5278 छ। भने सन् 2011को जनगणना अनुसार यस गाविसको जनसंख्या 5697 छ जसमध्ये पुरुष 2703 र महिला 2994 रहेको 5 । यस गाविसमा कूल घरधुरी संख्या 1108 रहेको छ । कपिलवस्तु जिल्लाको सदरमुकाम देखि करीव 16 किलोमिटर उत्तरतर्फ रहेको छ र सदरमुकाम आवतजावत गर्ने सडक कालोपत्रे समेत रहेको छ । उत्तरमा दुविया गाविस पश्चिममा वरकलपुर र हरिहरपुर गाविस छन् भने दक्षिणमा राजपुर र पूर्वमा जयनगर गाविस रहेको छ । यस मध्य पुरुष 50%, र महिला 50% छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 467,
+    "text_length_avg": 282.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1420,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18029.txt",
+    "relative_path": "18029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18029.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1420,
+    "mtime": 1782796480.1824713,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "e1ec9de799ac4fa6ac6d43fe1fc0799506e28f83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

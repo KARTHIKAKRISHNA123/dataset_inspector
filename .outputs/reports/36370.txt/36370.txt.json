@@ -1,0 +1,92 @@
+{
+  "dataset": "36370.txt",
+  "file_name": "36370.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शान्तिमा नोबेल पुरस्कार वार्षिक रुपमा विश्वमा शान्ति क्षेत्रमा उल्लेखनीय योगदान गर्ने व्यक्तिहरूलाई नर्वेजियन नोबेल समितिले प्रदान गर्दछ । यो 5 नोबेल पुरस्कार रसायन विज्ञान, भौतिक शास्त्र, साहित्य, शान्ति र क्रिया विज्ञान तथा चिकित्सा मध्ये एक हो जसलाई सन् 1895 मा उद्योगपति, आविष्कारक, र शस्त्रहरुको निर्माता अल्फ्रेड नोबेलले स्थापना गरेका थिए । यो त्यस्ता व्यक्तिहरुलाई प्रदान गरिन्छ जसले \"सीमामा खटिएका सेनालाई हटाउने वा घटाउनका लागि र शान्ति कांग्रेसको आयोजन र प्रबर्द्धनका लागि, राष्ट्रका बीच बि",
+    "नर्वेजियन नोबेल समितिको अध्यक्ष प्रत्येक वर्ष 10 डिसेम्बरको दिन मा नर्वेको राजाको उपस्थितिमा नोबेल शान्ति पुरस्कार प्रस्तुत गर्दछ । यो एउटा मात्रै पुरस्कार हो जुन स्टकहोममा प्रदान गरिदैन । शान्तिमा नोबेल पुरस्कार विजेताले स्वर्ण पदक, एउटा वृत्तान्त दिने डिप्लोमा, र मुद्रा सहितको राशि पाउने गर्दछ । 2013 मा यस पुरस्कारको राशी 10 मिलियन स्वीडिश क्रोनर रहेको थियो । सन् 1990 को दशकदेखि नोबेल शान्ति पुरस्कार समारोह ओस्लो सिटी हलमा हुने गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 441,
+    "text_length_max": 1265,
+    "text_length_avg": 853.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4536,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36370.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36370.txt",
+    "relative_path": "36370.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36370.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4536,
+    "mtime": 1782796565.0906262,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8e15717e26d648d690c5af63d0b05606e4896cda",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

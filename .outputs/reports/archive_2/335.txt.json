@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "335.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बृन्दा हाडा लाई सरकारी जागीर खाने सबैले माथिल्लो तहमा पुगेकी सफल महिला भनेर चिन्छन्। सरकारी सेवामा परराष्ट्र, हुलाक, प्रशासन जस्ता सेवा हुन्छन्। प्रशासन सेवामा तीन महिला मात्र सहसचिव तहमा छन्। ती तीन जनामा बृन्दा एक हुनुहुन्छ। बृन्दा खुला लिखित परीक्षा उत्तीर्ण गरी सहसचिव हुने पहिलो महिला हुनुहुन्छ। ",
+    "सानै उमेरमा माथिल्लो तहमा पुग्ने बृन्दाको जन्म 2022 साल असारमा काठमाडौंको भोटाहिटीमा भएको हो। उहाका पिताको नाम विष्णुदास र माता चण्डेश्वरी हाडा हो। रसायनशास्त्रमा एम. एस्सी., कानुनमा स्नातक र जनप्रशासनमा स्नातकोत्तर सम्म पढेकी बृन्दाले थुप्रै देशको भ्रमण गर्नुभएको छ। अहिले अर्थ मन्त्रालयमा सहसचिव हुनुहुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 301,
+    "text_length_max": 308,
+    "text_length_avg": 304.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1633,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "335.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\335.txt",
+    "relative_path": "archive (2)\\valid\\valid\\335.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1633,
+    "mtime": 1782796653.0938594,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1744afd8f6c06d601dbcafb1396f9c8904706b7e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

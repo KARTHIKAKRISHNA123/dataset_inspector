@@ -1,0 +1,92 @@
+{
+  "dataset": "10503.txt",
+  "file_name": "10503.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोबिलिङ्क पाकिस्तान मोबाइल सञ्चार लिमिटेड को एक व्यापारिक नाम थियो । यो पाकिस्तानको एक मोबाइल परिचालकको हो जसले दुवै व्यक्तिगत र कर्पोरेट ग्राहकहरुलाई प्रीपेड र पोष्टपेड सुबिधा सहित भ्वाईस र डाटा का साथ दूरसञ्चार सेवा प्रदान गर्दछ । यसको मुख्यालय पाकिस्तानको राजधानी इस्लामाबादमा अवस्थित छ र हालका प्रमुख कार्यकारी अधिकृत जामसिद शहाजद हुन् । यस नेटवर्कले दक्षिण एसियसमा पहिलो जीएसएम-आधारित मोबाइल सञ्चालक भएको दाबी गरेको छ । यसले पाकिस्तानक 20000 वटा भन्दा बढि शहर, गाउँ वा क्षेत्रहरूमा आफ्नो सेवा क्",
+    "मोबिलिङ्कले 1990 मा पाकिस्तानमा पहिलो जीएसएम सेल्युलर मोबाइल सेवा सुरू गरेको थियो । यो सेफ समूह र मोटोरोला इंकको संयुक्त उद्यम हो । जसले यसलाई पछि इजिप्ट-आधारित बहुराष्ट्रिय कम्पनीमा ओरास्कम दूरसञ्चारलाई बेचेका थिए र त्यसपछि पनि यस कम्पनीलाई भिप्पेलकम टेलिकम, एक रुसी कम्पनीलाई बेचेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 646,
+    "text_length_avg": 290.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5395,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10503.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10503.txt",
+    "relative_path": "10503.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10503.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5395,
+    "mtime": 1782796444.9530654,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e127e6ad8c2237c758027f5d305a78328570eef7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "33624.txt",
+  "file_name": "33624.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " नेपालमा प्राय सबै जात जातिहरूको आ-आफ्नै लिपीहरू छन् । यसैगरी मगर जातिको पनि आफ्नै लिपी छ । प्रत्यक लिपीहरूको संरक्षण हुनु अत्यन्त आवश्यक भएकोले विशेष पहल चाल्नु जरुरी छ । मगर लिपीलाई लोप हुनु बाट जोगाउन विभिन्न स्वदेशी तथा विदेशी मगर सं-संस्थाहरूले अनेकौ प्रयासका कदमहरू चालिसकेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 287,
+    "text_length_max": 287,
+    "text_length_avg": 287.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 762,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33624.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33624.txt",
+    "relative_path": "33624.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33624.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 762,
+    "mtime": 1782796552.4184222,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "14678c95328960f4e66f3d600ada098caa177de0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

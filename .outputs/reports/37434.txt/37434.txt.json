@@ -1,0 +1,92 @@
+{
+  "dataset": "37434.txt",
+  "file_name": "37434.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको पहिलो महिला उपसभामुख लीला श्रेष्ठ सुब्बा थिइन। उनको जन्म 2005 सालमा ताप्लेजुङको सिगैचा 9 साम्मागु पाँचपलेमा भएको थियो। उनका बाबु अम्बरबहादुर मेयाङ्वो र आमा सुकमती हुन्। ",
+    "विद्यार्थी रहँदै 2036 सालदेखि कम्युनिष्ट पार्टीमा सक्रिय उनी 2051 सालको आम निर्वाचनमा सुनसरी क्षेत्र नम्बर-1बाट संसदमा विजयी भएपछि 2055 सालसम्म उपसभामुख भएकी थिएन। पछिल्लो समयमा उनी एमाले केन्द्रीय कमिटी सल्लाहकार समेत रहेकी थिइन।048 सालको पहिलो आमनिर्वाचनमा सुनसरीको क्षेत्र नं. 2बाट सांसदको प्रत्यासी रहे पनि विजयी भइनन। दोस्रो आमनिर्वाचनमा भने सुनसरीको क्षेत्र नं. 1बाट निर्वाचित भइन। 051 सालमा तत्कालिन उपसभामुख रामविलास यादवले राजिनामा दिएर उद्योग वाणिज्य मन्त्री भएपछि सुब्बा सर्वसम्मत उक्त पदम"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 79,
+    "text_length_max": 614,
+    "text_length_avg": 246.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2597,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37434.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37434.txt",
+    "relative_path": "37434.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37434.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2597,
+    "mtime": 1782796570.2500992,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "40cdda0ac708fff623116b8b3e36ea0500ed7c27",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

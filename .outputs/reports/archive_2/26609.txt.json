@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26609.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्टरनेट, कम्प्युटर विद्युतीय प्रविधि अन्तर्गत विकास भएको एक बिश्वब्यापी सञ्जाल वा कम्प्युटरहरूको समूह हो जसमा संसार भरिका कम्प्युटर सँग सम्बन्धित उपकरणहरू एक अर्कासँग सम्पर्कमा रही सूचना हरू आदान प्रदान गर्न सक्छन । सन् 2000 को दशक यता सूचना प्रविधिको क्षेत्रमा बिश्वब्यापी रूपमा आएको क्रान्तिकारी परिवर्तनको पछाडि प्रमुख कारक तत्व इन्टरनेट नै रहेको छ । शुरुका दिनहरूमा इन्टरनेट सेवा पुरानो टेलिफोन र भू-उपग्रह प्रविधि मार्फत उपलब्ध थियो । इन्टरनेट सेवा एक विशेष तर सानो आकार बाट शुरु भएर हाल सञ्चार",
+    "इन्टरनेटको इतिहास, सन् 1950 को दशकतिर सुरु भयो । जब कम्प्युटर नेटवर्क प्रणालीको आविस्कार भयो । सन् 1982 मा टिसिपि-आईपि मापदण्ड तोकिए लगत्तै इन्टरनेटको जन्म भएको हो । बिगतमा इन्टरनेटलाई ARPANET भनिन्थ्यो, जसको संजाल सुरुमा केवल चारवटा विश्वविद्यालयमा सिमित थियो : युसिलए, युसियसबि, स्ट्यान्फोर्ड् रिसर्च् इन्स्टिट्युट् र युताह विश्वविद्यालय। सित युद्धकालिन परिस्थितिमा कुनै पनि स्थानमा भरपर्दो किसिमले सुचना आदान प्रदान गर्नको लागि इन्टरनेट संजालको परिकल्पना गरिएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 733,
+    "text_length_avg": 310.47,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9879,
+      "Latin": 0.0121
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13974,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26609.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26609.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26609.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13974,
+    "mtime": 1782796639.406185,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3b5cda87c41903c9591272e8300866d7a2315de0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

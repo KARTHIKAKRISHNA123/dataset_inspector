@@ -1,0 +1,92 @@
+{
+  "dataset": "31465.txt",
+  "file_name": "31465.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जगदम्बाकुमारी मेजर जनरल मदनशमशेर जबराकी पत्नी हुन्। उनकै नाममा जगदम्बाश्री पुरस्कार स्थापना भएको हो।",
+    "वि.सं. 1975 साल साउन गुरूपूर्णिमाका दिन भारतको उत्तर प्रदेश बलरामपुरमा जगदम्बाकुमारीको जन्म भएको थियो। उनको विवाह लेफि्टनेन्ट जर्नेल मदनशमशेर जबरासँग भएको थियो। वि.सं. 2010 म मदनशमशेरको बनारसमा निधन भयो। त्यसपछि रानी जगदम्बाले वि.सं. 2011मा ललितपुर जिल्लाको पुल्चोकमा मदन मेमोरियल गर्ल्स हाईस्कूल को स्थापना गरी 26 रोपनी जग्गामा, दुइवटा भवन र नगद पाँच लाख रूपैयाँ दिईन्।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 610,
+    "text_length_avg": 277.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2896,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31465.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31465.txt",
+    "relative_path": "31465.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31465.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2896,
+    "mtime": 1782796542.6877117,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "8f04d2d01e3992c78d316260533b4081ef03ef0b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

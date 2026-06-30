@@ -1,0 +1,94 @@
+{
+  "dataset": "5821.txt",
+  "file_name": "5821.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनैपनी देशको नागरिकहरुको सुरक्षा कायम गर्नु गराउनु गृह मन्त्रालयको पहिलो कर्तव्य हो । देश र समाजमा हुने विभिन्न अपराधीक कार्यहरूको नियन्त्रण गरि जनताहरुमा शान्तिको प्रत्याभूति दिने कर्तव्य पनि गृह मन्त्रालयकै हुन्छ । गृह मन्त्रालयको काम गर्ने प्रमुख मन्त्रीलाई गृहमन्त्री भनिन्छ । नेपालमा कुनैपनी मन्त्रालयलाई नतोकिएको काम पनि गृह मन्त्रालयले नै सम्हाल्ने प्रावधान छ । ",
+    "नेपालको प्रचलित संविधान तथा कानुनद्वारा प्रत्याभूत नागरिक स्वतन्त्रता, विधिको शासन, मानव अधिकार लगायत लोकतान्त्रिक मूल्य र मान्यतालाई सम्मान गर्ने गरी कार्य गर्नु गृह प्रशासनको दृष्टिकोण हो । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 729,
+    "text_length_avg": 258.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9804,
+      "Latin": 0.0196
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4056,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9804,
+      "Latin": 0.0196
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5821.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5821.txt",
+    "relative_path": "5821.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5821.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4056,
+    "mtime": 1782796586.8507304,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "014ddb45cf145683558bd3f5b51394a124cc14fc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

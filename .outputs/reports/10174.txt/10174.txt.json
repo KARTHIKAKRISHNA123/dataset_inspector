@@ -1,0 +1,92 @@
+{
+  "dataset": "10174.txt",
+  "file_name": "10174.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकदिवसीय क्रिकेटमा दोहोरो शतक विभिन्न 5 जना खेलाडीहरूले 6 पल्ट बनाउन सफल भएका छन् । यी खेलाडीहरू टेस्ट खेल्ने राष्ट्रहरू मध्ये तीनवटा राष्ट्रहरू बाट छन् । अस्ट्रेलिया, बङ्गलादेश, इङ्गल्यान्ड, पाकिस्तान, दक्षिण अफ्रिका, श्रीलङ्का र जिम्बाब्वेका कुनै पनि खेलाडीले एकदिवसीय अन्तर्राष्ट्रियमा दोहोरो शतक बनाउन सकेका छैनन् ।",
+    "एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटको पहिलो दोहोरो शतकको किर्तिमान भारतीय खेलाडी सचिन तेन्दुलकरको नाममा रह्यो । उनले 2010 को दक्षिण अफ्रिका विरुद्धको द्विपक्षीय शृङ्खलाको दोस्रो एकदिवसीयमा यो सफलता प्राप्त गरेका हुन् । एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटमा दोहोरो शतक बनाउने ब्याट्सम्यानको संख्या ह्याट्रिक गर्ने बलरको संख्या भन्दा ज्यादै कम छ । 2015 को अक्टोबर सम्म 6 दोहोरो शतक विरुद्ध 39 ह्याट्रिकको अवस्था छ । दोहोरो शतक प्रहार सबैभन्दा बढी खेलाडी भारतका छन् । क्रिकेट विश्वकपमा 2 वटा दोहोरो शतकहरू बने"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 319,
+    "text_length_max": 561,
+    "text_length_avg": 440.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2332,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10174.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10174.txt",
+    "relative_path": "10174.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10174.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2332,
+    "mtime": 1782796443.354784,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b63259860126300afa571c80337a3de99781132d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

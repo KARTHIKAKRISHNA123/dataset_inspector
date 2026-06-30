@@ -1,0 +1,92 @@
+{
+  "dataset": "5758.txt",
+  "file_name": "5758.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गणेश बहादुर खड्का",
+    "नेपाली कांग्रेसका दैलेख जिल्ला सभापति गणेश बहादुर खड्का सोही जिल्लाको क्षेत्र नं. 1 बाट निर्वाचित सभासद हुनुहुन्छ। 2025 सालदेखि राजनीतिमा सक्रिय 66 वर्षीय खड्का 2048 र 2051 का संसदीय निर्वाचनहरूमा पनि सोही क्षेत्रबाट चुनिनुभएको थियो। 2027 देखि 2030 सम्मका पार्टीको जिल्ला उपसभापति र 2033 देखि 2048 सम्म सभापति रहिसक्नुभएका खड्काले 2034,2037 र 2042 सालमा गरी पञ्चायतकालमा तीन वर्ष जेल जीवन बिताउनुभएको छ। उहाँले संसदको लेखा समितिको सदस्य र भौतिक योजना तथा निर्माण एवं यातायात मन्त्रीको जिम्मेदारी समेत"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1207,
+    "text_length_avg": 612.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3210,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5758.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5758.txt",
+    "relative_path": "5758.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5758.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3210,
+    "mtime": 1782796586.574983,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2e7cec4a51c593eb94a6c8b4b97b0ebb0609fd53",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

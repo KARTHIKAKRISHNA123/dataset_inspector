@@ -1,0 +1,92 @@
+{
+  "dataset": "25643.txt",
+  "file_name": "25643.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आर्यभट प्राचीन भारतका एक महान ज्योतिषविद् र गणितज्ञ थिए। उनले आर्यभटीय ग्रंथको रचना गरे जसमा ज्योतिषशास्त्रका अनेक सिद्धांतहरु प्रतिपादन गरिएकाछन्। यस ग्रंथमा उनले आफ्नो जन्मस्थान कुसुमपुर र जन्मेको साल शक संवत् 398 लेखेकाछन्। बिहारमा वर्तमान पटनाको प्राचीन नाम कुसुमपुर थियो तर आर्यभटको कुसुमपुर भनें दक्षिणमा थियो।",
+    "( एउटा अर्को मान्यतानुसार उनको जन्म महाराष्ट्रको अश्मक देशमा भएकोथियो। उनको वैज्ञानिक कार्यहरुको समादर राजधानीमा नैं हुनसक्थ्यो। यसकारण उनले लामो यात्रा गरी आधुनिक पटनाको छेउको कुसुमपुरमा बसेर आफ्ना रचनाहरु पूरा गरेकाथिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 221,
+    "text_length_max": 316,
+    "text_length_avg": 268.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1456,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25643.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25643.txt",
+    "relative_path": "25643.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25643.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1456,
+    "mtime": 1782796515.312345,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d8f32a9b7f1fa898e554975b5fed4f2adc285724",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

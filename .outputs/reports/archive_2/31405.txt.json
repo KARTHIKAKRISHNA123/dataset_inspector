@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31405.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गाेलान टेलिकम इजरायलकाे एक मोबाइल सञ्जाल सञ्चालक हो । जुलाई 2011 मा कम्पनीले इजरायलमा 3 जी ताररहित सञ्जाल सञ्चालन गर्न एक टेन्डर वा निविदा जितेकाे थियोे । यसको गतिविधिको शुरुवातमा कम्पनी द्वारा अपनाईएको मूल्य नीतिका कारण कम्पनी पहिला, कम लागत खालकाे मोबाइल फोन कम्पनी थियो जसले गर्द इजरायलका यसकाे सेलुलर सञ्चार बजारमा प्रतिस्पर्धा बढ्काे थियोे । याे लिमिटेड कम्पनीकाे रूपमा सन् 2010 मा स्थापना भएको थियोे ।",
+    "कम्पनी माइकल गोलन द्वारा स्थापित गरिएको थियो, जो एक व्यवसायी थिए जसले फ्रान्सबाट सन् 2007 मा इजरायल बसाइँसराइ गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 84,
+    "text_length_max": 422,
+    "text_length_avg": 259.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4612,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31405.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31405.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31405.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4612,
+    "mtime": 1782796648.9223628,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0f6c63a4f908ee677e85d07a42394d71fae3bfd9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

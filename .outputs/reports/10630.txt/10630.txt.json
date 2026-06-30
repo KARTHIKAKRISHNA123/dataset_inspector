@@ -1,0 +1,92 @@
+{
+  "dataset": "10630.txt",
+  "file_name": "10630.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नडाइल बङ्गलादेशको दक्षिण-पश्चिम भागमा रहेको एक जिल्ला हो । यो जिल्ला खुल्ना विभागमा पर्छ ।",
+    "नडाइल सहर एक जमिन्दारको नामबट उत्पत्ति भएको थियो । यहाँका जमिनदारहरूले रुपगञ्ज बजारको स्थापना गरेबा थिए, जुन एक जमिन्दारको नामबाट राखिएको थियो । उनिहरूले यस सहरमा ब्रिटिस्ट शासनकालमा रुपगञ्ज सहर नजिक पहिलो पटक एक हुलाक कार्यलयको स्थापना गरेका थिए । त्यसपछि उनिहरूले नडाइल सहरको उत्थानका लागि संस्कृतिक, खेलकुद र शिक्षामा विकास गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 646,
+    "text_length_avg": 319.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8310,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10630.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10630.txt",
+    "relative_path": "10630.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10630.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8310,
+    "mtime": 1782796445.619202,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c70ff01cff9ce2b3199e42c770566fee6c9565f1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

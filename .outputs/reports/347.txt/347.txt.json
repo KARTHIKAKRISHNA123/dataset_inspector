@@ -1,0 +1,94 @@
+{
+  "dataset": "347.txt",
+  "file_name": "347.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रुसी साम्राज्य  or Russia  युरोप, एशिया र उत्तर अमेरिकामा फैलिएको एक बिशाल साम्राज्य थियो | यसको स्थापना 1721 मा भएको थियो, भने 1917 को क्रान्ति जार शाहीको अन्त्य पछि अन्तरिम सरकारले शक्ति आफ्नो हातमा लियो ।",
+    "विश्व इतिहासमा जमिन भुभागको क्षेत्रफलको आधारमा रुसी साम्राज्य तेश्रो ठुलो साम्राज्य थियो जुन तीन महादेशमा फैलिएको थियो । रुसी साम्राज्य भन्दा ठुला ब्रिटिश साम्राज्य र मङ्गोल साम्राज्य मात्र थियो । रुसी साम्राज्यको उदय छिमेकी प्रतिस्पर्धी शक्तिहरु स्विडिस साम्राज्य, पोलिस राष्ट्रमण्डल, पर्सिया साम्राज्य र अटोमन साम्राज्यको पतन संग जोडिएको छ । यसले 1812 -1814 सम्मकू नेपोलियन बोनापार्टको युरोप नियन्त्रण गर्ने र पश्चिम देखि दक्षिणसम्म फैलने महत्वाकांक्षी अभियानलाई रोक्न महत्वपुर्ण भूमिका खेलेको थियो"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 502,
+    "text_length_avg": 253.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9539,
+      "Latin": 0.0461
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1926,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9539,
+      "Latin": 0.0461
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "347.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\347.txt",
+    "relative_path": "347.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "347.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1926,
+    "mtime": 1782796557.3801947,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8d659aec4a31546d0d0e3b7c5d5c2ae473ce13f4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

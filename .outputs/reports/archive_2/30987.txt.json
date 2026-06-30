@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30987.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शब्द-ब्रह्माण्ड नामक कविता संग्रहका रचनाकार विजय बान्तवा हुन् । विजयबान्तवा वरिष्ठ पत्रकारका रूपमा परिचित छन् । प्रस्तुत कविता सङ्ग्रहमा 70 वटा कविता सङ्कलित छन् । प्रस्तुत कविता सङ्ग्रहका बारेमा शरद्छेत्री दार्जिलिङ भन्छन् - कविताहरूमा प्रयोग गरिएका प्रतीकहरु पनि खुबै नजिकका अनि जानिएका हुनाले सहायक ग्रन्थबिना नै अाधुनिक कवि र कविताका मर्म बुझ्न पाउनु साधारण पाठकका निम्ति सौभाग्यको कुरा हो ।",
+    "यसको प्रकाशन हिमगिरि प्रकाशन गान्तोक, सिक्किमबाट भएको छ । कडा अावरण भएको यस पुस्तकको मूल्य रु.250 रहेको छ । यसमा 10+166 पृष्ठ रहेको देखिन्छ ।  "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 395,
+    "text_length_avg": 183.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1453,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30987.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30987.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30987.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1453,
+    "mtime": 1782796648.0404887,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4c5dc3f095ed2d32fccd9a47dd7957561df964ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

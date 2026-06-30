@@ -1,0 +1,96 @@
+{
+  "dataset": "6530.txt",
+  "file_name": "6530.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ध्रुवीय उपग्रह प्रक्षेपण यान या पीएसएलभी भारतीय अंतरिक्ष अनुसंधान सङ्गठन द्वारा संचालित एक प्रणेपण तन्त्र हो। भारत ले यसलाई आफ्नो सुदूर संवेदी उपग्रह को सूर्य समकालिक कक्ष मा प्रक्षेपित गर्नको लागि विकसित गरेको थियो। । पीएसएलभी को विकास भन्दा पहिले यो सुविधा केवल रूस संग थियो। पीएसएलभी साना आकार को उपग्रहहरु को भू-स्थिर कक्ष मा पनि पठाउनमा सक्षम छ। अहिले सम्म पीएसएलभी को सहायता ले 30 अन्तरिक्षयान विभिन्न कक्षहरुमा प्रक्षेपित गरिसकिएको छ । ",
+    "Software error causes vehicle crash in to the Bay of Bengal "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 443,
+    "text_length_avg": 177.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7026,
+      "Latin": 0.2974
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1535,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7026,
+      "Latin": 0.2974
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6530.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6530.txt",
+    "relative_path": "6530.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6530.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1535,
+    "mtime": 1782796590.1368072,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "2e69b00405bf8ca35dbb35c31f412b3dfa1db2e9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

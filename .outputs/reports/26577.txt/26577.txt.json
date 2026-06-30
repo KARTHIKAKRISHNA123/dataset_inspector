@@ -1,0 +1,94 @@
+{
+  "dataset": "26577.txt",
+  "file_name": "26577.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खाना खाएपछि कुल्ला वा ब्रस नगर्दा मुखमा बाँकी रहेका अन्नकण लाई 20 मिनेटभित्रै ब्याक्टेरियाले अम्लमा परिवर्तन गर्छ। ब्याक्टेरियाका कारण उत्पन्न यो अम्लले मुखको र्‍यालसँग मिलेर टाँसिने पदार्थ बनाउँछ। प्लाक दाँतमा टाँसिन्छ। धेरै दिनसम्म दाँतको सफाइ नभए प्लाक कडा भएर टार्टर बन्छ। टार्टरले दाँत र गिजालाई बिगार्न थाल्छ। प्लाकको ब्याक्टेरियाले दाँतमा प्वाल बनाएपछि यसैलाई दाँतमा कीरा लाग्नु भनिन्छ। ",
+    "दाँतमा कीरा लाग्नबाट बच्ने मुख्य उपाय भने बिहान जस्तै राति सुत्ने बेलामा समेत राम्ररी ब्रस गर्नु हो। गुलियो र स्टार्चजस्ता वस्तुको कम सेवन गर्नुको साथै यस्ता खाद्य पदार्थ सेवन गरेपछि अनिवार्य रूपमा कुल्ला वा ब्रस गर्नुपर्छ। तर कीरा लागेमा यसको उपचार केवल फिलिङ मात्र हो। फिलिङ नगराउँदा दाँतमा चिसो, तातो, गुलियो, अमिलो पर्दा चस्का लाग्ने गर्छ। दाँतमा पीडा हुनुका साथै पिप बन्छ। पछि दाँत बिग्रँदै गएर रुट क्यानल टि्रटमेन्टसम्म गराउनुपर्न हुन्छ। दाँतमा गहिरो प्वाल हँुदा यो प्रक्रिया अपनाइन्छ। पछि दुखा"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 394,
+    "text_length_max": 656,
+    "text_length_avg": 509.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5460,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26577.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26577.txt",
+    "relative_path": "26577.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26577.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5460,
+    "mtime": 1782796519.7526512,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "26619e009abb196cd5f3262577829ebaf85b1168",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

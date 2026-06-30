@@ -1,0 +1,96 @@
+{
+  "dataset": "38618.txt",
+  "file_name": "38618.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "S. c. australus Gurney, 1868Southern OstrichS. c. camelus Linnaeus, 1758North African OstrichS. c. massaicus Neumann, 1898Masai Ostrich†S. c. syriacus Rothschild, 1919Arabian OstrichS. c. molybdophanes Reichenow, 1883Somali Ostrich",
+    "अफ्रिका र अरबको मरुभूमिमा पाइने   सुतुरमुर्ग अथवा अस्ट्रिच सबैभन्दा ठूलो चरा हो। यो चरा उड्न सक्दैन। यसको उचाइ 2.5 मिटर हुन्छ भने तौल 150 किलोग्रामको हुन्छ। सबैभन्दा ठूलो अण्डा पार्ने चरा पनि सुतुरमुर्ग हो। यसको अण्डाको तौल 1.5 किलो ग्राम हुन्छ। यसको अण्डा उसिन्न 50 मिनेट लाग्छ। यो 97.5 किलोमिटर प्रतिघण्टाको गतिमा कुद्न सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 231,
+    "text_length_max": 327,
+    "text_length_avg": 279.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6033,
+      "Latin": 0.3967
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1076,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6033,
+      "Latin": 0.3967
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38618.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38618.txt",
+    "relative_path": "38618.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38618.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1076,
+    "mtime": 1782796576.1226964,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "ae8ed20fbfd515406141d5dc0403f681f90fadc8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

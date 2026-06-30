@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30985.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डन्डी बियो नेपालको ग्रामिण क्षेत्रमा प्राचिन समयदेखि खेलिँदै आएको खेल हो । परम्परागत रूपमा खेलिने डन्डी बियोमा करिब दुई फुट लामो काठको डन्डी र बियो करिब 6 इन्च लामो काठकै छोटो डन्डी प्रयोग गरिन्छ । डन्डीको एकतिरको छेउ छड्के बनाइएको हुन्छ भने बियोको दुबैतिरको छेउ छड्के अथवा तिखो पारेर बनाइएको हुन्छ । यो भारतीय गिल्ली डन्डा खेल जस्तै खेल हो ।",
+    "डन्डी बियो दुई वा दुईभन्दा बढी खेलाडी मिलेर खेल्न सकिने खेल हो । यो खेल खेल्न दुई समूह बनाएर पनि खेल्ने गरिन्छ । यो खेल मैदान, चौर, आँगन वा बाँझो खेत जहाँ पनि खेल्न सकिन्छ । परम्परागत रूपमा खेलिँदै आइएको यो खेललाई नेपाल डन्डी बियो संघको स्थापना गरी नियमनसमेत गरिएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 1557,
+    "text_length_avg": 325.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9919,
+      "Latin": 0.0081
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 28097,
+    "estimated_records": 86
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 86,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30985.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30985.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30985.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 28097,
+    "mtime": 1782796648.0347252,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "13d7b3a919bb0efdb41b3d903d79b1675d42cd01",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

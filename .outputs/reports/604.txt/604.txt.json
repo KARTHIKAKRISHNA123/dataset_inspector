@@ -1,0 +1,92 @@
+{
+  "dataset": "604.txt",
+  "file_name": "604.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सब्रिना फेरिल्ली एक इटालियन मोडल तथा अभिनेत्री हुन् । उनको जन्म सन् 1964 मा इटालीको रोम सहरमा भएको थियो। उनले पाँच वटा राष्ट्रिय तथा अन्तर्राष्ट्रिय अवार्ड जितिसकेकी छिन् । सन् 2013 मा उनले एकेडमी पुरस्कार विजेता चलचित्र ला ग्रान्डे बेलेजा मा समेत देखा परेकी थिइन। ",
+    "इटालीको रोम सहरमा आफ्नो बाल्यकाल बिताएकी उनको पिता इटालियन कम्युनिष्ट पार्टीको पार्टी प्रबक्ता थिए । उनले पहिलोपटक सन् 1986 को अन्त्यमा निर्मित चलचित्र \"स्वीट्स फ्रोम स्ट्रेन्रजर\" बाट आफ्नो अभिनय यात्रा सुरु गरेकी थिईन । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 155,
+    "text_length_max": 265,
+    "text_length_avg": 213.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1676,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "604.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\604.txt",
+    "relative_path": "604.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "604.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1676,
+    "mtime": 1782796587.8778641,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "427b42ecf0f83006f63a2bb8031b8f98be8ba432",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

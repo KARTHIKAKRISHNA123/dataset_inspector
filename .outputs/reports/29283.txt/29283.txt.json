@@ -1,0 +1,94 @@
+{
+  "dataset": "29283.txt",
+  "file_name": "29283.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्कूल भित्र क्षेत्र बालिका लागि पहिलो विद्यालय।को बीसौँ शताब्दीका सुरु देखि गाउँ बालिका वास्तै थिए।बालिका सभ्यता जाने बाटो स्कूल गाउँ मा स्थापित भएको थियो।रकम विद्यालय विद्यार्थीहरूको शुरुवात भन्दा कम।स्कूल अवस्था विगतमा भन्दा राम्रो छ।",
+    "विद्यालय वरिपरि वनस्पति घेरिएको छ।1 विद्यालय भवन र क्षेत्रमा 1।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 236,
+    "text_length_avg": 100.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9137,
+      "Latin": 0.0863
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1019,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9137,
+      "Latin": 0.0863
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29283.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29283.txt",
+    "relative_path": "29283.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29283.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1019,
+    "mtime": 1782796532.2720332,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "860f8cbf2ade44853e3ea4d442038c2deee82567",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

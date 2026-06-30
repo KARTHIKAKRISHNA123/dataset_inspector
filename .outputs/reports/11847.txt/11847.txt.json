@@ -1,0 +1,92 @@
+{
+  "dataset": "11847.txt",
+  "file_name": "11847.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिम बङ्गाल अग्निशमन सेवा राज्यको स्वामित्व भएको सेवा हो जसले कोलकाता शहर सहित भारतीय राज्य पश्चिम बङ्गाल भरी आगो / बचाव आह्वानमा हाजिर हुदछ। अग्निशमन सेवा 11 डिवीजनमा 95 अग्नी स्टेशन छ। त्यसको निपटानमा 350 भन्दा धेरै अग्नी उपकरणहरुको साथ 7,500 कर्मिहरु छन।",
+    "पश्चिम बङ्गालको अग्निशमन सेवा देशको सबै भन्दा पुरानो अग्नी सेवा हो। यो सङ्गठन निर्माण गर्न 1950 मा कलकत्ता फायर ब्रिगेड र बङ्गाल अग्नि सेवा एकिकरण गरियो। 1950 मा, अग्निशमन सेवा ऐन लागु गरियो र अग्नी रोकथाम र अग्नी सुरक्षा नियमावली शामिल गरेर 1996 मा संशोधन गरियो । 103 अग्नी स्टेशन चलिरहेको छ। 350 भन्दा धेरै अग्नी उपकरणहरुको साथ 8000 करीब फायर फोर्स सेवामा छन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 259,
+    "text_length_max": 361,
+    "text_length_avg": 310.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1580,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11847.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11847.txt",
+    "relative_path": "11847.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11847.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1580,
+    "mtime": 1782796451.2418513,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f1a921401e7a2011f7fe93fadf1aba7b6f79aa7c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

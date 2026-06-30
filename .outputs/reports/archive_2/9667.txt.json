@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9667.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एलिसिया क्रिस्चियन \"जुडी\" फोस्टर एक अमेरिकी अभिनेत्री, निर्देशक र निर्मात्री हुन् । उनी चलचित्र र टेलिभिजन दुवै क्षेत्रमा सक्रिय छिन् । उनी आफ्नो समयका सबैभन्दा उत्कृष्ट अभिनेत्रीको रुपमा रहेकी छन् ।",
+    "फोस्टरले आफ्नो करियरको सुरुवात सन् 1965 मा बाल कलाकारको रुपमा गरेकी थिइन् । उनको सबैभन्दा पहिलो चर्चामा आएको चलचित्र ट्याक्सी ड्राइभर हो । उनले द एक्युजड र द साइलेन्स अफ द ल्याम्ब्स को लागि 2 पटक उत्कृष्ट अभिनेत्रीको एकेडेमी अवार्ड जितेकी छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 199,
+    "text_length_max": 244,
+    "text_length_avg": 221.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1172,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9667.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9667.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9667.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1172,
+    "mtime": 1782796675.0876696,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "565bd3b91e905bc23c0c67a0ac93a653a144775b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

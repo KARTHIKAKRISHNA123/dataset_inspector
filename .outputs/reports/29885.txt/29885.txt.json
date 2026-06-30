@@ -1,0 +1,92 @@
+{
+  "dataset": "29885.txt",
+  "file_name": "29885.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रक संगीत एक प्रकारको चर्चित पाश्चात्य संगीत हो। यो संगीत अहिले विश्व प्रसिद्ध छ। यस संगीतमा एक गायक, एक रीदम गिटारवादक, एक लिड गिटारवादक, एक ड्रम‍र, एक ब्यास गिटारवादक र कहिलेकाहीं एक सिन्थेसाइजर वादक हुन्छन्। केही विश्वप्रसिद्ध रक समूह/गायक यस प्रकार छनः-",
+    "रक संगीतका केही विधाहरु यस प्रकार छनः"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 256,
+    "text_length_avg": 146.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 775,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29885.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29885.txt",
+    "relative_path": "29885.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29885.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 775,
+    "mtime": 1782796535.2732544,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.973,
+    "sha1_quick": "688f9da4c4bd8f857d6949c1b7d0e6f02627ce4d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

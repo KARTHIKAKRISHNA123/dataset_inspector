@@ -1,0 +1,92 @@
+{
+  "dataset": "17826.txt",
+  "file_name": "17826.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "== सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल == ",
+    "जन्मः        2022 कात्तिक 7 गते"
+  ],
+  "statistics": {
+    "records_sampled": 40,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 1119,
+    "text_length_avg": 373.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 39715,
+    "estimated_records": 106
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 106,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17826.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17826.txt",
+    "relative_path": "17826.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17826.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 39715,
+    "mtime": 1782796479.2677295,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "537d588214c11e57bd49c751e40e6e7ae516c802",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "10471.txt",
+  "file_name": "10471.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अलास्का संयुक्त राज्य अमेरिकाको राज्यहरू मध्ये एक हो। यो दुई राज्यहरू मध्ये एक हो जसलो अरु राज्यलाई स्पर्श गर्दैन। अर्को हवाई हो। यो रूसी सम्राज्यसँग 1867मा 72 लाख डलरमा किनिएको थियो।",
+    "राजधानी शहर जुनो हो, तर सबै भन्दा ठूलो शहर एङ्कोरेज हो। अलास्का संयुक्त राज्य अमेरिकामा सबै भन्दा ठूलो राज्य हो, तर यो लगभग सबैभन्दा कम मानिसहरू छन् । अलास्कामा अमेरिकाले लिएको सबै देशको लगभग 20% भुमी छ, तर केवल 0.2% मात्र मान्छे छन् । यो अमेरिकी जमीनबाट कुनै पनि अन्य राज्यहरूसँग जोडिएको छैन, तर यो क्यानाडासँग जोडिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 343,
+    "text_length_avg": 281.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9945,
+      "Latin": 0.0055
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2922,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9945,
+      "Latin": 0.0055
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10471.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10471.txt",
+    "relative_path": "10471.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10471.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2922,
+    "mtime": 1782796444.7855368,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "522052f2401e95ccaf6bc3d0ac100dee3b557f06",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "5421.txt",
+  "file_name": "5421.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय संग्रहालय नेपालको एउटा पुरानो संग्रहालय हो । यस संग्रहालयमा हामी प्राचिन हातहतियार, वस्त्र, सिक्का तथा प्राचिन राजाका उपहारहरू अवलोकन गर्न सक्छौं । यस संग्रहालयमा विशेष गरी 3 वटा भवन रहेका छन् । जुद्ध कारीगरी कलाशाला, बुद्ध कारीगरी कलाशाला र मुख्य भवन ।",
+    "राष्ट्रिय संग्रहालय नेपालको पहिलो संग्रहालय हो । यो संग्रहालय 1928 सालमा हतियार संग्रहालयको रूपमा प्रधानमन्त्री भिमसेन थापाद्वारा आफ्नो निवासमा स्थापना गरिएको थियो । राष्ट्रिय संग्रहालय 1938 सम्म सर्वसाधारणहरूको पहुँचमा थिएन, यो संग्रहालय केवल राणा प्रधानमन्त्री, परिवारजन तथा राणाहरूका पाहुनाले मात्र अवलोकन गर्न पाउँथे । यो संग्रहालय 1938 सालको डिसेम्बर महिनामा सर्वसाधारणहरूको लागि खुल्ला गरियो । त्यहीबेलादेखि यसलाई छाउनी सिलखाना र नेपाल संग्रहालय भनेर नामाकरण गरियो । सन् 1942 मा प्रधानमन्त्री ज"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 263,
+    "text_length_max": 689,
+    "text_length_avg": 466.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8654,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5421.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5421.txt",
+    "relative_path": "5421.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5421.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8654,
+    "mtime": 1782796585.0453484,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ef1850f0cc2df19278560140efb53dd4b02983f0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

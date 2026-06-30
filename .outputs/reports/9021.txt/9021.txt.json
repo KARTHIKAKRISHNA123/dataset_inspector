@@ -1,0 +1,91 @@
+{
+  "dataset": "9021.txt",
+  "file_name": "9021.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली युवक बौद्ध परिषद् बुलेटिन एक नेपाली भाषाको पत्रिका हो। यो पत्रिकाको सम्पादन कार्य भिक्षु अश्वघोषद्वारा भएको छ। यो पत्रिकाको प्रकाशक आनन्दकुटी विद्यापीठ हो। यसको प्रकाशन काठमाडौंमा बुलेटिन 2024जेठमा प्रकाशित भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 224,
+    "text_length_max": 224,
+    "text_length_avg": 224.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 604,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9021.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9021.txt",
+    "relative_path": "9021.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9021.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 604,
+    "mtime": 1782796602.1705732,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "26bdd4236cbff04152624f77da01727d25dc620f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

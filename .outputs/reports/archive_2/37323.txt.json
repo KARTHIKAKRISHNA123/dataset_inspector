@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37323.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बङ्गलालिङ्क दक्षिण एसियामा अवस्थित देश, बङ्गलादेशको तेस्रो ठूलो मोबाइल सेवा प्रदायक हो । बङ्गलालिङ्गक डिजिटल सञ्चार लिमिटेड टेलिकम भेन्चर्स लिमिटेडको पूर्ण स्वामित्वमा रहेको छ ।, जो ग्लोबल टेलीकम होल्डिङ्सको एक 100% सहायक कम्पनी हो । अप्रिल 2011 मा, भियोन र विन्ड टेलिकम एसपीए बीच यस व्यवसायिक संयोजनपछि, भियोन, ग्लोबल दूरसञ्चार होल्डिङ्सको 51.92% शेयरको मालिक बनेको थियो । भियोन, रूस, यूक्रेन, कजाखस्तान, उजबेकिस्तान, आर्मेनिया, जर्जिया, किर्गिस्तान, अल्जेरिया, पाकिस्तान र बङ्गलादेशका लगायतका देशहर",
+    "बङ्गलालिङ्कले दुई वर्ष भन्दा कम समयमा वा डिसेम्बर 2005 सम्म 1 मिलियन प्रयोगकर्ता र अक्टोबर 2006 मा 3 मिलियन प्रयोगकर्ताहरूबाट समर्थन प्राप्त गरेको थियो । डिसेम्बर 2007, बङ्गलालिङ्कले 7.1 मिलियन भन्दा बढी ग्राहकहरूका साथ, एक्टेल लाई उछिन्दै बङ्गलादेशको दोस्रो ठूलो सञ्चालक बनेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 223,
+    "text_length_max": 712,
+    "text_length_avg": 390.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6052,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37323.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37323.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37323.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6052,
+    "mtime": 1782796660.8992536,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b3ce651f031fcb60049c36001f52b513c820ace1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

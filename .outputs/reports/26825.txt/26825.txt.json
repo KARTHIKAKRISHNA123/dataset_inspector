@@ -1,0 +1,92 @@
+{
+  "dataset": "26825.txt",
+  "file_name": "26825.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फलेबास नेपालको मुख्य पर्यटकिय नगरी पोखराबाट सडकमार्ग हुदै 50 किलोमिटर पश्चिम, समुन्द्र सतहबाट 1294 मिटर उचाईमा अबस्थित तथा कास्की, बाग्लुङ र स्याङजाको छिमेकि जिल्ला पर्बतमा पर्ने एक सुन्दर, उर्बर अनि शहरोन्मुख उपत्यका हो। यसलाई पर्बत सदरमुकाम कुश्माको छिमेकि गाबिस तथा सदरमुकाम पछिको दोस्रो ठूलो ब्यापारिक केन्द्रको रूपमा पनि हेरिदै आएको छ। ",
+    "चारैतिर हराभरा सुन्दर पहाडहरूले घेरिएको फलेबासमा बाटोघाटो, पिउने पानी, अस्पताल, बिद्यालय, क्याम्पस, बिजुली, संचार एबम सिँचाइको राम्रो सुबिधा छ। फलेबास उपत्यकाको खानिगाउमा अवस्थित श्री भवानी बिद्यापिठ उच्च माध्यमिक बिद्यालय यो क्षेत्रको नै सबै भन्दा पुरानो बिद्यालय एबम शैक्षिक मेरुदण्ड हो जुन बिक्रम सम्बत 2010 सालमा खुलेको थियो। त्यस्तै श्री पर्बत बहुमुखि क्याम्पस, श्री जनता उच्च माध्यमिक बिद्यालय, श्री माटेदेवल ज. प्रा. उच्च माध्यमिक बिद्यालय एबम निजि स्तरबाट खुलेका केही बोर्डिङ स्कूलहरू यो क्षे"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 341,
+    "text_length_max": 572,
+    "text_length_avg": 470.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5004,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26825.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26825.txt",
+    "relative_path": "26825.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26825.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5004,
+    "mtime": 1782796520.904835,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "37058158b22409ada2adfdfcdbd5242fdcd22891",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

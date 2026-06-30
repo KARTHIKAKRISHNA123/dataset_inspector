@@ -1,0 +1,93 @@
+{
+  "dataset": "16734.txt",
+  "file_name": "16734.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जँ-फ्रँस्वा रवेल Jean-François Revel को जन्म सन् 1924को जनवरी 19 तारिखका दिन फ्रान्सको मार्सेईमा भएको थियो। उहाँको मृत्यु सन् 2006को अप्रिल 30 तारिखका दिन फ्रान्सकै भाल-दो-मार्न भन्ने ठाँउमा भयो। उहाँ एक प्रख्यात चिन्तक एवं पत्रकार हुनुहुन्थ्यो। उनले आफ्नो छोरा माथ्यु रिका सँग मिलेर काठमाण्डौँको हात्तीबन रिजोर्टमा लेखेको पुस्तक The Monk and the Philosopher निक्कै प्रसिद्ध छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 377,
+    "text_length_max": 377,
+    "text_length_avg": 377.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.866,
+      "Latin": 0.134
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 910,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.866,
+      "Latin": 0.134
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16734.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16734.txt",
+    "relative_path": "16734.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16734.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 910,
+    "mtime": 1782796473.7267938,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.989,
+    "sha1_quick": "3621a2d29403cf8b86d8d49e27201c24fe88fcaa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

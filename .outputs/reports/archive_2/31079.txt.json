@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31079.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थिबाउट निकोलस मार्क कोर्टियस,  एक बेल्जियम पेशेवर फुटबल खेलाडी हुन् जो स्पेनिश क्लब रियल म्याड्रिड र बेल्जियम राष्ट्रिय फुटबल टिमका लागि एक गोलरक्षक को रूपमा मैदान उत्रने गर्छन् ।",
+    "कोर्टियस जेन को युवा प्रणाली को माध्यम ले 18 वर्ष को उमेरमा उनले आफ्नो टीमलाई बेल्जियम प्रो लीग को जीत मा महत्वपूर्ण भूमिका निभाए । जुलाई 2011 मा उनले चेल्सी मा 8 मिलियन पाउण्ड प्रवेश गरे, र तुरुन्तै उनलाई एटलेटिको म्याड्रिडका लागी ऋण सामेल गराइयो । त्यहाँ तीन सिजनमा उनलेे यूरोपा लीग 2012, कोपा डेल रे 2013 र ला लिगा 2014 जितेका छन् । उनले दुई सीजनमा ला लीगामा राम्रो गोलकर्ताको लागि रिकार्डो ज़मोरा ट्राफि जिते । कोर्टियस जुलाई 2014 मा चेल्सी फर्किए, र उनको पहिलो सीजनमा उनीले लीग कप र प्रिमियर लीग"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 751,
+    "text_length_avg": 295.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7624,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31079.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31079.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31079.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7624,
+    "mtime": 1782796648.2470834,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5e55787da644ceb2058f7957484459dd45a258fc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

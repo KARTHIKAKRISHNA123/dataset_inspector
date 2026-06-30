@@ -1,0 +1,94 @@
+{
+  "dataset": "35820.txt",
+  "file_name": "35820.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माधव वाग्ले नेपाली चलचित्र क्षेत्रका निर्माता वितरक र कलाकार हुन। उनी आफ्नो चलचित्र निर्माण कम्पनी प्रिन्सेज मुभिजमा आवद्ध रही लुट रेशम फिलिली जस्ता सिनेमाहरू दर्शकमाझ ल्याउन सफल भएका छन्।",
+    "आफ्नो चलचित्र कम्पनी सुरु गर्नु अघि उनी फिल्म वितरकका रूपमा सक्रिय थिए। तत्पश्चात उनले आफ्नै फिल्म निर्माण कम्पनी प्रिन्सेज मुभिज र वितरण कम्पनी पपकर्न पिक्चर्सको स्थापना गरे।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 306,
+    "text_length_avg": 125.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9982,
+      "Latin": 0.0018
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3642,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9982,
+      "Latin": 0.0018
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35820.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35820.txt",
+    "relative_path": "35820.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35820.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3642,
+    "mtime": 1782796562.3948607,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "365dc6e16b16dff8c9d5325088e99d3808f51259",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

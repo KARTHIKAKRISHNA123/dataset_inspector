@@ -1,0 +1,91 @@
+{
+  "dataset": "23253.txt",
+  "file_name": "23253.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोकुल पोखेरेल नेपालका पत्रकार हुन्। उनको जन्म वि सं 1993 सालमा धनकुटामा भएको थियो। विउनले त्रिभुवन विश्वविद्दालयबाट अ‌ग्रेजी विषयमा स्नाकोत्तर गरेका हुन्। उनी पहिलो पटक सहायक सम्पादको रूपमा राष्ट्रिय समाचार समिति राससमा जुन 1962मा काम गरेका थिए। त्यसपछि गोरखापत्रको सम्पादक पनि भए। नेपाल प्रेस इन्स्टिच्युटको स‌ंस्थापक सदस्य सचिव हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 335,
+    "text_length_max": 335,
+    "text_length_avg": 335.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 897,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23253.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23253.txt",
+    "relative_path": "23253.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23253.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 897,
+    "mtime": 1782796504.3237324,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.947,
+    "sha1_quick": "f649e4b39e77a4f80b37502a99409f00aa6b26f0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

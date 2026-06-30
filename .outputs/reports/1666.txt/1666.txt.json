@@ -1,0 +1,92 @@
+{
+  "dataset": "1666.txt",
+  "file_name": "1666.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोरखापत्र संस्थान नेपालको सरकारी सञ्चार गृह हो । गोरखापत्र संस्थान ऐन, 2019 अनुसार वि.सं. 2020 साल असार 25 गते यस संस्थानको स्थापना भएको हो । सरकारी मूखपत्रको रूपमा प्रकाशन आरम्भ भएको गोरखापत्र सूरूमा साप्ताहिक, त्यसपछि अर्धसाप्ताहिक, सातामा तीन दिन हूदै राष्ट्रिय दैनिक रूपमा प्रकाशित भइरहेको छ । \"सर्वे भवन्तू सूखिन, सर्वे सन्तू निरामय\" को आदर्श वाक्य बोकेको राष्ट्रको जेठो पत्रिकाको रूपमा परिचित गोरखापत्र कै नामबाट गोरखापत्र संस्थानको जन्म भएको हो । ",
+    "सर्वसाधारणको प्रत्यक्ष संलग्नतामा प्रकाशनको स्तर उठाएर समयानूकुल लोकप्रिय र प्रभावकारी वनाउनगोरखापत्र संस्थानको स्थापना भएको हो । हाल यो संस्थानबाट गोरखापत्र दैनिक लगायतका अन्य प्रकाशनहरू प्रकाशित भैरहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 454,
+    "text_length_avg": 231.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3118,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1666.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1666.txt",
+    "relative_path": "1666.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1666.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3118,
+    "mtime": 1782796473.3373237,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "36ace5f5c390ce78ee997c073af2733d52ede1da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

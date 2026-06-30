@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "32280.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The 2018 SAFF Championship, also known as 2018 SAFF Suzuki Cup 2018 for sponsorship reasons, was the 12th edition of the SAFF Championship, the biennial international men's football championship of South Asia organized by SAFF. It was initially scheduled to be hosted by Bangladesh in December 2017, but later postponed to 4–15 September 2018.",
+    "On 2 January 2016, SAFF executive committee made a decision that Bangladesh would host the 2017 SAFF Championship at a meeting held in Trivandrum, India. Maldives and Bhutan made bids to host the games but the latter withdrew its bid."
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 343,
+    "text_length_avg": 72.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9007,
+      "Devanagari": 0.0993
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1270,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9007,
+      "Devanagari": 0.0993
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32280.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\32280.txt",
+    "relative_path": "archive (2)\\valid\\valid\\32280.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1270,
+    "mtime": 1782796650.6841438,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "af8b46ffe2a41266c7e3a15c05a9a39e0ee311eb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

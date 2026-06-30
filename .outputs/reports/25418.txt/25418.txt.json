@@ -1,0 +1,92 @@
+{
+  "dataset": "25418.txt",
+  "file_name": "25418.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुरली एक प्रकारको बाजा हो । मालिङ्गो जातको सानो बाँसबाट मुरली बनाइन्छ। ",
+    "निगालो र मुरली बाँसको मुरली अति राम्रो हुन्छ । यसको एक छेउमा तेर्सो काटेर त्यहाँ बाँसको पातलो चोया वा भक्किमिला काठ राखिन्छ र एउटा दुलो पारिन्छ । अर्का छेउमा 6-7 वटा दुला पारिन्छन् । यसलाई बजाउन मुरलीको तेर्सा काटेको छेउ मुखभित्र हालेर विस्तारो फुकेपछि त्यहाँबाट ध्वनि प्रवाहित हुन थाल्छ । यस प्रवाहित ध्वनिलाई संगितमा परिवर्तन गराउन औंलाले छोपी राखेका प्वालहरू क्रमअनुसार छोप्ने र उघार्न गरिन्छ । यसरी मुरली बजाउँदा अति सुरिलो स्वर प्रवाहित हुन्छ । यो नेपाली समाजको अति प्रिय वाद्ययन्त्र हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 493,
+    "text_length_avg": 242.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1935,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25418.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25418.txt",
+    "relative_path": "25418.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25418.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1935,
+    "mtime": 1782796514.2990224,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a728c8cd9f34b6166dbf3a0ce6c49d4a2c1b4a86",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

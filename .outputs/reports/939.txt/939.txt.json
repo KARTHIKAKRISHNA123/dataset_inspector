@@ -1,0 +1,91 @@
+{
+  "dataset": "939.txt",
+  "file_name": "939.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लेखापालन भन्नाले लेखा अभिलेख भित्र पर्ने विविध कार्यहरू जस्तै वैज्ञानिक ढंगले आर्थिक कारोबारहरू अभिलेखन, कारोवारहरूको वर्गीकरण गर्नु, विभिन्न विवरणहरू तयार गर्नुका साथै सङ्गठनको वास्तविक स्थिति पत्ता लगाउनुको साथै ति जानकारीहरुलाई विश्लेषण गरी विविध सरोकारवालाहरू समक्ष प्रस्तुत गर्ने कार्य समेतलाई जनाउँछ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 306,
+    "text_length_max": 306,
+    "text_length_avg": 306.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 838,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "939.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\939.txt",
+    "relative_path": "939.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "939.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 838,
+    "mtime": 1782796603.9210522,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "790eea49537e80a68b440cfd12570f9b795968b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "6836.txt",
+  "file_name": "6836.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अगस्ती गोत्र अन्तर्गतको नेपालको एकमात्र थर ढुङ्गेल हो । मध्यपहाडका रामेछाप,दोलखा,ओखलढुङ्गा हुँदै पूर्व र उपत्यकाको भक्तपुर र देशबाहिर सिक्किम,भुटानसम्म फैलिएका ब्राह्मणको एक थर ढुङ्गेल हो । ढुङ्गेलहरुको मुख्य वस्ती रामेछापको पकरवास,दोलखाको नाम्दु,काब्रे, भक्तपुरको कटुञ्जे र मध्य र पूर्वि नेपालमा छरिएर रहेका छन । ",
+    "ढुङ्गेलका महत्वपूर्ण व्यक्तित्हरु"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 314,
+    "text_length_avg": 72.13,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2845,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6836.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6836.txt",
+    "relative_path": "6836.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6836.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2845,
+    "mtime": 1782796591.6286387,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.976,
+    "sha1_quick": "cb009fa0ce1bcec271bb404ee59fe6263240a708",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

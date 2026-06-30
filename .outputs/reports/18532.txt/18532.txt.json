@@ -1,0 +1,91 @@
+{
+  "dataset": "18532.txt",
+  "file_name": "18532.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अस्ट्रेलिया अन्डर-19 राष्ट्रिय क्रिकेट टिमले अन्डर-19 अन्तर्राष्ट्रिय क्रिकेटमा अस्ट्रेलियाको प्रतिनिधित्व गर्ने गर्दछ । यो क्रिकेट अस्ट्रेलियाको मातहतमा रहेको छ जुन अन्तर्राष्ट्रिय क्रिकेट परिषदको सदस्य हो । यो सन् 1978 देखि अन्डर-19 टेस्ट म्याच खेल्दै आएको छ । भूतपूर्व कप्तानहरू जसमा स्टुवार्ट ल, डेमियन मार्टिन, ब्राड ह्याडिन, नाथन हौरिज र क्यामरन व्हाइट सबैले अस्ट्रेलिया राष्ट्रिय क्रिकेट टिमबाट खेलिसकेका छन् । अहिले सम्म अस्ट्रेलिया अन्डर-19 क्रिकेट टिमले 69 म्याच खेलिसकेको छ । टिमको हार/जित"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 523,
+    "text_length_max": 523,
+    "text_length_avg": 523.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1364,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18532.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18532.txt",
+    "relative_path": "18532.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18532.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1364,
+    "mtime": 1782796482.5303266,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e476129d8b1e232643cc72a6ddfcfed0a220887a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

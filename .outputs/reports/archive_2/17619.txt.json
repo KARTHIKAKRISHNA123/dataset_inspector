@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17619.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " राजनीति पोर्टल",
+    "स्थानीय व्यवस्थापिका अन्तर्गत गाउँपालिकामा गाउँ सभा र नगरपालिकामा नगर सभा गठन हुन्छ । संविधानको भाग 18 मा स्थानीय व्यवस्थापिका सम्बन्धी व्यवस्था गरिएको छ । जसअनुसार स्थानीय तहको व्यवस्थापकीय अधिकार गाउँसभा र नगरसभामा निहित छ । गाउँसभामा गाउँपालिकाका अध्यक्ष, उपाध्यक्ष, वडाध्यक्ष र प्रत्येक वडाबाट निर्वाचित चार जना सदस्य रहने छन् । यसबाहेक गाउँसभाबाट निर्वाचित दुईजना दलित वा अल्पसंख्यक रहन्छन् । यो हिसाबमा नौ वटा वडा भएको गाउँपालिकामा 49 जनाको गाउँसभा हुनेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 812,
+    "text_length_avg": 279.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8924,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17619.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17619.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17619.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8924,
+    "mtime": 1782796621.6734986,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e9fc469e4486814b05eed0991c9bc3bc7d30ec6a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

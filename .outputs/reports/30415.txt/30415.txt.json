@@ -1,0 +1,94 @@
+{
+  "dataset": "30415.txt",
+  "file_name": "30415.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विक्रम सुब्बा साहित्यकार हुनुहुन्छ। उहाँको खास नाम डिल्लीविक्रम इङ्वाबा हो। उहाँको जन्म 2009 साल पुस 20 गते पाँचथर जिल्लाको फिदिम 6, वोदिनमा भएको हो। उहाँका पिताको नाम नरेन्द्रबहादुर इङ्वाबा र माताको यनहाङ्मा नेम्बाङ हो। उहाँहरू तीन दिदीबहिनी र एक भाइ जन्मनुभएको हो। छोरामा विक्रम एक्लो छोरो हो। विक्रम सुब्बाको रक्त समुह B हो । ",
+    "साहित्यबाहेक उहाँ विकाससम्बन्धी तालीम, रणनैतिक योजना तर्जुमा, आवधिक योजना तर्जुमा गर्न विभिन्न निकाय र परियजनाहरूलाई मद्दत दिने काम गर्नु भयो। उहाँसँग विदेशीलाई भाषा सिकाएको लामो अनुभव छ। भाषासम्बन्धी अनुसन्धानमा पनि सम्मिलित सुब्बाले नेपालका धेरै दुर्गम ठाउँको पनि यात्रा गर्नुभएको छ। उहाँले एमए सम्म पढ्नुभएको छ। सुब्बा 'हर्डेक नेपाल' नामक संस्थाका निर्देशकसमेत हुनुहुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 221,
+    "text_length_max": 375,
+    "text_length_avg": 292.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3088,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30415.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30415.txt",
+    "relative_path": "30415.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30415.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3088,
+    "mtime": 1782796537.6668742,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "416f5d62ee318bc4d84d89c7ca1b78870d1e187b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

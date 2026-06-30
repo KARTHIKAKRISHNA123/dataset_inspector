@@ -1,0 +1,93 @@
+{
+  "dataset": "20857.txt",
+  "file_name": "20857.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गैरी पाङमा Gairi Pangma संखुवासभा जिल्लाको एक गाउँ हो।यो सुदरी गाउँ पुर्वी नेपालको संखुवासभा जिल्ला, खाँदबारी नगरपालिकाको उत्तरी भागमा अवस्थित छ। नगरपालिका हुनु पूर्व पाङमा गा. बि. स वार्ड नम्बर 3 ले चिनिन्थ्यो। छेत्रफलको हिसाबले सबै भन्दा सानो गाउँ तर जनघनत्व बढी भएको वार्डमा पर्दथ्यो। हाल 4 पाङमालाई मिलाएर खाँदबारी नगरपालिका वार्ड नम्बर 4 बनाइएको छ। लोहोरुङ राईहरुको एकल बसोबास रहेको केही मात्रमा सार्की,पोखरेल बाहुन रहेको यस् गाउँलाई \"मागावा\" भनेर पनि चिनिन्छ। मागावाको अर्थ मुलगाउ अथवा मा-गाउ भ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 575,
+    "text_length_max": 575,
+    "text_length_avg": 575.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9769,
+      "Latin": 0.0231
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1508,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9769,
+      "Latin": 0.0231
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20857.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20857.txt",
+    "relative_path": "20857.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20857.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1508,
+    "mtime": 1782796493.6848426,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "64518618059c41760683e746070e77d14bff434d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "11918.txt",
+  "file_name": "11918.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एएफसी एसिया कप एसियाली फुटबल महासंघका पुरूष फुटबल टिमहरू बिच हुने एक अन्तर्राष्ट्रिय फुटबल प्रतियोगिता हो। जुन प्रत्येक 4-4 वर्षको अनतरालमा एएफसी सदस्य राष्ट्रहरूले आयोजना गर्ने गर्दछन् ।",
+    "एसियाली फुटबल महासंघको स्थापना भएको दुई वर्प मानै यस प्रतियोगिताको सुरूवाट भएको थियो ।1954 मा एएफसीको स्थापना भएको थियो भने 1956 मा यस प्रतियोगिता संचालन भएको थियो ।पहिलो एसिया कप हङकङमा आयोजना भएको थियो ,भने यश संस्करणमा मात्र 4 राष्ट्रको सहभागीता रहेको थियो ।जहाँ तत्कालीन समयका एसियाली उत्कृष्ट फुटबल टिमहरू सहभागी थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 353,
+    "text_length_avg": 181.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9737,
+      "Latin": 0.0263
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2804,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9737,
+      "Latin": 0.0263
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11918.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11918.txt",
+    "relative_path": "11918.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11918.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2804,
+    "mtime": 1782796451.5855653,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "89ad66f4532cf55546577c69c3e523ea6317bb15",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26866.txt",
+  "file_name": "26866.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थामी नेपालमा बसोबास गर्ने एक जाति हो। थामी समुदायका मानिसहरूले आफूलाई \"थाङ्‍मी\" भन्न रुचाउँछन् । यो जातिका मानिसहरूले प्राकृत धर्म अङ्गालेको पाइन्छ जसलाई उनीहरू वोन या किराँत भन्ने गर्छन्। थामी समुदायका मानिसहरू आफ्नै भाषा थाङ्‍मी खाम बोल्ने गर्दछन् । यो भोटबर्मेली परिवारमा पर्दछ ।",
+    "थामी जातिको बसोबास धेरैजसो दोलखा र सिन्धुपाल्चोक जिल्लामा रहेको पाइन्छ। तर छिटपुट रूपमा नेपालको 73 जिल्लामा थामीहरू रहेका छन् भन्ने तथ्याङ्क छ। थामी जाति एउटा अलग प्रकारको रितिरिवाज र स‌ंस्कार बोकेको जाति हो। आफ्नै अलग धर्म भएका थामी जातिले कुलदेवताको रूपमा भुमेको पूजा गर्दछन् र सबै कर्मकान्ड संस्कारहरू आफ्नै थामी गुरुद्वारा मौखिकरूपमा गर्ने गर्दछन्। यिनीहरूको मुख्य पेसा कृषि हो भने केहि थामीहरू काठसम्बन्धी, ढुङ्गासम्बन्धी र बाँस/चोयाका सामानहरू बनाउने कार्यमा पनि लागेको पाइन्छ । दोलखाका सुस्पा "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 135,
+    "text_length_max": 653,
+    "text_length_avg": 332.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5324,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26866.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26866.txt",
+    "relative_path": "26866.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26866.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5324,
+    "mtime": 1782796521.0753374,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "cdcac65f64908b32d85c4740559094193f2c682a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "13027.txt",
+  "file_name": "13027.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोहन्याल नेपालको सुदूरपश्चिमाञ्चल विकास क्षेत्रको सेती अञ्चल, कैलाली जिल्लामा अवस्थित गाउँ विकास समिती हो। कार्तिकेय देवताको नामबाट नामकरण गरिएको हुँदा मोहन्याल गाउ विकास समिति नाम रहेको हो | केदार पुत्र मोहन्याल बोगटानका शक्तिशालि देवता हुन् |यो गा वि स कैलालीको प्रशिध्द ठाऊका रूपमा रहेको छ।यो गा वि स पहाडी अर्थात चुरे क्षेत्रमा पर्दछ।महोन्याल विश्वकै उच्च स्थानमा रहेको चुरे क्षेत्र हो।यस क्षेत्रमा विकासका पुर्वाधारको कमी छ।यो क्षेत्रमा जानको लागी चौमाला,मसुरिया,राम शिखरझाल,पण्डौन, बागछेडा,आदी ",
+    "यो गाविसमा एउटा गाड/नदी छ ।त्यस नदीको नाम ठूली गाड अर्थात ठूली गण्डकी नदीनामले प्रसिध्द छ।यो नदीको पानी उतर-पूर्व तिर बग्दछ।यो नदीको पानी कर्णाली नदीमा मिसीन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 561,
+    "text_length_avg": 291.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6237,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13027.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13027.txt",
+    "relative_path": "13027.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13027.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6237,
+    "mtime": 1782796456.8035026,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c42d6e7bba2c4b4c683df6a465158d86c8157b8c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "21654.txt",
+  "file_name": "21654.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बालसाहित्य साहित्यको यस्तो विधा हो जसको प्राथमिक पाठक, दर्शक, श्रोता बालबालिका हुन् । तैपनि यो विधाका अधिकांश कृतिहरु प्रौढहरुले पनि आनन्द मानेर पढ्छन् । बालसाहित्यमा के हुन्छ के हुँदैन भन्ने विषयमा केही विवाद नभएको होइन । तैपनि सामान्यतया बालबालिका आफैले रोजेर पढ्ने साहित्यिक सामग्री र अभिभावक, शिक्षक तथा विशेषज्ञहरुले 'बालबालिकाका लागि उपयुक्त' भनेर छुट्याएका साहित्यिक सामग्रीलाई बालसाहित्य भन्न सकिन्छ । डिक्स्नरी अफ एजुकेसनमा बालसाहित्यलाई यसरी परिभाषित गरिएको छः 1) बालबालिकाका लागि विशेषज्ञह",
+    "पुस्तक व्यवसायी तथा बाल विशेषज्ञहरुले बालसाहित्यलाई उमेरको आधारमा धेरै वर्गमा विभाजन गरेका छन् । संयुक्त राज्य अमेरिकाका पुस्तक प्रकाशकहरुले बालसाहित्यलाई 'प्रि-रिर्डस', 'अर्ली रिर्डस', 'च्याप्टर बुक्स', र 'यंग अडल्टस्' भनेर चार उमेर समूहमा बाँडेका छन् । कहिलेकाहीँ 7 देखि 11 वर्षउमेर समूहलाई पनि 7 देखि 9 र 9 देखि 11 वर्षउमेर समूहमा उपविभाजन गरिन्छ । तैपनि कतिपय अवस्थामा उमेर समूह छुट्याउने तरिका त्यति स्पष्ट हुँदैन । तर सामान्यतया साना बालबालिकाका लागि छापिने किताबमा ठूलाठूला र धेरै चित्र हुन्छन"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 938,
+    "text_length_max": 2632,
+    "text_length_avg": 1785.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9480,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21654.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21654.txt",
+    "relative_path": "21654.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21654.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9480,
+    "mtime": 1782796497.3317375,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aa8e19e2a9c99f52a7055260df07e3f90eb6ceb6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

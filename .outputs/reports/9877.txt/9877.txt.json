@@ -1,0 +1,94 @@
+{
+  "dataset": "9877.txt",
+  "file_name": "9877.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नशक्षेदन गरेको वा प्रजनन अगं काम नलाग्ने बनाईएको जनावर| ",
+    "यो शव्द केवल भाले जनावरलाई प्रयोग गरिन्छ| सामान्य बोलिचालिमा नशक्षेदन गरिएको बोका लाई पनि खसी भनिन्छ|खसी बनाए पछि जनावर आक्रमक नहुने तथा शारिरीक बनावट राम्रो हुने, जीउ लाग्ने भएकोले यो प्रचलित छ|"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 56,
+    "text_length_max": 279,
+    "text_length_avg": 176.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1407,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9877.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9877.txt",
+    "relative_path": "9877.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9877.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1407,
+    "mtime": 1782796606.0828264,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.981,
+    "sha1_quick": "2ea9c932bcac882c7222082fc85ee97780e7b456",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

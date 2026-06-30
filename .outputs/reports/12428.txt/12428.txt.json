@@ -1,0 +1,92 @@
+{
+  "dataset": "12428.txt",
+  "file_name": "12428.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेत्रावती सन्धि वि.सं 1849 मा बेत्रावती त्रिशुली नदीको किनारमा नेपाल –तिब्बत /चीन युद्ध अन्त्य गर्न भएको नेपाल र भोट बीचको सन्धि हो । बेत्रावती सन्धिका प्रमुख धारा यस प्रकार छन् :",
+    "सन्धि अनुसार नेपालले चिनियाँ सम्राट समक्ष प्रत्येक 5 वर्ष मा उपहार पठाउने, नेपालबाट जाने आउने व्यबस्था चीनबाट हुने र चीनबाट पनि उपहार पठाउने कुरा थियो । त्यसको लिखतमा नेपाली राजाले चीनलाई \"मौसुफ\" भनेर सम्बोधन गर्थ्यो भने चीनले नेपाललाई \"तिमी\" भनेर सम्बोधन गर्थ्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 265,
+    "text_length_avg": 222.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1164,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12428.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12428.txt",
+    "relative_path": "12428.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12428.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1164,
+    "mtime": 1782796453.933378,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f73b571e2ee03138a376f8c9425f3e7b384185cd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

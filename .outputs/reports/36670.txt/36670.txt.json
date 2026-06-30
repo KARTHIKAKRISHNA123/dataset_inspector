@@ -1,0 +1,92 @@
+{
+  "dataset": "36670.txt",
+  "file_name": "36670.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हुतराम वैद्य बागमती नदी संरक्षणमा लागेका कृषि इञ्जिनियर एवम् संरक्षणविद् हुन्। वि.सं. 2007 मा भारतको इलाहाबाद विश्वविद्यालयबाट कृषि इन्जिनियरिङ गरेका हुतराम वैद्य मुलुककै पहिलो कृषि इञ्जिनियर हुन् । 14 वर्षसम्म कृषि विभागमा काम गरेका उनले नेपालमा बहुवर्षीय धानबाली भित्र्याएका थिए । बागमती सफाइ अभियानका अभियन्ता वैद्यले बागमती सभ्यता बचाउन जीवनभर क्रियाशिल थिए । उनका वातावरण र बागमती सम्बन्धी 10 वटा पुस्तक प्रकाशित छन् ।",
+    "हुतरामको जन्म नेपालकै पहिलो डाक्टर रत्नदास वैद्यका कान्छा छोराको रूपमा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 82,
+    "text_length_max": 423,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1772,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36670.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36670.txt",
+    "relative_path": "36670.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36670.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1772,
+    "mtime": 1782796566.4972072,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "47616274194aaa0e4ce24ea889c2ee181d47623e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

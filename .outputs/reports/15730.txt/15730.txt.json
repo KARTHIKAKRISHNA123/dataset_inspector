@@ -1,0 +1,92 @@
+{
+  "dataset": "15730.txt",
+  "file_name": "15730.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "हिन्दू धर्मको महान् आध्यात्मिक विरासत सफल र सार्थक यात्राका लागि जहाँ यात्राका काम आउने भएका उपकरण-अटैची, बिछाउँना, पानी पिउँनेका भाँडाकुँडा आदि आवश्यक हुन्छन्, त्यही यो जान्न पनि, कि यात्रा कुन उद्देश्यले गरिंदै जाँदै छ? बाटो के छ? मार्गमा कहाँ-कुन प्रकारको भौगोलिक समस्याहरू आउँनेछ तथा कुन मानिसहरूलाई मार्गदर्शन उपयोग रह्नेछ? यी जानकारिहरूका अभावमा सुविधा-सम्पन्न यात्रा त टाडा अनेक अवरोध र संकट उठ खडा हुन सक्छन्। मनुष्यको जीवन पनि विराट यात्राको एक महत्वपूर्ण अध्याय छ। त्यसमा मात्र सुख-सुविधा स"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 922,
+    "text_length_avg": 620.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11579,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15730.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15730.txt",
+    "relative_path": "15730.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15730.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11579,
+    "mtime": 1782796468.9625945,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f89048fddf0123485d0d40f52f811ee3e780b72a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

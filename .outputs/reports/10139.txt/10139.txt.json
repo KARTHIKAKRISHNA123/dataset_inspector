@@ -1,0 +1,91 @@
+{
+  "dataset": "10139.txt",
+  "file_name": "10139.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली साहित्यकाे माध्यमिक कालदेखि मात्र नेपाली समालाेचनाकाे इतिहास प्ररम्भ भएकाे देखिन्छ, अर्थात् कवि भानुभक्त अाचार्यको जीवनचरित्र नामक समालोचनात्मक कृतिबाट माेतीराम भट्टले समालोचना विधाको श्रीगणेश गरेका हुन् । नेपाली साहित्यकाे प्राथमिक कालमा नेपाली समालाेचना लेखनकाे प्रराम्भ नभर्इ माध्यमिक कालमा भएकाेले यहाँ माध्यमिक काल र अाधुनिक काल उल्लेख गरिएकाे छ । यस कालका प्रमुख समालाेचक र नेपाली समालाेचनाका प्रारम्भकर्ता माेतीराम भट्ट हुन् । भट्टपछिका अन्य समालाेचकहरूमा राममणि अादि, सूर्यविक्रम ज्ञवा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 578,
+    "text_length_max": 578,
+    "text_length_avg": 578.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1573,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10139.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10139.txt",
+    "relative_path": "10139.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10139.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1573,
+    "mtime": 1782796443.156906,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f7b556a4e7a616c6746cb1420bd9bf80c6b76d0c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

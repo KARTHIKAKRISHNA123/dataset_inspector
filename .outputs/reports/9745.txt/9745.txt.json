@@ -1,0 +1,92 @@
+{
+  "dataset": "9745.txt",
+  "file_name": "9745.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सौंदर्यशास्त्र संवेदनात्म-भावनात्मक गुण-धर्म र मूल्यहरूका अध्ययन हो। कला, संस्कृति र प्रकृतिको प्रतिअंकन नैं सौंदर्यशास्त्र हो। सौंदर्यशास्त्र, दर्शनशास्त्रको एक अंग हो।",
+    "सौन्दर्यशास्त्र त्यो शास्त्र हो जसमा कलात्मक कृतिहरू, रचनाहरू आदिबाट अभिव्यक्त हुने अथवा तिनमा निहित रहनेहरू सौंदर्यको तात्विक, दार्शनिक र मार्मिक विवेचन हुन्छ। विशेष-कुनै सुंदर वस्तुलाई देखेर हा्म्रो मनमा जो आनन्ददायी अनुभूति हुन्छ तिनको स्वभाव र स्वरूपको विवेचन तथा जीवनको अन्यान्य अनुभूतिहरू सहित तिनको समन्वय स्थापित गर्न यिनीहरूको मुख्य उद्देश्य हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 169,
+    "text_length_max": 357,
+    "text_length_avg": 263.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1430,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9745.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9745.txt",
+    "relative_path": "9745.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9745.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1430,
+    "mtime": 1782796605.510008,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8217c5f46916b5a2f073e35dee5428a359280c67",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

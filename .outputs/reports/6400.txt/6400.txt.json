@@ -1,0 +1,92 @@
+{
+  "dataset": "6400.txt",
+  "file_name": "6400.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बैजनाथ देवतालाई बजीनाथ देवता पनि भन्ने गरिन्छ । बजीनाथ नाम गरेका कुनै प्राचीन ऋषिले देवताको मान्यता पाएका कारण उनको नामबाट नामाकरण भएको मानिन्छ ।",
+    " यी देवताको मुल स्थान कञ्चनपुर जिल्ला दैजी गाउँ विकास समिति वार्ड नम्बर 5 भम्का देखि उत्तर सानो डाँडा माथि अवस्थिीत रहेको छ । दैजी गाउँ विकास समितिको वार्ड नम्बर 6 छेला देखि मोटर साइकलमा 7 मिनेट मै वेदकोट धार्मिक क्षेत्र तथा प्राचीन बैजनाथ भएको स्थानमा पुग्न सकिन्छ । यो स्थान पूर्व पश्चिम महेन्द्र राजमार्गसँग जोडीएको दैजी छेला रोडहुँदै जोगबुडा जाने बाटोको छेउ मै रहेको छ । प्राचीन बैजनाथको मुलस्थान रहेको स्थानको दक्षिणमा बैजनाको नयाँ मन्दिर स्थापना गरिएको छ । कैलाली र कञ्चनपुरमा रहेका सिद्धनाथ दे"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 1333,
+    "text_length_avg": 513.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4089,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6400.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6400.txt",
+    "relative_path": "6400.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6400.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4089,
+    "mtime": 1782796589.5650578,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "acb5a8cb94625d435465e2b962d4770f6228a150",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

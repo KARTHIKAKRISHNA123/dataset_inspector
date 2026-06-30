@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्तरिम चुनावी मन्त्रीपरिषद् नेपालको वर्तमान अन्तरिम सरकार हो। यसले नेपालको इतिहासमा पहिलो पटक बहालवाला प्रधान न्यायाधीशको अध्यक्षतामा सरकार बनेको छ।2064 सालमा निर्वाचित संविधानसभा बाट संविधान बन्न नसकेको र राजनीतिक दलहरूबीच सरकार बनाउनका लागि सहमति नभएको कारण यो अन्तरिम व्यवस्था गरिएको हो। ",
+    "राष्ट्रपति राम वरण यादवले संविधानको बाधा अड्काउ फुकाउने व्यवस्था जारी गरेपछि र प्रमुख चार दल एमाओवादी, कांग्रेस, एमाले र मधेशी मोर्चाबीच चुनावी सरकारको नेतृत्व प्रधानन्यायाधीश खिलराज रेग्मीलाई दिने भएको सहमति अनुरूप 2069 चैत्र 1 गते यो मन्त्रीपरिषद् गठन गरिएको हो। चार दलबीच फागुन 30 गते भएको 11 बुँदे राजनीतिक सहमतिमा प्रधान न्यायाधीशको नेतृत्वमा गठन हुने अन्तरिम चुनावी मन्त्रिपरिषद बढीमा 11 सदस्यीय रहने उल्लेख छ। दलीय सहमतिमा निजामती सेवामा विशिष्ठ श्रेणीका पूर्व प्रशासक मन्त्री हुने उल्लेख छ। "
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 499,
+    "text_length_avg": 114.79,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4207,
+    "estimated_records": 36
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 36,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33371.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4207,
+    "mtime": 1782796652.8280797,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bbef6688a88434c2183bcb0da8113218c2abc52e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

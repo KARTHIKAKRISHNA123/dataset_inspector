@@ -1,0 +1,92 @@
+{
+  "dataset": "29897.txt",
+  "file_name": "29897.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चरीअमिलो अमिलो स्वाद पात हुने एक प्रकारको जङ्गली झार हो । यसलाई पश्चिम नेपालमा चरीमालो पनि भन्ने गरिन्छ। यो वनस्पतिको जमीन मुनी गान्टाको रूपमा फल्ने फलबाट तीब्र रूपले फैलिन सक्छ। बारीमा रोपिने अरू बालीहरूलाई यसले हानि गर्दछ। खासगरी माटोमा रहेको मल सोसेर लिनु र अन्य बालीनालीलाई बढ्न नदिनु यसको विशेषता हो। ",
+    "यद्यपि चरीअमिलोबाट सस आदि बनाएर त्यसको उपयोग गर्न सकिने बारेमा खोजहरू भैरहेका छन् । हालसालै खाद्य प्रविधि तथा अनुसन्धान विभागले चरिअमिलोको सस बनाउने परिक्षण सफल भएको छ। यसको व्यापारिक उत्पादन भनें हुन थालेको छैन।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 212,
+    "text_length_max": 380,
+    "text_length_avg": 299.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2393,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29897.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29897.txt",
+    "relative_path": "29897.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29897.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2393,
+    "mtime": 1782796535.3352025,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "57d719ab575581a62300dde895f59b6d31b5b4f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "2302.txt",
+  "file_name": "2302.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वल्ड र्रेशलिङ्ग एन्टरटेनमेन्ट, आई एन सी निजी नियन्त्रित एकीकृत मिडिया तथा खेलकूद मनोरञ्जनको प्रतक्षय प्राशारण गरी सार्वजनिक व्यवसाय गर्ने एक अमेरिकी प्राइभेट कम्पनी हो जसको राजस्व खासगरी चलचित्र, संगित,लाईसेन्स उत्पादन र प्रतक्षय उत्पादन विक्री मा निर्भर रहन्छ । सन् 2014 देखि यो विश्वको सबैभन्दा ठूलो कुस्ती प्रचारक कम्पनी बन्न पूगेको छ जसले प्रतक्ष्य र अप्रतक्ष्य रुपमा गरि एक वर्षमा लगभग 320 कार्यक्रमहरु प्रसारण गर्ने गर्दछ। डब्लू डब्लू ई सन् 1952 मा 'जेस्स मिकमेन' र 'टूट्स मोन्ट' द्वारा स्थापना",
+    "विश्वका अरू व्यवसायिक कुस्ती प्रचारक जस्तै डब्लू डब्लू ई प्रदर्शन र कार्यक्रमहरू पूर्ण प्रतियोगिता मात्र नभएर मनोरञ्जन, कथात्मक तथा हस्तलिपि र पहिलै सम्पादन गरिएका लडाई हरूको प्रदर्शन गरेपनि कहिकाही पेहलवानहरु सही तरिकाले कलाको प्रदर्शन गर्न नसकेर चोट लाग्ने र घाइते पनि हुने गर्दछन् । डब्लू डब्लू ई खासगरि कम्पनीको मालिक भिन्स मिकमेन ले सर्वप्रथम यो कुरा सन् 1989 मा 'एथलेटिक कमिसन' ले कर तिरेर कम्पनिलाई नियन्त्रण गर्नुबाट जोगाउनका लागी स्वीकारेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 456,
+    "text_length_max": 788,
+    "text_length_avg": 622.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3274,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2302.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2302.txt",
+    "relative_path": "2302.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2302.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3274,
+    "mtime": 1782796503.2877164,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6fe1396dc5321fab659477ef4b20c18d9f8e7a66",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

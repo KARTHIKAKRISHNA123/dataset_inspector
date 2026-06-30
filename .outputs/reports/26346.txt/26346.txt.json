@@ -1,0 +1,91 @@
+{
+  "dataset": "26346.txt",
+  "file_name": "26346.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "म्यानमार राष्ट्रिय मानव अधिकार आयोग एक स्वतन्त्र राष्ट्रिय मानव अधिकार आयोग हो, जसमा 11 सेवानिवृत्त नौकरशाही र शैक्षिक संस्थाहरू छन् । विश्लेषकहरूले प्यानलको इच्छा र सरकारलाई चुनौती दिनका लागि प्रश्न गरेका छन्, तर कमीशनले चुनौती दिए राष्ट्रपतिको दावीलाई कि त्यहाँ कुनै म्यानमारको राजनीतिक कैदीहरू छैनन् र सबै राजनीतिक कैदीहरूको रिहाई र ईमानदारीको लागि माग गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 361,
+    "text_length_max": 361,
+    "text_length_avg": 361.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 966,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26346.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26346.txt",
+    "relative_path": "26346.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26346.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 966,
+    "mtime": 1782796518.6970625,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "28a73957d896120e5a4eadf0068de29db2b79795",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

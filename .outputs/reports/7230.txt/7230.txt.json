@@ -1,0 +1,92 @@
+{
+  "dataset": "7230.txt",
+  "file_name": "7230.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चार्वाक दर्शनएउटा भौतिकवादी नास्तिक दर्शन हो ।",
+    "चार्वाकको अर्थ हुन्छ मिठो बोली– चारु र वाक् यी दुइ शब्द मिलेर चार्वाक बनेको छ । पछि कुनै कारणले यस शब्दको नकारात्मक प्रयोग हुन थाल्यो । अनि पछि यसको अर्थ हुन थाल्यो– यस्ता व्यक्ति जसले मिठा मिठा कुरा गरेर समुदायलाई झुक्याउंछन् । मानिसहरुलाई बराल्छन् । यस्तो काम गर्नेहरुलाई चार्वाक अनुयायी भन्न थालिएको हुन सक्छ । चार्वाक मतका लागि बृहस्पति अर्थसूत्र, कौटिलीय अर्थशास्त्र र बौद्ध पिटकहरुमा लोकायत शब्दको प्रयोग भएको छ । यसको अर्थ हुन्छ, यस लोकको सुन्दरतामा विश्वास गर्ने दर्शन । जसले स्वर्ग, नर्क र म"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 4429,
+    "text_length_avg": 1352.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17861,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7230.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7230.txt",
+    "relative_path": "7230.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7230.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17861,
+    "mtime": 1782796593.5175264,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c7621efcfa586bf7a3718e1caa44b5a49a40aba6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

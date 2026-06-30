@@ -1,0 +1,92 @@
+{
+  "dataset": "30682.txt",
+  "file_name": "30682.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ऐतिहासिक अभिलेखहरू अनुसार चीनको इतिहास करिब 5,000 वर्ष पुरानो छ । इ.पू. 16 औं सताब्दीमा उत्खनन गरिएका अभिलेखहरूले यो ऐतिहासीक वास्तविकतालाई पुष्टि गर्ने गर्दछन् । चीन संसारको सबैभन्दा पुरानो सभ्यता मध्येको एक हो । शाङ वंशको समयमा कछुवाको हड्डीमा लेखिएका चीनीया लेखहरूको अध्ययन गर्दा तिनीहरू इ.पू. 1,500 तीरको भएको पत्ता लागेको छ । चीनीया सभ्यता ह्वाङ हो नदीको उपत्यकामा अवस्थित कुनै नगर राज्यबाट सुरू भएको मानिन्छ । इ.पू. 221मा चीन एक ठूलो साम्राज्यको रूपमा उदय भएको भन्ने मान्यता धेरैले राख्दछन् । च",
+    "चीन बंश का शासकहरूले चीनलाई एकै राज्यको रूपमा विकशित गर्ने जगहरू बसाले । इ.पू. 300मा एकै प्रकारको लेखन प्रणाली लागू गराउनु तथा इ.पू. 200मा कन्फ्युसियाली दर्शन लाई राष्ट्रिय आदर्शको रूपमा स्थापित गरे । चीन इतिहासको समय चक्र सँगै एकीकृत तथा विभाजित हुनुका साथै समय समयमा बिदेशीहरूबाट पनि शासित हुन पुग्यो । ती मध्ये धेरैजसो चीनीया जनसङ्ख्यामा विलिन भए । "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 637,
+    "text_length_avg": 126.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2883,
+    "estimated_records": 22
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 22,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30682.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30682.txt",
+    "relative_path": "30682.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30682.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2883,
+    "mtime": 1782796538.9816175,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "93c3cf14c676415aace56bb203168e8869ff7f88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

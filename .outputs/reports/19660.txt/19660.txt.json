@@ -1,0 +1,96 @@
+{
+  "dataset": "19660.txt",
+  "file_name": "19660.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वासलात भन्नाले संस्थाको वित्तीय अवस्था चित्रण गर्ने विवरणलाई जनाउँदछ । यसले तोकिएको दिनमा संस्थाको पूँजि, सम्पत्ति तथा दायित्वहरु कति छ भन्ने कुरा देखाउने गर्दछ ।",
+    "Statement of balance sheetDr.                CrLiability, capital.     Assets"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 162,
+    "text_length_avg": 98.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7788,
+      "Latin": 0.2212
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 885,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7788,
+      "Latin": 0.2212
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19660.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19660.txt",
+    "relative_path": "19660.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19660.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 885,
+    "mtime": 1782796488.024874,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d8ee7e5311b8c2eb6c3478845f58986e621abff6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

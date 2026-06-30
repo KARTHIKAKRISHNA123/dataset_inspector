@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30199.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिंहदरबार नेपालका प्रधानमन्त्रीको कार्यालय, रेडियो नेपाल, नेपाल टेलिभिजन तथा अन्य सरकारी कार्यालयहरू भएको परिसर हो। यो काठमाडौंको मध्य भागमा अवस्थित छ। यहाँ नेपालका सबैभन्दा महत्वपूर्ण सरकारी कार्यालयहरू रहेका छन्। फ्रान्सको भर्सेलेज दरबारबाट प्रभावित भएर यो दरबारको निर्माण चन्द्र शमशेरले गर्न लगाएका हुन् । ",
+    "सिंहदरबार राणा प्रधानमन्त्री चन्द्र शमशेरले आफ्नो निजी निवासको रूपमा इ.सं. 1903 मा बनाउन लगाएका थिए। यसको निर्माण कार्य सुरू भएको एक वर्ष भित्र नै पूरा भएको थियो। निर्माण पूरा हुँदा यसमा 1,700 वटा कोठाहरू थिए जुन त्यस बेलाको एसिया भरिको सबैभन्दा ठूलो दरवार थियो। यसको निर्माणमा त्यस बेलाको पच्चीस लाख रूपैयाँ खर्च भएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 35,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 754,
+    "text_length_avg": 253.03,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9959,
+      "Latin": 0.0041
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23516,
+    "estimated_records": 92
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 92,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30199.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30199.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30199.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23516,
+    "mtime": 1782796646.5700462,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9dc7808daaf7938d9ac64f3c1379de3e5c93c122",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

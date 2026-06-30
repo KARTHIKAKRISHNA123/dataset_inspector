@@ -1,0 +1,92 @@
+{
+  "dataset": "33542.txt",
+  "file_name": "33542.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रम विभाजन अर्थशास्त्रको एक आधारभूत अवधारणा हो । यसलाई आर्थिक वृद्धिका साधनको रुपमा व्याख्या गर्ने पहिलो विचारक एडम स्मिथ हुन् । उनले वेल्थ अफ नेशन्सको प्रारम्भमा एउटा सिंगै अध्यायमा श्रम विभाजनको व्याख्या गरेका छन् । श्रम विभाजन र विशिष्टीकरणको प्रयोगले उत्पादनमा अत्यधिक मात्रामा वृद्धि हुन गई उतपदक, उपभोक्ता र श्रमिक तीनै वर्गलाई फाइदा हुन्छ ।श्रम विभाजनलाई निम्नलिखत प्रकारले व्याख्उा गर्न सकिन्छ",
+    "विभिन्न पेशामा लागेका मानिसले आआफ्ना काममा विशिष्टता हासिल गर्छन् । कृषि जस्ता सामान्य पेशामा हुने श्रम विभाजनलाई रल श्रम विभाजन भनिन्छ भने औद्योगिक क्षेत्रमा हुने श्रम विभाजनलाई जटिल श्रम विभाजन भनिन्छ । जटिल श्रम विभाजनलाई पनि पूर्ण प्रक्रियाको श्रम विभाजन र अपूर्ण प्रक्रियाको श्रम विभाजनमा वर्गीकरण गर्न सकिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 402,
+    "text_length_avg": 359.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1938,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33542.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33542.txt",
+    "relative_path": "33542.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33542.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1938,
+    "mtime": 1782796552.057599,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2fd654c3f96f2506aa88cd1f9933ca09c22df8d7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

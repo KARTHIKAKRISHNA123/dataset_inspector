@@ -1,0 +1,94 @@
+{
+  "dataset": "337.txt",
+  "file_name": "337.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हाउस, वा हाउस, एम.डि., चिकित्सा सम्बन्धित एक अमेरिकी टेलिश्रृङ्खला हो। यो टेलिश्रृङ्खला फक्स नेटवर्कद्वारा सम् 2004, नोभेम्बर 16 देखि प्रशारण गर्न थालिएको हो। यो कार्यक्रम डेविड शोरद्वारा बनाइएको तथा एक्जेक्युटिभ निर्माण शोर र चलचित्र निर्देशक ब्रायन सिङ्गरद्वारा गरिएको हो। सन् 2007-2008मा यो टेलिश्रृङ्खला टेलिभिजनमा सबैभन्दा धेरै हेरिने स्क्रिप्टेड कार्यक्रम तथा अमेरिकन आइडल र डान्सिङ् विद् द स्टार पश्चात तेस्रो सबैभन्दा धेरै हेरिने टेलिभिजन कार्यक्रम बन्न गयो।",
+    "हाउसमा बेलायती अभिनेता ह्यु लउरीले मुख्य पात्र अमेरिकी डा॰ ग्रेगरी हाउसको पात्र निभाएका छन्। डा॰ हाउस न्यु जर्सीको काल्पनिक प्रिन्सटन-प्लेन्सबोरो शिक्षण अस्पतालमा डायग्नोस्टिक्स विभागका प्रमुखका रूपमा कार्यरत एक मेडिकल विद्वान हुन्छन्। उनका सर्वप्रथम डायग्नोस्टिक टिममा डा॰ रोबर्ट चेज, डा॰ एलिसन क्यामेरोन, र डा॰ इरिक फोरम्यान हुन्छन्। चौथों सिजनमा यो टिम टुक्रिन्छ र हाउसले 40 जना नयाँ प्रत्यासीहरूको प्रतिस्पर्धाबाट एउटा नयाँ टिम बनाउँछन् जसमा डा. रेमी \"थर्टिन\" ह्याड्ले, डा. क्रिस टउब, र डा. लरेन्"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 150,
+    "text_length_max": 709,
+    "text_length_avg": 426.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9097,
+      "Latin": 0.0903
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9677,
+    "estimated_records": 22
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 22,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9097,
+      "Latin": 0.0903
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "337.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\337.txt",
+    "relative_path": "337.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "337.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9677,
+    "mtime": 1782796552.7532182,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0353fec4ade95696868d967518317bd4ed9646c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

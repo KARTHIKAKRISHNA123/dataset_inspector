@@ -1,0 +1,94 @@
+{
+  "dataset": "5277.txt",
+  "file_name": "5277.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरआधुनिकतावाद आधुनिकताको सबैभन्दा नवीनत्तम उपागम जनाउने शव्द हो।",
+    "सन् 1934मा फेडरिको डि ओनिसले सर्वप्रथम postmodernismo शब्दको प्रयोग गरेका छन्। त्यसपछि आर्नोल्ड टोयन्बीले A Study of Historyको पाँचौँ भाग मा postmodernism शब्दको प्रयोग दुई विश्वयुद्धका बीचको समय जनाउनाका लागि गरेका छन्। यसरी उत्तरआधुनिक÷उत्तरआधुनिकता÷उत्तरआधुनिकतावाद शब्दको प्रयोग अगिबाटै भएको पाइए तापनि यसको खास विकास दोस्रो विश्वयुद्धपछिका दशकहरूमा भएको हो। उत्तरआधुनिकतावादको थालनी कसैले सन् 1945 देखि, कसैले सन् 1960 देखि, कसैले सन् 1968 देखि, कसैले सन् 1970 देखि र कसैले सन् 1980 देखिमाने ताप"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 653,
+    "text_length_avg": 163.87,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9776,
+      "Latin": 0.0224
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6327,
+    "estimated_records": 38
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 38,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9776,
+      "Latin": 0.0224
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5277.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5277.txt",
+    "relative_path": "5277.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5277.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6327,
+    "mtime": 1782796584.2865252,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1f864a93d338a96eeb36d40dbec23f855eaee47c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24377.txt",
+  "file_name": "24377.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यमुना नदी बङ्गलादेशको तीन प्रमुख नदीहरू मध्ये एक हो। यो नदि गङ्गा नदिको सबै भन्दा ठुलो र लामो सहायक नदि हो। यमनोत्री हिमनदिबाट उत्त्पत्ति भएको यो नदि 1,376 किलोमिटर लामो छ र यसले 366,223 बर्ग किलोमिटरको भूभाग सिंचित गरेको छ जुन गङ्गा बेसी मैदानको 40.2 % हुन आउँछ । यो नदि अल्लाहाबाद त्रिबेणी सङ्गम मा गङ्गा नदीमा गएर मिसिन्छ, जहा प्रत्येक 12-12 बर्षमा कुम्भ मेला लाग्ने गर्छ ।",
+    "यसले कयौ भारतीय राज्यहरु पार गर्छ: हारयाना, उत्तर प्रदेश, उत्तराखण्ड र दिल्ली । गङ्गा जस्तै, यमुना नदि पनि हिन्दु धर्ममा निकै सम्मानका साथ लिइन्छ र यमुना देवीको रुपमा पुजिन्छ । हिन्दु मिथक अनुसार उनी सुर्य देवकी पुत्री र यमराजका बहिनी थिइन् र उनलाई यमी पनि भनेर चिनिन्छ । यहाँ स्नान गर्नाले मृत्युको पिडा बाट मुक्ति पाइन्छ भन्ने विस्वास रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 376,
+    "text_length_avg": 253.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1956,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24377.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24377.txt",
+    "relative_path": "24377.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24377.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1956,
+    "mtime": 1782796509.5026166,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4e070fda8d7367391853e4a785a94cc582064eb6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

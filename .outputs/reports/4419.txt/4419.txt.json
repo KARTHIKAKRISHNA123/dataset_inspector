@@ -1,0 +1,92 @@
+{
+  "dataset": "4419.txt",
+  "file_name": "4419.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खनिज तेल भन्नाले पेट्रोलियम पदार्थ भन्ने बुझिन्छ । यो कच्चा खनिज तेल हो । यसले बल्न सक्ने पदार्थ भन्ने जनाउछ । यो हाइड्रोकार्बन र अन्य वस्तुहरुको मिश्रण हो । यो जमिन मुनि खानिबाट निकालिने भएकाले यसलाई खनिज तेल भनिएको हो । खनिज तेल एक जीवावशेष उर्जा हो ।खनिज तेल अन्तर्गत डिजेल, पेट्रोल, मट्टीतेल, प्राकृतिक ग्यास आदि पर्दछ्न् ।",
+    "पृथ्वीमा भूहलचल हुँदा मृत बोटबिरुवा, जनावर आदि केहि पत्रे चट्टानमुनी र केहि माटोमुनि थिचिएर रहन पुछन् । मृत वस्तुहरु समुद्रको पिँधमा रहँदा बालुवा, सिल्ट आदिसँग मिसिन्छन् । केहि भाग कुहिएर जान्छन् तर कडा भाग कुहिन सक्दैनन् । ति भागहरु फेरि पत्रे चट्टानले थिच्दछ । त्यहाँ रासायनिक प्रतिक्रिया भई हाइड्रोकार्बनका यौगिकहरु बन्दछ ।हाइड्रोकार्बन यौगिकहरुबाट नै कच्चा तेल बन्दछ । कच्चा तेललाई प्रसोधन गरेपछी मात्र प्रयोग गर्न मिल्ने तेल बन्दछ । यो प्रक्रिया हुन लाखौं करोडौं वर्ष लाग्ने हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 327,
+    "text_length_max": 487,
+    "text_length_avg": 407.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2166,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4419.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4419.txt",
+    "relative_path": "4419.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4419.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2166,
+    "mtime": 1782796579.6314495,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c7119a3ffd487a54c2fa084a3dc7824665cfc1d1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

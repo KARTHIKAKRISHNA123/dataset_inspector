@@ -1,0 +1,94 @@
+{
+  "dataset": "12295.txt",
+  "file_name": "12295.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल वायुसेवा निगम नेपालको राष्ट्रिय ध्वजावाहक विमान सेवा कम्पनी हो। जुलाई 1958 मा शाही नेपाल बायुसेवा निगम रूपमा स्थापना भएको यसलाई गणतन्त्र स्थापना लगत्तै नेपाल वायुसेवा निगम भनेर नामाकरण गरियो। अन्तराष्ट्रिय क्षेत्रमा 5 देशका 7 गन्तब्य स्थानमा उडान भर्ने यो नेपालको पहिलो अन्तर्राष्ट्रिय वायुसेवा कम्पनी हो। पूर्ण सरकारी स्वामित्व रहेको यसको मुख्य आधार त्रिभुवन अन्तर्राष्ट्रिय हवाई अड्डा, काठमाडौं हो । प्रधान कार्यालय काठमाडौंको नयाँ सडकमा रहेको नेवानीकाे पहिलो विमान एक डगलस डीसी-3 डकाेटा थियो",
+    "सन् 2015 मा बाेइंग 757 किनेकाे 28 वर्ष पछि निगमले फ्रान्सेली जहाज निर्माता कम्पनी एयरबससँग 2 वटा ए 320 जहाज खरिद गरेकाे थियाे । नयाँ एयरबस अाएपछि निगमले दिल्ली, बेंगलुरू लगायत अन्य नयाँ गन्तव्यहरूमा सेवा सुरू गरेकाे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 653,
+    "text_length_avg": 302.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9928,
+      "Latin": 0.0072
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3189,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9928,
+      "Latin": 0.0072
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12295.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12295.txt",
+    "relative_path": "12295.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12295.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3189,
+    "mtime": 1782796453.3625631,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5ac6c6be12ab658dc8bfff222d6d08aa8ad9486",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

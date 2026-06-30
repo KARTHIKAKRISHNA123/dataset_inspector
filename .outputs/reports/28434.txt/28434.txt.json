@@ -1,0 +1,93 @@
+{
+  "dataset": "28434.txt",
+  "file_name": "28434.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आजको लेख औजारहरू",
+    "मितिसँग सम्बन्धित कुनै पनि लेखलाई आजको सुचीकृत गर्नको लागि आवेदन दिनु होस् । आजको लेखको आवेदन निम्नानुसारको सांराश तालिकामा अनुरोध गरिएको मिति अनुसार क्रमवध्द रूपमा राखिएको छ । आजको लेख दैनिक रूपमा परिवर्तन हुने गरि तयार गरिएको हुँदा मितिसँग सम्बन्धित लेखलाई सो मितिमा मुख्य पृष्ठमा राख्नको लागी सूचीकृतको लागी आवेदन दिनु होला र कुनै पनि मितिको लागी एक भन्दा बढी आवेदन हुन सक्नेछन् । "
+  ],
+  "statistics": {
+    "records_sampled": 36,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 750,
+    "text_length_avg": 213.25,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9936,
+      "Latin": 0.0064
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20166,
+    "estimated_records": 94
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 94,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28434.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28434.txt",
+    "relative_path": "28434.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28434.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20166,
+    "mtime": 1782796528.2296453,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c06005daa3584558fd499786b5e460c0e4636207",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

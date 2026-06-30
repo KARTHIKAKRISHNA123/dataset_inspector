@@ -1,0 +1,92 @@
+{
+  "dataset": "33062.txt",
+  "file_name": "33062.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "स्मृतिको अर्थ हो स्मरण योग्य । वेदमा निहित आचार–विचार–पद्धतिहरू सम्झेर मनु आदि महर्षिहरूले स्मृति नामले चिनिने धर्मशास्त्र रचेका छन्् । वैदिक सिद्धान्तको व्याख्या सरल लौकिक संस्कृत भाषामा प्रस्तुत गर्ने हुदा स्मृतिहरू वैदिक धर्मका व्याख्याता ग्रन्थहरू हुन् । यही कुरा महाकवि कालिदासले प्रस्ट्याएका छन् । नारदस्मृतिमा भनिएंको छ– वार्ता र दण्डनीतिको विवेकशील प्रयोग गर्ने राज्य व्यवस्थामा जनता सुखी र सम्पन्न हुन्छन् । नारदले रचना गरेको यो ग्रन्थ विश्वको सर्वाधिक प्राचीन लिखित कानुनको उदाहरण मानिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 2274,
+    "text_length_avg": 903.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14638,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33062.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33062.txt",
+    "relative_path": "33062.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33062.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14638,
+    "mtime": 1782796549.8950622,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ac1b4771878186164b1f3edce82075c8e7536d49",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14383.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टुँडिखेल काठमाडौंको बीच भागमा अवस्थित मैदान हो । यो शहिदगेट र रत्नपार्कको बिचमा अवस्थित छ ।",
+    "कुनै बखत त्यो चउरमा ‘टुँडिल’ नामकी देवी थिइन्। काठमाडौंको स्थानीय भाषामा चउरलाई ‘ख्य’ भनिने हुनाले, उनै टुँडिल देवीको चउर ‘टुँडी ख्य’ हुँदै टुँडिखेल रहन गएको हो । अर्को किम्वदन्ती अनुसार इटुमबहास्का केशचन्द्रको लामो कथा छ। कुनै बखत केशचन्द्रको विलौना सुनेर परेवाले बिस्टाएका सुनलाई गुरुमापा नामको राक्षसद्वारा बोकाइ सहरभित्र छिराएका थिए। गुरुमापाले सहरभित्र छिरेपछि स्वभावअनुसार उपद्रव गर्न बाँकी राखेन। तर सहरवासीले त्यसो गर्न नदिई त्यो राक्षसलाई सहरभन्दा बाहिरको ठूलो चउरमा बसाउन योजना बुने। उसलाई "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 85,
+    "text_length_max": 860,
+    "text_length_avg": 345.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9701,
+      "Latin": 0.0299
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2742,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9701,
+      "Latin": 0.0299
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14383.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14383.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14383.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2742,
+    "mtime": 1782796615.364537,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "226ec2a02eb5c1b34daed2023bf2943c3365cd93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

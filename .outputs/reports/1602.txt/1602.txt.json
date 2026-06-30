@@ -1,0 +1,92 @@
+{
+  "dataset": "1602.txt",
+  "file_name": "1602.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 17°30′ उत्तर 42°30′ पूर्व / 17.500° उत्तर 42.500° पूर्व / 17.500; 42.500",
+    "जिजान प्रान्त' वा जजान प्रान्त, जस्लाई औपचारिक अरबी मा मिन्तकाह जाजान भन्द छन्, साउदी अरब को दक्षिणपश्चिम कुनामा स्थित लाल सागर को किनारमा स्थित छ। यो प्रान्त ठीक यमन देखि उत्तरमा छ र यस प्रान्त को अंतर्राष्ट्रीय सीमा पनि यमन संग जोडियेको छ। जिजान प्रान्तको लाल सागरमा 100 भन्दा पनि बढी द्वीपहरु छन, जस्मा फरसान द्वीप समूह साउदी अरबको सर्वप्रथम संरक्षित क्षेत्र हो। यहाँ अरबी गजल र यूरोप बाट जाडोमा आउने धेरै प्रकारका चराहरुको पाईन्छ। यो प्रान्त साउदी अरबको दोश्रो सबैभन्दा सानो प्रान्त हो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 490,
+    "text_length_avg": 144.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2602,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1602.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1602.txt",
+    "relative_path": "1602.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1602.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2602,
+    "mtime": 1782796470.3357582,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "754218356c5a6f1165be9c92d704b110d32a8d42",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15188.txt",
+  "file_name": "15188.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली भाषाका महिला चलचित्र निर्देशकहरू भन्नाले नेपाली चलचित्र उद्योगमा संलग्न नेपाली महिला चलचित्र निर्देशकहरूलाई बुझाउँछ ।",
+    "नेपाली चलचित्रको इतिहास वि.सं. 2008 सालमा प्रदर्शनमा अएको नेपाली भाषामा बनेको पहिलो चलचित्र ''सत्य हरिशचन्द्र''बाट शुरू भएको मानिन्छ। यद्यपी यो नेपालमा नभएर भारतको कलकत्तामा बनेको थियो। नेपालमै बनेको पहिलो चलचित्र भने आमा हो जुन वि.सं. 2022 सालमा प्रदर्शन भएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 455,
+    "text_length_avg": 260.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6947,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15188.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15188.txt",
+    "relative_path": "15188.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15188.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6947,
+    "mtime": 1782796466.3799517,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "77405fb4025da33e780699dea573be39c9dec3fa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

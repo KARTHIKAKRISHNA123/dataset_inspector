@@ -1,0 +1,91 @@
+{
+  "dataset": "27474.txt",
+  "file_name": "27474.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किम इल-सुङ विश्वविद्यालय उत्तर कोरियामा स्थापना भएको पहिलो विश्वविद्यालय हो । यस विश्वविद्यालयको स्थापना सन् 1946 अक्टोबर 1 मा भएको थियो । राष्ट्रको राजधानी प्योङयाङमा स्थापित यस विश्वविद्यालयले 15 हेक्टर जग्गा ओगटेको छ । मुख्य शैक्षिक भवनहरूसँगै यस विश्वविद्यालयमा 10 छुट्टा छुट्टै कार्यालयहरू, 50 प्रयोगशाला, पुस्तकालयहरू, सङ्ग्रहालय, एउटा मुद्रण छापाखाना, एउटा अनुसन्धान तथा विकास केन्द्र, सजावट भवन र एउटा अस्पताल रहेको छ ।यहाँ एउटा कम्प्यूटर ल्याब समेत रहेको छ तर यहाँ इन्टरनेट पहुँचलाई सीमित पा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 731,
+    "text_length_max": 731,
+    "text_length_avg": 731.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1936,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27474.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27474.txt",
+    "relative_path": "27474.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27474.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1936,
+    "mtime": 1782796523.8151293,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0812c8a0117e03c60716f13dac77267e768cf6f9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

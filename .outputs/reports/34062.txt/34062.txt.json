@@ -1,0 +1,94 @@
+{
+  "dataset": "34062.txt",
+  "file_name": "34062.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मध्यम तरंग जो छन्, ती मध्यम आवृत्ति रेडियो पट्टीको भाग हो, जो कि आयाम अधिमिश्रण वा Amplitude Modulation का प्रसारण हेतु प्रयोग हुन्छ। अधिकतर विश्वका भागहरूमा यसका प्रसारण हेतु 520 kHzदेखि लिएर 1611 kHz,को आवृत्तिहरू प्रयोग हुन्छन्। यस पट्टीलाई कहिले कहिले ए एम पट्टी पनि भन्दछन्, जबकि केवल आवृत्ति पट्टी होइन, जो कि ए एम हेतु प्रयोग गरिन्छ। ",
+    " यो विज्ञान स्म्बन्धित लेख आफ्नो प्रारम्भिक अवस्थामा छ, अथवा यो एक आधार हो। तपाईं यसलाई बढ़ाएर विकिपिडियालाई मदद गर्न सक्नुहुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 341,
+    "text_length_avg": 235.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.934,
+      "Latin": 0.066
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1181,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.934,
+      "Latin": 0.066
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34062.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34062.txt",
+    "relative_path": "34062.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34062.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1181,
+    "mtime": 1782796554.4285295,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0ceea70c8ac9a7a7f0ebb54a61dbe69ed1e977d5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

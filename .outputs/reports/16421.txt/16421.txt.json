@@ -1,0 +1,93 @@
+{
+  "dataset": "16421.txt",
+  "file_name": "16421.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैदिक साहित्य भारतीय संस्कृतिको प्राचीनतम स्वरूपमा प्रकाश पारने वाला तथा विश्वको प्राचीनतम् साहित्य हो। वैदिक साहित्यलाई श्रुति पनि भनिन्छ, किनभनें पुराना ऋषिहरूले यस साहित्यलाई श्रवण-परम्परादेखि ग्रहण गरेका थिए।",
+    "इस विषयका विद्वानहरूमा पर्याप्त मतभेद छ कि वेदहरूको रचना कहिले भएको र उनमा कुन कालको सभ्यताको वर्णन मिल्दछ। भारतीय वेदहरूलाई अपौरुषेय मान्दछन् |अतः नित्य हुनाले तिनको काल-निर्धारणको प्रश्न नैं उठ्दैन तर पश्चिमी विद्वानहरू वेदहरूलाई ऋषिहरूको रचना मान्दछन् |यस अर्थमा वेदका रचनाकालका सम्बन्धमा उनिहरूले अनेक कल्पनाहरू गरेका हुन्। उनिहरूमा पहिलो कल्पना मैक्समूलरको छ। उनले वैदिक साहित्यको काल 1200 ई। पू.देखि 600 ई। पू। मानेकाछन् | अर्को कल्पना जर्मनी विद्वान विण्टरनिट्जको छ। उनले वैदिक साहित्यको रचनाआ"
+  ],
+  "statistics": {
+    "records_sampled": 34,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 1468,
+    "text_length_avg": 392.03,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 35735,
+    "estimated_records": 91
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 91,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16421.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16421.txt",
+    "relative_path": "16421.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16421.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 35735,
+    "mtime": 1782796472.233663,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ee90ccf02a7cc481ae926949d1718fd619ed59c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

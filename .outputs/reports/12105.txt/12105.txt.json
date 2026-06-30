@@ -1,0 +1,92 @@
+{
+  "dataset": "12105.txt",
+  "file_name": "12105.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिस्नो अङ्ग्नेजीमा नेटल भनेर चिनिने यो वनस्पति नेपालको मध्य पहाडी क्षेत्र तथा उपत्यकामा पाइने अट्रिक्यसी परिवारको पोल्ने झार हो । यसमा औषधिय गुण रहेको हुन्छ र उमालेर खान सकिन्छ । यसमा हुने रौ जस्तो झुसमा हुने फर्मिक अम्लले पोल्ने र हिस्टामाइनले सुन्निने भएकोले पीडादायक हुन्छ तर पानीमा उमालेपछि ती तत्वहरू नास भएर जान्छन् । यसको सोहि दुर्गुणको कारण पहिले पहिले यातना दिन तथा सजाय दिन यसको प्रयोग गरिन्थ्यो ।",
+    "यसमा हुने भिटामिन ए,भिटामिन सी, भिटामिन डी लौहतत्व, पोटासियम, म्यागानिज, क्याल्सियम जस्ता पौष्टिक पदार्थको कारण उत्तरी तथा पूर्वी युरोपमा यसको झोल लामो समय देखि प्रचलित रहेको छ। यसमा 25% सम्म् प्रोटिन हुन्छ त्यसैले यो शाकाहरीहरूको लागि अति उत्तम भोजन हो। यो अति मुल्यवान 'गउडा चीज' र यार्ग मा स्वादको लागि प्रयोग गरिन्छ।नेपाल को पहाडी क्षेत्र मा जनसंख्या को बृद्दि तथा अन्य झारहरूको प्रसारले सिस्नो पहिले जस्तो जता ततै पाईदैन|"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 426,
+    "text_length_avg": 131.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2461,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12105.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12105.txt",
+    "relative_path": "12105.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12105.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2461,
+    "mtime": 1782796452.4136581,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2a62e549b28c1b2181f0fc717a98d949fa00e539",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

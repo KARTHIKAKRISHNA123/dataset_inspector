@@ -1,0 +1,92 @@
+{
+  "dataset": "21277.txt",
+  "file_name": "21277.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुल्मी जिल्लामा पर्ने एक गाउँ हो ठूलाचेक्मी । यो गाउँ साविकको अर्खले गाउँ विकास समिति वडा नं 1 तथा हालको रेसुङ्गा नगरपालिका वडा नं 6 मा पर्ने एक रमणीय गाउँ हो । यो गाउँको पूर्वमा अत्रकाँडा, पश्चिममा अर्घाखाँचीको मरेङ गा.वि.स., उत्तरमा साविक नयाँगाउँ गा.वि.स. तथा दक्षिणमा अर्घाखाँचीको मरेङ गा.वि.स. रहेको छ । अर्थात यो गाउँ गुल्मी जिल्लाको सिमान्त गाउँको रुपमा रहेको छ र अर्घाखाँची जिल्लासँग यसको सिमाना जोडिएको छ । पूर्वमा रहेको अत्रकाँडा पहाडको छायाँमा रहेको यो गाउँ पहाडकै टुप्पोमा रहेको समथर भुभा",
+    "ठूलाचेक्मी गाउँमा रहेका मूख्य टोलका नामहरुः"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 515,
+    "text_length_avg": 42.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2201,
+    "estimated_records": 52
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 52,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21277.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21277.txt",
+    "relative_path": "21277.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21277.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2201,
+    "mtime": 1782796495.675691,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.944,
+    "sha1_quick": "eca7f9afc9de59bf7eadcc3b60b4c04661f2dbb4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

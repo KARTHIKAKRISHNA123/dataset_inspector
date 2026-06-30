@@ -1,0 +1,92 @@
+{
+  "dataset": "12068.txt",
+  "file_name": "12068.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केदार शर्मा नेपाली लेखक तथा सञ्चारकर्मी हुन्। इलाम जिल्लाको मा माघे गाउँमा जन्मेका शर्माले हिमाल खबर पत्रिका, गाउँघर-भित्ते पत्रिका, वातावरण-भित्ते पत्रिका लगायत दर्जन जति पुस्तक एवं पत्रपत्रिकाको सम्पादन गरेका छन्।",
+    "1) वि.स. 2042 सालमा ने.प्र.प्र. द्वारा आयोजित कविता महोत्सवमा दोस्रो पुरस्कार प्राप्त 2) क्याम्पस/अन्तरक्याम्पस स्तरीय प्रतियोगिताहरूमा पुरस्कृत"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 144,
+    "text_length_max": 215,
+    "text_length_avg": 179.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 955,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12068.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12068.txt",
+    "relative_path": "12068.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12068.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 955,
+    "mtime": 1782796452.2666266,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "872008de51c993164ad12e663fe18dc73e7c0bf0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

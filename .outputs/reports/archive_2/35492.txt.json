@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "35492.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शक सम्बत जसलाई शाके वा श्री शाके भनेर पनि लेखिएको छ, एक ऐतिहासिक सम्बत हो। यसको सुरूवात ईश्वी सम्बतको वर्ष 78 तिर हुन जान्छ। भारतमा यसलाई शालिवाहन शक भनिन्थ्यो । यो सम्बतको प्रयोग हिन्दु, बौद्ध र जैन धर्मका पुस्तकहरूमा छ । यस सम्बतको उत्पत्ति विवादास्पद छ । यो सम्बतलाई भारतीय राष्ट्रिय पात्रोको नाम स्वीकृत गरिएको छ । यो प्राचिन इन्डोनेशियाको जावा द्वीप राज्यमा प्रचलित पनि थियो ।",
+    "शक संवत्‌का विषयमा बुदुआको मत छ कि यसलाई उज्जयिनीका क्षत्रप चेष्टनले प्रचलित गरे। शक राज्यहरुलाई चन्द्रगुप्त विक्रमादित्यले समाप्त गरिदिए तथापि तिनको स्मारक शक संवत्‌ अहिलेसम्म भारतवर्षमा चलिरहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 381,
+    "text_length_avg": 247.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1977,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35492.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\35492.txt",
+    "relative_path": "archive (2)\\valid\\valid\\35492.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1977,
+    "mtime": 1782796657.364669,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.979,
+    "sha1_quick": "c9691fb4db74e6151b37e79eee9029678d6f6a32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

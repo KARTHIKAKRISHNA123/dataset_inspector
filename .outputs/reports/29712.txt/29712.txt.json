@@ -1,0 +1,94 @@
+{
+  "dataset": "29712.txt",
+  "file_name": "29712.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल वान भारतबाट प्रसारण हुने एक नेपाली टेलिभिजन हो। सँधै अगाडि भन्ने मूल नाराका साथ स्थापित यस टेलिभिजनले समाचारका साथसाथै विभिन्न मनोरञ्जनात्मक टेलिभिजन कार्यक्रम पनि प्रसारण गर्दै आएको छ ।",
+    "nepal1tv.net"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 192,
+    "text_length_avg": 102.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9422,
+      "Latin": 0.0578
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 533,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9422,
+      "Latin": 0.0578
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29712.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29712.txt",
+    "relative_path": "29712.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29712.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 533,
+    "mtime": 1782796534.519117,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "717e78e23a5590cfb24277324f76f09995fe018a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

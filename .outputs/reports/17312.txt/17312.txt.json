@@ -1,0 +1,92 @@
+{
+  "dataset": "17312.txt",
+  "file_name": "17312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "त्रिभुवन पार्क काठमाडौंको दक्षिणपश्चिम प्रवेशद्वार थानकोटमा रहेको छ ।काठमाडौं उपत्यकाका मनोरम स्थानहरु मध्य त्रिभुवन पार्क पनि एक महत्वपूर्ण स्थानहरु मध्य पर्दछ । काठमाडौं बासीहरु आफ्नो फुर्सदको समयमा शान्त वातावरणको खोजीमा यस स्थानमा जाने गर्दछन् । राजा त्रिभुवनको नामबाट नामांकन गरिएको यस पार्क पछिल्लो समयमा विभिन्न राजनीतिक गतिविधिका कारणले गर्दा यस पार्कको मर्मत सम्भार तथा सरसफाईको खासै ख्याल गरिएको देखिदैन । ",
+    "2072 सालको महाभूकम्पको असर यस पार्कलाई पनि पर्यो। उक्त भुकम्पले पार्कमा प्रमुख आकर्षणको रूपमा रहेको राजा त्रिभुवनको शालिक ढल्यो। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 416,
+    "text_length_avg": 272.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1471,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17312.txt",
+    "relative_path": "17312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1471,
+    "mtime": 1782796476.689902,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b59f4ed591d5afcab5fa29f5653ff0071dd31c63",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

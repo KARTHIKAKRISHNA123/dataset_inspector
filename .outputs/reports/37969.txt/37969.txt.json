@@ -1,0 +1,96 @@
+{
+  "dataset": "37969.txt",
+  "file_name": "37969.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "What you have done is in your sandbox. Sandbox is for experiments. Especially to let you know. You can see how is an article is displayed when you write. It lets you know about the wiki tags.",
+    "Now, you have to create a new article in name of मीरा बाई If it is not existing in the wiki."
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 191,
+    "text_length_avg": 65.36,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.8403,
+      "Devanagari": 0.1597
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1159,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.8403,
+      "Devanagari": 0.1597
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37969.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37969.txt",
+    "relative_path": "37969.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37969.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1159,
+    "mtime": 1782796573.1210928,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "267043c3d8ce90af2f63ccac949103ac107b7595",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

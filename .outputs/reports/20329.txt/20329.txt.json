@@ -1,0 +1,94 @@
+{
+  "dataset": "20329.txt",
+  "file_name": "20329.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झम्झमा एक अरबी शव्द हो जसले \"चट्याङ्ग,\" या \"गर्जन\" भन्ने बुझाउँछ । अरु अनगिन्ती अरबी र फारसी शब्दहरू जस्तै, यो उर्दु भाषामा आगन्तुकका रूपमा आएको थियो र अहिले थेट शव्दका रूपमा लिन थालिसकिएको छ । अर्थ चाहीँ: सुरको थप भन्ने हुन्छ . झम्झमा एक अलङ्कार हो अथवा Alankar ) र आलङ्कारिक सज्जा होपूर्वीय शास्त्रिय संगितको, मुख्य रूपमा राग प्रस्तुति - र वाद्यवादनमा ।",
+    "खट्का, जस्तै, झम्झमा एक सुरहरूको समूह, हो जसलाई कलाकार ले अन्त सुर ल्याउन प्रयोगमा ल्याउने गर्दछन् । यसको र खट्काको बीचमा भिन्नता चाहि, सुरहरू समायोजन हो । झम्झमामा आरोहगमा सम्पूर्ण स्वरहरूको समायोजन हुन्छ । स्रोताहरूलाई यो जटिल लाग्न सक्छ जस्तैतान जस्तै तिखोगमकs."
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 355,
+    "text_length_avg": 266.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9877,
+      "Latin": 0.0123
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2083,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9877,
+      "Latin": 0.0123
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20329.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20329.txt",
+    "relative_path": "20329.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20329.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2083,
+    "mtime": 1782796491.1668303,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "4ef0ca64893e9a59e9dbcc6928123401c8e53f7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

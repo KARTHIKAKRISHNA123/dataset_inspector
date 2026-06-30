@@ -1,0 +1,92 @@
+{
+  "dataset": "13112.txt",
+  "file_name": "13112.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सेख सलमान बिन इब्राहिम अल खलिफा 2 मे 2013 देखि एसियाली फुटबल महासंघका अध्यक्ष हुन् । एएफसी को अध्यक्ष को रूपमा निर्वाचित हुनु भन्दा पहिले उनी बहराइन फुटबल संघका अध्यक्ष थिए । ऊनी फिफा परिषद्का सदस्य तथा फिफा विकास समितिका अध्यक्ष पनि हुन् ।",
+    "उनका तीनजना सन्तान छन्, दुई छोरीहरू, 1986 मा जन्मिएकी शेखा लातिफा र 1998 मा जन्मिएकी शेखा आइसा र 2001 मा जन्मेका छोरा शेख इस ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 240,
+    "text_length_avg": 183.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 928,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13112.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13112.txt",
+    "relative_path": "13112.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13112.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 928,
+    "mtime": 1782796457.148742,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "971e77dd53136b2c49279ebd1385be91c7f2b207",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

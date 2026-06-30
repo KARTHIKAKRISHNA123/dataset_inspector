@@ -1,0 +1,94 @@
+{
+  "dataset": "1477.txt",
+  "file_name": "1477.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भरत खवास एक नेपालका महत्त्वपूर्ण फुटबल खेलाडी हुन् । हाल उनी नेपाल आर्मी क्लबमा आबद्ध रहेका छन् भने आर्मीकै फुटबल टिम त्रिभुवन आर्मी क्लबबाट फुटबल खेल्ने गर्दछन्। or 16 April 1992",
+    "खवासले नेपाली फुटबल टिममा 2008 देखि प्रवेश पाएका हुन् । उनी नेपालले 2016 सालमा एएफसी सोलिदरिटी कप जित्दाको एक महत्त्वपूर्ण सदस्य हुन् ।दभरतले नेपालकालागि 20 खेल खेलि सकेका छन् भने 10 गोल समेत गरिसकेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 91,
+    "text_length_max": 346,
+    "text_length_avg": 225.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9952,
+      "Latin": 0.0048
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4710,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9952,
+      "Latin": 0.0048
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1477.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1477.txt",
+    "relative_path": "1477.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1477.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4710,
+    "mtime": 1782796464.5666397,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "afd797e0b52fff19ac0f8d12dedaece13d1f4f7f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

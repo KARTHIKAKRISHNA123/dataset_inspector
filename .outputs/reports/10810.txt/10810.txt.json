@@ -1,0 +1,92 @@
+{
+  "dataset": "10810.txt",
+  "file_name": "10810.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट विश्वकप 1992 क्रिकेट विश्वकप प्रतियोगिताको पाँचौ क्रिकेट विश्वकप थियो । यो प्रतियोगिता 22 फेब्रुअरी देखि 25 मार्च सम्म अस्ट्रेलिया तथा न्यु जिल्यान्डमा भएको थियो । यो टुर्नामेन्ट बेन्सन्स एण्ड हेजेज कम्पनीद्वारा प्रायोजित रहेको थियो । यस टुर्नामेन्टमा 9 वटा टिमले भाग लिएको थियो । ",
+    "सन् 1992 को विश्वकप अस्ट्रेलिया तथा न्युजिल्यान्डमा आयोजना भएको थियो । यस विश्वकपमा पहिलो पटक रङ्गीन जर्सी, सेतो क्रिकेट बल तथा कालो साइट स्क्रीनको प्रयोग गरिएको थियो जुन पछी गएर अत्यन्तै लोकप्रिय भएको थियो । यो पहिलो क्रिकेट विश्वकप थियो जुन दक्षिणी ध्रुवमा आयोजना गरिएको थियो । यो पहिले विश्वकप थियो जसमा दक्षिण अफ्रिका राष्ट्रिय क्रिकेट टिमलाई समावेश गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 282,
+    "text_length_max": 367,
+    "text_length_avg": 312.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2461,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10810.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10810.txt",
+    "relative_path": "10810.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10810.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2461,
+    "mtime": 1782796446.4733975,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dc857c56e9a680bd1dbe35a2ba2ed2c6dafa99fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

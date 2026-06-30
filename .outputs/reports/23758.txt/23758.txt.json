@@ -1,0 +1,92 @@
+{
+  "dataset": "23758.txt",
+  "file_name": "23758.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भाद्रपद महिनाको शुक्ल पक्षमा पर्ने एकादशी तिथिलाई परिवर्तिनी एकादशी अथवा हरिपरिवर्तिनी एकादशी भनिन्छ । यस तिथिलाई वामन एकादशी र जयन्ती एकादशीका नामले पनि चिनिन्छ । यस दिनलाई नेपाल र भारत लगायत विभिन्न मुलुकहरूमा बसोवास गर्ने हिन्दू धर्मावलम्बीहरूले व्रत धारण गरेर एक पर्वको रुपमा मनाउने गर्छन् ।",
+    "युधिष्ठिर भन्दछन् हे भगवान! भाद्रपद शुक्ल एकादशीको नाम के हो ? यसको विधि तथा यसको माहात्म्य कृपा गरेर भन्नुहोस् । भगवान श्रीकृष्ण भन्दछन् - यस पुण्य, स्वर्ग र मोक्ष दिने तथा सबै पापहरूको नाश गर्शे, उत्तम वामन एकादशीको माहात्म्य म तिमीलाई भन्छु तिमी ध्यानपूर्वक सुन ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 266,
+    "text_length_max": 680,
+    "text_length_avg": 352.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5614,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23758.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23758.txt",
+    "relative_path": "23758.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23758.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5614,
+    "mtime": 1782796506.681756,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "ff697ad4c1c58340fbe3d18d87a53f9398841ed1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

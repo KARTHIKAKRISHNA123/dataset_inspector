@@ -1,0 +1,92 @@
+{
+  "dataset": "27675.txt",
+  "file_name": "27675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जज् मोबाइल सञ्चार लिमिटेड को रूपमा चिनिन्थ्यो, तथापि नोभेम्बर 2015 मा वारिदटेल पाकिस्तानसँग समायोजनको घोषणा भएको थियो र दुवै कम्पनीले 'जज्'को नामको पुन आफ्नो सेवा सञ्चालन गरेका थिए । दुवै समायोजित कम्पनीहरू अब सामूहिक रूपमा पाकिस्तानमा 56 मिलियन ग्राहकहरूलाई सेवा गर्छन् जो कुल बजार साझेदारीको 37% हो ।",
+    "जजले पाकिस्तानमा 8500 भन्दा अधिक सक्रिय सेल टावरहरू सञ्चालनमा ल्याएको छ र 6500 किलोमिटर लामो अप्टिकल फाइबरकेबल ओछ्याइएको छ। 20 भन्दा बढी सहरहरूमा हाल जजको 4 जी एलटिइ सेवा फैलिएको छ। जजले, आफ्नो सञ्जाल सञ्चालनको लागि, एरिक्सन र संक्षिप्त सन्देश सेवा केन्द्र लागि एसिसनको उपयोग गर्दछ। जजले आफ्नो सञ्जालमा 3.9 अरब भन्दा बढी अमेरिकी डलरको लगानी गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 349,
+    "text_length_avg": 180.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4279,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27675.txt",
+    "relative_path": "27675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4279,
+    "mtime": 1782796524.6836486,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8b702e019bb9a2b2af947665ce011f2f8a755780",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

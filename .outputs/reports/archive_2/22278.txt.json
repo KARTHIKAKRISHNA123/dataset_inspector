@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22278.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेसीशहर नेपालको गण्डकी प्रदेशको लमजुङ जिल्लामा अवस्थित एउटा नगरपालिका हो । यो लमजुङ जिल्लाको सदरमुकाम तथा प्रमुख व्यापारिक केन्द्र पनि हो । बेसीशहर बजार रहेको ठाँउलाई नगरपालिकाको केन्द्र बनाइएको छ । यो नगरपालिका 2071 बैशाख 25 गते घोषणा भई 2071 जेष्ठ 1 गतेबाट कार्यन्वयनमा आएको हो । यसलाई नगरपालिका घोषणा गर्दा बेसीशहर,उदीपुर,गाउँशहर र चण्डीस्थान गाउँ विकास समितिहरू समावेश गरिएका हुन् । यस नगरपालिकामा 14 वटा ओडाहरू रहेका छन् र यस नगरपालिकामा बिभिन्न जात जतिको बसोबास रहेको छ ।",
+    "बेसीशहर,उदीपुर,गाउँशहर र चण्डीस्थान गाउँ विकास समितिहरू मिलाएर बेसीशहर नगरपालिका बनाइएको हो । त्यसैले एघारौं राष्ट्रिय जनगणना 2068 अनुसार यी ठाउँहरूको जनसंख्यालाई जोडेर 26,640रहेको यस नगरपालिकामा 7,238 घरधुरी रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 477,
+    "text_length_avg": 108.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2596,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22278.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22278.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22278.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2596,
+    "mtime": 1782796630.8652008,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "46ad313eddc915881d0c5833acb72a8a3016a978",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

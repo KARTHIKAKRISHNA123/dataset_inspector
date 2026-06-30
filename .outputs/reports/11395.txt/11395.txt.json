@@ -1,0 +1,93 @@
+{
+  "dataset": "11395.txt",
+  "file_name": "11395.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिजोरम भारतको एउटा उत्तर पूर्वी राज्य हो । सन् 2011 मा यहाँको जनसँख्या लगभग 11 लाख रहेको थियो । मिजोरममा साक्षरताको दर भारतमा तेश्रो सबैभन्दा बढी 91.58% रहेको छ । यहाँको राजधानी आईजोल हो । ",
+    "मिजोरम एउटा पर्वतीय प्रदेश हो। फरवरी, 1987मा यो भारतको 23औं राज्य बन्यो। 1972मा केन्द्रशासित प्रदेश बननाले पहिलासम्म यो असमको एउटा जिल्ला थियो। 1891मा ब्रिटिश अधिकारमा जानेका पछि केही वर्षोसम्म उत्तरको लुशाई पर्वतीय क्षेत्र असमका र आधा दक्षिणी भाग बङ्गालका अधीन रह्यो। 1898मा दुइटैलाई मिलाएर एउटा जिल्ला बना दिइएको जसको नाम पडा-लुशाई हिल्स जिल्ला र यो असमका मुख्य आयुक्तका प्रशासनमा आए। 1972मा पूर्वोत्तर क्षेत्र पुनर्गठन अधिनियम लागू भएमा मिजोरम केन्द्रशासित प्रदेश बन गया। भारत सरकार र मिजो नेशनल फ"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 920,
+    "text_length_avg": 401.65,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18088,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11395.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11395.txt",
+    "relative_path": "11395.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11395.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18088,
+    "mtime": 1782796449.1728404,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "018f59dee086b2eec2581968680da81eb07cc26f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

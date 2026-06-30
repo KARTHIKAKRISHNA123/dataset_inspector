@@ -1,0 +1,91 @@
+{
+  "dataset": "4126.txt",
+  "file_name": "4126.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोवर्धन पूजा हिन्दुहरूको एउटा प्रमुख पर्व हो । हिन्दू पौराणिक कथन अणुसार गोवर्धन गोकुल नजीकै रहेको एक पर्वत हो । विश्वासानुसार कृष्ण भगवान गोकुलमा गोपालहरूसँग बस्दथे । गोपालहरू देवताका राजा इन्द्रको पूजा गर्ने गर्दथे तर इन्द्रवाट उनीहरूले केही पाउँदैन थिए । कृष्णले एकदिन गोकुलवासीहरूलाई केही नदिने इन्द्रको पूजा गर्नु भन्दा खनिज, घास, पानी, दाउरा इत्यादी दिने गोवर्धन पर्वतको पूजा गर्नु राम्रो हुने कुरा राख्छन् र सवैजना त्यसै गर्न राजी हुन्छन् । गोवर्धन पर्वतको पूजा हुन्छ । आफ्नो सट्टा गोवर्धन पर्"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1173,
+    "text_length_max": 1173,
+    "text_length_avg": 1173.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3128,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4126.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4126.txt",
+    "relative_path": "4126.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4126.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3128,
+    "mtime": 1782796578.086181,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fc8fd100b9394917e4dc05cd87f4b857e60ef741",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

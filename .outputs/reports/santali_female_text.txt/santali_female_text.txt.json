@@ -1,0 +1,97 @@
+{
+  "dataset": "santali_female_text.txt",
+  "file_name": "santali_female_text.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "sat",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "train_santalifemale_00001\tसानताड़ होड़ दो़, भारत दिसोम रेन् आ़द बुनियद होड़ काना बोन।",
+    "train_santalifemale_00002\tआबो रेन आ़दमानवा दो़ पिलचू हाड़ाम आर पिलचू बुड़ही को मेता किन ताँहेंकाना।"
+  ],
+  "statistics": {
+    "records_sampled": 6187,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 380,
+    "text_length_avg": 104.82,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7804,
+      "Latin": 0.2196
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1463961,
+    "estimated_records": 14404
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14404,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en",
+      "sat"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "sat",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7689,
+      "Latin": 0.2311
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "santali_female_text.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\santali_female_text.txt",
+    "relative_path": "santali_female_text.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "santali_female_text.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1463961,
+    "mtime": 1782795984.136371,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.938,
+    "sha1_quick": "b5c3eb2023a8565f8bfddbf4f574926b23286466",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

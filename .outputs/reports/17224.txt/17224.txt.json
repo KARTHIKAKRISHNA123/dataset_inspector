@@ -1,0 +1,92 @@
+{
+  "dataset": "17224.txt",
+  "file_name": "17224.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कार्बोहाइड्रेट्स, कार्बनिक पदार्थ हो जसमा कार्बन, हाइड्रोजन अनि अक्सिजन हुन्छन्. यसमा हाइड्रोजन अनि अक्सिजनको अनुपात जलको समान हुन्छ। केही कार्बोहाइड्रेट्स सजीवहरुका शरीरका रचनात्मक तत्वहरुको निर्माण गर्दछन् जस्तो कि सेल्यूलोज, हेमीसेल्यूलोज, काइटिन तथा पेक्टिन। जबकि केही कार्बोहाइड्रेट्स उर्जा प्रदान गर्दछन्, जस्तो कि मण्ड, शर्करा, ग्लूकोज, ग्लाईकोजेन. कार्बोहाइड्रेट्स स्वादमा गुलियो हुन्छन्। यो शरीरमा शक्ति उत्पन्न गर्ने प्रमुख स्रोत हो। शरीरलाई शक्ति र गर्मी प्रदान गर्नका लागि चर्बीको भाँति य",
+    " कार्बोहाइड्रेट · इन्जाइम · आवश्यक वसीय अम्ल · लिपिड · \"खनिज\" · प्रोटीन · भिटामिन · जल · योज्य · फ्लेवर · रंग"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 109,
+    "text_length_max": 1145,
+    "text_length_avg": 627.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3330,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17224.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17224.txt",
+    "relative_path": "17224.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17224.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3330,
+    "mtime": 1782796476.1513424,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8fb4efcc35dbe81978c7e93b002c5891f4c54163",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

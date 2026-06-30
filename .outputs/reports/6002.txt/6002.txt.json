@@ -1,0 +1,94 @@
+{
+  "dataset": "6002.txt",
+  "file_name": "6002.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तीव्रग्राहिता एउटा गम्भिर एलर्झी सम्बन्धी प्रतिक्रिया हो जुन सुरुवातमा तीव्र हुन्छ र मृत्यू पनि हुनसक्छ। यसले सामान्यतया चिलाउने खटीरा, घाँटी सुन्निने, तथा कम रक्त चाप जस्ता लक्षणहरु देखाउँछ। साधारण कारणहरूमा किराको टोकाइ/डसाइ, खानाहरू, तथा औषधीहरू पर्दछन्।",
+    "प्याथोफिजियोलजीक स्तरमा, तीव्रग्राहिता यात रोग-प्रतिरोधात्मक क्षमता सम्बन्धी वा गैर-रोगप्रतिरोधात्मक क्षमता सम्बन्धी संयत्रहरूबाट सुरु भएका केही प्रकारका सेता रक्त कोषहरू बाट मेडिएटरहरूको छुट्काराद्वारा हुने गर्दछ। यसलाई देखीइरहेका लक्षणहरू र संकेतहरूको आधारमा निदान गरिन्छ। प्राथमिक उपचार भनेको एपिनेफ्रीन को सुई दिनु हो, अन्य उपायहरू पूरक हुन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 35,
+    "missing_text": 0,
+    "text_length_min": 201,
+    "text_length_max": 955,
+    "text_length_avg": 475.06,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9865,
+      "Latin": 0.0135
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 44261,
+    "estimated_records": 93
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 93,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6002.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6002.txt",
+    "relative_path": "6002.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6002.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 44261,
+    "mtime": 1782796587.714013,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "43b982c65bae48ed0a87aa6cd779736017434ac0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

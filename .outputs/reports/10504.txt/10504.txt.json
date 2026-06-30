@@ -1,0 +1,92 @@
+{
+  "dataset": "10504.txt",
+  "file_name": "10504.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 26°51′38″उत्तर 80°54′57″पूर्व / 26.860556° उत्तर 80.915833° पूर्व / 26.860556; 80.915833",
+    "लखनऊ भारतको राज्य उत्तर प्रदेशको राजधानी हो । यस शहरमा, लखनऊ जिल्ला तथा लखनऊ मण्डलको प्रशासनिक मुख्यालय पनि छ । लखनऊ शहर आफ्नो खास नजाकतर तहजीब वाला बहुसांस्कृतिक खूबीकोको लागि जानिन्छ । सन् 2006 मा यसको जनसंख्या 2,541,101 तथा साक्षरता दर 68.63% थियो । कानपुर पछि यो शहर उत्तर-प्रदेशको सबैभन्दा ठुलो शहर हो । शहरको बीचबाट गोमती नदी बहन्छ, जुन्स् लखनऊको संस्कृतिको हिस्सा हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 793,
+    "text_length_avg": 289.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6691,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10504.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10504.txt",
+    "relative_path": "10504.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10504.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6691,
+    "mtime": 1782796444.9601965,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "2bc1ba6790d4e9ec7b17fc217b363f6c92da3c2d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

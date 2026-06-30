@@ -1,0 +1,92 @@
+{
+  "dataset": "21047.txt",
+  "file_name": "21047.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली समाज हिन्दू धर्म वा आर्य संस्कृतिमा आधारित समाज हो । यो समाजमा परिवारको मूली प्राःय पुरुषहरु मात्रै हुने गर्दछन् । हिन्दू धर्मको प्रमुख आधिकारिक ग्रन्थ वेदमा महिलाहरुलाइ भेदभाव हुने किसिमको कुनै कुरा उल्लेख गरिएको पाइँदैन । वैदिक कालमा महिलाहरुलाइ पनि पुरुषसरह समान अधिकार प्राप्त थियो । उतिबेलाको समाजमा वेदविज्ञ महिलाहरुलाइ ब्रह्मवादिनी भनिन्थ्यो । गार्गी, मैत्रेयी ,अश्वपाला आदी वैदिक कालकी प्रसिद्घ ब्रह्मवादिनीहरु थिइन् । ",
+    "अर्थात् जहाँ नारीहरुको पूजा हुन्छ, त्यहाँ देवताहरु पनि रमाउँछन् भनेर शास्त्रहरुले पनि नारीको महिमा गाएका छन् । तर मध्ययुगमा सामन्ती प्रथाको उद्भव भएसँगै जसरी छुवाछुत प्रथाको शुरुवात भयो, त्यसैगरी नारी प्रति पनि विभेद गरिन थालियो । धर्मशास्त्रको गलत व्याख्या गरी महिलाहरु प्रति भेदभाव गरिएको यसै मध्ययुग देखि चलि आएको पाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 57,
+    "text_length_max": 729,
+    "text_length_avg": 389.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7304,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21047.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21047.txt",
+    "relative_path": "21047.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21047.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7304,
+    "mtime": 1782796494.5808072,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f304426f3c2cb52a74a9dfcf20f25d062f8ac80d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "5440.txt",
+  "file_name": "5440.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1957 अफ्रिकी राष्ट्र कप अफ्रिकी फुटबल संघद्वरा अायोजित प्रथम अन्तर अफ्रिकी देशीय फुटबल च्याम्पियनसिप हो । यो सुडानले आयोजना गरेको थियो, यो प्रतीयोगिता 10 फेब्रुअरी 1957 मा शुरू भएर 15 जनवरीमा समाप्ति भएको थियो । यो प्रतियोगितामा इजिप्ट, इथियोपिया र सुडानले उपस्थिति जनाएका थिय ।",
+    "अफ्रिकी राष्ट्र कपको पहिलो संस्करणको फाइनलमा इजिप्टले इथियोपियालाई 4-0 गोल अन्तरले हराएको थियो । इजिप्टको जित सुनस्चित गर्न अल-डिबाले सबै चार गोल इथियोपियाको बिरुद्धमा गरेका थिय । उनी प्रतिस्पर्धामा अल-डिबा सबै भन्दा धेरै 5 गोल गर्न सफल भएका थिय ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 247,
+    "text_length_max": 278,
+    "text_length_avg": 262.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1371,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5440.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5440.txt",
+    "relative_path": "5440.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5440.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1371,
+    "mtime": 1782796585.1433842,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e161fcbd361696af93f428e7d6a60f4d90bcc645",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

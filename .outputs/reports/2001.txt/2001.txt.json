@@ -1,0 +1,91 @@
+{
+  "dataset": "2001.txt",
+  "file_name": "2001.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गाती सिन्धुपाल्चोक जिल्लामा अवस्थित एक गाउँ विकास समिति हो। गाती गाविस जिल्ला सदरमुकामबाट उत्तरपूर्वमा पर्ने गाविस हो। सदरमुकामबाट11 कोष दुरीमा अवस्थित यस गाविसको क्षेत्रफल 21.34 वर्ग किलोमिटर छ। गाती गाविसको पूर्वमा मार्मिङ, पश्चिममा मानेश्वारा तथा घुम्थाङ, उत्तरमा लिस्तीकोट र दक्षिणमा ब्राहबिसे गाविस पर्दछ।लिस्ती थुम अन्तर्गत पर्ने यस गाविसमा तामाङ तथा शेर्पा जातिको बाक्लोबसोबास छ। प्राय चिसो हावापानी भएको गाति गाविसको मुख्य कृषिबाली आलु धानमकै कोदो जौ फापर आदि हो। गाविसको प्रमुख आकर्षणमा तामा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 767,
+    "text_length_max": 767,
+    "text_length_avg": 767.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2033,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2001.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2001.txt",
+    "relative_path": "2001.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2001.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2033,
+    "mtime": 1782796489.7084792,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "39267923df88ce6b984a8e5827db17e247cc7ba9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

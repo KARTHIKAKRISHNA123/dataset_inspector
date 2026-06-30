@@ -1,0 +1,91 @@
+{
+  "dataset": "30042.txt",
+  "file_name": "30042.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ताः नेपाली बाजा हो । यो काठमाडौं उपत्यकामा प्रचलित छ । यो झ्याम्टा जस्तै हुन्छ । यो काँसबाट बनेको हुन्छ । यो आधा अङ्गुल बाक्लो र पाँच अङ्गुल अर्धव्यासको हुन्छ । यो बाजालाई दुवै हातमा लिई ठोकेर बजाइन्छ । ताःको बीचमा प्वाल पारी मोटो धागो वा कपडाका ध्वजाले बाँधिएको हुन्छ । धागो वा ध्वजाले समात्न सजिलो हुन्छ । यो बाजा भजन तथा चर्या नृत्यमा बजाइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 347,
+    "text_length_max": 347,
+    "text_length_avg": 347.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 912,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30042.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30042.txt",
+    "relative_path": "30042.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30042.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 912,
+    "mtime": 1782796536.011964,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2487e54c576ce731836e96a8b51c7131a11ab5a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

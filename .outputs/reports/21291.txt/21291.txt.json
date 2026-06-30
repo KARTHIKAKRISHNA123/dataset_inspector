@@ -1,0 +1,94 @@
+{
+  "dataset": "21291.txt",
+  "file_name": "21291.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ताराको अर्थ हुन्छ नक्षत्र। किन्तु प्रयोगका अनुसार यसका भिन्न अर्थ पनि हुन सक्छन्।",
+    "रातमा आकाशमा धेरै पिण्ड चम्किरहन्छन्, यिनमाबाट अधिकतर पिण्ड सधैं पूरबको दिशाबाट उठ्दछन् र एक निश्चित गति प्राप्त गर्दछन् र पश्चिमको दिशामा अस्त हुन्छन्। यी पिण्डहरूको आपसमा एक अर्काका सापेक्ष पनि कुनै परिवर्तन हुँदैन। यी पिण्डहरूलाई तारा भनिएको छ।मा केही यस्ता पनि पिण्ड छन् जो बाकी पिण्डका सापेक्षमा कहिले अघि जान्थे र कहिले पछि - अथवा कि ती घुमक्कड थिए। Planet एक ल्याटिनको शब्द छ जसको अर्थ यता-उता घूमने वाला छ। यस कारण यी पिण्डहरूको नाम Planet र नेपालीमा ग्रह राखिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 474,
+    "text_length_avg": 272.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9894,
+      "Latin": 0.0106
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3619,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9894,
+      "Latin": 0.0106
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21291.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21291.txt",
+    "relative_path": "21291.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21291.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3619,
+    "mtime": 1782796495.7446795,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2e0452656d1d6a1fc66ea7d84a911dcba9f2f3d9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

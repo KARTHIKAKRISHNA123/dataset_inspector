@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22979.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Ardeola leucoptera",
+    "आसकोटे बकुल्ला, बकुल्लो प्रजातिको एक सानो चरा हो। यस सुन्दर चराको प्वाँख सेतो र माटो रङ्गको हुन्छ र यसको ढाडको पछाडिपट्टि खैरो धर्सा हुन्छ भने यसको चुच्चो पहेँलो हुन्छ र चुच्चोको सबैभन्दा तल्लो भाग कालो रङ्गको हुन्छ। यो चरा पुर्व जगत बाट उत्पत्ति भएको थियो जहाँ यसले दक्षिणमा इरान देखि पुर्वमा पाकिस्तान, भारत, बर्मा, बङ्गलादेश, र श्रीलङ्कामा प्रजनन गर्दथ्यो। यसको अर्को महत्त्वपूर्ण तथ्य के हो भने, प्रजनन ऋतुमा वा मार्च देखि सेप्टेम्बर महिना सम्ममा यसको खुट्टाको रङ्ग हरियोबाट परिवर्तन भई पहेँलो हु"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 1029,
+    "text_length_avg": 340.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.995,
+      "Latin": 0.005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10876,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9949,
+      "Latin": 0.0051
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22979.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22979.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22979.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10876,
+    "mtime": 1782796632.3190663,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "767071a52b319f5eaf667b9c3659670e3d690d94",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

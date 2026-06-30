@@ -1,0 +1,96 @@
+{
+  "dataset": "19459.txt",
+  "file_name": "19459.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सन् 2014 सम्ममा साउदी अरबका 3 वटा सम्पदालाई संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक सङ्गठन द्वारा विश्व सम्पदा क्षेत्रमा मान्यता प्रदान गरिएको छ ।",
+    "ढाँचा:World Heritage Sites in Saudi Arabia map"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 156,
+    "text_length_avg": 86.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7743,
+      "Latin": 0.2257
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 796,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7743,
+      "Latin": 0.2257
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19459.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19459.txt",
+    "relative_path": "19459.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19459.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 796,
+    "mtime": 1782796487.163551,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.971,
+    "sha1_quick": "30fc9b8bf01311afd24a50a7de8246f030d159c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

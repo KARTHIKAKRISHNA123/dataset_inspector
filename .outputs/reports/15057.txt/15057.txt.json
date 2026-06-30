@@ -1,0 +1,91 @@
+{
+  "dataset": "15057.txt",
+  "file_name": "15057.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुँदे ताल कास्की जिल्लाको लेखनाथ नगरपालिकामा अवस्थित ताल हो । यो ताल लेखनाथ नगरपालिकाको पाँचौ ठूलो ताल हो। यसको क्षेत्रफल4.98 हेक्टर रहेको छ । यस तालले नगरपालिकाको कुल क्षेत्रफलको 0.06% भाग र ताल क्षेत्रको1.08% भाग ओगटेको छ। यो ताल यस नगरपालिकाको सबैभन्दा ठूलो वेगनास तालभन्दा 74.89 गुणा सानो र रुपा; खाष्टे र दिपाङ्ग भन्दा क्रमश:23.0,2.72,1.80 गुणासानो छ भने न्युरेनी र मैदीभन्दा क्रमश: 1.75,4.25गुणा ठूलो रहेको छ । यो ताल नगरपालिकाको 4 नं. वडाभित्रअवस्थित छ । यस तालबाट प्राप्त हुने गुँद थुतेर केही"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 623,
+    "text_length_max": 623,
+    "text_length_avg": 623.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1576,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15057.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15057.txt",
+    "relative_path": "15057.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15057.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1576,
+    "mtime": 1782796465.8362513,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "be72f27ec88c737cd47cff248f24565e566488fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

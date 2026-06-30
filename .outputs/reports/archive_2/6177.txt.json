@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6177.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रगंको सहि पहिचान गर्न नसक्ने शारीरिक असमर्थता लाई रगं अन्धता भनिन्छ|प्रकाशको भिन्नाभिन्नै तरंगमा अन्तर गर्न पाउने क्षमताले नै रंगको उत्पत्ति हुन्छ। कुनै व्यक्ति रंग अन्ध त्यति खेर हुन्छ जब उसको आँखाले विभिन्न प्रकारको तरंगमा अन्तर छुट्याउन सक्दैन। जन्मजात रंग अन्धताको सिकार भएकाहरूमध्ये 80 प्रतिशतमा रातो र हरियो रंग छुट्याउन नसक्ने रंग अन्धता देखिने गरेको पाइन्छ|",
+    "आँखाको रेटिना अर्थात् आँखाको पछाडिको पर्दामा राडस र कोन्स गरी दुई प्रकारको प्रकाश संवेदनशील रिसेप्टर हुन्छ। राडसले कम प्रकाशमा हेर्न सघाउँछ भने कोन्सद्वारा हामी सामान्य प्रकाशमा पनि देख्छौं। कोन्सले नै रंगको पहिचान गराउँछ। रंगको पहिचान भने मध्यम तथा पूर्ण प्रकाशमा मात्र सम्भव हुन्छ। रेटिनामा राडस र कोन्सबाहेक दृष्टिसँग सम्बन्धित स्नायु/नसासमेत हुन्छ, यसको निर्माण असंख्य स्नायु तन्त्र मिलेर हुन्छ। सन्देशलाई मस्तिष्कको आक्सिपिटल लोव -जहाँ रेटिनामा परेको प्रतिविम्बको विश्लेषण हुन्छ)मा पुर्‍याउने का"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 880,
+    "text_length_avg": 305.69,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10692,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6177.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6177.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6177.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10692,
+    "mtime": 1782796668.0179873,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "638010db2411ba20df5950aa64708631a747d987",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

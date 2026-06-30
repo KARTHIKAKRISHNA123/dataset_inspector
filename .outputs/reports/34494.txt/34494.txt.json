@@ -1,0 +1,96 @@
+{
+  "dataset": "34494.txt",
+  "file_name": "34494.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Aquila rapax nipalensis",
+    "चिल एक किसिमको मांसाहारी चरा हो। यसले सानासाना जनावरहरूको शिकार गर्ने गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 176,
+    "text_length_avg": 61.68,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9405,
+      "Devanagari": 0.0595
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1513,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9405,
+      "Devanagari": 0.0595
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34494.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34494.txt",
+    "relative_path": "34494.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34494.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1513,
+    "mtime": 1782796556.4388583,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.999,
+    "sha1_quick": "26ba578eeefb8ad70f00a75bd39e15020fb7ac74",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

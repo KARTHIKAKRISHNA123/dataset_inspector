@@ -1,0 +1,92 @@
+{
+  "dataset": "32471.txt",
+  "file_name": "32471.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यी पनि हेर्नुहोस: श्री पशुपतिनाथको मन्दिर, अष्टमूर्ति, शिव ",
+    "भगवान श्री पशुपतिनाथ हिन्दू परम्परा अनुसार निकै महत्त्वपूर्ण भगवान हुनुहुन्छ। उहाँ सबै प्राणीहरूका रक्षकका रूपमा पुजिनुहुन्छ।भगवान पशुपतिनाथ नेपालमा आदिकालदेखि राष्ट् देवताका रूपमा भक्त्तिपूर्वक आराधना गरिदै आएको र भगवानको महात्म्य नेपालमा मात्र नभइ भारत लगायत विश्वभरिका हिन्दुमा फैलिएकाले उहाँलाई नेपाली हिन्दुहरू ज्यादै नै महिमामय परमपूज्य देवताका रूपमा आदर र आराधना गर्दछन। भगवानको पूजा अ‍‍र्चना पनि विशिष्ट विधिविधानपूर्वक आधिकारिक पूजकद्वारा हुँदै आएको तथ्य इतिहासप्रसिद्ध छ। भगवानको नित्य, नैम"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 1331,
+    "text_length_avg": 451.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8493,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32471.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32471.txt",
+    "relative_path": "32471.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32471.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8493,
+    "mtime": 1782796547.2165215,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "27c621b436412dff8da46aeecd03721d9378dbfa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

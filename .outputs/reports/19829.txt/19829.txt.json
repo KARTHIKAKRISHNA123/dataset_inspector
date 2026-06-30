@@ -1,0 +1,92 @@
+{
+  "dataset": "19829.txt",
+  "file_name": "19829.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "‍‍‍",
+    "दोलखा जिल्लाको च्यामा गाँउ विकास समितिमा रहेको एकमात्र उच्च माध्यमिक बिद्यालय हो । यो बिद्यालय विक्रम संवत 2017 सालमा महेन्द्र प्रावि को रुपमा च्यामाको वार्ड नं 1 मा स्थापना भएको थियो । तर विक्रम संवत 2057 सालमा हिमाल हाईड्रो कम्पनीले वार्ड नं 4 बाघखोर स्थित नयाँ र पक्की भवन बनाईदिए पछि यो बिद्यालय दोलखाको एक नमुना बिद्यालयको रुपमा समेत चिनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 348,
+    "text_length_avg": 126.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 991,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19829.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19829.txt",
+    "relative_path": "19829.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19829.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 991,
+    "mtime": 1782796488.8376212,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "f1fecc58d1b15062daf1f0529eed1ddcd1e35df7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

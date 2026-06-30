@@ -1,0 +1,92 @@
+{
+  "dataset": "35785.txt",
+  "file_name": "35785.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चेक गणतन्त्र राष्ट्रिय फुटबल टिमले अन्तर्राष्ट्रिय फुटबल प्रतियोगिताहरूमा चेक गणतन्त्रको प्रतिनिधित्व गर्ने गर्छ । यो चेक गणतन्त्र फुटबल संघद्वारा संचालित छ ।",
+    "यो राष्ट्रिय टोली 1901 मा स्थापित भएको थियो जुन पहिला 1992 अघि चेकोस्लोभाकियाको नामले चिनिन्थ्यो । टोलीको पहिलो अन्तर्राष्ट्रिय प्रतिस्पर्धा चेक गणतन्त्रको रूपमा युइएफए युरो 1996 थियो, जहाँ यो टोली उप-बिजेता भएको थियोे र त्यसपछि प्रत्येक युरोपियन च्याम्पियनसिपमा भाग लिगेको थियोे । तथापि, टोली केवल एक फिफा विश्वकपमा मात्र छनोट भएकोमा 2006 फिफा विश्वकपमा, प्रतियोगिताको पहिलो चरणबाटै बाहिरीएको थियोे ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 158,
+    "text_length_max": 401,
+    "text_length_avg": 279.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1479,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35785.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35785.txt",
+    "relative_path": "35785.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35785.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1479,
+    "mtime": 1782796562.2340696,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dd0e4cf488e98ba4dd9c0148cb58ad891dd22006",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

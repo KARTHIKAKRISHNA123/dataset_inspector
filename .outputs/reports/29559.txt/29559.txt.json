@@ -1,0 +1,91 @@
+{
+  "dataset": "29559.txt",
+  "file_name": "29559.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो कुनै यौन अभिमुखिकरण भन्दा पनि एउटा शब्दवाली हो जसले आफ्नो यौन अभिमुखिकरण बारे अझै एक्स्प्लोर गरी रहेका व्यक्तिहरूले प्रयोग गर्छन्। अर्थात् यौन अभिमुखिकरणको विविधतामा ‘म को हुँ’ भन्ने जिज्ञासा अझै रहेका र आफ्नो बारेमा अझै जान्ने प्रयास गर्दै गरेका र ‘म यही हुँ है’ भनेर दाबी नगरेका व्यक्तिहरूले यस शब्दावलीको प्रयोग गर्दछन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 326,
+    "text_length_max": 326,
+    "text_length_avg": 326.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 876,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29559.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29559.txt",
+    "relative_path": "29559.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29559.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 876,
+    "mtime": 1782796533.819952,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "49e0484c7e160c8c845f0d4eb9687f7765143f88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

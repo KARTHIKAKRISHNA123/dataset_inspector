@@ -1,0 +1,96 @@
+{
+  "dataset": "2431.txt",
+  "file_name": "2431.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जीव विज्ञान मा, द्विपदीय नामकरण प्रजातिहरूको नामकरण को एक औपचारिक प्रणाली हो। कार्ल लीनियस नामक एक स्वीडिस जीव वैज्ञानिक ले सबैभन्दा पहिले यस्तो दुई नामको नामकरण प्रणाली को उपयोग गर्न सुरुआत गरेका थिए। उनले यसको लागि पहिलो नाम वंश को र दोस्रो प्रजाति विशेषको विशिष्ट नामलाई चुनेका थिए । उदाहरणको लागि, मानवको वंश होमो हो जबकि उसको विशिष्ट नाम सेपियन्स हो, तसर्थ यसप्रकार मानवको द्विपदीय या वैज्ञानिक नाम होमो सेपियंस हो । रोमन लिपिमा लेख्दा दुई नाममध्ये वंशको नामको पहिलो अक्षर ठुलो लेखिन्छ जबकि विशि",
+    "यदि जीव-जन्तु र वनस्पतिहरूको वर्गीकरण नभएको भए आज तिनीहरूको अध्ययन गर्न कति जटिल हुँदो हो, यस कुरालाई सहजै कल्पना गर्न सकिन्छ । आज जन्तुविज्ञान होस् अथवा वनस्पतिविज्ञान नै होस् दुवै विषयमा जीव र वनस्पतिहरूको अध्ययन वर्गीकरणको आधारमा गरिन्छ । जन्तु र वनस्पतिको प्रजाति, वंश, वैज्ञानिक नाम र यस्तै अनेक जानकारी दिने वर्गीकरण व्यवस्थाका पिता कार्ल लिनियस एक अत्यंत प्रतिभाशाली वैज्ञानिक थिए ।आज जीवविज्ञानमा जे सबै छ, त्यसमा वर्गीकरण को अद्वितीय भूमिका छ - यसको बिना यो क्षेत्रमा वृहत्तर ज्ञान संभव थिएन"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 949,
+    "text_length_avg": 445.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8101,
+      "Latin": 0.1899
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6159,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8101,
+      "Latin": 0.1899
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2431.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2431.txt",
+    "relative_path": "2431.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2431.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6159,
+    "mtime": 1782796509.2098827,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "197452dd74e8370fd7f32a695dd8396788392d73",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

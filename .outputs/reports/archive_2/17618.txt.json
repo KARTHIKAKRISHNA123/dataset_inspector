@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17618.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गृहस्थ आश्रमको अर्थ हो घरेलु जीवन । जीवनको सक्रिय अवस्था अर्थात् 25 देखि 50 वर्षसम्मको उमेरलाई गृहस्थ आश्रम भनिएको छ । धर्मशास्त्रहरुमा गृहस्थ आश्रमलाई सबै आश्रमहरुको आधार र सबै भन्दा महत्त्वपूर्ण आश्रम भनिएको छ । ",
+    "मनुस्मृतिमा गृहस्थ आश्रमको महत्त्व यस प्रकार बताइएकोा छयथा नदीनदाः सर्वे सागरे यान्ति संस्थितिम् ।तथैवाश्रमिणः र्वे गृहस्थे यान्ति संस्थितिम् ।।जसरी समुद्र प्राप्त नहुञ्जेल खोला, नदी घुमिरहनछन् त्यसै गरी अन्य आश्रम गृहस्थ आश्रम वरिपरि नै घुमिरहन्छन् ।ब्रह्मचर्य आश्रममा सञ्चित ज्ञानलाई यस आश्रममा प्रयोग गरिन्थ्यो । दोस्रो अवस्था, जुन 25 वर्षपछि सुरु हुन्छ, मा विवाहित जीवनका सारा कर्तव्य समावेश हुन्छन् । यसमा व्यक्तिगत र सामाजिक जीवनका जसमा दान दिनु, यज्ञयाग, र कर्मकाण्ड सामेल हुन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 214,
+    "text_length_max": 600,
+    "text_length_avg": 434.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3474,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17618.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17618.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17618.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3474,
+    "mtime": 1782796621.6678026,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3117a4fe04ec6e15d63cf3161c4c2238a17ee593",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

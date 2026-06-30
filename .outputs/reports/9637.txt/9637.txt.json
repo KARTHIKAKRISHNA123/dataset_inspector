@@ -1,0 +1,96 @@
+{
+  "dataset": "9637.txt",
+  "file_name": "9637.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल 1 नेपालीमा भारतबाट प्रसारित हुने पहिलो स्याटेलाईट च्यानल हो। नेपाल 1 मूलत: भारतको उत्तर बङ्गाल सिक्किम, पूर्वोत्तर भारत, पुरै नेपाल, म्यानमार, मलेशिया अनि हंग कंगमा बसने नेपाली भाषीहरूलाई उद्देशित गरेर प्रसारित गरियेको हो।",
+    "Nepal 1’s line-up is designed for family viewing with its programming schedule of diverse news, sports, movies, comedy and investigative specials live from Nepal."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 228,
+    "text_length_avg": 195.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5875,
+      "Latin": 0.4125
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 770,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5875,
+      "Latin": 0.4125
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9637.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9637.txt",
+    "relative_path": "9637.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9637.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 770,
+    "mtime": 1782796605.0201473,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1e3853265233a4bfc436da5e0617968b06844b80",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

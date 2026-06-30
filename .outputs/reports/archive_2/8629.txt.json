@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8629.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'फ्रम द म्याङ्गो ट्री एन्ड अदर फल्क टेल्स फ्रम नेपाल पुस्तक नेपाली लॊककथाको संगालो हो । विदेशी पाठकहरूको लागि कविताराम श्रेष्ठ द्वारा तयार गरिएको यो पुस्तकको सम्पादक अमेरिकाबासी सराह लेमस्टिन हुनुहुन्छ 1997 मा अमेरिका कोलोराडोबाट प्रकाशित यो पुस्तक त्यहाँका प्राथमिक र माध्यमिक तहका विद्यार्थी तथा शिक्षकहरूको लागि अतिरिक्त पाठ्यपुस्तकको रूपमा स्वीकृत छ ।",
+    "http://www.amazon.co.uk/books/dp/1563083787"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 355,
+    "text_length_avg": 199.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9255,
+      "Latin": 0.0745
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 997,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9255,
+      "Latin": 0.0745
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8629.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8629.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8629.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 997,
+    "mtime": 1782796672.9312713,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c76aa8f06db0462cf4734554d4f986d9b9b8caa6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

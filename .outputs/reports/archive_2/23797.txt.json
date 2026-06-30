@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23797.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्थशास्त्र मानविकी र सामाजिक शास्त्रको एक महत्त्वपूर्ण विषय हो । यसलाई सामाजिक शास्त्रहरुको रानी उपनामले पनि चिनिन्छ । यस विषयको व्यावहारिक महत्त्ले गर्दा नै शान्ति, साहित्य र भौतिक विज्ञानहरु बाहेक अन्तर्राष्ट्रिय स्तरको नोबेल पुरस्कार केवल अर्थशास्त्र विषयमा वितरण गरिन्छ । यस विषयलाई कलाहरुमा प्राचीनतम तर विज्ञानहरुमा नवीनतम पनि भनिन्छ । यसको अर्थ के हो भने यो एक प्राचीनतम विषय भए तापनि यसको शब्दावली आधुनिक र प्राविधिक छ । यसमा प्रयोग गरिने शब्द र अवधारणाहरुको विशिष्ट अर्थ हुन्छ । ",
+    "अर्थशास्त्रको मेथडोलजीसका बारेमा प्राथमिक कुरा हो अर्थशास्त्रको प्राविधिक भाषा । अर्थशास्त्र सापेक्षिक रुपमा एक नयां विषय हो । यसका शब्दावली अन्य कुनै पनि विज्ञानभन्दा नयां र विशिष्ट छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 188,
+    "text_length_max": 958,
+    "text_length_avg": 554.42,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9973,
+      "Latin": 0.0027
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17578,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23797.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23797.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23797.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17578,
+    "mtime": 1782796633.8667462,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "52b5ad434385f26d86b76ed4a65e59c314963681",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

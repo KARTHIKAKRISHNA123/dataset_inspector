@@ -1,0 +1,91 @@
+{
+  "dataset": "13631.txt",
+  "file_name": "13631.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फाइन्डिङ डोरी सन् 2016 अमेरिकी थ्री डी कम्प्युटर एनिमिटेड हास्य प्रधान चलचित्र हो । चलचित्र पिक्सर एनिमेसन स्टुडियोजद्वारा बनाइएको, वाल्ट डिज्नी पिक्चर्सले रिलिज गरिएको थियो । यसका निर्माता एन्ड्रिउ स्टान्टन र सहनिर्माता एंगुस मेकलेन थिए । चलचित्र फाइन्डिङ निमो को दोस्रो श्रङ्खलाको रुपमा रहेको थियो । चलचित्र स्मरण शक्तिमा ह्रास आएका डोरी नामक माछाको यात्रामा आधारित रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 377,
+    "text_length_max": 377,
+    "text_length_avg": 377.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1007,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13631.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13631.txt",
+    "relative_path": "13631.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13631.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1007,
+    "mtime": 1782796459.4166994,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0535473c95fa00284b09d0336dd5322490b91979",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

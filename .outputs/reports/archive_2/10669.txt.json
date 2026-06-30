@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10669.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जवाहरलाल नेहरू को जन्म उत्तर प्रदेशको इलाहाबादमा भएको थियो। उनी स्वतन्त्र भारतका प्रथम प्रधानमन्त्री हुन्। ",
+    "जवाहर लाल नेहरूको जन्म इलाहाबादमा एक धनाढ्य वकील मोतीलाल नेहरूको घरमा भएको थियो। उनकी आमाको नाम स्वरूप रानी नेहरू थियो। उनी मोतीलाल नेहरूका एक्ला पुत्र थिए। इनका अलावा मोती लाल नेहरू का तीन छोरीहरू पनि थिए। नेहरू कश्मीरी वंशका सारस्वत ब्राह्मण थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 1025,
+    "text_length_avg": 423.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14519,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10669.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10669.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10669.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14519,
+    "mtime": 1782796607.7951963,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "431040c1dcb2ad14c00382af7e6b3ee153665479",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

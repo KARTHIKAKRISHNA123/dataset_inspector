@@ -1,0 +1,92 @@
+{
+  "dataset": "14576.txt",
+  "file_name": "14576.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व खाद्य दिवस प्रत्येक वर्ष अक्टोबर 16मा मनाइन्छ। संयुक्त राष्ट्र संघको विशिष्टिकृत निकाय खाद्य तथा कृषि सङ्गठनको आह्वानमा यो दिवस मनाइन्छ। उक्त सङ्गठनको स्थापना भएको दिन पारेर प्रत्येक वर्ष अक्टोबर 16मा खाद्य दिवस मनाइने गरेको हो। संघको सन् 1945 अक्टोबर 16मा क्यानडामा स्थापना भएको र पछि सन् 1979 नोभेम्बरको संयुक्त राष्ट्र संघको बीसौँ साधारण सभाले सङ्गठनको स्थापना भएको दिन पारी खाद्य दिवस मनाउने प्रस्ताव पारित गरेअनुरूप सन् 1981 देखि विविध कार्यक्रमहरूका साथ विश्वभरि यो दिवस मनाइँदै आएको छ। ",
+    "नेपालले सन् 1951 नोभेम्बरमा खाद्य तथा कृषि सङ्गठनको सदस्यता पाएको हो। नेपालले 2038 साल देखि यो दिवस मनाउँदै आएको छ। नेपालले मनाएको पहिलो खाद्य दिवसको नारा 'उब्जनी बढाऔं, सन्तुलित खाना खाऔँ, बढी जोगाऔँ' थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 207,
+    "text_length_max": 499,
+    "text_length_avg": 353.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1838,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14576.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14576.txt",
+    "relative_path": "14576.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14576.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1838,
+    "mtime": 1782796463.6867542,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "fcc4a21b84c36e243728c0d0da93414354b306af",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

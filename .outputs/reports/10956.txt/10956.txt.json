@@ -1,0 +1,92 @@
+{
+  "dataset": "10956.txt",
+  "file_name": "10956.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बूढानीलकण्ठ स्कूल नेपाल सरकार र संयुक्त अधिराज्यको संयुक्त लगानीमा सन् 1972मा स्थापना भएको हो। काठमाडौंको बूढानीलकण्ठमा रहेको यस स्कूलले 5 सय 78 रोपनी क्षेत्रफल ओगटेको छ। प्रतिस्पर्धात्मक प्रवेश परीक्षा उत्तीर्ण गरेपछि कक्षा 4 देखि भर्ना सुरु गरिने यस विद्यालयमा एकतिहाइ विद्यार्थीहरू देशको पाँचवटै क्षेत्रबाट क्षेत्रगत प्रतिस्पर्धाबाट चुनिएर आउँछन्। साथै कक्षा 7 र कक्षा 1मा पनि केही विद्यार्थीले प्रवेश पाउन सक्छन्। ",
+    "विद्यालयले सरकारले निर्धारण गरेको पाठ्यक्रमअनुसार पढाइ सञ्चालन गरी एस.एल.सी. परीक्षामा आफ्ना विद्यार्थी सम्मिलित गराउँछ। तर एस.एल.सी. पछि बेलायतको क्याम्बि्रज विश्वविद्यालयको 'ओ' र 'ए' लेभल तयारीका लागि संयुक्त अधिराज्यमा सिफारिस गरिएको पाठ्यक्रमसमेत अध्ययन, अध्यापन गराउँदै आएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 282,
+    "text_length_max": 418,
+    "text_length_avg": 350.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1871,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10956.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10956.txt",
+    "relative_path": "10956.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10956.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1871,
+    "mtime": 1782796447.174208,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "11807b65eb9f01baf77a0d4186ee24ae810b182a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

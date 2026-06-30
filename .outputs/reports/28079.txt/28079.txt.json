@@ -1,0 +1,92 @@
+{
+  "dataset": "28079.txt",
+  "file_name": "28079.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केन्द्र शासित प्रदेश वा संघ-राज्यक्षेत्र वा संघक्षेत्र भारतको संघीय प्रशासनिक स्वरूपको एउटा उप-राष्ट्रीय प्रशासनिक एकाई हो । भारतका राज्यहरूलाई आफु द्वारा छानिएको सरकार हुन्छन्, तर केन्द्र शासित प्रदेशहरूमा सिधै भारत सरकारको शासन हुन्छ; भारतको राष्ट्रपति हरेक केन्द्र शासित प्रदेशमा एउटा सरकारी प्रशासक वा उप राज्यपाललाई नामांकित गर्छन् । ",
+    "सन् 2010 सम्ममा देशमा सात वटा केन्द्र शासित प्रदेश रहेका छन् । भारतको राजधानी नयाँ दिल्ली जुन कि दिल्ली नामक केन्द्र शासित प्रदेश पनि थियो र पुदुचेरी लाई आंशिक राज्यको दर्जा दिइएको छ । दिल्लीलाई राष्ट्रिय राजधानी प्रदेशको रुपमा पुनः परिभाषित गरिएको छ । दिल्ली तथा पुदुचेरी दुवैको आफ्नो छानिएको विधानसभा, मन्त्रीमण्डल तथा कार्यपालिका रहेको छ, तर तिनको शक्ति सिमित छन् - उनीहरुको केही कानुन भारतको राष्ट्रपतिको \"विचार र स्वीकृति\" मिले पछी मात्रै लागु हुन सक्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 459,
+    "text_length_avg": 222.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2366,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28079.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28079.txt",
+    "relative_path": "28079.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28079.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2366,
+    "mtime": 1782796526.5019195,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8ada71f55316b0c8d1194a7f7217892e14da46b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

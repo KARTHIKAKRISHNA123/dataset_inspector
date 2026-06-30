@@ -1,0 +1,92 @@
+{
+  "dataset": "38691.txt",
+  "file_name": "38691.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हेपाटाइटिस बी मानिसमा मात्र लाग्ने हेपड्ना समूहको डिएनए भाइरसबाट सर्ने रोग हो । विश्वमा 40 करोड व्यक्ति यस रोगका सिकार भइरहेका छन् । यीमध्ये 15 देखि 40 प्रतिशत मानिस सिरोसिस वालिभर क्यान्सरबाट पीडित छन् भने कसैको अकालमा मृत्यु भइरहेको छ । विकसित देशहरु अमेरिका र यूरोपमा एक्युट लिभर फेलरका बिरामीको समयमा लिभर ट्रान्सप्लान्टेसनले गर्दा मृत्यु घटेर गएको छ र वृहत् खोप कार्यक्रमले गर्दा नयाँ बिरामीको संख्या घटेको छ भने क्रोनिक हेपाटाइटिस बी र लिभर क्यान्सरका बिरामी बढिरहेका छन् ।",
+    "सन् 1980 को सुरुबाट हेपाटाईटिस बीको विरुद्ध प्रभावकारी खोप कार्यक्रम थालेपछि यस रोगको महामारीमा कमी आएको छ । यो रोग संसारभर फैलिएको छ । सबभन्दा बढी दक्षिण पूर्वी एसिया 9जापानबाहेक0 को चाइना र अफ्रिकी मुलुकका मानिस बढी प्रभावित छन् । त्यहाँ करीब 8 प्रतिशतभन्दा बढी जनसंख्या यो रोगबाट ग्रस्त छन् । जसलाई क्रोनिक हेपाटाइउिटस बी क्यारियर भनिन्छ । त्यस्ता क्यारियरहरु 60 देखि 80 प्रतिशत जीवनको कुनै पनि समयमा रोगको सिकार बन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 861,
+    "text_length_avg": 424.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17976,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38691.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38691.txt",
+    "relative_path": "38691.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38691.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17976,
+    "mtime": 1782796576.4831898,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "33d8d2f7fd2749b1011ca14cf99d80daf6b88509",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

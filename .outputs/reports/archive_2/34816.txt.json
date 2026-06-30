@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "34816.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्पनीको पूँजि वा स्वामित्वलाई धेरै इकाइमा विभाजन गरि लगानीकर्ताहरुलाई विक्रि गरिन्छ, यसरी कम्पनीको पूँजिको विभाजीत इकाइको दस्तावेजलाई सेयर भनिन्छ । कम्पनीको लागि पूँजि जम्मा गर्नको लागि सेयर जारी गरिन्छ तथा यो दस्तावेज राख्ने व्यक्तिलाई सेयरधनी भनिन्छ । सेयर भनेको अर्को अर्थमा कम्पनीको पूँजिको अदृश्य इकाइ हो, जसमा कम्पनी तथा सेयरधनी विच करार हुने गर्दछ । ",
+    "सेयरमा लगानी गरे वापत सेयरधनीहरुले प्रत्यके वर्ष कम्पनीको वित्तीय कार्य सम्पादन वा मुनाफाको आधारमा लाभांस प्राप्त गर्ने गर्दछ । कुनै पनि कम्पनीले गरेको व्यवसायबाट नाफा वा घाटा हुन्छ । आफुले गरेको लगानीको अनुपातमा उक्त घाटा वा नाफा दुवैको हिस्सेदार हुन मञ्जुर भई गरिएको लगानीको अंश सेयर हो । "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 878,
+    "text_length_avg": 346.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7407,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34816.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\34816.txt",
+    "relative_path": "archive (2)\\valid\\valid\\34816.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7407,
+    "mtime": 1782796655.9062073,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "57ae5efd3b6043b5fa9fdb71440c9d3acbe9362c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

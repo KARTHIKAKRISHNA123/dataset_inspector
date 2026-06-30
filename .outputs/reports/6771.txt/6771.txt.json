@@ -1,0 +1,93 @@
+{
+  "dataset": "6771.txt",
+  "file_name": "6771.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जापान पूर्वी एसियामा पर्ने टापुहरूबाट बनेको देश हो। यो चीन, कोरिया र रसियाको पूर्वमा प्रशान्त महासागरमा अवस्थित छ । यसलाई सूर्‍योदयको देश भनेर पनि चिनिन्छ । जापानी आफ्नो देशको निप्पोन् लाई निहोन् भन्दछन्, जसको अर्थ सूर्यनिकास हो । जापानको राजधानी टोक्यो हो र अन्य ठूला महानगर योकोहामा, ओसाका र क्योटो हुन् ।",
+    "जापानी लोककथाहरूको अनुसार विश्वको निर्माताले सूर्य देवी तथा चन्द्र देवीको पनि रचा। फेरि उनको पोता क्यूशू द्वीपमा आयो र त्यस पछि उनको सन्तान होंशू द्वीपमा फैलिए। हुनत, यो लोककथा हो तर यसमा केही सत्यता पनि देखिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 1276,
+    "text_length_avg": 439.03,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9743,
+      "Latin": 0.0257
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 37488,
+    "estimated_records": 85
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 85,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6771.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6771.txt",
+    "relative_path": "6771.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6771.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 37488,
+    "mtime": 1782796591.3146405,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "cf9376d8dfab94262b8d77305b307012348a6edb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

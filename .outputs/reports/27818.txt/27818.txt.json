@@ -1,0 +1,94 @@
+{
+  "dataset": "27818.txt",
+  "file_name": "27818.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गौतम बुद्ध विमानस्थल नेपालको राजधानी काठमाडौं बाट 290 कि मि टाढा सिदार्थनगरमा रहेको विमानस्थल हो। यो नेपालको प्रमुख र बेला बेलामा क्षेत्रीय अन्तराष्ट्रिय विमानस्थल बनाउने भनेर चर्चा भइरहने विमानस्थल हो। यो विमानस्थल भगवना बुद्धको जन्मस्थल लुम्विनी बाट सबै भन्दा नजीकको विमानस्थल हो। यो विमानस्थल सन 1958 देखि शुरूभएको हो यो विमानस्थलमा जेट बस्न सक्ने बनाइएपछी यात्रुको चाप अझ बढेर गएको छ।",
+    "यो विमानस्थलको नाम नेपालमा जन्मिएका भगवान गौतम बुद्धको नामबाट राखीएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 388,
+    "text_length_avg": 172.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9878,
+      "Latin": 0.0122
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1831,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9878,
+      "Latin": 0.0122
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27818.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27818.txt",
+    "relative_path": "27818.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27818.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1831,
+    "mtime": 1782796525.3415236,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b60cbc282113d3d1aba57896dca8b117b0feec88",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

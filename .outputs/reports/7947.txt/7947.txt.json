@@ -1,0 +1,92 @@
+{
+  "dataset": "7947.txt",
+  "file_name": "7947.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नीलफामारी बङ्गलादेशको उत्तरी क्षेत्रमा पर्ने एक जिल्ला हो । यो जिल्ला रङ्गपुर विभागको एक भाग हो । ",
+    "यो जिल्ला 25°44' देखि 26°19' उत्तर अक्षांश र 88°44' देखि 89°12' पुर्व देशान्तरणमा अवस्थित छ । नीलफामारी जिल्लाले बङ्गलादेशको कुल क्षेत्रफल मध्ये 1580.85 वर्ग किलोमिटर अोगटेको छ । यो जिल्ला राजधानी ढाकाबाट 400 किलोमिटर उत्तरमा रहेको छ । नीलफामारी जिल्ला हालै देशकै सबैभन्दा धेरै साक्षरता दर भएको जिल्ला रुपमा अङ्कित गरिएको छ । यस जिल्लालाई भारतको पश्चिम बङ्गाले उत्तरबाट घेरेका छन् भने यस जिल्लाको दक्षिणमा रङ्गपुर जिल्ला रहेकाे छ । त्यस्तै गरि लालमनुरहाट जिल्लाले पुर्वमा र पञ्चघाट र दिनाजपुर जिल्ला "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 98,
+    "text_length_max": 570,
+    "text_length_avg": 323.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4852,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7947.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7947.txt",
+    "relative_path": "7947.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7947.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4852,
+    "mtime": 1782796596.9291925,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "aa8fa7ab5326e5b5572cc5927e665af7eee75834",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

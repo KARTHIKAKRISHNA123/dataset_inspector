@@ -1,0 +1,94 @@
+{
+  "dataset": "35772.txt",
+  "file_name": "35772.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भिके एक रूसी अनलाइन सामाजिक मिडिया र सामाजिक सञ्जाल सेवा हो। यो धेरै भाषाहरूमा उपलब्ध रहेको छ तर यो रूसी भाषा बोल्ने प्रयोगकर्ताहरू बीचमा विशेष गरी लोकप्रिय रहेको छ। यसमा तस्वीर, अडियो र भिडियो साझेदारी गर्ने सुबिधा रहेको छ र ब्राउजरमा आधारित खेल्ने खेलहरू र यसले निजी र सार्वजनिक रूपमा सन्देश पठाउन अनुमति दिन्छ। यो सेन्ट पिटर्सवर्ग, रूसमा आधारित छ। ",
+    "अगस्ट 2018 का अनुसार, भिकेमा कम्तीमा 500 मिलियन खाताहरू दर्ता भएका छन् ।अलेक्साको विश्वब्यापी शीर्ष 500 साइटहरूमा यो 18 अौ स्थानमा रहेको छ । यो रूसमा सबैभन्दा लोकप्रिय वेबसाइट हो। सिमिलर वेबका अनुसार भिके संसारकै 9 औं सबैभन्दा धेरै भ्रमण गरिएको वेबसाइट हो। मार्च 2018 को अनुसार, भिके रूसको अतिरिक्त बेलारूस र कजाकिस्तानमा पनि सबै भन्दा लोकप्रिय समाजिक सञ्जाल वेबसाइटको रूपमा रहेको छ। यसको मालिक मेल डटरू हो र यसले रूसको अर्को लोकप्रिय सामाजिक सञ्जाल अोड्नोकलासनिकी वा सामन्यतया अोकोको पनि मालिक हो।"
+  ],
+  "statistics": {
+    "records_sampled": 37,
+    "missing_text": 0,
+    "text_length_min": 75,
+    "text_length_max": 771,
+    "text_length_avg": 348.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9989,
+      "Latin": 0.0011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33684,
+    "estimated_records": 96
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 96,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9965,
+      "Latin": 0.0035
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35772.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35772.txt",
+    "relative_path": "35772.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35772.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33684,
+    "mtime": 1782796562.156849,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "78a5c012f26fd7264ba5c62ba3e9ed590e9a5aae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

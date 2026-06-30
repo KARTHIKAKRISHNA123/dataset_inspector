@@ -1,0 +1,96 @@
+{
+  "dataset": "37605.txt",
+  "file_name": "37605.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वाचस्पति देवकोटा  - नेपाली राजनीतिज्ञ हुनुहुन्छ । उहाँ नेपाल कम्युनिष्ट पार्टी को सदस्य हुनुहुन्छ । उहां विध्यार्थी आन्दोलनमा सहभागि भएर अखिल नेपाल राष्ट्रिय स्वतन्त्र विध्यर्थी युनियन को सस्थापक सदस्य हुनु भयो ।    °",
+    "उहाँको जन्म बाग्लुङ जिल्लामा गोरखा जिल्ला बासी आमा-बाबु बाट भएको थियो। उहाँले आफ्नै घरमा प्राथमिक शिक्षा पाउनु भयो र पछि थप शिक्षाको लागि काठमाडौं जानु भयो । उहाँले विसं 2021 सालमा नेपाल कम्युनिस्ट पार्टी को सदस्यता लिनुभयो। उहाँ पंचायत सरकार विरुद्ध स्वतन्त्र बिध्यार्थी को लागि सक्रिय भई विकास भवन हाई स्कूलको विद्यार्थी युनियनको पहिलो सभापति चुनिनु भयो। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 357,
+    "text_length_avg": 154.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7357,
+      "Latin": 0.2643
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2683,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7357,
+      "Latin": 0.2643
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37605.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37605.txt",
+    "relative_path": "37605.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37605.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2683,
+    "mtime": 1782796571.23325,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "78710d3f56a3c83ce6e42eebd06704d0c99a7dcb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

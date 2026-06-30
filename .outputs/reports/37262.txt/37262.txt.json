@@ -1,0 +1,93 @@
+{
+  "dataset": "37262.txt",
+  "file_name": "37262.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नन्दिता मोरारजी या नम्रता सदाना, जुन नगमा को रूपमा प्रसिद्ध छन्, हिन्दी: नगमा तमिल: நக்மா, बलिवुड, टलिवुड र कलीवुडको एक भारतीय अभिनेत्री हुन् । सन् 1990 को दशकमा आफ्नो चरममा, द हिन्दु पत्रिकाको उद्धरणानुसार, \"तमिल चलचित्र माथि उनको प्रभुत्व\" थियो । उनको जन्म क्रिसमस दिवसमा, एक मुसलमान आमा र हिन्दु बुवाको घरमा भएको थियो । उनले बॉलीवुड मा आफ्नो अभिनय करिअर शुरू गरिन् र केही चलचित्रमा अभिनय गरिन्, तर उनी दक्षिणमा बसाईसराई गरिन्, जहा उनलाई मुम्बई आउनु भन्दा पहिले सम्म, अपार सफलता मिल्यो । हुनत कहिले"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 883,
+    "text_length_max": 883,
+    "text_length_avg": 883.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9929,
+      "Tamil": 0.0071
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2301,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9929,
+      "Tamil": 0.0071
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37262.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37262.txt",
+    "relative_path": "37262.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37262.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2301,
+    "mtime": 1782796569.3702328,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5307530ea7cb2efefdfb8d63deb8af871dc9ddd2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

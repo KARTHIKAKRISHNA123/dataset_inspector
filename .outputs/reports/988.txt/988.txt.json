@@ -1,0 +1,94 @@
+{
+  "dataset": "988.txt",
+  "file_name": "988.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "व्रतबन्ध यो पुरानो समय देखि चलि आएको एक परम्परागत हिन्दु संस्कार हो। संस्कृत भाषामा व्रत भन्नाले प्रतिज्ञा बुझिन्छ भने बन्ध भन्नाले बन्धन बुझिन्छ। व्रतबन्धको प्रतीक मानिने जनै ग्रहण गर्ने धार्मिक प्रक्रिया पनि हो। ",
+    "हिन्दु धर्ममा मानिसको आयुलाई 4 भागमा विभाजन गरिन्छ - ब्रह्मचर्याश्रम, गृहस्थाश्रम, वानप्रस्थाश्रम अनि सन्यास आश्रम । बालकको व्रतबन्ध प्रायः बाल्यावस्थामा नै गरिन्छ, बालकको उमेर 8 वर्ष पूरा भएपछि उ ब्रह्मचर्यको कर्म निर्वाह गर्न सक्षम मानिन्छ र प्राय यही उमेरमा उस्को व्रतबन्ध गरिन्छ। त्यसैले यस कार्यलार्इ उपनयन पनि भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 194,
+    "text_length_max": 930,
+    "text_length_avg": 380.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6121,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9964,
+      "Latin": 0.0036
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "988.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\988.txt",
+    "relative_path": "988.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "988.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6121,
+    "mtime": 1782796606.1002839,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a3f56f44f49c5e5ad98fe777c2be195432596118",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

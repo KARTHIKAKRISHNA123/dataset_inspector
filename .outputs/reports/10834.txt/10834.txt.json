@@ -1,0 +1,92 @@
+{
+  "dataset": "10834.txt",
+  "file_name": "10834.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुफ्ती मोहम्मद सईद भारतको जम्मु र कश्मीर राज्यको मुख्यमन्त्री थिए । वहाँ जम्मु र कश्मीर पिपुल्स डेमोक्रेटिक पार्टीको अध्यक्ष थिए । वहाँ भारतको गृहमन्त्रीको पदमा आसिन पनि भएका थिए । यो पदमा आसिन हुने वहाँ पहिलो मुस्लिम भारतीय हुनुहुन्थ्यो । 07 जनवरी 2016 मा दिल्लीमा उनको निधन भयो ।",
+    "मुफ्तीको जन्म 12 जनवरी, 1936 मा जम्मू कश्मीरको अनन्तनाग जिल्लाको बिजबेहरा नामक स्थान भएको थियो । उनले अलीगढ़ मुस्लिम विश्वविद्यालयबाट अरब इतिहासको परास्नातक तथा विधि स्नातकको शिक्षा हासिल गर्नु भएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 206,
+    "text_length_max": 281,
+    "text_length_avg": 243.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1278,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10834.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10834.txt",
+    "relative_path": "10834.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10834.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1278,
+    "mtime": 1782796446.6016161,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "734a842b49de3f9250a4ed5b08d6c62ba6f2d821",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

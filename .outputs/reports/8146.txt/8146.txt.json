@@ -1,0 +1,91 @@
+{
+  "dataset": "8146.txt",
+  "file_name": "8146.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोजिला फाउन्डेसन एउटा गैर फायदा रहित सङ्गठन हो जसले खुला श्रोत मोजिला परियोजनालाई समर्थन गर्दछ । यस सङ्गठनको स्थापना जुलाई 2003 मा भएको थियो जसको उद्देश्य बिकाश तथा सुबिधा प्रदान गर्नु रहेको थियो । मोजिला कोर्पोरेसनले कयों मोजिला डेवलपर्सहरूलाई रोजगार दिनुका साथै मोजिला फायरफक्स वेब ब्राउजर र मोजिला थन्डरबर्ड ईमेल क्लाईन्टको निर्माण गरेको छ । मोजिला फाउन्डेसन नेटस्केप सँग जोडिएर रहेको मोजिला सङ्गठनद्वारा स्थापित गरिएको थियो । सङ्गठन वर्तमानमा माउन्टेन भ्यु, क्यालिफोर्निया संयुक्त राज्य अमेरिकाको"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 530,
+    "text_length_max": 530,
+    "text_length_avg": 530.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1421,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8146.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8146.txt",
+    "relative_path": "8146.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8146.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1421,
+    "mtime": 1782796597.8350248,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2eacf5783c9e2b623a8d1c7e8e8ec3b321b0733a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "10198.txt",
+  "file_name": "10198.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भुक्तानी सेवा प्रदायक विभिन्न विद्यूतीय माध्यमबाट हुने भुक्तानीको आधारमा अनलाईन सेवा उपलब्ध गराउने निकायलाई जनाउँदछ । भुक्तानी सेवा प्रदायकहरूले बैङ्किग प्रणाली अन्तर्गतको क्रेडिट कार्ड, डेबिट कार्ड, बैङ्क रकमान्तर लगायतका भुक्तानीहरू स्विकार गरि अनलाई सेवा प्रदान गर्ने गर्दछ । ",
+    "भुक्तानी सेवा प्रदायकले बैङ्क तथा वित्तीय संस्था र विद्युतीय कारोबारमा संलग्न, विद्युतीय माध्यमबाट भुक्तानी कारोबार सञ्चालन गर्ने, ग्राहक तथा सेवा प्रदायकसँग मध्यस्थता गरि वस्तु र सेवाको भुक्तानी गर्ने, मनी ट्रान्सफर गर्ने, दुरसञ्चार सञ्जाल मार्फत विद्युतीय कारोबार गर्ने कार्यहरू गर्न सक्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 279,
+    "text_length_max": 294,
+    "text_length_avg": 286.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1551,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10198.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10198.txt",
+    "relative_path": "10198.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10198.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1551,
+    "mtime": 1782796443.4817505,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8e97f57aeaa0a943f7b73b60ab2f0b1cfdafb097",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

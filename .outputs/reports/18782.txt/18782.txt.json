@@ -1,0 +1,92 @@
+{
+  "dataset": "18782.txt",
+  "file_name": "18782.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुल प्रसाद पोखरेल एक नेपाली तथा तथा गीतकार थिए। उनी लोकप्रिय रूपमा अाफ्नो मञ्च नाम कूल पोखेलले चिनिन्थ्यो भने उनि एक पप र लोक सङ्गीत गायकको रूपमा परिचित थिए। उनको लागू अौषधीको अधिक सेवनका कारण सन् 2004 मा निधन भएको थियो।",
+    "पोखरेल बुटवलमा जन्मेका थिए र उनी आफ्नो आमाबाबुसँगै हुर्किएता पनि उनी आफ्ना आफन्तको साथ जीवन बिताउन चाहन्थे। उनले 11 वर्षको उमेर देखिनै गीत गाउन सुरु गरेका थिए। उनले आफ्नो अाफन्तको माझ गीत गाउँदा उनीहरूले एक दिन यो ठूलो भएर नेपालको गायक बन्नेछ भन्ने कल्पना पनि गरि सकेका थिए। पेखरेलले सुन मेरी मायालु बोलको गीत गाएपछि उक्त गीतले नेपाली सङ्गीत अनुयायी माझ निकै लोकप्रिय बनेको थियो जसका कारण उनी एक्कासी निकै प्रख्यात भएका थिए। उक्त गीतको सार्वजनिकसँग उनले नेपालका एक हिप-हप साङ्गीतिक समूह द युनिटिका सद"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 859,
+    "text_length_avg": 495.64,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14512,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18782.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18782.txt",
+    "relative_path": "18782.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18782.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14512,
+    "mtime": 1782796483.7362387,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9bbc9b4786ab3e1370a4f7a5bbcf5d5a8a5af125",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

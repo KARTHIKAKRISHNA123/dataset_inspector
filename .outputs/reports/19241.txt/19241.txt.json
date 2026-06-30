@@ -1,0 +1,92 @@
+{
+  "dataset": "19241.txt",
+  "file_name": "19241.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चुलाचुली नेपालको मेची अञ्चलको इलाम जिल्लाको दक्षिणी भेकमा अवस्थित एक गाँउपालिका हो। यो ठाउँमा 3349 वटा घर छन्।",
+    "नेपालको सन् 2001को जनगणना अनुसार चुलाचुलीको जनसङ्ख्या 18,176 छ। यस मध्य पुरुष 50%, र महिला 50% छन्।यो गाविस पुर्बमा कमल खोला पशिममा मावा खोला दछिणमा झपा जिल्ला र उत्तरमा इलाम कै बाझो तथा महमाइ गाविस पर्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 110,
+    "text_length_max": 207,
+    "text_length_avg": 158.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 806,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19241.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19241.txt",
+    "relative_path": "19241.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19241.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 806,
+    "mtime": 1782796486.114621,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "cd6be96f2e92d1e4cc6f11942802d72d05cac6e7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

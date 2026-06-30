@@ -1,0 +1,92 @@
+{
+  "dataset": "28087.txt",
+  "file_name": "28087.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सरस्वती राई नेपालकी राजनितिज्ञ हुन। उनी राजसभाको सदस्य बन्ने पहिलो महिला हुन्।",
+    "सरस्वती राईका बुवा बृटिश शासित भारतीय सेनामा कार्यरत थिए। बुबा जयराज र आमा रत्नकुमारी कुलुङ राईको सन्तानका रूपमा आसामाको लोकरा भन्ने ठाउँमा उनको जन्म भएको हो। उनको बिहे पनि भारतीय सेनामै काम गर्ने भोजपुरका आफूभन्दा 22 वर्ष जेठा नरबहादुर थुलुङ राईकी दोस्री पत्नीका रूपमा भएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 421,
+    "text_length_avg": 258.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4805,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28087.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28087.txt",
+    "relative_path": "28087.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28087.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4805,
+    "mtime": 1782796526.5295942,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "74269baa8496b8057773b873984b6bd8c051d3e4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

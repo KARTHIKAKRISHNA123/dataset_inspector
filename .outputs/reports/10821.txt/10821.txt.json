@@ -1,0 +1,92 @@
+{
+  "dataset": "10821.txt",
+  "file_name": "10821.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बांग्ला भाषा, बङ्गलादेश र भारतका पश्चिम बङ्गाल र उत्तर-पूर्वी भारतका त्रिपुरा तथा असम राज्यहरूका केही प्रान्तहरूमा बोलीने एक प्रमुख भाषा हो । भाषाई परिवारको दृष्टिबाट यो हिन्द यूरोपीय भाषा परिवारको सदस्य हो । यस परिवारका अन्य प्रमुख भाषाहरूमा हिन्दी, नेपाली, पञ्जाबी, गुजराती, असमिया, उडिया, मैथिली इत्यादी भाषाहरू पर्छन् । बांग्ला बोल्ने मानिसहरूको सँख्या लगभग 23 करोड छ र यस हिसाबले यो विश्वको सातौँ ठूलो भाषा हो। यो भाषा बोल्नेहरू बङ्गलादेश र भारत बाहेक विश्वका अन्य धेरै देशहरूमा पनि फैलेका छन्।",
+    "भारतको अन्य प्रादेशिक भाषाहरूको तरिका बँगला भाषाको पनि उत्पत्तिकाल सन् 1,000 ई.का आस पास माना जान सक्छ। अपभ्रंशबाट या मगधको भाषाबाट पृथक् रूप ग्रहण गर्न पछिबाट नैं उनमा गीतहरू र पदहरूको रचना हुने लगी थियो। जस्तै-जस्तै त्यो जनताका भावहरू र विचारहरूलाई अभिव्यक्त गर्नको साधन बनती गई, उनमा विविध रचनाहरू, काव्यग्रन्थहरू तथा दर्शन, धर्म आदि विषय कृतिनीहरूको समावेश हुदै गयो, यहाँसम्म कि आज भारतीय भाषाहरूमा उसलाई यथेष्ट ऊँचा स्थान प्राप्त भएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 101,
+    "text_length_max": 499,
+    "text_length_avg": 326.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3442,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10821.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10821.txt",
+    "relative_path": "10821.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10821.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3442,
+    "mtime": 1782796446.5337093,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1fd0f9116182901415d0898e9ecdbcbc5bc07b71",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

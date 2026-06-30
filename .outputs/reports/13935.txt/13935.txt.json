@@ -1,0 +1,91 @@
+{
+  "dataset": "13935.txt",
+  "file_name": "13935.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुर्जुवा फ्रान्सेली भाषाको शब्द हो । समाजशास्त्र र राजनीतिकशास्त्रमा बुर्जुवा शब्दले पूँजीपति वर्गको उपल्लो सामाजिक स्तर भएको वर्गलाई चिनिन्छ । पश्चिमा समाजमा 18औं शताब्दीको अन्त्यतिरदेखि प्रयोगमा आएको यो शब्दले कुनै मानिससँग भएको पूँजी र त्यससँग सम्बन्धित संस्कृतिको कारण गरिएको वर्गीकरण बयान गर्दछ । समकालीन शैक्षिक तथा राजनीतिक सिद्धान्त अनुसार बुर्जुवा भन्नाले पूँजीपति समाजको शासक वर्गलाई चिनिन्छ । मार्क्सवादी सिद्धान्तमा उत्पादनका साधनहरूमा यो वर्गको चिरस्थायी रूपमा स्वामित्व रहेको मान्यता रा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 507,
+    "text_length_max": 507,
+    "text_length_avg": 507.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1380,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13935.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13935.txt",
+    "relative_path": "13935.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13935.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1380,
+    "mtime": 1782796460.7583084,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "64f2c1fd7d919702619f93284fcb7c6c6afbeff4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

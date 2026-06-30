@@ -1,0 +1,92 @@
+{
+  "dataset": "11970.txt",
+  "file_name": "11970.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वाटिन दूरसञ्चार एक सञ्चार सेवा प्रदाता हो जुन लाहोर, पाकिस्तान मा अवस्थित छ, र वारिद टेलिकमको एक भातृ परियोजना हो । कम्पनी सन् 2005 मा स्थापना गरिएको थियो र सन् 2007 मा यसले देशमा सबैभन्दा ठूलो फाइबर अप्टिक सञ्जाल सञ्चालन गरेकाे थियोे । यसबाहेक, याे देशमा वाइम्याक्स नेटवर्कलाई व्यापारिक रूपमा सञ्चालन गर्ने पहिलाे कम्पनी थियोे । यो सार्वजनिक कम्पनीको रूपमा स्थापना भएकाे थियोे ।",
+    "वाटिन दूरसञ्चारले इन्टरनेट, आवाज, मल्टिमिडिया, र इन्टरप्राइज समाधान जस्ता सेवा प्रदान गर्दछ । वाटिनले अफगानिस्तान, इरान र भारत सँग क्षेत्रीय रूपमा जडान गर्न सम्भावना बाेकेतापनि हाल यसले कराची देखि ताेरख्खमसम्म फाइबर अप्टिक केबल नेटवर्क स्थापना गरेको छ । वाटिनले हाल 200 भन्दा बढी प्रमुख संस्थाहरू तथा 250,000 वाइम्याक्स प्रयोगकर्ताहरू र उद्यम समाधानको लागि सेवा प्रदान गर्दछ । यसको केबल सञ्जाल लाहोर र मुल्तान शहरहरूमा 125,000 भन्दा बढी घरहरूमा पुगेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 455,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5274,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11970.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11970.txt",
+    "relative_path": "11970.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11970.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5274,
+    "mtime": 1782796451.8290176,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2e0c88506e57d2b181633842afa0275286215cd7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

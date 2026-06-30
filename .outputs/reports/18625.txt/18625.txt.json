@@ -1,0 +1,92 @@
+{
+  "dataset": "18625.txt",
+  "file_name": "18625.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेगनास ताल कास्की जिल्लाको लेखनाथ अन्तर्गत पर्ने रमणीय ताल हो । यो ताल नेपालको सबैभन्दा ठूलो ताल मानिन्छ । लेखनाथ नगरपालिकाको सबैभन्दा ठूलो तालको रुपमा रहेको यस तालको क्षेत्रफल 3.73 वर्ग कि. मि. रहेको छ । यस तालले लेखनाथ नगरपालिकाको कुल क्षेत्रफलको 4.7% र सम्पुर्ण ताल क्षेत्रको 81% भाग ओगटेको छ । 7.5 देखि 10.6 मिटर गहिराइ भएको यस तालमा बि.स. 2044 सालमा बाँधबाधेपछि 220 हेक्टरबाट बढि 373 हेक्टर पुगेर कूल क्षेत्रपल 153 हेक्टर बृद्धि भएको छ । यहि बाँधबाट निकालिएको नहरले नगरपालिकाको खुदी फाँट र मालमू",
+    "बेगनास ताल संगै रहेको रिसॉर्ट क्षेत्रमा पोखरा आउने पर्यटकको लागि एउटा लोकप्रिय गन्तब्यको रुपमा रहेको छ । यस तालको पानीलाई सिंचाईको लागि प्रयोग गर्ने गरिन्छ र तालको केहि हिस्सामा माछा पालन गरेर सो क्षेत्रको उपयोग गर्ने गरिन्छ । बेगनास तालको कयों क्षेत्रमा दलदल रहेको हुनाले सो क्षेत्रमा हाल धानको खेति गर्ने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 538,
+    "text_length_avg": 106.9,
+    "duplicate_estimate": 6,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2803,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18625.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18625.txt",
+    "relative_path": "18625.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18625.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2803,
+    "mtime": 1782796483.0217314,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5489d0e335fea60f53ae2d07a81f034ed2ca0e97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

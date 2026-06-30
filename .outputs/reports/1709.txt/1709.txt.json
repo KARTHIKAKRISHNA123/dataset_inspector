@@ -1,0 +1,93 @@
+{
+  "dataset": "1709.txt",
+  "file_name": "1709.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेभ ह्वाटमोरको श्रीलङ्कामा भएको थियो । उनी भूतपूर्व अष्ट्रेलियन क्रिकेटर तथा हाल कोचको रुपमा रहेका छन् । ह्वाटमोरले अष्ट्रेलियाबाट 7 वटा टेष्ट म्याचहरु खेलेका छन् भने वन डे इन्टरनेशनल मा खेलेका छन् । उनले 6,000 भन्दा पनि बढी रन बनाउन सफल खेलाडी हुन् । सन् 1990 देखि श्रीलङ्का, बङ्गलादेश, पाकिस्तान जिम्बाबे तथा इन्डियन प्रिमियर लिग को टोली कोलकाता नाइट राइडर्सलाई समेत प्रशिक्षण दिइसकेका छन् भने हाल नेपालमा राष्ट्रिय क्रिकेट टिममा प्रशिक्षकको रुपमा रहेका छन् ।उद्दरण त्रुटी: Invalid tag;refs with no"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 523,
+    "text_length_max": 523,
+    "text_length_avg": 523.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9085,
+      "Latin": 0.0915
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1298,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9085,
+      "Latin": 0.0915
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1709.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1709.txt",
+    "relative_path": "1709.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1709.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1298,
+    "mtime": 1782796475.3136513,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1b1137239abb8d72db5f947eab079180af7db4af",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

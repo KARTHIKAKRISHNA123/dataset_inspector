@@ -1,0 +1,94 @@
+{
+  "dataset": "35835.txt",
+  "file_name": "35835.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजनीतिक दल एउटा राजनीतिक संस्था हो जो शासन मा राजनीतिक शक्ति प्राप्त गर्ने र त्यसलाई निरन्तर कायम गर्ने प्रयत्न गर्दछ । यसको लाई प्राय: त्यो निर्वाचन को प्रक्रियामा भाग लिदछन। राजनीतिक दलहरुको आफ्नो सिद्धान्त वा लक्ष्य हुन्छन,  जुन प्राय: लिखित दस्तावेजको रूपमा हुदछ।",
+    "विभिन्न् देशहरुमा राजनीतिक दलको अलगलग स्थिति वा व्यवस्था छ। केही देशहरुमा कुनै पनि राजनीतिक दल हुदैन। कहीं एउटै दल सर्वेसर्वा हुदछ। कहीं मुख्यतया दुई दल हुदछ। र धेरै जसो देशमा दुई भन्दा ज्यादा दल छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 201,
+    "text_length_max": 3334,
+    "text_length_avg": 1164.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 27960,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35835.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35835.txt",
+    "relative_path": "35835.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35835.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 27960,
+    "mtime": 1782796562.4521475,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "749d212c2d995470c0beb2b020619e554ff24092",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

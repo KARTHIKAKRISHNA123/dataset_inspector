@@ -1,0 +1,92 @@
+{
+  "dataset": "1795.txt",
+  "file_name": "1795.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्पनि ऐन 2063 को दफा 185 अनुसार एक करोड रुपैया वा सोभन्दा बढी चुक्ता पुँजी भएको कम्पनीले योग्यता पुगेको नेपाली नागरिकलाई कम्पनी सचिवको पदमा नियुक्त गर्नु पर्ने कानुनि व्यवस्था छ । सम्बन्धित कम्पनीको सञ्चालक त्यस्तो कम्पनीको सचिवको रुपमा नियुक्त हुन सक्ने छैन ।",
+    "कम्पनी सचिव सम्बन्धी व्यावसायिक प्रमाणपत्र जारी गर्ने अधिकारप्राप्त स्वदेशी वा विदेशी निकायबाट कम्पनी सचिवको व्यावसायिक प्रमाणपत्र प्राप्त गरी कम्तीमा दुई वर्षसम्म सम्बन्धित क्षेत्रमा काम गरेको वा कानून, व्यवस्थापन, वाणिज्य वा अर्थशास्त्र विषयमा कम्तीमा स्नातकोपाधि हासिल गरी कम्तीमा तीन वर्षसम्म सम्बन्धित क्षेत्रमा वा कम्पनी व्यवस्थापन क्षेत्रमा काम गरेको नेपाली नागरिक कम्पनी सचिव पदमा नियुक्त हुन सक्नेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 261,
+    "text_length_max": 409,
+    "text_length_avg": 335.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1800,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1795.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1795.txt",
+    "relative_path": "1795.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1795.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1800,
+    "mtime": 1782796479.8440535,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3cec603294d85b448988efb1caaf5638ffbe67a3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

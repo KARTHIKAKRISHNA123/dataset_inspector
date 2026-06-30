@@ -1,0 +1,94 @@
+{
+  "dataset": "13168.txt",
+  "file_name": "13168.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "न्युटनको ब्रह्माण्डिय गुरूत्वको नियम अनुसार कुनै पनि दुई पिण्डहरूको बीचमा पैदाहुने आकर्षण बल।आइजक न्यूटनले आफ्नो खोजले पत्ता लगाए कि सबै ग्रह र ताराहरु मात्रै होइन, प्रत्येक कणले एक अर्कालाई आफु तिर आकर्षित गर्छ ।यो आकर्षणलाई नै गुरुत्वाकर्षण र त्यसले उत्पन्न हुने बल लाई गुरुत्वाकर्षणबल भनिन्छ ।न्यूटन द्वारा प्रतिपादित गुरुत्वाकर्षण सम्बन्धी नियमलाई न्यूटनको गुरुत्वाकर्षण सम्बन्धी विश्वव्यापी नियम भनिन्छ । न्यूटनले गुरुत्व बल बस्तुको घनत्वो संग सम्बन्ध रख्ने भन्ने कुरा पत्ता लगाएको थियो।",
+    "मानौँ कुनै दुई वस्तुको पिण्ड m1 र m2 छ । तिनीहरु बिचको दुरि r छ भने ति दुई बिचलाग्ने गुरुत्वाकर्षण बल : "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 492,
+    "text_length_avg": 131.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2095,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13168.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13168.txt",
+    "relative_path": "13168.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13168.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2095,
+    "mtime": 1782796457.3883817,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1c179c2bf2f15f276252f9c111e3cdd5318b93eb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

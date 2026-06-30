@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1190.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू पञ्चाङ्गको एघारौं तिथिलाई एकादशी भनिन्छ। यो तिथि महिनामा दुई पल्ट आउँछ। पूर्णिमापछि र औंसी पछि। पूर्णिमापछि आउने एकादशीलाई कृष्ण पक्षको एकादशी र अमावस्यापछि आउने एकादशीलाई शुक्ल पक्षको एकादशी भनिन्छ। यी दुवै प्रकारका एकादशीहरूको हिन्दू सनातन संप्रदायमा धेरै महत्व छ।",
+    "मार्गशीर्ष महिनाको कृष्ण पक्षमा एकादशीको उत्पत्ति भएको हुनाले यस व्रतको अनुष्ठानको प्रारम्भ यसै दिनबाट गर्नुपर्दछ। पद्मपुराणमा धर्मराज युधिष्ठिरद्वारा भगवान श्रीकृष्णसित पुण्यमयी एकादशी तिथिको उत्पत्तिका विषयमा जिज्ञासा राख्दा भगवानले बताउनुभयो- सत्य युगमा मुर नामक भयंकर दानवले देवराज इन्द्रलाई पराजित गरेर जब स्वर्गमथि आफ्नो आधिपत्य जमायो, तब सबै देवता महादेवको शरणमा पुगे। महादेव देवगणलाई साथमा लिई क्षीरसागर जानुभयो। त्यहां शेषनागको शय्यामा योग-निद्रामा लीन हुनु भएका भगवान विष्णुलाई देखेर देवराज"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 1835,
+    "text_length_avg": 1054.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5718,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1190.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1190.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1190.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5718,
+    "mtime": 1782796610.2319539,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "4cc8f10d77e9fa5c691ffb9cf408de10b5a6bd25",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

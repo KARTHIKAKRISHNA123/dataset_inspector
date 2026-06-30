@@ -1,0 +1,92 @@
+{
+  "dataset": "23350.txt",
+  "file_name": "23350.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गंगाविक्रम सिजापति मदन पुरस्कार प्राप्त गर्ने व्यक्तित्त्व हुन् । उनले वि.सं. 2015 सालमा विज्ञानतर्फको मदन पुरस्कार पाएका हुन् । ",
+    "उनको जन्म वि.सं. 1972 सालमा दुगमबहिल, काठमाडौंमा भएको थियो। उनी प्राविधिक विषय कृषिमा स्नातक थिए।उद्यान नामक ग्रन्थका लागि उनले विज्ञानतर्फको मदन पुरस्कार 2015 सालमा प्राप्त गरेका थिए। विशेष गरेर कृषि, पशुपालन, मत्स्यपालन र करेसासम्बन्धी विषयलाई व्यावसायिक रूपमा प्रचारप्रसार तथा बोध गराउन उनका पुस्तकहरूले ऐतिहासिक रूपमा मद्दत गरेका छन्। उनको निधन वि.सं. 2048 सालमा भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 372,
+    "text_length_avg": 250.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1309,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23350.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23350.txt",
+    "relative_path": "23350.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23350.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1309,
+    "mtime": 1782796504.7537704,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4f2bf3250d0058d95d68134a555486202ec58fe9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

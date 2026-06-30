@@ -1,0 +1,92 @@
+{
+  "dataset": "29892.txt",
+  "file_name": "29892.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तुर्माखाँद गाउँपालिका शुदुरपश्चिम प्रदेश अन्तरगत अछाम जिल्लामा अवस्थित पहाडी भौगोलिकता रहेकोे गाउँपालिका हो । साविक रहफ, भैरवस्थान, तुर्माखाँद, नाडा, रानीवन, तोषी र धमाली गाविस मिलेर बनेको बनेको यो गाउँपालिका 232.07 वर्ग कि.मी. क्षेत्रफलमा फैलिएको छ । यस परिच्छेदमा यस क्षेत्रको भौगोलिक अवस्थिति, ऐतिहासिक चिनारी तथा नामाकरण, राजनीतिक अवस्थिति, प्राकृतिक तथा साँस्कृतिक उत्कृष्टता, विकास संभावनाहरुलाई देहाय बमोजिमका शिर्षकहरुमा व्याख्या गरिएको छ ।",
+    "ऐतिहासिक चिनारी तथा नामाकरण"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 679,
+    "text_length_avg": 312.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5838,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29892.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29892.txt",
+    "relative_path": "29892.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29892.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5838,
+    "mtime": 1782796535.304076,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c6112fcb197b30b723ac5b71ebf7c801a58f3730",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

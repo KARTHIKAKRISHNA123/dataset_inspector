@@ -1,0 +1,92 @@
+{
+  "dataset": "4245.txt",
+  "file_name": "4245.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किरण कुमारी राय",
+    "सर्लाही, मानपुर निवासी 37 वर्षीया किरण कुमारी राय समानुपातिक तर्फ नेकपा-एमालेका सभासद हुनुहुन्छ। राजनीतिमा सक्रिय आफ्ना श्रीमान् रामनिरञ्जन राय यादवको 2054 सालमा हत्या भएपछि त्यसै वर्ष राजनीतिमा प्रवेश गरेकी यादव हाल अखिल नेपाल महिला संघका जिल्ला सदस्य तथा लोकतान्त्रिक मधेसी सङ्घ सर्लाही जिल्ला समिति सदस्य हुनुहुन्छ। यसअघि उहाँले एमाले सर्लाही जिल्ला कमिटी सदस्य तथा मानपुर गाविस अध्यक्ष को जिम्मेदारी सम्हालिसक्नुभएको छ। 10 कक्षा सम्म अध्ययन गरेकी यादव 5 छोरी र 1 छोराकी आमा हुनुहुन्छ। राजनीति बाह"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 916,
+    "text_length_avg": 465.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2499,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4245.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4245.txt",
+    "relative_path": "4245.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4245.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2499,
+    "mtime": 1782796578.820538,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "cd21ca158594ea129e80d9b81c0666465f55076c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

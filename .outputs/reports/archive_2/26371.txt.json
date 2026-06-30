@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बर्षमान पुन नेपालका एक कम्युनिष्ट राजनितिज्ञ हुन् । हाल एकीकृत नेपाल कम्युनिष्ट पार्टी बाट राजनीति गरिरहेका पुन संविधानसभा निर्वाचन 2070मा मोरङ क्षेत्र नम्बर 9 मा नेपाली कांग्रेसका डिग बहादुर लिम्बुसँग पराजित भए। उनी 2067 माघ 23 मा झलनाथ खनालको नेतृत्वमा गठन भएको मन्त्रिपरिषदमा शान्ति तथा पुनर्निर्माण मन्त्रीको रूपमा सहभागी थिए । त्यस्तै 2068 भदौ 12 मा गठित डा. बाबुराम भट्टराईको नेतृत्वको सरकारमा अर्थमन्त्रीको रूपमा सहभागी भए ।",
+    "बर्षमान पुन रोल्पा जिल्लाको जङ्कोट गाविसको वडा नम्बर 1 माडीचौरमा निम्न मध्यम वर्गीय मगर परिवारमा जन्मिएका हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 750,
+    "text_length_avg": 329.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3497,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26371.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3497,
+    "mtime": 1782796638.9441116,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "02063d3153a703c6484b6b2ccba1f3cf432efda4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24083.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्डियन एयरलाइन्स फ्लाइट-814 वि.सं. 2056 पौष 9 गते शुक्रबार नेपालको राजधानी काठमाडौँको त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलबाट भारतको राजधानी नयाँ दिल्लीको इन्दिरा गान्धी अन्तर्राष्ट्रिय विमानस्थलको लागि उडेको विमान अपहरणमा परेको थियो । हर्कत-उल-मुजाहिद्दीनले पाकिस्तानको आइएसआईको सहयोग र सक्रिय सहायतामा विमान अपहरण गरेको आरोप लगाइएको थियो ।",
+    "भारतीय हवाई क्षेत्रमा प्रवेश गरेको केहि समयपछि भारतीय मानक समय अनुसार लगभग 17:30 मा विमानभित्र रहेका बन्दुकधारीले विमानलाई अपहरण गरी विमानलाई विभिन्न देशको विमानस्थलमा अवतरण गराउने कार्य सफलतापूर्वक गरे । भारतको अमृतसर, पाकिस्तानको लाहोर, र संयुक्त अरब इमिरेट्सको दुबई सहर हुँदै अपहरणकर्ताहरूले विमानलाई अफगानिस्तानको कन्दाहारमा अवतरण गर्न लगाए । त्यस समय कन्दाहार सहित अफगानिस्तानको विभिन्न क्षेत्र तालिबानद्वारा नियन्त्रित रहेको थियो । अपहरणकर्ताले विमानमा रहेका 176 यात्रुहरू मध्ये 27 जना यात्रीला"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 25,
+    "text_length_max": 615,
+    "text_length_avg": 340.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9938,
+      "Latin": 0.0062
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7262,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9938,
+      "Latin": 0.0062
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24083.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24083.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24083.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7262,
+    "mtime": 1782796634.4779952,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5bc3326cb2db848ec55044360e6237478df00248",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

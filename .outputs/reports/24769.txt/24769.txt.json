@@ -1,0 +1,94 @@
+{
+  "dataset": "24769.txt",
+  "file_name": "24769.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मनामा बहराइनको राजधानी र सबैभन्दा ठूलो शहर हो, जसको जनसंख्या 1,57,000 छ । लामो पर्सियन खाडीको महत्त्वपूर्ण व्यापारिक केन्द्र, मनामा, धेरै विविध जनसंख्याको घर हो । सउदी अरब र ओमानको सत्तारूढ राजवंशलाई पोर्चुगल र पर्सिया नियन्त्रण र आक्रमणको अवधि पछि, बहराइन ले 19 औं शताब्दीको ब्रिटिश आजादी संगसंगै आफुलाई एक स्वतंत्र राष्ट्रको रूपमा स्थापित गर्यो ।",
+    "यद्यपि मनामा र मुहर्राक दुबै जोडी शहरहरू 1800 मा एकैचोटि स्थापना भएको देखिन्छ । मुहर्राक, यसको रक्षात्मक स्थानको कारणले ठूलो प्रभाव पारेको थियो त्यसैले 1921 सम्म बहराइनको राजधानी थियो । मनामा व्यापारीक राजधानी र बहराइन द्वीपको मुख्य प्रवेश द्वार बन्यो । 20 औं शताब्दीमा, बहराइनका तेलको खपतले छिटो विकास भयो र 1990 को दशकमा एक समृद्ध विविधीकरणले अन्य उद्योगहरूमा विस्तार गर्न थाल्यो र मध्यपूर्वमा मनामालाई महत्त्वपूर्ण वित्तीय केन्द्रमा परिवर्तन गर्न मद्दत गर्यो । मनामालाई अरब संस्कृति द्वारा अरब संस"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 546,
+    "text_length_avg": 268.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Arabic": 0.0046
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4924,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Arabic": 0.0046
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24769.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24769.txt",
+    "relative_path": "24769.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24769.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4924,
+    "mtime": 1782796511.2983952,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "964d971201f81d91441a738edf529181115b3ec4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

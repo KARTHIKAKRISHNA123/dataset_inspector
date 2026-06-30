@@ -1,0 +1,91 @@
+{
+  "dataset": "4341.txt",
+  "file_name": "4341.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महानगरीय क्षेत्र एउटा बृहत जनसङ्ख्याको केन्द्र अथवा क्षेत्र हो । यो आफ्नो छिमेकमा रहेको क्षेत्रसँग गासिएर बनेको हुन्छ । यससँग जोडिएर रहेको सहर र अन्य प्रभावित क्षेत्र पनि यसैमा जोडिएर गनिन्छ । यसमा सबैभन्दा ठुलो शहारको नामले नै यस क्षेत्रलाई चिन्ने गरिन्छ । सामाजिक, आर्थिक तथा राजनीतिक परिवर्तनसँगै महानगरीय क्षेत्र झनै विकसित तथा सुबिधा सम्पन्न बन्दै गएको छ । महानगरीय क्षेत्रले एक वा सो भन्दा बढी सहरी क्षेत्रहरू आफुमा निहित पारेका हुन्छन जसले गर्दा त्यहाँको विकासको स्तर देखि लिएर सामाजिक जनजीवन "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 705,
+    "text_length_max": 705,
+    "text_length_avg": 705.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1882,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4341.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4341.txt",
+    "relative_path": "4341.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4341.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1882,
+    "mtime": 1782796579.2999606,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e68f1dda9331a8e7a4e30b6111702007bbf42b49",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

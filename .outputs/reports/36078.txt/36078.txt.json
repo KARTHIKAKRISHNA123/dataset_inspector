@@ -1,0 +1,92 @@
+{
+  "dataset": "36078.txt",
+  "file_name": "36078.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दीपा कर्मकार  एक कलात्मक जिम्नास्ट हुन् जसले 2016 ग्रीष्मकालीन ओलम्पिकमा भारतको प्रतिनिधित्व गरिन् । ओलम्पिकमा भाग लिएर प्रतिस्पर्धा गर्ने उनी पहिलो भारतीय महिला जिम्नास्ट हुन्, र पछिल्लो 52 वर्षमा यस्तो हर्ने प्रथम भारतीय, पुरुष अथवा महिला, जिम्नास्ट हुन् ।",
+    "सन् 2016 को रियो ओलम्पिक खेलमा उनले 15.066 अङ्कका साथ चौथौ स्थान प्राप्त गरेकी थिइन् । उनले ग्लासगोमा सम्पन्न 2014 राष्ट्रमण्डल खेलमा कास्य पदक जितेर सबैको ध्यान आफूतर्फ तानेकी थिइन् । राष्ट्रमण्डल खेलको इतिहासमा यो सफलता हासिल गर्ने उनी पहिलो भारतीय महिला हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 220,
+    "text_length_max": 651,
+    "text_length_avg": 404.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5335,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36078.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36078.txt",
+    "relative_path": "36078.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36078.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5335,
+    "mtime": 1782796563.691865,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0eaa30d3469fbd2151ee8662ebeff424a1308504",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "5224.txt",
+  "file_name": "5224.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्णा भारतमा बग्ने एक नदी हो। यो पश्चिमी घाटको पर्वत महाबालेश्वरबाट निस्कन्छ. यसको लम्बाई प्रायः 1290 किलोमीटर छ. यो दक्षिण-पूर्वमा बग्दै बङ्गालको खाडीमा गएर समुद्रमा मिसिन्छ। कृष्णा नदीका उपनदीहरूमा प्रमुख हुन्: तुंगभद्रा, घाटप्रभा, मूसी र भीमा. कृष्णा नदीको किनारामा विजयवाडा एंव मूसी नदीको किनारामा हैदराबाद स्थित छ. यसको मुहानमा ठूलो डेल्टा छ. यसको डेल्टा भारतको सबै भन्दा उपजाऊ क्षेत्रहरुमा एक हो। यसले माटोको कटाव भएको कारण पर्यावरणलाई धेरै नोकसान पुर्‍याइरहेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 469,
+    "text_length_max": 469,
+    "text_length_avg": 469.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1242,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5224.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5224.txt",
+    "relative_path": "5224.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5224.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1242,
+    "mtime": 1782796583.909765,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "8373f46236b2ffaaa9f6ce5c8d371594b4217858",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

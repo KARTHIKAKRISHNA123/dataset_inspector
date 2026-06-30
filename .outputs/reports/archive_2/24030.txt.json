@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24030.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एम्पियर ,विद्युत धारा करेन्ट एसआइ एकाइ प्रणालीमा मूल एकाई हो । फ्रेन्च गणितीज्ञ तथा भौतिकशास्त्री आन्द्रे मैरी एम्पीयर सो एकाईको नामकरण भएको हो, जसलाई इलेक्ट्रोडाइनामिक्स को पिता मानिन्छ।",
+    "एसआइ एकाइ प्रणालीले एम्पियरलाई अन्य मूल एकाईको रुपमा करेन्ट प्रवाह भएका दुई सुचालक तारहरु बीचको इलेक्ट्रोम्याग्नेटिक बलको नापबाट परिभाषित गरेको छ । यस भन्दा अघिको सी.जी.एस एकाइ प्रणालीले विद्युत आवेश लाई मूल एकाइ मानेर यसको परिभाषा गरेको थियो । एम्पियरलाई एक कुलम्ब चार्ज प्रति सेकेण्ड भनेर परिभाषा दिइएको थियो । एस.आइमा, आवेशको एकाई, कुलम्ब भनेको एक एम्पियरले एक सेकेण्डमा प्रवाह गरेको चार्ज हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 397,
+    "text_length_avg": 199.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2132,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24030.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24030.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24030.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2132,
+    "mtime": 1782796634.3947854,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "32ea831515d7e472e8ff77a10965efec1a5ab335",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

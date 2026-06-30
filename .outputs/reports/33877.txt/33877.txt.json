@@ -1,0 +1,94 @@
+{
+  "dataset": "33877.txt",
+  "file_name": "33877.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"फिफा पुस्काज पुरस्कार\" 20 अक्टोबर 2009 मा फिफाले सेप ब्लाटरको अध्यक्षतामा स्थापना गरेको पुरस्कार हो, जुन क्यालेन्डर बर्षको सुन्दर वा सर्वोत्कृष्ट गोल गर्ने पुरूष वा महिला खेलाडीलाई दिने गरिन्छ ।",
+    "यो पुरस्कार सन् 1950 र 1960 को बिचमा रियल म्याड्रिड फुटबल क्लब र हङ्गेरी राष्ट्रिय फुटबल टिमका लागि स्ट्राइकरको रूपमा खेलेका फेरेन्स पुस्काजको सम्मानमा प्रत्येक बर्ष दिने गरिन्छ । उनी विसौँ सताब्दीका उच्च गोलकर्ता हुन् जसले खेल जीवनभरी 528 खेल खेलेर 512 गोल गरेका छन् । यो पुरस्कार सर्वप्रथम सन् 2009 मा फिफा बर्ष खेलाडीको छनौट गरेको अवसरमा 21 डिसेम्बरका दिन क्रिष्टियानो रोनाल्डोलाई प्रदान गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 404,
+    "text_length_avg": 136.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9797,
+      "Latin": 0.0203
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1754,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9797,
+      "Latin": 0.0203
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33877.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33877.txt",
+    "relative_path": "33877.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33877.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1754,
+    "mtime": 1782796553.6481738,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7a08ad3fa2ea9d9c7cab29fb23ce849c6e7b85cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

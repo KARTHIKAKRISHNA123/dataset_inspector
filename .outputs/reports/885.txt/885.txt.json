@@ -1,0 +1,92 @@
+{
+  "dataset": "885.txt",
+  "file_name": "885.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हेमन्त विवशको जन्म डोटी जिल्लाको जिजोडमाण्डौ गा. वि. स. मा उनको जन्म भएको हो । नेपाली गीत संगित र भाषा,साहित्यका सौखिन बिवशले नेपाली साहित्यमा योगदान गर्दै आएका छन् ।",
+    "विवशको बाल्यकाल डोटी जिल्लामा नै बित्यो । करिव दुइ दशक अघि बि. सं. 2052 सालमा उनि काठमाडौं पसेका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 74,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 166,
+    "text_length_avg": 31.15,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6310,
+    "estimated_records": 202
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 202,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "885.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\885.txt",
+    "relative_path": "885.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "885.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6310,
+    "mtime": 1782796601.328632,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "63624cf05f241edfb8ea05eef0076ad61f8fc51e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

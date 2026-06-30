@@ -1,0 +1,94 @@
+{
+  "dataset": "21368.txt",
+  "file_name": "21368.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बार्सिलोना वा बार्साको नामले चिनिने यो क्लब स्पेनको एक पेशेवर क्लब हो, जुन बार्सिलोनामा अवस्थित छ । यसको पुरा नाम एफसी बार्सिलोना अर्थात फुटबल क्लब बार्सिलोना हो ।",
+    "1899मा जोअन ग्यामपरको नेतृत्वमा स्विस, अङ्ग्रेजी, र स्पेनिश फुटबल खेलाडीको एक समूह मिलाई \"Més que un club\" भन्ने उक्तिका साथ फुटबल क्लब बार्सिलोनाको रूपमा यस क्लबको स्थापना भएको थियो । यो क्लब क्याटलनबाद र क्याटलन संस्कृतिको एक प्रतीक बन्यो । यसको आधिकारिक गान \"Cant del Barça\" जउमे पिकास र जोसफ मारिया इस्पिनासले लेखेका हुन । राजस्वको मामलामा यो क्लब विश्वको दोस्रो धनी फुटबल क्लब हो, यसको वार्षिक बजेट 398,000,000 थियो। यस क्लबको रियल म्याड्रिड क्लबसँग लामो समय देखि प्रतिद्वन्द्विता चली आएको छ र य"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 939,
+    "text_length_avg": 398.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9363,
+      "Latin": 0.0637
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14896,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9113,
+      "Latin": 0.0887
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21368.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21368.txt",
+    "relative_path": "21368.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21368.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14896,
+    "mtime": 1782796496.088997,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "c223fe4761a0512fdb6934ec84e430604ca6a25c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

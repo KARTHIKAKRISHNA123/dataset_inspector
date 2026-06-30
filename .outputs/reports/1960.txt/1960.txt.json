@@ -1,0 +1,94 @@
+{
+  "dataset": "1960.txt",
+  "file_name": "1960.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पंखा को सट्टा पानीको मुस्लो ले पछाडि बाट धकेलेर गति लिने डुङा | नेपालको सप्त कोशी र नारायणी नदीमा पनि यो डुङाको प्रयोगको सुरुवात भएको छ | सर एडमण्ड हिलारीले सन् 1977मा गङा नदीको तल्लो बिन्दु वाट मुहान सम्म जेट बोटबाट यात्रा गरे पछि दक्षिण एसियामा यसको चर्चा खुबै चलेको थियो तर खर्चालु, कम भार बहन क्षमता, जटिल प्रविधिको कारण यसको प्रयोग यस क्षेत्रमा खासै बढन सकेन |",
+    "यो एक जनाले प्रयोग गर्न सकिने स्कूटर देखि 150 मिटर लामो सम्म हुन्छ |"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 365,
+    "text_length_avg": 209.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9641,
+      "Latin": 0.0359
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1600,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9641,
+      "Latin": 0.0359
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1960.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1960.txt",
+    "relative_path": "1960.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1960.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1600,
+    "mtime": 1782796487.7611635,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "5e0239811970162a6bb37be6c4c3a68fcdad57a9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

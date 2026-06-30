@@ -1,0 +1,96 @@
+{
+  "dataset": "8651.txt",
+  "file_name": "8651.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लङ्ग मार्च, चांग झेंग 3B, CZ-3B र LM-3B को रूपमा पनि जानिन्छ, एक चीनी कक्ष अल वाहक रकेट हो। 1996मा शुरू गरिएको, यो जिचांग स्याटइट लन्च सेन्टरको लन्च 2 क्षेत्र बाट प्रक्षेपण गरिन्छ। यो एक तीन चरणको रकेट चारवटा पट्टा भएको र तरल रकेट बूस्टर भएको, लङ्ग मार्च रकेटको परिवारमा सबै भन्दा शक्तिशाली सदस्य र गह्रुङ्गो हो, र मुख्य रूपमा geosynchronous कक्षामा संचार उपग्रहहरु लाई राख्नमा प्रयोग गरिन्छ। यसको शुरूआतको समयमा, यो संसारको दोस्रो सबै भन्दा सक्षम उपभोजित प्रक्षेपण प्रणाली थियो, रूसी प्रोटोन पछिको ।",
+    "लङ्ग मार्च 3Bको विकास लङ्ग मार्च प्रक्षेपण वाहनहरु अन्तर्राष्ट्रीय भू संचार उपग्रह बजारको उच्च शक्ति र भारी संचार उपग्रहहरुको लागि विशेष रूप ले, माग पूरा गर्न लाई पहिले प्राविधिकको आधारमा 1986मा शुरू भएको थियो। 14 फरवरी 1996मा आफ्नो पहिलो उडानको दौरान, रकेट उडानमा दुइ सेकेन्डको एक मार्गदर्शनको विफलताको सामना गर्न पर्यो र अधिक खडा गर्यो, 22 सेकेन्डको प्रक्षेपण पछि नजिकैको एक गाँउमा दुर्घटनाग्रस्त भयो। यसमा Intelsat 708 उपग्रह हराएको थियो र 100 गाउँलेहरु मारिएका थिए 4 आफ्नो पहिलो उडान पछि, लङ्ग मा"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 146,
+    "text_length_max": 775,
+    "text_length_avg": 401.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7606,
+      "Latin": 0.2394
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6884,
+    "estimated_records": 17
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 17,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7606,
+      "Latin": 0.2394
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8651.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8651.txt",
+    "relative_path": "8651.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8651.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6884,
+    "mtime": 1782796600.4082217,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9b0bcb091f747f4c410672e06500adb823766290",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

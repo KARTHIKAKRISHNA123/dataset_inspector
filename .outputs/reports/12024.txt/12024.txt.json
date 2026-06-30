@@ -1,0 +1,94 @@
+{
+  "dataset": "12024.txt",
+  "file_name": "12024.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोलालघाट नेपालको बागमती अञ्चलको काभ्रे जिल्लाको एक गाँउ विकास समिति हो। इन्द्रावती र भोटे कोशीको दोभान नजीक काठमाडौं देखि 56 कि.मि. पूर्व रहेको बजार क्षेत्रको परिचय दोलालघाटबाट भएको छ। यो क्षेत्र समुद्र सतहबाट 350 मि. उचाइमा अवस्थित छ। ",
+    "अरनिको राजमार्गको निर्माणले थप मद्दत पुर्याए तापनि दोलालघाटको ब्यापारिक महत्व अघिदेखिकै हो। अरनिको राजमार्गको निर्माणले उत्तरी क्षेत्रका बासिन्दा लगायत सिन्धुपाल्चोक, दोलखा, रामेछाप जिल्लासम्म व्यापारिक प्रभाव परेको छ। हुन त राजमार्गकै केही दूरीमा बलेफी, बाह्रबिसे र लामोसागूँमा बजार नभएको र तिनको ब्यापारिक प्रभाव नपरेको अवश्य होइन। प्रस्तावित दोलालघाट-धनकुटा राजमार्ग एवं दोलालघाट-चौतारा सडकको पनि संगमस्थल भएकाले अझ बढी महत्व थपिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 96,
+    "text_length_max": 438,
+    "text_length_avg": 216.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Latin": 0.0029
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2259,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9971,
+      "Latin": 0.0029
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12024.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12024.txt",
+    "relative_path": "12024.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12024.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2259,
+    "mtime": 1782796452.0622044,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "8b3c433419772e1b47cc32f92f776d4818050153",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

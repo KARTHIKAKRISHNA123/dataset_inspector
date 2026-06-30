@@ -1,0 +1,94 @@
+{
+  "dataset": "23406.txt",
+  "file_name": "23406.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राशि नक्षत्रहरूको एउटा घेरा अथवा समूह हो जसको माध्यमबाट सूर्य, चन्द्रमा, र ग्रह आकाशमा पारगमन गर्छन । ज्योतिषहरूले यि नक्षत्रहरू माथि ध्यान दिए र यिनलाई केही विशिष्ट महत्व दिए । समय संग-संगै उनीहरूले बारहौं नक्षत्रहरूको विशिष्टताहरूलाई ध्यानमा राखेर त्यसमा आधारित बारह राशिहरूको एक प्रणाली बनाए ।",
+    "राशीहरू मूलतः काल्पनिक तारापुञ्जहरू हुन् । सूर्यले पृथ्वीको वरिपरि ब्रह्माण्डमा घुम्ने बाटो वृत्त 360 डिग्रीको हुन्छ । यसलाई 12 भागमा विभाजन गरिएको छ, प्रत्येक 30/30 डिग्रीको। यो 30 डिग्रीभित्र जुन नामको तारापुञ्ज पर्दछ, त्यो राशी भनेर जानिन्छ। यी राशीहरू हुन् – मेष, वृष, मिथुन, कर्कट, सिंह, कन्या, तुला, वृश्चिक, धनु, मकर, कुम्भ र मिन। एकमा मेष र एवम् क्रमले बाह्रमा मिन। यिनीहरूले मोटामोटी रूपमा यिनै शब्दहरूले सङ्केत गरेका तारापुञ्जको आकारलाई निर्देशित गरेका हुन्छन् – मेषको मतलब भेँडा, वृषको मतल"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 296,
+    "text_length_max": 1247,
+    "text_length_avg": 595.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.997,
+      "Latin": 0.003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22138,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9973,
+      "Latin": 0.0027
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23406.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23406.txt",
+    "relative_path": "23406.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23406.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22138,
+    "mtime": 1782796504.9995642,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "81fc6db419ebce353b518312cc4610392ea5021f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

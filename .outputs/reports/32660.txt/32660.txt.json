@@ -1,0 +1,92 @@
+{
+  "dataset": "32660.txt",
+  "file_name": "32660.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अम्मान जोर्डनको राजधानी, र देशको आर्थिक, राजनीतिक, सांस्कृतिक केन्द्र तथा सबैभन्दा लोकप्रिय शहर हो । उत्तर-मध्य जोर्डनमा स्थित अम्मान, अम्मान राज्यपालको प्रशासनिक केन्द्र हो । शहरमा 40,07,526 जनसङ्ख्या र 1,680 वर्ग किलोमिटर भूमि क्षेत्र छ । आज, अम्मान पश्चिमी शहरहरू मध्ये सबै भन्दा उदारवादी शहर मानिन्छ । यो क्षेत्र विशेष गरी अरबी र युरोपियन पर्यटकहरू को एक प्रमुख पर्यटकीय स्थल हो ।",
+    "यस क्षेत्र मा मानव बस्ती को पुराना प्रमाण एक निओलिथिक साइटको हो । यसको उत्तराधिकारी रब्बाथ अम्मोन को नामले चिनिन्थ्यो, जुन अम्मोनहरू को राजधानी थियो, त्यस पछि फिलाडेल्फिया र अन्तिम उत्तराधिकारी अम्मान भयो । अम्मान लाई सुरूमा सात पहाडहरूमा निर्माण गरिएको थियो तर अब 27 जिल्लाहरू का साथ 19 वटा भन्दा धेरै पहाडहरूमा फैलिएको छ । जुन उनको मेयर यूसेफ अल-शावरबेको नेतृत्वमा ग्रेटर अम्मान नगरपालिका द्वारा प्रशासित हुन्छ । अम्मान को क्षेत्र या त पहाड या उपत्यका बाट अफ्नो नाम प्राप्त गरेका हुन् । पूर्वी अम्म"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 364,
+    "text_length_max": 670,
+    "text_length_avg": 512.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5349,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32660.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32660.txt",
+    "relative_path": "32660.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32660.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5349,
+    "mtime": 1782796548.0095713,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "60dbee9777f1db6a17f8ad2c167b49c42e4d831d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

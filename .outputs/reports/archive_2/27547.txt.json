@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27547.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुचित्रा कृष्णमूर्ति एक भारतीय अभिनेत्री, लेखिका, चित्रकार र गायक हुन्। उनीले 1987-88को बेला जब उनी स्कूलमा पढने गर्थिन् तब चुनौती नामको एक टिभी कार्यक्रममा पनि अभिनय गर्ने गर्थिन् । उनी 90को दसकमा एक सफल मोडेलको रुपमा काम गर्ने गर्थिन् । उनीले रण, कर्मा कन्फ्यूजन एंड होली, मित्तल वर्सिस मित्तल, आग, माय वाइफज मर्डर, कभी हाँ कभी ना, चुनौती, विश्व जस्ता अन्य धेरै चलचित्रमा अभिनय गरेकी छिन् ।",
+    "उनीले शेखर कपूरसँग विवाह गरिन्। उनको एक पुत्री छिन् जसको नाम कावेरी हो। फेब्रुअरी 2007मा उनको छोड पत्र भएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 115,
+    "text_length_max": 392,
+    "text_length_avg": 253.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1305,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27547.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27547.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27547.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1305,
+    "mtime": 1782796641.2918944,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "55fe7c16c66b3c7cdc60f3aa1577190ebc21a43d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

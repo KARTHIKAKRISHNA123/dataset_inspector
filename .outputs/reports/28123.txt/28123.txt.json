@@ -1,0 +1,94 @@
+{
+  "dataset": "28123.txt",
+  "file_name": "28123.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युनिभर्सिटी अँफ पीपल एक अमेरिकी गैर-लाभकारी दूरी उच्च शिक्षण संस्था हो जसले स्नातक डिग्री प्रदान गर्दछ। यो 2009 मा उद्यमी शाई रिसेफ द्वारा स्थापित गरिएको थियो। ",
+    "युनिभर्सिटी अँफ पीपल जनवरी 2009 मा शैक्षिक उद्यमी शाई रिसेफद्वारा सुरु भएको थियो। दुरशिक्षा प्रदान गर्ने एस विश्वविद्यालयसँग कुनै क्याप्सस छैन ' ', यद्यपि विश्वविद्यालयले क्यालिफोर्नियाको एक साझा कार्यालयलाई, भर्नालिने कार्यालयको रूपमा प्रयोग गर्दछ। "
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 160,
+    "text_length_max": 494,
+    "text_length_avg": 328.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10433,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9963,
+      "Latin": 0.0037
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28123.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28123.txt",
+    "relative_path": "28123.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28123.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10433,
+    "mtime": 1782796526.6840026,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "d47f430ae0b0e97a4867e0a3783675060521ebac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

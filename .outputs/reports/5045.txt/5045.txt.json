@@ -1,0 +1,92 @@
+{
+  "dataset": "5045.txt",
+  "file_name": "5045.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेडेन पावेल शिखर ब्याज ब्वाय्\\गर्ल स्काउटलाई सदस्यता ब्याज प्रदान गरिएपछि प्रदान गरिने दोस्रो चरणको ब्याज हो ।यो ब्याज स्काउटलाई दिक्षा दिए पछि स्काउटहरुलाई प्रदान गरिने ब्याज हो । यो ब्याजको भूमी हरियो हुन्छ । जसले स्काउटहरुलाई नेपालको धनको रुपमा रहेको हरियो वनपाखाको प्रतिनिधित्वगराउँछ । यस ब्याजको माथिल्लो भागमा सेतो हिमाल अंकित छ । जसले नेपालको वेडेन पावेल शिखर हिमालको प्रतिनिधित्व गर्दछ ।",
+    "हिमाल भन्दा तल भागमा पहेलो रंगमा ब्वाय्\\गर्ल स्काउटको सिद्धान्त ‘‘तयार होउ’’ रहेको हुन्छ । जसले स्काउटहरु जुनसुकै समयमा पनि सारिरीक र मानसिक लगायत सबै प्रकारले तयार रहन्छन् भन्ने कुरा जनाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 69,
+    "text_length_max": 395,
+    "text_length_avg": 198.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2141,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5045.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5045.txt",
+    "relative_path": "5045.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5045.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2141,
+    "mtime": 1782796582.605347,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "70a77cb77502dbe2ab417558fd36950bac6c79cb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

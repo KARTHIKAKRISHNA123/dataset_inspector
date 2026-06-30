@@ -1,0 +1,91 @@
+{
+  "dataset": "28993.txt",
+  "file_name": "28993.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अङ्कोरवाट कम्बोडियामा रहेको विश्वको सबैभन्दा ठूलो धार्मिक स्मारक पहिले हिन्दू स्मारक थियो र पछि, एक बौद्ध, मन्दिर परिसरको रुपमा विकास भएक थियो । मन्दिर खमेर राजा सूर्यवर्मन द्वितीयद्वारा 12 औं शताब्दीको सुरु तिर बनाइएको थियो यसोधरापुरमा, खमेर साम्राज्यको राजधानी आफ्नो राष्ट्रिय मन्दिर र अन्तिम समाधि रूप। अघिल्लो राजाहरूको शैव परम्परा तोड्दै, अङ्कोरवाट विष्णुमा समर्पण गरिएको थियो। यस स्थलमा राम्रो संरक्षित मन्दिर, आफ्नो स्थापना पछि यो मात्र एक महत्वपूर्ण धार्मिक केन्द्र रहेको छ। मन्दिर खमेर वास्त"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 650,
+    "text_length_max": 650,
+    "text_length_avg": 650.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1747,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28993.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28993.txt",
+    "relative_path": "28993.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28993.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1747,
+    "mtime": 1782796530.7506783,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8ae06e226e239b4843cf5e3d6aaa9243910e9b14",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

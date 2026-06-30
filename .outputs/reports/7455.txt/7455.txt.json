@@ -1,0 +1,92 @@
+{
+  "dataset": "7455.txt",
+  "file_name": "7455.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रपति शासन भारतमा शासनको सन्दर्भमा त्यस समय प्रयोग गरिने एउटा पारिभाषिक शब्द हो, जब कुनै राज्य सरकारलाई भङ वा निलम्बन गरिदिएको हुन्छ र राज्य प्रत्यक्ष सङ्घीय शासनको अधीनमा आउँछ । भारतको संविधानको अनुच्छेद-356 मा उल्लेख भए अनुसार केन्द्रले सङ्घीय सरकारको राज्यमा संवैधानिक तन्त्रको विफलता वा संविधानको स्पष्ट उल्लंघनको दशामा त्यस राज्य सरकारलाई बर्खास्त गरेर त्यस राज्यमा राष्ट्रपति शासन लागु गर्ने अधिकार हुन्छ । राष्ट्रपति शासन त्यस स्थितिमा पनि लागु हुन्छ जब राज्य विधानसभामा कुनै पनि दल वा गठ",
+    "सत्तापक्ष पार्टी वा केंद्रीय सरकारको सल्लाहमा, राज्यपाल आफ्नो निर्णय उपर सदनलाई भङ गर्न सक्छन, यदि सदनमा कुनै पार्टी वा गठबंधनसँग स्पष्ट बहुमत छैन । राज्यपाल सदनलाई छ महिनाको अविधिको लागी निलम्बित अवस्थामा राख्न सक्छ । छ महिना पछि, यदि कुनै पक्षसँग स्पष्ट बहुमत प्राप्त भएन भने त्यस बखत पुन: निर्वाचन गर्ने गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 538,
+    "text_length_avg": 322.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4320,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7455.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7455.txt",
+    "relative_path": "7455.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7455.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4320,
+    "mtime": 1782796594.575469,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4c43621514ebc477e00b38910d446d65d8368e3d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

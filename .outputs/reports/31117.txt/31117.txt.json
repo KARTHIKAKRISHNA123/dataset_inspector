@@ -1,0 +1,91 @@
+{
+  "dataset": "31117.txt",
+  "file_name": "31117.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो चन्द्र नामक पत्रिका बनारसबाट माधोप्रसादको सम्पादनमा विक्रम सम्वत1971 सालदेखि मासिक रूपमा प्रकाशित हुन थालेको पाइन्छ । यसमा गद्य र पद्य दुबै खाले रचना प्रकाशित भएका देखिन्छन् । चन्द्र शमशेरको स्तुतिगान गर्ने उद्देश्यले सुरु गरिएको यस पत्रिकाले मौलिक निबन्ध जन्माउन सकेको देखिदैन । यसमा कृष्णचन्द्र शर्मा, विज्ञानविलास, पारसमणि प्रधान आदिका लेखहरू प्रकाशित भएका छन् । बाह्र अङ्कसम्म प्रकाशित भएर सो पत्रिका बन्द भएको देखिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 427,
+    "text_length_max": 427,
+    "text_length_avg": 427.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1142,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31117.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31117.txt",
+    "relative_path": "31117.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31117.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1142,
+    "mtime": 1782796540.9274392,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "6992dbff0148afd1aa733274a44ddb324265d5d2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

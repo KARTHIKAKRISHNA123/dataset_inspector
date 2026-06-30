@@ -1,0 +1,94 @@
+{
+  "dataset": "30719.txt",
+  "file_name": "30719.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टोम यम, rtgs: टम yam, थाई: ต้มยำ,  ) एक लाओ र थाई सूप हो, सामान्यतया यो चिंराटसंग पकाइन्छ । टोम यम व्यापक रुपममा छिमेकी देशहरुमा जस्तै कम्बोडिया, ब्रुनाई, मलेशिया र सिंगापुर, र बिश्वोका अन्य देशहरुमा यो लोकप्रिय छ।",
+    "शाब्दिक रुपमा ''टोम यम बाट व्युत्पन्न भइ दुई थाई शब्दहरू: \"टोम\" र \"यम\" बनेको हो। \"टोम\" ले बुझाउँछ उम्लिरहेको प्रक्रिया बुझाउँछ, जबकि \"यम\" ले एक थाई पिरो र अमिलो सलादलाइ बुझाउँछ । वास्तवमा, टोम यम विशेषता यसको तातो र विशिष्ट अमिलो स्वादसंग सुगन्धित मसला र जडीबुटी भरपुर प्रयोगमा शोरबा बनाउनु हो । शोरबा आधारभूत रूपमा ताजा सामग्री जस्तै लेमन ग्रास, काफ्फिर चूना पात, गालागाल, कागति रस, माछा सस, र चोट खुर्सानी बात बनेको हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 425,
+    "text_length_avg": 272.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Latin": 0.0046
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4927,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9954,
+      "Latin": 0.0046
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30719.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30719.txt",
+    "relative_path": "30719.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30719.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4927,
+    "mtime": 1782796539.1685102,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "879f35ac8f5e0ba87277667ab7f2446732fe1938",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

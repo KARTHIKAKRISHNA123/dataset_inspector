@@ -1,0 +1,92 @@
+{
+  "dataset": "19623.txt",
+  "file_name": "19623.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोविन्दपुर मोरङ जिल्लामा पर्ने एक गाविस हो। मोरङ जिल्लामा रहेको गोविन्दपुर गाबिस एउटा विकासओन्मुख गाबिस हो। बिराटनगर बाट करीब 35 किलो मिटर पूर्व रहेको यस् गाबिसमा बसोबास गर्ने मानिस् प्राय कृषि पेशामा आबध्द रहेको पाइन्छ। मानिस् हरूमा सबै जसो धर्म मान्ने मनिष पाइन्छ धर्मिक शाहीस्नुताको एक नमुना ठाउँ हो।",
+    "नेपालको सन् 2011 को जनगणना अनुसार गोविन्दपुरको 3,375 घर धुरीमा कुल जनसङ्ख्या 15,586 रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 92,
+    "text_length_max": 303,
+    "text_length_avg": 197.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1030,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19623.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19623.txt",
+    "relative_path": "19623.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19623.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1030,
+    "mtime": 1782796487.8826668,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ba46d2a53c32dddf920759dde62d1175b78c3430",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

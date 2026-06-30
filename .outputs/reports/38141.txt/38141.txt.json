@@ -1,0 +1,91 @@
+{
+  "dataset": "38141.txt",
+  "file_name": "38141.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको पुरानोमध्ये एक व्यवसायीक धराना ज्योति समुह एक हो। ज्योति समुह एक शताव्दी अघि देखिनै तिब्बत व्यवसायमा संलग्न थियो।यसको स्थापना 1940 को दसकमा मणिहर्ष ज्योतिले गरेका हुन् । ज्योति समूहमा पद्य ज्योति अध्यक्ष छन् भने रुप ज्योति उपाध्यक्ष छन् । ज्योति समूहको सरुवात उनीहरुका हजुरबुबाले सुरु गरेका थिए, जसलाई पिता मणिहर्ष ज्योतिले आधुनिकिकरण गरेका थिए । मणिहर्ष ज्योतिले स्थापना गरेको व्यापारिक घराना ज्योति समूह आज लोभलाग्दो व्यापारिक घरानाका रूपमा स्थापित छ, तर मणिहर्ष स्वयंको संघर्षको कथा भने आम"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 584,
+    "text_length_max": 584,
+    "text_length_avg": 584.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1563,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38141.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38141.txt",
+    "relative_path": "38141.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38141.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1563,
+    "mtime": 1782796573.93604,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5a5a42437403bf1de179f152d8c7da7d2b7a7599",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

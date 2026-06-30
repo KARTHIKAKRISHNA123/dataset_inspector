@@ -1,0 +1,92 @@
+{
+  "dataset": "20722.txt",
+  "file_name": "20722.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2012 ग्रीष्मकालीन ओलम्पिक पदक तालिकामा लन्दनमा आईजित भए तीसौं ग्रीष्मकालीन ओलम्पिक वा 2012 ग्रीष्मकालीन ओलम्पिकमा पदक जितेका देशहरूको सूची छ। यस सूचीमा त्यो सबै देश छन् जसले यस ओलम्पिकमा कमभन्दा कम एक पदक अवश्य जित्छ। कृपया ध्यान दिनुहोस् कि यस सूचीमा देशहरूलाई स्वर्ण पदक जीतनमा उच्च स्थान दिइएको छ त्यसको पछि रजत पदक र फेरि कांस्य पदक जित्नेलाई स्थान दिइएको छ। उदाहरणका लागि यदि कुनै देशले केवल एक स्वर्ण पदक जित्छ त यस देशलाई त्यस देशदेखि माथि स्थान मिल्नेछ जसले अन्य पदक अधिक सङ्ख्यामा जित्छन् तर",
+    "यस तालिकामा देश/राओस र कोष्टकमा त्यस देश/राओसको आईओसी कोड दिइएको छ। कृपया ध्यान दिनुहोस् कि क्रमांक र स्थानमा अन्तर छ। क्रमांक केवल एक सङ्ख्या छ जो क्रमिक रूपले आरम्भ भएर अन्तसम्म एक-एक गर्न बढ रहेको छ जबकि स्थान यस तालिकामा विभिन्न देशहरूलाई पदक सङ्ख्याका आधारमा दिइएको छ। एक भन्दा अधिक देश तीनहरू प्रकारका पदकहरूको एक सा मेलजोल प्राप्त गर्न सक्नुहुन्छ यस कारण यस्ता देशहरूलाई एउटै स्थान दिइनेछ र यो आईओसी कोडका अनुसार क्रमित गरिएका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 438,
+    "text_length_max": 527,
+    "text_length_avg": 470.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3752,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20722.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20722.txt",
+    "relative_path": "20722.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20722.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3752,
+    "mtime": 1782796493.034265,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "68f3dffd25907ba1c811c5367844d9e990aea68c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

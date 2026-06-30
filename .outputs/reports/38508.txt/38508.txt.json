@@ -1,0 +1,92 @@
+{
+  "dataset": "38508.txt",
+  "file_name": "38508.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त इजलास भन्नाले दुइजना न्यायाधीशहरू रहेको इजलास लाई जनाउँछ। सर्बोच्च अदालत नियमावलीमा व्यवस्था भए अनुसार पुनरावेदन र साधक, संविधानको धारा 88 अर्न्तर्गत परेका निवेदनहरू, पुनरावेदनको अनुमतिको लागि न्याय प्रशासन ऐन, 2048 लागू हुनु भन्दा अघि परेका निवेदनहरू, मुद्दा दोहोर्‍याउनका लागि परेका निवेदनहरू, न्याय प्रशासन ऐन, 2048को दफा 15 बमोजिम तल्लो अदालतबाट झिकाइएको मुद्दा र सार्वजनिक हक वा सरोकारको कानुनी प्रश्न वा अन्य कुनै विषयवस्तुको जटिलता र महत्त्वको बिचार गरी प्रधान न्यायाधीशबाट संयुक्त इजल",
+    "सर्वोच्च अदालतको आधिकारीक वेबसाईट"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 572,
+    "text_length_avg": 302.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1612,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38508.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38508.txt",
+    "relative_path": "38508.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38508.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1612,
+    "mtime": 1782796575.5741313,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "1409be5afc5f4b1bb7e0cf9acbb1cff1e0efab70",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

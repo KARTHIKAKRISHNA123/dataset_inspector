@@ -1,0 +1,92 @@
+{
+  "dataset": "18144.txt",
+  "file_name": "18144.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जमुनी नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्र, भेरी अञ्चलको बर्दिया जिल्लामा अवस्थित गाँउ विकास समिति हो। यो ठाउँमा 2173 वटा घर छन। ",
+    "यो एउटा चारैतिर बाट जंगल नदीनाला ले घेरेको रमणीय ठाऊँ हो। पश्चिममा भारतको बोर्डर घनाजंगल अनि पूर्वतिर मानखोला जसले बर्दिया र बाँके को सिमाना छुटाएको गाबिस धेरै मनोहर र पर्यटकिय ठाऊ हो। यस जमुनी गाबिस भित्र पर्ने गाऊहरु : सीतापुर शांतिपुर, ठुलोडांफे, सानोडांफे, थपलोट जमुनी, फुटाहा आदि हुन्। यहाँ एउटा 10+2 दुइटा हाई स्कूल तिन वटा नि.मा.बी. 4 वटा प्रा. बि एउटा बोर्डिंग स्कूल छन ! यहाँ जानको लागी नेपालगंजबाट सोझै डांफे जाने बसमा जान सकिन्छ। नेपालगंज देखि खजुरा ओदरापुर गुनाहना सिमलघारी मानखोला कटेर भ"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 96,
+    "text_length_max": 852,
+    "text_length_avg": 359.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2811,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18144.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18144.txt",
+    "relative_path": "18144.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18144.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2811,
+    "mtime": 1782796480.690477,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "023c3570e63f8c48d2ac57a8182109710272c2ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

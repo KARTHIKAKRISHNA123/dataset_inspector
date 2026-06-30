@@ -1,0 +1,107 @@
+{
+  "dataset": "merged_output.csv",
+  "file_name": "merged_output.csv",
+  "source": "unknown",
+  "file_type": "csv",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "Headline",
+    "News Text"
+  ],
+  "preview": [
+    "سينيئر صحافي محمد حنيف ماڃوٺي لاڏاڻو ڪري ويو، سينيئر صحافي محمد حنيف ماڃوٺي گذريل ٻن سالن کان گڙدن جي تڪليف سبب علاج ھيٺ ھو، حنيف ماڃوٺي جو علاج ايس آءِ يو ٽي ۾ ڊائلاسز ۽ علاج ھلندڙ ھو، سومر جي رات جو دير سان حنيف ماڃوٺي پنھنجا پساهه پورا ڪري وڃي خالق حقيقي سان مليو، سندس جنازي نماز ٻڪرا پڙي جي مدينه مسجد ۾ ادا ڪئي وئي، جنھن بعد سندس مڙهه آلين اکين سان مٽيءَ ماءُ حوالي ڪيو ويو، جڏھن ته حنيف ماڃوٺي جي والد عبدالمجيد چوھڙ جمالي واري ۽ ٻين وارثن سان تعزيت جو سلسلو ھلندڙ آھي. ھوڏانھن سينيئر صحافي حن",
+    "اڳوڻي صدر ۽ پيپلز پارٽي جي شريڪ چيئرمين آصف علي زرداري چيو آهي ته پاڪستان هڪ ملڪ آهي، ڪا پبلڪ لميٽيڊ ڪمپني نه آهيون جو ڏيوالو نڪرندو، جاپان 10 ڀيرا ڊفالٽ ٿيو ۽ واپس آيو، جيئن پوري قوم کي ٺيڪ ڪرڻو ۽ سنڀالڻو آهي، تيئن ملٽري مائينڊ سيٽ کي سنڀالڻو آهي اهڙي ريت عدالت کي به سنڀالڻو ۽ ساڻن ڳالهائڻو آهي، عدليا سميت ملڪ جي هر اداري ۾ سڌارن جي ضرورت آهي. ملتان ۽ وهاڙي ۾ ميڊيا سان ڳالهائيندي آصف علي زرداري مختلف سوالن جا جواب ڏنا. هن چيو ته پوري قوم جيان معيشت کي سنڀالڻو ۽ ٺيڪ ڪرڻو آهي، ملٽري مائينڊ سيٽ کي"
+  ],
+  "statistics": {
+    "records_sampled": 5000,
+    "missing_text": 0,
+    "text_length_min": 70,
+    "text_length_max": 10418,
+    "text_length_avg": 1147.52,
+    "duplicate_estimate": 16,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Arabic": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10765649,
+    "estimated_records": 9344
+  },
+  "schema": {
+    "columns": [
+      "Headline",
+      "News Text"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "Headline",
+      "News Text"
+    ],
+    "estimated_records": 9344,
+    "raw_schema": {
+      "Headline": "str",
+      "News Text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Arabic",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Arabic",
+    "script_distribution": {
+      "Arabic": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {
+    "delimiter": ",",
+    "has_header": true,
+    "columns": [
+      "Headline",
+      "News Text"
+    ],
+    "n_columns": 2
+  },
+  "meta": {
+    "file_name": "merged_output.csv",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\merged_output.csv",
+    "relative_path": "merged_output.csv",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "merged_output.csv",
+    "source": "unknown",
+    "extension": "csv",
+    "file_type": "csv",
+    "mime_type": "text/csv",
+    "compression": "none",
+    "size_bytes": 10765649,
+    "mtime": 1782736889.9418797,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e3f3ca7a5dc80aef1722f99450f9d3fb52d26af8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

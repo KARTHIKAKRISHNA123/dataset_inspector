@@ -1,0 +1,93 @@
+{
+  "dataset": "3983.txt",
+  "file_name": "3983.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महमद अनावर अल सादात Muhammad Anwar el-Sadat 15 अक्टोबर 1970 देखि मृत्यु नभएसम्म इजिप्टको तेश्रो रास्ट्रपतिको रुपमा सेवा गरेका थिए | उनको हत्या सेनाका भित्रि अधिकृतबाट 6 अक्टोबर 1981 मा भएको थियो | सादात 1952 मा राजा फारुकको शासन अन्त्य गर्ने समूहको एक बरिस्ठग सदस्य थिए र रास्ट्रपति गमाल अब्देल नासेर, को निकट व्यक्ति थिए र उनले दुई पटक उप-रस्त्रपतिको रुपमा सेवा गरेका थिए र नासेरको मृत्यु पछि 1970 मा रास्ट्रपति भएका थिए |"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 423,
+    "text_length_max": 423,
+    "text_length_avg": 423.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9385,
+      "Latin": 0.0615
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1034,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9385,
+      "Latin": 0.0615
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3983.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3983.txt",
+    "relative_path": "3983.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3983.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1034,
+    "mtime": 1782796577.3656566,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "206cda3da021c7824862cb02517e5490ce2a33c2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

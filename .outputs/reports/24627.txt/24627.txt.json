@@ -1,0 +1,91 @@
+{
+  "dataset": "24627.txt",
+  "file_name": "24627.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाह्य मामिलाको मन्त्री वा सामान्यतया विदेश मन्त्री भारतको विदेश मन्त्रालयको प्रमुख हुन्छन । भारतको केन्द्रीय मन्त्रीमण्डलमा विदेश मन्त्रालय जेठो मन्त्रालय अन्तर्गत पर्छ । यस मन्त्रालयको प्रमुख को काम आफ्नो देशको प्रतिनिधित्व गर्ने र बिदेशी समुदायमा आफ्नो सरकारको मामिला हेर्ने हो । भारतको विदेश-नीति तय गर्नमा यसको प्रमुख हात हुन्छ ।भारतको पहिलो प्रधानमन्त्री जवाहरलाल नेहरुले आफु प्रधानमन्त्री छदा विदेश मन्त्रीको कार्यभार पनि आफु संगै राखेका थिए । उनि सो पदमा 17 बर्ष सम्म रहे जुन आज पनि भारतको इति"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 706,
+    "text_length_max": 706,
+    "text_length_avg": 706.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1877,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24627.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24627.txt",
+    "relative_path": "24627.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24627.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1877,
+    "mtime": 1782796510.6206968,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "05b8ad785e14daeb3f4f26825bfed939069ac2c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

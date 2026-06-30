@@ -1,0 +1,92 @@
+{
+  "dataset": "26849.txt",
+  "file_name": "26849.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तामाङ जाति, नेपालको मध्य पहाडी क्षेत्रमा लगभग वि.स. 1700 देखि बसोवास गर्दै आएको जाति तथा समुदाय हो। नेपालमा बसोबास गर्ने 125 जनजाति मध्ये मुख्यतया पहाडी इलाकामा बसोबास गर्ने तामाङ एक प्रमुख जाति हो। नेपालमा तामाङ जातीको जनसंख्या वि.सं. 2068 सालको जनगणना अनुसार 15,36,682 अर्थात 5.8% रहेको पाइन्छ ।",
+    "नेपालको तामाङसमाज भन्नासाथ बौद्ध धर्म र बोन संस्कारमा आस्था राख्ने, एक आदिबासी नेपाली समाज भन्ने अर्थ हुन्छ । धार्मिक दृष्टिले भोटतिरको अर्थात् उत्तरतिरको प्रकृति यिनीहरुमा देखिए पनि अरु रहनसहनमा ठेट तिब्बतिपना यिनमा पाइन्छ । तामाङको बसोबास खास गरेर काठमाण्डू उपत्यका लगायत वरिपरिका जिल्ला अर्थात् सिन्धुपाल्चोक, काभ्रेपलाञ्चोक, रसुवा, नुवाकोट, धादिङ र मकवानपूरमा पाइन्छ । यी जिल्लाभन्दा अतिरिक्त ठाउँमा यिनीहरु छँदै छैनन् भन्ने आशय भने होइन । हेरेर ल्याएका खण्डमा मेचीदेखि भेरीसम्म नै अथवा भनौ गन्दक"
+  ],
+  "statistics": {
+    "records_sampled": 94,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 5487,
+    "text_length_avg": 503.59,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 125915,
+    "estimated_records": 250
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 250,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26849.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26849.txt",
+    "relative_path": "26849.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26849.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 125915,
+    "mtime": 1782796521.0138218,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "027ef18f3a134f383d086f29e98af5fb2e4a0a40",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

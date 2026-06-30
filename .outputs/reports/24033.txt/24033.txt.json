@@ -1,0 +1,94 @@
+{
+  "dataset": "24033.txt",
+  "file_name": "24033.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "English Language",
+    "जयबहादुर हितानको जन्म वि.सं. 2002 श्रावण 12 गते  वडा नं. 1, अरेवा, पौँदी–अमराई गा.वि.स., गुल्मी नेपालमा भएको थियो । पिता जमदार पदमसिङ हितान मगर र माता हस्तीकुमारी हितान मगरका 6 भाना छोराछोरीमध्येमा उनी माइला छोरा थिए । उनका जेठा दाजी गङ्गा, साइँला भाइ पूर्ण र कान्छा भाइ रमेश अनि दिदी तुलसी र बैनी भिमी थिए ।पिता पदमसिङका दुई धर्मपत्नी हस्तीकुमारी र गौरी थिए । दुइटै आमाले रोगव्याधीका कारण अल्पआयुमै जीवन गुमाउनु पर्दा जयबहादुरले सानैमा टुहुरो हुनुपयो । 4/8 गोर्खा रेजिमेन्टबाट दोश्रो विश्व युद्धमा ए"
+  ],
+  "statistics": {
+    "records_sampled": 31,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 2542,
+    "text_length_avg": 822.39,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 67841,
+    "estimated_records": 82
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 82,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0045
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24033.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24033.txt",
+    "relative_path": "24033.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24033.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 67841,
+    "mtime": 1782796507.81794,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "7fc3aaca0358bcf10e233652a41346dee065153f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

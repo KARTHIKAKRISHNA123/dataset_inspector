@@ -1,0 +1,92 @@
+{
+  "dataset": "2048.txt",
+  "file_name": "2048.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वीरेन्द्रनगर नगरपालिका नेपालको सुर्खेत उपत्यकाको सुर्खेत जिल्लामा पर्दछ यो सहर मध्य-पश्चिमाञ्चल विकास क्षेत्रको सदरमुकाम तथा सुर्खेत जिल्लाको पनि सदरमुकाम हो। यो नगरको नामाकरण स्वर्गीय राजा वीरेन्द्र वीर विक्रम शाहको नामसँग संबन्धीत छ। राजा वीरेन्द्रबाट नै सुर्खेत उपत्यकामा मलेरीयाको उन्मुलन पछि वीरेन्द्रनगर सहरको परिकल्पना गरिएको थियो। हाल वीरेन्द्रनगर पश्चिम नेपालको प्रमुख वाणिज्य केन्द्र तथा शिक्षा र स्वास्थ्यको केन्द्र हो।",
+    "नेपालको राष्ट्रिय जनगणना 2068 अनुसार वीरेन्द्रनगर नगरपालिकाको जनसंख्या 93,718 मध्ये पुरुष 49% र महिला 51% छन।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 109,
+    "text_length_max": 1253,
+    "text_length_avg": 431.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8118,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2048.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2048.txt",
+    "relative_path": "2048.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2048.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8118,
+    "mtime": 1782796491.8839498,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "683c21e0f02d9d2d8b21287bbe1d3e53bf77ab2b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

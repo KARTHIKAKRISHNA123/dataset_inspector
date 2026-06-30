@@ -1,0 +1,91 @@
+{
+  "dataset": "35054.txt",
+  "file_name": "35054.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुमार कान्छा प्रसिद्ध गायक हुनुहुन्छ। उहाँ भारतको मुर्म्बई मा बस्नुहुन्छ। पिता जागीरको सिलसिलामा दैलेख जिल्लाको बाँसीबाट कोलकाता पुगेका बेला कुमार जन्मनुभएको हो। उहाँको जन्म 2014 मंसिर 28मा भएको हो। पिताको नाम मनबहादुर शाह र माताको नाम तुलसीदेवी शाह हो। उहाँकी एक दिदी हुनुहुन्छ। उहाँ श्रीमती र दुइ छोराका साथ मुर्म्बईमा बस्नुहुन्छ। कुमारले नेपालका एक सयभन्दा बढी चलचित्रमा गीत गाउनुभएको छ। 'लाहुरे', 'कोसेली' जस्ता चलचित्रमा अभिनय पनि गर्नुभएको छ। चलचित्रबाहेक गाएका नेपाली गीतहरू संगालेर उहाँका दुइ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 745,
+    "text_length_max": 745,
+    "text_length_avg": 745.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1984,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35054.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35054.txt",
+    "relative_path": "35054.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35054.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1984,
+    "mtime": 1782796559.0035028,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "3c322b91c40b79aec63c72c98595cb0f45c96f92",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

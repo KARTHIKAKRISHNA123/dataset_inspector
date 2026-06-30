@@ -1,0 +1,93 @@
+{
+  "dataset": "33976.txt",
+  "file_name": "33976.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"भारद्वाज\" लेख यहाँ रिडाइरेक्ट हुन्छ। कृपया लेखको अरू उपयोगका लागि भारद्वाज हेर्नुहोला।",
+    "भारद्वाज हिन्दुहरुका एक महान ऋषि हुन्। भरद्वाज प्रसिद्ध सप्तर्षिमध्केका एक ऋषि हुन् । तैतित्तरीय ब्राहण भन्ने ग्रन्थमा उल्लेख भएअनुसार उनी वेदहरुका पूर्ण ज्ञाता बन्न चाहन्थे । यसको लागि उनले परिश्रम गरिरहेका थिए, किनतु वेदको पार पाउन कठिन भइरहेको थियो । त्यसपछि उनले इन्द्रको तपस्या गरेर एकएक सयका दरले तीनपटक सम्म वेदको अथ्ययन गर्ने वरदान पाएका थिए । तीनसय वर्षको आयु थप पाउँदा पनि वेदहरुको पूर्ण ज्ञान गर्ने सफलता प्राप्त भएको थिएन । यिनी उद्विग्न र निराश भएर बसेको बेलामा देवराज इन्द्र थिनका अगाडि"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 3426,
+    "text_length_avg": 850.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33469,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33976.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33976.txt",
+    "relative_path": "33976.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33976.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33469,
+    "mtime": 1782796554.0703175,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f38726a406d65cf571d08272a0b453c9fda03a17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

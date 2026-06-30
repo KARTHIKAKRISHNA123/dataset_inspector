@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37778.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शैलजा आचार्य नेपालकी पहिलो महिला उपप्रधानमन्त्री तथा नेपाली कांग्रेसकी वरिष्ठ नेतृ हुन्। उनको जन्म ई.सं. 1944 मे 8 मा मोरङ जिल्लाको बिराटनगरमा भएको थियो। समाजशास्त्रको स्नातकोत्तर तह सम्म अध्ययन गरेकी आचार्य नेपाली कांग्रेसका नेताद्वय बी.पी. कोइराला र गिरिजाप्रसाद कोइरालाकी भान्जी हुन्।",
+    "बी.पी. एवं गिरिजाका पिता श्री कृष्णप्रसादकोइरालाले दुई विवाह गर्नुभएको थियो। पहिली पत्नी मोहनकुमारी कोइरालाबाट जन्मनुभएको मातृका प्रसाद कोइराला देशको प्रधानमन्त्री हुनुभयो। कृष्णप्रसादकी पहिली पत्नीकै छोरी इन्दिराकी छोरी शैलजा हुनुहुन्छ। कान्छी श्रीमती दिव्या कोइरालाबाट बी.पी. कोइराला, केशव कोइराला, तारिणीप्रसाद कोइराला र गिरिजाप्रसाद कोइराला जन्मनुभएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 279,
+    "text_length_max": 1093,
+    "text_length_avg": 488.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6551,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37778.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37778.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37778.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6551,
+    "mtime": 1782796661.7284877,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1f3ca4cc68529725ae349fe6316ef21b3e6046c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

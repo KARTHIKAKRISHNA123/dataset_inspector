@@ -1,0 +1,94 @@
+{
+  "dataset": "38726.txt",
+  "file_name": "38726.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धर्म भन्नाले दैवि शक्ति, परमात्मा अथवा अदृश्य शक्तिमा गरिने विश्वास र त्यस्ता शक्तिहरू सँग सम्बन्धित नैतिक आचरण, व्यवहरार, मूल्य तथा मान्यता, सङ्घ संस्था, तथा पुरातन बिधिहरू पर्दछन्। कहिलेकाहिं आस्था अथवा विश्वास जस्ता शव्द पनि धर्मकै अर्थमा प्रयोग गरिन्छ। बृहद अर्थमा कसैले धर्मलाई ",
+    " ब्रम्हाण्ड र मानवको संबन्ध बारे सम्पूर्ण उत्तर मान्ने गर्दछन्। धर्म भनेको जिव वा मानवको स्वभाविक गुण हो। मानव सँस्कृतीको विकाश सँगै धर्मको अर्थ समाज र ब्यक्ति अनुसार फरक फरक पाइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 676,
+    "text_length_avg": 290.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9968,
+      "Latin": 0.0032
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7839,
+    "estimated_records": 27
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9968,
+      "Latin": 0.0032
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38726.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38726.txt",
+    "relative_path": "38726.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38726.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7839,
+    "mtime": 1782796576.6624877,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8f27a6a3741eda1ae485d977274308f69c702f84",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

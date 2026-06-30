@@ -1,0 +1,92 @@
+{
+  "dataset": "15236.txt",
+  "file_name": "15236.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बीर अस्पताल नेपालको सबैभन्दा पुरानो तथा ब्यस्त अस्पताल मध्येको एक हो। यो अस्पताल बि.सं. 1947 मा बीर शम्शेर द्वारा स्थापित गरिएको थियो त्यसैले यसलाई वीर अस्पताल भनिएको हो। यो काठमाडौं शहरको केन्द्रमा खुलामञ्च अगाडि अवस्थित छ। यो अस्पताल सन् 2003 पश्चात एक सरकारी एजेंसी चिकित्सा विज्ञान राष्ट्रिय प्रतिष्ठान मार्फत सञ्चालित छ।",
+    "अस्पतालले देशभरका सबै तह र तप्काका व्यक्तिहरूकालागि उच्च गुणस्तरको चिकित्सा तथा शल्य चिकित्सा उपचार प्रदान गर्दछ। ग्रामिण भेगका धेरै बिरामीहरू यस अस्पतालमा निशुल्क चिकित्सा सेवा लिनका लागि टाढा टाढा बाट आउने गरेका छन्। हाल अस्पतालमा 458 शैयाको क्षमता रहेको छ। देश कै प्रसिद्ध डाक्टरहरूमध्ये केही यसै अस्पतालमा कार्यरत छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 325,
+    "text_length_avg": 157.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3356,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15236.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15236.txt",
+    "relative_path": "15236.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15236.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3356,
+    "mtime": 1782796466.6075132,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "4f7751cbe6bb678c60f95ca0e10fce342527dc9e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

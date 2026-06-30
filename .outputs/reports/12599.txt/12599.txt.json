@@ -1,0 +1,92 @@
+{
+  "dataset": "12599.txt",
+  "file_name": "12599.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तेस्रो विश्वयुद्ध एक काल्पनिक युद्ध हो।जुन निकट भविष्यमा हुन सक्ने युद्ध अन्तर्गत पर्दछ।संसारका मुख्य शक्तिहरुका बोली र व्यवहारमा कडापन ह्वात्तै बढेपछि एक पटक फेरी विश्वयुद्धको त्रासदी बढेको छ।अमेरिका, चीन, युरोपियन युनियन र रसियाका स्वार्थहरु एकआपसमा नराम्ररी बाझिन थालेपछि कतै विश्व तेस्रो विश्वयुद्ध तर्फ अग्रसर त भएको होइन् भने आशंकाहरु बढेका हुन्।",
+    "2017:मे महिनाकै पहिलो हप्तामा नेटोले इस्टोनियामा अहिले सम्मै ठुलो सैन्य अभ्यास गर्यो। यो सैन्य अभ्यासको एक मात्र उद्धेश्य रसियन राष्ट्रपति भ्लादिमिर पुटिनको महत्वकांक्षालाई जवाफ दिनु मात्र थियो । रसिया चुप बसेन, मेडिटेरानियन समुन्द्रमा चीनसंग मिलेर सैन्य अभ्यास गर्यो जुन अमेरिका सहित नेटोलाई जोडदार जवाफ थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 109,
+    "text_length_max": 771,
+    "text_length_avg": 352.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6660,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12599.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12599.txt",
+    "relative_path": "12599.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12599.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6660,
+    "mtime": 1782796454.7481863,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "1de1d0591ce5c271ed35200631e53009efec232e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

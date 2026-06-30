@@ -1,0 +1,94 @@
+{
+  "dataset": "37565.txt",
+  "file_name": "37565.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रसेल डोनेनिक पिटर्स एक भारतीय मुलका क्यानेडियन हास्य कलाकार तथा अभिनेता हुन् । उनले सन् 1989 मा टोरन्टोबाट प्रदशन गर्न थाले र सन् 2008 मा उनले जेमिनी पुरस्कार जितेका थिए । उनि हाल लस एन्जलस बसोबास गर्दछन् ।",
+    "रसेल पिटर्सको जन्म एरिक र मौरीनको कोखबाट टोरन्टो, ओन्टारियोमा भएको थियो । उनि चार बर्षको हुँदा उनको परिवार ओन्टारियो को नजिकै शहर ब्राम्पटनमा बसाई सरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 158,
+    "text_length_max": 1236,
+    "text_length_avg": 492.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9584,
+      "Latin": 0.0416
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4930,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9584,
+      "Latin": 0.0416
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37565.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37565.txt",
+    "relative_path": "37565.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37565.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4930,
+    "mtime": 1782796571.0152035,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b68e05bb00d4d304adc455e9b5d16acd59ceeb7a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

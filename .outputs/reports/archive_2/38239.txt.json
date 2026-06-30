@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38239.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संस्थाले निष्काशन गरेको सेयर मध्ये प्रतिफल तथा पूँजि फिर्तामा अग्र अधिकार हुने सेयरलाई अग्राधिकार सेयर भनिन्छ । अग्राधिकार सेयरमा सेयरपुँजि तथा ऋण दुवैको मिश्रीत विशेषता हुने गर्दछ । अग्राधिकार सेयर निष्काशन गर्दा कम्पनी ऐन, 2063 मा उल्लेख भएको व्यवस्थालाई पालना गरि गर्नु पर्ने हुन्छ भने यो समुहको सेयरहरुले साधारण सेयरधनीहरु भन्दा अधि रकम तथा प्रतिफल प्राप्त गर्ने अधिकार राख्दछ । ",
+    "अग्राधिकार सेयर संस्थाको पूँजिको रुपमा रहने भएता पनि यसको सेयरधनीले संस्थाको साधारण सभामा मत हाल्ने अधिकार भने हुदैछ तर यसमा निश्चित दरमा लाभांस प्राप्त गर्ने अधिकार यस प्रकारको सेयरधनीलाई हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 196,
+    "text_length_max": 383,
+    "text_length_avg": 289.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1551,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38239.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38239.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38239.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1551,
+    "mtime": 1782796662.644734,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "607a208eb85f4f53d2c964485eddbd8859ce346c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

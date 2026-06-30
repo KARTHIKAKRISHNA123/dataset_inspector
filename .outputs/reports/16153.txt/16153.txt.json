@@ -1,0 +1,92 @@
+{
+  "dataset": "16153.txt",
+  "file_name": "16153.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1938 फिफा विश्वकप विश्वकपको तेस्रो संस्करण थियो । यो फ्रान्समा 4 देखि 19 जून 1938 सम्म आयोजित भएको थियोे । इटालीले हंगेरीलाई फाइनलमा 4-0 ले हराएसंगै उपाधि हात पारेको थियोे । इटालीले 1934 र 1938 को विश्वकप एकमात्र प्रशिक्षक, विट्टोरिओ पोज्जो मात्र दुई विश्वकप जितेका छन् ।",
+    "फ्रान्स 13 अगस्ट 1936 मा बर्लिनमा फ्रिफाले आयोजक राष्ट्रको रूपमा रोजिएको थियो । फ्रान्सलाई अर्जेन्टिना र जर्मनीमाथि मतदानको पहिलो चरणमा छनोट गरिएको थियो । फ्रान्स युरोपमा दोस्रो प्रतिस्पर्धी प्रतियोगिता दक्षिण अमेरिकाको अवशेषको कारणले गर्दा मानिन्छ कि यो स्थान दुई महाद्वीपहरू बीचको विकल्प हुनुपर्छ । यो अन्तिम विश्वकप दोस्रो द्वितीय विश्वयुद्ध अघि जोडिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 111,
+    "text_length_max": 363,
+    "text_length_avg": 248.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1946,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16153.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16153.txt",
+    "relative_path": "16153.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16153.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1946,
+    "mtime": 1782796470.9122458,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "369524cef22e7b290061d1a4c1f04fe3e6cf0d48",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

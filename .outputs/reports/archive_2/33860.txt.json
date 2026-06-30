@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33860.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "घनश्याम नेपाल पेसाले प्राध्यापक हुन् भने नेपाली साहित्यका क्षेत्रमा समालोचक हुन् । भाषा र साहित्यको अन्वेषणमूलक लेखनमा यिनको कलम राम्रोसँग चलेको पाइन्छ । यिनी नेपाली समालोचनाको एेतिहासिक सामग्रीहरूको खोजी गरी लेख्ने अन्वेषक समालोचक हुन् । नेपालका प्रकाशित कृतिहरूमा नेपाली साहित्यको परिचयात्मक इतिहास महत्त्वपूर्ण मानिन्छ । यस बाहेक यिनको शैलीविज्ञान नामक पुस्तक पनि प्रकाशित छ । यिनका फुटकर रचना र सम्पादित कृतिहरू पनि छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 425,
+    "text_length_max": 425,
+    "text_length_avg": 425.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1150,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33860.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33860.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33860.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1150,
+    "mtime": 1782796653.8167663,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "103e8ebbb1fbaf825b4da0338a7e65a093909f48",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16302.txt",
+  "file_name": "16302.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिस नेपाल प्रतियोगिता वि.सं. 2051 देखि संचालन हुँदै आएको सौन्दर्य प्रतियोगिता हो । उक्त सुन्दरी प्रतियोगिता सन् 2001 र सन् 2006 मा भने भएन । यो प्रतियोगिता काठमाडौंमा हुँदै आएको छ । वर्तमान 2016 की मिस नेपाल सुन्दरी अस्मी श्रेष्ठ हुन् ।",
+    "मिस नेपाल उपाधि बिजेता राष्ट्रको प्रतिनिधित्व गर्दै विश्व सुन्दरी प्रतियोगितामा भाग लिन्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 236,
+    "text_length_avg": 59.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1344,
+    "estimated_records": 22
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 22,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16302.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16302.txt",
+    "relative_path": "16302.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16302.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1344,
+    "mtime": 1782796471.6412332,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f17bc3950883a8ed41d1e392e26a3137e6397c47",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

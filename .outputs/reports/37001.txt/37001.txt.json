@@ -1,0 +1,94 @@
+{
+  "dataset": "37001.txt",
+  "file_name": "37001.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जलगैंडा Hippopotamidae परिवार अन्तर्गत पर्ने एक प्रकारको शाकाहारी स्तनपायि जनावर हो। हिपोपोटामस वा हिपो भन्ने शब्द प्राचिन ग्रीकबाट आएको हो, जसको अर्थ नदीमा बस्ने घोडा हुन्छ। जलगैडा तेस्रो ठूलो स्थल जनावर हो।",
+    "जलगैंडा अर्ध-जलचर हो, जुन नदीहरू तथा तालहरूको छेउछाउमा बसोबास गर्ने गर्छन जहाँ एउटा भाले जलगैंडाले सो नदी क्षेत्र तथा 5 देखि 30 वटा समुहका पोथी तथा बच्चा जलगैंडाहरूको नेतृत्व गर्ने गर्छ। दिनको तापमा पानी वा हिलोमा बसेर शरीरलाई ठण्डा बनाउने गर्छन, साथै यिनीहरूको प्रजनन तथा प्रसव प्रक्रिया पनि पानीमा नै हुने गर्दछ। यिनीहरू साँझपख मात्रै चर्नको लागि जमीनमा निस्कने गर्छन। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 208,
+    "text_length_max": 649,
+    "text_length_avg": 375.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9813,
+      "Latin": 0.0187
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3925,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9813,
+      "Latin": 0.0187
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37001.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37001.txt",
+    "relative_path": "37001.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37001.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3925,
+    "mtime": 1782796568.1090431,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "86c712ee58e2e294c39a8e8b44cba59be0597238",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

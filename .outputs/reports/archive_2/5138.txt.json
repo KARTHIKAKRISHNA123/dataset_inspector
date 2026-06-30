@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5138.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोहन प्रसाद पाण्डे",
+    "त्रिभुवन विश्वविद्यालयबाट व्यवस्थापनमा स्नातक मोहन प्रसाद पाण्डेले संविधानसभामा विकासका लागि आर्थिक सामाजिक क्रान्ति, कृषिमा सुधार र जातीय-वर्गीय असमानता हटाउने मुद्दाहरू प्रमुखतासाथ उठाउने अठोट लिनुभएको छ। 2037 सालमा विद्यार्थी राजनीतिबाट राजनीतिक यात्रा शुरु गर्नुभएका पाण्डे 2043 साल देखि 2039 साल सम्म त्रिभुवन वहुमुखी क्याम्पस, पाल्पामा ने.वि.संघका सभापति हुनुहुन्थ्यो। ने.वि.संघका केन्द्रीय सदस्य समेत रहिसकेका, स्याङ्जा क्षेत्र नं. 3 का पाण्डेले नेपाली काङ्ग्रेस, क्षेत्रीय सभापतिको जिम्मेदारी"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 575,
+    "text_length_avg": 266.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2126,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5138.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5138.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5138.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2126,
+    "mtime": 1782796665.928104,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "702eba8a36f73bb2e440c2b2202b2f8224a1120c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

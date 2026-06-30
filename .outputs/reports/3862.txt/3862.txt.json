@@ -1,0 +1,94 @@
+{
+  "dataset": "3862.txt",
+  "file_name": "3862.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'कोमल निरौला पुराना गायक, गीतकार र संगीतकार हुन्। उनको जन्म 2010 साल कात्तिकमा इलामको नाम्सालिङमा भएको हो।उनका पिताको नाम सर्मानन्द र माताको रेणुका हो।",
+    "इलाम बस्ने निरौलाले एक दर्जन गीत रेकर्ड गराएका छन् भने दश वटा जतिमा संगीत दिए र पाँच वटाजति गीत रचना गरेका छन्{{cn}। उनको पहिलो गीत 26 सालमा रेडियो नेपालमा रेकर्डिङ्ग भएको थियो। उनको पहिलो गीत 'के सानी रहिछौ नानी तिमी, बोलाऊ बोलाऊ लाग्छ..' हो। 2041 सालमा रत्न रेकर्डिङ्ग संस्थानले राष्ट्रिय युवागीत प्रतियोगिता गर्‍यो। भक्तराज आचार्यको संगीतमा उनले 'अखण्ड सत्य हौं युवा यो देशको...' गीत गाए। उक्त गीत दोस्रा भयो। उनले गाएका गीतमध्ये 'चिल होइन बेसारा चल्ला टिपीलाने....' चर्चित बनेको लोकगीत हो। यो गीत"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 835,
+    "text_length_avg": 493.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9975,
+      "Latin": 0.0025
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2570,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9975,
+      "Latin": 0.0025
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3862.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3862.txt",
+    "relative_path": "3862.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3862.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2570,
+    "mtime": 1782796576.1339557,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "85eda9c80da7732939a48f0704d2ed6f3e721089",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

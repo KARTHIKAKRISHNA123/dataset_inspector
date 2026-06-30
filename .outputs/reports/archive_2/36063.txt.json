@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36063.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शब्दकोश एउटा ठूलो सूची या यस्तो ग्रन्थ हो जहाँ कुनैपनि शब्दको वर्तनी, त्यस्को व्युत्पत्ति, व्याकरणनिर्देश, अर्थ, परिभाषा, प्रयोग र पदार्थ आदिको सन्निवेश हुन्छ । शब्दकोश एकभाषिय तथा द्विभाषिय तथा बहुलभाषिल हुनसक्छ । अधिकतर शब्दकोश मा शब्दको उच्चारणको लागि पनि व्यवस्था गरिएको हुन्छ, जस्तै अन्तर्राष्ट्रीय ध्वन्यात्मक लिपि मा, देवनागरी या अडियो को रुपमा । कुनै शब्दकोश मा चित्रको पनि साहारा लिने गरिन्छ । अलग अलग कार्यक्षेत्रका लागि अलग अलग शब्दकोश हुनसक्छन् जस्तै ः– विज्ञान शब्दकोश, चिकित्सा शब्दकोश,",
+    "सभ्यता र संस्कृतिको उदयसमयमा नै मानिसले ज्ञान प्राप्त गरिसकेको थियो कि भाव को सही सम्प्रेषणको लागि सही अभिव्यक्ति आवश्यक छ । सही अभिव्यक्तिको लागि सही शब्दचयन को आवश्यक छ । शब्दचयन का लागि शब्दसंकलन को आवश्यकता छ । शब्द र भाषाको मानकिकरण को आवश्यकता देखेर आरम्भिक लिपिको उदय पूवै नै मान्छेले लेखाजोखागर्न सुरु गरिसकेको थियो । यसकै लागि कोश बनाउन सुरु गर्यो । कोशमा शब्दहरुलाई एकत्रित गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 540,
+    "text_length_avg": 295.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16045,
+    "estimated_records": 54
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 54,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36063.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36063.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36063.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16045,
+    "mtime": 1782796658.589534,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1c78ae3d23b4d5da4cacad1700d0abd2ae82c7c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

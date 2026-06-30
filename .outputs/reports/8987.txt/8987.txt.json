@@ -1,0 +1,92 @@
+{
+  "dataset": "8987.txt",
+  "file_name": "8987.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उदयदेव मिडिया प्रा.लि. द्वारा सञ्चालित रेडियो बेलौरी 105 मेगाहर्जमा प्रशारण हुने एफ एम रेडियो हो । यस रेडियोको प्रशरण केन्द्र कञ्चनपुर जिल्लाकोबेलौरी न.पा वडा नंवर 6 मा रहेको छ ।",
+    "आजको युग सूचना र सञ्चारको युग हो । सूचनाको हकलाई लोकतान्त्रिक मुलुकमा जनताको संवैधानिक रुपमा व्यवस्था गरिएको हुन्छ । ग्रामीण समुदायलाई आफ्नो हक अधिकारको बारेमा सूचित बनाउदै सचेत नागरिक विकास नभए सम्म समाजको विकास सम्भव छैन । सार्वजानिक सरोकारका विषयमा बहस, अन्तरक्रिया, अनुगमन, तालिम, छलफल, लगायत प्रवद्र्धनात्मक अभियानमा रेडियो बेलौरी केन्द्रित छ । शिरमा अपि र सैपाल हिमाल, काखमा महाकाली नदी र सेति नदी तथा उदयदेव, मेलौली, उग्रतारा, शैलेश्वरी, गोदावरी मन्दिर र सिद्दनाथ बैजनाथ मन्दिरका साथमा असंख्य "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 178,
+    "text_length_max": 1294,
+    "text_length_avg": 624.57,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11564,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8987.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8987.txt",
+    "relative_path": "8987.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8987.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11564,
+    "mtime": 1782796601.96979,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ea4ff1920d670acc14379058c4c0608c61bf8593",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

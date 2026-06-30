@@ -1,0 +1,92 @@
+{
+  "dataset": "18689.txt",
+  "file_name": "18689.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली लेखक पञ्चम अधिकारी द्वारा लिखित यात्रा उपन्यास 'पथिक प्रवासन' 2067 सालमा जय प्रकाशनबाट प्रकाशित भएको हो। उपन्यासमा माओबादी द्वन्द्वको उत्कर्षका बेला विदेश पढ्न गएको एक जना नेपाली विद्धार्थीको कथा छ। नेपाली प्रवासी साहित्यमा 'कोशेढुगां' मानिएको यस उपन्यास पश्चिमी देशमा विदेशिएका थुप्रै विद्धार्थीका लागि यथार्थवादी कथन हो। नेपाली हावापानीमा हुर्किएको मुख्य पात्र, पथिकको युरोप यात्रा संघर्षपूर्ण बन्छ।",
+    "पुस्तकले 'नेपालको जनयुद्धका कारण प्रभावित नेपाली युवा पुस्ता'को विद्रोही, आतुर र 'विदेश जाउँ' अनुभूतिलाई उजागर गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 119,
+    "text_length_max": 408,
+    "text_length_avg": 263.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1411,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18689.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18689.txt",
+    "relative_path": "18689.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18689.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1411,
+    "mtime": 1782796483.294823,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2995c1e6598e1e8f3b327c1e35ebac439ca18c69",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

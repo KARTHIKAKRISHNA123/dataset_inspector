@@ -1,0 +1,91 @@
+{
+  "dataset": "31790.txt",
+  "file_name": "31790.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बसन्त रेग्मी  नेपाली राष्ट्रिय क्रिकेट टिमबाट खेल्ने खेलाडी हुन । अलराउन्डर बसन्त बायाँ हाते ब्याट्सम्यान तथा बायाँ हाते अर्थोडक्स स्पिन बलर हुन् । उनले सन् 2006 मार्चमा नेपालका तर्फबाट नामिबिया विरुद्ध अन्तर्राष्ट्रिय क्रिकेट जगतमा पदार्पण गरेका थिए । बसन्त रेग्मीले विश्व क्रिकेट लिग खेलमा 100 विकेट लिने पहिलो खेलाडी बनेका छन् । उनले यो किर्तिमान बनाउन 48 खेल खेलेका थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 376,
+    "text_length_max": 376,
+    "text_length_avg": 376.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 988,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31790.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31790.txt",
+    "relative_path": "31790.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31790.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 988,
+    "mtime": 1782796544.2023776,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e57359267cc9005878b112451707122e4978ac02",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

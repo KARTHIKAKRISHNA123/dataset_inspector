@@ -1,0 +1,92 @@
+{
+  "dataset": "11605.txt",
+  "file_name": "11605.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल्बा मार्डल एक स्वीडीस राजनीतिज्ञ तथा समाजशास्त्री थिइन् । उनलाई सन् 1982 मा नोबेल शान्ती पुरस्कार प्रदान गरिएको थियो । उनले सन् 1924 मा गुन्नार मार्डल संग बिबाह गरिन् ।",
+    "अल्बा मार्डलको जन्म उप्पसलामा भएको थियो । अपेक्षाकृत राम्रो-बन्द परिवार मा पहिलो सन्तानको रुपमा अल्बर्ट रेईमेर र लोवा जोन्सन बाट छोरीको रुपमा उनको जन्म भयो । उनका चार भाइ बहिनीहरु रूथ, फोल्के, मे र स्टिग थिए । उनका बुवा एक समाजवादी र आधुनिक उदार थिए । उनको बाल्यकालमा उनको परिवार विभिन्न ठाउमा बसाई सरिरह्यो । उदाहरणका लागि, तिनीहरूले इस्किलस्तुना, फियरफिल्ड र स्टकहोममा वसोवास गरेका थिए। उनको शैक्षिक अध्ययन मनोविज्ञान र परिवार समाजशास्त्रमा संलग्न भयो। सन् 1924 मा उनले बिज्ञानमा स्नातक डिग्री प्रा"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 170,
+    "text_length_max": 509,
+    "text_length_avg": 370.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2882,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11605.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11605.txt",
+    "relative_path": "11605.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11605.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2882,
+    "mtime": 1782796450.1739693,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "622a27278ad061667655e499cb23145418671fcb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

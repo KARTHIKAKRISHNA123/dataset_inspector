@@ -1,0 +1,94 @@
+{
+  "dataset": "32472.txt",
+  "file_name": "32472.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 21°14′उत्तर 81°38′पूर्व / 21.23° उत्तर 81.63° पूर्व / 21.23; 81.63",
+    "रायपुर छत्तीसगढको राजधानी हो । यो शहर भारतको 26 औ राज्य हो । सन् 2000 नोभेम्बर 01 मा भारतको मध्यप्रदेशबाट विभाजित भई छत्तीसगढको निर्माण भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 526,
+    "text_length_avg": 187.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9983,
+      "Latin": 0.0017
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5742,
+    "estimated_records": 30
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 30,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9983,
+      "Latin": 0.0017
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32472.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32472.txt",
+    "relative_path": "32472.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32472.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5742,
+    "mtime": 1782796547.223183,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "fa6c11f8b7aff0bcc963934f84fc3eb022f4a2c7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

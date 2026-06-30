@@ -1,0 +1,91 @@
+{
+  "dataset": "12583.txt",
+  "file_name": "12583.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देवदास गांधी महात्मा गांधीका चौथा तथा सबैभन्दा कान्छा पुत्र थिए । उनको जन्म दक्षिण अफ्रीकामा भएको थियो तथा उनि आफ्नो परिवारसँग एउटा युवाको रूपमा भारत आएका थिए । आफ्नो बुवाद्वारा गरिने सबै कार्यहरूमा उनको सक्रिय भागेदारी रहेको थियो तथा उनलाई अङ्ग्रेजी सरकारद्वारा कयौं पटक जेल जीवन पनि भोग्नु परेको थियो । श्री गांधी एउटा प्रमुख पत्रकारको रुपमा पनि चिनिन्छन तथा भारतबाट निस्किने अङ्ग्रेजी पत्रिका हिन्दुस्तान टाईम्सको सम्पादक पदमा पनि कयौं बर्षसम्म पदासिन रहेका थिए । श्री गांधीको प्रेम विवाह सन् 1933"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 621,
+    "text_length_max": 621,
+    "text_length_avg": 621.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1654,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12583.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12583.txt",
+    "relative_path": "12583.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12583.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1654,
+    "mtime": 1782796454.6666472,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4c4c97409fec948fcf185f64547f782207d6eede",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

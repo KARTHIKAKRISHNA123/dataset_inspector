@@ -1,0 +1,96 @@
+{
+  "dataset": "32844.txt",
+  "file_name": "32844.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूचना प्रविधि उच्चस्तरीय आयोगसिहदरवार, काठमाण्डौ, नेपालफोन: + 977 1 4200280 4200420फ्याक्स: +977 1 4200073ईमेल: info@hlcit.gov.np",
+    "www.hlcit.gov.np"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 129,
+    "text_length_avg": 72.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6966,
+      "Latin": 0.3034
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 273,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6966,
+      "Latin": 0.3034
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32844.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32844.txt",
+    "relative_path": "32844.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32844.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 273,
+    "mtime": 1782796548.8729894,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.972,
+    "sha1_quick": "a692b848525f087947c5f69fdf5dbaaf00a9ee5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

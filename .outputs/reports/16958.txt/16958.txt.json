@@ -1,0 +1,91 @@
+{
+  "dataset": "16958.txt",
+  "file_name": "16958.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तिस उच्च पहाडी भेकमा पाइने चाँडो बढ्ने एक प्रकारको पतझड समुहको रूख हो। उत्तिस प्राय: पहाडको सबै ठाउँमा पाइन्छ। उत्तिसको वोटलाई नकाटेमा 5 बर्ष भित्रै ठूलो रुख हुन्छ। उत्तिसको काठ त्यति बलियो नभए पनि पानीले नभेट्ने ठाउँमा प्रयोग गर्दा केही टिकाउ हुन्छ। उत्तिस पहाड वासीहरूका लागि निकै उपयोगी वनस्पति हो। यसको पातहरूलाई सोतर बनाएर प्राङ्गारिक मल तयार गरिन्छ। यसको सुकेका हाँगाहरूलाई दाउरा बाल्नमा प्रयोग गरिन्छ। उत्तिसको दाउरा राम्रो र राफिलोसँग बल्ने हुनाले यसको काठलाई अरु काम काम भन्दा पनि बढी दाउ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 579,
+    "text_length_max": 579,
+    "text_length_avg": 579.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1555,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16958.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16958.txt",
+    "relative_path": "16958.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16958.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1555,
+    "mtime": 1782796474.7606885,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "16f1e3f399889b911ef115e83d0b7619ec4476cb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13543.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिउसेपे भ्यालेरिया ब्रान्का वा जिउस्भा ब्रान्का एक इटालियन पत्रकार तथा ब्लगर हुन । हाल उनी भिओला रेजिओ क्यालाब्रियाका अध्यक्ष छन् ।",
+    "जिउस्भा ब्रान्काको जन्म 10 जनवरी 1967 मा इटालीको मेलिन्टो डी पोर्टो साल्भोमा भएको थियो । पछि उनी रेजिओ क्यालाब्रियाको लिसेओ साइन्टिफिको दा भिन्ची सहरमा बस्न थाले । उनले 1990 मा क्याटान्जारोको युनिभर्सिटी मग्ना ग्रासियाबाट कानुन विषयमा स्नातक गरे । उनले 2004 सम्म वकिलको रूपमा काम गरे, यसको साथसाथै आफ्नो अर्को पेशा पत्रकारिता र इच्छाको बिषय बास्केटबल र फुटबललाई पनि निरन्तरता दिईरहे । 20 जुलाई 2006 मा उनले जियाडा काटिया हेलेन रोमियोसँग विवाह गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 448,
+    "text_length_avg": 289.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1512,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13543.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13543.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13543.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1512,
+    "mtime": 1782796613.5430324,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e599b827094b1b26d57d71127048a4b4eee42329",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

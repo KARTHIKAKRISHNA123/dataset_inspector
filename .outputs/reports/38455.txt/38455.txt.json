@@ -1,0 +1,92 @@
+{
+  "dataset": "38455.txt",
+  "file_name": "38455.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "थानमा पूजा गरिरहेका पुजारी",
+    "कोसी पूजा अर्थात लदि पूजा नेपालमा बसोबास गर्ने समस्त माझी जातिको प्रमुख चाड हो । कोसी पूजा भन्नाले खोला, नदी अथवा पानीलाई गरिने पूजालाई जनाउँदछ । यो पर्व प्रत्येक बर्ष फाल्गुण महिनाको तेस्रो मङ्गलबार मनाउने गरिन्छ । यो पर्वको दिन सबै मानिसहरूले नुहाउने, घर लिप-पोत गरि सफा राख्ने गरिन्छ । त्यसपछि आ-आफनो घरबाट नजिकैको खोलामा सबै मानिसहरू भेला भई समुहमा यो पर्व मनाउने गरिन्छ । यो दिनमा नदिलाई बिशेष रुपले पूजा गरिन्छ। पूजामा बिशेष बिधिबाट तयार गरिएको थानमा सुँगुर, भैंसी, कुखुरा, हाँस र परेवागरि पाँच"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 732,
+    "text_length_avg": 353.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3752,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38455.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38455.txt",
+    "relative_path": "38455.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38455.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3752,
+    "mtime": 1782796575.3500102,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "007c999c73ee03e19220b5a153aac2acc727dadb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

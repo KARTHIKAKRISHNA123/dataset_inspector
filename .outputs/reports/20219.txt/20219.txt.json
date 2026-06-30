@@ -1,0 +1,92 @@
+{
+  "dataset": "20219.txt",
+  "file_name": "20219.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लक्ष्मी निवास नेपालको राजधानी काठमाडौँको महाराजगञ्जमा अवस्थित एक राणाकालीन दरबार हो । यो दरबार परिशर बागमती नदीको उत्तरपट्टी रहेको छ । यो दरबार आकर्षक आँगन, बगैचा र भवनको व्यूह-रचनाले सुसज्जित रहेको छ । यो दरबारको निर्माण चन्द्र शमशेरले आफ्नो प्रधानमन्त्री कालमा बनाउन लगाएका थिए ।",
+    "यो दरबार परिसर चन्द्र शमशेर जबराले बि.सं. 1961 मा आफ्नो पुत्र मोहन शमशेरको लागि नेपालको पहिलो इन्जीनियर दाजुभाइ कुमार नरसिंह राणा र किशोर नरसिंह राणाको सुपरिवेक्षणमा बनाउन लगाएका थिए । मोहन शमशेर स्थायी रुपमा पिता चन्द्र शमशेरको निधन भएपछि सरेका थिए, बि.सं. 2004 मा उनी प्रधानमन्त्री भएपछी उनी प्रधानमन्त्री निवास सिंहदरबार सरे । बि.सं. 2007 मा राणा शासन अन्त्य भएपछी सिंहदरवार श्री 5 को सरकारको सचिवालयमा परिणत भयो र श्री 5 को सरकारको आदेशमा मोहन शमशेर सिंह दरबार छोडेर लक्ष्मी निवास सरे । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 194,
+    "text_length_max": 491,
+    "text_length_avg": 322.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2531,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20219.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20219.txt",
+    "relative_path": "20219.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20219.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2531,
+    "mtime": 1782796490.666554,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "60addcf2a1b4638dd4c734023616605674ae307b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

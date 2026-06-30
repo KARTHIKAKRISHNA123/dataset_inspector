@@ -1,0 +1,94 @@
+{
+  "dataset": "15930.txt",
+  "file_name": "15930.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फिल्लौरी एक आगामी हिन्दी रोमान्टिक कमेडी चलचित्र हो जसको निर्देशन अन्शाई लालले गरेका हुन् र निर्माण अनुष्का शर्मा र कर्नेश शर्माले फक्स स्टार स्टुडियोज र क्लीन स्लेट फिल्म्सको ब्यानरमा गरेका हुन् । चलचित्रमा अनुष्का शर्मा, दिलजीत दोसांझ र सूरज शर्मा मुख्य भूमिकामा छन् । यसमा अनुष्का शर्माएक भूतको भूमिका गरिरहेकी छिन् । चलचित्र 24 मार्च 2017 मा सिनेमाघरहरूमा प्रदर्शित हुनेछ । ",
+    "चलचित्रको संगीतकार शाश्वत सचदेव र जसलीन रोयल हुन् र गीतकार अनविता दत्त हुन् । समीर उद्दीनले चलचित्रको पार्श्व संगीत बनाएका हुन् । चलचित्रको संगीत वितरण अधिकार टी-सीरीजसँग छ । प्रथम गीत \"दम दम\" 16 फेब्रुअरी 2017 मा रिलीज भएको थियो । चलचित्रको सम्पूर्ण एल्बम 6 मार्च 2017 मा रिलीज भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 378,
+    "text_length_avg": 232.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9678,
+      "Latin": 0.0322
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1783,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9678,
+      "Latin": 0.0322
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15930.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15930.txt",
+    "relative_path": "15930.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15930.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1783,
+    "mtime": 1782796469.879429,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "10fbd0e880007d7e7209cc365bd056ac9f047852",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "2709.txt",
+  "file_name": "2709.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विवेकशील नेपाली नेपालको एक राजनीतिक दल हो । यसको स्थापना मे 28, 2012 मा सामान्य भेला गरेर गरिएको थियो । यस दलले संविधान सभाको दोस्रो निर्वाचनमा स्वतन्त्र उम्मेद्वारका रुपमा 4 जना सदस्यहरू उठाएको थियो । सामाजिक कार्य गर्दै आएका सक्रिय युवा समुहले संविधान सभाको दोस्रो चुनाब पछि कानुनी रुपमा यो दलको दर्ता गरेका थिए । यो दलले सत्ता र शक्ति भन्दा पनि एक्काइसौं शताब्दीमा अबको नेतृत्व उधयमी नेपालीहरुको हुनु पर्छ भन्ने बिश्वास राखेको पाइन्छ । यो दलले अबको नेतृत्व युवा बर्गको हातमा हुनुपर्छ भन्ने बिश्वास",
+    "यो दलले नेपालीलाई व्यतिगत रुपमा असल आचरणको सूचना प्रवाह गर्ने, सामाजिक रुपमा एकता र सामुहिक कार्यबाट दिगो विकासमा प्रोत्साहन गर्ने र सरकारी तहमा जिम्मेवारी र नैतिक जवाफदेही सुशासनको रुपान्तरण गर्ने उदेश्य लिएको पाइन्छ । यो दलको प्रमुख कार्यालय चक्रपथ महाराजगन्जमा रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 645,
+    "text_length_avg": 459.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2439,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2709.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2709.txt",
+    "relative_path": "2709.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2709.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2439,
+    "mtime": 1782796522.066944,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "906f52282cbbce6ba92858d27edd3aeb5de3e155",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

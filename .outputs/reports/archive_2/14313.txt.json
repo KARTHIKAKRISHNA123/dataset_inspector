@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14313.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कात्तिक नाच कात्तिक महिनाभरि सञ्चालन गरिने पाटनको प्रसिद्ध नाच हो। हरेक वर्ष कार्तिक कृष्णप्रतिपदादेखि कार्तिक शुक्ल पूर्णिमासम्म देखाइने यो नाच केही वर्षदेखि कार्तिक शुक्ल षष्ठीदेखि त्रयोदशीसम्म छोट्ट्याएर देखाइँदै आइएको छ। ",
+    "मल्लकालीन राजा सिद्धिनरसिंह मल्लले हरेक वर्ष कार्तिक महिनामा नृसिँह नाचका रूपमा पाटन दरबारको पश्चिममा रहेको डबलीमा देखाउने गरेकाले यसलाई कात्तिक नाच भनिन्छ।विष्णु पुराणको नृसिंह अवतारको कथामा आधारित यो नाचमा साताभर पोङ्गा, खीं, ताः र झ्याली बजाउँदै विष्णुका विभिन्न अवतारहरू प्रस्तुत गरिन्छ। उक्त डवली लाई कात्तिक डवली पनि भनिन्छ। वि.सं. 1697मा राजा सिद्धिनरसिंह मल्लले आफ्ना गुरू तथा ज्योतिषहरूको सल्लाहअनुसार देश तथा जनताको कल्याणका लागि कात्तिक महिना पारेर सो नाच चलाएका थिए।सुरुमा सो नाच कृष्णलिल"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 159,
+    "text_length_max": 957,
+    "text_length_avg": 438.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9357,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14313.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14313.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14313.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9357,
+    "mtime": 1782796615.1973689,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "77824b16e058ac852ccefc374951892dce14e0a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

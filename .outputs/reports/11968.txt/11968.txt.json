@@ -1,0 +1,92 @@
+{
+  "dataset": "11968.txt",
+  "file_name": "11968.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जैन धर्म भारतको श्रमण परम्पराबाट उब्जेको धर्म अनि दर्शन हो।प्रोफेसर महावीर सरन जैनको मत अनुसार जैन धर्मको भगवान महावीरभन्दा पूर्व जो परम्परा प्राप्त छ, त्यसका वाचक निगंठ धम्म, आर्हत्‌ धर्म एवं श्रमण परम्परा थिए। पार्र्श्वनाथको कालसम्म 'चातुर्याम धर्म' थियो। भगवान महावीरले छेदोपस्थानीय चारित्र को व्यवस्था गरेका थिए।यिनका अनुयायीहरूलाई 'जैन' भनिन्छ। 'जिन' शब्द बनेको 'जि' धातुबाट बनेको हो। 'जि'को अर्थ हुन्छ - जित्नु। 'जिन' भन्नाले जित्नेवाला। जसले अफ्नो मनलाई जितेको हुन्छ, आफ्नो वाणीलाई जितेकोहुन्छ",
+    "तारणपंथ"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 884,
+    "text_length_avg": 445.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2372,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11968.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11968.txt",
+    "relative_path": "11968.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11968.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2372,
+    "mtime": 1782796451.8186476,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "bda53bea2af107c183493835c185b0ac7cdeb40e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

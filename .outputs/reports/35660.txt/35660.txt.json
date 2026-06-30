@@ -1,0 +1,94 @@
+{
+  "dataset": "35660.txt",
+  "file_name": "35660.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेज्ञानिक नाम: पिपर लङ्गम ",
+    "पिपला एउटा भूँइमा फैलिएर जाने सदावहार लहरेदार विरुवा हो। सहारा पाएको खण्डमा यो रुख वा झ्याँङमा समेत चढ्दछ अन्यथा आँख्लाबाट निस्किएका जराहरूको मद्धतले भुइँमा फैलिदै जान्छ। यो हल्का सुगन्धित हुन्छ। नेपालमा व्यापारिक महत्वका piper longum, piper peepuloides पिपलामा छन् र हाल मलेसियाबाट आयात गरिने पिपलाको फल हो, जसलाई इन्डोनेसियन वा जाभा पिपला भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 738,
+    "text_length_avg": 405.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.981,
+      "Latin": 0.019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5245,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.981,
+      "Latin": 0.019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35660.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35660.txt",
+    "relative_path": "35660.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35660.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5245,
+    "mtime": 1782796561.7001696,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3e69757195a6c2c2142f2a0289f1069c5035e6c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11532.txt",
+  "file_name": "11532.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नागरिक कुनै पनि राष्ट्र वा नगरको आधिकारिक नागरिकता प्राप्त गरेको ब्यक्ति हो।",
+    "कुनै पनि राजनीतिक समुदाय को सदस्य भई राजनीतिक क्रियकलाप गर्न पाउने अधिकारलाई नागरिकता भनिन्छ। नागरिकता र राष्ट्रियता धेरै हदसम्म मिल्दा जुल्दा शब्दहरू हुन, तर पनि ती दुई शब्दहरूमा फरक छ। जस्तै: कुनै ब्यक्तिको राष्ट्रियता भएपनि नागरिकता नहुन सक्तछ। कुनैपनि देशमा गैह्र नागरिकलाई बिदेशी भन्ने गरिन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 299,
+    "text_length_avg": 178.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1448,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11532.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11532.txt",
+    "relative_path": "11532.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11532.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1448,
+    "mtime": 1782796449.7822187,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "697eff41876941e29e63bb30934c60653c7e48f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

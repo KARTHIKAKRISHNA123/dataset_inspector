@@ -1,0 +1,94 @@
+{
+  "dataset": "12713.txt",
+  "file_name": "12713.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हेपाटाइटिस भाइरस द्वारा हुने सरुवा रोग हो।यस रोगले मानिसको कलेजोमा असर गर्दछ।अन्य मौसम भन्दा बर्षातको समयमा बढी देखा पर्दछ।यसको बेलैमा उपचार भएन भने लिभर क्यान्सर तथा सिरोसिस अफ लिभर हुने संभावना हुन्छ । यसलाई एड्स भन्दा पनि खतरनाक मानिन्छ । हेपाटाइटिस बाट मर्नेको संख्या एड्स बाट मर्नेको संख्या भन्दा 10गुणा बढी हुन्छ । मानव शरीरमा कलेजो महत्वपूर्ण अङ्ग हो । यो सुन्निएको अवस्था नै हेपाटाइटिस हो । विभिन्न विषाणुको संक्रमण, औषधिको प्रयोग, क्यान्सर आदि हेपाटाइटिसका कारण हुन् । मुख्य रुपमा हेपाटाइटिस",
+    "दिसाको माध्यमबाट सर्ने यस रोगले विद्यालय जाने बालबालिका, जवान, वृद्धवृद्धा सबैलाई आक्रमण गरेको पाइन्छ । यी दुई महामारीमूलक हेपाटाइटिस गर्मी मौसममा बढी देखिन्छन् । ढलनलको उचित प्रबन्ध नहुनु, शुद्ध खानेपानीको अभाव, अशुद्ध खाना, स्वास्थ्य चेतनाको अभाव आदि यसका प्रमुख कारण हुन् । शरीरमा हेपाटाइटिस ए विषाणु प्रवेश गरेको 2–4 हप्तामा र हेपाटाइटिस ई विषाणु प्रवेश गरेको 2–8 हप्तामा जन्डिसलगायतका लक्षण तथा चिह्नहरुदेखिन थाल्दछ । सरसफाइ राम्रो नभएको विकासोन्मुख देशका 90 प्रतिशत बालबालिका दश वर्षको उमेर नपु"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 207,
+    "text_length_max": 936,
+    "text_length_avg": 543.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15880,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12713.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12713.txt",
+    "relative_path": "12713.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12713.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15880,
+    "mtime": 1782796455.35172,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "35a47eac3ba8a964d0834862b1379857d1e0c838",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

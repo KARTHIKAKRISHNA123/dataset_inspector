@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1707.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नरेन्द्र चापागाईं एक नेपाली साहित्यकार हुन् । नेपाली भाषामा छापिएका उनका कृतिहरू बजारमा पाइन्छन् ।",
+    "कोशी अञ्चलको भोजपुर जिल्ला अन्तर्गत पर्ने दिङ्लामा जन्मिएका डा.नरेन्द्र चापागाईं ले 2020 सालमा उत्तरमध्यमा, 2033 सालमा शास्त्री, 2026 सालमा नेपालीमा स्नातकोत्तर, 2056 सालमा बी.एड्. र 2055 सालमा अनुकरणात्मक शब्दको व्याकरण विषयमा विद्यावारिधि गरेको देखिज्छ । दिङ्लामै लघुकाैमुदी, अमरकाेश, अनुवादचन्द्रिका अादि पढिसकेर चापागार्इँ 2016 सालमा तत्कालीन पिण्डेश्वर महाविद्यालय धरानमा अध्ययन गर्न अाएकाे देखिन्छ ।  "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 730,
+    "text_length_avg": 328.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4405,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1707.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1707.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1707.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4405,
+    "mtime": 1782796620.6068063,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e533b706b008ae66a6b5cf7587b353dfa50535e5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

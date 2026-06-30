@@ -1,0 +1,92 @@
+{
+  "dataset": "28010.txt",
+  "file_name": "28010.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फिलिपिन्सको मानव अधिकार आयोग, 1987 मा फिलिपिन्सको संविधानको अन्तर्गत गठन गरिएको एक स्वतन्त्र संवैधानिक कार्यालय हो जसको प्राथमिक प्रकार्य फिलिपिन्समा रहेको नागरिक र राजनीतिक अधिकारहरू समावेश गर्ने र मानव अधिकार उल्लङ्घनका सबै प्रकारहरूको छानवीन गर्नु हो । यो आयोग एक अध्यक्ष र चार सदस्यहरूको सङ्गठन गर्दै बनाइएको छ ।",
+    "2 फेब्रुअरी 1987 मा फिलिपिन्सको सविधानको अनुमोदन भए सके पछि, 5 मई 1987 मा मानव अधिकार आयोगको अध्यक्ष कोराजन एक्वैनोको कार्यकारी आदेश संख्या 163 मा हस्ताक्षर गरेर, मानव अधिकार आयोग र मानव अधिकारको अध्यक्षता समितिको रद्द गरियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 316,
+    "text_length_avg": 271.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1418,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28010.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28010.txt",
+    "relative_path": "28010.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28010.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1418,
+    "mtime": 1782796526.2152205,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e31a4af344a3a72e126ad47f35cab33d6ab3e72f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

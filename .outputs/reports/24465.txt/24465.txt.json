@@ -1,0 +1,92 @@
+{
+  "dataset": "24465.txt",
+  "file_name": "24465.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ड्राकुनकुलियासिस, जसलाई गिनी जुका रोग पनि भनिन्छ, गिनी जुकाद्वारा हुने एक संक्रमण हो। गिनी जुकाको लार्भा द्वारा संक्रमित वाटर फ्लि भएको पानी पिएमा व्यक्ति योबाट संक्रमित हुन्छ। सुरूसुरूमा कुनै लक्षण देखिँदैन। लगभग एक वर्षपछि, व्यक्तिलाई एकदमै पीडादायक जलन भइरहेको अनुभूति हुन थाल्छ किनभने पोथी जुकाले छालामा फोका वा घाउ पार्न थाल्छ, सामान्यतया खुट्टामा। केही हप्तामा उक्त जुका छालाबाट बाहिर निस्कन्छ। यस समय दौरान, हिँड्न वा काम गर्न गाह्रो हुन सक्छ। सामान्यतया यो रोगको कारणले गर्दा मृत्यु हुँदैन।",
+    "मानव जाति एक मात्र ज्ञात प्राणी हो जसलाई गिनी जुकाले संक्रमित गर्छ। यो जुका एक देखि दुई मिलिमिटर चौडाइको हुन्छ र एक पूर्ण रूपमा विकसित पोथी 60 देखि 100 सेन्टिमिटर लामो हुन्छ । मानव शरीर बाहिर यसको अण्डा तिन हप्तासम्म जीवित रहन सक्छ। योभन्दा अगाडि तिनीहरूलाई पानीको किराले खानुपर्छ। पानीको किरा भित्र रहेको लार्भा चार महिनासम्म जीवित रहन सक्छ। त्यसकारण कुनै क्षेत्रमा रहनको लागि मानिसहरूलाई यो रोग प्रत्येक वर्ष लाग्नुपर्छ। सामान्यतया यो रोगका संकेत तथा लक्षणहरूको आधारमा यो लागेको कुरा पत्ता लगाउन सक"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 498,
+    "text_length_max": 796,
+    "text_length_avg": 610.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6471,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24465.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24465.txt",
+    "relative_path": "24465.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24465.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6471,
+    "mtime": 1782796509.919303,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "243e737c3df1593d7c76fd43d112946075bbf7b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

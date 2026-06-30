@@ -1,0 +1,92 @@
+{
+  "dataset": "7563.txt",
+  "file_name": "7563.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मधुमेहलाई अङ्ग्रेजीमा डायबिटिज, डायबिटिज मिलाइटस वा डायबिडिज मलाइटस भनिन्छ भने नेपालीमा चिनीरोग भनेर पनि चिनिन्छ। मानव शरीरमा हुने विभिन्न रासायनिक प्रतिक्रियाका कारण रगतमा लामो समयसम्म चिनीको मात्रा बढी हुने रोगहरूलाई सामूहिक रूपमा अङ्ग्रेजीमा डायबिटिज मिलाइटस भन्ने गरिन्छ। रगतमा चिनीको मात्रा बढी भएपछि तारनतार पिसाब लाग्ने, धेरै तिर्खा र भोक लाग्ने जस्ता लक्षणहरू देखिन्छन्। उपचार गरेन भने मधुमेहले धेरै जटिलताहरू निम्त्याउन सक्छ। छोटो अवधिका लागि देखिने कडा खालका जटिलताहरू डायबेटिक केटोएसिडोसिस",
+    "मधुमेह पेन्क्रियाजले पर्याप्त मात्रामा इन्सुलिन उत्पादन गर्न नसकेमा वा उत्पादन भएको इन्सुलिनप्रति शरीरका कोषहरूले राम्रोसँग प्रतिक्रिया जनाउन नसकेमा उत्पन्न हुने समस्या हो। मधुमेहलाई मुख्यतया तीन प्रकारमा बाँडिएको छ:"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 762,
+    "text_length_avg": 384.18,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17286,
+    "estimated_records": 44
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 44,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7563.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7563.txt",
+    "relative_path": "7563.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7563.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17286,
+    "mtime": 1782796595.0596797,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2050375452723b603f8f34cdb6691fbed40d7193",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

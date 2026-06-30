@@ -1,0 +1,92 @@
+{
+  "dataset": "20827.txt",
+  "file_name": "20827.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल्लाह • विश्वास • बाइबल • बुद्ध • कन्फुसियस • देव • राक्षस • पिशाच • तन्त्र मन्त्र • अपधर्म • प्रेरणा • विश्वास • परमेश्वर • येशू • पवित्र आत्मा • नैतिकता • मर्मन •पौराणिक कथा • रहस्यमय •प्रार्थना • भविष्यवाणी • खुलासा • अनुष्ठान • पाप • अलौकिक • सदाचार ",
+    "विश्वास प्रणाली – एकोसमवाद • अज्ञेयवाद • जीववाद • नास्तिकवाद • अनीश्वरवाद • बिनीटेरिअनिसम • आस्तिकता • नियतिवाद • डुओथिसम • आध्यात्मिकतावाद • ईयूथिजम र डेस्थिजम • स्वतन्त्र विचार • प्रज्ञानवाद • एक ईश्वरीय विश्वास • मानवतावाद • अन्तरविश्वास • अज्ञातवाद • काथेनोथिजम • अद्वैतवाद • मर्मन •एकेश्वरवाद • मोनोलाट्रिजम • रहस्यवाद • निओपगनिजम •नयाँ जमाना • गैरद्वैतवाद • गैरआस्तिकता •निष्पक्षतावाद •पण्डेजम • पानियनथिजम • सर्वेश्‍वरवाद • पासताफारियानिजम पोलीडेइजम • बहुदेववाद • धर्म निरपेक्ष • सन्देहवाद • अ"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 28,
+    "text_length_max": 618,
+    "text_length_avg": 330.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3529,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20827.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20827.txt",
+    "relative_path": "20827.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20827.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3529,
+    "mtime": 1782796493.528706,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "5599845bf4dd2b9fef8ac566a07eff091ebde056",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

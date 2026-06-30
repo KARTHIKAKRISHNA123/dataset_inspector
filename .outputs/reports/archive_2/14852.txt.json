@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14852.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मङ्गलयान,, भारतको प्रथम मङ्गल अभियान हो । यो भारतको प्रथम ग्रहहरू केन्द्रित मिसन हो । वस्तुत: यो भारतीय अन्तरिक्ष अनुसन्धान सङ्गठनको एक महत्वाकांक्षी अन्तरिक्ष परियोजना हो । यो परियोजना अन्तर्गत 5 नोभेम्बर 2013 का दिन 2 बजेर 38 मिनेटमा मङ्गल ग्रहको परिक्रमा गर्ने उद्देश्यका साथ प्रक्षेपित गरिएको एक उपग्रह हो । भारतको आन्ध्र प्रदेश राज्यको श्रीहरिकोटा स्थित सतीश धवन अन्तरिक्ष केन्द्रबाट ध्रुवीय उपग्रह प्रक्षेपण यान सी-25 द्वारा यसलाई सफलतापूर्वक प्रक्षेपण गरिएको थियो । ",
+    "यो सफल अभियानसँगै भारत पनि आब ती देशहरूको सूचीमा सामेल भयो जसले यसभन्दा पहिले सफलतापूर्वक मङ्गल ग्रहमा आफ्नो यान पठाएका छन् । हुनत: मङ्गल ग्रहमा यान पठाउने दुई तिहाई अभियान असफल भएका थिए तर 24 सेप्टेम्बर 2014 का दिन भारतको यो अभियान मङ्गलमा पुग्ने बितिकै भारत विश्वमा आफ्नो पहिलै प्रयासमा सफल हुने पहिलो देश तथा सोभियत सङ्घ रूस, नासा र युरोपेली अन्तरिक्ष एजेन्सी पछि संसारको चौथौ देश बन्न पुगेको हो । यस बाहेक यो मङ्गलमा पठाइएको सबैभन्दा सस्तो मिसन पनि हो । भारत एसियाका देशहरू मध्ये यस्तो गर्ने प्रथ"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 92,
+    "text_length_max": 607,
+    "text_length_avg": 420.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6646,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14852.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14852.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14852.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6646,
+    "mtime": 1782796616.2323792,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a79405a1fc4549b7ea97d12df2c3674cd8c917e1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

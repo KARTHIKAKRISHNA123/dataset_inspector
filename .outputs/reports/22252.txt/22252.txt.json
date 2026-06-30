@@ -1,0 +1,92 @@
+{
+  "dataset": "22252.txt",
+  "file_name": "22252.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जीवनप्रेम श्रेष्ठ",
+    "2026 सालदेखि राजनीतिमा संलग्न जीवनप्रेम श्रेष्ठ समानुपातिकतर्फ नेपाली कांग्रेसका सभासद हुनुहुन्छ। 59 वर्षीय श्रेष्ठले राष्ट्रिय सभा सदस्य र राष्ट्रिय सभाकै सामाजिक न्याय समितिको सभापतिको जिम्मेदारी वहन गरिसक्नुभएको छ। नेपाली काङ्ग्रेस प्रजातान्त्रिकका मुख्य सचिव रहिसकेका सभासद श्रेष्ठ हाल नेपाली कांग्रेसका पार्टी मुख्‍य सचिव हुनुहुन्छ। उहाँ 2056 देखि 2058 सालसम्म पार्टीको गोरखा जिल्ला सचिव हुनुहुन्थ्यो। राजनीतिक यात्राका क्रममा उहाँले राजकाज मुद्दा अन्तर्गत 2042 सालमा 9 महिना जेल जीवन बिताउनुभएक"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 1064,
+    "text_length_avg": 540.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2910,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22252.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22252.txt",
+    "relative_path": "22252.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22252.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2910,
+    "mtime": 1782796499.9479356,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.981,
+    "sha1_quick": "b16a09e3cfb152072a3b67c018a139a7283471c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

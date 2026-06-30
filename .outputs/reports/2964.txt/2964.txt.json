@@ -1,0 +1,91 @@
+{
+  "dataset": "2964.txt",
+  "file_name": "2964.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कण्ठमाला घाँटीमा लगाउने गहनाको एक प्रकार हो । मखमलको कपडा काटेर गोलाकार बनाई बीच-बीचमा मुगा तथा सुनका गेडी मिलाएर कण्ठमाला बनाइन्छ । मगर, गुरुङ, कुमाल, राई, लिम्बू जातिमा कण्ठमाला प्रचलित छ । यसलाई कण्ठश्री वा मुगामाला पनि भनिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 231,
+    "text_length_max": 231,
+    "text_length_avg": 231.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 608,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2964.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2964.txt",
+    "relative_path": "2964.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2964.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 608,
+    "mtime": 1782796534.2053316,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7cb21bd48c0d6978fba35be57f97839abaf3c492",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

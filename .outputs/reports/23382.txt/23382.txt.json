@@ -1,0 +1,91 @@
+{
+  "dataset": "23382.txt",
+  "file_name": "23382.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साल्पा पोखरी खोटाङ, सोलुखुम्बु, भोजपुर र संखुवासभा जिल्लाको सँगमस्थलका रूपमा परिचित प्राकृतिक सौन्दर्यले भरपिूर्ण स्थल हो । साल्पापोखरी समुद्र सतहदेखि 3 हजार 6 सय 72 मिटर उचाइमा छ। यो चार जिल्लाको संगम स्थल भएपनि भोजपुर जिल्लाको दोभाने गाबिसमा पर्दछ। संखुवासभाको तुम्लिङटार विमानस्थलमा ओर्लिएर भोजपुरको कात्तिके, नेपालेडाँडा, मझुवा, केदाकाउले, ताँबुटार, चौकीडाँडा, दोभाने पार गरेपछि साल्पा पोखरी पुग्न सकिन्छ। र भोजपुर सदरमुकामबाट सुन्तले, मैयुङ हँदै पनि त्यहाँ पुग्न सकिन्छ। तेसै गरि खोटाङको खानीडाँ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1029,
+    "text_length_max": 1029,
+    "text_length_avg": 1029.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2752,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23382.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23382.txt",
+    "relative_path": "23382.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23382.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2752,
+    "mtime": 1782796504.8951385,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bd3c69c73edbc663e8ffee4a9cdc589de69a9871",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

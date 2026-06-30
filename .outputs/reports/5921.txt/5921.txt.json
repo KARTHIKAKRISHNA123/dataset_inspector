@@ -1,0 +1,94 @@
+{
+  "dataset": "5921.txt",
+  "file_name": "5921.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किशोरावस्था ल्याटिन बहसको Adolescere शब्दबाट अङ्ग्रेजी भाषामा Adolescence शब्द आयको हो जसको अर्थ हुन्छ - To grow or to grow to maturity । अर्थात् परिपक हनु । यो बल्याबस्ताबाट प्रौढतातिर लम्कने आबस्था हो । यो अवस्था भनेको बाल्यावस्था र यौवनावस्थाको बीचको आबस्था हो । यो अवस्था शाररिक, मानसिक, संबेगात्मक तिब्र परिबर्तनको अवस्था हो । यो अवस्थालाई teenage पनि भानिन्छ । ",
+    "बालक र बालिकाहरु बीच उमेर वृद्धि सँगै शारीरिक परिवर्तनमा पनि फरक पन आउँछ | शारीरिक स्वरूपमा नै परिवर्तन देखिने यो उमेरलाई किशोरअवस्था भनिन्छ | किशोरावस्था भनेको कुनै व्यक्ति बाल्यकालबाट वयष्क हुने परिवर्तनशील अवस्था हो । यसै बेलामा किशोर तथा किशोरीहरुको प्रजनन, मानसिक, बौद्धिक, आर्थिक तथा अन्य क्षेत्रमा विकास हुन्छ र उनीहरू परिपक्व हुने गर्दछन् । यी परिवर्तनहरुमा यौनसम्बन्धी परिवर्तन एकदमै प्रमुख हुन्छन् ।  "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 411,
+    "text_length_avg": 128.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9383,
+      "Latin": 0.0617
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2964,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9383,
+      "Latin": 0.0617
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5921.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5921.txt",
+    "relative_path": "5921.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5921.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2964,
+    "mtime": 1782796587.300766,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ec4ea8d63b0ceecd6baee9417d1e806b2807559b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

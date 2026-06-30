@@ -1,0 +1,92 @@
+{
+  "dataset": "9892.txt",
+  "file_name": "9892.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्मली भारतका सहरहरू मध्येको एउटा सहर हो।",
+    "2011 को जनगणनाका अनुसार निर्मलीको जनसंख्या 20,173 थियो । कूल जनसंख्याको 53% पुरूषले ओगटेका छन् भने महिला 47% छन् । निर्मलीले औसत साक्षरता दर 59% छ, जो राष्ट्रीय औसत 74.04% भन्दा कम छ । पुरुष साक्षरता 68% छ भने महिलाको साक्षरता 49% रहेको छ । नर्मलीमा, 6 बर्ष भन्दा कम उमेरको जनसंख्या 17.7% रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 42,
+    "text_length_max": 298,
+    "text_length_avg": 170.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 823,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9892.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9892.txt",
+    "relative_path": "9892.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9892.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 823,
+    "mtime": 1782796606.1580994,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bbabf7474e6997e4d324360aefee2c7e6e99503c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

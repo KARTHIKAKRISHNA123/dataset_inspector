@@ -1,0 +1,92 @@
+{
+  "dataset": "23510.txt",
+  "file_name": "23510.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वित्तीय विवरणहरू  भन्नाले संस्थाको वित्तीय अवस्था तथा कार्य सम्पादनको चित्रण गर्ने आधिकारिक विवरणहरुलाई जनाउँदछ । नेपालको सन्दर्भमा नेपाल चार्टर्ड एकाउन्टेन्ट्स संस्थाले लागु गरेको नेपाल लेखामान अनुसार वित्तीय विवरणमा निम्नानुसारको पाँचबटा विवरणहरु पर्दछन् । ",
+    "वित्तीय विवरणहरूको उद्देश्य भनेको प्रयोगकर्तालाई आर्थिक निर्णय गर्नको लागी संस्थाको वित्तीय अवस्था, वित्तीय कार्य दक्षता तथा वित्तीय अवस्थामा भएको परिवर्तन जस्ता आवश्यक जानकारी उपलब्ध गराउनु हो । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 259,
+    "text_length_avg": 194.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1585,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23510.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23510.txt",
+    "relative_path": "23510.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23510.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1585,
+    "mtime": 1782796505.5024803,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d235a3fd09dcbbe539a710676b49928e6a1a83ab",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

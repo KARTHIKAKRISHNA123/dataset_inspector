@@ -1,0 +1,91 @@
+{
+  "dataset": "36205.txt",
+  "file_name": "36205.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पंकज सिंह एक भारतीय टेस्ट क्रिकेटर हुन् । उनको जन्म सुल्तानपुर, उत्तर प्रदेशमा भएको थियो । पंकज एक तेज बलर हुन् । सिंहलाई अस्ट्रेलियामा 2007-08 को सीमा गावस्कर ट्रफी श्रृंखलाको लागि भारतीय टेस्ट क्रिकेट टीम मा चुनिएको थियो,तर खेलने मौका पाएनन् । सिंह इन्डियन प्रिमियर लिग मा राजस्थान रोयल्सको लागि खेल्छन् तर 2014 मा उनलाई यो मौका पनि मिलेन । पर्दापण टेस्ट क्रिकेटमा पंकज सिंहले कुनै विकेट नलिई सबैभन्दा धेरै रन दिनेको रेकर्ड बनाएका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 439,
+    "text_length_max": 439,
+    "text_length_avg": 439.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 1,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1141,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36205.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36205.txt",
+    "relative_path": "36205.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36205.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1141,
+    "mtime": 1782796564.2800725,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.982,
+    "sha1_quick": "6b69973c89fac418a050f774873469151e513e62",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

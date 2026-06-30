@@ -1,0 +1,92 @@
+{
+  "dataset": "32598.txt",
+  "file_name": "32598.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली आधुनिक गीतका सर्जक, गायक एवं प्रसिद्द रेडियो उदधोषक|",
+    "रेडियो नेपालमा कार्यरत रहँदा मास्टर रत्नदास प्रकाश, शिवशङ्कर, नातिकाजी, तारादेवी, हिरण्य भोजपुरे आदिको सङ्गत र हौसलाले सङ्गीत क्षेत्रमा लागेका सुनुवारले नेपाली सङ्गीतलाई उत्कृष्ट लोकलयहरूको उपहार छाडेका छन्। 2030 सालतिर सपनाभरि हाँसिरहन्छु...बोलको गीत गाएर गायन क्षेत्रमा प्रवेश गरेका सुनुवार का \" ऐंसेलुको पात..., सक्यो नानी सक्यो नानी..., शहरै जाउँला नि धन कमाइ ल्याउला... \" जस्ता उनका दर्जनौ गीतहरू आज पनि जनजिब्रोमा झुण्डिएका छन्। एक समय सुनुवार र वासुदेव मुनालको जोडी नेपाली गायन क्षेत्रमा खुबै "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 847,
+    "text_length_avg": 518.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5541,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32598.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32598.txt",
+    "relative_path": "32598.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32598.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5541,
+    "mtime": 1782796547.748896,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8dd4db2260a50159a7dd3d487c013b51dd5271ff",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "31458.txt",
+  "file_name": "31458.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "D. m. macrocercus D. m. albirictus D. m. minor Blyth, 1850D. m. cathoecus Swinhoe, 1871D. m. thai Kloss, 1921D. m. javanus Kloss, 1921D. m. harterti Baker, 1918",
+    "Buchanga atraBhuchanga albirictus"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 160,
+    "text_length_avg": 81.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.7545,
+      "Devanagari": 0.2455
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 329,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Devanagari",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.7545,
+      "Devanagari": 0.2455
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31458.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31458.txt",
+    "relative_path": "31458.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31458.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 329,
+    "mtime": 1782796542.6197727,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "d9dcfc74b88f0e0db76b6d432de8173af902d740",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

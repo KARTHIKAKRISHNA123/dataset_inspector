@@ -1,0 +1,94 @@
+{
+  "dataset": "28197.txt",
+  "file_name": "28197.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोहा कतार को राजधानी सहर हो। यो कतारको बढी आवादी भएको सहर हो। दोहा सहरको जनसंख्या 13,51,000 पुगेको छ। यो सहर देशको पूर्वी भागको पर्सियन खाडीका किनारामा अवस्थित छ। देशको लगभग 50% जनसंख्या बसोबास गर्ने दोहा सहर कतारको आर्थिक केन्द्र का रुपमी रहेको छ।",
+    "दोहा सहरको स्थापना अल बिदा नामको सहरी इलाकाको उपनगरका रुपमा सन् 1820 मा भएको थियो र सन् 1971 मा अंग्रेज शासनबाट मुक्त भए पश्चात यसलाई आधिकारिक रूपमा राजधानी घोषित गरियो। पुरानो सहर अल बिदा अहिले धेरै नै विस्तृत भएको छ र यो दोहाको एक नगरिय क्षेत्रको रुपमा रहेको छ। दोहा सहर हाल मध्य पूर्व को एक महत्वपूर्ण ब्यापारिक केन्द्रको रुपमा रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 119,
+    "text_length_max": 339,
+    "text_length_avg": 235.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8519,
+      "Latin": 0.1481
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1678,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8519,
+      "Latin": 0.1481
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28197.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28197.txt",
+    "relative_path": "28197.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28197.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1678,
+    "mtime": 1782796527.0829825,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "6fb52c2dc4effc7437d2201376e13d470bee0b69",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

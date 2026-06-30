@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "37137.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पञ्जाब अथवा पञ्जाब  भारतको एक राज्य हो । यो राज्य वृह्द पञ्जाब क्षेत्रको एक भाग हो । यसको अर्को भाग पाकिस्तानमा छ । पञ्जाब क्षेत्रका अन्य भाग भारतको हरियाणा र हिमाचल प्रदेश राज्यमा पर्दछन् । यस राज्यको पश्चिममा पञ्जाब, उत्तरमा जम्मू कश्मीर, उत्तर-पूर्वमा हिमाचल प्रदेश, दक्षिण तथा दक्षिण-पूर्वमा हरियाणा, दक्षिण-पूर्वमा केन्द्र शासित प्रदेश चण्डीगढ र दक्षिण-पश्चिममा राजस्थान राज्य पर्दछ । यस राज्यको कुल जनसङ्ख्या 2,42,89,296 छ भने कुल क्षेत्रफल 50,362 वर्ग किलोमीटर रहेको छ । केन्द्र शासित प्रदेश च",
+    "सन् 1947 मा भारतको विभाजन पछि तत्कालिन बृह्द पञ्जाबलाई विभाजन गरेर आधा पञ्जाब भारतमा र आधा पाकिस्तानमा राखिएको थियो । सन् 1966 मा भारतीय पञ्जाबको पनि विभाजन भयो । यसमा पञ्जाबलाई विभाजन गरेर हरियाणा, हिमाचल प्रदेश र पञ्जाब गरेर तिन राज्य बनाइए । यो भारतको एकमात्र राज्य हो जहाँ सिख धर्मावलम्बीहरूको बहुमत छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 1013,
+    "text_length_avg": 355.06,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14939,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37137.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\37137.txt",
+    "relative_path": "archive (2)\\valid\\valid\\37137.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14939,
+    "mtime": 1782796660.5696566,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "aa34a85c88b0d3d8b44750bd018e146db0819490",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

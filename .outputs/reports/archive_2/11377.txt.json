@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "11377.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "A general practitioner or family physician is a physician/medical doctor who provides primary care. A GP/FP treats acute र chronic illnesses, provides preventive care र health education for all ages र both sexes. Some also care for hospitalized patients, do minor surgery and/or obstetrics. The term general practitioner is common in the United Kingdom र some other Commonwealth countries, where the word \"physician\" is only used for certain specialists र not for GPs.",
+    "General Practice in Australia has undergone many changes in training requirements over the past decade. The basic medical degree in Australia is the MBBS, which has traditionally been attained after completion of a six-year course. Over the last few years, four-year postgraduate courses have become more common. After graduating, a one or two-year internship is required for registration before specialist training begins. For general practice training, the doctor applies to enter the three-year \"A"
+  ],
+  "statistics": {
+    "records_sampled": 37,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 1893,
+    "text_length_avg": 473.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9928,
+      "Devanagari": 0.0072
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17766,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.993,
+      "Devanagari": 0.007
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11377.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\11377.txt",
+    "relative_path": "archive (2)\\valid\\valid\\11377.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17766,
+    "mtime": 1782796609.1851802,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "40385cf8516fed74502abd7fe951c04354b271b2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7143.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परिचय",
+    "वास्तुशास्त्र प्राचीन विज्ञान हो। यजुर्वेदको स्थापत्य अध्यायमा वास्तु शिल्पशास्त्रको वयान छ। वास्तु शिल्पशास्त्रलाई दुई भागमा बाँडिएको छ― देवशिल्प र मानवशिल्प। देवशिल्पमा मठमन्दिर, यज्ञशाला आदि धार्मिक संरचना निर्माण विधि सुझाइएको छ भने मानवशिल्पमा आवासीय भवनका विभिन्न कक्षहरू बनाउँदा ख्याल गर्नुपर्ने दिशा र कोणहरूबारे सविस्तार उल्लेख छ।यसले घर कसरी निर्माण गर्नुपर्छ भन्ने ज्ञान सिकाउँछ। वास्तुशास्त्रको पालन गरी बनाइएको घरमा बस्दा सुख, शान्ति एवं समृद्धि प्राप्त हुन्छ। यस्तो घरमा बस्दा उत्साह, उ"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 710,
+    "text_length_avg": 305.05,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15673,
+    "estimated_records": 51
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 51,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7143.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7143.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7143.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15673,
+    "mtime": 1782796670.0122588,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e7833f2eceef49c4774f2df9d217a919e43ad1d4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

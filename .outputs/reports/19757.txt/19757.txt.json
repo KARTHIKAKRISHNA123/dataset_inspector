@@ -1,0 +1,94 @@
+{
+  "dataset": "19757.txt",
+  "file_name": "19757.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली भाषा साहित्यका कविहरूः  भुवनहरि सिग्देलः सिग्देल शास्त्रीय छन्दमा कविता रचना गर्ने वर्तमानका सशक्त कवि हुन् । उनको जन्म वि सं 2007 साल जेठ 5 गते दहचोक काठमाडौंमा भएको थियो । उनले नेपाली खण्डकाव्य, महाकाव्य मात्र हैन कथासङ्ग्रह र उपन्यासहरू पनि लेखेका छन् । 2073 सालमा उनले लेखेका 'आमोई' जीवन इतिवृत्त निकै चर्चित रहेको थियो । सात खण्डकाव्य तीन महाकाव्य एक नव्यकाव्य एक नीतिकाव्य एक नव्यकाव्य एक कविता सङ्ग्रह चार उपन्यास एक बालगीत र एक जीवनवृत्त लेखिसकेका उनी विशेषत शास्त्रीय छन्दकै कविताका प",
+    "खण्डकाव्यतर्फः आर्तनाद 2054, कानी 2055, कुलबहादुर 2058, डल्ले 2058, समयचक्र 2064 सुनसपना 2065, निसानी 2068 महाकाव्यतर्फः धरणीधर 2055, मेनुका 2056, विभुधारा 2061, वैयाकरण 2070 "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 175,
+    "text_length_max": 1534,
+    "text_length_avg": 644.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9842,
+      "Latin": 0.0158
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6314,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9842,
+      "Latin": 0.0158
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19757.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19757.txt",
+    "relative_path": "19757.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19757.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6314,
+    "mtime": 1782796488.51197,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "630bbb77cebd523dda654fa8793a4b596f04013b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

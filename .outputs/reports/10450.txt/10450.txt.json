@@ -1,0 +1,92 @@
+{
+  "dataset": "10450.txt",
+  "file_name": "10450.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट विश्वकप 1987 क्रिकेट विश्वकप प्रतियोगिताको चौथौ क्रिकेट विश्वकप थियो । यो प्रतियोगिता 8 अक्टोबर देखि 8 नोभेम्बर सम्म भारत तथा पाकिस्तानमा भएको थियो । यो टुर्नामेन्ट रिलायन्स कम्पनीद्वारा प्रायोजित रहेको थियो । यस टुर्नामेन्टमा 8 वटा टिमले भाग लिएको थियो । ",
+    "म्याच 60 ओभरको सट्टा 50 ओभरको खेलाईएको थियो । यस प्रतियोगितामा पनि म्यान अफ द सिरिजको व्यवस्था गरिएको थिएन । यस प्रतियोगिताको रोमान्चक फाइनल खेलमा अस्ट्रेलियाले इङ्गल्याण्डलाई 7 रनले हराउदै उपाधि जितेको थियो । आयोजक राष्ट्र भारत तथा पाकिस्तान दुवै प्रतियोगिताको सेमी फाइनल सम्म पुगेको थियो भने 2 पटकको उपाधि बिजेता वेस्ट इन्डिज समुह चरणबाटै बाहिरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 232,
+    "text_length_max": 421,
+    "text_length_avg": 310.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5743,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10450.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10450.txt",
+    "relative_path": "10450.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10450.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5743,
+    "mtime": 1782796444.6766987,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ed722b874183b73c5f37f928e59cdb675be80d9b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

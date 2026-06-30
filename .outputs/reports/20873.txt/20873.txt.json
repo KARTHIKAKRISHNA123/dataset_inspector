@@ -1,0 +1,91 @@
+{
+  "dataset": "20873.txt",
+  "file_name": "20873.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हडर्सफिल्ड फुटबल क्लब हडर्सफिल्ड, पश्चिम योर्कशायर, इङ्गल्याण्डमा आधारित एक पेशेवर संघ फुटबल क्लब हो । यो सन् 1808 मा स्थापित भएको थियोे र वर्तमानमा प्रिमियर लिग, अंग्रेजी फुटबलको शीर्ष तहमा प्रतिस्पर्धा गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 211,
+    "text_length_max": 211,
+    "text_length_avg": 211.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 556,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20873.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20873.txt",
+    "relative_path": "20873.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20873.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 556,
+    "mtime": 1782796493.773647,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "afee1ab9b2068b49aea4dea25418d4cd6562675f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

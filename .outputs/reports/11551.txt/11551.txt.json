@@ -1,0 +1,92 @@
+{
+  "dataset": "11551.txt",
+  "file_name": "11551.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीराम मन्दिर थापाथलि बाग्मति किनारमा अवस्थित यो मन्दिरको जङ्गबहादुर राणाले वि.सं. 1930-31 मा निर्माण गराउनु भएको हो । पहिले यस स्थानमा एक सिद्ध साधुले तपस्या गरेको र सोहि स्थानमा हनुमानको मन्दिर संगै राममन्दिर स्थापना भएको यहाँ गुरू-महन्तले बताउनु भएको थियो ।वि.सं. 1990को महाभूकम्पमा क्षति पुगे पश्चात तत्कालिन प्रधान मन्त्री जुद्ध_शमशेर_जंगबहादुर_राणा जबराले जिर्णोद्धार गराएको कुराको भित्ते लेखमा देख्न पाईन्छ ।भगवानहरु यस मन्दिरको मुख्य देवता भूदेवी र श्रीदेवी सहित चतुर्भूज नारायण हुन् । यसै म",
+    "राम नवमी, नववर्ष, अक्षय तृतीया, सीता जयन्ति, गंगा दशहरा, साउन संक्रान्ति, कृष्ण जन्माष्टमी, बडादशैं, तिहार, बालाचतुर्दशी, माघे संक्रान्ति, शिवरात्री, होली, चैते दशै"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 806,
+    "text_length_avg": 485.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2566,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11551.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11551.txt",
+    "relative_path": "11551.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11551.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2566,
+    "mtime": 1782796449.8683813,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "1c0df033d736949c059439910a9b7b4edc756b03",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

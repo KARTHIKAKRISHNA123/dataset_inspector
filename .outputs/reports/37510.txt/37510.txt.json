@@ -1,0 +1,92 @@
+{
+  "dataset": "37510.txt",
+  "file_name": "37510.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अोकरा जिल्ला पाकिस्तानको पञ्जाब प्रदेशमा पर्ने एक जिल्ला हो । यो जिल्ला पहिला शाहिवाल जिल्लाको एक भाग थियो भने सन् 1982 मा यो शाहिवाल जिल्लाबाट छुट्टियको हो । मुल्तान सडकले यस जिल्लालाई जिल्ला राजधानी अोकरा सङ्ग जोड्छ भने जहाँबाट लाहोर 110 किलोमिटरको दुरीमा रहेको छ र रवी नदी पछि फैसलाबाद 100 किलोमिटरको दुरीमा पर्छ ।",
+    "ब्रटिस्ट शासनकालमा यस जिल्ला अोकानको एक घना जङ्गल रहेको थियो र पछि त्यो जङ्गललाई फडानी गरेर यस जिल्लालाई मानवका लागि बसोबास युक्त बनाइएको थियो र त्यहि जङ्गलबाट यस जिल्लाको नाम अोकरा रहन गएको थियो । पाकिस्तानको स्वतन्त्रतामा यहाँ रहेका इस्लामीहरूले इस्लाम लिगलाई सहयोग गरेका थिए । सन् 1947 मा पाकिस्तानको स्वतन्त्रता पछि इस्लामी सरणार्थीहरू अोकरा जिल्लामा अाएर बसोबास गरेका थिए । 1982 मा अोकरा शहरलाई अोकरा जिल्लाको सदरमुकाम बनाइएको थियो । यस जिल्लामा सन् 1892 देखिनै रेलमार्गहरू रहेका थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 582,
+    "text_length_avg": 352.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5552,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37510.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37510.txt",
+    "relative_path": "37510.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37510.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5552,
+    "mtime": 1782796570.6583896,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5841b0956845d474cf44f056ce0eea960a03b1ae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

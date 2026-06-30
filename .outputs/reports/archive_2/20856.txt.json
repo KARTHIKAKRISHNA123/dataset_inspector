@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "20856.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अति तीब्र गतिमा तथ्याङ्क पठाउन मिल्ने अप्टिकल फाइबरको प्रचलन नेपालमा पनि शुरू भएको छ।हालसालै चीनले नेपालको दूरसञ्चार सेवाका लागि काठमाडौंदेखि कोदारीसम्म एकसय 15 कि.मी. अप्टिकल फाइबर बिच्छ्याउने कार्यमा सहयोग प्रदान गरेको छ। यसबाट दूरसञ्चार सेवामा अझ बढी प्रभावकारिता र अझ बढी विश्वसनियता आउने देखिएको छ।",
+    "अहिलेसम्म एउटा टावरबाट अर्को टावर गर्दै माइक्रोवेभ लिंकबाट डाटा आदान प्रदान गरिरहेको नेपाल टेलिकमलाई विभिन्न कारणले टावरहरू क्षतिग्रस्त हुँदा त्यस क्षेत्रको सञ्चार सम्पर्क नै लथालिङ्ग हुने स्थितिबाट अप्टिकल फाइबरले छुट्टी दिने भएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 978,
+    "text_length_avg": 319.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9706,
+      "Latin": 0.0294
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10106,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9706,
+      "Latin": 0.0294
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20856.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\20856.txt",
+    "relative_path": "archive (2)\\valid\\valid\\20856.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10106,
+    "mtime": 1782796627.9920504,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "21e48e072bac4dd2b68e7d3d3a48b551d05b11fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

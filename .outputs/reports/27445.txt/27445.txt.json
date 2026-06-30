@@ -1,0 +1,91 @@
+{
+  "dataset": "27445.txt",
+  "file_name": "27445.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आतिफ असलम या मोहम्मद आतिफ असलम 12 मार्च 1983 मा पाकिस्तान को वजिराबाद, गुजरानवालामा जन्मेका एक प्रसिद्ध गायक हुन्। अन्तर्राष्ट्रिय स्तरमा उनि सामान्यत हिन्दी-ऊर्दू गायक को रूपमा चिनिन्छन्। उनी हिन्दी गितको गायनमा ख्याति प्राप्त गायक हुन् । 2008 मा पाकिस्तान सरकारबाट उनलाई तम्गा-ऐ-इम्तियाजको उपाधिबाट सम्मानित गरिएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 322,
+    "text_length_max": 322,
+    "text_length_avg": 322.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 848,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27445.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27445.txt",
+    "relative_path": "27445.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27445.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 848,
+    "mtime": 1782796523.680109,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "28838638164675c6de8033048aeaddbe1a6efa04",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

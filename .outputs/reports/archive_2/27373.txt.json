@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27373.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " अरबाज खान भारतीय चलचित्र क्षेत्रका एक बहुप्रसिद्ध अभिनेता, चलचित्र निर्माता तथा निर्देशक हुन्। खानले 1999 मा फिल्म दारामा एक मनोवैज्ञानिक पत्नी शोसन गर्ने एक महत्त्वपूर्ण भूमिकाबाट चलचित्र क्षेत्रमा प्रवेश गरे। उनले आफ्नो प्रदर्शनको लागि फिल्मफेयर उत्कृष्ट भिलेन अवार्ड प्राप्त गरे। ",
+    "उनको 1998 मा एक मोडेल र अभिनेत्री मलाइका अरोरासँग विवाह भयो। दम्पतीले 28 मार्च 2016 मा विघटनको घोषणा गर्यो। जोडीको आधिकारिक रूपमा 11 मे 2017 मा तलाक भयो । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 155,
+    "text_length_max": 284,
+    "text_length_avg": 219.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1137,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27373.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27373.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27373.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1137,
+    "mtime": 1782796640.9160285,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4cd9196f1a7e52f72d40011bdc51b97fd250990e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

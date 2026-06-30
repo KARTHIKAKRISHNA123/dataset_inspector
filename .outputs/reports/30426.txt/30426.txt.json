@@ -1,0 +1,92 @@
+{
+  "dataset": "30426.txt",
+  "file_name": "30426.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालमा हिन्दु परम्परा अन्तर्गत बिभिन्न शैलीमा विवाह गरिन्छ । नेपाली परमपरा अन्तर्गत नेपाली हिन्दू विवाह नेपालमा हिन्दु परम्परा अन्तर्गत बिभिन्न शैलीमा विवाह गरिन्छ । हिन्दु परम्परा अन्तर्गत व्राह्ममन संक‍‍‍ृति नेवारी संक‍‍‍ृति तामाङ संक‍‍‍ृति रार्इ संक‍‍‍ृति मगर संक‍‍‍ृति अादि मा गरिने विवाहका शैलीहरु छुट्टा छुट्टै हुन्छन् ।हिन्दु परम्परा अन्तर्गत व्राह्ममन संक‍‍‍ृतिमा गरिने विवाहका केहि त्र्पक‍ृया यस ‌‌‌‌‌‌त्र्पकार छन् ।",
+    "नेपाली परमपरा अन्तर्गत नेपाली हिन्दू विवाहका केही तस्विरहरु"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 426,
+    "text_length_avg": 80.09,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2418,
+    "estimated_records": 30
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 30,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30426.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30426.txt",
+    "relative_path": "30426.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30426.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2418,
+    "mtime": 1782796537.7167652,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "04eb0b084156dec105a3c6d89fc8d62f11c9888c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

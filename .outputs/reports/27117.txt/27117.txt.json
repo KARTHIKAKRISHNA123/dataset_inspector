@@ -1,0 +1,92 @@
+{
+  "dataset": "27117.txt",
+  "file_name": "27117.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गणेश चतुर्थी हिन्दुहरूको एक प्रमुख उत्सव हो । यो उत्सव भारतको महाराष्ट्र लगायत अन्य स्थानमा निकै धूमधामले मनाइन्छ । गणेश चतुर्थी देखि अनन्त चतुर्दशी सम्म दस दिन गणेशोत्सव मनाइन्छ ।",
+    "शिवपुराणमा भाद्रपद महिनालाई कृष्ण पक्षको चतुर्थीको मंगलमूर्ति गणेशको अवतरण-तिथि भनिएको छ । जबकि गणेशपुराणका मतानुशार यो गणेशावतार भाद्रपद शुक्ल चतुर्थीमा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 1451,
+    "text_length_avg": 293.48,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16362,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27117.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27117.txt",
+    "relative_path": "27117.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27117.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16362,
+    "mtime": 1782796522.1906073,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4481f9c0f3afcf6152ae07baee841e420891041f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

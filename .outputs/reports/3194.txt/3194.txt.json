@@ -1,0 +1,94 @@
+{
+  "dataset": "3194.txt",
+  "file_name": "3194.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " विमल घर्ती मगर ",
+    "2015 साफ यु-19 च्याम्पियनसिप  was the first editionसाफ यु-19 साफ च्याम्पियनसिपको पहिलो संस्करण हो ।नेपालले आयोजना गरेको यो प्रतियोगिताको पहिलो सस्करणको उपाधि पनि नेपालले जितेको थियो।जुन प्रतियोगिता 20 अगस्ट देखि 29 अगस्ट 2015 सम्म चलेको थियो।फाइनल खेलमा भारतता टाइब्रेकर मार्फत 4-5 ले पाखा लगाई यो ऐतिहासिक उपाधि नेपालले उचालेको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 335,
+    "text_length_avg": 61.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9548,
+      "Latin": 0.0452
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1266,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9548,
+      "Latin": 0.0452
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3194.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3194.txt",
+    "relative_path": "3194.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3194.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1266,
+    "mtime": 1782796544.859787,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "454a3af8b7cabb904fc2cb393fb0ae276dc5c46b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

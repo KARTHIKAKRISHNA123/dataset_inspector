@@ -1,0 +1,92 @@
+{
+  "dataset": "34301.txt",
+  "file_name": "34301.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिसमस विश्वभरका इसाई धर्माबलम्बीहरूले इसा मसिह अथवा जिसस क्राइस्टको जन्मदिनको उपल्क्षयमा मनाइने पर्व हो । यो 25 डिसेम्बरमा पर्छ र यस दिन लगभग सम्पूर्ण विश्वमा सार्वजनिक विदा दिइन्छ। क्रिसमस देखि 12 दिनको उत्सव क्रिसमसटाइडको पनि शुरुवात हुन्छ।",
+    "जिससको जन्म महिना र मिति यहि नै हो भन्न सकिँदैन तर वेस्टर्न क्रिस्चियन चर्चले उनको जन्म डिसेम्बर 25 भनेर तोकेका छन् ; मिति जुन पुर्व भरी पनि अपनाइयो । उक्त मिति जिसस गर्भमा बसिसेकेपछिको नौ महिना पछि भएकाले छानिएको हुन सक्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 244,
+    "text_length_avg": 165.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1753,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34301.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34301.txt",
+    "relative_path": "34301.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34301.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1753,
+    "mtime": 1782796555.561659,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "2ddb6e09651b67105e471f1f1d6c53e1da2d1f2b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

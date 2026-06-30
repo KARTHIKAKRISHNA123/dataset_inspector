@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "35766.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू धर्ममा एकादशीको व्रतले महत्वपूर्ण स्थान राख्दछ । प्रत्येक वर्ष चौबीस एकादशिहरू हुन्छन् । अधिकमास अथवा मलमास परेको वर्ष यो संख्या बढेर 26 हुन जान्छ । ज्येष्ठ मासको शुक्ल पक्षको एकादशीलाई निर्जला एकादशी भनिन्छ । यस दिनमा नेपाल र भारत लगायत विभिन्न मुलुकहरूमा बसोवास गर्ने हिन्दू धर्मावलम्बीहरूले व्रत राखेर पर्वको रुपमा मनाउने गर्दछन् । यस व्रतमा पानी समेत पिउँनु वर्जित छ यसैले यसलाई निर्जला एकादशी भनिन्छ । ",
+    "जब सर्वज्ञ वेदव्यासले पाण्डवहरूलाई चारै पुरुषार्थ- धर्म, अर्थ, काम र मोक्ष दिने एकादशी व्रतको संकल्प गराए तब महाबली भीमले निवेदन गरे- हे पितामह! तपाईंले त प्रति पक्ष एक दिनको उपवासको कुरा भन्नुभयो । म त एक दिन त के एक समय पनि भोजन विना रहन सक्दैन- मेरो पेटमा 'वृक' नामको जो अग्नि छ, त्यसलाई शान्त राख्नको लागि मलाई कैयों मान्छेको बराबर अथवा कैयों पटक भोजन गर्नु पर्दछ । के म आफ्नो यस भोकका कारण म एकादशी जस्तो पुण्यव्रत बाट बाँच्न सकुँला ?"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 264,
+    "text_length_max": 901,
+    "text_length_avg": 467.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7385,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35766.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\35766.txt",
+    "relative_path": "archive (2)\\valid\\valid\\35766.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7385,
+    "mtime": 1782796657.957983,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "67cec905580416798b7a2581f7143c4fc766d9bc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

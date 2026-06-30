@@ -1,0 +1,92 @@
+{
+  "dataset": "23808.txt",
+  "file_name": "23808.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विनोना राईडर  ओस्कर अवार्डमा छानिएकी तथा गोल्डेन ग्लोब विजयी एक सफल अमेरीकी अभिनेत्री हुन्। ",
+    "विनोनाको चलचित्र व्यवसायको थालनी लुकास बाट भएको हो जसमा उहाँ लुकाससँग एकतर्फी प्रेम गर्छिन्। उनको पहिलो सफल चलचित्र भने बीटल्जुस हो जसमा उनले लीडीया नामक एक जवान गथ केटीको अभिनय गरेकी छिन्। भेरोनिका सयर नामक चरित्रमा उनले हेदर्स् मा भिन्नै अभिनय गरी टिप्पनीकर्ताहरूलाई चुप लगाएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 92,
+    "text_length_max": 284,
+    "text_length_avg": 188.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1010,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23808.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23808.txt",
+    "relative_path": "23808.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23808.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1010,
+    "mtime": 1782796506.9101703,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a707b76ebeb52feeed386f5031e88481591f4663",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

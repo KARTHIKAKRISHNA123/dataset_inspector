@@ -1,0 +1,92 @@
+{
+  "dataset": "14778.txt",
+  "file_name": "14778.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एभिन्युज टेलिभिजन नेपालको एक समाचार प्रधान टेलिभिजन च्यानल हो। सन् 2007 जुलाई 16 मा स्थापना भएको यस टेलिभिजन च्यानलको मुख्यालय काठमाण्डौमा छ । सुरुमा राजावादी च्यानलको रुपमा चिनिएको यस च्यानलको संचालक भने हाल भाष्करराज राजकर्णिकार हुन् ।सूरुमा भाष्करराज राजकर्णिकार, युनुस अन्सारी, ललित कुमार अग्रवाल लगायतको संगलगतामा स्थापना भएको यस टेलिभिजन च्यानल पछि संचालक दोय युनुस अन्सारीले नेसनल टेलिभिजन र ललित कुमार अग्रवालले हिमालय टेलिभिजन गरी आफ्नै छुट्टाछुट्टै टेलिभिजन च्यानल संचालनमा ल्याई सकेका छन् ",
+    "एभिन्युज टेलिभिजन व्यवस्थापन पत्रकारले पाउन बाँकी तलब तीन दिनभित्र दिन सहमत भयो। पत्रकारका पाँचवटै माग पुरा गर्न एभिन्युज टिभीका अध्यक्ष भाष्कराज राजकर्णिकार तयार भए।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 166,
+    "text_length_max": 502,
+    "text_length_avg": 334.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1797,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14778.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14778.txt",
+    "relative_path": "14778.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14778.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1797,
+    "mtime": 1782796464.5999267,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "437579a218c3617c3337336d744d607d520986b6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

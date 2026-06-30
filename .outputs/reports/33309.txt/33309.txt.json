@@ -1,0 +1,91 @@
+{
+  "dataset": "33309.txt",
+  "file_name": "33309.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धनकुटा नगरपालिका वडा नं. 5 विहिबारे हाटमा रहेको मार्गादेवीको मन्दिरलाई मार्गाथान भनिन्छ। मार्गाथानलाई इँटाको चौघेराले घेरी भित्र पस्नका लागि ढोका बनाइएको छ। चौघेराको बीचमा फलामका त्रिशूलहरू राखिएका छन्। त्यस मन्दिरमा आठपहरिया राई जातिले धुलेपूजा, न्वागीपूजा, मंसीरेपूणिर्मा आदिमा विशेष पूजा गरी सुँगुरको पाठा तथा कुखुराको चल्ला वलि दिने चलन रहेको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 350,
+    "text_length_max": 350,
+    "text_length_avg": 350.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 945,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33309.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33309.txt",
+    "relative_path": "33309.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33309.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 945,
+    "mtime": 1782796551.0107715,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c02219c54b2e67f5a8ca4377589c86e8d83279c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

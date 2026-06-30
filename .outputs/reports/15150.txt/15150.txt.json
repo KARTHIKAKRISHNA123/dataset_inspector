@@ -1,0 +1,92 @@
+{
+  "dataset": "15150.txt",
+  "file_name": "15150.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्ण पाउरोटी उद्योग नेपालको पुरानो पाउरोटी उद्योग हो । काठमाडौंको कमलपोखरीमा रहेको यो उद्योगको स्थापना बि. सं. 2005 मा कृष्णबहादुर राजकर्णिकारले गरेका थिए । ",
+    "राष्ट्रको समृद्धिका लागि एकनिष्ठ भएर व्यापार गर्नु, निस्वार्थभावले समाजसेवा गर्नु र जनउत्थानका लागि राजनीतिमा पनि संलग्न हुनु कृष्णबहादुर राजकर्णिकारको व्यक्तित्वको प्रमुख विशेषता थियो । वर्तमान सङ्कटग्रस्त समाजमा यिनै विशेषताका कारण उनी कालजयी बने । त्यतिमात्र होइन उनी आज र भोलिका पुस्ताका लागि समेत प्रेरक हुन पुगे ।"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 969,
+    "text_length_avg": 329.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15917,
+    "estimated_records": 48
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 48,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15150.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15150.txt",
+    "relative_path": "15150.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15150.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15917,
+    "mtime": 1782796466.2341847,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4d5744ac97dc7477611d8d05a074de4cd055d80c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

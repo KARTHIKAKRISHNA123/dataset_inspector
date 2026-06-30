@@ -1,0 +1,92 @@
+{
+  "dataset": "10228.txt",
+  "file_name": "10228.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2020 ओएफसी राष्ट्र कप ओशेनिया फुटबल संघद्वरा आयोजना गरिने अन्तर्राष्ट्रिय पुरुष फुटबल च्याम्पियनसिप प्रतियोगिता हो । यो ओशिनिया फुटबल सङ्घको 11 औँ संस्करण हो । यसको विजेता 2021 फिफा कन्फेडेरेसन्स कपको लागि छनोट हुनेछ ।",
+    "न्युजिल्यान्ड बिजेताको रूपमा मैदान प्रवेश गर्ने छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 218,
+    "text_length_avg": 111.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 879,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10228.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10228.txt",
+    "relative_path": "10228.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10228.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 879,
+    "mtime": 1782796443.5925012,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "916de76690f10bf7d0798cdb30a357a31cb7be8d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

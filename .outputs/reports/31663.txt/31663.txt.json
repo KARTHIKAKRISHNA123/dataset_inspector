@@ -1,0 +1,92 @@
+{
+  "dataset": "31663.txt",
+  "file_name": "31663.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्लगर एक ब्लग होस्टिङ सेवा हो, जो गूगल ब्लगर प्रोग्रामद्वारा उपलब्ध गराइन्छ र जसद्वारा ब्लगर्स आफ्नो नयाँ ब्लग छिटै बनाउन सक्छन् । यसको मद्दतले डोमेन नेम र होस्टिङ जबसम्म ब्लगरले चाहन्छ, निःशुल्क उपलब्ध रहन्छ । गुगलको एडसेंस कार्यक्रमद्वारा ब्लगरले आफ्नो ब्लगबाट आम्दानी पनि गर्न सक्दछन् । यो सुविधा अन्य ब्लगिङ कार्यक्रममाथि निर्भर हुँदैन । ब्लग कुनै पनि कार्यको लागि प्रयोग गर्न सकिन्छ, चाहे त्यो निजी दैनिकीको रूपमा होस् वा व्यावसायिक कार्यको लागि वा सामान्य रूपमा आफ्नो विचार अरुसम्म पुर्‍याउने क",
+    "यसमा ब्लग निर्माणकार्यको लागि कुनै जटिल सफ्टवेयर या जानकारी डाउनलोड गर्न या त्यसको प्रयोग गर्नु पर्दैन। यसमा आफ्नो ब्लग बनाउने कार्यको लागि प्रयोक्ताले केवल गुगलमा आफ्नो खाता बनाउनुपर्छ । यस साइनअप कार्यको लागि प्रयोक्ता लाई एक अलग नाम राख्नुपर्ने हुन्छ जो उसको ब्लगको नाम हुन्छ । यही नाम डोमेन नेमको रूपमा पनि प्रयोग हुदछ। ब्लगस्पट मा अन्य केही ब्लगिङ सेवाहरु जस्तो सुविधाहरु उपलब्ध हुँदैन, तर यसको सर्वसाधारण टुल्स र अन्य सुविधाले ब्लगिंगलाई अत्यन्त सरल बनाई दिन्छ। तर यसको अर्थ ये होइन, कि ब्लगस्प"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 857,
+    "text_length_avg": 387.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5139,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31663.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31663.txt",
+    "relative_path": "31663.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31663.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5139,
+    "mtime": 1782796543.6145997,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "df1f4773b5fabcd48c7b1cc345bb024a742cd3b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

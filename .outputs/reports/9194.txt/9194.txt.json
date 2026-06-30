@@ -1,0 +1,94 @@
+{
+  "dataset": "9194.txt",
+  "file_name": "9194.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "See text",
+    "कनकचम्पा म्याग्नोलियासिया परिवारमा पर्ने एक प्रकारको फूल हो। यसको सबैभन्दा बढी 210 वटा प्रजातिहरू पाइन्छन्। यसको धेरै प्रजातिहरू मुख्यतया दक्षिणपूर्वी एसियामा साथै उत्तर अमेरिका, मध्य अमेरिका र वेस्ट इण्डिज तथा केही प्राजातिहरू दक्षिण अमेरिकामा पनि पाइन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 258,
+    "text_length_avg": 133.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.969,
+      "Latin": 0.031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 708,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.969,
+      "Latin": 0.031
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9194.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9194.txt",
+    "relative_path": "9194.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9194.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 708,
+    "mtime": 1782796603.0316517,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "fbc694de7dd59226cab615e88284424cc2c0b3c6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

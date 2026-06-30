@@ -1,0 +1,94 @@
+{
+  "dataset": "17130.txt",
+  "file_name": "17130.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वर्णविन्यास भनेको वर्णहरूको व्यवस्थित विन्यास वा वर्णहरूको ठीक रखाइ वा नियमबमोजिमको लेखन हो । ठीक ढङ्गले वर्णविन्यासको प्रयोग नगरिएमा अर्थको अनर्थ हुने हुँदा लेखाइमा वर्णविन्यास मिलाउनु आवश्यक हुन्छ । वर्ण विन्यास लेख्य भाषासँग सम्बन्धित विषय हो।यसलाई हिज्जे पनि भनिन्छ । वर्ण विन्यासलाई लिपि विन्यास पनि भन्न सकिन्छ । कुनै भाव वा विचार वा कुनै कुरा लेख्य भाषामा व्यक्त गर्दा वर्ण विन्यास मिलाउनुपर्छ । वर्णको सम्बन्ध अर्थसँग हुने भएकाले वर्ण विन्यासमा त्रुटि भएमा कुनै अभिव्यक्ति सही र स्पष्टरूपमा प",
+    "वर्ण भनेको भाषाको लघुतम एकाइ हो। यो अविभाज्य हुन्छ। भाषाको सबैभन्दा सानो अर्थ विभेदक ध्वनिलाई वर्ण भनिन्छ। वर्णहरू अर्थ विभेदक हुन्छन्। अर्थ विभेदकताका आधारमा वर्णहरूको निर्धारण हुन्छ। जस्तै:लघुतम शब्द युग्म उच्चारण अर्थ भेदक एकाइ परिवेश अर्थकाल काल् क् आल् समयचाल चाल् च् आल् चालढाल, तरिकाचाल ताल् त् आल् पोखरी, दह, चालमाल माल् म् आत् माल सामानसाल साल् स् आल् वर्षदाल दाल् द् आल् मास, रहर, आदिबाट दलेर बनाइएको बस्तु"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 138,
+    "text_length_max": 693,
+    "text_length_avg": 350.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9962,
+      "Latin": 0.0038
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11041,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.996,
+      "Latin": 0.004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17130.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17130.txt",
+    "relative_path": "17130.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17130.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11041,
+    "mtime": 1782796475.5093517,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "62fe8d8f1d115372ff08f19c667996f9194a6ee9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

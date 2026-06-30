@@ -1,0 +1,96 @@
+{
+  "dataset": "16567.txt",
+  "file_name": "16567.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युजिन हेनरी पल गोगे ",
+    "फ्रान्सको पेरिसमा सन 7 जुन 1848मा जन्मेका पल विश्व बिख्यात 'पोष्ट इप्रेसनिसनिस्ट' चित्रकार हुन | पेरिसको मध्यमबर्गिय परिवारमा जन्मेका पल का पिता ल्कोम्स समाजवादि पृष्ठभुमि भएका पत्रकार थिए भने आमा अलाईन महिला अधिकारवादी समावादी नेता की छोरी थिइन् । नेपोलियन फ्रान्सको सत्तामा आफुलाई स्थपित गरे पश्चात उन का पिता ल्कोम्स सपरिवार पउलको मावाली देश पेरू बसाई सरेका थिए । तर पेरू नपुग्दै पानी जहाजमा हृदयघात भई उनको मृत्यु भएको थियो । पेरूमा उनी र बहिनी म्यारी काकासँग 6 वर्ष बसे र पुन पेरिस फर्के| "
+  ],
+  "statistics": {
+    "records_sampled": 25,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 667,
+    "text_length_avg": 118.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8355,
+      "Latin": 0.1645
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6907,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8355,
+      "Latin": 0.1645
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16567.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16567.txt",
+    "relative_path": "16567.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16567.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6907,
+    "mtime": 1782796472.8993764,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "316c3311884c3f6cdbc238826c1bbeac01c0a450",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

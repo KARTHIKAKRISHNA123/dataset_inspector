@@ -1,0 +1,94 @@
+{
+  "dataset": "8616.txt",
+  "file_name": "8616.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Dioscorea प्रजाती अन्तर्गत पर्ने यो कन्दमुललाई नेपालमा सामान्यतया तरुल भनिन्छ। यो सामन्यतया अफ्रिका, एसिया, ल्याटिन अमेरीका र ओशिनिया क्षेत्रमा पाइन्छ।",
+    "यसको बोक्रा ताछ्न नसक्ने कडा हुन्छ तर तातो भएपछि सजिलै निस्कन्छ। यसको रंग गाढा खैरो देखि हल्का फुस्रो सम्म बिभिन्न रंगको हुन्छ। यसको कन्द 70 कि.ग्रा. सम्म तौलको र 2.5 मि. लाम्बाई सम्म बढ्न सक्छ।तरुल प्रायजसो चिसो मौसम पुस माघको महिनामा यसलाई उसिनेरगरेर खाइन्छ।यसको अलावा तरुललाई तरकारी अचारको रुपमा पनि खाइन्छ। नेपालमा4प्रजातीका तरुल पाईन्छन् "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 343,
+    "text_length_avg": 247.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.978,
+      "Latin": 0.022
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1299,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.978,
+      "Latin": 0.022
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8616.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8616.txt",
+    "relative_path": "8616.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8616.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1299,
+    "mtime": 1782796600.2455876,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "1cb6658756b88ec1f27fdb130dd36d2925a32115",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

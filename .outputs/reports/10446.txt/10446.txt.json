@@ -1,0 +1,94 @@
+{
+  "dataset": "10446.txt",
+  "file_name": "10446.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुर्खेत विमानस्थल नेपालको राजधानी काठमाडौबाट 700 कि मि टाढा सुर्खेत उपत्यकाको वीरेन्द्रनगर सहरसंगै रहेको छ। यो विमानस्थल 1961 देखि शुरू भएको हो। हाल मध्य पश्चिम नेपालको यो प्रमुख विमानस्थल हो। याँहबाट मुख्यत कर्णाली अन्चलका दुर्गम जिल्लाका विमानस्थलहरूका लागि उडान हुने गर्दछ, साथै तिब्बतमा रहेकको हिन्दू तिर्थस्थल मानसरोवर जाने यात्रु पनि यसै विमानस्थलबाट हिल्सा हुदै जाने गर्दछन। हाल यो विमानस्थललाई कर्णाली अन्चलको मुख्य सप्लाई कर्ताको रूपमा विकास गरिदैछ। याहा बाट कर्णाली अन्चलका सबै जिल्लामा हेल",
+    "यो विमानस्थलको नाम नेपाल सुर्खेत उपत्यकाको नामबाट राखिएको हो। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 600,
+    "text_length_avg": 213.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9903,
+      "Latin": 0.0097
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2279,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9903,
+      "Latin": 0.0097
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10446.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10446.txt",
+    "relative_path": "10446.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10446.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2279,
+    "mtime": 1782796444.647494,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "47bd9e3bdd740fb40cf7d5ff321475595a234aeb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

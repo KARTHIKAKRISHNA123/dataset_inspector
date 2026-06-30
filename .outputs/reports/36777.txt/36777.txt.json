@@ -1,0 +1,92 @@
+{
+  "dataset": "36777.txt",
+  "file_name": "36777.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "याे उच्च मा.वि. विर्ता बजारकाे दक्षिण कुनामा विर्तामाेड चन्द्रगडी सडककाे पश्चिमपटि अवस्थित छ । याे उच्च मा.वि. विर्तामाेड नगरपालिका 9 अनारमनि, झापामा पर्दछ ।",
+    "विद्यालयका प्राचार्य माेहनप्रसाद अाेलीका अनुसार यस विद्यालयकाे स्थापना वि.सं. 2014 मा भएकाे हाे । कक्षा 1 देखि कक्षा 12 सम्मका कक्षाहरू यस विद्यालयमा सञ्चालित छन् । यसबाहेक विद्यालयले नर्सरी कक्षा पनि चलाएकाे छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 212,
+    "text_length_avg": 184.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 967,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36777.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36777.txt",
+    "relative_path": "36777.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36777.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 967,
+    "mtime": 1782796567.0161905,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "29ce295f507295759b1df8fd763c12d71e6e190f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

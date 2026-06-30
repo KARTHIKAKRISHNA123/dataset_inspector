@@ -1,0 +1,94 @@
+{
+  "dataset": "19842.txt",
+  "file_name": "19842.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो रोग स्टेप्टोकक्स बेटा हेमोलाईटिकस नामक ब्याक्टेरियाले गर्दा हुने रोग हो। बाथज्वरो भएका बिरामीमा मुख्यतया घाँटी दुख्ने र ज्वरो आउने, ज्वरोसहित जोर्नीहरू दुख्ने र सुन्निने, ज्वरोसहित मुटु दुख्नेजस्ता समस्या देखिन्छन्। सामान्यतया, स्टेप थ्रोट )को सही उपचार हुन सकेन वा निवारण हुन सकेन भने यो रोगको विकास हुन्छ |",
+    "बाथज्वरो खासगरी 5 वर्षेखि 15 वर्षभत्रका बालबालिकामा बढी देखिने रोग हो। यो रोग 24 वर्षन्दा माथिको उमेरमा ज्यादै कम मात्रामा भएको पाइन्छ। यो रोग पुरुषभन्दा महिलाहरूमा बढी पाइएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 935,
+    "text_length_avg": 344.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8296,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19842.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19842.txt",
+    "relative_path": "19842.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19842.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8296,
+    "mtime": 1782796488.9149964,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b47c1f7dea6774e1cd348be03fe3fa615e6cf9e5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

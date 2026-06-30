@@ -1,0 +1,87 @@
+{
+  "dataset": "28185.txt",
+  "file_name": "28185.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "ascii",
+  "language_hint": null,
+  "dataset_type": "Unknown",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1991"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 4,
+    "text_length_avg": 4.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {},
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5,
+    "estimated_records": 1
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 1,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Unknown",
+    "confidence": 0.2,
+    "reasoning": "no language field, no translation columns, no scripted text observed",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": null,
+    "script_distribution": {},
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.0
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28185.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28185.txt",
+    "relative_path": "28185.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28185.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5,
+    "mtime": 1782796527.0136678,
+    "encoding": "ascii",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bc4823b66e3326b3b129dc059e7ee2ce0dcd2783",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

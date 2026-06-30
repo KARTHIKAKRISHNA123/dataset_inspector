@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21443.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "खेलकुद संघहरू र स्थापना वर्ष1) नेपाल क्रिकेट सङ्घ - वि.सं. 20042) नेपाल एमेच्योर एथलेटिक्स सङ्घ- वि.सं. 2007 3) अखिल नेपाल फुटबल सङ्घ- वि.सं. 2008 4) अखिल नेपाल टेबुलटेनिस सङ्घ- वि.सं. 2008 5) नेपाल हकि सङ्घ- वि.सं. 2011 6) अखिल नेपाल टेनिस सङ्घ- वि.सं. 2013 7) नेपाल बक्सिङ सङ्घ- वि.सं. 2033 8) नेपाल भलिबल सङ्घ- वि.सं. 2033 9) अखिल नेपाल कबड्डी सङ्घ- वि.सं. 2034 10) नेपाल बुद्धिचाल सङ्घ- वि.सं. 2037 11) नेपाल भारत्तोलन सङ्घ- वि.सं. 2037 12) नेपाल सुटिङ सङ्घ- वि.सं. 2037 13) नेपाल जिम्न्यास्टिक स"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1445,
+    "text_length_max": 1445,
+    "text_length_avg": 1445.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3134,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21443.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21443.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21443.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3134,
+    "mtime": 1782796629.1068556,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.942,
+    "sha1_quick": "937d407e591af4f2ebe1b19dd4a0dff5ca943f5b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

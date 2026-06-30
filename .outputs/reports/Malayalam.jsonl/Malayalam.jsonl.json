@@ -1,0 +1,101 @@
+{
+  "dataset": "Malayalam.jsonl",
+  "file_name": "Malayalam.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "ml",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ക്യാന്‍സറിനോട് പോരാടുന്ന കിസി, മാനി എന്നിവരുടെ ജീവിതമാണ് ചിത്രം പറയുന്നത്.",
+    "കല്ലിൽ കണ്ട അതേ രൂപം."
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 1770,
+    "text_length_avg": 67.02,
+    "duplicate_estimate": 380,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Malayalam": 0.9971,
+      "Latin": 0.0029,
+      "Arabic": 0.0,
+      "Tamil": 0.0,
+      "Devanagari": 0.0,
+      "Bengali": 0.0,
+      "Telugu": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1178447656,
+    "estimated_records": 18157619
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18157619,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Malayalam",
+    "languages_seen": [
+      "ml"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "ml",
+    "script_hint": "ml",
+    "dominant_script": "Malayalam",
+    "script_distribution": {
+      "Malayalam": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Malayalam.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Malayalam.jsonl",
+    "relative_path": "Malayalam.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Malayalam.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 1178447656,
+    "mtime": 1782734271.6057298,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "1156392310e3b47ed231f9e93ca14a3d8af529ff",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

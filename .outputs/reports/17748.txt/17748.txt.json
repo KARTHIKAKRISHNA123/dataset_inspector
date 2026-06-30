@@ -1,0 +1,91 @@
+{
+  "dataset": "17748.txt",
+  "file_name": "17748.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तिनाउ नदी नेपालको एक नदी हो। यसको उद्गम स्थल पाल्पा जिल्ला हो। यो नदी पाल्पा हुँदै रुपन्देही जिल्लामा आएको छ। यसको किनारा मा सिद्द बाबा धाम छ जहाँ भक्तालुजन हरु पूजा आजा गर्न जान्छन। अनि यसको किनार मा बुटवल बजार छ। किनारा मा क्रेसेर मिल हरु छन् जहाँ बाट गिट्टी ढुंगा बालुवा भारत तर्फ निकासी हुन्छ। बुटवल भल्बारी भैरहवा हुँदै यो नदि नेपाल को सिमाना देखि बाहिरिएको छ। अन्तत यो नदि भारत को उत्तर प्रदेश मा गएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 410,
+    "text_length_max": 410,
+    "text_length_avg": 410.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1081,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17748.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17748.txt",
+    "relative_path": "17748.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17748.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1081,
+    "mtime": 1782796478.8457227,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "92e20642b4b9e08aba50755274da6a5b059fc054",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

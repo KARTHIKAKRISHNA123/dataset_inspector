@@ -1,0 +1,92 @@
+{
+  "dataset": "32321.txt",
+  "file_name": "32321.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पानासोनिक निगम पहिले मात्सुसिता इलेक्ट्रिक इन्डस्ट्रियल कर्पोरेसन लिमिटेड को नामले चिनिने जापानको ओसाकामा मुख्यालय रहेको जापानी बहुराष्ट्रिय इलेक्ट्रोनिक्स कम्पनी हो।",
+    "पानासोनिक इलेक्ट्रोनिक्स उत्पादनहरूको लागि लोकप्रिय छ। यस कम्पनीको स्थापना सन् 1918 मा चिम अड्याउने भाँडोको निर्माण गर्नका लागि गरिएको थियो तर अहिले आएर यो कम्पनी सोनी, हिताची, तोसिबा र क्यानन इङ्कसँगै जापानको चौथौ ठूलो इलेक्ट्रोनिक्स उत्पादन गर्ने कम्पनी बन्न पुगेको छ। इलेक्ट्रोनिक्स उत्पादनबाहेक यस कम्पनीले गैर-इलेक्ट्रोनिक्स उत्पादनहरू र गृह नविकरणीय सेवाहरू प्रदान गर्ने गर्दछ। सन् 2012 को बजार सर्वेक्षण अनुसार पानासोनिक संसारकै चौथौ सबैभन्दा ठूलो टेलिभिजन निर्माता कम्पनी हो।"
+  ],
+  "statistics": {
+    "records_sampled": 75,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 721,
+    "text_length_avg": 225.52,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 44381,
+    "estimated_records": 196
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 196,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32321.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32321.txt",
+    "relative_path": "32321.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32321.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 44381,
+    "mtime": 1782796546.5745826,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3fb12ae07ad31ea1d7411621a8cfc1fd1b1e575d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

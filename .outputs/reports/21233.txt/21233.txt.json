@@ -1,0 +1,92 @@
+{
+  "dataset": "21233.txt",
+  "file_name": "21233.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिजी मन्दिर नवलपरासी जिल्लाको देवचुलि नगरपालिका दुम्कौलिमा अवस्थित रहेको छ। यो मन्दिर नवलपरासी जिल्लाकै एक प्रमुख मन्दिर हो। यस मन्दिर देवचुली नगरपालिकामा रहेको चौधरी उघोग ग्रामसँगै रहेको छ। पछिल्लो केही वर्षदेखि सिजी मन्दिर नवलपुर आउने हरेकको गन्तव्यको स्थल बन्ने गरेको छ। सिजी मन्दिर भनेर चिनीए पनि बास्तवमा सो मन्दिर श्री काञ्ची शङ्करा सदाशिव लिङ्गम्को नामले स्थापना गरिएको हो।",
+    "यस मन्दिरमा विशेषत बेलुकाको समयमा हेर्दा आन्दर र मन्दिरको सुन्दरता देख्न सकिन्छ। विभिन्न रङ्गका बत्तिले मन्दिरलाई थप आकर्षक बनाउने गर्दछ। यस मन्दिरमा एक स्थान हेदा फरक रङ्ग अर्को स्थानबाट हेदा अर्कै रङ्ग देखिने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 217,
+    "text_length_max": 417,
+    "text_length_avg": 336.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4549,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21233.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21233.txt",
+    "relative_path": "21233.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21233.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4549,
+    "mtime": 1782796495.46416,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "126f4ca8af3db534134ff3bdbe51636d8ed81344",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

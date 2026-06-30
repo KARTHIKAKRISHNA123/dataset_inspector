@@ -1,0 +1,92 @@
+{
+  "dataset": "13591.txt",
+  "file_name": "13591.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माछा पालन एउटा कृषि व्यवसाय हो । तराईका विभिन्न भूभागमा यो पेसा बढ्दो क्रममा छ ।माछा पोषणको रूपमा प्रयोग गरिने प्रोटिनको एक प्रमुख स्रोत हो । माछा सुपाच्य हुनुका साथै यसमा 15–20 प्रतिशत प्रोटिन पाइन्छ । यसको अलावा माछालाई सगुनको रूपमा लिइन्छ । माछालाई पोखरी, ताल, नदी, धान खेत तथा अन्य जलाशयहरूमा पालन् गरिन्छ । व्यावसायिक रूपमा पालिने माछाहरू हाल 7 प्रकारका रहेका छन्, जसमध्ये 3 स्वदेशी र 4 विदेशी जातका छन् ।",
+    "नेपालमा मत्स्यपालन प्राक्रितिक तथा नीजिस्तरमा रहेका जलाशयहरूमा गरिन्छ । नेपालमा करिब 6000 नदीनाला तथा नीजि पोखरीको कुल क्षेत्रफल 5131 हेक्टर रहेको छ । यसरी पोखरीहरूबाट 11975 मेटन र अन्य प्राक्रितिक जलाशयबाट 11230 मेटन गरी जम्मा 23205 मेटन माछा उत्पादन हुने गरेको छ ।नेपालमा मत्स्यपालन प्राक्रितिक तथा नीजिस्तरमा रहेका जलाशयहरूमा गरिन्छ । नेपालमा करिब 6000 नदीनाला तथा नीजि पोखरीको कुल क्षेत्रफल 5131 हेक्टर रहेको छ । यसरी पोखरीहरूबाट 11975 मेटन र अन्य प्राक्रितिक जलाशयबाट 11230 मेटन गरी जम्मा 23205 "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 410,
+    "text_length_max": 532,
+    "text_length_avg": 471.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2402,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13591.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13591.txt",
+    "relative_path": "13591.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13591.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2402,
+    "mtime": 1782796459.2467625,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a0ed2660ab076ae987e5d007a8703fe944754dc8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

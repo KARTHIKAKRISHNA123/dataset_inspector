@@ -1,0 +1,91 @@
+{
+  "dataset": "17070.txt",
+  "file_name": "17070.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फुलह्याम फुटबल क्लब फुलह्याम, पश्चिमि लन्डन, इङ्गल्याण्डमा आधारित एक पेशेवर संघ फुटबल क्लब हो । यो सन् 1897 मा स्थापित भएको थियोे र वर्तमानमा प्रिमियर लिग, अंग्रेजी फुटबलको शीर्ष तहमा प्रतिस्पर्धा गर्छन् । यो फुटबल लीगमा खेल्न लन्डनको सबैभन्दा पुरानो फुटबल टोली हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 266,
+    "text_length_max": 266,
+    "text_length_avg": 266.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 699,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17070.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17070.txt",
+    "relative_path": "17070.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17070.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 699,
+    "mtime": 1782796475.2456672,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "25a6c1a2c69c55313e2239d8ea0ba5776c32ce17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

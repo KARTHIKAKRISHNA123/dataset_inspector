@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6689.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजा कार्तविर्य अर्जुन  प्राचीन हैहाया राज्यको एक राजा थिए । यो राज्य नर्मदा नदीको किनारमा हालको भारतीय राज्य मध्य प्रदेशमा रहेको थियो । यो राज्यको राजधानी महिस्मतिमा रहेको थियो ।उनलाई सय हात भएका राजा र भगवान दत्तात्रेयका ठूला भक्त'को रुपमा बर्णन गरिएको छ । ",
+    "एक दिन सिकार खेल्दै कार्तविर्य अर्जुन राजा आफ्नो सेना सहित जमदग्नी ऋषीको आश्रममा पुगे । ऋषी जमदग्नीले पनि उनिहरूको राम्रो स्वागत गरे । राजा कार्तविर्यका सेनाको स्वागतको लागि चाहिने सबै सामान आश्रममा पालिएकी एक गाईबाट प्राप्त भएको थियो । यो देखेर राजा कार्तविर्यको मनमा ऋषीबाट ति गाई प्राप्त गर्ने विचार आयो । राजाले ऋषीसँग पहिले त गाई मागे तर जमदग्नीले आफ्नो जीवनयापन चलाएकी यी गाई न दिने आग्रह गरे । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 259,
+    "text_length_max": 609,
+    "text_length_avg": 423.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3380,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6689.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6689.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6689.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3380,
+    "mtime": 1782796669.153894,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0474f0608c5e7f7b0c208bf0232f76df48b1ab11",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

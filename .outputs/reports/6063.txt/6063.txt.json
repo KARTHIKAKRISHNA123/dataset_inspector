@@ -1,0 +1,92 @@
+{
+  "dataset": "6063.txt",
+  "file_name": "6063.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हेपाटाइटिस ए एक जीर्ण संक्रामक रोग हो जुन हेपाटाइटिस ए भाइरस को कारणले गर्दा कलेजो मा हुने गर्छ। धेरै मामिलाहरूमा केही मात्र लक्षणहरू देखिन गर्छ वा नदेखिन समेत सक्छ, विशेषगरी भर्खरका बच्चाहरूमा। लक्षण देखिने व्यक्तिहरूमा, संक्रमण भएको दुई देखि छ हप्ताको बीचमा लक्षण देखा पर्ने गर्छ। लक्षण देखिँदा सामान्यतया तिनीहरू आठ हप्तासम्म देखा परिरहन्छन् जसमा निम्न पर्न सक्छन्: वाकवाकी लाग्ने, वान्ता हुने, पखाला लाग्ने, छाला पहेँलो हुने, ज्वरो आउने, र पेट दुख्ने। लगभग 10–15% मानिसहरूले प्रारम्भिक संक्रमणपछि",
+    "यो सामान्यतया संक्रमित दिसा मिश्रित खानेकुरा खानाले वा त्यस्तो पानी पिउनाले फैलने गर्छ। पर्याप्त रूपमा नपकाइएका शीपदार माछा तुलनात्मक रूपमा यसको सामान्य स्रोत हो। यो संक्रमित व्यक्तिसँग नजिकबाट सम्पर्क गर्नाले पनि फैलन सक्छ। संक्रमित बालबालिकाहरूमा प्राय: लक्षणहरू नदेखिने भए तापनि, उनीहरूबाट यो संक्रमण अन्यहरूमा सर्न सक्छ। एकपटक संक्रमित भएपछि उक्त व्यक्ति जीवनभर यसबाट फेरि संक्रमित हुँदैन। यो रोग लागेको पत्ता लगाउनको लागि रगत परीक्षण गर्न आवश्यक हुन्छ किनभने यसका लक्षणहरू अन्य केही रोगहरू लाग्द"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 526,
+    "text_length_max": 742,
+    "text_length_avg": 629.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6695,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6063.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6063.txt",
+    "relative_path": "6063.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6063.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6695,
+    "mtime": 1782796587.9705992,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "126d7a492f7a02b1c55723c52b8390de2db7dd32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

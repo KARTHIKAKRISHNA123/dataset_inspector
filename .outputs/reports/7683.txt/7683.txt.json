@@ -1,0 +1,91 @@
+{
+  "dataset": "7683.txt",
+  "file_name": "7683.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टेरेन्स लुईस एक भारतीय डान्सर तथा कोरियोग्राफर हुन् जो समकालीन नृत्यमा विशेषज्ञ छन् । उनी कोरियोग्राफर र जजको रुपमा रियालिटी डान्स शृङ्खला....डान्स इण्डिया डान्स सिजन 1,2,3 का लागि जानिन्छन् । उनी मुम्बईमा आफ्नो 'टेरेन्स लुईस कनटेम्पोररी डान्स कम्पनी' चलाउँछन् जसले मुम्बई र विदेशमा नृत्य सम्मेलनको आयोजन गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 312,
+    "text_length_max": 312,
+    "text_length_avg": 312.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 821,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7683.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7683.txt",
+    "relative_path": "7683.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7683.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 821,
+    "mtime": 1782796595.6225874,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a6330463316d227918471a3f14ad933a3c884aa1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

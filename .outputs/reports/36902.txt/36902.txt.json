@@ -1,0 +1,94 @@
+{
+  "dataset": "36902.txt",
+  "file_name": "36902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो घाटि बसेको निको पार्न, भोक जगाउन र पिनासको उपचार गर्न प्रयोग गरिने सामान्य जडिबुटी हो| यदाकदा यो खानेकुरामा मसलाको रूपमा पनि प्रयोग हुन्छ| जापानी समाजमा यसलाई बीरताको प्रतीकको रूपमा पनि लिइन्छ | यसको स्वाद अलि परपराउने, पीरो र तीतो अनि र वासना सुगन्धित मिश्रण युक्त हुनाले अङ्ग्रेजीमा sweet flag भनिन्छ|",
+    "बोझो नेपालका हिमाली भेकका नदी, खोलानालातिर अक्सर समुद्री सतहभन्दा 2,000 मी. उचाईसम्म पनि अलि दलदल परेका ठाउँमा पाइन्छ। यो विरुवा जमीनमुनि रहेको काण्डबाट पल्हाई आउँछ। काण्ड जमीनमुनि समकोण भएर 20 से.मी. देखि 1 मी. सम्म फैलिएर रहेको हुन्छ। यो फिक्का सुन्तला वा खैरो गुलाफी रंगको र 0.6 देखि 2.0 से.मीको मोटाई भएको हुन्छ। यो काण्डलाई सजिलैसँग टुक्रा गर्न सकिन्छ। यसको भित्री भाग सेतो वा अलि गुलाफी रंगको हुन्छ। काण्डको माथिल्लो सतहमा मसिनो झुस हुन्छ र तल्लो सतहमा जरा झरी दाग बसेका हुन्छन्। यसको वासना सुग"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 547,
+    "text_length_avg": 207.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.994,
+      "Latin": 0.006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4861,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.994,
+      "Latin": 0.006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36902.txt",
+    "relative_path": "36902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36902.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4861,
+    "mtime": 1782796567.6509678,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "70b5222dde0af68b054b5fff7ea7af8834ade57f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

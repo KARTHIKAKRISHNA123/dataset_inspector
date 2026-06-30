@@ -1,0 +1,92 @@
+{
+  "dataset": "23618.txt",
+  "file_name": "23618.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मौदगल्य नेपाल, भारत तथा अन्य स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बीहरूको गोत्र हो। नेपालमा बसोबास गर्ने कोइराला, कुइंकेल, मुडुला कार्की, उप्रेती, सिंखडा, बेल्काणी, तिम्सिना, तिमल्सिना, बेल्बासे र बगालेको गोत्र मौद्गल्य हो। मौदगल्य छेत्री कुल्का राजा सुर्यवन्शी मुदगल्को 50 भाई छोरा मध्यका जेठा हुन भन्ने प्रमान श्रीमदभाग्वतमा पाइन्छ।",
+    "1- कोइराला"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 337,
+    "text_length_avg": 40.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1173,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23618.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23618.txt",
+    "relative_path": "23618.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23618.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1173,
+    "mtime": 1782796506.0134234,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.964,
+    "sha1_quick": "0276ff6f0abfceeff49f70081818a9285edc5b83",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

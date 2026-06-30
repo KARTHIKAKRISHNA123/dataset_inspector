@@ -1,0 +1,92 @@
+{
+  "dataset": "13473.txt",
+  "file_name": "13473.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पार्वती हिन्दु धर्मालम्बीकी देवी हुन । उनीलाई शक्ती, गौरी तथा हिन्दु धर्मका ठुला देवता महादेवकी पत्नी, भएकोले महादेवी पनि भनिन्छ । लक्ष्मी, सरस्वती र पार्वती गरि त्रिदेवी मानिन्छ ।",
+    "पर्वत भन्नाले संस्कृतमा हिमाल हो । उनलाई हिमावन को छोरी भएकी हुनाेले पार्वती नाम देखिएको हो । राजा पर्वत हिमालयको मानविकिकरण भएको बुझिन्छ र पार्वतीले \"हिमालको उनी\" भन्ने अर्थ जनाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 241,
+    "text_length_avg": 201.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1608,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13473.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13473.txt",
+    "relative_path": "13473.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13473.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1608,
+    "mtime": 1782796458.7309785,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cd2867df9303cbf5f846a1737bf8ef001ce37ba7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

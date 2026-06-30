@@ -1,0 +1,91 @@
+{
+  "dataset": "17816.txt",
+  "file_name": "17816.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अलेक्सान्दार फ्योदोरोभिच केरेन्स्की - रुसी एसेर नेता । सन् 1917को फरवरी पुँजीजीवी प्रजातन्त्रवादी क्रान्तिपश्चात् कानुनमन्त्री, रक्षामन्त्री र नौसेनामन्त्री बनेका थिए, त्यसपछि पुँजीजीवी अस्थायी सरकारका प्रधान र सर्वोच्च सेनापति बने । अक्टोबर समाजवादी क्रान्तिपश्चात् सोभियत सत्ताको विरुद्ध संघर्ष गर्दै रहे । सन् 1918मा भागेर विदेशतिर लागे ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 341,
+    "text_length_max": 341,
+    "text_length_avg": 341.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 912,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17816.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17816.txt",
+    "relative_path": "17816.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17816.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 912,
+    "mtime": 1782796479.2149343,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "2d8281e3aa0afddc757deafccfdb9c52949eb265",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

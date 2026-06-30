@@ -1,0 +1,92 @@
+{
+  "dataset": "37773.txt",
+  "file_name": "37773.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालगञ्जस्थित बागेश्वरीदेवी मन्दिरको सतीदेवीको जिब्रो पतन भई पीठ उत्पन्न भएको विश्वास छ। सतीदेवीको शक्तिले बागेश्वरीदेवी मन्दिर परिसरको पृथ्वी खाडल परेको धार्मिक किम्वदन्ति रहेको भए पनि उक्त खाडल कति गहिरो छ भन्ने यकिन हुन नसकेको बताइन्छ। साथै धार्मिक महत्वले प्रख्यात मानिने डोल्पास्थित त्रिपुरासुन्दरीसँग बागेश्वरीदेवी मन्दिरको नाम जोडिएको छ। ",
+    "वि. सं. 1267 भन्दाअघि सिद्धनाथ बाबा आफूले जिउँदै समाधि लिएर स्थापना गरेको बागेश्वरीदेवी मन्दिरको मुख्य पूजारीकारूपमा नाथ सम्प्रदाय रहने गरी तत्कालीन श्री 3 चन्द्र शमशेरबाट सनद-पत्र जारी भएबमोजिम 24 पुस्ताका रूपमा नाथ सम्प्रदायका महन्त पूजारी चन्द्रनाथ योगी रहनुभएको छ। भारत बलरामपुरका तत्कालीन महाराजा दीर्घविजय सिंहले वि. सं. 1267मा बागेश्वरी शक्तिपीठको दर्शन गरी खरको छानो राखेर जिर्णोद्वार गरेको दस्तावेज पाइन्छ। सिद्धनाथ बाबा आफ्ना शिष्यकासाथ धार्मिक भ्रमणमा आउँदा देवीले 'आफ्नो बासस्थान यहाँ रहे"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 346,
+    "text_length_max": 1829,
+    "text_length_avg": 1109.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8977,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37773.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37773.txt",
+    "relative_path": "37773.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37773.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8977,
+    "mtime": 1782796572.20488,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "fdacadfb82da3118a6b1fa003b81ee218b34c597",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

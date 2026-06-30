@@ -1,0 +1,92 @@
+{
+  "dataset": "28211.txt",
+  "file_name": "28211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिन्दू पञ्चाङ्गको एघारौं तिथिलाई एकादशी भनिन्छ । यो तिथि महिनामा दुई पल्ट आउँछ । पूर्णिमापछि र औंसी पछि। पूर्णिमापछि आउने एकादशीलाई कृष्ण पक्षको एकादशी र अमावस्यापछि आउने एकादशीलाई शुक्ल पक्षको एकादशी भनिन्छ । यी दुवै प्रकारका एकादशीहरूको हिन्दू सनातन संप्रदायमा धेरै महत्व छ । फाल्गुण महिनाको कृष्ण पक्षको एकादशीलाई विजया एकादशी भनिन्छ ।",
+    "विजय प्रदान गर्ने भएकाले फाल्गुण कृष्ण पक्ष एकादशीलाई विजया एकादशी भनिन्छ । भयंकर शत्रुहरूबाट घेरिएको अवस्थामा र पराजय सामुन्ने आइपुगेको अवस्थामा विजया नामक एकादशीले हजुरलाई विजय दिलाउने क्षमता राख्दछ । यस एकादशीका संबंधमा पद्म पुराण र स्कन्द पुराणमा अति सुन्दर वर्णन प्राप्त हुन्छ । यस एकादशीका बारेमा भगवान श्रीकृष्णले स्वयं अर्जुनलाई बताउनु भएको थियो । शास्त्रअनुसार जब भगवान राम माता सीताको खोजीमा लंका जादै हुनुहुन्थ्यो त्यस बेला मार्गमा समुद्र तर्नु पर्ने भएकाले समस्या उत्पन्न भयो । अनि भगवान "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 1624,
+    "text_length_avg": 981.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5256,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28211.txt",
+    "relative_path": "28211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5256,
+    "mtime": 1782796527.1581736,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.95,
+    "sha1_quick": "7c9dd9c5adec565627fe0ff64d4b29993ae8e22e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

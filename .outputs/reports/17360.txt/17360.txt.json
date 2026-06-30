@@ -1,0 +1,92 @@
+{
+  "dataset": "17360.txt",
+  "file_name": "17360.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मनाङ नेपालको पश्चिमाञ्चल विकास क्षेत्रको गण्डकी अञ्चलमा अवस्थित हिमालपारीको सुन्दर जिल्ला हो। नेपाल सरकारको मापदण्ड अनुसार अति दुर्गम जिल्ला अर्थात् \"क\" वर्गको जिल्लाको रूपमा मनाङ पर्दछ।",
+    "कुल क्षेत्रफल 2,246 वर्ग कि.मी. ओगटेको यस जिल्लाको सिमाना पूर्वमा गोरखा र लमजुङ, पश्चिममा मुस्ताङ र म्याग्दी, दक्षिणमा कास्की र लमजुङ तथा उत्तरमा चीनको स्वशासित क्षेत्र तिब्बत पर्दछ। जिल्लाको भौगोलिक सुन्दरताको वयान गर्दा अति नै लोभ लाग्दा दृश्यहरू, अग्ला भिराला पहाडहरू र उच्च हिमश्रृखलाहरू जस्ता विषेशताहरू भएको यस जिल्लामा पूर्वमा मनास्लु, पश्चिममा दामोदर, दक्षिणमा अन्नपूर्ण र लमजुङ हिमाल पर्दछन् भने उत्तरमा तिब्बतको पेरी र चीन हिमाल पर्दछन्। मनाङ जिल्ला थुप्रै स्वदेशी तथा विदेशी पर्यटक/पदयात्र"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 656,
+    "text_length_avg": 323.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4258,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17360.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17360.txt",
+    "relative_path": "17360.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17360.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4258,
+    "mtime": 1782796476.9899294,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fec5d3aaada0f629461412449136182f5cf07349",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

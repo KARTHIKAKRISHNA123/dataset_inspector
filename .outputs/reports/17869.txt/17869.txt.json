@@ -1,0 +1,92 @@
+{
+  "dataset": "17869.txt",
+  "file_name": "17869.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेकानिकल घडीको पेन्डुलम, प्रत्येक सेकेण्ड टिकटिक गर्दै",
+    "सेकेण्ड समयको एसआइ एकाइ हो । सामान्य रुपमा र पहिल्यै देखि एक सेकेण्ड भन्नाले एक दिनको 1⁄86400 अंश भनेर बुझिन्छ । मेकानिकल तथा इलेक्ट्रिक घडीमा प्राय: 60 वटा टिक मार्क हुन्छ, जसले सेकेण्ड र मिनेटलाई जनाउँछ । सेकेण्ड अन्य कयौं व्युत्पन्न एकाईहरुको समेत अंश हो जस्तै : गतिको मिटर प्रति सेकेण्ड, प्रवेगको मिटर प्रति सेकेण्ड प्रति सेकेण्ड, र फ्रिक्वेन्सी को प्रति सेकेण्ड ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 368,
+    "text_length_avg": 211.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1104,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17869.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17869.txt",
+    "relative_path": "17869.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17869.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1104,
+    "mtime": 1782796479.4601872,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "494cead1136235658ecd2d2967f216d04541b792",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

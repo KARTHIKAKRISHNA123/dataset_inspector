@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27869.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिल्ला बैतडी पाटन नगरपालीका वार्ड नं.12 उपल्लो सोराढ क्षेत्रमा अवस्थित डडेल्धुरा-वैतडी दशरथ चन्द राजमार्ग नजिक रहेको भगभाट/सिद्धनाथ देवताको प्रसिद्ध मन्दिर रहेको छ ।",
+    "श्री गणेशाय नमःश्री सिद्धनाथ, भगभाट व्रह्मराज देवताको ऐतिहासिक परम्पराको मूल बहिपाटो एवम् माङ्गलिक प्रससत्तिःकहाँन उबजी गया चन्द्र सुरिज ? पुरब उबजी गया चन्द्र सुरिज ।कहाँन उबजी शिद्धनाथ देउ ? कैलाश उबजी गया शिद्धनाथ देउ ।कहाँन उबजी गया व्रह्मराज देउ ? भूकोट उबजी गया भगभाट देउ ।तल छ भाटनी सेरो माथि मुसे पानी । जलदल पानी आयो आँसु धारी वामरानी ।।पंच गातडीको गौदान दिइलो । आस गुसाई भगभाट मेरी साग भाग ।।श्री सिद्धनाथ देवताभ्यो नमः, श्री भुमिराज देवताभ्यो नमः, श्री भगभाट व्रह्मराज देवताभ्यो नमो नम्, व"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 149,
+    "text_length_max": 6801,
+    "text_length_avg": 1578.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20499,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27869.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27869.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27869.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20499,
+    "mtime": 1782796641.975208,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "167dcfef9048f4fe87224d05e94a8f0a8dd6c591",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

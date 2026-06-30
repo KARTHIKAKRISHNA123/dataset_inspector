@@ -1,0 +1,91 @@
+{
+  "dataset": "1172.txt",
+  "file_name": "1172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरी तिब्बतको 8 हजारदेखि 12 हजार फिटको उचाइमा रहेको चाङटाङ मरुभूमि वरिपरि र उत्तरी लद्दाख क्षेत्रमा पाइने चिरु हरिण प्रजातिको जनावर हो। यो कालो अनुहार, सेतो वा हल्का रातो रंगको रौँले ढाकिएको हुन्छ। चिरुको ह्याकुलाको रौँ मात्रै सल बनाउनका लागि उपयुक्त हुन्छ, जसका लागि चिरुलाई मार्नैपर्ने हुन्छ। चिरुको रौँलाई ऊनको राजा मानिएको छ। चारवटा चिरुका रौँबाट एउटा सल बनाउन सकिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 374,
+    "text_length_max": 374,
+    "text_length_avg": 374.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 997,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1172.txt",
+    "relative_path": "1172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1172.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 997,
+    "mtime": 1782796450.6967635,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bac791e41ec3f4d3a2916ba4eb7ded29716f76ce",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "13781.txt",
+  "file_name": "13781.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रानी रामपाल भारतकी एक हकी खिलाडी हुन्। उनी भारतीय हकी की 'रानी' भनिने गर्छिन् । 2010 विश्व कपमा भाग लिने वाली भारतीय हकी टिमकी उनी सबसे कम उमेरकी खेलाडी थिइन्।",
+    "हरियाणाको शाहबाद मारकंडाकी निवासी रानीको कथा आफ्नो हिम्मतको बलमा सारा कष्टहरूसँग सन्घर्ष गरेर विजयी हुने कथा हो। रानीको पिता आजीविको लागि तांगा चलाउने गर्थे।परिवारमा भाई-बहिनीहरुमा रानी सबैभन्दा सानी हुन्। रानीको दुई ठुला दाइहरू छन्। आफ्नु प्रदर्शन पश्चात रानीले रेलवेम क्लर्कको काम प्राप्त गरिन र टिमको साथमा परिवारको पनि जिम्मेदारी सम्हालिन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 159,
+    "text_length_max": 343,
+    "text_length_avg": 251.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1338,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13781.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13781.txt",
+    "relative_path": "13781.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13781.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1338,
+    "mtime": 1782796460.1168406,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fce9e0b2680b6a02e5873fd64ba9fa1db7e540bf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

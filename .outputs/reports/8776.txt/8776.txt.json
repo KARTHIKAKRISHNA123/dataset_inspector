@@ -1,0 +1,94 @@
+{
+  "dataset": "8776.txt",
+  "file_name": "8776.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय महिला आयोग नेपालका महिलाको क्षेत्रमा काम गर्ने आयोग हो। यो आयोगले महिला हिंसा, मानव अधिकार लगायतका क्षेत्रमा उजूरी लिने तथा कार्य सम्पादन गर्ने गर्दछ।",
+    "देशको आधाभन्दा बढि जनसंख्या रहेका महिलाहरूलाई देश विकासको मूलप्रवाहमा सक्रिय बनाउने उदेश्यले तत्कालिन श्री 5को सरकारले 92 औ अन्तर्राष्ट्रिय नारी दिवसको अवशरमा वि स 2058 साल फाल्गुन 23 गते डा. दुर्गा पोखरेलको अध्यक्षतामा राष्ट्रिय महिला आयोगको गठन भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 369,
+    "text_length_avg": 191.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9941,
+      "Latin": 0.0059
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6536,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9941,
+      "Latin": 0.0059
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8776.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8776.txt",
+    "relative_path": "8776.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8776.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6536,
+    "mtime": 1782796600.9340065,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "66ed5a010e1555a7b114abd083dc1aa1cb9420bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36516.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल कम्युनिष्ट पार्टी नेपालमा 11 वर्षे सशत्र युद्ध गरेपछि संविधानसभाको पहिलो चुनावमा पहिलो पार्टी, दोस्रो संविधानसभा पश्चात् तेस्रो ठूलो दल स्थापित भएको पार्टी हो । यसका अध्यक्ष क. पुष्पकमल दाहाल प्रचण्ड हुन्। यसको केन्द्रीय कार्यालय कोटेश्वर स्थित पेरिस डाँडामा रहेको छ। मार्क्सवाद, लेनिनवाद, माओवाद पार्टका सिद्धान्त मानिएका छन् ।",
+    "2040 साल मंशीरमा निर्मल लामाको नेतृत्वमा चौमको राष्ट्रिय सम्मेलन आयोजक कमिटी गठन भयो । 2041 फागुनमा सम्मेलन गरी चौमका महामन्त्री निर्मल लामा बने, यो समुह 2046 सालको जनआन्दोलनमा संयुक्त रुपमा सहभागी भई संघर्षमा होमियो । "
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 123,
+    "text_length_max": 1379,
+    "text_length_avg": 665.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 26088,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36516.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36516.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36516.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 26088,
+    "mtime": 1782796659.4671843,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.98,
+    "sha1_quick": "aa559b3d394ea291b2cf5a4a59a2f7dee86a90c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

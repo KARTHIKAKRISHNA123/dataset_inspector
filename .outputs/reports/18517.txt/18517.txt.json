@@ -1,0 +1,92 @@
+{
+  "dataset": "18517.txt",
+  "file_name": "18517.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राधिका आप्टे सेप्टेम्बर 7, 1985 ) एक भारतीय अभिनेत्री हुन्। उनको जन्म पुणेमा 7 सेप्टेम्बर 1985मा भएको थियो। उनीले हिन्दी, बङ्गाली, मराठी, तेलुगू र मलयालम भाषामा धेरै चलचित्रमा काम गरि सकेकी छिन्।",
+    "उनीले आफ्नु अभिनयको शुरुआत एक बलिउड चलचित्र वाह लाइफ हो तो ऐसीमा एक छोटो र सानु किरदार लाई निभाउनबाट गरिन्। जसको पश्चात उनीले अन्य भाषाको चलचित्रमा कार्य गर्न शुरू गरिन्। उनीले श्रीराम राघवन द्वारा निर्देशित बदलापुर चलचित्रमा पनि कार्य गरि सकेकी छिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 195,
+    "text_length_max": 251,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1166,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18517.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18517.txt",
+    "relative_path": "18517.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18517.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1166,
+    "mtime": 1782796482.4270687,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "3a8e428044676d43c643b9f8169979b6309642cd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

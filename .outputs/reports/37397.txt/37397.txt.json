@@ -1,0 +1,92 @@
+{
+  "dataset": "37397.txt",
+  "file_name": "37397.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौ उपत्यका भित्र तीन शहरको वरिपरि रहेको ग्रामिण ईलाका लाई काँठ भन्ने गरिन्थ्यो| आजभोलि शहरिकरणको कारण भौगोलिक रूप काँठ र शहरको त्यस्तो विभेद देखिदैन| ",
+    "पहिले पहिले काठमाडौ शहर केन्द्रबाट उपत्यका भित्र का आधा विहान विहानको पैदल वाटो भन्दा टाढा रहेका गाउलाई काँठ भन्ने गरिएको पनि देखिन्छ|तर समयक्रममा काँठको भौगोलिक सिमाना सर्दै गएको देहिन्छ|उदाहरणको लागि,आजभोलिको महाराजगञ्ज क्षेत्र, सय वर्ष अघि सम्म काँठ कहलिन्थ्यो भने, चन्द्र शमशेरले आफ्ना छोरा हरूको लागि त्यस वरपर दरवार बनाए पछि, काँठ सरेर वासवारी तिर पुगेको देखिन्छ| तत्पश्चात 2020 तिर वासवारीमा शह्वरिकरण भए पछि काठ सरेर बुढानीलकण्ठ तिर पुगेको देखिन्छ|यसको अलावा शह्वरिकरण भएको छेत्रको नजीकै का व"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 143,
+    "text_length_max": 714,
+    "text_length_avg": 337.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2691,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37397.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37397.txt",
+    "relative_path": "37397.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37397.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2691,
+    "mtime": 1782796570.0470285,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d348725a2fd5b7780bc6dacb9575754f64845bd7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

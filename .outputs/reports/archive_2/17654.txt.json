@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17654.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्लोनिङ कुनै जीवको पूर्ण प्रतिरूप तयार पार्ने अयौनिक प्रजनन प्रक्रिया हो। आनुवंशिक तत्व एकैनासको हुने भएकाले प्रतिरूप बनाउन प्रयोग हुने मानव र तिनको प्रतिरूपको अनुहार र व्यवहारमा ठूलो समानता पाइने वैज्ञानिकहरू विश्वास गर्छन्। ",
+    "मानिसले हजारौँ वर्षदेखि वनस्पतिको क्लोनिङ सफलतापूर्वक गर्दै आएको भए पनि प्राणीको क्लोनिङ गर्ने कार्य त्यति सजिलो थिएन। प्रयोगशालामा प्राणीको क्लोनिङ गर्ने प्रयास सन् 1880को दशकमा पहिलोपल्ट सुरु भएको थियो। जर्मन प्राणीशास्त्री हान्स ड्राइस पहिलोपल्ट एक प्रकारको समुद्री जीव को विकसित हुँदै गरेको भू्रणका दुई कोषलाई छुट्ट्याएर प्रत्येक कोषलाई पूर्ण जीवमा विकसित गर्न सफल भएका थिए। अर्का जर्मन प्राणीशास्त्री हान्स स्पेमानले सन् 1902मा यही प्रक्रिया माउसुलीमा दोहर्‍याएर देखाएका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 226,
+    "text_length_max": 1543,
+    "text_length_avg": 703.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16950,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17654.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17654.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17654.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16950,
+    "mtime": 1782796621.7506127,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "03d88985a1528a8d0e3bbf735d495aec07605792",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

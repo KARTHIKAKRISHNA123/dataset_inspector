@@ -1,0 +1,92 @@
+{
+  "dataset": "28720.txt",
+  "file_name": "28720.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "छारे रोग मानिसलाई मात्र नभएर पशु समेतमा देखा पर्ने एक किसिमको मानसिक रोग हो। यो रोगलाई मृगी, चडिफाउ, फफडके, रिङ्ने, आदी विभिन्न नामहरू दिएको पनि पाइन्छ। प्राय जसो कमजोर दिल भएका व्याक्तीहरूलाई छारे रोगको रोगको सम्भावना बढी हुने अनुमान गरिएको छ। यो रोग लाग्ने रोगीले कहिले कतिखेर र कहाँ लाग्न सक्छ भन्ने पूर्वानुमान गर्न सक्दैन तर पनि धेरै मानिसको भेला, रंगी विरंगी कपडा, आँखा तिरमिराउने घाम, नदीमा उफ्री रहेको पानी र पञ्चेबाजाको धुन सुने पछि यो रोगका रोगीहरू अचानक मुर्छा अवस्थामा भएर लडेको देखिन्छ। ",
+    "छारे रोग एक दिमागी दौरा हो यदी यो रोगको रोगीले अचानक आँखा तिर्मिराउने र मन झस्किने संयोग पाएमा एक्कासी मुर्छा भएर ढल्न पुग्छ। उत्तानो परि सके पछि हात खुट्टा छटपाउँछ। केही बेर हात खुट्टा छटपटाएर मुखबाट राल छोडेर करिब आधा घण्टा सम्म रोगी वेहोस हुन्छ। यो समयमा रोगीलाई छोयो भने अरुलाई सर्न सक्छ भन्ने जन विस्वास पनि रहेको छ। करिब आधा घण्टा पछि रोगीलाई होस आउँछ।="
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 359,
+    "text_length_max": 793,
+    "text_length_avg": 576.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3040,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28720.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28720.txt",
+    "relative_path": "28720.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28720.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3040,
+    "mtime": 1782796529.5322776,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e53cc39006a033fb5334a27372b703f1c4584cf8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

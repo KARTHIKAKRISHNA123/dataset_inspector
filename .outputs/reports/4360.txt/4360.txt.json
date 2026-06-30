@@ -1,0 +1,91 @@
+{
+  "dataset": "4360.txt",
+  "file_name": "4360.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कालीप्रसाद बाँसकोटा नेपालका गायक तथा सङ्गीतकार हुन्। अाफ्नो सङ्गीत तथा स्वर रहेको त्यो पारि डाँडामा घाम लाग्यो घमाइलो बोलको पहिलो गीत निकै सफलता पाएसँगै उनी चर्चामा अाएका हुन्। उनले विसं 2072 सालमा नवप्रतिभातर्फ छिन्नलता गीत पुरस्कार प्राप्त गरे। हाल उनी टेलिभिजन कार्यक्रम नेपाल आइडलका निर्णायकका रूपमा पनि काम गरिरहेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 325,
+    "text_length_max": 325,
+    "text_length_avg": 325.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 872,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4360.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4360.txt",
+    "relative_path": "4360.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4360.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 872,
+    "mtime": 1782796579.3732982,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9ccd81fac8d43f1c248c6d8d7eebe63c205acca4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "12473.txt",
+  "file_name": "12473.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिडियाविकी एक स्वतन्त्र सफ्टवेयर र खुला स्रोत विकी अनुप्रयोग हो जुन विकी वेबसाइट चलाउने काम आउँछ, जस्तै विकिपिडिया, विकिस्नरी तथा विकिमीडिया कमन्स । यसलाई मुख्य रूपमा विकिमिडिया फाउन्डेसनद्वारा विकिसित गरिएको हो । यो कयौं अरु हजारौं वेबसाइटलाई चलाउने काममा लिइन्छ । यो पीएचपी प्रोग्रामिंग भाषामा लेखिएको छ र एक बैकएंड डेटाबेसको उपयोग गर्दछ ।",
+    "मीडियाविकिलाई धेरै सक्रिय योगदानकर्ता मिलेर यसको विकास तथा रखरखावको कार्य गर्दछन् । उतै प्रयोगकर्ताहरू यसमा धेरै उपयोगी योगदान पनि गर्दछन् । यसमा पेचको लागि गिट/गेरिटको उपयोग गरिन्छ । यसका अतिरिक्त मिडियाविकिका केही साना समूहलाई विकिमीडिया संस्थान पैसा दिएर यसलाई काम गराउछन् । नवम्बर 2012 मा करिब 200 जना विकासकर्ताहरूले यसको विकास गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 300,
+    "text_length_max": 720,
+    "text_length_avg": 406.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5362,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12473.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12473.txt",
+    "relative_path": "12473.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12473.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5362,
+    "mtime": 1782796454.1460826,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a98617563fa765a57a60ecc4b9783a411250b436",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

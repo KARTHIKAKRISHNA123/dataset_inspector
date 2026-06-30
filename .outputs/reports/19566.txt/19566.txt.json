@@ -1,0 +1,94 @@
+{
+  "dataset": "19566.txt",
+  "file_name": "19566.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जन्मको आधारमा नागरिकता, यस्तो अधिकार हो जसले कुनै देशको भूभागमा जन्मेका बालबालिकालाई सो देशको नागरिकता र रा्ष्ट्रियता प्रदान गर्दछ। कुनै रास्ट्रको भूभाग मात्र नभई, त्यस देशको ध्व्जाबाहक पानीजहाज वा हवाइजहाजमा जन्मेका बालबालिकालाई समेत नागरिकता दीइन्छ।",
+    "उन्नाइसौ सताब्दि लाग्नेबित्तिकै देखि रास्ट्रहरू जन्मको आधारमा नागरिकता दिने र रगतको नाताको आधारमा दिने दुई वर्गमा छुट्टिन थाले। जस्तै फ्रान्सले जन्मको आधारमा नागरिकता दिन्थ्यो भने, जर्मनीले रगतको नाता नभई नागरिकता दिदैनथ्यो। तैपनि धेरै युरोपेली देशहरूले वर्ण र भाषालाई आधार मान्दथे।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 282,
+    "text_length_avg": 128.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1735,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19566.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19566.txt",
+    "relative_path": "19566.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19566.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1735,
+    "mtime": 1782796487.640591,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "34cdc9557ae6c1552e5e2b0fe26921ed1641e657",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

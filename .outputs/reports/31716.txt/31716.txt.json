@@ -1,0 +1,94 @@
+{
+  "dataset": "31716.txt",
+  "file_name": "31716.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकिपिडिया एसियाली महिना एक अनलाइन सम्पादन-थन प्रतियोगिता हो जसले एसियाली राष्ट्रहरूका विकिपिडिया समुदायहरू बिच समझदारी बढाउने उद्देश्यका साथ सञ्चालन गर्न थालिएको हो । यो सम्पादन-थन नोभेम्बर 2016 भरि हुनेछ र यसको उद्देश्य विकिपिडियामा एसियाली राष्ट्रहरूको पृष्ठहरूको सङ्ख्या तथा गुणस्तर सुधार गर्ने रहेको छ । यस कार्यक्रमको पूर्व संस्करणमा 43 भाषाहरूमा 7,000 लेखहरूमा योगदान भएको थियो । ",
+    "विकिपिडियाको एसियाली समुदायहरू बिचको मित्रता स्वरूप हरेक सहभागीहरू जसले तल दिइएको शर्तहरू पूरा गरि कम्तीमा चार लेखहरू निर्माण गर्नेछ, उनीहरूलाई अर्को सहभागी राष्ट्रबाट विशेष रूपमा तयार गरिएको विकिपिडिया पोस्टकार्डहरू प्रदान गरिनेछ । "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 387,
+    "text_length_avg": 139.64,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.985,
+      "Latin": 0.015
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4047,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.985,
+      "Latin": 0.015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31716.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31716.txt",
+    "relative_path": "31716.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31716.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4047,
+    "mtime": 1782796543.872472,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "437a9717ad87763c1aa8cfdc5153bba095bc2836",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

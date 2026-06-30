@@ -1,0 +1,92 @@
+{
+  "dataset": "11283.txt",
+  "file_name": "11283.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्णा ठाकुर ",
+    "कृष्णा ठाकुर संविधान सभामा नेपाली कांग्रेसबाट समानुपातिकतर्फ प्रतिनिधित्व गर्नुहुन्छ। उहाँ नेपाली कांग्रेसका महाधिवेशन प्रतिनिधि तथा धनुषा जिल्ला समिति सदस्य हुनुहुन्छ। सभासद ठाकुरले आफ्ना श्रीमान् बुद्धिराम ठाकुरको प्रेरणाले 2046 सालमा नेपाली काङ्ग्रेस मार्फत राजनीतिमा प्रवेश गर्नुभएको हो र निरन्तर सोही पार्टीमा क्रियाशील हुनुहुन्छ। यस अघिका संसदीय चुनावहरूमा उहाँ सहभागी हुनुभएको छैन। जनआन्दोलन 2 मा सक्रिय रहँदा पक्राउ परेर उहाँ हिरासतमा रहिसक्नुभएको छ। उहाँ नेपाल महिला सङ्घ का समेत सदस्य हुनुह"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 873,
+    "text_length_avg": 443.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2407,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11283.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11283.txt",
+    "relative_path": "11283.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11283.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2407,
+    "mtime": 1782796448.669744,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "76479b6b3dd44d9accbca063b98d9e695d8574b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

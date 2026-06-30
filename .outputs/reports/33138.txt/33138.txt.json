@@ -1,0 +1,92 @@
+{
+  "dataset": "33138.txt",
+  "file_name": "33138.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अभिजाततन्त्र त्यो शासनतन्त्र हो जसमा राजनीतिक सत्ता अभिजनका हातमा हो। यस सन्दर्भमा \"अभिजन\"को अर्थ हो कुलीन, विद्वान, सद्गुणी, उत्कृष्ट। पश्चिममा \"अरिस्टक्रैसी\"को अर्थ पनि लगभग यही हो। अफलातून र उनको शिष्य अरस्तूले आफ्नो पुस्तकहरूमा अरिस्टाक्रैसीलाई बुद्धिमान, सद्गुणी व्यक्तिहरूको शासनतन्त्र मानेका छन्।",
+    "अभिजाततन्त्रको उल्लेख प्राय: अनेक देशहरूका इतिहासमा भेटिन्छ। विद्वानहरूको मत हो कि भारतमा पनि प्राचीन कालमा केही अभिजाततन्त्र थिए। अफलातूनको सुविख्यात पुस्तक \"रिपब्लिक\"मा वर्णित आदर्श नगरव्वयस्था सर्वज्ञ दार्शनिकहरूको अभिजाततन्त्र हो। यिनी दार्शनिकहरूको लागि अफलातूनले कौटुंबिक र सम्पत्ति सम्बन्धी साम्यवादको व्यवस्थाको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 801,
+    "text_length_avg": 369.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4989,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33138.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33138.txt",
+    "relative_path": "33138.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33138.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4989,
+    "mtime": 1782796550.226609,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "53addadc16edbffb20467d4a3f0968a080179a10",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "26534.txt",
+  "file_name": "26534.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्काउटङको साधारण जानकारी हासिल गर्न सर्वप्रथम सदस्यता लिनु अनिवार्य छ, सदस्यता लिदा दिईने ब्याजलाई सदस्यता ब्याज भनिन्छ । सदस्यता ब्याज स्काउटहरुलाई दिक्षा दिदा दिइन्छ ।यो ब्याजको भूमी निलो हुन्छ । निलो रंगले स्काउटहरु आकाश जस्तै विश्व भरि फैलिएका छन् भन्ने कुरा जनाउँछ ।यस ब्याजलाई वरिपरी गोलो धागोले बेरिएको हुन्छ जसको अर्थ स्काउटहरु निश्चीत सिमा भित्र बाधिएका हुन्छन् भन्ने कुरा जनाउँछ । ",
+    "यस ब्याजको भित्र रुख र रुख भित्र तारा र तारा भित्र चन्द्र सूर्यलाई देखाईएको छ । यस ब्याजमा रहेको रुखले स्काउटहरु रुख जस्तै शितलता प्रदान गर्न सदा तत्पर हुन्छन् भन्ने कुराजनाउछ र यस भित्र रहेको तारा र तारा भित्र रहेको चन्द्र र सूर्यले स्काउटहरु चन्द्र र सूर्य जस्तै सदा आकाशमा चम्कीरहेका हुन्छन् भन्ने कुरा जनाउँछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 391,
+    "text_length_avg": 352.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1883,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26534.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26534.txt",
+    "relative_path": "26534.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26534.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1883,
+    "mtime": 1782796519.5573916,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "735521206503b86ff904aaa53c216d5cc535ac5d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

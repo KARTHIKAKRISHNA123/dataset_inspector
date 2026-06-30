@@ -1,0 +1,94 @@
+{
+  "dataset": "26366.txt",
+  "file_name": "26366.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वर्डप्रेस एउटा ब्लग सफ्टवेयर हो । वर्डप्रेस प्राविधिक रूपमा सर्वश्रेष्ठ ब्लगिङ प्लेटफर्म हो । यो PHP मा लेखिएको छ र यसले डाटाबेसको लागि MySQL को प्रयोग गर्दछ । ",
+    "वर्डप्रेस एउटा मुफ्त अर्थात मुफ्त स्रोत सफ्टवेयर हो जुन GNU Public License|लाईसेन्स अन्तरगत बनाईएको छ । यस सफ्टवेयरलाई वर्डप्रेस को आधिकारीक वेबसाईटबाट डाउनलोड गर्न सकिन्छ । डाउनलोड गरीसकेपछि यसलाई आफ्नो वेबसर्वरमा स्थापित गर्नु पर्दछ । वर्डप्रेसको नयाँ संस्करण 4.0.1 हो जुन 20 नोवेम्बर 2014 मा रिलीज भएको थियो । "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 34,
+    "text_length_max": 313,
+    "text_length_avg": 193.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9293,
+      "Latin": 0.0707
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4944,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9293,
+      "Latin": 0.0707
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26366.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26366.txt",
+    "relative_path": "26366.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26366.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4944,
+    "mtime": 1782796518.7839339,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6469f8c185a58116bbca46b96754544893ea4ecf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "11150.txt",
+  "file_name": "11150.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टर्बाइन  एक रोटरी यांत्रिक उपकरण हो जसले ऊर्जालाई तरल प्रवाहबाट निकाल्छ र यसलाई उपयोगी काममा बदल्छ। एक टर्बाइन द्वारा निर्मित काम बिजुली शक्ति उत्पन्न गर्न को लागी जब जेनरेटर को मामला मा एक जनरेटर या उत्पादन जोर संग संयुक्त को लागि प्रयोग गर्न सकिन्छ। एक टर्बाइन एक रोटर विधान भनिन्छ कम्तिमा एक चलिरहेको भाग संग टर्बोम्याचिन हो, जुन संलग्न ब्लेड संग शफ्ट वा ड्रम हो। ब्लेडहरूमा तरल पदार्थको कार्यवाही चलाउन ताकि तिनीहरू रोटरमा घुमात्मक ऊर्जा उत्प्रेरित गर्छ र उत्प्रेरित गर्छ। प्रारम्भिक टर्बाइन उदाह",
+    "ग्याँस, वाष्प, र पानी टरबाइनहरू ब्लेडको वरिपरि आवरण गर्दछ जसले तरल पदार्थ नियन्त्रण गर्दछ। वाष्प टर्बाइनको आविष्कारको लागि श्रेय ब्रिटिश ईन्जिनियरिङ् सर चार्ल्स पर्र्सन दिइन्छ र आवेग टर्बाइनको आविष्कारको लागि स्विडिश इन्जिनियर ग्यासफ डे लावल लाई दिएको छ। आधुनिक वाष्प टर्बाइनहरू प्राय: एउटै इकाईमा प्रतिक्रिया र आवेग दुवै रोज्दछन्, सामान्यतया भिन्नताको प्रतिक्रिया र अनुहार ब्लेडबाट यसको परिधिमा भिन्न हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 408,
+    "text_length_max": 535,
+    "text_length_avg": 471.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9747,
+      "Latin": 0.0253
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2489,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9747,
+      "Latin": 0.0253
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11150.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11150.txt",
+    "relative_path": "11150.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11150.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2489,
+    "mtime": 1782796448.029737,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "00fca8596fe9bcb1cb3a6037c470e039c887f9ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

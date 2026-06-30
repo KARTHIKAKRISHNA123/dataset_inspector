@@ -1,0 +1,94 @@
+{
+  "dataset": "36947.txt",
+  "file_name": "36947.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व जनसंख्या फाउंडेशन सन् 1987मा निदरलण्डमा स्थापना भएको हो। जसको उदेश्य उच्च जन्मदर, जनसङ्ख्या बृद्धि, मातृस्वास्थ्य,शिशु मृत्यु जस्ता जनसङ्ख्यासँग सम्बन्धित समस्यालाई समाधान गर्दै विश्वको गरिवी निवारण र जीवन स्तर सुधार गर्नु रहेको छ।",
+    "विश्व जनसंख्या फाउण्डेशन 1987मा नेदरल्याण्डमा डायना र रोए डब्ल्यू ब्राउन द्वारा स्थापित भएको संस्था हो। यसको उद्देश्य समुदायमाउच्च जन्म दर, शिशु मृत्यु दर, तीब्र जनसंख्या वृद्धि, मातृ मृत्युदर आदि विषयमा ध्यानाकर्षण गर्ने सङ्गठन निर्माण गर्नु थियो। आफ्नो उद्देश्यको लागि एक सङ्गठन बनाउनको लागि यी विषयहरूको प्रभाव तिर ध्यान आकर्षित गर्नऽ पर्यावरण, परियोजनाहरू र कार्यक्रमहरूको लागि स्रोत र साधन जुटाउनु र यसको अन्तिम लक्ष्य संसारको गरीबी कम गर्न र विश्वको सबै भन्दा गरीब मानिसको जीवनस्तर सुधार गर्नु "
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 512,
+    "text_length_avg": 204.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9412,
+      "Latin": 0.0588
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6348,
+    "estimated_records": 30
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 30,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9412,
+      "Latin": 0.0588
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36947.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36947.txt",
+    "relative_path": "36947.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36947.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6348,
+    "mtime": 1782796567.8490174,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.987,
+    "sha1_quick": "5204e63b94f4ee54c4f89c7921112da18ae0fbd8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

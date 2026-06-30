@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31490.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भूमे पूजालाई कसै कसैले बलपूजा भनेर पनि भन्ने गर्दछन, तर अधिकांश खाम क्षेत्रमा यसलाई भूमे नै भनेर चिनिन्छ | भूमे भन्ने शब्द भूमी अर्थात् जमीनबाट अपभ्रम्सित भएर आएको हो | खाम क्षेत्रका मगरहरू कुनै देवी देउताको भन्दा बढी आफ्ना पुर्खा र प्रकृतिको बढी पूजा गर्दछन | भूमी बराहा, सिद्ध बराहा आदिको पूजा गर्नु यसका उदाहरणहरू हुन् | यसै क्रममा हरेक बर्ष वर्षा ऋतु लाग्नु भन्दा पहिले खाम मगरहरूले बाढी पहिरो, हुरी बतास जस्ता प्राकृतिक प्रकोपबाट बच्नलाई र राम्रो खेतीपातीको कामना गर्दै भूमी माताको असार मसान्तमा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 672,
+    "text_length_max": 672,
+    "text_length_avg": 672.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1775,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31490.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31490.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31490.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1775,
+    "mtime": 1782796649.0880704,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d4afdb751e8f582a4c86386e79ccfce92e21f415",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

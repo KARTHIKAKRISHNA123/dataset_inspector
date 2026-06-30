@@ -1,0 +1,91 @@
+{
+  "dataset": "18115.txt",
+  "file_name": "18115.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हिउँले ढाकिएको पहाडका चुचुराहरूको शृङखला अर्थात लहरहरुलाई नै हिमश्रृङ्खला भनिन्छ । एउटा हिमश्रृङ्खला हिमालहरूको लहर हुन्छन जुन एकआपसमा टासिएको हुन्छ र यिनीहरुलाई खोंच तथा घाटीहरुले यिनिहरुलाई एकअर्का बाट विभाजित गर्दछ । यो निश्चय पनि आवश्यक छैन की एउटा हिमश्रृङ्खला भित्र पर्ने सम्पूर्ण हिमालहरुको भूविज्ञान एकै समान होस् तर लगभगको एक जस्तै हुन्छ । महालङ्गुर हिमश्रृङ्खलामा पृथ्वीको सतहमा अवस्थित संसारका केही सर्वोच्च हिमश्रृङ्खलाहरु रहेका छन् । जसमा सगरमाथा पनि रहेको छ । एण्डिज पृथ्वीको सतहमा रहेक"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 785,
+    "text_length_max": 785,
+    "text_length_avg": 785.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2124,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18115.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18115.txt",
+    "relative_path": "18115.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18115.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2124,
+    "mtime": 1782796480.566531,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5cd5bca7d1c1600c3f21bd1ad80c08afc146ee78",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

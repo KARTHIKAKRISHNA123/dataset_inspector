@@ -1,0 +1,92 @@
+{
+  "dataset": "37364.txt",
+  "file_name": "37364.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"सगरमाथा\" लेख यहाँ रिडाइरेक्ट हुन्छ। कृपया लेखको अरू उपयोगका लागि सगरमाथा हेर्नुहोला।",
+    "सगरमाथा संसारको सबैभन्दा अग्लो चुचुरो हो । यसको उचाई समुन्द्र सतहबाट 8,848 मिटर छ । यो नेपालको सोलुखुम्बु जिल्लाको खुम्बु पासाङल्हामु गाउँपालिकामा पर्छ । तिब्बती भाषामा यसको नाम चोमोलुङ्गमा हो । विशेष गरी थुलुङ राई स्थानियवासीहरू सगरमाथालाई चोमोलुङ भन्दछन् । सगरमाथालाई सन् 1865 मा ब्रिटिस सर्भेयर कर्णेल सर जर्ज एभरेस्टको नाममा माउन्ट एभरेस्ट नामाकरण गरिएको थियो । पछि सन् 1956 मा इतिहास शिरोमणि बाबुराम आचार्यले यसको नाम सगरमाथा राखेका हुन साथै उनले सगरमाथाको नेपाली नाम झ्यामोलोङ्मो पनि लेखेका छन्"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 2209,
+    "text_length_avg": 477.09,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13781,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37364.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37364.txt",
+    "relative_path": "37364.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37364.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13781,
+    "mtime": 1782796569.8420212,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "78ef5da336918d93199041f64641c91a584ad7aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

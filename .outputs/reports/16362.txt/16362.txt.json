@@ -1,0 +1,92 @@
+{
+  "dataset": "16362.txt",
+  "file_name": "16362.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लोकदर्शन रेग्मी नेपाल सरकारका मुख्य सचिव हुन् । उनले गृह मन्त्रालयको शाखा अधिकृत बाट सेवा प्रवेश गरेका थिए । उनले बन तथा भू-संरक्षण मन्त्रालयको सह सचिव, अर्थ मन्त्रालय बजेट तथा कार्यक्रम दिभिकनको उपसचिव, पश्चिमान्चल क्षेत्रीय निर्देशनालयको प्रशाशक, बन तथा भू-संरक्षण मन्त्रालयको सचिव, अर्थ सचिव र गृह सचिव भएर यस अघि सेवा गरेका थिए ।",
+    "जन सेवा श्री"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 333,
+    "text_length_avg": 172.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 916,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16362.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16362.txt",
+    "relative_path": "16362.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16362.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 916,
+    "mtime": 1782796471.93149,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "475dfb7abb585ae6a9fb90f0fe93a6ca975d02df",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

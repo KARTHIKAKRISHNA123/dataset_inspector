@@ -1,0 +1,94 @@
+{
+  "dataset": "3730.txt",
+  "file_name": "3730.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रबिन ली वा ली यान्होंग एक चिनियाँ इन्टरनेट उद्यमी हुन् । उनी चिनियाँ खोज इन्जिन बैदु का सह-संस्थापक र सेप्टेम्बर 2015 का अनुसार कुल 9.6 अर्ब अमेरिकी डलर कुल मूल्यका साथ मुख्य भूमि चीनमा सातौं धनी मानिस हुन् । हारुन रिपोर्ट बिश्वका धनी सूची 2014 अनुसार, उनी बिश्वमा 119 औ धनी व्यक्ति हुन् । ली 12 औं चिनियाँ जनता राजनीतिक सल्लाहकार सम्मेलन को सदस्यको रूपमा कार्यरत छन् । ",
+    "ली ले सूचना व्यवस्थापन पेकिङ विश्वविद्यालय मा र कम्प्युटर विज्ञान न्यूयोर्क राज्य विश्वविद्यालय बुफ्यालो मा अध्ययन गरेका हुन् । सन् 2000 मा एरिक छु ली संग मिलेर बैदुको स्थापना गरे । ली जनवरी 2004 देखि ] सीईओ भएका थिए। कम्पनी अगस्ट 5, 2005 मा NASDAQ मा सूचीबद्ध भएको थियो। ली 15 मई 2011 मा एसियाली वैज्ञानिक पत्रिका द्वारा हेर्नको लागि 15 एसियाली वैज्ञानिकहरू मध्ये का रूपमा समावेश गरिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 600,
+    "text_length_avg": 397.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9665,
+      "Latin": 0.0335
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7870,
+    "estimated_records": 19
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 19,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9665,
+      "Latin": 0.0335
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3730.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3730.txt",
+    "relative_path": "3730.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3730.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7870,
+    "mtime": 1782796569.5520773,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8ee8e6cf6dea9895f97b3752554b6245c540394d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

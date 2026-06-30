@@ -1,0 +1,91 @@
+{
+  "dataset": "9962.txt",
+  "file_name": "9962.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मलसाँप्रो विभिन्नदेश पाईने एक वन्यजन्तु हो । यो मांशहारी प्राणी हो र यसले मौरीको घार देखेमा खाने गर्छ। भनिन्छ \"मलसाँप्रोले आलो खान्न बासी पाउन्न\"। मलसाँप्रोले कुनै चिजको सिकार गरेमा त्यसलाई त्यतीखेर नखाएर सूर्यको छायाँ हेरेर माटो मुनि लुकाएर छोड्छ। जब बासी भएको बेला खानकोलागी खोज्दा सूर्य अर्को ठाउँमा गएकोले त्यो चिज भेटाउन सक्दैन। मलसाँप्रो प्रायः जोडा भेटिन्छन्। बिरालो भन्दा अलिक ठुलो देखिने मलसाँप्रो निकै चलाख जनावर हो। यो रुखमा चढ्न सक्ने भिरमा जान सक्ने जुन सुकै ठाउँमा पनि जान सक्ने जनावर ह"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 575,
+    "text_length_max": 575,
+    "text_length_avg": 575.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1534,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9962.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9962.txt",
+    "relative_path": "9962.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9962.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1534,
+    "mtime": 1782796606.4730048,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e5b7f42b6dfefae158c1fef29740b72d51f6ed4f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

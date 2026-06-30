@@ -1,0 +1,94 @@
+{
+  "dataset": "29430.txt",
+  "file_name": "29430.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एड्स एउटा यस्तो लक्षण हो, जुन एचआइभीले गर्दा शरीरमा उत्पन्न हुन्छ।यो एक यौन संक्रमित रोग हो। जथाभावी यौनसम्पर्क राख्दा मानिसहरू यो भाइरसको सिकार हुने गर्दछन् । तर यो भाइरस संक्रर्मित व्यक्तिबाट स्वस्थ मानिसमा यौनसम्पर्कको माध्यमबाट मात्र नभइ निर्मलिकरण नगरिएका सिरिन्जको प्रयोगबाट, र्यालबाट, शरीरका अंगहरू प्रत्यारोपन गर्दा, संक्रमित आमाले गर्भधारण गर्दा उक्त गर्भमा रहेको बच्चालाई समेत सजिलै सर्न सक्दछ। हाम्रो शरीरमा 'एच‍‍.आइ.भी' पसेपछि सर्वप्रथम T-Lymphocyte कोषमा आक्रमण गर्ने गर्दछ र त्यसपछि बिस",
+    "सन् 2004 सम्म लगभग 3,000,000 मानिसहरू एड्सले गर्दा मृत्यु भइसकेको छ । यी मानिसहरूमा लगभग 500,000को संख्या बालबालिकाहरुको थियो। सन् 2004 सम्म विश्वभरीको लगभग 40,000,000 मानिसहरूमा एचआईभी संक्रमण थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 758,
+    "text_length_avg": 205.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9936,
+      "Latin": 0.0064
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5468,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9936,
+      "Latin": 0.0064
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29430.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29430.txt",
+    "relative_path": "29430.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29430.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5468,
+    "mtime": 1782796533.064782,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5d55512f87bee55bc557203d479944c4aa30691c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

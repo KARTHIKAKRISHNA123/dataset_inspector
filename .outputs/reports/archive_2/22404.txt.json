@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22404.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जनसङ्ख्या अर्थशास्त्र Population Economics को बारेमा जान्न त्यसको विकास क्रम सहयोगी हुन्छ । विश्वका प्राचीनतम सभ्यताहरु, हिन्दु, रोमन, र चीनिया सभ्यताहरुमा जनसङ्ख्या सम्बन्धी विवरण पाइन्छ । ",
+    "महाभारतको आदिपर्वमा सृष्टि र त्यस पछिका मानिसहरुको संख्याको विवरण छ । चाणक्यले लेखेको संस्कृत ग्रन्थ अर्थशास्त्र मा जनगणना, करारोपण र सरकारी व्यय सम्बन्धी नीतिको उल्लेख छ । यो ग्रन्थ करीब 400 ई.पू. लेखिएको हो । सन 1250 मा इजिप्टका राजा रामेश द्वितीयले जन्म दर्ता लागू गरेको ऐतिहासिक प्रमाणहरु छन् । अबुल फजलले लेखेको ग्रन्थ आइने अकबरीमा पनि जनगणनाका तथ्यांक संकलनको विवरण पाइन्छ । तथ्यांकहरुको जनसांख्यिक विश्लेषण गर्ने प्रथम श्रेय जोन ग्राण्ट लाई छ । जसलाई जनसांख्यिकीका पिता पनि भनिन्छ । बिल्स अफ म"
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 1939,
+    "text_length_avg": 559.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9759,
+      "Latin": 0.0241
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 29740,
+    "estimated_records": 53
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 53,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9783,
+      "Latin": 0.0217
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22404.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22404.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22404.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 29740,
+    "mtime": 1782796631.0667076,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "60c33fbc5ff28037dd0f480ba55e2de5a251ecfe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

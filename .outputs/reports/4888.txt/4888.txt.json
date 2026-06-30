@@ -1,0 +1,91 @@
+{
+  "dataset": "4888.txt",
+  "file_name": "4888.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मावा नदी झापा जिल्ला र मोरङ जिल्लाको सीमा नदीका रूपमा रहेको झापाको पश्चिम सीमा भई वग्ने मावा नदीको उद्गम स्थल इलाम जिल्ला हो। यो महाभारत पर्वत श्रृङ्खलाबाट निस्किएको हुँदा यहाँ वर्ष भरी नै पानी बगिरहन्छ। यस नदीबाट वर्षायाममा सिंचाई सुविधा उपयोग गरेको खण्डमा झापा जिल्लाको दमक, लखनपुर, लगायत मोरङ जिल्लाका किसानहरूले पनि फाइदा लिन सक्छन। चुरे पर्वत श्रृङ्खलाको वनको घट्दो अवस्था र भूक्षयका कारणले बगेर आउने वालुवाले नदीको सतह उठ्दै गई नदीकटान र कृषि योग्य भूमिमा वालुवा थुपार्ने समस्या यस नदीबाट भोग्न"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 513,
+    "text_length_max": 513,
+    "text_length_avg": 513.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1370,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4888.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4888.txt",
+    "relative_path": "4888.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4888.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1370,
+    "mtime": 1782796581.8143654,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "84d25a9b488344fa43bff5cb8495f6e1502618bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

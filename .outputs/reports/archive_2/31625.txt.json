@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31625.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परिवार शब्दको खोजी गर्ने हो भने अग्रेजी भाषामा प्रयोग भएको family शब्द latin भाषाको famulus बाट ल्याइएको हो। latin भाषामा famulusको अ्रथ हुन्छ बाबुआमा ,तिनीहरू का सन्तान वा सेवकहरू, जसमा आमाबाबु र तिनका छोराछोरीहरू एक अ्रका का सेवकको रूपमा रही सहयोगको अदानप्रदान गद्रछन। म्याक्लभर र पेजेका अनुसार परिवार पया्रपत निश्चत एवम स्थायी यौन सम्बन्ध द्वारा परिभाषित एउटा यस्तो सानो समुह हो, जसले बच्चाहरू उत्पादन ग्रने र तिनीहरूको लालनपोषणको उचित ब्यवस्था गरने का्रय गद्रछ। ",
+    "परिवार एकै घरको छानामुनी बस्ने एकै भान्साको खाना बाडेर खाने ,विवाह, रगत,ग्रहण,वा सम्रपणको सम्बन्ध भित्र आवद्ध सदस्यहरूको समुह हो। परिवारको उत्पतिको सम्बन्धमा प्राचिन गि्रकका विद्धानहरू प्लेटो र अरस्तुले शास्त्रिय सिद्धान्तको प्रतिपादन समएत गरेका छन।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 466,
+    "text_length_avg": 191.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9534,
+      "Latin": 0.0466
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2001,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9534,
+      "Latin": 0.0466
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31625.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31625.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31625.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2001,
+    "mtime": 1782796649.3354337,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "144aa3b8c87a2796e095fc6cc9e472b2c8ca1c93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

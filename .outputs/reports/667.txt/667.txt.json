@@ -1,0 +1,94 @@
+{
+  "dataset": "667.txt",
+  "file_name": "667.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुनै पनि प्रकारको क्रिकेटमा 10,000 रन पूरा गर्नुलाई एक महत्त्वपूर्ण उपलब्धि मानिन्छ । 2015 को अक्टोबर सम्ममा, 5 राष्ट्रका 11 जना खेलाडीहरूले 10,000 रनको कोसेढुङ्गा पार गरिसकेका छन् । यीमध्ये अस्ट्रेलिया र भारतका 3/3 जना खेलाडीहरू छन् । यस्तै वेस्ट इन्डिज र श्रीलङ्काको 2/2 जना र दक्षिण अफ्रिकाको एकजना खेलाडीले 10,000 रन पूरा गरेका छन् । बङ्गलादेश, इङ्गल्यान्ड, न्युजिल्यान्ड, पाकिस्तान र जिम्बाब्वेका कुनै पनि खेलाडीले टेस्ट क्रिकेटमा 10,000 रन पुरा गर्न सकेका छैनन् ।",
+    "सन् 1974 मा, वेस्ट इन्डिजका गारफिल्ड सोबर्सले टेस्ट क्रिकेटमा सबैभन्दा बढी रन बनाएर सन्यास लिए । सोबर्सको यो किर्तिमान 9 वर्षपछि इङ्गल्यान्डका Geoffrey Boycott ले भारत विरुद्धको शृङ्खलामा तोड्न सफल भए । त्यसको 2 वर्षपछि 1983 मा Boycott को रेकर्डलाई भारतीय खेलाडी सुनील गावस्करले उछिन्न सफल भए । त्यसको 4 वर्षपछि पाकिस्तान विरुद्धको खेलमा गवस्कर टेस्ट क्रिकेटमा 10,000 रन पूरा गर्ने पहिलो खेलाडी बने ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 400,
+    "text_length_max": 590,
+    "text_length_avg": 486.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9801,
+      "Latin": 0.0199
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3632,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9801,
+      "Latin": 0.0199
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "667.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\667.txt",
+    "relative_path": "667.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "667.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3632,
+    "mtime": 1782796590.8105366,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0f831d46d2f31103af367c1f78b44eff96436edf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

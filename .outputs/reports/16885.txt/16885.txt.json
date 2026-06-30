@@ -1,0 +1,92 @@
+{
+  "dataset": "16885.txt",
+  "file_name": "16885.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "हिन्दू धर्मको इतिहास अति प्राचीन छ। यस धर्मलाई वेदकालबाट पनि पूर्वको मानिन्छ, किनभनें वैदिक काल र वेदहरूको रचनाको काल अलग-अलग मानिन्छ। यहाँ शताब्दिहरूबाट मौखिक परंपरा चलती रही, जसका द्वारा यसको इतिहास अनि ग्रन्थ अघि बढ्दै रहे। त्यसको पछि यसलाई लिपिबद्ध गर्ने काल पनि धेरै लामो रहेकोछ। हिन्दू धर्मका सर्वपूज्य ग्रन्थ होउन् वेद। वेदहरूको रचना कुनै एक कालमा भएको होइन। विद्वानहरूले वेदहरूका रचनाकालको आरंभ 4500 ई.पू.बाट मानेको छ। अथवा यो बिस्तारै रचिए र अंतत: पहिला वेदलाई तीन भागहरूमा संकलित गरिएको- ऋग"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 908,
+    "text_length_avg": 335.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7099,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16885.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16885.txt",
+    "relative_path": "16885.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16885.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7099,
+    "mtime": 1782796474.4167423,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2dda134bbc6a45726cc5607dcacbaaa341039128",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

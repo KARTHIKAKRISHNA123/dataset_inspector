@@ -1,0 +1,91 @@
+{
+  "dataset": "362.txt",
+  "file_name": "362.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भगवती निम्न माध्यमिक विद्यालयकाे स्थापना वि.सं.2059 मा प्राथमिक विद्यालयका रूपमा भएकाे हाे । 2068 देखि निम्नमाध्यमिक तहकाे कक्षा सञ्चालन हुँदै अाएर 2070 वैशाखदेखि यसले कक्षा अाठकाे पनि स्वीकृति प्राप्त गरिसकेकाे देखिन्छ । हाल विद्यालयमा कार्यरत शिक्षक दरबन्दीमध्ये सरकारी अनुदान प्राप्त 4, प्रा.वि.राहत 2, निजीस्राेत 3, बालविकास 1 र कर्मभारी 1 समेत जम्मा 11जना शिक्षक कर्मचारी कार्यरत रहेकाे पाइन्छ । यस क्षेत्रमा विद्यालय स्थापना हुनुमा यहाँकाे भाैगाेलिक परिवेश, जनचेतना, जनसंख्या बृद्धि, अन्य विद्य"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 896,
+    "text_length_max": 896,
+    "text_length_avg": 896.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2367,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "362.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\362.txt",
+    "relative_path": "362.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "362.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2367,
+    "mtime": 1782796564.246341,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "9455da5d87b1d22585e70aed5f27d3aa1d055947",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

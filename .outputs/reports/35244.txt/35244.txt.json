@@ -1,0 +1,92 @@
+{
+  "dataset": "35244.txt",
+  "file_name": "35244.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2018 फिफा विश्वकपको समूह ज अन्तर्गतका खेलहरू सन् 2018 जुन 17 देखि जुन 27 सम्म सञ्चालन भएको थियो । यस समूहमा पोल्याण्ड, सेनेगल, कोलम्बिया, र जापान रहेको थियो । यस समूहका उत्कृष्ट 2 टिम कोलम्बिया र जापान, राउन्ड अफ 16 को लागि छनौट भएका थिए ।",
+    "राउन्ड अफ 16मा :"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 239,
+    "text_length_avg": 53.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1086,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35244.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35244.txt",
+    "relative_path": "35244.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35244.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1086,
+    "mtime": 1782796559.779586,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "7ee4fb5091173bf75101f012e30505a61d134cac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

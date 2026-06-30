@@ -1,0 +1,92 @@
+{
+  "dataset": "2671.txt",
+  "file_name": "2671.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माइकलएन्जेलो दि लोदोविको बोनार्रोति सिमोनी एक इटालीयन मुर्तिकार, चित्रकार, निर्माणकर्ता र कवि थिए। उनका सबैभन्दा प्रमुख कृतिहरूमध्येको एक हो डेविड। उनको जन्म पुनर्जागरण कालमा भएको थियो। उनी दुबै हातले चित्र कोर्न सक्दथे। जब एक हात थाक्दथ्यो, उनी अर्को हातले काम गर्न थाल्दथे। ",
+    "माइकलएन्जेलोले सिस्टिन च्यापलको छानामा चित्र बनाउनुका साथै त्यस च्यापलको भित्ताहरूमा समेत चित्र बनाएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 276,
+    "text_length_avg": 120.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1302,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2671.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2671.txt",
+    "relative_path": "2671.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2671.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1302,
+    "mtime": 1782796520.3541107,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6c5df739f4a4f7060ca4dd7e24f011ea253066c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

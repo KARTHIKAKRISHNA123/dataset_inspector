@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6202.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुलमोहर एउटा वृक्षको नाम हो जसमा रातो रंगका फूलहरू फूल्छन।। यसको जन्मभूमि मेडागास्करलाई मानिन्छ। भनिन्छ कि 16औं शताब्दीमा पोर्चुगलीहरूले मेडागास्करमा यसलाई देखेको थिए। 18औं शताब्दीमा फ्रेंच किटीसको गभर्नर काउंटी डी पोएंशीले यसको नाम बदलेर आफ्नै नामसित मिल्ने नाम पोइंशियाना राखि दियो। पछि यो सेंट किटीस र नेवीसको राष्ट्रिय फूलको रूपमा पनि स्वीकृत गरियो। यसलाई रोयल पोइंशियानाको अतिरिक्त फ्लेम ट्रीको नामबाट पनि जानिन्छ। फ्रांसीसीहरूले संभवत: गुलमोहरलाई सबैभन्दा धेरै आकर्षक नाम दिये, उनीहरूको भाषामा ",
+    "कोसा जातिको यो फूलको बोट फूलहरूमा सबैभन्दा ठूलो मानिन्छ। वैज्ञानिक नाम डेलोनिक्स रेगिया रहेको र काँडा नहुने यो फूलको वास्ना भने हुँदैन। 12 वर्ष आयु रहेको यो फूल गाढा रातो, पहेंलो र रातो पहेंलोको मिश्रण हुने भए पनि नेपालमा गाडा रातो रंगका मात्र छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 721,
+    "text_length_avg": 170.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2747,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6202.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6202.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6202.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2747,
+    "mtime": 1782796668.0851583,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "162d1041572145550f581f8387101c6ede2061a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

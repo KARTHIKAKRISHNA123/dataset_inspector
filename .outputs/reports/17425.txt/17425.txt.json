@@ -1,0 +1,92 @@
+{
+  "dataset": "17425.txt",
+  "file_name": "17425.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टेलिकम स्वामित्व शुल्क टेलिकम सेवाको स्वामित्व ग्रहण गरे वापत नेपालमा लाग्ने शुल्क हो । मासिक बिल आउने तथा तार सहितको सेवा जडान गर्दाको वखत लगाइने शुल्क हो भने प्रिपेड सेवाहरूमा यो रकम प्रत्येक सिम कार्ड वा रिचार्ज कार्डको खरिदमा लगाउने गरिन्छ । ",
+    "यो शुल्क टेलिफोनको स्वामित्व प्राप्त गर्ने व्यक्तिलाई लगाईन्छ भने कुनै व्यक्ति वा अर्को व्यक्तिमा स्वामित्व हस्तान्तरण भएको अवस्थामा पनि यो शुल्क लगाउने गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 161,
+    "text_length_max": 246,
+    "text_length_avg": 203.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1093,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17425.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17425.txt",
+    "relative_path": "17425.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17425.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1093,
+    "mtime": 1782796477.309575,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "46ac219d96b1acc863e5a14a051a2fc91ab26e85",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "34986.txt",
+  "file_name": "34986.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "होड साहित्यकार बिपी कोइरालाद्वारा लेखिएको मौलिक मनोवैज्ञानिक कथा हो । यो कथा साझा प्रकाशनले विसं 2032 सालमा प्रकाशित दोषी चश्मा कथासंग्रह‎मा संग्रहित गरिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 160,
+    "text_length_max": 160,
+    "text_length_avg": 160.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 426,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34986.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34986.txt",
+    "relative_path": "34986.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34986.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 426,
+    "mtime": 1782796558.6775928,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.951,
+    "sha1_quick": "02b31cd6909a01f0bcb58ddef780c6b7b98fe331",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

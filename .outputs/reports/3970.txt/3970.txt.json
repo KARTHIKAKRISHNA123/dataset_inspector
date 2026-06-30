@@ -1,0 +1,94 @@
+{
+  "dataset": "3970.txt",
+  "file_name": "3970.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मंगोल साम्राज्य ; Mongolian Cyrillic: Монголын эзэнт гүрэн; ; वा रूसी वंशावलीमा Орда 13 औं तथा 14 औं शताब्दीको साम्राज्य हो जुन विश्व इतिहासकै सर्वाधिक ठूलो जडित जमीनी साम्राज्य हो । मध्य एसियाको स्टीपदेखि सुरू भै मंगोल साम्राज्य पश्चिम पट्टि लेभान्त, करपाथियन पर्वत, पूर्वी युरोप र मध्य युरोपका केही भागहरूसम्म पुगेको थियो भने पूर्वमा जापानी समुद्र र इन्डो-चाइना, उत्तरमा साइबेरिया र दक्षिणमा भारतीय उपमहाद्वीप र इरानी उच्चसमस्थलीसम्म पुगेको थियो ।",
+    "क्रुर शासक जंगेज खाँको 1206 मा सुरूवात भएको घुमन्ते तथा फिरन्ते जातिहरूको एकीकरण अभियानबाट मंगोल साम्राज्य खडा भएको थियो । सन् 1206 मा सम्पूर्ण मंगोलहरूले जंगेजलाई मुखिया स्वीकारेका थिए । उनका वंशजहरूले सबै दिशामा हमला गरी विश्वकै विशाल साम्राज्य खडा गरे । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 257,
+    "text_length_max": 449,
+    "text_length_avg": 353.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9693,
+      "Latin": 0.0307
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1802,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9693,
+      "Latin": 0.0307
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3970.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3970.txt",
+    "relative_path": "3970.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3970.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1802,
+    "mtime": 1782796577.2851937,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a5600f679bd6726d14822d23c4383ddfc625fe52",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

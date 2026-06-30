@@ -1,0 +1,92 @@
+{
+  "dataset": "33463.txt",
+  "file_name": "33463.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'समुद्सोंग्ख्रम वा थाई: สมุทรสงคราม थाईल्याण्ड को एक केन्द्रीय प्रान्त हो। छिमेकी प्रांतहरु फेत्चाबुरी, रात्चाबुरी र समुतसखोंन मा पर्दा छ। स्थानीय बासिन्दाहरु समुतसोंग्ख्रमलाई मेक्लोङ्ग भन्छन्। यो थाईलेन्ड कै सानो प्रान्तमा पर्दा छ। चांग र इंग बंकर, स्याम देशका प्रसिद्ध जुम्ल्याह दाजुभाइ यहि प्रान्तमा जन्मिकाथिए। ",
+    "समुत शब्द संस्कृत मा समुद्र अर्थ सागर देखि मूल शब्द, र युद्ध को अर्थ संस्कृत सङ्ग्राम वचन गर्दा सोंग्ख्रम त्यसैले प्रान्तको नाम शाब्दिक युद्ध महासागर हो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 315,
+    "text_length_avg": 119.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2243,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33463.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33463.txt",
+    "relative_path": "33463.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33463.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2243,
+    "mtime": 1782796551.7049239,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3f5931ac838019e26ff8f6547818d15b38e2e58d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

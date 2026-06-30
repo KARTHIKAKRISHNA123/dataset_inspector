@@ -1,0 +1,92 @@
+{
+  "dataset": "33528.txt",
+  "file_name": "33528.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भाग 3 भर्ना तथा रोजगारीका अवस्थाहरू ",
+    "1 राष्ट्रिय कानुन र नियमहरूको संरचनाभित्र रही तथा सम्बन्धित जनताहरूको सहयोगमा, सरकारहरूले सामान्य रूपमा कामदारको हकमा लागू हुने कानुनहरूबाट निजहरूको संरक्षण प्रभावकारी रूपले नभएको हदसम्म यस्ता जनताहरूसँग सम्बन्धित कामदारहरूको भर्ना र रोजगारीका अवस्थाहरूसँग सम्बन्धित प्रभावकारी संरक्षण सुनिश्चित गर्न विशेष उपायहरू अवलम्वन गर्ने छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 416,
+    "text_length_avg": 169.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5996,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33528.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33528.txt",
+    "relative_path": "33528.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33528.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5996,
+    "mtime": 1782796551.983968,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "200ba43825197464fca4efe53895e8bbefcfefb7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

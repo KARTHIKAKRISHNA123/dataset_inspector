@@ -1,0 +1,92 @@
+{
+  "dataset": "3871.txt",
+  "file_name": "3871.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "होली नेपाली तथा भारतीयअर्थात हिन्दूहरूको प्रमुख चाड मानिन्छ । हिन्दू संस्कृतिमा यो पर्व प्रत्येक वर्षको फागुन शुक्ल पुर्णिमा अर्थात होली पूर्णिमाको दिन मनाइन्छ । यो नेपाल, भारत तथा अन्य राष्ट्रमा रहेका हिन्दूहरूको एउटा महत्वपूर्ण चाड हो । त्रेता यूगमा भगवान विष्णुका परम भक्त प्रह्लादसंग होलीलाई जोडेर हेरिन्छ, हिरण्यकश्यपुका पुत्र प्रह्लादलाई उनको आफ्नै फुपु होलिकाले आगोमा भष्म पार्न लाग्दा उनि आँफै आगोमा भष्म भएकी थिइन र त्यही दिनदेखि होलीका पर्व पर्दापण भएको मानिन्छ । यो चाड वसन्त ऋतुमा फाल्गुन",
+    "होलीको बारेमा पौराणिक भनाइ अनुसार प्राचीन समयमा अथवा सत्य युगमा नास्तिक हिरण्यकश्यपु नामक एक जना राक्षसको जन्म भएको थियो । हिरण्यकश्यपुलाई भगवान विष्णुले नृसिंह अवतार लिएर मारेका थिए । हिरण्यकश्यपुका छोरा भक्त प्रह्लाद थिए । भक्त प्रह्लाद भगवान विष्णुका निकै भक्त थिए । आफ्नै छोरा प्रह्लादले भगवान विष्णुको आराधना गरेको हिरण्यकश्यपुलाई मन परेको थिएन । त्यसैले उसले प्रह्लादलाई मार्न धेरै योजनाहरू बनाएको थियो । एक योजना अनुसार हिरण्यकश्यपुले छोरालाई अग्निकुण्डमा हालेर मार्न आफ्नी बहिनी होलिकालाई जिम"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 2235,
+    "text_length_avg": 660.19,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 47842,
+    "estimated_records": 72
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 72,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3871.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3871.txt",
+    "relative_path": "3871.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3871.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 47842,
+    "mtime": 1782796576.5936785,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a154f07b12df7d4944bd02e147de0a0f33e0c7d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

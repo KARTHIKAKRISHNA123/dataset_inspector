@@ -1,0 +1,92 @@
+{
+  "dataset": "512.txt",
+  "file_name": "512.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अक्षय तृतीया बैशाख मासको शुक्ल पक्षको तृतीया तिथिलाई भनिन्छ । पुराण ग्रन्थहरू अनुसार यस दिनमा जो पनि शुभ कार्य गरिन्छ त्यसको अक्षय फल पाइन्छ भन्ने लोक विश्वास छ । यसै कारण अक्षय तृतीया भनिएको हो। सबै बाह्र महिनाका शुकल पक्षीय तृतीया शुभ छन् तर बैशाख महिनाको तिथि स्वयंसिद्ध मुहूर्तहरूमा मानिन्छ । भविष्य पुराण अनुसार यस तिथिको युगादि तिथिहरूमा गणना हुन्छ, सत्य युग र त्रेता युगको प्रारम्भ यसै तिथिबाट भएको थियो । भगवान विष्णुले नर-नारायण, हयग्रीव र परशुराम को अवतरण पनि यसै तिथिमा भएको थियो।",
+    "दानकाले च सर्वत्र मन्त्र मेत मुदीरयेत्॥"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 2260,
+    "text_length_avg": 930.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7421,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "512.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\512.txt",
+    "relative_path": "512.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "512.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7421,
+    "mtime": 1782796583.102133,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cd66c69c66710a34fe634dee8b6d4558f7fc58d1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23256.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रुपैयाँ दुई  एक नेपाली बैंक नोट हो। जसलाई नेपाल राष्ट्र बैंकद्वारा निस्कासन गरिन्छ। हाल यसको प्रचलन रहेको छैन। सबैभन्दा दोस्रो सानो मूल्यको यस नोट श्री 5 वीरेन्द्र शाहाको वंशनास सँग-सँगै सेलाएर गयो। अन्तिम पटक यस नोटमा राजा वीरेन्द्रको तस्बिर अङ्कित गरेर सार्वजनिक भएको थियो ।",
+    "400px"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 276,
+    "text_length_avg": 95.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9828,
+      "Latin": 0.0172
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 748,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9828,
+      "Latin": 0.0172
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23256.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23256.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23256.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 748,
+    "mtime": 1782796632.896776,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "635149bd7038f8342153e24111278fc45afcf74a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

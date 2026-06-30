@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "4131.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्र आदर्श चिकीत्सालय भरतपुरलाई भरतपुर जनरल अस्पताल पनि भनिन्छ भरतपुरका अस्पतालहरूमा यो सबैभन्दा पुरानो अस्पताल हो यो दिपेन्द्रनगरमा रहेको छ यस अस्पतालले स्थापना काल देखिनै चितवन नवलपरासी, मकवानपुर, लम्जुंग, तनंहु तथा धादीगं जिल्लाका विरामी हरूलाई सेवा पुर्याइ रहेको छ। सरकारी भएकाले सस्तो उपचार पाइने यस अस्पतालमा हाल पनि विरामीको चाप बढेको बढेकै छ। 15 सैयामा सुरू भएको यो अस्पतलालाई भविस्यमा 500 सैया सम्म पुर्याउने लक्ष राखीएको छ। हाल 150 सैया सञ्चालनमा छन भरतपुरमा रहेर पनि यस्को सरकारी मान्य"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 588,
+    "text_length_max": 588,
+    "text_length_avg": 588.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1567,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4131.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\4131.txt",
+    "relative_path": "archive (2)\\valid\\valid\\4131.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1567,
+    "mtime": 1782796664.0025716,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "401c4687b27bf7652ee16d98fc321d04bdca0aef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

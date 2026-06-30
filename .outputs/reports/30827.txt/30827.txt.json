@@ -1,0 +1,92 @@
+{
+  "dataset": "30827.txt",
+  "file_name": "30827.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुस्तकालय लेखी,छापी,कोरी,खिचि,वा यस्तै अरू विभिन्न माध्यमद्वारा तयार पारिएको पुस्तक, पुस्तिका,अखवार,पत्रिका,नक्सा,चार्ट,फिल्म आदि ज्ञान सामग्री सु-व्यबस्थित रूपमा उपलब्ध गराई जीवनभर नियमित शिक्षा प्रदान गर्ने शैक्षिक केन्द्र हो। पुस्तकालय संस्कृतभाषाको पुस्तक र आलय दुई शब्द मिलेर बनेको हो,यसको अर्थ पुस्तकहरू राखिएको घर भन्ने हुन्छ .",
+    "विश्वमा पुस्तकको इतिहास सगैं पुस्तकालयको इतिहास पनि शुरु भएको पाईन्छ। इ. पू. 5500 देखि नै पुस्तकालयको प्रारम्भ भएको मानिन्छ।यस समयमा सुमेरियन र मेसोपोटामियनहरुले गिला माटाका खबटाहरूमा आफ्ना विचारहरू चित्रात्मक लिपिमा लेखी घाममा सुकाएर राख्ने गर्थे।पछि उनीहरूले क्युनिफर्म लिपि विकास गरेर त्यही लिपिमा माटाका खबटाहरूमा लेखेर संग्रह गर्न थाले। खवटे पुस्तकका तिनै संग्रहहरू नै आजका आधुनिक पुस्तकालयका प्राचिन रुप हुन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 416,
+    "text_length_avg": 314.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2523,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30827.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30827.txt",
+    "relative_path": "30827.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30827.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2523,
+    "mtime": 1782796539.6810155,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5e5ba9a3eb2b668c741cee35b3e49365374ad266",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "24715.txt",
+  "file_name": "24715.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मलाला युसुफजई पाकिस्तानी महिला शिक्षा तथा बालअधिकारवादी कार्यकर्ता हुन्। सन् 2014 को नोबेल शान्ति पुरस्कार प्राप्त गर्न सफल मलाला नोबेल पुरस्कार पाउने हालसम्म कै सबभन्दा कम उमेरकी व्यक्ति हुन्। उनी स्वात उपत्यकामा तालिबानहरूले केटीहरूलाई विद्यालय जान प्रतिबन्ध लगाएको समयमा महिला तथा शिक्षाको लागि वकालत गरेका कारण चर्चामा अाएकी हुन्। ",
+    "मलालाको जन्म 1997 मा पाकिस्तानको खैबर पख्तूनख्वाह प्रान्तको स्वात जिल्लामा भयो। उनी पाकिस्तानको मिंगोरा शहरमा आठ कक्षाकी छात्रा हुन् । छद्म नाम प्रयोग गरी बिबिसीको लागि ब्लगिङ्द्वारा तालिबान शासनको अत्याचारको विरोध गर्ने मलाला 13 वर्षको उमेरमा नै स्वातमा रहेका महिलाहरूको नायिका बनिन् । अन्तर्राष्ट्रियस्तरमा बालअधिकारको वकालत गर्ने संस्था किड्स राइट्स फाउन्डेसनले उनलाई अन्तर्राष्ट्रिय बाल शान्ति पुरस्कारको लागि नामाङ्कन गरेको थियो, उनी यस्तो पुरस्कारको लागि नामांकित पहिलो पाकिस्तानी बालिका हुन्। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 335,
+    "text_length_max": 1152,
+    "text_length_avg": 621.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4987,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24715.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24715.txt",
+    "relative_path": "24715.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24715.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4987,
+    "mtime": 1782796511.006875,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "611548c8fa5e9b1a6f3148f19969df02de69f4a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

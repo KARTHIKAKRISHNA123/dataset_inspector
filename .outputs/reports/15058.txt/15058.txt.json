@@ -1,0 +1,93 @@
+{
+  "dataset": "15058.txt",
+  "file_name": "15058.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डियरवाक इन्क. ,एक सफ्टवेयर कम्पनी हो जसले हेल्थकेयर विश्लेषण सेवा तथा कार्यविशेषका अनुप्रयोग विकास सम्बन्धी सेवा प्रदान गर्दछ विशेष गरेर हेलथकेयर उद्योगहरुका लागि ,मार्च 2009मा स्थापना भएको यस संस्था, लेक्जिङ्टन, म्यासाचुसेट तथा काठमाडौं नेपालमा रहेको छ ।यस संस्थाका उत्पादनहरुमा मकालु,तथ्याङ्क विश्लेषण सफ्टवेयर, एभरेष्ट, हेरविचार समन्वय सफ्टवेयर, याला, मेम्बर पोर्टल, र नाम्चे, ETL सफ्टवेयरहरू पर्दछन् । डियरवाकले Apache Hadoop, Elasticsearch, तथा Cascading जस्ता प्रविधीहरुमा कार्यगरिरहेको छ । डिय"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 737,
+    "text_length_max": 737,
+    "text_length_avg": 737.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9011,
+      "Latin": 0.0989
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1851,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9011,
+      "Latin": 0.0989
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15058.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15058.txt",
+    "relative_path": "15058.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15058.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1851,
+    "mtime": 1782796465.842263,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "e930324b4d1dd279a4a7673f935dd9b3d6072bb6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

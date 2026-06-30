@@ -1,0 +1,92 @@
+{
+  "dataset": "30889.txt",
+  "file_name": "30889.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भविष्यमा भुक्तान गर्ने गरि लिइएको रकमलाई कर्जा वा ऋण भनिन्छ । सामान्यतया ऋण प्रवाह बैंक तथा वित्तीय संस्थाहरूले गर्ने गर्दछ भने कर्जामा प्रत्क्षय तथा अप्रत्क्षय प्रत्याभुती पनि पर्ने गर्दछ । बैंकहरुले संकलित निक्षेप तथा पुँजी बिभिन्न क्षेत्रमा अल्पकालिन, मध्यकालिन तथा दिर्घकालिन कर्जा प्रदान गर्ने गर्दछ । यस अन्तर्गत बैंकले ब्यक्तिगत ग्राहकलाई सुन, चाँदी, मुद्दती रसिद, नेपाल सरकारको ऋणपत्र, ट्रेजरी बिल, राष्ट्रिय बचतपत्र, विकास ऋणपत्र आदी धितो राखी कर्जा प्रदान गर्दछ । ",
+    "बैंकको कर्जा निति तय गर्दा सरलिकरण, बढी भरपर्दो एबम बैज्ञानीक तवरबाट गरिनुपर्दछ । बैंकले कर्जा निति अबलम्बन गर्दा देहायका उल्लेखित सिद्दान्तहरु माथि ध्यान पुर्‍याउनु पर्दछ ।  "
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 134,
+    "text_length_max": 474,
+    "text_length_avg": 270.64,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10125,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30889.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30889.txt",
+    "relative_path": "30889.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30889.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10125,
+    "mtime": 1782796539.945692,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "db8bb5bb7fe27f50732fad4f7f398ce4ca1b0317",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

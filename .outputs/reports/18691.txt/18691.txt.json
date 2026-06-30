@@ -1,0 +1,92 @@
+{
+  "dataset": "18691.txt",
+  "file_name": "18691.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ठूलो घाउँके हावासील नेपाल लगायत दक्षिणपूर्वी युरोप, एसिया तथा अफ्रिकाका सिमसार क्षेत्र तथा ताल तलैया वरपरमा पाइने हावासील प्रजातिको पंक्षी हो। यो पंक्षीले दक्षिणपुर्वी युरोप देखि एसिया र अफ्रिकाका नदि र तालहरूमा प्रजनन गर्ने गर्छ।",
+    "यस पंक्षी विश्व भरी छरिएर बस्ने र धेरै मात्रामा पाइने भएकाले यसलाई अन्तर्राष्ट्रिय प्रकृति संरक्षण सङ्घ द्वारा कम चासोका प्रजातिको रुपमा वर्गीकृत गरिएको छ र यसलाई आइयुसीएनको रातो सूचीमा पनि सूचीकृत गरिएको छ। यस पंक्षीलाई युरोपेली सङ्घ पंक्षी संरक्षण संस्था द्वरा 108 संरक्षण क्षेत्रहरूमा पनि राखिएको छ। युरोपमा बसोबास गर्ने यस पंक्षीको प्रजातिलाई 43 महत्त्वपूर्ण पंक्षीको रुपमा लिइन्छ। यस पंक्षीलाई अफ्रिकी युरेसिया बसाइँसराइ गर्ने पंक्षीको रुपमा पनि लिइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 222,
+    "text_length_max": 1067,
+    "text_length_avg": 555.79,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 27893,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18691.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18691.txt",
+    "relative_path": "18691.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18691.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 27893,
+    "mtime": 1782796483.3061056,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "98a46ab49f0c155458ca1e2690611e545e7931f7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

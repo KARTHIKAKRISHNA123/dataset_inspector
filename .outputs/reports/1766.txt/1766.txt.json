@@ -1,0 +1,94 @@
+{
+  "dataset": "1766.txt",
+  "file_name": "1766.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मनसुन ऋतुअनुसार चल्ने हावाको बहाव हो जुन नेपालमा साधारणतया हिन्द महासागरबाट बङ्गालको खाडीको बाटो हुँदै दक्षिणपूर्वी दिशाबाट प्रवेश गर्छ। मनसुनी वायु समुद्रबाट बहने भएकाले यसमा प्रशस्त जलवाष्प हुन्छ। तसर्थ यो वायु बहँदा विभिन्न स्थानमा वर्षा हुन्छ। स्थान अनुसार मनसुनको वायुचक्र बेग्ला बेग्लै समयमा रहन्छ| ",
+    "मनसुन दक्षिण एसियाको एउटा महत्त्वपूर्ण वायुमण्डलीय प्रणालीको रूपमा रहेको छ। नेपालमा प्रवेश गर्ने मनसुनी वायु दक्षिण एसियामा बहने ग्रीष्मकालीन मनसुनको एक अंश हो। गर्मी यामका बेला दक्षिण एसियाको भूभाग र यससँग जोडिएको समुद्री भाग जस्तै बङ्गालको खाडी, अरब सागर र हिन्द महासागर असमानुपात ढंगबाट तात्ने कारणले गर्दा दक्षिण एसियामा मनसुनको सुरुवात हुने गर्छ। गर्मीयाममा दक्षिण एसियाका भूसतह समुद्री सतहको तुलनामा छिटो र बढी तात्ने हुनाले भूसतहको संसर्गमा आउने हावा तातो भई माथि तिर उठ्छ जसले गर्दा दक्षिण एस"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 1157,
+    "text_length_avg": 544.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9851,
+      "Latin": 0.0149
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17122,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9769,
+      "Latin": 0.0231
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1766.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1766.txt",
+    "relative_path": "1766.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1766.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17122,
+    "mtime": 1782796478.4396212,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "631f40054f76f1629a5bcabcbdc14465a0a141d3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

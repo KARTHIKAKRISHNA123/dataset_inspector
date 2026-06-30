@@ -1,0 +1,92 @@
+{
+  "dataset": "23282.txt",
+  "file_name": "23282.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कल्पना शर्मा एक नेपाली महिला फुटबल खेलाडी हुन् । उनी मकवानपुर, हेटौंडामा जन्मिएकी थिइन् । साथै उनी पहिलो नेपाली महिला फिफा रेफ्रि हुन्।",
+    "कल्पना शर्मा एक नेपाली फुटबल खेलाडी तथा फुटबल रेफ्रि हुन् । नेपाली महिला फुटबल जगतमा उनी पहिलो महिला फिफा रेफ्रि हुन्, भने दक्षिण एसियाको समेत पहिलो महिला फिफा रेफ्रि हुन्। पहिले उनी सहायक रेफ्रिमा सक्रिय भई सकेपछि मुख्य रेफ्रिमा कार्य गरेकि थिइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 135,
+    "text_length_max": 249,
+    "text_length_avg": 192.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1022,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23282.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23282.txt",
+    "relative_path": "23282.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23282.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1022,
+    "mtime": 1782796504.4639997,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1c51744309237dc69d64439f8966d4248697adaf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

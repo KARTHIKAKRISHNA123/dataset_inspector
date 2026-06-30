@@ -1,0 +1,92 @@
+{
+  "dataset": "1043.txt",
+  "file_name": "1043.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राकम कर्णाली दैलेख जिल्लाको एक गा.वि.स.हो। ",
+    "राकम कर्णाली क्षेत्रफलको हिसाबल दैलेख जिल्लाको सबै भन्दा सानो गा.वि.स.हो।यो गा.वि.स.को भू-भाग कर्णाली नदीको किनारामा फैलिएको हुनाले यसको नाम राकम कर्णाली रहन गएको हो।यो गा.वि.स.को सिमाना पूर्वमा पिपलकोट गा.वि.स. पश्चिममा सिँगौडी गा.वि.स. दक्षिणमा सिँहासैन र तिलेपाटा गा.वि.स. उत्तरमा कर्णाली नदी रअछाम जिल्लासँग जोडिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 532,
+    "text_length_avg": 287.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3786,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1043.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1043.txt",
+    "relative_path": "1043.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1043.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3786,
+    "mtime": 1782796444.5584664,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "db6af2520c0205bec48a06866289fbbf5fcf4f61",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

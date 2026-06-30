@@ -1,0 +1,92 @@
+{
+  "dataset": "28900.txt",
+  "file_name": "28900.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अस्ट्रेलिया महिला राष्ट्रिय क्रिकेट टिम अस्ट्रेलियाको लागि महिला अन्तर्राष्ट्रिय क्रिकेट खेलमा प्रतिनिधित्व गर्ने टिम हो । यस टिमको वर्तमान कप्तान मेग लानिङ, र प्रशिक्षक म्याथ्थु मोट् रहेका छन् ।",
+    "यस टिमले आफ्नो पहिलो टेस्ट म्याच 1934 मा इङ्ल्यान्ड विरुद्ध खेलको थियो । तीन टेस्टको उक्त शृङ्खलामा अस्ट्रेलिया 2-0 ले पराजित भएको थियो । अस्ट्रेलिया र इङ्ल्यान्डको महिला राष्ट्रिय टिमबीच हुने टेस्ट शृङ्खलालाई महिला एशेजको नामले चिनिन्छ । महिला तर्फको विश्वकप अस्ट्रेलियाले सबैभन्दा बढी 6 पटक जितको छ । त्यस्तै आइसिसी महिला विश्वकप टि20 तर्फ पनि अस्ट्रेलियाले नै धेरै पटक उपाधि जितेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 195,
+    "text_length_max": 388,
+    "text_length_avg": 291.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1547,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28900.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28900.txt",
+    "relative_path": "28900.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28900.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1547,
+    "mtime": 1782796530.3370876,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "6789f4bdaa0477746799a1df0ab663dce2c59e00",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

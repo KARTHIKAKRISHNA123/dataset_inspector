@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टेलिफोन दूर सञ्चारको एक आधुनिक यन्त्र हो । यस्को माध्यमले टाढा टाढाका मानिषहरू एक अर्का सँग कुरा-कानी गर्न सक्षम हुन्छन् । यो यन्त्र तारसँग जोडिएको हुन्छ । ब्यक्ति जब यस यन्त्रमा केही बोल्छ तब यस यन्त्रले आवाजलाई तरंगमा परिवर्तन गराएर तार भित्रैबाट अर्को यस्तै यन्त्रलाई पठाउँछ । अर्को यन्त्रले फेरी त्यो तरंगलाई आवाजमा परिवर्तन गराएर सुन्ने ब्यक्तिलाई पठाउँछ ।",
+    "टेलिफोनको खोज एलेक्जेंडर ग्राहम बेलले गर्नु भयेको थियो । टेलिग्राफ र टेलिफोन दुबै तारमा आधारित इलेक्ट्रिकल सिस्टम हो । एलेक्जेंडर ग्राहम बेलले टेलिग्राफलाई सुधारने प्रक्रियामा टेलीफोनको खोज गर्नु भयो ।जब उहाँले टेलीग्राफ माथि प्रयोग शुरु गर्नु भयो तब तेती बेला त्यो 30 वर्ष देखि स्थापित माध्यम थियो । त्यो माध्यमले एक पटकमा एक सन्देश पठाउन सकिन्थ्यो ।ग्राहम बेल संगितको शौखिन थिए । संगीतलाई मात्र कानले हैन दिमागले सुन्नुहुन्थ्यो । उँहा ध्वनीको स्वरूपको ज्ञाता पनि हुनुहुन्थ्यो । यसैले उहाँलाई टेलीफो"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 259,
+    "text_length_max": 1226,
+    "text_length_avg": 612.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8087,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22902.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8087,
+    "mtime": 1782796632.1869476,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "91f045593a7bd4c4e8c0305b957bd01192051a12",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "3709.txt",
+  "file_name": "3709.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व परिदृष्यमा अल्पविकसित राष्ट्रहरूमा भ्रष्टाचार नराम्ररी जरो गाडेर बसेको असाध्य रोग हो। विश्वका अतिकम विकसित मूलुकहरूमध्येमा पर्ने नेपाल पनि यस रोगबाट अछुतो छैन। नेपालमा भ्रष्टाचार बारे जे जति अध्ययन र चर्चा गरिन्छन् तिनीहरू बढीजसो आर्थिकपक्षमा नै केन्द्रित रहेका पाइन्छन। यस सन्दर्भमा यस लेखको उद्देश्य आर्थिक भ्रष्टाचार मात्र नभई अन्य पक्षका भ्रष्टाचार बारे पनि चर्चा गर्नु रहेको छ।",
+    "नेपालमा भ्रष्टाचारको चर्चा गर्दा राणाकाल अघिको समयको खासै चर्चा पाउन सकिएको छैन तथापि राणाकाल देखि वर्तमान समयसम्मको भने अध्ययन गर्न सकिन्छ। इतिहासका तथ्यहरू केलाउँदा के पाइन्छ भने तत्कालीन राणाशासकहरूले जनताको ठूलो आर्थिक र सामाजिक शोषण गरेका थिए र राष्ट्रको ढुकुटीमाथि हालीमुहाली गरी आफ्ना लागि ठूला ठूला महल बनाउने र विलासी कार्यमा राष्ट्रिय सम्पत्तिको दुरुपयोग गरेको पाइन्छ। तत्कालीन राणाशासक वीरशमशेरले राष्ट्रको ढुकुटी दुरुपयोग गरेर विदेशमा आफ्नो व्यक्तिगत खातामा रकम राखी देशको सम्पत्तिपलायनको"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 366,
+    "text_length_max": 955,
+    "text_length_avg": 569.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4648,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3709.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3709.txt",
+    "relative_path": "3709.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3709.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4648,
+    "mtime": 1782796568.5306654,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6c87af01eabd53ee6d6496c192bda863dec4157f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

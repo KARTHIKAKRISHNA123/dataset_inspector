@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "26536.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संत कबीर कवीरको जन्म आजभन्दा छ सय वर्ष पहिले सन् 1398मा -भारत) वनारस नगरको बाहिरी किनारामा भएको थियो। उनको जन्मको बारेमा कैँयौ कथा छन्। एक कथा धेरै ग्रन्थमा आएको छ कि उनी विधवा ब्राह्मणीका पुत्र थिए। लोकलज्जाले ब्राह्मणीले बालकलाई वनारस नजीक लहरतला पोखरी छेउमा छाडिदिइन्। त्यहाँ जुलाह नीरुदम्पतिले बालकलाई आफ्नो नाम दिए, पालनपोषण गरे।",
+    "कबीरपन्थीहरू कबीरका कुनै बुबा आमा नभएको र उनी आकाशबाट ज्योतिरूपमा पृथ्वीमा अवतीर्ण भएर बालकको रूपधारण गरेको विश्वास गर्छन् तर यो अतिशयोक्ति हो। सन्त रविदास, गुरू अमरदास, रज्जव आदि सन्तले कबीर मुस्लिम जुलहिनको कोखबाट जन्मेको भनेका छन्। कबीरका शिष्य धर्मदासले "
+  ],
+  "statistics": {
+    "records_sampled": 40,
+    "missing_text": 0,
+    "text_length_min": 23,
+    "text_length_max": 1015,
+    "text_length_avg": 303.02,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 31830,
+    "estimated_records": 105
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 105,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9914,
+      "Latin": 0.0086
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26536.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\26536.txt",
+    "relative_path": "archive (2)\\valid\\valid\\26536.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 31830,
+    "mtime": 1782796639.2546365,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ce411008b757fe05fc74625a0f7c17b7ae2af57e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "21203.txt",
+  "file_name": "21203.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युबिएस एजी एक स्विस बहुराष्ट्रिय वित्तीय सेवा कम्पनी हो । यस कम्पनीको स्थापना ज्युरिच को क्यानटोनमा भएको थियो र यसको सह केन्द्रिय कार्यालयहरू ज्युरिच तथा बासेलमा रहेको छ । यस कम्पनीले सम्पत्ति व्यवस्थापन, लगानी बैंकिग सेवा प्रदान गर्ने गर्दछ । यस कम्पनीको पूरा नाम युनियन बैंक अफ स्विटजरल्याण्ड रहेको थियो, जसको सन् 1998 मा स्विस बैंक संस्थानसँगको मर्जर पश्चात संक्षिप्त रूपमा युबिएस राखिएको हो । यस कम्पनीको शुरूवात सन् 1856 देखि भएको देखिन्छ । यस कम्पनीको CHF 22 खर्व बरारबको लगानी गरिएको सम्पत्ति ",
+    "यस बैंक युनियन बैंक अफ स्विटजरल्याण्ड र स्विस बैंक संस्थान सन् 1998 मा मर्ज भएर स्थापना भएको थियो भने पेनेवेब्बर सन् 2000 मा मर्ज भएको थियो । सन् 2012 मा युबिएस बैंकलाई लाईबोर दरमा हेरफेर गरेको आरोपमा 1.5 अर्ब अमेरिकी डलरको जरिबाना लगाइएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 246,
+    "text_length_max": 604,
+    "text_length_avg": 425.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9956,
+      "Latin": 0.0044
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2204,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9956,
+      "Latin": 0.0044
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21203.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21203.txt",
+    "relative_path": "21203.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21203.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2204,
+    "mtime": 1782796495.306562,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "83a220921854a19594c96175b3f924916dbf7a8e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16350.txt",
+  "file_name": "16350.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोझो अर्थमा बुझ्ने हो भने वाइन भनेको जाँड हो । नेपाली समाजमा चलन चल्तीमा रहेको अन्नबाट उत्पादन गरिने जाडँ नै वाइन हो । तर, वाइन अन्नबाट उत्पादन नगरी फलफूलको रसबाट बनाइन्छ । नेपालमा बन्ने गरेका वाइन स्याउ, अङ्गूर, चुत्रो, तीतेपाती, ऐँसेलु आदिबाट बनाइन्छ । जाँड र यसमा के फरक छ भने जाँड कलिलो समयमै खाइन्छ भने यसलाई प्रशोधन गर्न केही समय लाग्छ । विदेशीहरूले आफ्नो प्रभुत्व जमाउनका लागि वाइन अङ्गूरबाट मात्र बन्छ भन्ने गरेका पनि छन् । तर त्यसो होइन, वाइन फलफूलको रसबाट बन्ने गर्छ । फलफूल जुनसुकै पनि हुन",
+    "नेपालमा उत्पादित वाईन हरु "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 605,
+    "text_length_avg": 315.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1661,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16350.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16350.txt",
+    "relative_path": "16350.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16350.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1661,
+    "mtime": 1782796471.8567283,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "266a7c7fabcc95567c1c0f98fb489eef561127a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

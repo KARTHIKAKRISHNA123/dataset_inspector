@@ -1,0 +1,92 @@
+{
+  "dataset": "10946.txt",
+  "file_name": "10946.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सभासद् शरदसिंह भण्डारी 'विर्ख भण्डारी' माओवादी अछाम इन्चार्ज तथा राज्य समिति सदस्य पनि हुनुहुन्छ। 046 देखि राजनीतिमा लाग्नुभएका भण्डारीका दाजु र भाइ दुवैजना माओवादी पूर्णकालीन सदस्य हुनुहुन्छ। एकजना भाइको सेनाद्वारा हत्या भएको छ। 055 देखि भूमिगत राजनीति थाल्नुभएका भण्डारी 056मा पार्टीको जिल्ला समिति र 059मा क्षेत्रीय ब्युरो सदस्य तथा जिल्ला समिति सचिव हुनभएको थियो। ",
+    "अछामको मंगलसेन आक्रमणमा उहाँले एउटा साइडको कमिसारी गर्नुभएको थियो। बीएकमसम्मको औपचारिक अध्ययन पूरा गर्नुभएका भण्डारीपत्नी चेतना अखिल नेपाल शिक्षक संघको केन्द्रीय सदस्य हुनुहुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 162,
+    "text_length_max": 368,
+    "text_length_avg": 238.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2566,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10946.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10946.txt",
+    "relative_path": "10946.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10946.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2566,
+    "mtime": 1782796447.128369,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "e66aac4e00bc92b41cdcb78c5dfae8e1e5874eb3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

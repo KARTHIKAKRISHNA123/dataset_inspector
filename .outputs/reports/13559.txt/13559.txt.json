@@ -1,0 +1,91 @@
+{
+  "dataset": "13559.txt",
+  "file_name": "13559.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युइएफए च्याम्पियन्स लिग युरोपियन फुटबल एसोसिएशन द्वारा आयोजित एक महाद्वीपीय क्लब फुटबल प्रतिस्पर्धा हो जसमा शीर्ष-बिभाजित युरोपियन क्लबहरु समाबेश भएका हुन्छन् । यो विश्वको सबैभन्दा प्रतिष्ठित टूर्नामेन्ट र युरोपेली फुटबलमा सबैभन्दा प्रतिष्ठित क्लब प्रतिस्पर्धामा हो । युइएफए च्याम्पियन्स लिग फाइनलमा विश्वभर सबैभन्दा धेरै हेरिएको वार्षिक खेल हो । 2012-13 टूर्नामेंटको फाइनलले सबैभन्दा बढी टिभि रेटिङ पाएको थियोे र यो खेल 360 मिलियन टेलिभिजन दर्शकहरूले प्रत्यक्ष हेरेको थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 474,
+    "text_length_max": 474,
+    "text_length_avg": 474.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1268,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13559.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13559.txt",
+    "relative_path": "13559.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13559.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1268,
+    "mtime": 1782796459.0938632,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4a2b72ed2b2f6e3f7874cf0e39109cba5a5f143f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

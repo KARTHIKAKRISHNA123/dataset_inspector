@@ -1,0 +1,92 @@
+{
+  "dataset": "38274.txt",
+  "file_name": "38274.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टन्सिलाइटिस वा टन्सिल सुन्निने समस्या घाँटीको माथिल्लो भागमा रहेको टन्सिल नामको ग्रन्थी सुन्निने, रातो तथा तातो हुने समस्या हो। यो अत्यन्तै तिब्र गतिमा देखापर्छ। यो एक प्रकारको गला सुन्निने समस्या हो। यो रोग लागेको बेलामा घाँटी दुख्ने, ज्वरो आउने, टन्सिल बढ्दै जाने, निल्न गाह्रो हुने तथा घाँटी वरपरका लिम्फ नोडहरू बढ्ने जस्ता लक्षणहरू देखा पर्छन्। टन्सिलाइटिस बढ्दै गएमा टन्सिलबाट पिप निस्कने समस्या हुने गर्दछ।",
+    "टन्सिलाइटिस साधारणतया भाइरसको सङ्क्रमणका कारणले हुने गर्दछ। तथ्याङ्क अनुसार टन्सिलाइटिसका कुल बिरामी मध्ये 5 देखि 40 प्रतिसतमा मात्र ब्याक्टेरियाको सङ्क्रमण भएको पाइन्छ। यदि 'समूह ए'को स्ट्रेप्टोकक्कस ब्याक्टेरियाका कारणले टन्सिलाइटिस भएको हो भने यस्तो अवस्थालाई स्ट्रेप थ्रोअट भनिन्छ। निकै कम अवस्थामा निसेरिया गनोरी, कोरिनेब्याक्टेरियम डिफ्थेरी, वा हिमोफिलस इन्फ्लुएन्जीका कारणले पनि टन्सिल सुन्निने गरेको पाइन्छ। यो रोग प्रायजसो हावाका माध्यमबाट एक मानिसदेखि अर्को मानिसमा सर्ने गरेको पाइन्छ। सेन्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 412,
+    "text_length_max": 681,
+    "text_length_avg": 554.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5983,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38274.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38274.txt",
+    "relative_path": "38274.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38274.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5983,
+    "mtime": 1782796574.48572,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dcdd6c265bd302def82e44eebe1a800be1825b15",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

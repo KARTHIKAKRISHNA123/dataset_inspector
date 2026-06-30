@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "9330.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कम्प्युटरमा जोडियको सबै डिवाइसहरु आथवा साधनहरु लाई नै कम्प्युटरको पेरिफेरल साधन' भनिन्छ । आजको समयमा यस्ता पेरिफेरल हाडवेरहरू विशेष गरि CPU  PCI port, PS2 port हरूमा जोडिन्छ । जस्तै : लाईट पेन, वेब केमरा, डिजटल केमरा, एल ए एन कार्ड, MoDem, Scanner आदि पेरिफेरल हाडवेरहरू हुन् । यस्ता हाडवेरहरू इनपुट र आउट्पुट दुवै प्रकारको हुन सक्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 334,
+    "text_length_max": 334,
+    "text_length_avg": 334.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8955,
+      "Latin": 0.1045
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 815,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8955,
+      "Latin": 0.1045
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9330.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\9330.txt",
+    "relative_path": "archive (2)\\valid\\valid\\9330.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 815,
+    "mtime": 1782796674.2999787,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "70659fb551c2b674a3a92516d539fc4f557ee3e2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

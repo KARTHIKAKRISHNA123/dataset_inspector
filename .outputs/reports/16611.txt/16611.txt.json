@@ -1,0 +1,92 @@
+{
+  "dataset": "16611.txt",
+  "file_name": "16611.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ताकुमझा लाँकुरिबोट गोर्खा जिल्लामा पर्ने एउटा गाउँ विकास समिति हो। ताकु माझ लाँकुरिबोट र ताकुकोट दुई गाउँहरू बिक्रम् सम्बत् 2020 साल तिर एउटै गाउँपञ्चायत अन्तरगत पर्दथे। जस्को सिमना पूर्बमा पन्दुन्ग पस्चिम् म दरौंदी नदि उत्तरमा शौरपनि एवं दक्षिणमा मसेल सम्मको भु भाग रहेको थियो।पछि गाउ अलग् भय र यक ताकु कोट अनि अर्को ताकुमाझलाकुरिबोट गा बि स बनेका हुन।आज पनि धर्मिक कार्य गर्दा, कुन कार्य जस्तो, अन्नप्राश, नगि आदि कार्य गर्दा ताकुकोट कि माय भग्वतिको मन्दिरमा पुजा गर्ने गरेको पाइन्छ।",
+    "यहा, ब्राम्मण ,छेत्ऱीय ,गुरुन्ग ,बराम नेवार दमए, का मि आदि जति हरूको बसोवास रहेको छ।येस गा बि सको उत्तर दिसामा हुदिपारि डाडा र हुडी खओला हुडी परि डाडामा तामाको खानि पनि रहेको छ भन्ने मान्यता रहेको छ, यस ठाउमा 30% जाति ब्रम्हण 30% छेत्रि 5% मगर 5% बराम 20% गुरुन्ग 3% दोले धर्ति र 7 % दमै कामि हरूको बसोवस रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 180,
+    "text_length_max": 485,
+    "text_length_avg": 326.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2516,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16611.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16611.txt",
+    "relative_path": "16611.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16611.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2516,
+    "mtime": 1782796473.0860047,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5444137e559702cf7f41be69d651bce625d26d0f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

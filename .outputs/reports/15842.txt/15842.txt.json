@@ -1,0 +1,92 @@
+{
+  "dataset": "15842.txt",
+  "file_name": "15842.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्द्रबहादुर राई नेपाली मूलका दार्जिलिङ निवासी भारतीय नेपाली साहित्यकार हुन्। उनले नेपाली साहित्य र भाषाको श्री बृद्धिमा दिएको योगदान अविस्मरणीय छ। यसको उच्च मूल्याङ्कन स्वरूप उनलाई विभिन्न पुरस्कार तथा सम्मानबाट विभूषित गरिएको छ।",
+    "इन्द्रबहादुरको जन्म वि.सं. 1984 साल माघ 17 गते दार्जिलिङ, खर्साङ, बालासन खोलाको बगर, भारतमा बाबु रणवीर राई र आमा हस्तमाया देवानको सुपुत्रका रूपमा भएको हो। राई आफ्नो जन्मका सम्बन्धमा भन्छन्, \"मेरा बाबुआमा उक्त खोलाको पुल निर्माणको काममा खटिरहेका बेला त्यहीँ बगरमा जन्मिएको अरे\"। निम्न आय भएको परिवारमा जन्मे पनि उनको शिक्षादीक्षामा भने कुनै कमी हुन पाएन। अङ्ग्रेजी साहित्यमा स्नातकोत्तर गरेपछि प्राध्यापनमा लागे। पहिलो सङ्ग्रहका रूपमा विपना कतिपय सन् 1961 मा आएको हो। उपन्यास चाहिँ सन् 1958 मै लेखिसिध"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 230,
+    "text_length_max": 1859,
+    "text_length_avg": 770.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16419,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15842.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15842.txt",
+    "relative_path": "15842.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15842.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16419,
+    "mtime": 1782796469.4792664,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bc6bca393f5a731878063114c39c331d3b094d99",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "13198.txt",
+  "file_name": "13198.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिव्या खोसला कुमार एक भारतीय अभिनेत्री, निर्माता तथा निर्देशक हुन् । उनले आफ्नो निर्देशनको शुरुआत यारियाँ नामक चलचित्रबाट गरिन्, जुन 10 जनवरी 2014 मा सिनेमाघरमा प्रदर्शित भएको थियो ।",
+    "दिव्या कुमार खोसला विभिन्न भूमिकाहरू गर्छिन् । उनी एक पत्नी हुन्, एक आमा हुन्, एक अभिनेत्री हुन् र एक फिल्मकार हुन् । दिव्या \"टी-सीरीज\" को प्रमुख भूषण कुमारकी पत्नी हुन् । दुवैको एक छोरा छ, जसको नाम रुहान हो । दिव्याले सन् 2004 को चलचित्र ‘अब तुम्हारे हवाले वतन साथियों’ बाट आफ्नो अभिनय करियरको शुरुआत गरेकी थिइन् । सन् 2014 मा उनले चलचित्र ‘यारियाँ’ र त्यसपछि ‘सनम रे’ को निर्देशन गरिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 182,
+    "text_length_max": 389,
+    "text_length_avg": 285.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1473,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13198.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13198.txt",
+    "relative_path": "13198.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13198.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1473,
+    "mtime": 1782796457.5058289,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "118efb1b4b2e3282e5c96e0dd882a17197a06919",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

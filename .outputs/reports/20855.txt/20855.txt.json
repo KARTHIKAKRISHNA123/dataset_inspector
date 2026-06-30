@@ -1,0 +1,92 @@
+{
+  "dataset": "20855.txt",
+  "file_name": "20855.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यास्क वैदिक संज्ञाका एक प्रसिद्ध व्युत्पत्तिकार तथा वैयाकरण थिए । यिनको समय पाँचौँ र छैँटौँ शताब्दी ईसापूर्व थियो । यिनलाई निरुक्तकार भनिएको छ । निरुक्त लाई वेदको तेश्रो अंग मानिन्छ । यास्क ले पहिले निघण्टु नामक वैदिक शब्दकोष तयार गरेका थिए । निरुक्त त्यसैको विशेषण हो । व्याकरणशास्त्रमा निरुक्तको ठूलो महत्व छ । ",
+    "यास्क निरुक्त का लेखक हुन्, निरुक्त शब्द व्युत्पक्ति, शब्द वर्गीकरण, वा शब्दार्थ विज्ञानको उचीत प्रबन्ध हो । यास्कलाई शाकटायनका उत्तराधिकारी मानिन्छ जो वेदका व्याख्यानकर्ता थिए, उनको उल्लेख यास्कका रचनाहरुमा भेटिन्छ । निरुक्त मा यो सम्झाउने कोशिस गरिएको छ कि कसरीे वेदमा दिइएका विशेष शब्दहरुको अर्थ उनलाई थाहा भयो । यि धातु, प्रत्यय तथा शब्दसंग्रहबाट शब्दहरु बनाउने नियमतन्त्र युक्त छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 389,
+    "text_length_avg": 102.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2707,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20855.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20855.txt",
+    "relative_path": "20855.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20855.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2707,
+    "mtime": 1782796493.6793065,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a1e2fb064713da2ea0b421cb4611aaf366b330ee",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36353.txt",
+  "file_name": "36353.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संयुक्त राष्ट्र संघ एक अन्तराष्ट्रिय संस्था हो। यसको स्थापना 24 अक्टोबर 1945 मा भएको हो। यसमा हाल 193 राष्ट्रहरू सदस्य छन्, जसमा संसारका सबैजसो देशहरू पर्छ। सबै सदस्य राष्ट्रहरूलाई अन्तर्राष्ट्रिय कानुन, अन्तर्राष्ट्रिय सुरक्षा, आर्थिक विकास र सामाजिक निष्पक्षतामा आपसी सहयोग मिलोस भन्ने उद्देश्यसाथ संयुक्त राष्ट्र संघको स्थापना भएको हो। मुलत: अन्तर्राष्ट्रिय संघर्षमा हस्तक्षेप गर्ने सहज होस भनि दोस्रो विश्वयु्द्धको विजयी राष्ट्रहरू मिलेर यसको स्थापना भएको हो। तिनको सोचाईमा दोस्रो विश्वयु्द्धमा भ",
+    "संयुक्त राष्ट्रसँगको औपचारिक कामकाजमा अङ्ग्रेजी, चिनियाँ, फ्रान्सेली, रुसी, स्पेनी र अरबी भाषाको प्रयोग हुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 553,
+    "text_length_avg": 179.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2892,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36353.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36353.txt",
+    "relative_path": "36353.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36353.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2892,
+    "mtime": 1782796564.950964,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "083469bf4287dc6c82d597e5b8ce6df7608c8797",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "24133.txt",
+  "file_name": "24133.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मध्यपश्चिमाञ्चल विश्वविधालय सुर्खेत जिल्लाको वीरेन्द्रनगरमा उपकुलपतीको कार्यालय राखी मध्यपश्चिमाञ्चल विकासक्षेत्र भरी क्यामपस बिस्तार गरिने छ । यो क्षेत्रीय विश्वविधालयको अवधारणा अनुरूप खोल्न लागीएको नेपालको यो तेश्रो विश्वविधालय हो । यो विश्वविधालय स्थापनार्थ अध्यनगर्न नेपाल सरकारले हालै एक समिती समेत गठन गरेको छ। विश्वविद्यालय स्थापनाका लागि वीरेन्द्रनगर-12 मा 2 सय 20 बिघा जमीन छुट्याइएको छ । मध्यपश्चिमाञ्चल विश्वविद्यालयका लागि सुरखेती जनताले जम्मा गरेको डेढ करोड स्थानीय स्तरमा संकलन गरेका छन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 502,
+    "text_length_max": 502,
+    "text_length_avg": 502.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1357,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24133.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24133.txt",
+    "relative_path": "24133.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24133.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1357,
+    "mtime": 1782796508.3216214,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "34860768002a7208d5b83a7fcc9aed88e37ed203",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

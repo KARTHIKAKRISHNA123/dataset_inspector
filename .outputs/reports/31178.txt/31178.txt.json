@@ -1,0 +1,91 @@
+{
+  "dataset": "31178.txt",
+  "file_name": "31178.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यौन हिंसा भनेको स्त्रीहरू माथि गरिने यौनजन्य अबैध, अनैतिक, अनुचित र नाजायज व्यवहार हो, अर्थात् उनीहरूलाई भोग विलासको साधन सम्झेर कुनैपनि प्रकारको यौनजन्य हिंसा गरिनुलाई यौनहिंसा भनिन्छ । महिलाको विना इच्छा कुनै व्यक्तिले कुनै अंग वा कुनै वस्तु महिलाको यौनाङ्गमा प्रवेश गराउँछ भने त्यसलाई बलात्कार भनिन्छ र उही स्त्रिलाई नराम्रो दृष्टिले जिस्काउनु, अश्लीलता व्यवहार गर्नु, छूने प्रयास गर्नु, अश्लील वा अनैतिक टिप्पणी गर्नु आदि पनि यौनहिंसाको श्रेणीमा पर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 459,
+    "text_length_max": 459,
+    "text_length_avg": 459.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1230,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31178.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31178.txt",
+    "relative_path": "31178.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31178.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1230,
+    "mtime": 1782796541.216423,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "693ac5e7c594728f2fc7fa964ee2f8da538ab6f6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

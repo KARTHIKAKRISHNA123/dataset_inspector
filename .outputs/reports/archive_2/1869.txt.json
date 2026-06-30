@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1869.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अंजलि पाटिल एक भारतीय चलचित्र अभिनेत्री हुन् । उनी हिन्दी चलचित्रहरूको साथसाथै मराठी, तेलुगु, मलयालम, कन्नड, सिंहली तथा अङ्ग्रेजी चलचित्रहरू पनि गरिसकेकी छिन् । उनले आफ्नो अभिनय यात्राको शुरुआत 2011 मा एक हिन्दी चलचित्र दिल्ली इन ए डे बाट गरेकी थिइन् । जसमा उनी रोहिणी नामक महिलाको भूमिका पुरा गरेकी थिइन् । उनलाई पहिलो पुरस्कार सन् 2014 मा एक तेलुलु चलचित्र ना बंगारु तल्लीको लागि राष्ट्रिय चलचित्र पुरस्कार प्राप्त भएको थियो ।",
+    "अंजलि पाटिलको जन्म एक मराठी परिवारमा भएको थियो र उनी नाशिकमा हुर्केकी हुन् । उनले चौध वर्षको उमेरमा अभिनय गर्ने निश्चय गरेकी थिइन् । यस कारण उनको माता-पिताले उनलाई अभिनयको शिक्षाको लागि सावित्रीबाई फुले पुणे विद्यापीठ पढाएका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 230,
+    "text_length_max": 428,
+    "text_length_avg": 329.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1732,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1869.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1869.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1869.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1732,
+    "mtime": 1782796623.788718,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b40958469b36ba0b4c5bbed7758dc6b5a77ed5fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "24907.txt",
+  "file_name": "24907.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साधारण भाषा दर्शन एक दर्शनको प्रकार हो, जसमा दैनिक जीवनमा प्रयोग गरिने भाषाको प्रयोग गरिन्छ। यसको जन्म विश्लेषणात्मक दर्शन भएको हो, यो 20औँ शताव्दीमा अङ्ग्रेजी भाषा बोलिने देशहरूमा सबै भन्दा सरल दर्शन गर्ने तरिका थियो।",
+    "विश्लेषणात्मक दर्शन शास्त्री बर्ट्रान्ड रसेलले साधारण भाषा आफै अलमलमा रहेको मान्दथे, र आदर्शवादी र सही शब्दहरू प्रयोग गरेर आफ्नो बिचार व्यक्त गर्दथे। साधारण भाषा दर्शन शास्त्रीहरू भने विश्लेषणात्मक दर्शन शास्त्रीहरूको शव्दहरूको वास्तविक अर्थ भुल्ने गरेको मान्दथे। उनीहरूले साधार भाषा प्रयोग गर्दा आफ्ना बिचार स्पष्ट गर्न र आफ्ना गल्तिहरू सजिलै औल्याउन हुने विश्वास राख्थे।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 372,
+    "text_length_avg": 247.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.971,
+      "Latin": 0.029
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1950,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.971,
+      "Latin": 0.029
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24907.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24907.txt",
+    "relative_path": "24907.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24907.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1950,
+    "mtime": 1782796511.869895,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "2bf8451bf2cbda978c016da1a3087a0a55554f4e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

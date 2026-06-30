@@ -1,0 +1,92 @@
+{
+  "dataset": "30831.txt",
+  "file_name": "30831.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यसको चलन खासगरी मगर जातिमा विद्यमान छ । यसमा नातेदार बाहेक र पर्ने समेतका केटाकेटी आइमाई लोग्नेमान्छे सँगसँगै हातमा हात मिलाई नाच्ने र गाउने परम्परा छ । आफ्नो नातेदारका साथमा नाच्दा बिच बेनाताका केटाकेटी आएका खण्डमा नातेदारहरूले उनीहरूलाई पनि नाच्ने मौका दिन्छन् र रमाइलो गरि नाच्दछन् । यसलाई मगर जातिहरूले ठुलो चाडको रुपमा मनाउने गर्दछन् ।",
+    "यो खासगरी हामी तमाम नेपालीले मान्ने तिहारको बेलामा नै मनाइन्छ र पुर्णिमासम्म नाच्ने गाउने कार्यक्रम चल्दछ । तिहारमा देउसी भैलो खेले जस्तै यसलाई देउसिको रूप लिंदा अतिशयुक्ती नहोला । यसमा दाजु, दिदि, बहिनी र अरु केटाकेटी खुट्टाको चाल र मादलको तालमा मिलाउने गरि रमाई-रमाई उफ्रि उफ्रि नाच्दछन् ।यसरी नृत्यकै सिलसिलामा नातेदार बाहेक एक-अर्काले मनले चिताएमा बिवाह गर्ने चलन पनि छ किनभने एक अर्कामा मायापृतिको सँगालो मायालाई आमावाबुले पनि घृणाको दृष्टिले नहेरी राजिखुशिले विवाह गरिदिने परम्परा पनि विद्यमान "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 60,
+    "text_length_max": 503,
+    "text_length_avg": 250.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2683,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30831.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30831.txt",
+    "relative_path": "30831.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30831.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2683,
+    "mtime": 1782796539.703256,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "49dcb466023947142203d6d5ecfcdabe15f5b9db",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "4895.txt",
+  "file_name": "4895.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फुटबल खेलमा विपक्षीको गोलपोष्ट क्षेत्रमा रहने खेलाडीहरूलाई अग्रपंक्ति भनिन्छ। यिनीहरूलाई आक्रमक खेलाडी तथा स्ट्राइकर पनि भनिन्छ। यसैले गर्दा यिनीहरू मुख्यतः गोल स्कोरिङ्गको लागि जिम्मेवार हुन्छन्। यो धेरै नै अग्रस्थान र यसको सीमित रक्षात्मक जिम्मेवारीले गर्दा सामान्य रूपले अन्य खेलाडिहरूले भन्दा ज्यादा गोल गर्छन्; यसअनुसार, यिनीहरू आफ्नो टीमहरूका खेलाडिहरू मध्य अक्सर सबैभन्दा प्रसिद्ध र सबैभन्दा महँगा हुन्छन्। यो आधुनिक फुटबलमा सबैभन्दा अधिक माग हुने स्थान मध्य एक हो, यसमा राम्रो तरिकाले प्रदर्श",
+    "आधुनिक टीम संरचनाहरूमा सामान्यतया 1 देखि 3 जना अग्रपंक्ति हुन्छन्, यसमा सामान्यतया दुई जना रहन्छन्। प्रशिक्षकले सामान्यतया यस्को लागि अग्रस्थानमा खेल्ने एक स्ट्राइकर, र गोल गर्नुका साथै गहिराइ खेलेर गोल स्कोरिङ्गको लागि राम्रो तरिकाले सहयोग पुर्याउँने एउटा अर्को आक्रमक खेलाडी लाई लिन्छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 289,
+    "text_length_max": 557,
+    "text_length_avg": 423.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2282,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4895.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4895.txt",
+    "relative_path": "4895.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4895.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2282,
+    "mtime": 1782796581.8561695,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6319438e37b817d5bb604dc430dcac534bf15dbb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

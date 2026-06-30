@@ -1,0 +1,91 @@
+{
+  "dataset": "25484.txt",
+  "file_name": "25484.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झोला सामान राखेर बोक्न छाला अथवा कपडाबाट बनाइने थैलो हो जो दैनिक प्रयोगमा आउने अत्यावश्यक सामग्री हो यसको प्रयोग परापूर्व कालदेखि नै हुँदै आएको छ । यकिन रुपमा यतिनै बेलादेखि भन्न नसकिए पनि झोलाको इतिहास भने पुरानो छ । प्राचिन समयमा बोरा या छाला आदिबाट भिर्न मिल्ने फिता राखेर बनाइने भएपनि अहिलेको समयमा ल्यापटप, मोबाइल पैसा विभिन्न निर्माण समाग्री लगायत हरेक क्षेत्रमा प्रयोग गर्न मिल्ने गरी झोला निर्माण गरिन्छ । प्लास्टिक जन्य झोलाहरु स्वास्थ्य तथा वातावरणका लागि हानिकारक हुने हुँदा विभिन्न देशहरु"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 605,
+    "text_length_max": 605,
+    "text_length_avg": 605.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1614,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25484.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25484.txt",
+    "relative_path": "25484.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25484.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1614,
+    "mtime": 1782796514.5937443,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8dcdbfff3e244d48d4b354541d5ee640e7ceba57",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

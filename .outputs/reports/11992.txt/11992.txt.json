@@ -1,0 +1,92 @@
+{
+  "dataset": "11992.txt",
+  "file_name": "11992.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गुणराज लुइँटेल नेपालका एक पत्रकार हुन् । उनले युगसम्वाद साप्ताहिकबाट पत्रकारिता सुरु गरेका थिए । ",
+    "गुणराज लुइँटेल यसअघि अन्नपूर्ण पोस्ट् राष्ट्रिय दैनिकका प्रधान सम्पादक भएका थिए। 'कान्तिपुर' दैनिक र 'नागरिक' दैनिकमा समेत उनले लामो समय काम गरेका थिए। अन्नपूर्ण पोस्टमा कार्यकारी सम्पादक थिए। त्यसैगरी नागरिक दैनिकको पश्चिमेली संस्करणको आवासीय सम्पादकको रुपमा पनि उनले काम गरेका थिए। उनी सेतोपाटीमा प्रमुख टिप्पणीकारको रुपमा आवद्ध थिए। विसं 2072 साल जेठ 11 गते देखि उनले नागरिक दैनिकको प्रधान सम्पादकको रूपमा आफ्नो जिम्मेवारी सम्हालेका हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 97,
+    "text_length_max": 442,
+    "text_length_avg": 242.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1965,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11992.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11992.txt",
+    "relative_path": "11992.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11992.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1965,
+    "mtime": 1782796451.9379587,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f31e49627672592a331a24ea2c2199d69e8b673a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

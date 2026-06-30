@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14043.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली रङ्गमञ्चको मौलिक पहिचान बारे यस लेखमा चर्चा गर्न खोजिएको छ ।",
+    "नेपाली नाटक र रङ्गमञ्चीय परम्पराको इतिहास निकै लामो देखिन्छ। हरिसिद्धि पुराणअनुसार नेपालमा सर्वप्रथम विक्रम संवत् 941मा हरिसिद्धि नाटक मञ्चन भएको बुझिन्छ। लिच्छविकालमा ललितकलाको विकासमा निकै जोड दिइएको कुरा तत्कालीन नृत्य र कलाकौशलको बारेमा त्यसबेलाका अभिलेखहरूमा उल्लेख गरिएकोबाट समेत पुष्टि हुन्छ। नरेन्द्रदेवको पालामा नृत्य पारखीहरू निकै थिए। यसैगरी द्वितीय जयदेवको समयको शिलापत्रमा 'पोण्डिमण्डपीका' र 'पे्रक्षण मण्डपी'को उल्लेखबाट त्यो बेला ती ठाउँ विभिन्न शुभकार्य गर्न र नृत्य वा नाटक गर्न त्यस"
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 1310,
+    "text_length_avg": 407.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 48890,
+    "estimated_records": 120
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 120,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14043.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14043.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14043.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 48890,
+    "mtime": 1782796614.6184871,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e83d2681611cf851688798fa604aced04ab4e6b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

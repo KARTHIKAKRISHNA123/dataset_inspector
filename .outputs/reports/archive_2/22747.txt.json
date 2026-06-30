@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "22747.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिलोस जेमान चेक गणतन्त्रका राष्टपति हुन् । उनले सन् 2013 मार्च 8मा पदभार सम्हालेका थिए । सन् 2013 जनवरी 11-12मा चेक गणतन्त्रमा भएको राष्ट्रपतिको प्रत्यक्ष निर्वाचनमा उनले 24.2 प्रतिशत मत पाएका थिए । उनी पार्टी अफ सिटिजन्स राइट्सका नेता हुन् । जनवरी 11-12को निर्वाचन अनिर्णित भएपछि जनवरी 25-26मा दोस्रो चरणको निर्वाचन भएको थियो । दोस्रो चरणमा उनले 54.8 प्रतिशत मत पाएका थिए । कूल मतदान 59.1 प्रतिशत भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 409,
+    "text_length_max": 409,
+    "text_length_avg": 409.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1018,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22747.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\22747.txt",
+    "relative_path": "archive (2)\\valid\\valid\\22747.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1018,
+    "mtime": 1782796631.8071203,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.98,
+    "sha1_quick": "2f33a087b86a6e06018b958eda6b9275172d8ad5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

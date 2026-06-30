@@ -1,0 +1,92 @@
+{
+  "dataset": "21356.txt",
+  "file_name": "21356.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल प्रेस युनियन नेपालका प्रजातन्त्रवादी पत्रकारहरूको साझा सङ्गठन हो । ",
+    "2048 साल जेठ 13 गतेका दिन प्रजातान्त्रिक पत्रकारहरुको भेलाले पेशागत प्रत्याभूति र एकताबद्ध तथा संगठित रुपमा अगाडि बढ्ने दृढ धारणा प्रतिबद्धता गर्दै नेपाल प्रेस युनियनको स्थापना भएको हो । श्रमजीवि पत्रकारहरुको हकहित संरक्षण पनि ट्रेड युनियन आन्दोलनले नै गर्न सक्छ भन्ने हेतुले 2048 साल जेठ 13 गते तत्कालीन प्रधानमन्त्री स्व.गिरिजाप्रसाद कोइरालाका प्रेस सल्लाहकार जयप्रकाशप्रसाद गुप्ताको संयोजकत्वमा 9 सदस्यीय तदर्थ समिति गठन गरी नेपाल प्रेस युनियनको जन्म भएको हो । "
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 73,
+    "text_length_max": 1098,
+    "text_length_avg": 625.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 34763,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21356.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21356.txt",
+    "relative_path": "21356.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21356.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 34763,
+    "mtime": 1782796496.0401113,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2601a2f2e16b044e2e1acc6f80b649be11524803",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

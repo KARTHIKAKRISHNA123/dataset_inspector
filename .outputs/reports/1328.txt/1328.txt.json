@@ -1,0 +1,92 @@
+{
+  "dataset": "1328.txt",
+  "file_name": "1328.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लम्साल नेपाल,तथा भारतका विभिन्न स्थानहरूमा बसोबास गर्ने हिन्दू धर्मावलम्बी विशेषतया नेपालीहरूको थर हो।",
+    "यिनीहरूका पूर्वज दैलेख जिल्लाको लम्शु गाउँबाट उद्गम भएको मानिन्छ। साथै स्याङ्जा जिल्लाको ज्याग्दीखोलामा पनि लम्शालहरूको पूर्ख्यौली थलो हो भन्ने पनि पाईएको छ । हाल आएर नेपाल भरी लम्साल थर भएका मानिसहरू छन् । विशेषगरी स्याङ्गजा, तनहुँ जिल्ला, चितवन, गुल्मी जिल्ला,पर्वत जिल्ला वाग्लुङ्ग, दैलेख, भोजपुर, संखुवासभा र ताप्लेजुङ्गमा वढी बसोबास छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 341,
+    "text_length_avg": 157.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1703,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1328.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1328.txt",
+    "relative_path": "1328.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1328.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1703,
+    "mtime": 1782796457.8925111,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ea825add1421d297604beb93edb11df88d6287a6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

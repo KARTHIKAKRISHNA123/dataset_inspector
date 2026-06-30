@@ -1,0 +1,93 @@
+{
+  "dataset": "25738.txt",
+  "file_name": "25738.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कौटिलीय अर्थशास्त्रबाट पठाइएको ",
+    "कुनै देशको आर्थिक विकास गर्नका लागि राज्यले नीतिलाई अर्थनीति भनिन्छ । आधुनिक अर्थशास्त्रमा यस नीति अन्तर्गत कुनै देशको अर्थव्यवस्थाका उत्पादन र उपभोग सम्बन्धी अवस्था, उत्पादनका साधन र त्यसमा स्वामित्व, धनको वितरण, मौद्रिक अवस्था, आर्थिक विकासमा निजी, सरकारी र सहकारी क्षेत्रको भूमिका सम्बन्धी नीति पर्दछन् । कौटिलीय समयमा पनि यस सम्बन्धी चिन्तन गरिएको छ । आधुनिक अर्थव्यवस्थाका क्षेत्रहरुलाई विकास गर्न त्यसलाई मोटामोटी तीन क्षेत्रमा विभाजन गर्ने प्रचलन छ, प्राथमिक क्षेत्र, द्वितीयक क्षेत्र, र तृतीय"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 1493,
+    "text_length_avg": 624.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.994,
+      "Latin": 0.006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 28391,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25738.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25738.txt",
+    "relative_path": "25738.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25738.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 28391,
+    "mtime": 1782796515.7869246,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "73f5869f69073f691c201cd929e59faa89a90179",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

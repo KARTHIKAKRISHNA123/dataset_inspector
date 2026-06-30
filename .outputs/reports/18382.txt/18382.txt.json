@@ -1,0 +1,91 @@
+{
+  "dataset": "18382.txt",
+  "file_name": "18382.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोपान एक नेपाली भाषाको पत्रिका हो। यो पत्रिकाको सम्पादन कार्य कृष्णचन्द्र देवकोटाद्वारा भएको छ। यो पत्रिकाको प्रकाशक - हो। यसको प्रकाशन वनारसमा पाक्षिक अवधिमा हुन्छ। यसको पहिलो प्रति 1954 ई. सेप्टेम्वरमा प्रकाशित भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 223,
+    "text_length_max": 223,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 593,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18382.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18382.txt",
+    "relative_path": "18382.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18382.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 593,
+    "mtime": 1782796481.8417969,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a97fa8aa6f0c248215a801b62b61e73196b7dad2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "32072.txt",
+  "file_name": "32072.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चार्ल्स थमस मङ्गर एक अमेरिकी लगानीकर्ता, व्यापारी र दार्शनिक हो। उहाँ बर्कशायर हथवेको उपाध्यक्ष हुनुहुन्छ । यो वारेन बफेट द्वारा नियन्त्रित सङ्गठन हो; बफेटले मेरो साथीको रूपमा मङ्गर वर्णन गरेको छ। मङ्गर Wesco वित्तीय निगम को अध्यक्ष को रूप मा 1 9 84 देखि 2011 सम्म कार्य गरे।",
+    "चाल्र्स थोमस मङ्गर लाई वारेन बफेटका दायाँ हातको रुपमा पनि चिनिन्छ । वारेन बफेटको बर्कसायर हाथवेका उपाध्यक्ष रहेका मङ्गरलाई बफेटले आफ्नो पार्टनर बताउँछन् । चार्ली मङ्गरको जन्म 1924 को जनवरी 1 मा भएको थियो । युवा अवस्थामा उनले वारेन बफेटका हजुरबुवाको खाद्यान्य पसलमा काम गरेका थिए । उनी 19 वर्षको उमेरमै आर्मीमा भर्ती भए । आर्मी छोडेपछि उनले हार्वर्ड विश्वविद्यालयमा कानुन विषय बढ्न थाले । "
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 181,
+    "text_length_max": 470,
+    "text_length_avg": 333.58,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10563,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9985,
+      "Latin": 0.0015
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32072.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32072.txt",
+    "relative_path": "32072.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32072.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10563,
+    "mtime": 1782796545.4230266,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3b8e0848e603ee5d66b3c24ec79c4f1f6a72b789",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

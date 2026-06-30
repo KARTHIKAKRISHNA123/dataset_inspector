@@ -1,0 +1,92 @@
+{
+  "dataset": "29959.txt",
+  "file_name": "29959.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जग्गी वासुदेव एक लेखक हुन् । उनलाई सद्गुरु पनि भनिन्छ । उनी ईशा फाउन्डेशन नामक लाभरहित मानव सेवी संस्थान का संस्थापक हुन् । ईशा फाउन्डेसन भारत सहित, संयुक्त राज्य अमेरिका, इंग्ल्याण्ड, लेबनान, सिंगापुर एवं अष्ट्रेलियामा योग सिकाउँछ साथै सामाजिक एवं सामुदायिक विकास योजनाका कामहरु पनि गर्दछ । यसलाई संयुक्त राष्ट्र को आर्थिक एवं सामाजिक परिषद् मा विशेष सल्लाहकार को पदवी प्राप्त छ । उनले 8 भाषामा 100 भन्दा धेरै पुस्तकको रचना गरेका छन् । ",
+    "प्रारम्भिक जीवन "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 943,
+    "text_length_avg": 554.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10157,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29959.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29959.txt",
+    "relative_path": "29959.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29959.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10157,
+    "mtime": 1782796535.6275127,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "289a8f4e51256a151e0f8976d3a7d503039629e3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

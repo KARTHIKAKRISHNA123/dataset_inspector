@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6876.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेहन्दी, जस्लाई हिना पनि भनिन्छ, दक्षिण एसियामा शरिरका भागहरूलाई सजाउन प्राचिन कालदेखि प्रयोग गरिदै आएको वनष्पतीय सामग्री हो । यस्लाई हात, खुट्टा आदिमा लगाइन्छ । सन् 1990 को दशक देखि पश्चिमी देशहरूमा पनि मेहन्दी लगाउन थालिएको छ । ",
+    "मेहन्दी लगाउनको लागि हिना नामक विरूवा/झाडीको पातहरूलाई सुकाएर पिसिन्छ । त्यसपछि यसको पेस्ट बनाएर लगाइन्छ । केही घन्टा पछि यसले छालामा रातो-मरुन रङ्ग दिन्छ, जुन केहि हप्ता सम्म रहिरहन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 185,
+    "text_length_max": 230,
+    "text_length_avg": 207.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1096,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6876.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6876.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6876.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1096,
+    "mtime": 1782796669.4928768,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "870861878e5ef16f6585fe5597d8d20fae0f828b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

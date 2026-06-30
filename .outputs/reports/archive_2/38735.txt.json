@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38735.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भित्री मधेस भनेको नेपालको पहाडी क्षेत्र र तराई क्षेत्रका बिच बिभिन्न 7 वटा उपत्यका हरूको समुह हो। यस समुहका उपत्यकालाई भित्री तराई अथवा भित्री तराईका उपत्यका समेत भनिन्छ, भित्री मधेस अथवा भित्री तराई भनिने उपत्यका हरू निम्न रहेका छन 1. जोगबुढा 2.दाङ 3.देउखुरी 4. चितवन 5. माडी 6. सिन्धुली 7. उदयपुर । भित्री मधेस भनिने यि उपत्यकाहरू उत्तरमा माहाभारत पर्वतले पाहाडी क्षेत्रसँग छुट्रएका छ भने तराइसँग चुरे पर्वतमालाले अलग बनाएको छ। क्षेत्रफलमा साना र ठूला रहेका यी उपत्यकाहरू पहाडी उपत्यका भन्दा गर्मी ",
+    "डडेल्धुरा जिल्लामा पर्ने जोगबुढा उपत्यकाको दक्षीणमा प्रसिध्द शुक्लाफांट बन्यजन्तु संरक्षण क्षेत्र रहेको छ भने जोगबुढा नदीले चिरेर गएको यो उपत्यका डडेल्धुरा जिल्लाको मुख्य अन्न भण्डार हो। विकासका दृष्टीले केही पछि परेको भए तापनी क्रमश बिकसीत हुदैछ। जोगबुढा नदीले सिंचीत गरेको यो उपत्यकालाई जोगबुढा उपत्यका पनि भनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 1392,
+    "text_length_avg": 743.92,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 25727,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9764,
+      "Latin": 0.0236
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38735.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38735.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38735.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 25727,
+    "mtime": 1782796663.5422215,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2d97f6d96d1f832248316e7b243b8d46b2576ddb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

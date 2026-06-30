@@ -1,0 +1,92 @@
+{
+  "dataset": "17256.txt",
+  "file_name": "17256.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सांस्कृतिक क्रांति जनवादी गणराज्य चीनमा माओ त्से-तुंग द्वारा चलाएकोइयो एक सामाजिक-राजनीतिक आउँ दोलन थियो सन् 1966बाट आरम्भ भएर सन् 1976सम्म चला। माओ ती समय चीनको कम्युनिस्ट पार्टीका अध्यक्ष थिए। 16 मई, 1966लाई शुरू भए यो क्रांति 10 वर्षहरूसम्म चल्यो र यसले चीनका सामाजिक ढांचेमा धेरै ठूलो परिवर्तन गरे। यस क्रांतिको शुरुआतको घोषणा गर्दै माओ-त्से-तुंगले चेतावनी दिएका थिए कि बुर्जुआ वर्ग कम्युनिस्ट पार्टीमा आफ्नो प्रभाव कायम गरेर एक तरहको तानाशाही स्थापित गर्न चाह्दछ। वास्तवमा सांस्कृतिक क्रांतिको अ",
+    "शुरुआतमा माओ र तीका समर्थकहरुले हजारौं रेड गार्डहरुलाई एकजुट गरेर तिनलाई चीनी समाजका चार पुराना स्तंभहरुलाई खत्म गर्नको लागि भन्यो। यो चार स्तम्भ थिए - पुराना रिवाज, तौर-तरिका, संस्कृति र पुरानो सोच।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 199,
+    "text_length_max": 619,
+    "text_length_avg": 465.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4953,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17256.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17256.txt",
+    "relative_path": "17256.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17256.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4953,
+    "mtime": 1782796476.40443,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "e6615b039c423d632ce47edb7bdae832db49f827",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

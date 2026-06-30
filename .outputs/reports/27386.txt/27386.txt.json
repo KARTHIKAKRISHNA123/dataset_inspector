@@ -1,0 +1,92 @@
+{
+  "dataset": "27386.txt",
+  "file_name": "27386.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल संवत नेपालमा प्रचलित एक लुनार क्यालेण्डर अर्थात चन्द्रमासमा आधारित यो साल नेपालको राष्ट्रीय सम्बतहो। विशेषतयो संवत नेपालको मौलिक राष्ट्रीय संवत हो। नेपाल संवतका प्रवर्तक शंखधर् साख्वा हुन्। उनले नेपालका सबै जनताको ऋण तिरेर नेपाललाई ऋणमुक्त बनाएको दिनको सम्झनामा यो सम्बत थालिएको हो। नेपाल सम्वत 1133 वर्ष पहिले भक्तपुरका राजा राघब देवको आज्ञामा राष्ट्रीय सम्बतको रूपमा नेपालको कार्यालहरुमा चलाईएको थियो । नेपालमा औपचारिक रूपले यो संवत चन्द्र शमशेरको कार्यकालसम्म प्रचलनमा रह्यो। यो संवतको पहिलो",
+    "पहिलो ज्योतिषका अनुसार शंखधरले घरमा ल्याएको बालुवा चार दिनपछि सुनमा परिणत भएको थियो । त्यो सुन उनले ऋणमा डुबेका गरिब जनतालाई बाँडेका थिए । अनि जनताले आफ्नो ऋण तिरेको भनाइ छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 174,
+    "text_length_max": 972,
+    "text_length_avg": 498.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5285,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27386.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27386.txt",
+    "relative_path": "27386.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27386.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5285,
+    "mtime": 1782796523.4164183,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4b22f5044728a98e8a978ce02c7dccf4b7e195f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "35318.txt",
+  "file_name": "35318.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2016 फिफा महिला विश्वकप फिफा यु-17 महिला विश्वकपको पाचौं संस्करण हो ।जोर्डनले पहिलोपटक यस प्रतियोगिताको आयोजना गरेसँगै पहिलै पटक यस प्रतियोगितामा सहभागीता जनाउने सुवर्ण अवसर प्राप्त गरेको थियो ।30 सेप्टेम्बर देखि 21 अक्टोबर 2016 सम्म संचालन भएको यस प्रतियोगिता उत्तर कोरियाले जापानलाई पेनाल्टी सुटआउटमा 5-4 ले पराजित गरि दोस्रोपटक जित्न सफल भएको थियो ।",
+    "यस प्रतियोगिताको लागि विभिन्न चरणबाट 16 राष्ट्रहरूले स्थान बनाएका थिए।जोर्डनबाहेक अन्य 15 टिमले छनोट चरण पार गरेर यस प्रतियोगितामा स्थान बनाए भने जोर्डनले भने आयोजकको हैसियतले पहिलेनै स्थान बनाएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 352,
+    "text_length_avg": 165.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1729,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35318.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35318.txt",
+    "relative_path": "35318.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35318.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1729,
+    "mtime": 1782796560.0943494,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "88d8e2b6f955cccec21548f2bf06af31bb8afbbb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

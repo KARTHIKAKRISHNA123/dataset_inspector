@@ -1,0 +1,92 @@
+{
+  "dataset": "9265.txt",
+  "file_name": "9265.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पनीर एक दुग्ध-उत्पाद हो। यो चीज को एक प्रकार छ जुन भारतीय उपमहाद्वीपमा खूब उपयोग गरिन्छ। त्यहि तरिका छेना पनि एक विशेष प्रकारको भारतीय चीज छ जुन पनीर देखि मिलता-जुलता छ र रसवरी बनाउनमा प्रयुक्त हुन्छ। भारतमा पनीरको प्रयोग सीमित मात्रामा नै हुन्छ। कश्मीर आदि जस्तै चिसा स्थानहरूमा अपेक्षाकृत अधिक पनीर खाइन्छ। ",
+    "स्वास्थ्यवधर्क खाद्यपदार्थको रूपमा पनीर वा पनीर बडा महत्वपूर्ण एवं चिसा देशहरूमा बहुप्रचलित खाद्य हो। जस्तै रोगिहरू, बच्चाहरू एवं बूढहरूको लागि जसलाई मांसुयुक्त भोजन पचाउनमा कठिनाई हुन्छ, तिनीहरू लाई पनीर श्रेष्ठ खाद्य पदार्थ मानिन्छ, किनकी यसमा प्रोटीन, मासुमा जत्ति नै यथेष्ट मात्रामा हुन्छ र अधिक पाचक दशामा रहन्छ। साथ साथै क्यालोरि को मात्रा मासुमा जति नै हुन्छ। चिसा प्रदेशहरू मा, जहाँ पनीर लाई बीना कुनै कठिनाई एकदम लामो समय सम्म राम्रै हालतमा राख्न सकिन्छ, पनीरको प्रयोग धेरैमा हुन्छ। अफगानिस्"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 922,
+    "text_length_avg": 429.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6870,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9265.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9265.txt",
+    "relative_path": "9265.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9265.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6870,
+    "mtime": 1782796603.3703723,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "295d61863f1ddfb670564c1d147d1d6328f07b57",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

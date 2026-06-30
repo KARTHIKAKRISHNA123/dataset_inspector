@@ -1,0 +1,91 @@
+{
+  "dataset": "13029.txt",
+  "file_name": "13029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    " कोल्डप्ले एक बहुचर्चित ब्रिटिश रक ब्याण्ड हो। यस ब्याण्डका सदस्य क्रिस मार्टिन, जोन्नी बकल्याण्ड, गाइ बेर्रीमन, विल च्याम्पियन छन्। कोल्डप्ले आठ ओटा ब्रिट अवार्ड र छब्बीस ओटा ग्राम्मी अवार्ड नोमिनेसनमा परिसकेको छन्। कोल्डप्लेले सात ओटा ग्राम्मी अवार्ड र आठ ओटा ब्रिट अवार्ड जितेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 284,
+    "text_length_max": 284,
+    "text_length_avg": 284.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 759,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13029.txt",
+    "relative_path": "13029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13029.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 759,
+    "mtime": 1782796456.8140674,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ab0ca5602502d077478c78889bfbb8b7ff9fd4b5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

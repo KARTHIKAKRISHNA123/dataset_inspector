@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "16172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एपीवान एचडी एउटा नेपाली टेलिभिजन च्यानल हो। जसको प्रधान कार्यालय काठमाडौ थापाथलीमा रहेको छ । यो च्यानल अन्नपूर्ण मिडिया नेटवर्क मार्फत 31 मार्च 2017 मा लन्च भएको थियो यो नेपालको पहिलो एचडि च्यानल हो । यो च्यानले नेपालमा पहिलोपटक अन्तराष्ट्रिय फ्रेन्चाइज रियालीटि शो नेपाल आइडल भित्र्याएको छ । त्यस्तै डान्स रियालिटी शो बुगिवुगि पनि यो च्यानलले भित्र्याएको हो । एपिवानले आफ्नो स्थापनाकाल देखीनै अन्तराष्ट्रिय फेन्चाइज शो नेपाल भित्र्याएर र विभिन्न खेलका माध्यमबाट जनतालार्इ मनोरञ्जन पुर्याइरहेको छ । इ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 732,
+    "text_length_max": 732,
+    "text_length_avg": 732.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1960,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\16172.txt",
+    "relative_path": "archive (2)\\valid\\valid\\16172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1960,
+    "mtime": 1782796618.866307,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5b43c8c8cc162dfdc912cedf1eccc969c459a9e6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

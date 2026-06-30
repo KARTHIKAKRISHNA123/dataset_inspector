@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5500.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्नपूर्ण संरक्षण क्षेत्र पश्चिम नेपालको गण्डकी तथा धौलागिरी अञ्चलका उत्तरी क्षेत्रहरूमा पर्ने नेपालको सबैभन्दा ठूलो संरक्षण क्षेत्र हो। यसको क्षेत्रफल 7,629 बर्ग कि.मी. छ। यस अन्तरगत 8,000 मि. भन्दा अग्ला हिमालहरू, संसारको सबैभन्दा गहिरो काली गण्डकी नदीको खोंच, नेपालको सबैभन्दा बढि तथा कम पानी पर्ने ठाउँहरू पर्दछन्। यो नेपालको सबैभन्दा महत्वपूर्ण पर्यटकीय गन्तब्य स्थल पनि हो।",
+    "नेपाल प्रकृति संरक्षण कोष अर्न्तर्गत स्थापना भएको यस संरक्षण क्षेत्र आयोजनाले कास्की, लमजुङ्ग, मनाङ, मुस्ताङ र म्याग्दी गरी 5 जिल्लाका 56 वटा गा.वि.सहरूमा काम गदै आईरहेको छ । 2043 साल मंसीर देखि परीक्षण रूपमा कास्की जिल्लाको घान्द्रुकबाट काम गर्न शुरु गरी 2049 साल श्रावणमा नेपाल सरकारले संरक्षण क्षेत्रको चार किल्ला तोकि सो क्षेत्रको ब्यवस्थापन गर्ने जिम्मा तत्कालिन श्री 5 महेन्द्र प्रकृति संरक्षण क्षेत्र आयोजनालाई दिएको थियो । हाल यस आयोजनाले आंशिक र पुरै गा.वि.स. गरी कास्की जिल्लाको उत्तरी क्षे"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 585,
+    "text_length_avg": 80.71,
+    "duplicate_estimate": 13,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4453,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9913,
+      "Latin": 0.0087
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5500.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5500.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5500.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4453,
+    "mtime": 1782796666.6369464,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3c5441dfde71378d3ed5609a3fabb87468f452f7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

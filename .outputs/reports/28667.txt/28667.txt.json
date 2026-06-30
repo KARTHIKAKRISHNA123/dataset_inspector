@@ -1,0 +1,94 @@
+{
+  "dataset": "28667.txt",
+  "file_name": "28667.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वतन्त्र तथा खुल्ला स्रोत सफ्टवेयर समाज अथवा फोस नेपाल Free and Open Source Software Nepal समुदाय स्वतन्त्र तथा खुला स्रोत सफ्टवेयर एवं खुला ज्ञान क्षेत्रमा कार्यरत स्वयंसेवीहरूको साझा संस्था हो। यसको उद्देश्य नेपालमा स्वतन्त्र तथा खुल्ला श्रोत सफ्टवेयर एवं खुला ज्ञानको विकास र प्रयोगको प्रवर्द्धन र प्रोत्साहन गर्ने रहेको छ।",
+    "हाल यो समुदायमा निम्न क्षेत्रका स्वयंसेवीहरू संलग्न रहेका छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 327,
+    "text_length_avg": 194.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9096,
+      "Latin": 0.0904
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 995,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9096,
+      "Latin": 0.0904
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28667.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28667.txt",
+    "relative_path": "28667.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28667.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 995,
+    "mtime": 1782796529.304904,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c6d0f414502c6f7c40cea8148b9858a113b0a4c8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

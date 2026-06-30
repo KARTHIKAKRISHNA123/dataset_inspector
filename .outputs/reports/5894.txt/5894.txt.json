@@ -1,0 +1,91 @@
+{
+  "dataset": "5894.txt",
+  "file_name": "5894.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 क्रिकेट विश्व कप का फाइनल म्याच 29 मार्च 2015 मा अस्ट्रेलियाको मेलबर्नमा स्थित मेलबर्न क्रिकेट मैदानमा अस्ट्रेलिया क्रिकेट टीम र न्युजिल्यान्ड क्रिकेट टीमको बीच खेलिएको थियो । यस विश्व कपको मेजबान देश पनि अस्ट्रेलिया र न्युजिल्यान्ड नै थियो । म्याचमा न्युजिल्यान्डले पहिलो ब्याट गरेर 45 ओवरमा 193 रन मात्र बनाउन सफल भयो जवाबमा कङ्गारू टीमले 33.1 ओवरमा 3 तीन विकेट खोकर म्याच जीत्न सफल भयो । यो फाइनल म्याचमा दर्शकको संख्या लगभग 93,013 थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 446,
+    "text_length_max": 446,
+    "text_length_avg": 446.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1137,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5894.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5894.txt",
+    "relative_path": "5894.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5894.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1137,
+    "mtime": 1782796587.1619375,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e8b8a3b2d3e68851a19007442a0ee589bde45724",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

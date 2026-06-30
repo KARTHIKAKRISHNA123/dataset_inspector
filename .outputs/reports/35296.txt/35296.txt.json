@@ -1,0 +1,92 @@
+{
+  "dataset": "35296.txt",
+  "file_name": "35296.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ठकुल्ला पश्चिम नेपालमा बसोवास गर्ने क्षेत्री जातिय थर हो । ठकुल्लाहरूका पूर्वज चन्द ठकुरी हुन् । जसरी चन्दहरूको वंशबाट बटाला र सोडारी थरहरू उत्पन्न हुन पुगे त्यसरी नै चन्दहरूको वंशबाट ठकुल्ला थर उत्पन्न भएको हो । ठकुल्ला गौतम गोत्रिय क्षेत्री थर हो ।",
+    "बैतडी जिल्लाको स्वराडका गोपी चन्द, हिरा चन्द, तिलक चन्द नामका तिन भाई मध्य तिलक चन्दका सन्तान अछाम जिल्लाको कालागाउँमा आई बसे भने जेठा गोपी चन्द ब्रह्मचारी थिए । उनलाई बिनायक गाउँका लला दुल्लुका राजाका सिपाहीहरूले मारे । केदार चन्दका सन्तान कालागाउँका सोडारी हुन् भने हिरा चन्दका सन्तान दर्ना पुजगाउँका चन्द ठकुरीहरू हुन् । तिलक चन्दका सन्तानहरू एक पट्टी धारासैन गएका र अर्को पट्टी कालागाउँका दाइजेपानीको मियानीकोटमा र जुपुठानामा छन् । धारासैनबाट बेलपाटा तिमिल्सैन गई बसेका छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 250,
+    "text_length_max": 480,
+    "text_length_avg": 317.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3378,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35296.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35296.txt",
+    "relative_path": "35296.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35296.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3378,
+    "mtime": 1782796559.9880886,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ebcda0b746df42e0633b64e9358e0b70fa6bdf72",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "35725.txt",
+  "file_name": "35725.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आदर्श नारी विकास केन्द्रवि.सं. 2049 सालमा तत्कालिन आदर्श नारी क्लव, हालको आदर्श नारी विकास केन्द्र, महिला तथा बालबालिकाहरुको उत्थान तथा विकासका लागि स्थापित एव क्रियाशिल सामाजिक संस्था हो । यस संस्थाको कार्यक्रमहरु मध्ये पछिल्लो समयमा घरेलु हिंसा, मानव बेचबिखन, द्धन्द लगाएतका प्रभावबाट प्रभावित एकल महिलाहरु एंव उनीहरुमा आश्रीत बालबालिकाहरुलाई अल्पकालीन पुनस्थापना गरी सीप, सुरक्षा, कानुनी परामर्श र सेवा उपलब्ध गराई सम्मानित र शोषणमुक्त जीवन बाच्ने अधिकारको सुनिश्चितताका लागि कार्य गर्ने उदेश्यले ",
+    "घरेलु हिंसा, मानव बेचबिखनमा परेका वा जोखिममा रहेकाहरुलाई उद्धार, पुनस्र्थापना, मनोसामाजिक परामर्श, कानुनी सहयोग, आवश्यकीय सीपमुलक तालिमका माध्यमबाट आत्मनिर्भर बनाई सम्मानजनक सामाजिक तथा पारिवारिक पुनमिर्लनका लागि ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 1461,
+    "text_length_avg": 351.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9795,
+      "Latin": 0.0205
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9085,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9795,
+      "Latin": 0.0205
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35725.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35725.txt",
+    "relative_path": "35725.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35725.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9085,
+    "mtime": 1782796561.980332,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7763dba2e91ecbf3958b05e8a39727635b50009c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

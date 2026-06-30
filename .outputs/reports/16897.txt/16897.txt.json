@@ -1,0 +1,92 @@
+{
+  "dataset": "16897.txt",
+  "file_name": "16897.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गीतकार एक व्यवसायीक मानिस हो जसले गीत लेख्दछ वा गीतको लागि सङ्गीत रचना गर्दछ। गीतकारलाई सङ्गीतकार पनि भन्ने गरिन्छ, यद्यपि, पछिल्लो शब्द मुख्य रूप देखि शास्त्रीय सङ्गीत शैली र पार्श्व सङ्गीतबाट व्यक्तिगतको लागी प्रयोग गरिन्छ। सङ्गीत उद्योगमा परेको दबाबका कारण गितकारहरूले लोकप्रिय गितहरू उत्पादन गर्ने गर्दछन् यसको मतलब गीतलेखन प्रायः एउटा क्रियाकलाप हो जसको कार्य धेरै मानिसहरूका बीचमा वितरण गरिन्छ। उदाहरणका लागि, एक गीतकार जो कि गीत लेखनमा सिपालु हुन्छ, उसले अन्य गीतकारहरूसँग मिलेर सक्कली वा मौलि",
+    "पुरानो शैलिमा गीत कसरी लेख्न भन्ने बारे विश्वविद्यालय, कलेज डिप्लोम र \"रक स्कूलहरू\" मा सिकाइने गरिथ्यो। आधुनिक सङ्गीत प्रविधिको ज्ञान, गीतलेखन तत्वहरू र व्यवसायिक कलाहरू अहिले गीतकारहरूको लागि आवश्यक सामग्रीहरू हुन्। धेरै सङ्गीत महाविद्यालयहरूले गीत लेखन डिप्लोमा र सङ्गीत व्यवसायिक मापदण्डहरूसँग डिग्री प्रदान गर्दछन्। गीतलेखन र प्रकाशन रोयल्टीहरू आयको महत्त्वपूर्ण स्रोत हुन सक्छन्, खास गरी यदि गीत अमेरिकामा कानूनी रेकर्डमा लोकप्रिय बन्दछ र सन् 1934 पछि लिखित गीतहरू केवल सक्कली लेखकहरू द्वारानै प"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 884,
+    "text_length_avg": 574.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7734,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16897.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16897.txt",
+    "relative_path": "16897.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16897.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7734,
+    "mtime": 1782796474.47361,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "85e5c828dab8c9e829286022564c0f818b1325fa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

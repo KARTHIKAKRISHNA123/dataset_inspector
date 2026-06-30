@@ -1,0 +1,94 @@
+{
+  "dataset": "15996.txt",
+  "file_name": "15996.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साल वृक्ष Shorea robusta, जसलाई तराईमा शखुवा पनि भन्ने गरिन्छ Dipterocarpaceae कुल: मा पर्ने ठूला पात भएको वृक्ष हो । ",
+    "यो वृक्ष भारतीय उप महाद्विपका वनहरुमा प्राकृतिक रुपमा फैलिएको छ । हिमालयको दक्षिणी भेग, पूर्वमा बर्मा देखि बङ्गलादेश, भारत, नेपालको सम्पूर्ण तराई क्षेत्र, विशेष गरि चुरे पहाड को क्षेत्र र भारतको विभिन्न उपउष्णप्रदेशीय क्षेत्रमा फैलिएका वनहरुमा साल वनको प्रधान वृक्षको रुपमा पाईछ ।भारतमा आसाम, बङ्गाल, उडिसा, झारखणड, पूर्वी घाट पर्वत सृंखला र विंध्य पर्वतीय क्षेत्र सम्म फैलिएको छ । नेपालका संरक्षित क्षेत्रहरु जस्तै चितवन राष्ट्रीय निकुन्ज, बर्दिया राष्ट्रीय निकुंज, शुक्लाफाँट राष्ट्रीय निकुंज आदिमा"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 587,
+    "text_length_avg": 235.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9899,
+      "Latin": 0.0101
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9222,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9899,
+      "Latin": 0.0101
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15996.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15996.txt",
+    "relative_path": "15996.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15996.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9222,
+    "mtime": 1782796470.197052,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "72ee59e9025740397981569749bfd2ca71c9b1da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "28413.txt",
+  "file_name": "28413.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कंकाल्ना नेपालको अछाम जिल्लाको कुइका गाविसको वडा नं 5 मा पर्दछ । यहाँको मुख्य विशेषता भनेको ओदाले माईको मन्दिर र सुन्दरताले भरिपुर्ण झ्यारी खोला हुन् । यि दुईवाटा सम्पदाहरू पर्यटकिय दृष्टिकोणले एकदमै महत्वपुर्ण छन । बिबिध प्राकृतिक तथा धार्मिक सम्पदाले भरिपुर्ण कंकाल्नामा ब्राम्हण, क्षेत्री तथा दलित समुदायको बसोबास रहेको छ । खनयखर्क,चौतारा,नावसैन ,दोसेढी लगायतका बिबिध मनोरम स्थलहरु पनि यहाँ अवस्थित छन |-भुवन तिमिल्सैना",
+    "र"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 422,
+    "text_length_avg": 211.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1134,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28413.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28413.txt",
+    "relative_path": "28413.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28413.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1134,
+    "mtime": 1782796528.1336546,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "00f3ed67e9ec25e88b56625b5c5a18404896a87b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "6176.txt",
+  "file_name": "6176.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली साहित्य नेपाली भाषामा लेखिएका साहित्यिक रचनाहरू हुन् । नेपाली भाषा नेपालको राष्ट्रभाषा हो र भारतको सरकारी मान्यता प्राप्त भाषा हो । यी देशहरू बाहेक भूटान, बर्मा वा नेपाल बाहिरका लाखौंको संख्यामा रहेका नेपालीहरूको मातृभाषा हो; नेपाली भाषा भारतीय प्रान्त सिक्किम र पश्चिम बङ्गालको पनि राज्यभाषा पनि हो। ",
+    "नेपाली भाषा संस्कृतबाट विकसित भएको एक भाषा हो र नेपाली साहित्यको प्राचीन इतिहासको पत्ता लगाउनु धेरै मुस्किल छ किन भने धेरै विद्वानहरूले संस्कृतमा लेखेका छन, विशेष रूपमा धार्मिक साहित्य।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 46,
+    "text_length_max": 308,
+    "text_length_avg": 186.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2516,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6176.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6176.txt",
+    "relative_path": "6176.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6176.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2516,
+    "mtime": 1782796588.5450308,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ae6e9d3cd10b5451407cf7a9c5b5849b82e88f65",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

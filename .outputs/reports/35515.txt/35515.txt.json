@@ -1,0 +1,92 @@
+{
+  "dataset": "35515.txt",
+  "file_name": "35515.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एड्रिन वेडविच, अमेरिकाकी अध्ययनकर्ता, प्राध्यापक, शिक्षिका, विकिपिडिया सम्पादक एवम् विश्लेषक थिइन् । उनको विश्लेषण विकिपिडियामा रहेको लैङ्गिक विषयहरुमा रह्यो ।",
+    "वेडविचको जन्म जनवरी 6, 1977 मा ओम्ला, नेब्रस्कामा, बेटी एम.,, न्याथेन आर वेडविचको छोरीको रुपमा भयो । उनले बर्थ प्लेट हाइ स्कुलबाट विद्यालयीय तह सकाएर अङ्ग्रेजी साहित्य रोजिन् र कोलोम्बिया विश्वविद्यालयबाट अङ्ग्रेजीमा स्नातक भ्याइन् । सन् 2011मा उनले इन्डियाना विश्वविद्यालयबाट स्नातकोत्तर र पि.एच.डि सकायन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 138,
+    "text_length_max": 629,
+    "text_length_avg": 273.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4300,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35515.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35515.txt",
+    "relative_path": "35515.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35515.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4300,
+    "mtime": 1782796561.0262582,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0306e463ebe37bc3e6909ffcf1f287aea8792a4c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "9847.txt",
+  "file_name": "9847.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Eclipta erectaEclipta prostrataVerbesina albaVerbesina prostrata",
+    "भृङ्गीराज अथवा भुइँझार अथमा भूमिराज औषधीय गुण भएको फूल फुल्ने वनस्पति हो । वैज्ञानिक नाम इलिप्टा अल्बा अथवा इलिप्टा प्रोस्टाटा भएको यो वनस्पतिलाई अङ्ग्रेजीमा फल्स डेजी डेजी विड आदि नामले चिनिन्छ भने नेपालीमा अन्तलि, भुई झार, भंग्रेली, भृङ्गराज आदि नामले चिनिन्छ। Asteraceae वा Compositae परिवारमा पर्ने यस वनस्पतिमा भएको औषधीय गुणले गर्दा यसलाई अत्यन्तै उपयोगि जडीबुटिकोरूपमा विश्वभर प्रयोग गरिन्छ। साधारणतया भृङ्गीराज संसारभर ओशिलो ठाँउमा उम्रने गर्दछ। मुख्यगरी भारत, चीन, थाइल्याण्ड र ब्राजिलमा प्र"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 1092,
+    "text_length_avg": 420.7,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9728,
+      "Latin": 0.0272
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11081,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9714,
+      "Latin": 0.0286
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9847.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9847.txt",
+    "relative_path": "9847.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9847.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11081,
+    "mtime": 1782796605.9412785,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ab8c4d368cf5a58146f4759fc385a57222615e9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

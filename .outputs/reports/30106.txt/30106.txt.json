@@ -1,0 +1,92 @@
+{
+  "dataset": "30106.txt",
+  "file_name": "30106.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आहा! सहारा गोल्डकप 2073 आहा! सहारा गोल्डकपको 15 औं संस्करणको फुटबल प्रतियोगिता हो । यस फुटबल प्रतियोगितामा तीन विदेशीहरू सहित 12 टिमको सहभागिता रहेको थियो ।",
+    "सहारा क्लबको आयोजनामा माघ 4 गतेबाट 15 गतेसम्म पोखरा रंगशालामा संञ्चालन भएको प्रतियोगितामा अमेरीका, बङ्गलादेश र भारतका तीन टिमहरू र नेपालको 9 टिमहरूको सहभागिता रहेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 9,
+    "text_length_max": 404,
+    "text_length_avg": 200.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3204,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30106.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30106.txt",
+    "relative_path": "30106.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30106.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3204,
+    "mtime": 1782796536.2506692,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "042d4534ad98a58e32f82b18f29f727611c168d0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "32599.txt",
+  "file_name": "32599.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हुमायुँको चिहान एउटा चिहान हो जुन मुगल वास्तुकला बाट प्रेरित रहेको छ । यो नयाँ दिल्ली को दीनापनाह अर्थात् पुरानो किला को नजिक निजामुद्दीन पूर्व क्षेत्र मा मथुरा मार्ग नजिक अवस्थित छ । यहाँ मुख्य भवन मुगल सम्राट हुमायुँ को चिहान छ यसमा हुमायुँको चिहान सहित अन्य शाही परिवार मानिसको चिहान रहेको छ । यो विश्व सम्पदा क्षेत्र घोषित छ, साथै भारत मा मुगल वास्तुकला को प्रथम उदाहरण हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 378,
+    "text_length_max": 378,
+    "text_length_avg": 378.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 995,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32599.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32599.txt",
+    "relative_path": "32599.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32599.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 995,
+    "mtime": 1782796547.754891,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "899c9d3393b6250df787a4f5bc074866802363cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

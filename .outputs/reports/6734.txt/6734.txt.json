@@ -1,0 +1,93 @@
+{
+  "dataset": "6734.txt",
+  "file_name": "6734.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इरिटेबल ब‍उल सिन्ड्रोम Irritable Bowel Syndrome en:diagnosis of exclusion का कारण हुने एक सामान्य बिमार हो। यो बिमार कुनै किसिमको शारिरीक वा मानसिक आघातका कारण हुने गर्दछ। पेट दुख्ने, लगातार दिसा हुने अथवा पखाला लाग्ने आदि यो रोगका लक्षण हुन्। यस रोगले बिमारीलाई कुनै ठूलो नोक्सान त पुर्‍याउँदैन तथापि यसले मानसिक तथा शारिरीक थकान महसुस गराएर दैनिक समय तालिकामा असर पुर्‍याउन सक्छ।यो रोगको खासै उपचार छैन। यद्यपि शान्त वातावरण, सन्तुलित भोजन आदिबाट यसको उपचार गर्न सकिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 472,
+    "text_length_max": 472,
+    "text_length_avg": 472.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8875,
+      "Latin": 0.1125
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1173,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8875,
+      "Latin": 0.1125
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6734.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6734.txt",
+    "relative_path": "6734.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6734.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1173,
+    "mtime": 1782796591.1274757,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.8,
+    "sha1_quick": "a429c06568897c43603e6e9cf3737ff5e234df97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

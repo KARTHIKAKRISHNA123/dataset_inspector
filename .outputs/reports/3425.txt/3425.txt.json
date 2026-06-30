@@ -1,0 +1,92 @@
+{
+  "dataset": "3425.txt",
+  "file_name": "3425.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुजा प्युठान जिल्लामा अवस्थित एक गाउँ विकास समिति हो।",
+    "पूजा गाविस नेपालको मध्य-पश्चिमाञ्चल विकास क्षेत्र अन्तरगत राप्ती अञ्चल, प्यूठान जिल्लाको निर्वाचन क्षेत्र नं. 2 मा पर्दछ । पूजा प्यूठान जिल्लाका 49 गाविस मध्ये एउटा सदरमुकामबाट उत्तरमा अवस्थित गाविस हो । पूजा गाविस प्यूठानको जिल्ला सदरमुकाम खलंगादेखि 14 कोषको पैदल दुरी उत्तरमा अवस्थित छ । मोटरबाटोको कुरा गर्दा सदरमुकामदेखि करिक 30 किलोमिटरको दुरीमा यो गाविस रहेको छ। 28.24 डिग्री उत्तरदेखि 28.99 डिग्री पूर्वमा अवस्थित पूजाको पूर्वमा खुङ तथा गुल्मी जिल्लाको अग्लुङ गाविस, उत्तरमा स्याउलीवाङ गाविस, "
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 582,
+    "text_length_avg": 311.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8143,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3425.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3425.txt",
+    "relative_path": "3425.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3425.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8143,
+    "mtime": 1782796555.348122,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7f2140c9092ac67f76f538e2bc6888be5d22e804",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

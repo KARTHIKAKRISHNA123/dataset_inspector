@@ -1,0 +1,92 @@
+{
+  "dataset": "22172.txt",
+  "file_name": "22172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बट्टुक एक नेपाली परम्परागत स्वादिष्ट रोटीको परिकार हो । यो रोटी विशेष गरेर नेपाली समुदायमा दशै तिहारका बेला बढी प्रयोग हुने गर्दछ । साथै यो रोटी माघे संक्रान्तिका दिन पनि उत्तिकै प्रयोग गरिन्छ ।",
+    "यस बट्टुक बनाउनका लागि सबैभन्दा पहिले सिल्टुङको पिठो आवस्यक पर्दछ । सिल्टुङको पिठोमा आवश्यक अनुसार नुन, सागका मसिना ट्यान्द्राहरू, आदिको प्रयोग गरेर मुसिन्छ । र बाक्लोसँग मुसेको मिश्रित पिठोलाई डल्लो पारे थिचेर सानो वृत आकारमा बनाइन्छ । त्यहि वृत्त आकारको पिठोको मिश्रति रूपलाई तातिरहेको तेलका वा घ्युमा पकाए पछि बट्टुक तयार हुने गर्दछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 91,
+    "text_length_max": 337,
+    "text_length_avg": 197.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2109,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22172.txt",
+    "relative_path": "22172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22172.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2109,
+    "mtime": 1782796499.6180618,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "68b008468bd133daea25d009afd3bb319f9d6c6c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

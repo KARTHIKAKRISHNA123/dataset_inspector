@@ -1,0 +1,91 @@
+{
+  "dataset": "682.txt",
+  "file_name": "682.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुरानो ट्रेफर्ड पुरानो ट्रेफर्ड, ग्रेटर म्यानचेस्टर, इंग्ल्याण्ड र म्यानचेस्टर यूनाइटेडको घरको फुटबल स्टेडियम हो। 74, 994 को क्षमता संग, यो बेलायतमा सबै भन्दा ठूलो क्लब फुटबल स्टेडियम हो र युरोप मा ग्यारहऔं सबै भन्दा ठूलो छ। यो पुरानो ट्रेफर्ड क्रिकेट ग्राउण्ड र नजिकैको ट्राम स्टपबाट लगभग 0.5 माइल छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 301,
+    "text_length_max": 301,
+    "text_length_avg": 301.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 784,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "682.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\682.txt",
+    "relative_path": "682.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "682.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 784,
+    "mtime": 1782796591.5497184,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ba5cae2b1ab13882030a0bca7624df44fb460624",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

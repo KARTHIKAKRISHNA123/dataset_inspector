@@ -1,0 +1,92 @@
+{
+  "dataset": "12377.txt",
+  "file_name": "12377.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मदन पुरस्कार लेख यहाँ निर्देशित हुन्छ। मदन पुरस्कार गुठी र मदन पुरस्कार पुस्तकालय बारे पढ्न लिङ्कमा क्लीक गर्नुहोस्। ",
+    "मदन पुरस्कार नेपाली कृति लाई प्रदान गरिने प्रसिद्ध पुरस्कार हो। मदन पुरस्कार पुस्तकालयले यो पुरस्कार प्रत्येक वर्ष प्रदान गर्ने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 685,
+    "text_length_avg": 147.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5358,
+    "estimated_records": 36
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 36,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12377.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12377.txt",
+    "relative_path": "12377.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12377.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5358,
+    "mtime": 1782796453.7244265,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2892dd4a5bf8890dabec7e2c0016621f7e526803",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

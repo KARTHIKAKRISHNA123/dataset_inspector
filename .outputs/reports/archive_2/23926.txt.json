@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23926.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुकास 'जोसेफ' पोडोलस्की जर्मन फुटबलर हुन् जो टर्कीस क्लब गालातासारे र जर्मनी राष्ट्रिय फुटबल टोलीबाट फरवार्डको रूपमा खेल्दछन् । उनी 2015 जनवरीमा इङ्ग्लीस क्लब आर्सनलबाट ऋणमा इन्टर मिलान प्रवेश गरेका थिए भने 2015 सम्मर ट्रान्सफर विन्डो खुल्नासाथ उनी टर्कीस क्लब गालातासारेमा ट्रान्सफर गरिएका थिए । उनी विशेष गरी आफ्नो बायाँ खुट्टाले बायाँ दिशाबाट गर्ने सशक्त प्रहारका कारण चिनिन्छन् । एफसी कोल्न बाट 2003 मा सिनियर क्लब करियर सुरू गरेका उनले बायर्न म्युनिखमा स्थानान्तरण हुनु अघि 81 क्याप जितेका थिए ।",
+    "ढाँचा:Germany Squad 2005 FIFA Confederations Cupढाँचा:Germany squad 2006 FIFA World Cupढाँचा:Germany squad UEFA Euro 2008ढाँचा:Germany squad 2010 FIFA World Cupढाँचा:Germany squad UEFA Euro 2012"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 38,
+    "text_length_max": 919,
+    "text_length_avg": 383.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8363,
+      "Latin": 0.1637
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2668,
+    "estimated_records": 6
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 6,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8363,
+      "Latin": 0.1637
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23926.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23926.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23926.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2668,
+    "mtime": 1782796634.1617575,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "d4c4fe8c2d2c8af51afe1cd7ebc170639f1b9166",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

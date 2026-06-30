@@ -1,0 +1,92 @@
+{
+  "dataset": "13143.txt",
+  "file_name": "13143.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मन्ना डे भारतका प्रसिद्ध गायक हुन्। उनले सन् 1943 देखि निरन्तर विभिन्न भाषाका चलचित्रका लागि पार्श्वगायन गरेका थिए।उनले दर्जन बढी भारतीय भाषामा गीतहरू गाएका छन्। नेपाली भाषामा \"जीन्दगीलाई जीतले होइन, हारले स्वागत गरी हिँड्दछे ऊ फूल होइन मोतीका आँसु झारी\" लगायतका गीत उनले गाएका छन्।",
+    "मन्ना डेको जन्म मई 1919 मा उत्तरी कोलकताको बङ्गाली परिवारमा भएको थियो। उनको वास्तविक नाम प्रबोध चन्द्र डे हो। उनको मामा संगीताचार्य कृष्ण चन्द्र डेले मन्ना डेलाई संगीतमा आर्कषित गरेका थिए। सन् 1943 मा मामा कृष्णचन्द्र डेको संगीत रहेको चलचित्र 'तमन्ना' बाट सांगीतिक करिअर थालेका उनले सुरैयाका साथ गाएको गीत हिट भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 477,
+    "text_length_avg": 321.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5013,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13143.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13143.txt",
+    "relative_path": "13143.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13143.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5013,
+    "mtime": 1782796457.281315,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c535d38d91906a53cbb5ff6dbc11e4e088571d71",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

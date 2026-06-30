@@ -1,0 +1,91 @@
+{
+  "dataset": "20806.txt",
+  "file_name": "20806.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालभित्र विभिन्न समयमा राज्यहरूको विस्तार र विलयको क्रममा सेनवंशको अझ बढी उल्लेख आउँदछ। भारतका चितौर र सिसौदियाका राजपुतहरूको सन्तानको रूपमा चिनिएका यस् सेनवंशी राजाहरूले आफ्नो समयमा उत्कृष्ट पराक्रम राजनीति र कुटनीतिको परिचय दिएको पाईन्छ। अजिलसेनका सन्तान तुलासेनले मकवानपुर राज्य स्थापना गरेपछि उनका सन्तानहरूले राज्य गरेको पाईन्छ। मुकुन्द सेन प्रथमले पाल्पाको गद्दीमा आफू बसेपछि राज्य विस्तारको कार्य धेरै गरे। बाबुराम आचार्यले यिनको शासनकाल 1518-1553 ई. तिर भएको उल्लेख गरेका छन्। मुकुन्द सेनका"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1522,
+    "text_length_max": 1522,
+    "text_length_avg": 1522.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4035,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20806.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20806.txt",
+    "relative_path": "20806.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20806.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4035,
+    "mtime": 1782796493.4086444,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cd2414a3b070d4d39cb9ab58b2f70685144eaedf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

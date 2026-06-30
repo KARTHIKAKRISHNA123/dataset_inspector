@@ -1,0 +1,92 @@
+{
+  "dataset": "23791.txt",
+  "file_name": "23791.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्तूपको ",
+    "स्तूप, बौद्धहरूले बुद्ध र बौद्ध महासिद्ध गुरुहरूका अवशिष्ट चिन्ह राख्नका लागि बनाउने स्मारक अथवा ढुंङ्गा, माटो, इँट आदिले बनाएको चैत्यहरूलाई स्तूप भनिन्छ। काठमाण्डौ उपत्यकामा रहेको स्वयम्भूनाथ र बौद्धनाथ स्तूपहरू बौद्ध धर्मालम्बीहरूले बनाएको प्रख्यात स्तूपको उदाहरण हुन्। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 272,
+    "text_length_avg": 140.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 762,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23791.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23791.txt",
+    "relative_path": "23791.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23791.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 762,
+    "mtime": 1782796506.8373325,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c77cd47c3fbf2b6be96e795ad598319508e359d7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

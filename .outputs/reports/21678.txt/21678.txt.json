@@ -1,0 +1,92 @@
+{
+  "dataset": "21678.txt",
+  "file_name": "21678.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पिनास नाकको भित्र दायाँबायाँ रहने खाली ठाउँमा अवरोधका कारण हुने रोग हो।",
+    "नाकको नजीकै अनुहारको हड्डिहरूको भित्र नम हावाको रिक्त स्थान हो, जसलाई 'वायुविवर' अथवा साइनस भन्छन्। साइनसमा पातलो झिल्लीको तह हुन्छ। जब कुनै व्यक्तिलाई रूघा तथा एलर्जी हुन्छ साइनसमा सिँगान भरिन्छ र सुन्निन्छ। साइनसको निकास माध्यम अवरुद्ध हुन्छ अनि सिँगान यहीँ भित्र थुनिन सक्छ।जहाँब्याक्टेरिया एवं भाइरस विकसित हुन सक्छ र अन्ततोगत्त्वा पिनास हुन सक्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 520,
+    "text_length_avg": 188.09,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11078,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21678.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21678.txt",
+    "relative_path": "21678.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21678.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11078,
+    "mtime": 1782796497.4437447,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d4d58b90b786eefffcd522fc3af0bcc07fa0e69d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

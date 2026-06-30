@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "23970.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लि का-सिंग, GBM, KBE, JP एक हङकङ ब्यापारी दिग्गज, लगानीकर्ता र मानवअधिकारवादी ब्यक्ती हुन् । सेप्टेम्बर 2017 सम्म लि एसियाका सबै भन्दा धानी मध्ये एक थिए, अनुमानित कुल मुल्य 33.8 बिलियन अमेरिकी डलर रहेको थियो । उहाँ सीके हचिसन होल्डिङका लागि बोर्डको अध्यक्ष हुनुहुन्थ्यो; यसको माध्यमबाट उनी एसिया र यूरोपको सबैभन्दा ठूलो स्वास्थ्य र सौन्दर्य बिक्रेताको विश्वको अग्रणी पोर्ट इन्भेस्टरर, विकासकर्ता, र अपरेटर थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 411,
+    "text_length_max": 411,
+    "text_length_avg": 411.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9758,
+      "Latin": 0.0242
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1060,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9758,
+      "Latin": 0.0242
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23970.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\23970.txt",
+    "relative_path": "archive (2)\\valid\\valid\\23970.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1060,
+    "mtime": 1782796634.275477,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "54cda90537ad3cd75f7d1b91755bb700f2b06193",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

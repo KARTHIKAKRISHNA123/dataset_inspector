@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "21652.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो काण्ड वि.सं. 2018 माघ 9 गते घटेको हो । वि .सं. 2017 सालमा राजा महेन्द्र वीर विक्रम शाहद्वारा गरिएको कदमपछि नेपाली काँग्रेसको पटना सम्मेलनमा देशभर सशस्त्र क्रान्ति गर्ने निर्णय भएको थियो | उक्त निर्णय बमोजिम वि.सं. 2018 सालमा तत्कालिन राजा महेन्द्रको जनकपुर भ्रमणको बेला दुर्गानन्द झाले बम प्रहार भएको थियो ।",
+    "18 वर्षे दुर्गानन्दले जानकी मन्दिर नजिक सेना र गुप्तचरका आँखा छल्दै ग्रिनेड प्रहार गरेका थिए। प्रहारबाट राजा महेन्द्र चढेको ल्याण्डरोभर गाडीको पछाडिपट्टि सामान्य क्षति भएपनि राजालाई केही भएन। त्यसपछि दुर्गानन्द झा भागेर भारतमा रहेको सशस्त्र क्याम्पमा पुगे। "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 228,
+    "text_length_max": 364,
+    "text_length_avg": 289.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3048,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21652.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\21652.txt",
+    "relative_path": "archive (2)\\valid\\valid\\21652.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3048,
+    "mtime": 1782796629.55175,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "acd568c65825a6686306033fd66f14c800390cb9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15361.txt",
+  "file_name": "15361.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिस इन्डिया वा फेमिना मिस इन्डिया भारतको राष्ट्रिय सौन्दर्य प्रतियोगिता हो । यस प्रतियोगिताबाट वार्षिक रूपमा भारतको प्रतिनिधित्व गर्दै विश्व सुन्दरी तथा अन्य अन्तर्राष्ट्रिय स्तरको प्रतियोगितामा भाग लिन प्रतिनिधि छानिने गरिन्छ । यो प्रतियोगिता एक महिला पत्रिका फेमिना द्वारा सञ्चालित गर्ने गरिन्छ जुन बन्नेट्ट, कोलम्यान एन्ड कम्पनी लिमिटेडबाट प्रकाशित हुन्छ ।",
+    "हाल सम्म अदिती अर्या, आफरिन वाज र वर्तिका सिंहले फेमिना मिस इन्डियाको उपाधिलाई त्याग गरिसकेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 359,
+    "text_length_avg": 229.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1241,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15361.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15361.txt",
+    "relative_path": "15361.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15361.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1241,
+    "mtime": 1782796467.2366738,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dbe9eeba0e050e312d15da5335247e8ca47bf1e2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

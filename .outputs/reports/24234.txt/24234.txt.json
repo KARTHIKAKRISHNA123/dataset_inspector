@@ -1,0 +1,92 @@
+{
+  "dataset": "24234.txt",
+  "file_name": "24234.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अन्नपूर्ण पदमार्ग नेपालको अन्नपूर्ण हिमाल क्षेत्रमा अवस्थित पर्यटकीय पैदलमार्ग हो । यो पदमार्गको लम्बाई लगभग 160-230 किलोमिटर रहेको छ । यो पदमार्ग 5,416 मी उचाईमा रहेको थोरोङ ला सम्म पुग्छ । यस पदमार्गको यात्राको क्रममा 6000-80000 मिटर सम्मका अग्ला हिमालहरू अन्नपूर्ण दोस्रो, तेस्रो र चौथोलगायत धौलागिरी, माछापुच्छ्रे हिमाल जूलू पिक, पिसाङ पिक, निलगिरी हिमाल र तिलिचो पिक आदी देख्न सकिन्छ ।",
+    "अन्नपूर्ण क्षेत्र तथा पदमार्ग विदेशी पर्यटकहरूको लागि सन् 1977 बाट खुलेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 25,
+    "missing_text": 0,
+    "text_length_min": 24,
+    "text_length_max": 390,
+    "text_length_avg": 59.4,
+    "duplicate_estimate": 10,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3920,
+    "estimated_records": 65
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 65,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24234.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24234.txt",
+    "relative_path": "24234.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24234.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3920,
+    "mtime": 1782796508.84694,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6247d5c3065806586910f88000eca372fcd8413d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

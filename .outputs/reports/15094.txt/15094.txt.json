@@ -1,0 +1,92 @@
+{
+  "dataset": "15094.txt",
+  "file_name": "15094.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ईन्जिनियरिङ अध्ययन संस्थान थापाथली क्याम्पस त्रिभुवन विश्वविद्यालयका इन्जिनियरिङ अध्यापन गराउने चार ओटा आङ्गिक क्याम्पसहरू मध्येको एउटा क्याम्पस हो। यो क्याम्पस त्रिभुवन विश्वविद्यालय अन्तरगत इन्जिनियरिङ अध्यापन गराउने एक स्वायत्त संस्थाको रूपमा रहेको छ। यो क्याम्पस काठमाडौं शहरको केन्द्र मैं, थापाथलीमा अवस्थित छ। यसको स्थापना मेकानिकल र अटोमोबाइल इन्जिनियरिङ क्षेत्रमा आवश्यक दक्ष जनशक्तिको विकास गर्ने उद्देश्यले वि.सं. 2029 सालमा भएको हो। हाल यस क्याम्पसमा स्नातक तथा स्नातकोत्तर तहमा इन्जिनियरि",
+    "हाल स्नातक तहमा यस क्याम्पसले इन्डष्ट्रियल इन्जिनियरिङ, अटोमोबाइल इन्जिनियरिङ, सिभिल इन्जिनियरिङ, इलेक्टोनिक्स एण्ड कम्युनिकेशन इन्जिनियरिङ, मेकानिकल इन्जिनियरिङ र आर्किटेक्चर विषयहरूमा अध्यापन गराउँदै आएको छ। यसको साथै भूकम्प इन्जिनियरिङ र मेकानिकल डिजाइन र म्यानुफ्याक्चरिङ विषयमा स्नातकोत्तर विज्ञान विषयको समेत अध्यापन हुँदै आएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 336,
+    "text_length_max": 546,
+    "text_length_avg": 441.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2400,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15094.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15094.txt",
+    "relative_path": "15094.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15094.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2400,
+    "mtime": 1782796465.97814,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f140664c015bf8fa4a279a425bfeb2768428c24d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

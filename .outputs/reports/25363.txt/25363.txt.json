@@ -1,0 +1,92 @@
+{
+  "dataset": "25363.txt",
+  "file_name": "25363.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोर्खी पिपलकोट गा.वि.स.को वार्ड नं.8मा पर्ने एक गाउँ हो । यसको सिमाना पूर्वमा लयपातल, पश्चिममा सिंहासैन, दक्षिणमा बयाल ढुंगा, उत्तरमा चिउरीसँग जोडिएको छ। गोर्खी गाउँको अक्षांश र देशान्तर 29°04′15.8″ उत्तर देखी 81°31′18.3″ पूर्व रहेको छ । प्राचिन कालमा भोटेहरूले भेडा र घोडा पाल्ने गरेको यसठाउँमा भोटेहरूको बाक्लो बस्ती रहेको थियो । पश्चिम नेपालमा बाक्लो बस्ती भएको ठाउँलाई गर्खा भनिन्छ । यसैगरी यो ठाउँमा भोटेहरूको बाक्लो बस्ती रहेकोले त्यसताक यसलाई गर्खा भनिन्थ्यो पछी आएर गर्खा नाम अपभंस भएर गोर्खी",
+    "गोर्खी गाउँमा जैसी, भण्डारा, थापा, बिष्ट, कामी, आदी जातिहरूको मुख्य रुपले बसोवास रहेको छ । यहाँको जनसङ्ख्या जम्मा 630 रहेको छ । यहाँ 106 वटा घर धुरीहरू रहेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 621,
+    "text_length_avg": 329.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4277,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25363.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25363.txt",
+    "relative_path": "25363.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25363.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4277,
+    "mtime": 1782796514.0134623,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e6af84171cd9c827ad43b47097ff147d0ab8c324",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

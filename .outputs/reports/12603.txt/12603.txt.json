@@ -1,0 +1,92 @@
+{
+  "dataset": "12603.txt",
+  "file_name": "12603.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लोमान्थाङ नेपालको पश्चिमाञ्चल विकास क्षेत्रको धौलागिरी अञ्चल अन्तर्गतको मुस्ताङ जिल्लामा अवस्थित एक गाउँ विकास समिति हो। लोमान्थाङ क्षेत्रका अन्तिम रजौटा जिग्मे दोर्जे पलवर विष्ट थिए।",
+    "लोमान्थाङ मुस्ताङ जिल्लाको उत्तरी भागमा रहेको एक विशेष संरक्षण क्षेत्र हो। यसलाई नेपाल अन्तरगत एक विशेष अधिराज्यको स्थान प्राप्त छ। यस क्षेत्रमा स्थानीय राजा छन जसलाई यहाँको प्रमुख मानिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 189,
+    "text_length_avg": 69.2,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1874,
+    "estimated_records": 27
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 27,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12603.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12603.txt",
+    "relative_path": "12603.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12603.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1874,
+    "mtime": 1782796454.765234,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1a27223942f3d92736a26e97da639da6ed89a95e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

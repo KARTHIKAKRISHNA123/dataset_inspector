@@ -1,0 +1,95 @@
+{
+  "dataset": "2bodo.txt",
+  "file_name": "2bodo.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "brx",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पंजाब में समाज कल्याण विभाग के बाल अधिकार प्रकोष्ठ ने यूनिसेफ के साथ मिलकर यह दिवस मनाया।",
+    "बावैसो बोसोरफोराव खमलायनायनि बे रोखोमा गुबुन हादोरफोरावबो मुदांखा जानो हमदों।"
+  ],
+  "statistics": {
+    "records_sampled": 22712,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 565,
+    "text_length_avg": 111.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9998,
+      "Latin": 0.0002
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6829772,
+    "estimated_records": 63243
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 63243,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": [
+      "brx"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "brx",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2bodo.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2bodo.txt",
+    "relative_path": "2bodo.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2bodo.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6829772,
+    "mtime": 1782794723.449338,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8e1837f12c14a4ff1d112ed421acc84a0644be7a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

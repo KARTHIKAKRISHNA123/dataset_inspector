@@ -1,0 +1,92 @@
+{
+  "dataset": "34588.txt",
+  "file_name": "34588.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तोलिचाका दैलेख जिल्लाको पिपलकोट गा.वि.स. वडा नं.1 र 2 अन्तर्गत पर्ने एक गाउँ हो। यसै गाउँमा गा.वि.स.को कार्यालय रहेको छ। यो गाउँ उहिले देखि नै शाषणियाहरुको इलाका रहेको मानिन्छ।",
+    "यहाँ बाहुन,क्षत्री,मगर र दलित जातीको बसोवास रहेको छ। यो गाउँमा एक विद्यालय छ जसलाई मा.वि.बनाउने कोसिश जारी छ। यहाँ अतिरिक्त हुलाक र स्वास्थ्य चौकी पनि रहेका छन्। यहाँ हरेक वर्ष हरितालीका तिजको दिन तिजको जात्रा लाग्दछ। यो गाउँमा लाग्ने अन्य जात्राहरुमा पैठ पनि मुख्य छन्। पैठ भन्नाले पश्चिमेली भाषामा देवताको पूजा हुने दिन बूझिन्छ।यहाँ सबै जातीका मानिसहरुको बसोवास रहेकाले सबैको आफ्नो आफ्नो रिती रिवाज छ। तैपनि यहाँको मुख्य धर्म त हिन्दू धर्म नै हो।तर पनि अलग-अलग जातिको बसोवास भएका कारण यहाँका मानिसह"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 62,
+    "text_length_max": 536,
+    "text_length_avg": 216.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3416,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34588.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34588.txt",
+    "relative_path": "34588.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34588.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3416,
+    "mtime": 1782796556.823596,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8fb95c3c2e4f0102240cb54dae3acd60655bbfae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

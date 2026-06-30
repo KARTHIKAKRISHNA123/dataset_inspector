@@ -1,0 +1,91 @@
+{
+  "dataset": "6639.txt",
+  "file_name": "6639.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फ्लोरेसेन्ट बत्तीमा प्रकाश उत्पत्ति हुने प्रक्रिया फिलामेन्ट बत्तीमा भन्दा फरक हुन्छ । फ्लोरेसेन्ट बत्तीको भित्री सतहमा फ्लोरेसेन्ट पाउडरको लेप लगाइएको हुन्छ । चिमभित्र पारोको बाफ भरिएको हुन्छ । बत्तीको दुई छेउमा इलेक्ट्रोडहरु हुन्छ्न् । एउटा इलेक्ट्रोडबाट अर्कोतिर पारोको बाफ भई इलेक्ट्रोन बहन्छ । पारोको बाफबाट इलेक्ट्रोन सर्दा अल्ट्राभ्वाइलेट किरण उत्पन्न गएदछ । सो किरणले फ्लोरेसेन्ट पाउडर प्रज्वलित भई प्रकाशदिन्छ । पारोको बाफ प्रयोग हुने भएकाले यसलाई मर्करी चिम पनि भनिन्छ । यस्तो प्रकारको चिमल"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 644,
+    "text_length_max": 644,
+    "text_length_avg": 644.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1729,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6639.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6639.txt",
+    "relative_path": "6639.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6639.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1729,
+    "mtime": 1782796590.6597486,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5d4ebae7a4a321cf2acc152955472bef347c4515",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

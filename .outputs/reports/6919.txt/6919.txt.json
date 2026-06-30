@@ -1,0 +1,92 @@
+{
+  "dataset": "6919.txt",
+  "file_name": "6919.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युरोपियन युनियन युरोप महादेशमा रहेका 28 वटा राष्ट्रहरूको एउटा राजनीतिक तथा आर्थिक संघ हो । जसमा आपसी प्रशासकिय साझेदारी हुन्छ । जुन संघको सबै राष्ट्रमा लागु हुने गरेको छ । यसको उदय सन् 1957 मा रोमको सन्धिद्वारा युरोपियन आर्थिक परिषदको माध्यमबाट 6 युरोपियन देशहरुको आर्थिक समर्थनले भएको थियो । त्यस बेला देखि हाल सम्म यस संघमा राष्ट्रहरुको संख्या बढ्दै गएको छ । संघले अहिलेसम्म आफ्नो नीति तथा नियमहरुमा परिवर्तन गर्दै सुधार जारि राखेको छ जसको फल:स्वरूप यो संघ दृढ बन्दै गएको छ । ",
+    "द्वितिय विश्वयुद्ध पछि युरोपका राष्ट्रहरूमा एकताको बाटोमा लागे । जस अनुरुप इटाली, बेल्जियम, फ्रान्स, लक्जम्बर्ग, नेदरल्याण्ड र पश्चिम जर्मनी मिलेर युरोपेली कोइला तथा स्टिल समुदायको स्थापना गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 478,
+    "text_length_avg": 244.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1946,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6919.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6919.txt",
+    "relative_path": "6919.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6919.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1946,
+    "mtime": 1782796592.072049,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6aada862970ea3107526de1987d48fe1f3b744fe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

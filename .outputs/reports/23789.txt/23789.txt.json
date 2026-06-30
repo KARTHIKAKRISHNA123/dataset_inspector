@@ -1,0 +1,92 @@
+{
+  "dataset": "23789.txt",
+  "file_name": "23789.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्रीमान् गम्भिर नेपाली नेपालको पुरानो राष्ट्रिय गान हो। राष्ट्रगानको रूपमा सन् 1962 देखि अपनाइएको यो गीत तत्कालिन नेपालको राजा र राष्ट्रको निम्ति समर्पित थियो। ",
+    "श्रीमान् गम्भीर नेपाली को शब्द रचना चक्रपाणि चालिसेले सन् 1924 मा गरेका थिए। तर यो एक सैनिक परेडको संगीतको रूपमा तत्कालिन 'शाही नेपाली सेना' ले पहिले देखि नै प्रयोग गरेको धून थियो। यसको संगीत कम्पोज सन् 1899 मा सेनाका ब्याण्ड मास्टर बखत बहादुर बुढापिर्थीले गरेका थिए। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 74,
+    "text_length_max": 268,
+    "text_length_avg": 145.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1915,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23789.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23789.txt",
+    "relative_path": "23789.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23789.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1915,
+    "mtime": 1782796506.8253753,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b2e9d2d7b61c8932c4fde971a0a837d376a9a3d9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

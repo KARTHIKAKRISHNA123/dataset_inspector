@@ -1,0 +1,92 @@
+{
+  "dataset": "12582.txt",
+  "file_name": "12582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बार्बाडोस क्यारेबियन क्षेत्रमा अवस्थित राष्ट्र हो । इसाई धर्म यहाँको मुख्य धर्म हो । अङ्ग्रेजी यहाँको मुख्य भाषा हो । ",
+    "सन् 1966मा संयुक्त अधिराज्यबाट स्वतन्त्र भएको यो मुलुकको राष्ट्रप्रमुख भने बेलायती राजसंस्था प्रमुख रहन्छ अर्थात् यो राष्ट्र राष्ट्रमण्डलको सदस्य हो । संसदीय प्रजातन्त्र रहेको बार्बाडोसमा दुई संसद छन् । हाउस अफ एसेम्बलीमा 28 सदस्य र सिनेटमा 21 सदस्य रहन्छन् । दुवै सदनका सदस्यको म्याद पाँच वर्षे हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 118,
+    "text_length_max": 303,
+    "text_length_avg": 210.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1115,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12582.txt",
+    "relative_path": "12582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12582.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1115,
+    "mtime": 1782796454.6606202,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "277abb71512cabb0c632c7cf7a46a1cbd2b983b7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

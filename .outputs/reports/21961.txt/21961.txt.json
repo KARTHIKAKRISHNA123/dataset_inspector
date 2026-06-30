@@ -1,0 +1,92 @@
+{
+  "dataset": "21961.txt",
+  "file_name": "21961.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बलात्कार: कसैको मन्जुरी बिना करकाप, डर, धम्कि वा बल प्रयोग गरि जबरजस्ति गरिने यौनसम्पर्कलाई भनिन्छ । त्यसैगरि उमेर नपुगेको ब्यक्तिलाई ललाईफकाई,मञ्जुरी लिई वा नलिई गरिने यौनक्रिडालाई पनि बलात्कार कै रूपमा लिईन्छ ।",
+    "कसैले कुनै महिलालाई निजको मञ्जूरी नलिई करणी गरेमा वा सोह्र वर्षभन्दा कम उमेरकी बालिकालाई निजको मञ्जूरी लिई वा नलिई करणी गरेमा निजले जबर्जस्ती करणी गरेको ठहर्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 160,
+    "text_length_max": 212,
+    "text_length_avg": 186.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 997,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21961.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21961.txt",
+    "relative_path": "21961.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21961.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 997,
+    "mtime": 1782796498.7281523,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f904742328e6a730ce1a06580e94998da42e6ee4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

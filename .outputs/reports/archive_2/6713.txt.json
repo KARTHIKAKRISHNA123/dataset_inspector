@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6713.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख हिन्दीबाट अनुवाद गरिएको हो। यहाँ क्लिक गरेर यस लेखमा रहेका त्रुटिहरु सुधार्न सक्नुहुन्छ।",
+    "रघुवंशम् संस्कृत भाषाका महाकवि कालिदास द्वारा रघुवंशमाथि रचिएको काव्य हो। यो संस्कृत भाषामा लेखिएको छ। यस महाकाव्यमा उन्नाइस सर्गहरुमा रघुका कुलमा उत्पन्न बीस राजाहरुको एक्काइस प्रकारका छन्दहरुको प्रयोग गर्दै वर्णन गरिएको छ। यसमा दीलिप, रघु, दशरथ, राम, कुश, र अतिथिको विशेष वर्णन गरिएको छ। ती सबै समाजमा आदर्श स्थापित गर्नमा सफल भए। रामको यसमा विषद वर्णन गरिएको छ। उन्नाइसमध्ये छः सर्ग उनीसित नैं सम्बन्धित छन्। "
+  ],
+  "statistics": {
+    "records_sampled": 19,
+    "missing_text": 0,
+    "text_length_min": 1,
+    "text_length_max": 1448,
+    "text_length_avg": 459.68,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23374,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6713.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6713.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6713.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23374,
+    "mtime": 1782796669.2006638,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b50858d69789765bcc67176b240d8fe7279d4359",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

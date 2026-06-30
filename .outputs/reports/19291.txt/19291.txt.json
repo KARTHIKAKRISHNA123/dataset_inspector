@@ -1,0 +1,94 @@
+{
+  "dataset": "19291.txt",
+  "file_name": "19291.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इलिनोर ओसट्रम अर्थशास्त्रको नोबेल पुरस्कार पाउने आजसम्म कै एक मात्र महिला हुन् । उनले वि.सं.2066 मा समुदायको साझा सम्पत्ति तथा आर्थिक शासन को मिश्रित सिद्धान्त प्रतिपादन गरेकी हुन् । उनको यस सिद्धान्तले समुदायले आफुलाई चाहिने सम्पत्तिको संकलन, सुरक्षा, विकास, र उपयोग कसरी गर्दो रहेछ भन्ने कुरा विश्लेषण गर्दछ । उनी इन्डियाना युनिवर्सिटी, लस एन्जेलिस, यु एस ए मा प्रोफेसर थिइन् । उनको विषय वस्तुलाई नया संस्थानिक अर्थशास्त्र र सार्वजनिक अर्थशास्त्रको विषय वस्तु मानिन्छ ।",
+    "आर्थिक विकासका लागि यस सिद्धान्तले अर्थशास्त्रमा एक नयां दृष्टिकोण प्रदान गरेको छ । जसलाई साझा सामुदायिक सम्पत्ति CPR भनिन्छ । छत्तीस मौजा सिंचाई प्रणालीलाई यसै प्रकारको सम्पत्ति भनिन्छ ।  "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 189,
+    "text_length_max": 757,
+    "text_length_avg": 420.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4478,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19291.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19291.txt",
+    "relative_path": "19291.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19291.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4478,
+    "mtime": 1782796486.3152704,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "0c6588ab761565b390434f67d68f6402a0813d1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

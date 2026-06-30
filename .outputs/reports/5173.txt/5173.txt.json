@@ -1,0 +1,94 @@
+{
+  "dataset": "5173.txt",
+  "file_name": "5173.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "संस्कार शब्दको ब्युत्पत्ति संस्कृतको 'सम' एवं कृञ धातुमा र्धञ प्रत्यय लगाएर भएको छ। ऋग्वेदमा संस्कारको ठाउँमा संस्कृत शब्दको प्रयोग पाइन्छ, जसको अर्थ शुद्ध गरिएको भन्ने हुन्छ। जैमिनी सूत्रमा संस्कार शब्दलाई यज्ञलाई पवित्र र निर्मल बनाउने कार्यको अर्थमा प्रयोग गरेको छ। ",
+    "संस्कार, धर्म, सम्प्रदाय, परम्परा, संस्कृति इत्यादि समानार्थी रुपमा प्रयोग गरिन्छ । तर सबैमा फरक हुन्छ । संस्कार शब्दको अर्थ हो पूर्ण गराइएको, तलासिएको, परिष्कार गरिएको वा सफा गरिएको । संस्कारको अंग्रेजी समानान्तर शब्द हो कल्चर– यो कल्टबाट बनेको छ । यसबाट कृषि युग नै संस्कार र संस्कृतिको प्रारम्भ हो भन्ने स्पष्ट हुन्छ । कृषिको मूल शब्द पनि कृ नै हो । जसले क्रियालाई जनाउंछ । यसरी संस्कृति र कल्चर दुवै शब्दको मूल एउटै हो । बर्बर र सभ्य संसारबाट टाढा रहेका जातिहरुको मानसिक क्षमता अविकसित नै रहन जान"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 3220,
+    "text_length_avg": 950.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15094,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5173.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5173.txt",
+    "relative_path": "5173.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5173.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15094,
+    "mtime": 1782796583.5094998,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cc370ba4990a6f8343441b860bd345d6d472ab41",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

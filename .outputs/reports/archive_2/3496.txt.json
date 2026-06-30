@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3496.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अपांग आधिकारक लागि लामो समयदेखि क्रियाशील ब्यक्तित्व हुन् नरबहादुर लिम्बु । उनको जन्म पुर्बी नेपालको तेह्रथुम जिल्लाको मोरयाङ गा.बि.स.मा भएको हो । उनी 15 बर्ष नेपाल नेत्रहीन संघका अध्यक्ष बने । अहिले संघको कार्यकरी सल्लाहकारमा छन् । ",
+    "नरबहादुर लिम्बुले बाल्यकाल भोजपुर जिल्लामै बिताए । उनका दुइ दिदी बहिनि जन्मी सकेका थिए तर उनको आमा बुवामा छोरानै चाहिन्छ भन्ने मान्यताले जरा गाडेको रहेछ । ताप्लेजुङको पाथीभरा देवीको दर्शन गरे सन्तान प्राप्ति हुन्छ भन्ने मान्यता भएकाले दुइ दिन हिडेर उनकि आमा पाथीभरा दर्शन गर्न जानु भएछ । पाथीभरा दर्शन पछि नरबहादुर लिम्बुको जन्म भएछ ।उनि जन्मेको डेढ बर्षमै बुवा बित्नुभयो । उनि चार बर्षको हुदा उनलाई टाइफाइड भएछ । त्यती बेला गाउँमा अस्पताल हुने कुरैभएन । टाइफाइडको ज्वरोले तीन महिना थला परे । तीन महि"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 233,
+    "text_length_max": 2533,
+    "text_length_avg": 1383.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7226,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3496.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3496.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3496.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7226,
+    "mtime": 1782796656.1878686,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ef27cf557e5d16605132fa32be5b11b916027103",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "28098.txt",
+  "file_name": "28098.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "देर वोल्क्स्टाट - जर्मन सामाजिक-जनवादी मजदुर पार्टीको केन्द्रीय मुखपत्र । यो अखबार सन् 1869-1876 मा लेइपचिगबाट विल्हेल्म लिब्कनेख्तको सम्पादकत्वमा निस्कने गरेको थियो । कार्ल मार्क्स र फ्रेडरिख एंगेल्स पनि आफ्ना लेखहरू यस पत्रिकामा निकाल्ने गर्नु हुन्थ्यो । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 257,
+    "text_length_max": 257,
+    "text_length_avg": 257.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 677,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28098.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28098.txt",
+    "relative_path": "28098.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28098.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 677,
+    "mtime": 1782796526.557687,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0e158ddc1200585631ef0ab9a59679f41aeb87ef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

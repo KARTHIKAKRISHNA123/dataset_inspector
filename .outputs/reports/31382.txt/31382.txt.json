@@ -1,0 +1,94 @@
+{
+  "dataset": "31382.txt",
+  "file_name": "31382.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Coffea ambongensis Coffea anthonyi Coffea arabica - Arabica CoffeeCoffea benghalensis - Bengal coffeeCoffea boinensisCoffea bonnieri Coffea canephora - Robusta coffeeCoffea charrieriana - Cameroonian coffeeCoffea congensis - Congo coffeeCoffea dewevrei - Excelsa coffeeCoffea excelsa - Liberian coffeeCoffea gallienii Coffea liberica - Liberian coffeeCoffea magnistipula Coffea mauritiana - Café marronCoffea mogeneti Coffea stenophylla - Sierra Leonian coffee",
+    "Coffea is a large genus of flowering plants in the madder family, Rubiaceae. They are shrubs or small trees, native to subtropical Africa and southern Asia. Seeds of several species are the source of the popular beverage coffee. Coffee ranks as one of the world's most valuable and widely traded commodity crops and is an important export of a number of countries. The leaves and the outer part of the fruit are also sometimes eaten."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 433,
+    "text_length_max": 460,
+    "text_length_avg": 446.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 896,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31382.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31382.txt",
+    "relative_path": "31382.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31382.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 896,
+    "mtime": 1782796542.225505,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8c2b26ff94730a7128c0d3cd10bc78d98f92e489",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

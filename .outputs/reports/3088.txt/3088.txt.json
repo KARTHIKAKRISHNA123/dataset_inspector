@@ -1,0 +1,92 @@
+{
+  "dataset": "3088.txt",
+  "file_name": "3088.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यो लेख भारत स्थित एउटा हिन्दू राष्ट्रवादी संघटन आर एस एसका बारेमा हो। अन्य प्रयोग हेतु आर एस एस हेर्नुहोस्। ",
+    "राष्ट्रिय स्वयंसेवक संघ एउटा हिन्दू राष्ट्रवादी सङ्गठन हो जसका सिद्धान्त हिंदुत्वमा निहित र आधारित छन्। यो राष्ट्रिय स्वयंसेवक संघको अपेक्षा संघ वा आर। एस। एस। का नामले अधिक प्रसिद्ध हो। यसको सुरुवात सन् 1925मा विजयदशमीका दिन डा। केशव हेडगेवार द्वाराको गयी थियो । बीबीसीका अनुसार संघ विश्वको सबैभन्दा ठूलो स्वयंसेवी संस्था हो। सबैभन्दा पहिला 50 वर्ष पछि 1975मा जब संकटकालीन अबस्थाको घोषणा भएको त तत्कालीन जनसंघमा पनि संघका साथ प्रतिबन्ध लगाई दिइएको हो। संकटकालीन अबस्था हटे पछि जनसंघको विलय जनता पार्"
+  ],
+  "statistics": {
+    "records_sampled": 44,
+    "missing_text": 0,
+    "text_length_min": 15,
+    "text_length_max": 932,
+    "text_length_avg": 212.02,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 24541,
+    "estimated_records": 115
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 115,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3088.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3088.txt",
+    "relative_path": "3088.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3088.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 24541,
+    "mtime": 1782796539.9172657,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2fc9368239b9a4adc15f148a4276f81eb20b5562",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

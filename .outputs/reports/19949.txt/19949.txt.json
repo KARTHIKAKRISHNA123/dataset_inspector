@@ -1,0 +1,92 @@
+{
+  "dataset": "19949.txt",
+  "file_name": "19949.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शान्ति ठटाल प्रसिद्ध गायिका र नेपाली फिल्मकी पहिली महिला संगीतकार हुनुहुन्छ। वहाँले 200 भन्दा बढी गीतहरूमा संगित दिनुभएको छ। वहाँ सिक्किमको सांस्कृतिक विभागको निर्देशकबाट निवृत्त हुनुभयो। वहाँ सिक्किममा बसेर नृत्यनाटिका र गीतिनाटिकाहरूमा व्यस्त हुनुहुन्थ्यो। ",
+    "उहाँको जन्म सन् 1938मा दार्जिलिङमा मनु सिंह ठटाल र चन्द्रमाया ठटालको कोखबाट भएको हो। वहाँले शुरुमा शिब प्रशाद सिंह र भानु घोशसित संगित सिक्नुभयो . वहाँले दार्जीलिंगको सेन्ट टेरेसा स्कुलमा शिक्षा सुरु गरेर कोलकाताबाट संगितमा स्नातक गर्नुभयो। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 76,
+    "text_length_max": 641,
+    "text_length_avg": 318.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5099,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19949.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19949.txt",
+    "relative_path": "19949.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19949.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5099,
+    "mtime": 1782796489.3996966,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "aca89d12a398ebe707ab07f4aa9c01957199bf8c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

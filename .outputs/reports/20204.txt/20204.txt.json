@@ -1,0 +1,92 @@
+{
+  "dataset": "20204.txt",
+  "file_name": "20204.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "यदि यो प्रमुख पृष्ठ चाँडै मेटाउने आधारको मापदण्ड भित्र नपरेको खण्डमा, अथवा तपाईँ यसमा पर्याप्त सुधार गर्न सक्नुहुन्छ भने यो सूचना हटाउनुहोला तर यदि यो तपाईँले सृजना गरेको लेख हो भने तपाईँ आफैले यो सूचना नहटाउनुहोला । यदि यो तपाईँले पृष्ठ बनाउनु भएको हो र तपाईँ यसलाई मेटाउनु पर्ने कुरामा सहमत हुनुहुन्न भने तल रहेको मेटाउन सहमत छैन बटन थिच्नुहोला र वार्तालापमा आफ्नो विचार व्यक्त गर्नुहोला । अथवा तपाईँ सिधै वार्तालापमा गई आफ्नो कुरा राख्न वा आफ्नो कुराको प्रतिक्रिया हेर्न सक्नुहुनेछ ।",
+    "एकपटक यो सूचना राखिसकेपछि यदि यो लेख अनुपयुक्त छ वा निश्चित रूपमा चाँडै मेटाउनु पर्ने पृष्ठको मापदण्डमा पर्न आउँछ भने कुनै पनि समयमा प्रबन्धक वा प्रशासकद्वारा यो पृष्ठ मेटाउन सकिनेछ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 183,
+    "text_length_max": 486,
+    "text_length_avg": 305.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4819,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20204.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20204.txt",
+    "relative_path": "20204.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20204.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4819,
+    "mtime": 1782796490.5929284,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "78662c027efbf8b29ea4159d31b852d2e3cba556",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

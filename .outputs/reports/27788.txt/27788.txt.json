@@ -1,0 +1,92 @@
+{
+  "dataset": "27788.txt",
+  "file_name": "27788.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भिटामिन डी मानिसको शरीरको लागि अति आवश्यक पौष्टिक तत्व हो ।",
+    "भिटामिन 'डी' दाँत र हाडका लागि अति जरुरी हुन्छ। यसको कमीले शरीरमा क्याल्सियमको शोषण कम हुन्छ र विभिन्न शारीरकि समस्या निम्तिन सक्छ। भिटामिन 'डी'को कमीले बालबालिकाको हातखुट्टा बाँगिने समस्या 'रिकेट्स' हुन्छ। यसको कमीले विभिन्न किसिमका संक्रामक रोग पनि लाग्न सक्छ। गर्भवती महिलाको शरीरमा भिटामिन 'डी'को कमी हुँदा गर्भको बच्चाको स्वास्थ्यमा नकारात्मक असर पर्छ। यस्ता समस्या रोक्न घर-आँगनमा छताछुल्ल निःशुल्क रूपमा प्राप्त हुने सूर्यको किरणमा बस्न सिकाउनुपर्ने भएको छ। खासगरी किशोर-किशोरी र युवा छाला काल"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 878,
+    "text_length_avg": 435.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8067,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27788.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27788.txt",
+    "relative_path": "27788.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27788.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8067,
+    "mtime": 1782796525.2002134,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f8f472e78f4f976bf411c5a43988f38346cd49d2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

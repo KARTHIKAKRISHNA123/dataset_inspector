@@ -1,0 +1,92 @@
+{
+  "dataset": "32778.txt",
+  "file_name": "32778.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एप्पल कम्पनी एउटा अमेरिकन बहुराष्ट्रिय कम्पनी हो । एप्पलले विभिन्न किसिमका विद्युतिय सामग्री बनाउने काम गर्छ । यस कम्पनीका उत्पादनहरु मध्ये म्याक ल्यापटप,आइप्याड र आइफोन युवाहरु माझ निकै चर्चित छन । एप्पल हार्डवेयर मात्र नभएर सफ्टवेयर पनि बनाउदै आएको छ । यसका प्रमुख सफ्टवेयरहरुमा म्याक ओएस,आइ ट्युन्स,आइ-वोर्कस,एपर्चर आदि पर्छन । राजस्वको मामिलामा सामसुङ इलेक्ट्रोनिक्स पछी एप्पल संसारकै दोश्रो ठुलो सुचना उद्योगीक कम्पनि हो तथा सामसुङ र नोकिया पछि सबैभन्दा ठुलो मोबाईल निर्माता कम्पनि हो ।",
+    "एप्पल कम्पनीको स्थापना 1 अप्रील 1976 मा भयो र यसको लगभग 1 वर्षपछी 3 जनवरी 1977 मा यसको नाम एप्पल कम्प्युटर आइएनसी राखियो । कम्पनीको नाम बाट \"कम्प्युटर\" शब्द 9 जनवरी 2008 मा हटाइयो त्यही दिन एप्पल कम्पनीका संस्थापक स्टिभ जब्सले ग्राहक तथा विश्वमाझ आइफोन प्रस्तुत गरेर एप्पल कम्पनी उपभोक्ता इलेक्ट्रोनिक्स माझ ध्यान बढाईरहेको कुरा देखाएका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 314,
+    "text_length_max": 491,
+    "text_length_avg": 382.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2970,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32778.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32778.txt",
+    "relative_path": "32778.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32778.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2970,
+    "mtime": 1782796548.55691,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7ab64b0cf1c4694586ec54cbfa6f532b25c2542a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

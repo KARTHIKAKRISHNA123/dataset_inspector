@@ -1,0 +1,91 @@
+{
+  "dataset": "38555.txt",
+  "file_name": "38555.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्याकारेट क्यासिनोको सबैभन्दा खतरनाक खेलका रूपमा परिचित छ। प्लेयर र बैंकर राखेर डिलरले खेलाउने गेम हो यो जसमा डिलरमार्फत प्लेयरलाई दुइटा कार्ड र बैंकरलाई पनि दुइटा कार्ड दिइएको हुन्छ, जसको गणितीय योगफल बढी हुन्छ, उसले बाजी जित्छ। खेल खेलाउने डिलरले बाजी जिताउन दोस्रो पटक पनि एउटा एउटा कार्ड दिन सक्छ तर दुइटा कार्डको योगफल 8 वा 9 छ भने तेस्रो कार्ड आवश्यक पर्दैन। यसमा दुवै पक्षको गणितीय योगफल बराबर आयो भने त्यसलाई टाइ मानिन्छ र कसैले पनि पैसा हार्दैन।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 454,
+    "text_length_max": 454,
+    "text_length_avg": 454.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1199,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38555.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38555.txt",
+    "relative_path": "38555.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38555.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1199,
+    "mtime": 1782796575.8013797,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b5ae66e769e40d3afb39e0985a252f2b68fe1b16",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

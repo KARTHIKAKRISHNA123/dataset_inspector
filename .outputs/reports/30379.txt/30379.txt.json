@@ -1,0 +1,91 @@
+{
+  "dataset": "30379.txt",
+  "file_name": "30379.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिरिसे इलाम जिल्लाको सोयाङ गाविस अन्तरगतको एउटा गाउँ हो।यो गाउँ सोयाङको 1 र 2 नं वडा पर्छ। यहाँ विशेष गरी तामाङ सेरपा राई लिम्बूको बसोबास रहेको छ भने ब्राम्हण, क्षेत्री, नेवार र दलित जातिको पनि छिटपुट रूपमा रहेका छन्‌।शिक्षा यस गाउँमा एउटा माध्यमिक विद्यालय, दुई वटा प्रा वि र एउटा बोर्डिङ रहेका छन्‌। साक्षरता दर औसत नै रहेको छ।पर्यटकीय क्षेत्रहरूयस क्षेत्रको प्रमुख पर्यटकीय आकर्षण भनेको मलुपोखरी हो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 402,
+    "text_length_max": 402,
+    "text_length_avg": 402.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1067,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30379.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30379.txt",
+    "relative_path": "30379.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30379.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1067,
+    "mtime": 1782796537.52636,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.961,
+    "sha1_quick": "781063b093f33342543f910c88a8e09ea0e30610",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

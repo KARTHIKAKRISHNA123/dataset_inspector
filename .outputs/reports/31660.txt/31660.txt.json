@@ -1,0 +1,92 @@
+{
+  "dataset": "31660.txt",
+  "file_name": "31660.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मंगलसेन दरबार अछाम जिल्लाको पर्यटकीय स्थल तथा ऐतिहासिक धरोहर हो । माओवादीले 2058 फागुन 4 गतेको राति 11 बजेतिर अछाम सदसरमुकाम मंगलसेनमा भीषण आक्रमण गरेपछी यो दरबार ध्वस्त भयो ।",
+    "मंगलसेन दरबार तत्कालीन अछामी राजा दलबहादुर शाहको पालामा 1935 मा निर्माण भएको थियो । झन्डै डेढ सय वर्षअघि उनका पिता राजा टीकाभुक शाहको पालामा यसको निर्माण सुरु भएको थियो । यो दरबारलाई 2029 सालमा अछामी राजाका सन्तानबाट सरकारले किनेको थियो । परम्परागत शैलीमा निर्माण गरिएको उक्त तीनतले दरबारमा 30 कोठा थिए । तत्कालीन समय जिल्ला प्रशासन कार्यालय रहेको मंगलसेन दरबारलाई अछामको पुरानो ऐतिहासिक सम्पदाका रुपमा लिइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 175,
+    "text_length_max": 411,
+    "text_length_avg": 293.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1536,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31660.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31660.txt",
+    "relative_path": "31660.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31660.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1536,
+    "mtime": 1782796543.6028957,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "44a13d4fef7c1d0bc15618e63b17da55c9bdaa2d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

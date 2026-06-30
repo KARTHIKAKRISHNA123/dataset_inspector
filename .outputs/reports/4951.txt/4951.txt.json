@@ -1,0 +1,92 @@
+{
+  "dataset": "4951.txt",
+  "file_name": "4951.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विस्केक, जसलाई पहिले पिश्पेक र फून्जे को नामहरू ले पनि चिनिने, मध्य एसिया को किर्गिजस्तान देशको राजधानी, आर्थिक, राजनीतिक, सांस्कृतिक केन्द्र तथा सबैभन्दा लोकप्रिय शहर हो । यो किर्गिजस्तान को चुय प्रदेश को राजधानी पनि हो ।",
+    "विस्केक को नाम किर्गिज भाषा को त्यस शब्द बाट उत्पन्न भएको मानिन्छ जसको किर्गिजस्तान को राष्ट्रीय पेय, कूमीस,, जानिन्छ । सन् 1825 मा चुय नदी को एक सहायक नदी को किनारा मा किर्गिजस्तानी हरूले एक किल्ला को स्थापना गरे । जब यो इलाका रूसी साम्राज्य मा शामिल भयो तब धेरै रूसी मानिसहरू यहाँ आएर बसे र यो शहर को नाम 1862 मा पिश्पेक भयो । जुन रूसी मानिसहरू द्वारा 'विस्केक को गलत उच्चारण थियो । 1926 मा सोभियत संघ बनाइए पछि यस शहर को नाम यस इलाका मा जन्मिएका बोल्शेविक पार्टीका नेता मिखाईल फून्जे को नाममा फून्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 222,
+    "text_length_max": 625,
+    "text_length_avg": 471.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4809,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4951.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4951.txt",
+    "relative_path": "4951.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4951.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4809,
+    "mtime": 1782796582.157771,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "e54898f553840a63504c80c56462030b1d3a73aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

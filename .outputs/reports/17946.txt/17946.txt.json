@@ -1,0 +1,92 @@
+{
+  "dataset": "17946.txt",
+  "file_name": "17946.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डेजी बराइली प्रसिद्ध गायिका हुनुहुन्छ । उहाँका भैंसी लड्यो र मायालुले सम्झयो कि कसोगीत प्रसिद्ध छन् । उहाँ दार्जीलिङमा बस्नुहुन्छ । यी दुई गीत नेपालमा रेकर्ड भएका हुन् । ती गीत गाउँदा उहाँ 15 वर्षकि हुनुहुन्थ्यो । गीत रेकर्ड गर्न उहाँ सन् 1975 मा बद्रि दुर्गा खरेल, दावा ग्याल्मो, गणेश शर्मासहितका गीत-संगीतका अगुवाका साथ लागेर पहिलोपटक नेपाल आउनुभयो । भैंसी लड्यो मा कमल दर्नालका शब्द छन् । मायालुले सम्झयो कि कसो गीत शशि ठटालले लेख्नुभएको हो । शान्ति ठटालको संगीत छ । पछिल्लो गीतमा भने गायिका दावा ",
+    "उहाँको जन्म सन् 1960 अप्रिल 25 मा दार्जिलिङको रंगमुकचियाबारी कमानमा भएको हो । उहाँका पिता चन्द्रसिंह र माताको नाम राधिका हो । उहाँका दुई भाइ छन् । उहाँले लोरेटो कलेजबाट बीए पास र रामकृष्ण बिटी कलेजबाट बिएड पास गर्नुभएको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 65,
+    "text_length_max": 902,
+    "text_length_avg": 481.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5060,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17946.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17946.txt",
+    "relative_path": "17946.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17946.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5060,
+    "mtime": 1782796479.8271866,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b222b1c44c7136563da4f614c9c7c03312aac4f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "35694.txt",
+  "file_name": "35694.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्पीडन विरुद्धको दिवस वार्षिक रूपमा मार्च महिनाको 21 तिरिखका दिन मनाइने गरिन्छ। सन् 1960 मार्च 21मा उत्तर अफ्रिकाको शार्पेभिल नामक स्थानमा भएको शान्तिपूर्ण प्रदर्शनमा पुलिसले आगो जलाएर 69 मानिसहरूलाई मारे। यही दिनलाई आधार भनाएर उत्पीडाको हरेक रूपबाट मुक्त हुन यस दिवसको घोषणा संयुक्त राष्ट्र महासभाले गरेका थिए। ",
+    "उत्तर अफ्रिकामा यस दिनलाई मानव अधिकार दिवसका रूपमा लिइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 58,
+    "text_length_max": 313,
+    "text_length_avg": 185.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 985,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35694.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35694.txt",
+    "relative_path": "35694.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35694.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 985,
+    "mtime": 1782796561.8340812,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "936076f0b99e7b891efe7b405e59713226d7f5e4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,105 @@
+{
+  "dataset": "en_gu (1).json",
+  "file_name": "en_gu (1).json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "gu",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "sourceText",
+    "targetText"
+  ],
+  "preview": [
+    "Welsh AMs are worried about 'looking like muppets'",
+    "There is consternation among some AMs at a suggestion that their title should change to MWPs (Member of the Welsh Parliament)."
+  ],
+  "statistics": {
+    "records_sampled": 1997,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 436,
+    "text_length_avg": 129.41,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.5627,
+      "Gujarati": 0.4373
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1021980,
+    "estimated_records": 7897
+  },
+  "schema": {
+    "columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "sourceText",
+      "targetText"
+    ],
+    "estimated_records": 7897,
+    "raw_schema": {
+      "sourceText": "str",
+      "targetText": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Latin, Gujarati",
+    "languages_seen": [
+      "en",
+      "gu"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "gu",
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.6045,
+      "Gujarati": 0.3955
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "en_gu (1).json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\en_gu (1).json",
+    "relative_path": "en_gu (1).json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "en_gu (1).json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 1021980,
+    "mtime": 1782728680.904073,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fe4550bacf2edae2bc74c33e83896177af06842c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

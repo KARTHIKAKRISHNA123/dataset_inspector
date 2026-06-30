@@ -1,0 +1,94 @@
+{
+  "dataset": "1035.txt",
+  "file_name": "1035.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दम दम रोगभन्दा पनि रोगहरूको लक्षण हो। यो रोगमा श्वासनली वा वरिपरिको जोडिएको खण्ड सुन्निन्छ। यस कारणले फोक्सोमा हावा जान कठिनाइ हुन्छ।जतिखेर एलर्जन्स र इरिटेटस सास नलीको सम्पर्कमा आउँछन्, त्यसपछि सास फेर्न समस्या हुन थाल्नु नै दम हो। ",
+    "दमको कुनै स्पष्ट कारण हुदैन। बंशाणुगत कारण पनि एक मानिएको छ। अर्थात्, परिवारका अग्रजलाई यो रोग लागेको भए हुने आशंका बढी हुन्छ। दम हुने अर्को कारण पनि छ। वातावरणका एलर्जन्स वा इरिटेटसप्रति बढी सम्वेदनशील व्यक्तिलाई पनि दम हुन सक्छ। उमेरसँग दमको कुनै सम्बन्ध छैन। यो कुनै पनि उमेरमा हुन सक्छ। 30 वर्षभन्दा मुनिकालाई दम हुनुमा एलर्जी जिम्मेवार हुन सक्छ। 30 वर्षभन्दा माथिकालाई वातावरणमा झुन्डि रहने हावाका कणले गर्दा पनि दम हुन सक्छ। बुढापाकालाई भने चुरोट, बिडी, हुक्का वा भान्साको धुवाँ, चिसो हावा र भा"
+  ],
+  "statistics": {
+    "records_sampled": 32,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 541,
+    "text_length_avg": 85.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7222,
+    "estimated_records": 84
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 84,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9991,
+      "Latin": 0.0009
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1035.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1035.txt",
+    "relative_path": "1035.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1035.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7222,
+    "mtime": 1782796444.1948895,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f95c5d4041ee33eb0bdecd9beff22484938b562f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

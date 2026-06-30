@@ -1,0 +1,94 @@
+{
+  "dataset": "38285.txt",
+  "file_name": "38285.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोर्डना ब्रिस्टर एक ब्राजिलियन–अमेरिकन अभिनेत्री हुन् । उनको जन्म स.न् 1980 को अप्रिल 26 मा प्यानामाको प्यानामा सहरमा भएको थियो । उनी बहुप्रसिद्ध चलचित्र फास्ट एण्ड फ्यूरीयस मा मिया टोरेडोको नामले चिनिने गर्दछिन् । उनी स.न्. 1995 ताका हलिवुडमा प्रवेश गरेकी हुन् ।",
+    "ढाँचा:The Fast and the Furiousढाँचा:Dallas "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 263,
+    "text_length_avg": 153.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.893,
+      "Latin": 0.107
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 744,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.893,
+      "Latin": 0.107
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38285.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38285.txt",
+    "relative_path": "38285.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38285.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 744,
+    "mtime": 1782796574.5515656,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "863e77c8ad96673cd496cbb78a053049eb56fb9d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

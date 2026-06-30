@@ -1,0 +1,91 @@
+{
+  "dataset": "37371.txt",
+  "file_name": "37371.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मन्दिर हिन्दू धर्म तथा यो धर्मका वैकल्पीक धर्म जैन धर्म, शैव वैष्णव आदी धर्मावलम्बीहरूको पूजा स्थल हो। मन्दिर भित्र विभिन्न देवी देवताहरूका मुर्तिहरूको स्थापना गरेर पूजा पाठ गरिन्छ। मन्दिरलाई हिन्दूहरूको पवित्र स्थलको रूपमा लिइन्छ। मन्दिरमा देवताहरूको वास भएको विश्वास गरिन्छ। मन्दिरमा शंख, घण्ट, कलस, पञ्चपात्र, आदी पूजन सामग्रीहरू राखिन्छ। प्राय सबै देवताहरूको लागि अलग अलग मन्दिर बनाईन्छ। जस्तै:- भगवान शिवको मन्दिलाई शिवालय भनिन्छ भने देवि दुर्गाको मन्दिरलाई दुर्गा मन्दिर भनिन्छ। त्यस्तै भगवान श"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 834,
+    "text_length_max": 834,
+    "text_length_avg": 834.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2241,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37371.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37371.txt",
+    "relative_path": "37371.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37371.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2241,
+    "mtime": 1782796569.8890734,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a9ed45a204e2d883a858c3e552a726b66863fdf7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "8773.txt",
+  "file_name": "8773.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अधिकार फर सोसल जस्टिस एन्ड ह्युमन राइट्स अमेरिकामा कार्यरत नेपालीहरुको गैह्रसरकारी संस्था हो । यसलाई अधिकार मात्र भनेर चिनिन्छ ।",
+    "अधिकार सन् 2005 जुलाईमा स्थापना भएको हो । अधिकारले वर्षेनि 500 भन्दा धेरै नेपालीभाषीलाई स्वास्थ्य सेवाका अलावा निःशुल्क ट्याक्स, इमिग्रेशन, श्रम अधिकार, दोभाषे लगायतका कार्यशाला गोष्ठी र तालिम दिंदै आएको छ । यसको कार्यालय न्यूयोर्कमा छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 236,
+    "text_length_avg": 182.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 966,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8773.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8773.txt",
+    "relative_path": "8773.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8773.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 966,
+    "mtime": 1782796600.9219394,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b18845ede142e34984c6a69708a121a8f49a2f0e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

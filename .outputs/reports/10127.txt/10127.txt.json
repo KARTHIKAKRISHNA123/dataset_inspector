@@ -1,0 +1,91 @@
+{
+  "dataset": "10127.txt",
+  "file_name": "10127.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लिङ्ग अथवा जैविक लिङ्ग मानिसको यौन अङ्ग वा प्रजनन अङ्गबाट छुट्टिने आधारलाई जैविक लिङ्ग भनिन्छ। उच्च कोटीका प्राणीहरूका कोशाणुहरूमा डि.एन.ए. र प्रोटिनको संयुक्त संरचना गुणसूत्र हुने गर्दछ। हरेक कोशाणुमा 23 जोडी गुणसुत्रहरू हुन्छन्। यी 23 जोडी गुणसुत्रहरूमा 23औँ जोडी गुणसुत्रले मानिसको जैविक लिङ्ग निर्धारण गर्दछ। यो कोशाणुमा सुक्ष रूपले रहने गर्दछ भने मानिसको प्रजनन प्रणाली र यौनाङ्गबाट बाह्य रूपमा पनि देखिने गर्दछ। यो एक व्यक्तिको शारीरिक तह हो। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 449,
+    "text_length_max": 449,
+    "text_length_avg": 449.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1194,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10127.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10127.txt",
+    "relative_path": "10127.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10127.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1194,
+    "mtime": 1782796443.0831003,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "a15a95ad942c9d16b6f47d2115b0d6f17b95d6fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

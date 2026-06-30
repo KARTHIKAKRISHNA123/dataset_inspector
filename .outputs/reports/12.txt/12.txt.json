@@ -1,0 +1,94 @@
+{
+  "dataset": "12.txt",
+  "file_name": "12.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शंखेकीरा एकप्रकारको ढाड नभएको जीव हो। मोलस्का परिवारको ग्यास्ट्रोपोडा वर्गमा पर्ने प्राय सबै जीवलाई साझारूपमा शंखेकीरा नामले चिनिन्छ। वयस्क अवस्थामा यीनीहरूको शरीरमा घुम्रिएको खबटा विकशित हुने गर्दछ। तर ढाडमा खबटा नहुने यस्ता जीवहरू भने चिप्लेकिराहरू हुन्। साधरणतया शंखेकीरा भन्नाले समुन्द्रमा, जमीनमा र शुद्दपानीमा पाइने सबै प्रकारका ग्यास्ट्रोपोडा वर्गका जीवहरू पर्दछन्।",
+    "जमीनमा पाइने शंखेकीरा मध्ये अफ्रीकामा पाइने विशाल शंखेकीराहरू मुखदेखि पुच्छारसम्म 15 इन्चसम्म लामा हुनेगर्दछन्। यीनीहरूको तौल करिब 2 पाउन्डसम्म हुन्छ। अहिलेसम्म पाइएको समुन्द्रि शंखेकीराहरू मध्ये Syrinx aruanus नामक शंखेकीराको खबटा 91 सेन्टिमिटर लामो र तौल 18 किलोग्राम सम्म हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 1141,
+    "text_length_avg": 453.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9944,
+      "Latin": 0.0056
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7354,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9944,
+      "Latin": 0.0056
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12.txt",
+    "relative_path": "12.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7354,
+    "mtime": 1782796451.9613664,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4f4c7c776096488a07a47d9cf6c6c7c9aae6dd09",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

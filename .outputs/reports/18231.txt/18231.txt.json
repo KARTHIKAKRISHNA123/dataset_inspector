@@ -1,0 +1,92 @@
+{
+  "dataset": "18231.txt",
+  "file_name": "18231.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेतकोट ताल वा बेदकोट ताल कञ्चनपुर जिल्लाको बेदकोट नगरपालिका मा रहेको छ । यो ताल दैजी बजारबाट करिब 7 कि.मि. उत्तरमा रहेको छ ।",
+    "डडेल्धुरा र कञ्चनपूरको सिमा छुट्याउने चुरे पहाडको तल वेतकोट ताल रहेको छ।तालको नजिकै एउटा मन्दिर रहेको छ । जहाँ पुजा र दर्शन गर्नेहरूको घुईचो हुने गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 124,
+    "text_length_max": 410,
+    "text_length_avg": 263.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2830,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18231.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18231.txt",
+    "relative_path": "18231.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18231.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2830,
+    "mtime": 1782796481.1047935,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "de2c6b6dc373c2690dd0055577c167eaba5cbfba",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

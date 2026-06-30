@@ -1,0 +1,92 @@
+{
+  "dataset": "30.txt",
+  "file_name": "30.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केदारनाथ भारतका सहरहरू मध्येको एउटा सहर हो । ",
+    "केदारनाथ भारत उत्तराखण्ड राज्यको रुद्रप्रयाग जिल्लाको एक नगरपञ्चायतमा रहेकाछन् । अती दुर्गमस्थलमा रहेका चारधाममध्ये एक धाम हुन् । यिनलाई प्रसिद्ध शिवजी तथा प्रसिद्ध शिवलिङ्ग रहेको स्थान मानिन्छ । यो स्थान हिन्दूहरुको प्रसिद्ध तीर्थस्थल हो । केदारनाथ रहेको यो स्थान समुन्द्रि सतह बाट 3584 मिटर उचाईमा रहेको छ । शिवका 12 ज्योतिलिङ्गमध्ये यिनी एक हुन् । आदि शंकराचार्यले 820 ई.मा यिनै केदारनाथमा देह त्याग गरेका थिए । यहाँका पञ्चकेदारनाथहरु यस प्रकार छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 454,
+    "text_length_avg": 287.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3080,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30.txt",
+    "relative_path": "30.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3080,
+    "mtime": 1782796535.7943134,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1c0d5787cdbd8c3c0b0ccc342c241a1ae04a24a7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

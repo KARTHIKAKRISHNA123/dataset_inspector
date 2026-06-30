@@ -1,0 +1,92 @@
+{
+  "dataset": "28358.txt",
+  "file_name": "28358.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सबै समाजमा लैङ्गिकताको परिभाषा र अवधारणा एकै नाशको हुँदैन। फेरी कुनै समाजमा एक प्रकारको लैङ्गिकता बारे अवधारणा छ भन्दैमा त्यही नै सबथोक वा त्यही नै पर्याप्त छ भन्ने हुँदैन। त्यही समाजका परिभाषाहरूमा नअटाउने व्यक्तिहरूले आफ्नै पहिचान खोज्न सुरु गर्छ। उदाहरणका लागि मूलधारको सेतो वर्णका ख्रिष्ट्रियन औपनिवेशिक युरोपेली समाजमा दुईवटा लैङ्गिकताको मात्र परिभाषा थियो। त्यही समाजमा ती परिभाषामा नअटाउनेहरूले आफ्नै पहिचानको स्थापना गरे। औपनिवेशिक कालमा त्यो दुईवटा लिङ्गको अवधारणा अन्यत्र पनि लादियो। भारतीय",
+    "नेपालमा विशेष गरी पर्वते कुरा गर्ने खस-आर्य समुदायहरूमा तेस्रोलिङ्गीको अवधारणा छ। आफूलाई महिला र पुरुषको परिभाषाबाट छुट्टै राख्ने, आफू महिला पनि होइन पुरुष पनि होइन, महिला पुरुष भन्दा फरक पहिचान बोक्नेहरूलाई ‘तेस्रोलिङ्गी’ भन्ने गरिन्छ। यसै गरी 'मेटी' अथवा 'मेट्टी' भनेर पारलिङ्गी महिलाहरूलाई पनि जनाउने गरिन्छ भने 'मेटा] अथवा 'मेट्टा' भनेर पारलिङ्गी पुरुषहरूलाई जनाउने गरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 47,
+    "text_length_max": 1159,
+    "text_length_avg": 399.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7572,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28358.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28358.txt",
+    "relative_path": "28358.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28358.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7572,
+    "mtime": 1782796527.8615098,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "5a55d3b0ac95ddfd8a4a6926c8e1a747bb2b7f49",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "38411.txt",
+  "file_name": "38411.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पृष्ठभूमी :वन व्यवस्थापनबाट प्राप्त हुने काठ दाउरा ब्यवस्थित रूपले कटान संकलन र चिरान समेत गरी सर्बसाधारण जनता सङ्घ संस्था उद्योग ब्यवसाय र नेपाल सरकारद्वारा सञ्चालित योजना परियोजनाहरूलाई सुफत मूल्यमा सरल तरिकाले काठ दाउरा आपूर्ति गर्न 2011 सालमा स्थापना भएको सःमिल परियोजनालाई तत्काल प्रचलित कम्पनी कानुन अन्तरगत द टिम्बर कर्पोरेसन अफ नेपाल लि. पूर्ण सरकारी स्वामित्वको संस्थाको रूपमा गठन भएको र सरकारको नीति निर्देशन र निर्णयका आधारमा हालसम्म काठ दाउरा संकलन र बिक्री बितरणको कार्य गर्दै आएको छ। अध",
+    "लक्ष्य: वन व्यवस्थापनवाट प्राप्त हुने काठ दाउरा र काठजन्य वन पैदावारको व्यवस्थित संकलन सदुपयोग र विक्री वितरण गरी दिगो वन विकास र गरिवी न्युनिकरणमा टेवा पुर्‍याउने।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 164,
+    "text_length_max": 1234,
+    "text_length_avg": 471.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9672,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38411.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38411.txt",
+    "relative_path": "38411.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38411.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9672,
+    "mtime": 1782796575.139436,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "3a7335d0bbb17528092b1947e3e65bb07f4d32eb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

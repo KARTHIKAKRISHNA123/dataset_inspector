@@ -1,0 +1,92 @@
+{
+  "dataset": "27684.txt",
+  "file_name": "27684.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माछापुछ्रे, तमु भाषा : कतासुँ क्लिको, एउटा हिमालको नाम हो जुन अन्नपूर्ण हिमालको उत्तरमा मध्य नेपालमा अवस्थित छ । यो हिमाललाई मानिसहरूले भगवान शिवको पवित्र स्थान मानेर श्रद्धा गर्छन त्यसैले यो हिमालमाथि आरोहण गर्ने अनुमति छैन ।",
+    "माछापुछ्रे हिमाल एउटा लामो प्रेणदायक श्रेणीको पुछारमा, अन्नपूर्णको मुख्य भागमा दक्षिणतर्फबाट बाहिर लम्किदैगएको छ, पूर्वी सीमालाई अन्नपूर्ण संरक्षण क्षेत्रको रूप प्रदान गर्छ । यो संरक्षण क्षेत्र पर्यटकहरूको एउटा मनपर्ने ट्रेकिंग गन्तव्य हो र अन्नपूर्णको दक्षिणतर्फबाट आधार शिविर र अन्य प्राकृतिक छटा एकदमै मनमोहक हुन्छ । यो मनमोहक शिखर मुख्य शहर पोखराबाट लगभग 25 किलोमिटरको दूरीमा छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 383,
+    "text_length_avg": 80.85,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2869,
+    "estimated_records": 35
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 35,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27684.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27684.txt",
+    "relative_path": "27684.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27684.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2869,
+    "mtime": 1782796524.7224486,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "88557d65e8d93cf54c3f8d4b732d35d8006047ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

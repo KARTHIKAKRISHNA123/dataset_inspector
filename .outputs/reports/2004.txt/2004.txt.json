@@ -1,0 +1,92 @@
+{
+  "dataset": "2004.txt",
+  "file_name": "2004.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिचोलिम,, भारतीय राज्य गोवा को जिल्ला उत्तर गोवा, को एक शहर र नगर परिषद हो। यो बिचोलिम तालुका को मुख्यालय पनि हो। यो गोवा को पूर्वोत्तरमा स्थित छ र यहाँ पुर्तगाल को नोवास कोंक्विस्टास को हिस्सा थियो । बिचोलिम, गोवा को राजधानी पणजी देखि 30 किलोमीटरको दूरीमा अबस्थित छ।",
+    "18 वी शताब्दी सम्म बिचोमिमका अधिकांश एक स्वतन्त्र जमिन्दार प्रभु सरदेसाई को संयुक्त काम थियो जब, बचेका हिस्सा सावन्तवाड़ी राजशाहीको अधिकार क्षेत्रमा परथियो। 18 शताब्दी के उत्तरार्ध मा पुर्तगालहरु ले नोवास कोंक्विस्टास को रुपमा कब्ज़ा गरेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 90,
+    "text_length_max": 309,
+    "text_length_avg": 226.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2863,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2004.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2004.txt",
+    "relative_path": "2004.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2004.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2863,
+    "mtime": 1782796489.852141,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2a3a0ee22f85ace070fb9adf561b2c023eaac035",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

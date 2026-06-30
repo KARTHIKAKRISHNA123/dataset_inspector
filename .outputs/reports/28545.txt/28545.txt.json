@@ -1,0 +1,92 @@
+{
+  "dataset": "28545.txt",
+  "file_name": "28545.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युइएफए राष्ट्र लिग एक द्विभाषी अन्तरराष्ट्रीय एसोसिएशन फुटबल प्रतियोगिता हो जुन युरोपेली फुटबल कन्फिडरेसन द्वरा संचालित छ ।",
+    "पहिलो प्रतिस्पर्धा 2018 फिफा विश्वकप पछि, सेप्टेम्बर 2018 मा सुरु भएको थियोे । लीग ए को चार समूह विजेता जून 2019 मा युरोपियन शहर को तय गर्नको लागि खेलाडीहरु फाइनल को लागि क्वालिफाइ हुने छन् । चार राष्ट्रहरु, प्रत्येक लीग देखि एक पनि युइएफए यूरो 2020 को फाइनल को लागि क्वालिफाइ हुनेछन् । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 63,
+    "text_length_max": 287,
+    "text_length_avg": 167.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2628,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28545.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28545.txt",
+    "relative_path": "28545.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28545.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2628,
+    "mtime": 1782796528.7444172,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9b6d2cbb16577784b550de00f6712de182d88f31",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

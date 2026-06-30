@@ -1,0 +1,92 @@
+{
+  "dataset": "35923.txt",
+  "file_name": "35923.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकता बिष्ट भारतकी एक अन्तर्राष्ट्रिय महिला क्रिकेट खेलाडी हुन् । उनी अल्मोडा, उत्तराखण्ड राज्यबाट हुन् र घरेलू क्रिकेटमा उत्तराखण्डको प्रतिनिधत्व गर्छिन् । एकता बिष्ट एकदिवसीय अन्तर्राष्ट्रिय क्रिकेट र ट्वान्टी ट्वान्टीमा भारतीय महिला क्रिकेट टिमको हिस्सा हुन् ।",
+    "बिष्टको जन्म भारतको उत्तराखण्ड राज्यको अल्मोडा जिल्लामा 8 फेब्रुअरी 1986मा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 86,
+    "text_length_max": 262,
+    "text_length_avg": 174.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 938,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35923.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35923.txt",
+    "relative_path": "35923.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35923.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 938,
+    "mtime": 1782796563.019248,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "0de3b3388a6e2f12733d848895b11ac1b2b95aaf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

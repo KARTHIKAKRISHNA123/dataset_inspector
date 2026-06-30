@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15367.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "च्याउ फूल नफूल्ने वनस्पतिअन्तर्गत पर्दछ ।च्याउजातिका बिरुवाहरु फन्जाई वर्गमा पर्दछ्न् । यो एक प्रकारको ढुसी हो । यो ढुसी मसिनो धागोको जालिजस्तै हुन्छ । यसलाई माइसेलियम भनिन्छ । यि बिरुवाहरुमा हरितकण नहुने हुनाले यिनिहरुले प्रकाश संश्लेषण क्रिया गर्न सक्तैनन् । यि बिरुवाहरु मृतोपजीवी हुन् । यिनिहरु कुहिएको वस्तुमा, चिसो र ओसिलो ठाउँमा उम्रन्छ्न् । ",
+    "च्याउमा प्रोटिन, भिटामिनहरूमा थाइमिन, राइवोˆलेविन, नाइसिन, वायोटिन, एसकर्भिक एसिड, विभिन्न मिनरल्स, विभिन्न एमिनो एसिडस् आदि तìवहरू पाइन्छ। त्यस्तै, भिटामिन ए, बी, सी, खनिज र क्याल्सियम पनि पाइन्छ। बोसो नगन्य मात्रामा पाइन्छ, च्याउमा स्टार्च हुँदैन, त्यसैले च्याउलाई पौष्टिक खानाको रूपमा लिइएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 935,
+    "text_length_avg": 371.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21621,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15367.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15367.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15367.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21621,
+    "mtime": 1782796617.3102508,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "8282b9990d674742575f240af2063658d00aa2ac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

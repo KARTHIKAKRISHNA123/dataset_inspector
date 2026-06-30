@@ -1,0 +1,92 @@
+{
+  "dataset": "27119.txt",
+  "file_name": "27119.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "याना गुप्ता, जन्मको नाम याना सिनकोवा, चेक मोडल र अभिनेत्री हुन् जो मुम्बईमा काम गर्ने गर्छिन्। याना चेक गणराज्यको नागरिक हुन्। आफ्नु विवाहको पश्चात उनीले आफ्नु कुलनाम परिवर्तन गरेर गुप्ता गरेकी थिइन् तथा तलाकको पश्चात पनि यही नाम राखिन्।",
+    "गुप्ता घुम्नको धेरै शौकीन हुन्। वर्ष 2000मा भारतमा आचार्य रजनीशको पूना आश्रममा रहेको समय उनको भेट चित्रकार सत्य गुप्तासँग भयो। आश्रममा एक कार्यक्रमको बेला यानाले गाना गएकी थिइन् जसमा गिटारको साथमा सत्यले संगीत दिए। सत्य यानासँग उमेरमा 14 वर्ष ठुला हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 237,
+    "text_length_max": 253,
+    "text_length_avg": 245.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1300,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27119.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27119.txt",
+    "relative_path": "27119.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27119.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1300,
+    "mtime": 1782796522.2016997,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "a9db7a99465d80586a3c6ec0f008ddc9fc3fb275",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

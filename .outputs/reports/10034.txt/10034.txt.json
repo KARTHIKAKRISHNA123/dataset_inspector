@@ -1,0 +1,92 @@
+{
+  "dataset": "10034.txt",
+  "file_name": "10034.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजकीय दूमा - रसिया साम्राजयको प्रतिनिधि सभा, सन् 1905 का घटनाहरूको फलस्वरूप जारसाही यो सभा डाक्न बाध्य भएको थियो | औपाचारिक रूपमा यो एक विधायिका संस्था थियो, तर यसलाई कुनै वास्तविक अधिकार प्रदान गरिएको थिएन | राजकीय दूमाको निर्वाचन प्रत्यक्ष मतदानबाट हुँदैनथ्यो मतदान असमान थियो र जनतालाई सार्वजनिक मताधिकार प्रदान गरिएको थिएन | श्रमिक वर्गहरूको मात्रामा सीमित पारिएको थियो, मजदुर तथा किसानहरूको एक व्यापक हिस्सालाई मताधिकार प्रदान गरिएको थिएन | 24 डिसेम्बर, 1905को चुनाव कानुनअनुसार एक जमीनदारको मत",
+    "पहिलो र दोस्रो राजकीय दूमाहरू सरकारले भंग गरिदिए | 3 जून, 1907मा मन्त्रीमण्डल बदलिसकेपछि सरकारले एक नयाँ चुनाव कानुन पास गर्र्‍यो, जसले मजदुरहरू, किसानहरू तथा शहरिया निम्त-बुर्जुवावर्गका अधिकारलाई अझ बढी सीमित तुल्याइदियो र तेस्रो तथा चौथो राजकीय दूमाहरूमाजमीनदारहरू तथा बुर्गुवावर्गका प्रतिक्रियावादी गुटको पूर्ण प्रभुत्व कायम हुन गयो |"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 566,
+    "text_length_avg": 334.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2634,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10034.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10034.txt",
+    "relative_path": "10034.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10034.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2634,
+    "mtime": 1782796442.634382,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "cf3941de1b1de2a6b5b073bb3e1f1466c0b7c280",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

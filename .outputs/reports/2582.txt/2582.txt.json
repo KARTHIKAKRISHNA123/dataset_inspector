@@ -1,0 +1,94 @@
+{
+  "dataset": "2582.txt",
+  "file_name": "2582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रिफ्ट भ्याली ज्वरो एक भाइरल रोग हो जसको कारणले गर्दा सामान्य देखि गम्भीर लक्षणहरू देखा पर्न सक्छन्। सामान्य लक्षणहरूमा निम्न पर्न सक्छन्: ज्वरो, मांसपेशी दुख्ने, र टाउको दुख्ने जुन प्राय: एक हप्तासम्म रहिरहन्छ। गम्भीर लक्षणहरूमा निम्न पर्न सक्छन्: संक्रमण भएको तीन हप्तापछि दृष्टि गुम्ने, मस्तिष्क संक्रमित भएको कारणले गर्दा जोडले टाउको दुख्ने र अलमलमा पर्ने, र कलेजोको समस्याहरूको साथसाथै रक्तस्राव हुने हुन्छ जुन पहिलो केही दिनमै हुन सक्छ। रक्तस्राव हुने व्यक्तिहरूको मृत्यु हुने सम्भावना 50% हुन्छ",
+    "यो रोग RVF भाइरसको कारणले गर्दा हुन्छ, जुन फ्लेबोभाइरस प्रकारको हो। यो या त संक्रमित जनावरको रगत छुनाले, संक्रमित जनावरलाई काटिँदै गरेको क्षेत्र वरिपरिको हावामा सास पर्नाले, संक्रमित जनावरहरूको अप्रशोधित दूध पिउनाले, वा संक्रमित लामखुट्टेको टोकाइबाट फैलने गर्छ। गाई, भेँडा, बाख्रा, र ऊँट जस्ता जनावरहरू यसबाट संक्रमित हुन सक्छन्। यी जनावरहरूमा यो रोग प्राय: लामखुट्टेको टोकाइबाट सर्ने गर्छ। यो संक्रमण एक व्यक्तिबाट अर्कोमा सरेको देखिएको छैन। शरीरमा यो भाइरस विरुद्ध एन्टिबडी पैदा भएको छ की छैन वा रग"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 308,
+    "text_length_max": 566,
+    "text_length_avg": 468.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4968,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9981,
+      "Latin": 0.0019
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2582.txt",
+    "relative_path": "2582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2582.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4968,
+    "mtime": 1782796516.18493,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "778bc9bbed8fa51d649cc1cd49ed89b4861b4499",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

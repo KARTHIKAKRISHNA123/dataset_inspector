@@ -1,0 +1,94 @@
+{
+  "dataset": "4315.txt",
+  "file_name": "4315.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डकडकगो एक इन्टरनेट सर्च इन्जिन हो जसले खोजकर्ताहरूको गोपनीयताको संरक्षण गर्दछ र निजीकृत खोज परिणामहरूको फिल्टर बबललाई टाढा राख्दछ। डकडकगोले अन्य सर्च इन्जिनहरु भन्दा बाहेक आफ्ना प्रयोगकर्ताहरुले खोज गरेका शब्दहरूको लागि एउटै खोज परिणाम देखाउँछ र धेरै भन्दा धेरै परिणामहरूका बाहेक यसले सर्वोत्तम नतिजा ल्याउनेमा जोड दिन्छ। यसले 400 भन्दा बढि व्यक्तिगत स्रोतहरू जस्तै विकिपिडिया र अन्य सर्च इन्जिनहरू जस्तै बिङ, याहू!, र यानडेक्स सहित यसले उत्कृष्ट खोज नतिजा ल्याउने गर्दछ। नोभेम्बर 2018 मा, यसमा दैनिक",
+    "यो कम्पनी ग्रेटर फिलाडेल्फियाको, पओली पेन्सलभेनिया आधारित छ र यसमा 55 जना कर्मचारीहरू कार्यरत रहेक छन्। यो कम्पनीको नाम, बालबालिकाहरूको खेल डकडक गुस बाट उत्पत्ति भएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 28,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 1206,
+    "text_length_avg": 345.68,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9955,
+      "Latin": 0.0045
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 25212,
+    "estimated_records": 72
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 72,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9969,
+      "Latin": 0.0031
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4315.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4315.txt",
+    "relative_path": "4315.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4315.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 25212,
+    "mtime": 1782796579.18318,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4512bc4b8f8f818e42a1a9c8ceab19bab6277ff1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

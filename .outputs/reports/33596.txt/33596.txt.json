@@ -1,0 +1,92 @@
+{
+  "dataset": "33596.txt",
+  "file_name": "33596.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अपरा मेहता एक भारतीय अभिनेत्री हुन्। उनीले क्योंकि सास भी कभी बहू थी नामक धारावाहिकबाट आफ्नो ब्यापक परिचय दिइन्। उनी आहिले वर्तमान जमाई राजा धारावाहिकमा \"हजुरआमा\"को अभिनय गरि रहेकी छिन्। ",
+    "उनको जन्म 13 अगस्ट 1960मा भारतमा भएको थियो। उनी आफ्ना आमा बुबाकी एक मात्र सन्तान हुन् । उनीले गुलाम मुस्तफ खानबाट शास्त्रीय संगीत सिकेकी थिइन् र साथै उनीले कथक नृत्य पनि निक्कै सानु उमेरमा सिकेकी थिइन् । उनको विवाह सन् 1980मा दर्शन जरीवालासँग भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 187,
+    "text_length_max": 254,
+    "text_length_avg": 220.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1151,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33596.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33596.txt",
+    "relative_path": "33596.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33596.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1151,
+    "mtime": 1782796552.293746,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "cff046c0c6c4bf251d3be5b1e1ff977a71245c02",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "1563.txt",
+  "file_name": "1563.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डा. राघवध्वज पन्त नेपालका वरिष्ठ अर्थविद् थिए । उनी एक समय राष्ट्रिय योजना आयोगका उपाध्यक्ष पनि रहे। उनको जन्म काठमाडौंको डिल्लीबजारमा भएको थियो ।",
+    "राघवले मौद्रीक अर्थशास्त्रमा विद्यावारिधि गरेका थिए । नेपाल राष्ट्र बैंकबाट जागीरे जीवन सुरु गरेका पन्तले एसियाको मुद्रास्फ्रीति विषयमा सन् 1979मा कार्लसन युनिभर्सिटी, क्यानडाबाट विद्यावारिधि गरेका थिए । उनी प्राध्यापन, अनुसन्धान र लेखनमा लागेका थिए । पहिले सदस्य हुँदै उनी 2054 सालमा योजना आयोगका उपाध्यक्ष बनेका थिए । पन्त पछिल्लो समयमा आर्थिक गतिविधिको अनुसन्धान र अध्ययनमा व्यस्त थिए । त्यहि गतिविधिका लागि उनी इन्स्टीच्युट फर डेभेलपमेन्ट स्टडिजका कार्यकारी निर्देशक थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 146,
+    "text_length_max": 477,
+    "text_length_avg": 259.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2064,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1563.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1563.txt",
+    "relative_path": "1563.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1563.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2064,
+    "mtime": 1782796468.4941063,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "12ceae1d089d1647efa792ec2fe3cdbff3c2b2c5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

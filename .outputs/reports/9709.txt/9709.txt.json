@@ -1,0 +1,91 @@
+{
+  "dataset": "9709.txt",
+  "file_name": "9709.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेल यातायात चलिरहेको सवारीमा यात्रु र सामानहरूको स्थानान्तरणको एक तरिका हो, जसलाई पटरिहरू भनिन्छ। यो सामान्यतया रेल यातायातको रूपमा पठाइन्छ। सडक ट्राफिकको विपरीत, जहाँ तयार तयारी सतहमा सवारी चालकहरू, रेल वाहन दिशा निर्देशकहरू निर्देशित छन् ती ट्रयाकहरू जसले तिनीहरू दौडिन्छन्। ट्र्याकहरू प्राय: इस्पातको हुन्छन्, सम्बन्धहरू र बट्टेमा स्थापित हुन्छन्, जसमा रोलिंग स्टक, सामान्य रूपमा धातुको पाङ्ग्राहरूसँग फिट हुन्छ। अन्य विविधताहरू पनि सम्भव छन्, जस्तै स्लैब ट्रयाक, जहाँ तयार सब्सफेसमा कंक्रीट आधार "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 526,
+    "text_length_max": 526,
+    "text_length_avg": 526.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1414,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9709.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9709.txt",
+    "relative_path": "9709.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9709.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1414,
+    "mtime": 1782796605.34032,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4aff9341b6141fca7c7b94a8a89e718bcbc772c0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

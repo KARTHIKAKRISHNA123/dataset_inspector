@@ -1,0 +1,92 @@
+{
+  "dataset": "26394.txt",
+  "file_name": "26394.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ऋषिपञ्चमी हिन्दु संस्कार अनुसार महिलाहरूका लागि तीज तथा हरितालिकाको जति महत्व भएको पर्व मानिन्छ । पौराणिक कथनअनुसार नारीहरू रजस्वला हुँदा जानेर वा नजानीकनै गरिएका जति पनि पापहरू छन्, तिबाट मुक्ति पाउनका लागि यसको ब्रत बसिन्छ । ",
+    "श्रीमद्भागवत, गरुड पुराण लगायत अन्य पुराणहरूमा लेखिए अनुसार देवराज इन्द्रलाई ब्रह्महत्याबाट लागेको पापलाई मुक्त गर्नका लागि चार भाग लगाई एक भाग नारीहरूको मासिक रक्तमा प्रवेश गराएकोले त्यसैका कारण उनीहरू चौथो दिनसम्म अशुद्ध रहन्छन्। यसै रजस्वलाबाट नै नारीहरूमा सन्तानोत्पादन गर्नसक्ने शक्ति उत्पन्न भएको मानिन्छ। सम्पूर्ण मानवीय चक्रको सुरूआत नै नारीको मासिक रजस्वलाबाट सुरू हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 87,
+    "text_length_max": 3673,
+    "text_length_avg": 591.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 33480,
+    "estimated_records": 56
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 56,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26394.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26394.txt",
+    "relative_path": "26394.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26394.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 33480,
+    "mtime": 1782796518.9058096,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "eb7862ec781a1ca5cfca8f6e1f009e3011db9b1d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,105 @@
+{
+  "dataset": "data2.json",
+  "file_name": "data2.json",
+  "source": "unknown",
+  "file_type": "json",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "te",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "audioFilename",
+    "duration",
+    "text"
+  ],
+  "preview": [
+    "సింహం అడ్డువచ్చి, తప్పుకో శిక్ష విధించవలసింది నేను అని కోతిని అఙ్ఞాపించింది నక్కకేసి తిరిగి మంత్రి పుంగవా ఈ మూషికాధముడు చోరుడు అని నీకు ఎలా తెలిసింది అని అడిగింది.",
+    "ఈ మాటలు వింటూనే గాలవుడు, కువలయాశ్వాన్ని ఎక్కి, శత్రుజిత్తువద్దకు వెళ్లి, ఋతుధ్వజుణ్ణి పంపమని కోరాడు, ఋతుధ్వజుడు, కువలయాశ్వాన్ని ఎక్కి, గాలవుడి వెంట, ఆయన ఆశ్రమానికి వెళ్ళాడు."
+  ],
+  "statistics": {
+    "records_sampled": 100,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 553,
+    "text_length_avg": 161.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Telugu": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 55715,
+    "estimated_records": 345
+  },
+  "schema": {
+    "columns": [
+      "audioFilename",
+      "duration",
+      "text"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "audioFilename",
+      "duration"
+    ],
+    "estimated_records": 345,
+    "raw_schema": {
+      "audioFilename": "str",
+      "duration": "float",
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Telugu",
+    "languages_seen": [
+      "te"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "te",
+    "dominant_script": "Telugu",
+    "script_distribution": {
+      "Telugu": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "json_shape": "array"
+  },
+  "meta": {
+    "file_name": "data2.json",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\data2.json",
+    "relative_path": "data2.json",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "data2.json",
+    "source": "unknown",
+    "extension": "json",
+    "file_type": "json",
+    "mime_type": "application/json",
+    "compression": "none",
+    "size_bytes": 55715,
+    "mtime": 1782795551.636297,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "215bed78fa9285dcb09f9fb598b6bd19221df867",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

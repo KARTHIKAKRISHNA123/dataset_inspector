@@ -1,0 +1,92 @@
+{
+  "dataset": "34919.txt",
+  "file_name": "34919.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सर आइज्याक न्यूटन, बेलायती भौतिकशास्त्री, गणितज्ञ, खगोलशास्त्री, प्राकृतिक दर्शनिक, र गूढ रसायनशास्त्री थिए जसलाई विज्ञान इतिहासमा सबैभन्दा प्रमुख व्यक्तित्वको रूपमा लिने गरिन्छ। ",
+    "उनको 1687मा प्रकाशित खोज प्राकृितक दर्शनको गणितीय सिद्धान्त मा विश्वव्यापी गुरूत्वाकर्षण र तीन गतिका नियम बयान गरिएको छ जसले शास्त्रीय यान्त्रिकीको जग बसाल्यो । केप्लरले पत्ता लगाएका ग्रहको गतिका नियम र आफ्नो गतिको तीन नियम मिलेको प्रदर्शन गरेपछि, खगोलीय वस्तु भएपनि पृथ्वीमा भएको वस्तु भएपनि सबै वस्तु मान्नुपर्ने गतिको नियम एक किसिमको हो भनेर प्रमाण गरे। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 357,
+    "text_length_avg": 188.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1511,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34919.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34919.txt",
+    "relative_path": "34919.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34919.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1511,
+    "mtime": 1782796558.3102446,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "0610ee63b2c32c31c9f2f89446e926db13033a06",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

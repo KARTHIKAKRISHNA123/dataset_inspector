@@ -1,0 +1,92 @@
+{
+  "dataset": "18645.txt",
+  "file_name": "18645.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विमल घर्ती मगर नेपाली फुटबल खेलाडी हुन्, । जो नेपाल राष्ट्रिय फुटबल टिम का एक महत्त्वपूर्ण सदस्य हुन् । विमल एन्फा एकेडेमीका उत्पादन हुन् जुन्, अखिल नेपाल फुटबल संघ र नेपाल राष्ट्रिय फुटबल टिमको नियन्त्रणमा छ । ",
+    "विमल 2013 साफ च्याम्पियनसिपमा पाकिस्तान विरूद्ध नेपाल राष्ट्रिय फुटबल टिमका लागि गोल गरेसँगै एकाएक चर्चामा आएका थिए । विमल अन्तराष्ट्रिय फुटबलमा गोल गर्ने विश्वकै छैटौँ कान्छा फुटबल खेलाडी हुन्, जसले उनलाई नेपालको लागि डेब्यु गर्ने र गोल गर्ने सबभन्दा युवा खेलाडी बनायो । यो किर्तिमान यसअघि भरत खवासले 16 बर्षको उमेरमा गोल गर्दै बनाएका थिए ।साथै विमल साफ च्याम्पियनसिप मा सबै भन्दा छिटो गोल गर्ने खेलाडी समेत हुन् । उनले 2015 साफ च्याम्पियनसिपको भारत विरूद्धधको खेलमा 2 मिनेटमा नै गोल गर्न सफल भएका थ"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 68,
+    "text_length_max": 1037,
+    "text_length_avg": 411.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 18245,
+    "estimated_records": 44
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 44,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18645.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18645.txt",
+    "relative_path": "18645.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18645.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 18245,
+    "mtime": 1782796483.119275,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ead58416f535726b4e080cae7c7812a0ad333491",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

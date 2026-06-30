@@ -1,0 +1,91 @@
+{
+  "dataset": "19707.txt",
+  "file_name": "19707.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हुड्केली पश्चिम, मध्यपश्चिम र सुदूरपश्चिम नेपालमा प्रचलित नाच्ने र गाउने लोकनृत्य एवं गीत हो । यो दमाईं जातिबीच कायम छ । यसलाई हुड्के नाच भनेको पनि पाइन्छ । विवाह, उत्सव, विभिन्न सांस्कृतिक तथा राजनीतिक कार्यक्रममा पनि हुड्केली नाचिन्छ । भारतको कुमाउ, गड्वाल हुँदै पश्चिम नेपाल आएको हुड्के नाच अहिले भारतको राजस्थानमा पनि नाच्ने गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 338,
+    "text_length_max": 338,
+    "text_length_avg": 338.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 897,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19707.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19707.txt",
+    "relative_path": "19707.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19707.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 897,
+    "mtime": 1782796488.2498343,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "bc4ac8b784909c9a805c9a8dbdc3508faceb0279",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

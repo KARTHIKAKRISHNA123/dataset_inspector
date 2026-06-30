@@ -1,0 +1,92 @@
+{
+  "dataset": "17318.txt",
+  "file_name": "17318.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डाक्टर भोला रिजाल नेपालका एक बरिष्ठ चिकित्सक हुन्। स्त्रीरोग विशेषज्ञ रिजाल ओम अस्पतालका संस्थापक हुन्। उनले नेपालमा टेष्ट ट्युवबाट बच्चा जन्माउने प्रविधि भित्र्याएका हुन्।",
+    "बहुमुखी प्रतिभा भएका रिजाल गीत लेखन र गायनमा पनि उतिकै सकृय छन्। उनले गाएको मेरो पौवा पाटीलाई नामक गीत निकै चर्चित नेपाली गीत हो। साथै उनी गीत लेखनमा पनि सहभागी छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 165,
+    "text_length_max": 172,
+    "text_length_avg": 168.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 909,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17318.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17318.txt",
+    "relative_path": "17318.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17318.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 909,
+    "mtime": 1782796476.7315037,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5caa9ff59b2fe927782532a47846b6a93c585cbc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

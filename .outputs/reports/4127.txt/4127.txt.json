@@ -1,0 +1,91 @@
+{
+  "dataset": "4127.txt",
+  "file_name": "4127.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मानुषी छिल्लर एक भारतीय मोडल र सौन्दर्य प्रतियोगिता विजेता हुन् । उनले मिस वर्ल्ड 2017को उपाधि जितेकी हुन् ।विश्व सुन्दरी प्रतियोगिता 2017 को उपाधि जितेकी छिल्लरले सन् 2017 को जुन 25 मा सम्पन्न फेमिना मिस इन्डिया 2017 को उपाधि जितेकी थिइन् । मिस वर्ल्ड 2000 को विजेता प्रियंका चोपडा पछि पहिलो र विश्व सुन्दरी प्रतियोगिता जित्ने छिल्लर छैठौं भारतीय महिला हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 360,
+    "text_length_max": 360,
+    "text_length_avg": 360.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 915,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4127.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4127.txt",
+    "relative_path": "4127.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4127.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 915,
+    "mtime": 1782796578.0921807,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "19a8efdbbd25b0d681dfc9897ec957a40383b845",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

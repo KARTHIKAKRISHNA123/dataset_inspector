@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33068.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मुल्तान को दूरीमा फैलिएको छ । डेरा गाजी खान र बहवालपुर यो शहरबाट नजिकैको दुई शहरहरू हुन् । मल्तान केन्द्रीय पाकिस्तान को पाँच नदिहरु द्वारा बनाईएको एक मोड मा अवस्थित छ । यो शहरलनई सतलज नदिले बहावलपुरबाट छुट्टायको छ भने चेनाब नदिले मुजाफरगढबाट छुट्टायको छ । यो शहरमा विषेश गरि अाँप खेति हुने गरेको पाईन्छ । ",
+    "यस शहरमा ग्रिष्म ऋतुमा गर्मी र हिउँदमा मध्यम जाडो हुने गरेको छ । यो शहरमा बार्सिक 186 मिलिमिटर पानी पर्ने गरेको छ । मुल्तान शहर पाकिस्तानमै सबैभन्दा बढी गर्मी हुने शहरको नामले चिनिन्छ । ग्रिष्म ऋतुमा तापमान 52 डिग्री पुगेको छ जुन अहिले सम्मकै अधिक तापमान हो भने हिउँदमा यहाँको तापमान -1 डिग्री पुगेको थियो जुन अहिले सम्मकै न्युन तापक्रम हो । "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 342,
+    "text_length_avg": 239.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9938,
+      "Latin": 0.0062
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3113,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9938,
+      "Latin": 0.0062
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33068.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33068.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33068.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3113,
+    "mtime": 1782796652.277189,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "f40ce3814b8fc6b15e857cbd4bab38db94f34876",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

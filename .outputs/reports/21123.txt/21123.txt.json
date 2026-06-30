@@ -1,0 +1,94 @@
+{
+  "dataset": "21123.txt",
+  "file_name": "21123.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वाष्पयान या बाफको इन्जिन एक प्रकारको उष्मीय इन्जिनहो जसले कार्य गर्नको लागि जल-वाष्पको प्रयोग गर्दछ। बाफको इन्जिन अधिकांशतः वाह्य दहन इन्जिन हुन्छन् जसमा रैंकाइन चक्र नामक ताप-चक्र उपयोगमा ल्याइन्छ। केही वाष्पयान सौर्य उर्जा, नविकरणीय उर्जा या जिओथर्मल उर्जाले पनि चल्द छन्। ",
+    "बाफको इन्जिनको इतिहास धेरै पुरानो छ । तर पहिले उपयोगमा ल्याइएका युक्तिहरू शक्ति उत्पादनको दृष्टिले व्यावहारिक थिएनन्। त्यस पछि यीनको डिजाइनमा धेरै सुधार भयो जसबाट यो औद्योगिक क्रान्तिको समयमा यान्त्रिक शक्तिको प्रमुख स्रोत भएर उभियो। अब बाफले चलने वाला रेलगाडिहरू एवं अन्य मिसिनहरू कम भइ सके तर पूरा संसारको विद्युत-शक्तिको लगभग आधी शक्ति आज पनि वाष्प टर्बाइनहरूको सहायताले उत्पन्न गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 41,
+    "text_length_max": 1141,
+    "text_length_avg": 374.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9798,
+      "Latin": 0.0202
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 28613,
+    "estimated_records": 76
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 76,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9958,
+      "Latin": 0.0042
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21123.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21123.txt",
+    "relative_path": "21123.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21123.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 28613,
+    "mtime": 1782796494.9374707,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ce7e0de3481921410b397a1322ffaa0c59c2fa65",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

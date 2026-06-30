@@ -1,0 +1,92 @@
+{
+  "dataset": "15244.txt",
+  "file_name": "15244.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2013-14 ला लिगा एट्लेटिको म्याड्रिड ले जितेको थियो । यो 83 औँ ला लिगा संस्करण थियो । 17 अगस्ट 2013 बाट सुरु भएको यो प्रतिस्पर्धा 18 मे 2014 मा सकिएको थियो ।",
+    "क्रिष्टियानो रोनाल्डो 31 गोल गर्दै यूरोपियन गोल्डेन सु जित्न सफल भएका थिए भन‌े एन्जल डी मारियाले 17 एसिस्ट निकालेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 121,
+    "text_length_max": 156,
+    "text_length_avg": 138.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 681,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15244.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15244.txt",
+    "relative_path": "15244.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15244.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 681,
+    "mtime": 1782796466.6606753,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.971,
+    "sha1_quick": "9632d18c942f7bb918c331ab007f5456f9cae54b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

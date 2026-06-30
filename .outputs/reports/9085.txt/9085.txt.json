@@ -1,0 +1,92 @@
+{
+  "dataset": "9085.txt",
+  "file_name": "9085.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1960 एएफसी एसिया कप एएफसी एसिया कपको दोस्रो संस्करण हो।यस प्रतियोगिता 1960 14-23 अक्टोबर सम्म दक्षिण कोरियामा आयोजना भएको थियो।",
+    "आयोजक द.कोरियाले घरेलुु मैदानको फाइदा उठाउदै लगातार दोस्रो पटक एसिया कप जित्न सफल भयो ।."
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 87,
+    "text_length_max": 127,
+    "text_length_avg": 100.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 795,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9085.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9085.txt",
+    "relative_path": "9085.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9085.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 795,
+    "mtime": 1782796602.4876516,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0617d4023bc172769b49f19e4c5e59de1ebf4e59",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

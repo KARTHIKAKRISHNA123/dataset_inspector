@@ -1,0 +1,92 @@
+{
+  "dataset": "6606.txt",
+  "file_name": "6606.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अब्राहम बेन्जामिन डि भिलियर्स एउटा दक्षिण अफ्रिकी क्रिकेट खेलाडी हुन् । उनी 2011 क्रिकेट विश्वकप पछी दक्षिण अफ्रिका टिमका एकदिवसीय अन्तर्राष्ट्रिय कप्तानका रुपमा टिममा रहेका छन् । उनी आइपीएलमा हाल रोयल च्यालेन्जर्स बेङ्लोरको तर्फबाट खेल्छन । ",
+    "कुमार संगाकारा संगै उनी सन् 2014 मा टेस्ट क्रिकेटमा क्रम 1 मा रहेका थिए । नोभेम्बर 2014 मा गरिएको क्रमाङ्कमा उनी एकदिवसीयमा क्रम 1 मा थिए भने टेस्टमा 2 क्रममा रहेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 170,
+    "text_length_max": 336,
+    "text_length_avg": 249.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1948,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6606.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6606.txt",
+    "relative_path": "6606.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6606.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1948,
+    "mtime": 1782796590.496496,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "34711d903c23f033258c72ae0999d0ac6ed4f7b3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

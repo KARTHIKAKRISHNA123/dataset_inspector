@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "29232.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धरमपुर नेपालको मेची अञ्चलको झापा जिल्लाको एक गाउँ विकास समिति हो।",
+    "पूर्वमा सतासीधाम पश्चिम र दक्षिणमा कमल खोला र उत्तरमा इलामको चुलाचुली रहेको छ । यस धरमपुर गा.वी.स मा कुल 9 वडा छन् जसमा 2 वडा 9 र 8 ले महेन्द्र राजमार्ग छोएको छन् भने अन्य 7 वडामा प्रेवेशको लागी ईनै 2 वडाको प्रयोग गरिन्छ । मुख्य धरमपुर चोक भनेर महेन्द्र राजमार्ग र धरमपुर 8 जोडीएको ठाउँ लाई चीनीन्छ। धरमपुरको गा.वी.स कार्यालय धरमपुर 5 को मंगलबारेमा रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 357,
+    "text_length_avg": 146.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1514,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29232.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\29232.txt",
+    "relative_path": "archive (2)\\valid\\valid\\29232.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1514,
+    "mtime": 1782796644.5989718,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "a33ac8a8dd11ce69c90d0f1236116467f7b923d4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "12772.txt",
+  "file_name": "12772.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अभिनेत्री ती महिला कलाकार हुन् जो एउटा चलचित्र वा नाटकमा कुनै चरित्रको अभिनय गर्छन् । अभिनेत्री परिकल्पना तथा दर्शक माझ माध्यमको कार्य गर्ने गर्छ । उनीहरुलाई दिइएको भूमिकालाई कुनै मञ्च द्वारा दर्शकको लागि प्रस्तुत गर्छन । अभिनयले कलाको ज्ञान तथा अभिनेत्रीको भाव प्रस्तुतीकरणलाई सार्थक बनाउछ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 293,
+    "text_length_max": 293,
+    "text_length_avg": 293.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 789,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12772.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12772.txt",
+    "relative_path": "12772.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12772.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 789,
+    "mtime": 1782796455.6123316,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "473f0e1e4e04165a4d28c3b8be6619f0287e777d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

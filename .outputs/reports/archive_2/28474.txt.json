@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28474.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्ण हिन्दू धर्म शास्त्रका अनुसार भगवान विष्णुको दश मुख्य अवतारहरू मध्यको एक अवतार मानिन्छन् । भगवान श्री कृष्णको जन्म आधुनिक भारतको मथुरा शहरमा भएको थियो। श्रीकृष्णलाई जन्मिएकै घडी कंशबाट बचाउन उनका पिता वसुदेवले गोकुलवासी नन्द गोपका घरमा छोडेका थिए। त्यसैले श्रीकृष्णको बाल्यकाल नन्द गोपका घरमा बितेकाल उनलाई गोपाल तथा नन्दलाल नामले पनि जानिन्छ। श्रीकृष्णका एक दाजु बलराम नन्द गोपका छोरा थिए।",
+    "हिन्दू धार्मीक ग्रन्थका अनुसार भगवान श्रीकृष्णको जन्म द्वापरांतमा भएको पाईएको छ। यो हिसाबले श्रीकृष्णको जन्म कलीयुगको आगमन भन्दा 500 देखि 1 हजार बर्षको बीचमा भएको अनुमान गर्न सकिन्छ। हिन्दू पञ्चाङ्गका अनुशार 21औँ शताब्दीको सुरुमा कलियुगको आयु 5100 वर्ष तोकिएको छ। भगवान श्रीकृष्णको जन्म भाद्र कृष्ण अष्टमीका दिन मथुरावासी वसुदेवकी धर्म पत्नी देवकीको गर्भबाट राजा कंशको जेल भित्र भएको थियो। देवकी राजा कंशकी बहिनी थिईन्। उनीहरू दुवै भाइ बहिनीहरू तत्कालीन मथुराका राजा उग्रसेनका सन्तान थिए। राजा कंश दे"
+  ],
+  "statistics": {
+    "records_sampled": 34,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 4545,
+    "text_length_avg": 934.44,
+    "duplicate_estimate": 4,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0,
+      "Latin": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 84844,
+    "estimated_records": 90
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 90,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28474.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28474.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28474.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 84844,
+    "mtime": 1782796643.1553166,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8d6558056f41f9fa86b2a30124a56f31e11e0a31",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

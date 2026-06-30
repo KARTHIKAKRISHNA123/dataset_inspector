@@ -1,0 +1,92 @@
+{
+  "dataset": "27477.txt",
+  "file_name": "27477.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जमुनिया, नवलपरासी नवलपरासी जिल्लामा अवस्थित एक गाउँ विकास समिति हो।",
+    "जमुनिया गा.बि.स. अन्तर्गत 9 वटा वार्डहरू छन्,यो गा.बि.स.को कार्यालय गोपिगंज भन्ने ठाउमा छ. यस गा.बि.स.मा 9 वटा वार्ड भए पनि गाउको संख्या धेरै छ.गाउहरूको नामावली यस प्रकार छ.वार्ड नम्बर 1:- पनई .वार्ड नम्बर2:-प्रसौनी,कालिटोला र जमुनाबारी.वार्ड नम्बर3:-सेमरी.वार्ड नम्बर4 सेमरी,गोपिगंज.वार्ड नम्बर5 :-भिट्टावार्ड नम्बर6 :-सिसहनिया.वार्ड नम्बर:-7 सपहिया,वार्ड नम्बर 8 -जमुनिया वार्ड नम्बर9 -चौपत्तायस गा.बि.स.को मुख्य बजार गोपिगंज हो,साप्ताहिक बजारको रूपमा जमुनिया बजार र सेमरी बजार प्रसिध छन् .येहा साप"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 639,
+    "text_length_avg": 353.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1814,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27477.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27477.txt",
+    "relative_path": "27477.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27477.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1814,
+    "mtime": 1782796523.8333383,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "f6c4e981a8e2775087ade21281242c63cd4e5dfc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,96 @@
+{
+  "dataset": "21384.txt",
+  "file_name": "21384.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुडेन्डल क्लेफ्ट वा क्लेफ्ट अफ भेनस महिलाको तिघ्राको कापमा मोन्स प्यूबिसको आधारमा रहेको चिरा हो जहाँ यो बाह्य भगोष्ठमा बिभाजित हुन्छ। क्लेफ्ट अफ भेनस भन्ने शब्द रोमन प्रेमकि देवि भेनसको नामबाट आएको हो। केही महिलाहरूमा भगांकुर र भित्री भगोष्ठ पुडेन्डल क्लेफ्टबाट बाहिर झोल्लिएको हुन्छ।",
+    "M: ♀ FRS"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 284,
+    "text_length_avg": 69.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8339,
+      "Latin": 0.1661
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 837,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8339,
+      "Latin": 0.1661
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21384.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21384.txt",
+    "relative_path": "21384.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21384.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 837,
+    "mtime": 1782796496.1715496,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d6b48709eeff67f8a31392cebeddc6ff14e60559",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33878.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विशेष सञ्चार संस्था सूचना प्रौद्योगिकी र दूरसञ्चार मन्त्रालयद्वारा संचालित एक सार्वजनिक क्षेत्रीय संगठन हो र पाकिस्तानी सेनाद्वारा सम्हालिएको छ । एसओसीले आजाद जम्मू र कश्मीर र गिल्गित-बाल्तिस्तान दूरसञ्चार सेवाहरू उपलब्ध गराउने प्रमुख भूमिका खेलेको छ । यसकाे मुख्यालय पाकिस्तानकाे रावलपिंडीमा अवस्थित छ ।",
+    "विशेष संचार संस्थाले आजाद जम्मू र कश्मीर र गिल्गित-बाल्तिस्तानमा 3 जी र 4 जी सेवाहरूको निःशुल्क परीक्षण प्रस्ताव सुरु गरिसकेको छ र उक्त क्षेत्रमा भएका ग्राहकहरूले अब निशुल्क रूपमा उच्च गति ताररहित डाटा सेवाको उपयोग गर्न पाउने यस सरकारी स्वामित्वको प्रवक्ताले जानकारी दिएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 277,
+    "text_length_max": 728,
+    "text_length_avg": 492.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6569,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33878.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33878.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33878.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6569,
+    "mtime": 1782796653.8287234,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e3d4d2c09b320e754ebf857933e5332ede72ca93",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

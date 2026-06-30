@@ -1,0 +1,92 @@
+{
+  "dataset": "25891.txt",
+  "file_name": "25891.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कछुवा जल र स्थल दुईटै ठाँउमा बस्न सक्ने एउटा उभयचर जीव हो।प्रकृतिको सर्वाधिक पुरानो जीवधारी कछुवा सरिसृपवर्गमा सर्वाधिक बुद्धिमान प्राणी पनि मानिन्छ। बितेका 20 करोड वर्षमा जलवायु परिवर्तन का वाबजुद अहिलेसम्म पनि आफूलाई सुरक्षित राख्दै आएको छ|",
+    "उभयचर प्राणीमा पर्ने कछुवा निकै लामो समय सम्म बाँच्ने प्राणी हो। सम्भवतः प्रकृतिमा मानिसको भन्दा दोब्बर आयु अर्थात् डेढ सय वर्षसम्म बाँच्न सक्ने प्राणी कछुवाबाहेक अर्को छैन र झण्डै 20 करोड वर्षदेखि प्रकृतिको अनगिन्ती आरोह अवरोहलाई झेल्दै आफूलाई सुरक्षित राख्न सफल प्राणीमा पनि कछुवा नै पर्दछन्। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 967,
+    "text_length_avg": 473.2,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6363,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25891.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25891.txt",
+    "relative_path": "25891.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25891.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6363,
+    "mtime": 1782796516.5285585,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "257258abd609ff68a00473f63e619d3a55a2bafb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

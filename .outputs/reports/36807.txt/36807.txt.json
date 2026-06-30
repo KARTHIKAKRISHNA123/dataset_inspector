@@ -1,0 +1,91 @@
+{
+  "dataset": "36807.txt",
+  "file_name": "36807.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालमा 744 स्थानीय तह लागू हुँदा बागलुङ जिल्लामा साविकका धुल्लुवास्कोट, हुग्दीशिर, सल्यान, बाटाकाचौर र सुखौरा गाउँ विकास समितिहरूलाई समेटेर वरेङ गाउँपालिका बनाइएको हो । यस गाउँपालिकाको कूल जनसंख्या 14,492 रहेको छ । यसको क्षेत्रफल 75.28 वर्गकिलोमिटर रहेको छ । यस गाउँपालिकाको केन्द्र साविकको हुग्दीशिर गाविसको कार्यालयमा राखिएको छ । यस गाउँपालिकालाई 5 वडामा विभाजन गरिएको छ । यस गाउँपालिकाको सिमाना पूर्वमा जैमिनी नगरपालिका, पश्चिममा गुल्मी जिल्ला उत्तरमा गल्कोट नगरपालिका तथा दक्षिणमा गुल्मी जिल्लास"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 515,
+    "text_length_max": 515,
+    "text_length_avg": 515.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1358,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36807.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36807.txt",
+    "relative_path": "36807.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36807.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1358,
+    "mtime": 1782796567.1716087,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5e60e832f6b13085b527c94d52b1447000be2bca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "5029.txt",
+  "file_name": "5029.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेचल कार्सन एक अमेरिकी समुद्री जीवबैज्ञानिक तथा संरक्षणकर्ता थिइन् जसले साइलेण्ट स्प्रिङ्गको साथै अन्य लेखहरू लेखिन् जसले वातावरण आन्दोलनलाई फाइदा पुर्याएको छ।",
+    "उनीले आफ्नु करियरको सुरुवात एक समुद्री जीवबैज्ञानिकको रूपमा संयुक्त राज्य माछा र वन्यजन्तु सेवाबाट गरिन् र 1950को दसकमा उनी एक प्रक्रित लेखकको बनिन् । उनको अत्यन्त गौरवमय कृति द सी अराउण्ड असले यु एस राष्ट्रिय बुकर पुरस्कार प्राप्त गर्यो । 1950को दशकको अन्त्य तिर उनको ध्यान वातवरण संरक्षण तिर गयो । विशेष गरि ती समस्याहरू जसका कारण कीटनाशक थिए । जसको फलस्वरुप उनको कृति साइलेण्ट स्प्रिङ्ग थियो जसले वातावरणको बारेमा अमेरिकी मान्छेहरूको ध्यान एकत्रित गर्यो। धेरै रासायनिक कारखाना हरूले यसको बिरोध गरे"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 159,
+    "text_length_max": 688,
+    "text_length_avg": 500.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3983,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5029.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5029.txt",
+    "relative_path": "5029.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5029.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3983,
+    "mtime": 1782796582.5484202,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.948,
+    "sha1_quick": "985d8ea0934f979c1738db8c36c81a31a45cd84f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

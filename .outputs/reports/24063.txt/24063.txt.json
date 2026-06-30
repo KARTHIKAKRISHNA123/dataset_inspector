@@ -1,0 +1,92 @@
+{
+  "dataset": "24063.txt",
+  "file_name": "24063.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिमित्री मेदवेदेव  रूसी राजनीतिज्ञ हुन उनी 2008-2012 सम्म रूसी संघका राष्ट्रपति थिए। 2012 देखि उनी रूसका प्रधानमन्त्री भएक छन् ।",
+    "दोस्रो कार्यकाल समाप्त गरेपछि सन् 2008 मा क्रेमलिनबाट विदा भएका भ्लादिमिर पुटिनले चार वर्षपछि फेरि राष्ट्रपति पद सम्हालेका हुन्। पुटिनले चार वर्षसम्म प्रधानमनत्रीको पद सम्हालएका थिए। रुसी कानुन अनुसार लगातार दुई कार्यकालभन्दा धेरै राष्ट्रपतिको पद सम्हाल्न पाईदैन।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 263,
+    "text_length_avg": 207.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1661,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24063.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24063.txt",
+    "relative_path": "24063.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24063.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1661,
+    "mtime": 1782796507.9666617,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7ccd6295f61acaacab4faea8f435f319a823432c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

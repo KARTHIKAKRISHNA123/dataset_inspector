@@ -1,0 +1,92 @@
+{
+  "dataset": "11060.txt",
+  "file_name": "11060.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गलकोटे राजाको दरबार मल्ल राजा रहेको र राजा रूकुम जिल्लाकाे रूकुमकाेटका राजाका माइलाे छाेरा रहेकाे र ती राजालाइ गल्काेटका जनताले राजा माग्न रूकुम पुगेका थिए भन्ने किम्बदन्ति छ त्यतिवेला राजा मागेर पाइन्न भन्ने चलन भएकाले भगाएर लैजाने चलन थियाे त्याे दिन राती राजा चाेर्न भनी गल्काेटेहरू सात भाइ युवाराजहरू सुतेकाे काेठामा पसेकै बेला मस्त निन्द्रमा परेका युवाराजहरू जुन बाठाे छ उसैलाइ लैजाने भनेर छानीरहेकाे बेला एक युवाराज अचानक माथि सरेकाे ले यसैलाइ भगाएर रातारात भगाएर हालकाे काँक्री गाविसकाे लुकुम ",
+    "ढाँचा:अ-चित्र"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 671,
+    "text_length_avg": 342.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1836,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11060.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11060.txt",
+    "relative_path": "11060.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11060.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1836,
+    "mtime": 1782796447.6372263,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "79380983972c81a9167ec306118daf3b8278a7cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

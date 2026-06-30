@@ -1,0 +1,94 @@
+{
+  "dataset": "27939.txt",
+  "file_name": "27939.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इन्टरनेटमा कुरा कानि गर्न प्रयोग हुने साधनलाई मेसेन्जर भनिन्छ। यसमा प्राय आफैले लेखेर वा बोलेर कुराकानि गर्न सकिन्छ। मेसेन्जर धेरै प्रकारका हुन्छन्। केही लाई टेक्सट मेसेन्जर पनि भनिन्छ भने केही भिडीयो मेसेन्जर पनि हुन्छन्। ",
+    "यो एक अङ्ग्रेजी शब्द हो। नेपालीमा यसको शाब्दिक अर्थ हुन्छ संवाहक। अङ्ग्रेजीमा Messenger।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 88,
+    "text_length_max": 223,
+    "text_length_avg": 155.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.966,
+      "Latin": 0.034
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 825,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.966,
+      "Latin": 0.034
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27939.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27939.txt",
+    "relative_path": "27939.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27939.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 825,
+    "mtime": 1782796525.8808992,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3eb08b282b398c1f95f81e628802766eb7dab599",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

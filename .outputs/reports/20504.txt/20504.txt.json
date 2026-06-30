@@ -1,0 +1,92 @@
+{
+  "dataset": "20504.txt",
+  "file_name": "20504.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्युठान प्युठान जिल्लामा अवस्थित एक नगरपालिका हो । पहिले खलंगाको नामले चिनिने यस नगरपालिकामा प्युठान जिल्लाको जिल्ला सदरमुकाम रहेको छ । यस नगरपालिकालाई खलंगा लगायत आसपासका मरन्ठाना, दखाक्वाडी, बिजुबार, विजय नगर, धर्मावती र खैरा गाविसहरूलाई जोडेर 2071 साल बैशाख महिना देखि लागु हुने गरि गठन गरिएको हो । ",
+    "प्युठानमा नियमित रुपमा पूर्व-पश्चिम महेन्द्र राजमार्ग देखि बस सञ्चालन हुने गरेको छ। भालुवाङ देखि पक्की सडक मार्फत वर्षैभरि सडक सञ्चालनमा आउँछ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 302,
+    "text_length_avg": 197.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1564,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20504.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20504.txt",
+    "relative_path": "20504.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20504.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1564,
+    "mtime": 1782796491.988856,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b5cc1420552c8ef5f59501249c09ad28e815ad1a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

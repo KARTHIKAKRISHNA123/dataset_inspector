@@ -1,0 +1,92 @@
+{
+  "dataset": "11983.txt",
+  "file_name": "11983.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तराजु एक प्रकारको यन्त्र हो, जसको मद्दतले हामी कुनैपनी निस्चित पिण्ड भएको बस्तुको जम्मा परिमाणलाइ थाहा पाउन सक्दछौ । यो एक प्रचलित यन्त्र हो यसको प्रयोग नेपाल लगाएतका अन्य विकासोन्मुख राष्ट्रहरुमा समेत प्रयोग हुने गर्दछ । तर अन्य बिकसित राष्ट्रहरुमा यस प्रकारको नाप यन्त्र कमै प्रयोग भएको पाइन्छ ।",
+    "• नाप"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 297,
+    "text_length_avg": 151.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 808,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11983.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11983.txt",
+    "relative_path": "11983.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11983.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 808,
+    "mtime": 1782796451.887959,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "61c577eefd4c03bde9e9d620606f1320cbc86ecb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

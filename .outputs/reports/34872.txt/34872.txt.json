@@ -1,0 +1,91 @@
+{
+  "dataset": "34872.txt",
+  "file_name": "34872.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आशापूर्णा देवी भारतकी बङ्गाली भाषा की कवयित्री र उपन्यासकार थिइन्, जसले 13 वर्षको उमेर देखि लेखन प्रारम्भ गरिन् र आजीवन साहित्य रचनामा जोडि रहिन्। गृह जीवनको सबै दायित्वलाई निभाउँदै उनीले लगभग दुई सय कृतिहरु लेखिन्, जसबाट उनका अनेक कृतिहरुको भारतको लगभग सभै भाषाहरुमा अनुवाद भइसकेको छ। उनको सृजनमा नारी जीवनको विभिन्न पक्ष, पारिवारिक जीवनको समस्याहरु र समाजको अवस्था उजागर गरिएको छ। उनका प्रमुख रचनाहरु हुन् स्वर्णलता, प्रथम प्रतिश्रुति, प्रेम और प्रयोजन, बकुलकथा, गाछे पाता नील, जल, आगुन आदि। उनीलाई"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 598,
+    "text_length_max": 598,
+    "text_length_avg": 598.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1579,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34872.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34872.txt",
+    "relative_path": "34872.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34872.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1579,
+    "mtime": 1782796558.1040258,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "411e0bb9a60dc882bc14180d98c6138f123511ad",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

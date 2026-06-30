@@ -1,0 +1,93 @@
+{
+  "dataset": "1298.txt",
+  "file_name": "1298.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माल्थसभन्दा पहिले दुई प्रमुख अर्थशास्त्रीय विचारधारा थिएः वणिकवादी र प्रकृतिवादी । वणिकवादी विचारकहरुका अनुसार जनसंख्यामा वृद्धि हु“दा कम ज्यालामा धेरै श्रमिकहरु प्राप्त हुन सक्छन् र उत्पादन लागत घट्दा उद्यमीहरुको नाफामा वृद्धि हुन्छ । बढी जनसंख्याले गर्दा बस्तुहरुको मागमा कमी हुन पाउदैन । श्रम धनका लागि सक्रिय साधन र पिता समान हो भने भूमि माता समान हुन्छ । तर जनसंख्यामा हुने वृद्धि यति विस्तारै हुन्छ कि 100 वर्षमा बल्ल जनसंख्या दोब्बर हुन सक्छ । संक्षेपमा, वणिकवादीहरुले जनसंख्या वृद्धि चाहन्थे ",
+    "माल्थसको जनसंख्या सिद्धान्तलाई बुझ्न तात्कालिक सामाजिक परिस्थिति बारे बुझ्नु आवश्यक छ । वि.सं.1827 देखि सन् 1877 सम्मको 50 वर्षको अवधिमा इंगल्याण्डमा कृषि उत्पादनमा ज्यादै कमी भएकोले गहुंको मूल्यमा दोब्बर वृद्धि हुन पुगेको थियो । अन्नको निरन्तर कमीले मानिसहरु अनिकालको भयले त्रसित थिए । अर्कातिर औद्योगिक क्रान्ति सुरु भइसकेको थियो । सम्पूर्ण समाज श्रमिक वर्ग र पूंजीपति वर्गमा बांडिंदै थियो । पूंजीपतिहरुले श्रमिकहरुको शोषण प्रारम्भ गर्न थालेका थिए । बेरोजगारी, निर्धनता, बीमारी, परस्पर कलह, जस्ता औ"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 40,
+    "text_length_max": 1841,
+    "text_length_avg": 793.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.995,
+      "Latin": 0.005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23099,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1298.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1298.txt",
+    "relative_path": "1298.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1298.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23099,
+    "mtime": 1782796456.5877056,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b299fbcf5e8ceaca8009cfed5c8c6d5e56c392d1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

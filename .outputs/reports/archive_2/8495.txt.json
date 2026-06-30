@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8495.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रिपब्लिक रेकर्डस् एक अमेरिकी रेकर्ड लेबल हो जुन भुनिभर्सल म्युजिक ग्रुप को स्वामित्व रहेको छ। यस रेकर्ड लेबललाई सन् 1995 मा एभ्री लिपमेन र मोन्टे लिपमेन द्वरा एक एक स्वतन्त्र लेबलको रूपमा स्थापित गरेका थिए भने सन् 2000 मा युएमजी द्वारा अधिग्रहण गरिएको थियो। रिपब्लिक रेकर्डस्को रुपमा नाम युनिभर्सल मोटाउ रेकर्डस् राखिएको थियो भने पछि सन् 2006 मा युनिभर्सल रिपब्लिक रेकर्डस्मा नाम सारिएको थियो तर पछि सन् 2012 यसलाई पुन रिपब्लिक रेकर्डस्मा नाम गठन गरिएको थियो। ",
+    "हाल यस रेकर्डस्मा टेलर स्विफ्ट, निकी मिनाज, अरिएना ग्रान्डे, लियाम पेन, लिल वेन, ब्ल्याक सबाथ, एन्डि ब्ल्याक, ड्रेक, जेसी जे, लोर्ड, पोस्ट मेलोन अादि कलाकारहरूले हस्ताक्षर गरेका छन्। यस रेकर्डस्को साहेक रेकर्ड कम्पनी रिपब्लिक न्यासभिल रेकर्डस् रहेको छ जसमा फ्लोरिडा जर्जिया लाइन, द ब्यान्ड पेरी र इलाइ योङ ब्यान्ड जस्ता सङ्गीतकारहरू कार्यरत छन्।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 460,
+    "text_length_avg": 225.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4179,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8495.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8495.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8495.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4179,
+    "mtime": 1782796672.6574676,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "bbb9020f8f26afdb54706b67282abc05bb47c824",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

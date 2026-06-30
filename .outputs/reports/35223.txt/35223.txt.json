@@ -1,0 +1,93 @@
+{
+  "dataset": "35223.txt",
+  "file_name": "35223.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जगजीत सिंह अङ्ग्रेजी: Jagjit singh श्रीनगर भारतमा उनी प्रसिद्ध संगीतकार गायक थिए । साथै उनी हिन्दू धर्मका प्रसिद्ध भजनकार एवं उर्दू भाषाका प्रसिद्ध गजलकार पनि थिए त्यसैले उनलाई गजलको राजा पनि भनिएको छ । उनकी श्रीमती चित्रा सिंह पनि एक प्रसिद्ध गजल गायक हुन् । उनले निकै हिन्दी चलचित्रमा आफ्नो गायन प्रस्तुत गरेकी छिन । जगजीत सिंहलाई कलाको क्षेत्रमा सन् 2003मा भारत सरकारले पद्म भूषण प्रदान गरेको थियो । तथा उनको मृत्यु पछि उनको स्मृतिमा सम्मान स्वरुप 2014 मा हुलाक टिकेट जारी गरेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 488,
+    "text_length_max": 488,
+    "text_length_avg": 488.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9722,
+      "Latin": 0.0278
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1258,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9722,
+      "Latin": 0.0278
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35223.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35223.txt",
+    "relative_path": "35223.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35223.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1258,
+    "mtime": 1782796559.6843646,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "13ea9df134fa541149a1ecbb3babfd279b9d75ae",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

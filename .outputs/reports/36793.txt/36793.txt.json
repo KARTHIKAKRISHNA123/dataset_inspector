@@ -1,0 +1,92 @@
+{
+  "dataset": "36793.txt",
+  "file_name": "36793.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "'भ+जहर' यी दुई शब्दबाट बनेको भजहर थारू समाजमा चलचल्तीको भाषामा भन्नुपर्दा 'भ' भगाउनु तथा 'जहर' खराव चिज, समाजलाई आवश्यक नपर्ने चिजवस्तु तथा अन्य कुतत्त्व । जसले समाजका मानिसहरूलाई प्रत्यक्ष-अप्रत्यक्ष रूपमा, दृश्य-अदृश्य रूपमा बेफाइदा पुर्‍याउने गर्दछ, त्यस्ता तत्वलाई गाउँ समाजबाट भगाउनु अथवा लखेट्ने काम यस पूजामा गर्ने गरिन्छ । ",
+    "भजहर चलनचल्तीको 'पूजा' अथवा रमाइला चाडको रूपमा थारू समाजभित्र लिने गरिन्छ तर अर्को अर्थ लगाउने हो भने गाउँ समाजबाट कुतत्त्व तथा विकृतिजन्य तत्वलाई घर गाउँबाट 'दूर' गर्नलाई घरबाट बाहिर भागेर किन पूजा गर्ने गरिन्छ ? गाउँघरमै बसेर गर्दा के हुन्छ ? जस्ता अनेक खुल्दुली मनमा उब्जन सक्छन् । थारू समाजको विकासक्रमको पूजालाई हेर्ने हो भने गाउँको रोग दोखलाई भगाउने काम अक्सर घर बाहिरबाटै गर्ने गरेको पाइन्छ । गाउँको मुख्य देउताको रूपमा रहने देउथन्वा पनि गाउँबाट बाहिरै राख्ने प्रचलन छ । जहाँ गाउँभरिका देउताहर"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 331,
+    "text_length_max": 1240,
+    "text_length_avg": 681.64,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 20077,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36793.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36793.txt",
+    "relative_path": "36793.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36793.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 20077,
+    "mtime": 1782796567.096246,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "26f91bbc77e6e3350af34821cee8d247b489f7b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

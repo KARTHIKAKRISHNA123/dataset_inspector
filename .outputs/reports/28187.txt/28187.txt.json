@@ -1,0 +1,92 @@
+{
+  "dataset": "28187.txt",
+  "file_name": "28187.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "श्री रुद्राष्टकम्  स्तोत्र गोस्वामी तुलसीदास द्वारा भगवान् शिव की स्तुति का लागि रचिएको हो । यसको उल्लेख श्री रामचरितमानस को उत्तर काण्ड मा आउँछ । यो जगती छन्द मा लेखिएको छ । ",
+    "शिव मा समर्पित यो स्तोत्र तुलसीदास को रामचरितमानस बाट लिईएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 37,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 175,
+    "text_length_avg": 37.24,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3817,
+    "estimated_records": 102
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 102,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28187.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28187.txt",
+    "relative_path": "28187.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28187.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3817,
+    "mtime": 1782796527.0247872,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2e43cb39a6deb72640697c14eadf7f6a4222db00",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

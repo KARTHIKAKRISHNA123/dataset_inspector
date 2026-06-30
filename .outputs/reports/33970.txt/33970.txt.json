@@ -1,0 +1,91 @@
+{
+  "dataset": "33970.txt",
+  "file_name": "33970.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिम्टेश्वर महादेवस्थान नुवाकोट जिल्लाको बेलकोट, कुमारी, जिलिङ तथा दुईपिपल गाविसको सिमानामा पर्ने ऐतिहासिक, धार्मिक, पुरातात्त्विक एवं पर्यटकीय महत्वको क्षेत्र हो । जडिबुटी, लोपोन्मुख पशुपन्छी, चराचुरुङ्गी तथा पुतलीहरू पाइने उक्त स्थानबाट गणेश, लाङटाङ, जुगल, दोर्जेलाक्पा आदि हिमशृङ्खलाको दृश्यावलोकन गर्न सकिन्छ, त्यहाँबाट राजधानी उपत्यकाको तीनवटै सहर, काभ्रेपलञ्चोक, सिन्धुपाल्चोक, धादिङ, दोलखा, मकवानपुर, रसुवा, चितवन र गोर्खाको समेत दृश्यावलोकन गर्न सकिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 462,
+    "text_length_max": 462,
+    "text_length_avg": 462.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1237,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33970.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33970.txt",
+    "relative_path": "33970.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33970.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1237,
+    "mtime": 1782796554.0527391,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "502755c737f3ae1c529a02fc982286024f8f82dd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

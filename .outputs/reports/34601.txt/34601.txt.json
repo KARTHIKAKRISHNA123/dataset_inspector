@@ -1,0 +1,93 @@
+{
+  "dataset": "34601.txt",
+  "file_name": "34601.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "माण्डूक्य उपनिषदलाई वेदको सार भनिन्छ । ब्रह्मविद्याका ग्रन्थहरुमध्ये यो उपनिषद् सर्वोपरि मानिन्छ । तर उपनिषद्हरुमध्ये यो सर्वाधिक सानो पनि हो । यसमा जम्मा 12 मन्त्रहरु छन् । यसमा ओंकारको माध्यमबाट ब्रह्मलाई अनुभव गराउने प्रयास गरिएको छ । ओंकार यस्तो शब्द हो जसको वेदमा मात्र होइन, बौद्ध ग्रन्थ, जैन ग्रन्थ, सिखको गुरुवाणी, किरांतहरुको धर्मग्रन्थ लगायत अनेक धर्मग्रन्थहरुमा समानरुपमा उच्च सम्मान प्रदान गरिएको छ् । गुरु नानकले त इक ओमकार सतिनाम भनेर सुप्रीम ट्रुथ को रुपमा यसको महत्व बयान गरेका छन् । ",
+    "ॐ परब्रह्म हो त्यसकारण त्यो अणु अणु मै भरिएको छ । जसरी समष्टि ॐ स्वरुप छ त्यसरी नै व्यष्टि सृष्टि पनि ॐ स्वरुप छ । जीवहरुलाई पृथक पृथक सृष्टि भन्छन् र तिनीहरु जुन एकमा हुन्छन् ईश्वरको त्यस्तो सृष्टिलाई समष्टि भन्दछन् । मनुष्यहरुको भिन्न भिन्न घर व्यष्टि हो र शहरको रुपमा सबैघरहरुलाई एक भावना सम्झ्नुलाई समष्टि भन्छन् । ओंकारमा चार पाद छन् । त्यसकारण चार पाद हुनाले त्यसका चार छुट्टा छुट्टै अंग छन् भन्ने संझनु भएन । किनभने चार पादको कल्पना बुझाउनकोलागि गरिएको हो । जुन चार पादहरुद्वारा उसलाई बुझाइन्छ"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 29,
+    "text_length_max": 2882,
+    "text_length_avg": 682.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9939,
+      "Latin": 0.0061
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19758,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34601.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34601.txt",
+    "relative_path": "34601.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34601.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19758,
+    "mtime": 1782796556.908813,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "8670b59ad774e6878e4a3643aeda187e148f317e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

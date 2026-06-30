@@ -1,0 +1,92 @@
+{
+  "dataset": "14034.txt",
+  "file_name": "14034.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पश्चिम नेपालमा वसोवास गर्ने थारू समुदायले कृष्ण जन्माष्टमी लाई अष्टिम्की पर्वको रूपमा मनाउने गर्दछन् । यो पर्वको तयारी लाई अष्टिम्की चित्र भनिन्छ ।",
+    "अष्टिम्कीको दिन थारू महिला, पुरुष दिनभरि निराहार बस्छन्। सूर्यास्तपछि अष्टिम्की चित्र बनाइएको घरमा टपरीमा चामल, बलिरहेको दियो, दुईवटा काक्रा राखेर पूजा गर्न जान्छन्। पूजा गर्न जानेमा पुरुषहरूको उपस्थिति अपवादकै रूपमा मात्र हुन्छ। पुरुषहरू रातभरि कृष्णगाथा गाउछन्। साझको पूजापछि फलफूल, दही मात्रै खाइन्छ। बिहान चढाइएको प्रसादको रहलपहल लिएर व्रतालुहरू नजीकैको खोलामा विसर्जनका लागि जान्छन् र उतै नुहाएर र्फकन्छन्। बिहान खरिया, फुलौरीलगायतका विशेष पकवान पकाइन्छ। माछाको परिकार अनिवार्य हुन्छ। खानुअघि प्"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 21,
+    "text_length_max": 915,
+    "text_length_avg": 184.45,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14356,
+    "estimated_records": 77
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 77,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14034.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14034.txt",
+    "relative_path": "14034.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14034.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14356,
+    "mtime": 1782796461.1989043,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "202e889f0f0c6fa4e476aa5b6bb25b3cb72d3f97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

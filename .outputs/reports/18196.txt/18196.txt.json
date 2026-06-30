@@ -1,0 +1,91 @@
+{
+  "dataset": "18196.txt",
+  "file_name": "18196.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रतिनिधि सभा नेपालको सङ्घीय संसदको तल्लो सदन हो। माथिल्लो सदन राष्ट्रिय सभा हो। सदनको रचना र शक्तिहरू नेपालको संविधानको भाग 8 र 9 द्वारा स्थापित गरिएको छ। प्रतिनिधि सभाका 275 सदस्यहरूको चयन दुई तरिकाले गरिनेछ; 165 सदस्यको चयन एकल-मतदान निर्वाचन क्षेत्रबाट पहिलो मतदान गरेर र बाँकी 110 सदस्यको चयन एक राष्ट्रव्यापी निर्वाचन क्षेत्रबाट बन्द सूचीको सामानुपातिक प्रतिनिधित्वद्वारा गरिनेछ। प्रत्येक मतदाताले दुईवटा विधिहरूको लागि छुट्टाछुट्टै मतपत्र पाउनेछन्। सामानुपातिक तर्फ कुनै पनि एक पार्टी वा निर्व"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 585,
+    "text_length_max": 585,
+    "text_length_avg": 585.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1552,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18196.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18196.txt",
+    "relative_path": "18196.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18196.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1552,
+    "mtime": 1782796480.933167,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9a7e8e66f1cf664844bdfd7de137f3cac6173f47",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

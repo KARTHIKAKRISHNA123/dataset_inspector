@@ -1,0 +1,92 @@
+{
+  "dataset": "19557.txt",
+  "file_name": "19557.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तेइमा' वा तेमा एक ठूलो मरूद्यान हो जुन पश्चिमी साउदी अरबमा अवस्थित छ। जहाँ मदिना र डमाह बीच व्यापार मार्गले नेफुद मरुभूमिको यात्रा सुरू गरेको छ। तेइमा, तबुक सहरको 264 किमी दक्षिणपूर्वमा अवस्थित भने मदिनाबाट लगभग 400 किमी उत्तरमा अवस्थित छ। यो तबुक प्रदेशमा पर्दछ र यहाँको समय +03:00 युटिसीमा पर्दछ।",
+    "हालका पुरातात्विक खोजहरूका अनुसार तेइमा कांस्य युग देखि बसोबास रहेको पाइएको छ। सन् 2010 मा साउदी पर्यटन र पुरातात्विक आयोगले फैरो रमेसेस तेस्रोको, एक चट्टान भेटाएको घोषणा गरेको थियो। साउदीको माटोमा मिस्री चित्रलिपि भेटाइएको यो पहिलो सहि प्रमाणित भएको थियो। यस खोजमा आधारित तेइमा, अरब प्रायद्वीप, नाइल उपत्यका\"र रातो सागर तट बीच महत्वपूर्ण भूमि मार्गको एक भाग थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 364,
+    "text_length_avg": 172.1,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4527,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19557.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19557.txt",
+    "relative_path": "19557.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19557.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4527,
+    "mtime": 1782796487.592453,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8a7d11032d865ad68493c6d20e4d2ed7756e076b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

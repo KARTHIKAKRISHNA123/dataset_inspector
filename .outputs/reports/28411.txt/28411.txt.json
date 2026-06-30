@@ -1,0 +1,91 @@
+{
+  "dataset": "28411.txt",
+  "file_name": "28411.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रस कुनै फल तथा तरकारी जस्ता चीज वस्तुहरूबाट निस्कने तरल पदार्थ हो । साथै यसले अन्य जैविक पदार्थहरूबाट बन्ने वा निस्कने तरल पदार्थलाई पनि जनाउँदछ । यो सामान्यतया पेय पदार्थको रुपमा वा अन्य खाद्त पदार्थ स्वादिलो बनाउन मिसाउनको लागि प्रयोग गरिन्छ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 246,
+    "text_length_max": 246,
+    "text_length_avg": 246.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 655,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28411.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28411.txt",
+    "relative_path": "28411.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28411.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 655,
+    "mtime": 1782796528.1224866,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e8949a06acfab94d1b2912a8c731569d12f6ed8b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

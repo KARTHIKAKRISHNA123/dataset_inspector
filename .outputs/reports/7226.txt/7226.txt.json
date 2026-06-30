@@ -1,0 +1,94 @@
+{
+  "dataset": "7226.txt",
+  "file_name": "7226.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तरंग दैर्घ्य: 10 mm to 1 mm",
+    "अत्यधिक उच्चावृत्ति रेडियो आवृत्ति पट्टीमा स्थित सर्वाधिक रेडियो आवृत्ति छ। यसको रेन्ज छ 30 to 300 गीगा हर्ट्ज, जसका माथिका विद्युत चुम्बकीय विकिरणलाई अधोरक्त प्रकाश भनिन्छ, जसलाई टैरा हर्ट्ज विकिरण पनि भन्दछन्। यस पट्टीको तरंग दैर्घ्य दसदेखि एक मिलिमीटर हुन्छ, न कि यसको मिलिमीटर ब्याण्ड नामकरण गर्दछ जसलाई लघु रूपमा MMW or mmW पनि भन्दछन्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 340,
+    "text_length_avg": 183.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9458,
+      "Latin": 0.0542
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 928,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9458,
+      "Latin": 0.0542
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7226.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7226.txt",
+    "relative_path": "7226.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7226.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 928,
+    "mtime": 1782796593.5063374,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "56a9b2fe1a72c9cfdab19a0a9e1a58fcf919e618",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

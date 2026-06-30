@@ -1,0 +1,92 @@
+{
+  "dataset": "26421.txt",
+  "file_name": "26421.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिङ वंश सन् 1636 बाट चिनमा स्थापित अन्तिम जहानियाँ शासक वंश थियो । यस वंशले 1644 देखि सन् 1912 सम्म राज गरेको थियो जसपछि मिङ वंश र हालको चिनमा स्थापित भएको थियो ।",
+    "16 औँ शताब्दीको अन्तिम सम्ममा मिङका जग्गा धनी नुरहाचीले सैन्य समूह तयार पार्न थाले जसमा हाङचीनियाँ, जुरचेन र मङ्गोल जस्ता जातिहरु पर्थे । उनले नै यसलाई समूहगत तयार पार्दै मान्चुज् नाम दिए ।सन् 1636 सम्म आइपुग्दा उनका छोरा होङ ताजीले मिङलाई लियाओदाङबाट लखेटे र नयाँ वंश चिङको घोषणा गरे । सन् 1644 मा लि जिचेङद्वारा अगाडि बडेको समुहले मिङको राजधानी बेङजीङ कब्जा गर्यो । सुरुका शासकहरूले मन्चु शैली नै अपनाए, उनीहरूका उपनाममा शासक हुन्थ्यो । उनीहरू कन्फुसियसका उक्ति पछ्याउँथेँ ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 126,
+    "text_length_max": 476,
+    "text_length_avg": 246.62,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5201,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26421.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26421.txt",
+    "relative_path": "26421.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26421.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5201,
+    "mtime": 1782796519.0306008,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "00bcb0caeab00056675803d42cb15af4419e16ab",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "15639.txt",
+  "file_name": "15639.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सूर्यवंश एक पौराणिक राजवंश मानिन्छ । हिन्दु शास्त्रहरूका अनुसार सूर्यवंश प्रमुख क्षत्रिय वंशहरूमध्ये एक हो । पौराणिक सूर्य बाट सूर्यवंशको उत्पत्ति र नामाङ्करण भएको मानिन्छ । इक्ष्वाकु कुल सूर्यवंशकै अर्को नाम हो । सूर्यवंशबाट उत्पन्न भएका व्यक्तिहरूलाई सूर्यवंशी भनिन्छ। प्रसिद्ध रघुवंश सूर्यवंशको शाखा हो। सूयवंशको उल्लेख बाल्मीकिको रामायण, व्यास ऋषिको महाभारत र कालीदासको रघुवंशम् कृतिमा गरिएको छ।",
+    "भारतका केही राजपुतहरू र नेपालको केही क्षेत्रीहरू आफु सूर्यवंशी क्षत्रिय भएको दाबी गर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 91,
+    "text_length_max": 399,
+    "text_length_avg": 226.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3067,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15639.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15639.txt",
+    "relative_path": "15639.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15639.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3067,
+    "mtime": 1782796468.539603,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f4582e954c1b7aff2d27205906271cef4431cbb2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

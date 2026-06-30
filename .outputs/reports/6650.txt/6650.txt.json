@@ -1,0 +1,96 @@
+{
+  "dataset": "6650.txt",
+  "file_name": "6650.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्वामी आनन्द अरूण नेपालका एक आध्यात्मिक व्यक्तित्त्व हुन्। हाल उनी ओशो तपोबन नेपालका प्रमुख छन्। स्वामी हुनुपुर्व यिनी नेपालका उद्योगी खानदानका व्यक्तित्व थिए। स्वामी अरुण आनन्द ओशो तपोवन नेपालका संस्थापक आचार्य हुन्। सानै देखिको साधना र अध्यात्मको खोजले उनालाई अनेकौ गुरुहरू र आश्रमहरूमा पुर्यायो। उनी ओशोबाट सन् 1974 मा दीक्षित भएका थिए।उनी जनकपुरको लोहनामा सन् 1947 जुन 7 जन्मेका हन्। शुरुमा उनी गंगा किनारमा ध्यान गर्न बसेका थिए। अहिले ओशो तपोवन नार्गाजुनमा बस्छन्। विश्वमा ओशोको माध्यमबाट ध्यान ",
+    "स्वामी आनन्द अरूण ओशो तपोवनमा प्रवचन गर्दै"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 529,
+    "text_length_avg": 117.17,
+    "duplicate_estimate": 3,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8148,
+      "Latin": 0.1852
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1659,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8148,
+      "Latin": 0.1852
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6650.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6650.txt",
+    "relative_path": "6650.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6650.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1659,
+    "mtime": 1782796590.7201817,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "eec10d096c20731620da2586add4fd746b800296",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

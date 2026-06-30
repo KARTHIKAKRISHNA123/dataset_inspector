@@ -1,0 +1,92 @@
+{
+  "dataset": "22571.txt",
+  "file_name": "22571.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मानव संसाधन व्यवस्थापन भन्नाले संगठन भित्र मानिसको व्यवस्थापन सम्बन्धि दर्शन, कार्यविधि एवं अभ्यास लाई जनाउँछ । मानव संसाधनको प्राप्ति, विकास, उत्प्रेरणा र अनुरक्षण प्रक्रिया नै मानव संसाधन व्यवस्थापन हो । यो संगठनमा निरन्तर चलिरहने प्रक्रिया हो । यो सबै तहका व्यवस्थापक हरुले गर्ने नियमित कार्य हो । मानव संसाधन व्यवस्थापनका निम्न कार्यहरु हुन्छन :",
+    "प्राप्ति कार्यले ठीक व्यक्तिको ठीक ठाउँमा र ठीक समयमा प्रवेश निश्चित गर्छ । यसमा निम्न क्रियालापहरु पर्छन्:"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 107,
+    "text_length_max": 349,
+    "text_length_avg": 187.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3015,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22571.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22571.txt",
+    "relative_path": "22571.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22571.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3015,
+    "mtime": 1782796501.3850915,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5f75e9019e0ca313d57a44574ced5df2a07cff16",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

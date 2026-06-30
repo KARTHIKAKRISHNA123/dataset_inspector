@@ -1,0 +1,92 @@
+{
+  "dataset": "2819.txt",
+  "file_name": "2819.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हित काजी गुरुङ",
+    "संसदमा सम्बोधन गर्दा पनि कविता वाचन गरेर गर्ने भएकाले 'कवि संसद'को नाम पाएका हितकाजी गुरुङ स्याङजा क्षेत्र नं. 1 बाट निर्वाचित एमालेका सभासद हुनुहुन्छ। 47 वर्षीय गुरुङ 2035 सालदेखि राजनीतिमा संलग्न रहँदै आउनुभएको छ। राजनीतिक संघर्षका क्रममा 2037 र 2042 सालमा गरी साढे चार वर्ष जेल जीवन बिताइसक्नुभएका गुरुङ हाल एमाले गण्डकी अञ्चल कमिटी सदस्य हुनुहुन्छ। 2056 सालको संसदीय निर्वाचनमा पनि सोही क्षेत्रबाट निर्वाचित गुरुङ व्यवस्थापिका-संसदको सदस्य रहिसक्नुभएको छ। 2048मा पनि संसदीय चुनावमा भाग लिनुभएका ग"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 1075,
+    "text_length_avg": 544.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2893,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2819.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2819.txt",
+    "relative_path": "2819.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2819.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2893,
+    "mtime": 1782796527.041317,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.948,
+    "sha1_quick": "815ef8a478c80cb5bc6e64913d3240cf4a597960",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

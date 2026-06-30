@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5937.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बसाइँ लीलबहादुर क्षत्रीद्वारा लेखिएको र मदन पुरस्कार पुस्तकालयले वि.स.2014 सालमा बजारमा ल्याएको एक नेपाली भाषाको उपन्यास हो।बसाइँ मुना मदन पछी सबैभन्दा बढी बिक्री हुने नेपाली पुस्तक हो।",
+    "बसाइँ नेपाली साहित्यका बहुसंख्यक पाठकहरु माझ अति नै प्रिय बनेका नेपाली उपन्यास हरु मध्यको एक उत्कृष्ट रचना हो । यसको प्रथम प्रकाशन 2014 सालामा मदन पुरस्कार पुस्तकालयबाट भएको हो । लिलबहादुर क्षेत्री को यस उपन्यासले तात्कालिन नेपाली समाजको जर्जर बर्गिय द्वन्द र आर्थिक विषमताले निम्त्याएको संङ्कटलाई प्रभावकारी ढङ्गले चित्रण गरेको छ । पुर्वी नेपालका जनाताले बोल्ने नेपाली भाषा उनिहरुले लगाउने भेषभुषा र उनिहरुले बाँचिरहेको जिन्दगिलाई यस उपन्यासमा जिवन्त अभिव्यक्त्ती दिईएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 185,
+    "text_length_max": 475,
+    "text_length_avg": 330.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1768,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5937.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5937.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5937.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1768,
+    "mtime": 1782796667.513157,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "1a5679931fcc339b387556a1877247f7d750f332",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

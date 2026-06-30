@@ -1,0 +1,92 @@
+{
+  "dataset": "24538.txt",
+  "file_name": "24538.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चौधरी ग्रूप नेपालको प्रमुख उद्योग समूहमध्ये एक हो। यस समूहको बीजारोपण सन् 1870 भूमल चौधरीले कपडा व्यापारबाट गरेका थिए। समूहले 40 भन्दा बढी कम्पनीमा साढे 17 अर्ब रूपैयाँभन्दा बढी लगानी गरेको छ। कम्पनीले खाद्य तथा पेय, विद्युत् तथा घरेलु प्रयोगका विद्युतीय उपकरण, बियर, चुरोट, वित्तीय संस्था, पूर्वाधार, होटल, आवास विकास, अटोमोबाइल, अस्पताल, स्कूललगायतका क्षेत्रमा लगानी गरेको छ।",
+    "वाइवाइ चाउचाउको दक्षिण एसियामा समेत एकाधिकार लिनाले चौधरी समूहलाई बहुराष्ट्रिय उद्यमी वनायो। नेपालमा वाइवाइ लोकप्रिय भयो। यसपछि चौधरी समूह नेपालमा उत्पादन भएको चाउचाउ लिएर भारतीय बजार प्रवेश गर्‍यो। केही वर्षअघि भारतका विभिन्न स्थानमा उद्योगसमेत खोल्यो। भुटान, मध्यपूर्वलगायत देशमा वाइवाइले बजार लिएको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 304,
+    "text_length_max": 1077,
+    "text_length_avg": 531.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 12803,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24538.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24538.txt",
+    "relative_path": "24538.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24538.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 12803,
+    "mtime": 1782796510.2211497,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c196731ca1d5a465432ef34a47fe4f2715c2ebf9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

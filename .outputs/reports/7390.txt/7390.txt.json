@@ -1,0 +1,92 @@
+{
+  "dataset": "7390.txt",
+  "file_name": "7390.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वेस्ट इन्डिजले 2015 डिसेम्बर 2 देखि 2016 जनवरी 7 सम्म अस्ट्रेलियाको भ्रमण गरेको थियो । यस भ्रमणमा वेस्ट इन्डिजले अस्ट्रेलियासँग 2 वटा भ्रमण खेल र तीन वटा टेस्ट खेल खेलेको छ ।",
+    "अस्ट्रेलियाले शृङ्खला 2-0 ले जितेको छ । प्लेयर अफ द सिरिजको उपाधि अस्ट्रेलियाका एडम भोगेजले जितेका छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 104,
+    "text_length_max": 378,
+    "text_length_avg": 218.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1731,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7390.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7390.txt",
+    "relative_path": "7390.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7390.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1731,
+    "mtime": 1782796594.2539165,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "98d9b5d064ea90e761f63c2e3557adab19dd11a3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

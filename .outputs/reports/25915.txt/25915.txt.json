@@ -1,0 +1,92 @@
+{
+  "dataset": "25915.txt",
+  "file_name": "25915.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेलाइततिर बरालिँदा तारानाथ शर्माद्वारा लेखिएको र साझा प्रकाशनले बजारमा ल्याएको एक नेपाली भाषाको नियात्रा हो। यस कृतिले वि.सं 2026 सालको को मदन पुरस्कार प्राप्त गरेको थियो ।",
+    "कृतिमा लेखकका बेलाइतयात्राका रोचक र घोचक अनुभूतिहरु छन् । पढ्ने पाठकले आफैँ यात्रा गरेको अनुभव लिन सक्छन् । कतै बेलाइतीहरुका विकास र सभ्यता देखेर हुरुक्क हुन्छन्, कतै-कतै आत्मस्वाभिमान र आत्मगौरवले फुरुक्क हुन्छन्, कतै आफ्नो देशका बेथिति र राजनैतिक व्यभिचार सम्झेर तुरुक्क आँसु खसाल्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 112,
+    "text_length_max": 289,
+    "text_length_avg": 191.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1516,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25915.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25915.txt",
+    "relative_path": "25915.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25915.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1516,
+    "mtime": 1782796516.6077626,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "68d69c81cbe980884f5302f99a9b5d92802b9945",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

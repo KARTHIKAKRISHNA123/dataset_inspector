@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "10190.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एचटिसि ताइवानको स्माट फोन उत्पादन गर्ने कम्पनी हो।पहिले एचटिसिको पुरारूप हाइटेक कम्प्पुटर कर्पोरेसन थियो।सुरुवाति दिनहरूमा यस कम्पनीले माइक्रोसफ्टको विइन्डोज मोबाइल अपरेटिङ सिस्टममा आधारित भइ स्माट फोन उत्पादन गर्ने गर्दथ्यो तर सन 2009 देखी विइन्डोज मोबाइल अपरेटिङ सिस्टमबाट सरेर एन्ड्रोइडमा आधारित फोनहरू उत्पादन गर्ने गरेको छ तर सन 2010 देखी फेरि विइन्डोजको फोनहरू पनि एन्ड्रोइडसङगै उत्पादन गरिरएको छ।एचटिसि ओपन हान्डसेट एलाईन्सको पनि सदस्य हो।ओपन हान्डसेट एलाईन्स हातेसेट उत्पादनकर्ता तथा अपरेटरहर"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 580,
+    "text_length_max": 580,
+    "text_length_avg": 580.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1567,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10190.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\10190.txt",
+    "relative_path": "archive (2)\\valid\\valid\\10190.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1567,
+    "mtime": 1782796606.9684856,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "aa99f9c99d15d2f224a828e616af2454dd47f357",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

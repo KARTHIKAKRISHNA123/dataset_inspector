@@ -1,0 +1,92 @@
+{
+  "dataset": "34962.txt",
+  "file_name": "34962.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दलित को अर्थ हो दलन गरिएको| अर्थात ती मानिसहरू जो आर्थिक अनि सामाजिक रूपले पछाडिएका र जसको आर्थिक, सामाजिक, राजनीतिक र धार्मिक रूपले प्राचीन कालदेखि उच्च वर्गहरू द्वारा शोषण र उत्‍पीडन गर्नको निम्ति समाजमा जातीय बर्ग विभाजन गरिएको थियो| र आज पनि छ|\tहुन् त नेपालमा भेदभाव अनि छुवाछुत गर्ने हरुलाई कडा कार्यबाही गर्ने कानुन पनि सरकारले नबनाएको होइन तर त्यो कागजमा मात्र सिमित छ| गाउँ समाजको हरेक कुनामा आजपनि यो भेदभाव काएम नै छ|",
+    "राष्ट्रिय दलित आयोगद्वारा सूचिकृत गरिएका दलित जातीय अनुसूचीको विवरण वर्णानुक्रम अनुसार "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 19,
+    "text_length_max": 427,
+    "text_length_avg": 177.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1415,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34962.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34962.txt",
+    "relative_path": "34962.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34962.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1415,
+    "mtime": 1782796558.5429666,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "174b21a99fa8f61493be91fdecf22ad742b2d9e4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

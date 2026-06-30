@@ -1,0 +1,92 @@
+{
+  "dataset": "31432.txt",
+  "file_name": "31432.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रान्त कुनै देश भित्रको एउटा यस्तो क्षेत्र हो जसलाई त्यो देशको केन्द्र सरकारले त्यो क्षेत्रमा शासन चलाउन मान्यता दियेको हुन्छ।प्रान्तको बिभाजन गर्दा केन्द्रले केही कुराहरूमा सहमति प्राप्त गरि सके पछि कुनै क्षेत्रलाई प्रान्त घोषित गरिन्छ। एउटा अलग्गै प्रान्त घोषित गर्दा केन्द्रले निम्न कुरामा ध्यान दिन्छ।",
+    "नेपालमा प्रान्तको व्यवस्था 7 वटा छन्। नेपालमा नयाँ संविधान2072 मा 7 वटा प्रान्त छ र अहिले 5 नम्बर प्रदेश विवादित छ।अहिले सम्म संविधान कार्यनयन भएको छैन।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 152,
+    "text_length_max": 306,
+    "text_length_avg": 229.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1225,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31432.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31432.txt",
+    "relative_path": "31432.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31432.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1225,
+    "mtime": 1782796542.4547,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "5112830dc8aaa7e2c8c37c7a03a3a0613f2ff2c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

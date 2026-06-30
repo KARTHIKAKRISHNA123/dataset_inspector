@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1245.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सामुद्रिक इतिहासको सबैभन्दा भयानक दुर्घटना मानिने टाइटानिक जहाज दुर्घटनामा 1517 जना मानिस मरेका थिए । टाइटानिक उक्त समयको सबैभन्दा भव्य तथा महंगो पानीजहाज थियो । इंगल्याण्डको साउथह्याम्पटनबाट अमेरिकाको न्युयोर्कसम्मको यात्राका लागि निस्किएको थियो टाइटनिक ।टाइटानिक नामक जहाज आफ्नो पूरा गतिमा बेलायतबाट अमेरिका जाँदै थियो । तर, बीच बाटोमै त्यो जहाज एक विशाल ‘आईसबर्ग’मा ठोक्कियो । त्यसको अढाई घण्टा पछि जहाज आन्द्र महासागरमा डुब्यो । फिल्म टाइटानिक यही घटनामा आधारित थियो ।",
+    "यसबारेमा कयैन मिथक र कथा छन् । र, धैरेजसो मानिसहरुको जानकारी ऐतिहासिक तथ्यमा नभएर यसबारेमा बनेको फिल्ममा आधारित छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 41,
+    "missing_text": 0,
+    "text_length_min": 69,
+    "text_length_max": 472,
+    "text_length_avg": 210.02,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22935,
+    "estimated_records": 109
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 109,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1245.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1245.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1245.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22935,
+    "mtime": 1782796611.3581161,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "9b28e4f10eb9a9216855a4029bd17c910fde5917",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

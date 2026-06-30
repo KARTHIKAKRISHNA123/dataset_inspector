@@ -1,0 +1,91 @@
+{
+  "dataset": "26970.txt",
+  "file_name": "26970.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "फागुन वा फाल्गुण हिन्दू महिनाहरूको 12 महिनाहरू मध्यको एघारौं महिना हो। फागुन महिनाको अवधि चन्द्रमासका अनुशार माघी पूर्णिमाको भोलिपल्टदेखि फाल्गुण पूर्णिमा सम्मको हुन्छ भने सौर्यमासका अनुशार फागुन महिना कुम्भ सक्रान्तिका दिन सुरु भएर मिन सक्रांतीको पहिलो दिन पुरा हुन्छ । तर शाक्य पंचाङ्गमा भने कुम्भ सक्रांतीको 5 दिन पछाडी सुरु भएर मिन सक्रान्तिको 4 दिनको दिनमा पुरा हुन्छ । फागुन शिशिरऋतुको दोस्रो महिना हो । अंग्रजी महिनाको फेब्रुअरीको आधा महिना र मार्चको आधा महिना फागुन महिना भित्र पर्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 492,
+    "text_length_max": 492,
+    "text_length_avg": 492.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1315,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26970.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26970.txt",
+    "relative_path": "26970.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26970.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1315,
+    "mtime": 1782796521.5616105,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0d5bc1635e4e8a7ba3fb35ae695f16962dc6160a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

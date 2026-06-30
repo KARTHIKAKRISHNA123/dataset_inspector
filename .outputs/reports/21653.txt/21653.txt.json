@@ -1,0 +1,92 @@
+{
+  "dataset": "21653.txt",
+  "file_name": "21653.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भुभुजेला भनेको एक किसिमको हरन हो जुन स्टेडियममा बजाईन्छ । यो लगभग एक मीटर लामो सम्मको हुन्छ । दक्षिण अफ्रिकामा भैरहेका विश्वकप-फुटबलमा यसको व्यापक प्रयोग दर्शकहरूले गरिरहेका छन् । यसलाई मुखमा राखेर बजाउँदा एककिसिमको ‘प्वाँऽऽऽ’ गर्ने एकनाशे ध्वनी निस्कन्छ । ",
+    "भुभुजेला अहिले निक्कै चर्चाको विषय बनेको छ । यस ‘प्वाँऽऽऽ’ ध्वनीका विरोधीहरू ‘यो दिक्क लाग्दो भुँईभुँई ले फुटबलको मजा नै चौपट भयो’ भनिरहेकाछन् भने स्वास्थ्यविद्हरूको विचारमा यसबाट रुघा-खोकी तथा फ्लू सर्ने खतरा खोक्दा वा हल्ला गर्दा भन्दा बढी हुन्छ भन्ने छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 139,
+    "text_length_max": 257,
+    "text_length_avg": 217.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1760,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21653.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21653.txt",
+    "relative_path": "21653.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21653.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1760,
+    "mtime": 1782796497.3260217,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "090117183f5e763f6e25ecf8d6492d8a6fc93b80",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

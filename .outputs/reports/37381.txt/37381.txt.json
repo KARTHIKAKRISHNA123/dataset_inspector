@@ -1,0 +1,91 @@
+{
+  "dataset": "37381.txt",
+  "file_name": "37381.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एन्थोनी विलियम \"टोनी\" ग्रेग चर्चित पूर्व इंग्ल्यान्ड क्रिकेट कप्तान तथा टेलिभिजन कमेन्टेटर हुन। टोनी ग्रेगको जन्म दक्षिण अफ्रिकामा भएको हो। टोनी ग्रेगको शनिबार 66 वर्षको उमेरमा 29 डिसेम्बर 2012मा निधन भएको छ। फोक्सोको क्यान्सरबाट पीडित उनको हृदयाघातका कारण निधन भएको हो। दक्षिण अफ्रिकामा जन्मेका ग्रेगलाई केही समयअघि क्यान्सर भएको पत्ता लागेको थियो। सिड्नीस्थित घरमा रहेको अवस्थामा उनको मुटुमा समस्या देखिएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 415,
+    "text_length_max": 415,
+    "text_length_avg": 415.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1104,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37381.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37381.txt",
+    "relative_path": "37381.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37381.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1104,
+    "mtime": 1782796569.95525,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "505b8f401906c98658665c8907748cb8caa37283",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

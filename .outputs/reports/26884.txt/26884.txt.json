@@ -1,0 +1,92 @@
+{
+  "dataset": "26884.txt",
+  "file_name": "26884.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आगरा उत्तर प्रदेश प्रान्तको एक जिल्ला शहर अनि तहसील छ। ताजमहल आगराको पहचान छ र यो यमुना नदीका किनार बसेको छ आगरा 27.18° उत्तर 78.02° पूर्वमा यमुना नदीका तटमा स्थित छ। समुद्र-तलदेखि यसको औसत उचाई करीब 171 मीटर छ। यो उत्तरमा मथुरा, दक्षिणमा धौलपुर, पूर्वमा फेरिोजाबाद, शिकोहाबाद, दक्षिणपूर्वमा फतेहाबाद र पश्चिममा भरतपुरदेखि घिरा भएको छ। आगरा उत्तर प्रदेशको तेस्रो सबैभन्दा ठूलो शहर छ।",
+    "आगरा एक ऐतिहासिक नगर छ, जसका प्रमाण यो आफ्नो चारहरूतर्फ समेटेको छ।त्यस्तो त आगराको इतिहास मुख्य रूपले मुगल कालदेखि जानिन्छ तर यसको सम्बन्ध महिर्शि अन्गिरादेखि छ जो 1000 वर्श ईसा पूर्व भएका थिए। इतिहासमा पहिलो उल्लेख आगराको महाभारतका समयदेखि मानिन्छ, जब यसलाई अग्रबाण वा अग्रवनका नामले सम्बोधित गरिन्थ्यो। भन्दछन् कि पहिला यो नगर आयॅग्रहका नामले पनि जानिन्थ्यो। तौलमी पहिलो ज्ञात व्यक्ति थियो जसले यसलाई आगरा नामले सम्बोधित गरे।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 1111,
+    "text_length_avg": 318.48,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 17509,
+    "estimated_records": 54
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 54,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26884.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26884.txt",
+    "relative_path": "26884.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26884.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 17509,
+    "mtime": 1782796521.1532648,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c239173ce4c343849b1dd390c7dd4256a60404a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

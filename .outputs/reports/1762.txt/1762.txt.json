@@ -1,0 +1,92 @@
+{
+  "dataset": "1762.txt",
+  "file_name": "1762.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामायण",
+    "सामवेदको अधिकांश ऋचाहरू ऋग्‍वेददेखि नैं लिएका छन्। यो वेद गीत-संगीत प्रधान हो। प्राचीन आर्हरू द्वारा साम-गान गरिन्थ्यो। सामवेद चारहरू वेदहरूमा आकारको दृष्टिले सबैभन्दा सानो छ र यसका 1875 मन्त्रहरूमा देखि 69लाई छोडेर सबै ऋगवेदका छन्। केवल 17 मन्त्र अथर्ववेद र यजुर्वेदका पाइन्छन्। फेरि पनि यसको प्रतिष्ठा सर्वाधिक छ। यसको प्रतिस्ठा अधिक हुने एक कारण गीतामा कृष्ण द्वारा 'वेदानां सामवेदोऽस्मि' भन्नु पनि हो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 1574,
+    "text_length_avg": 661.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5270,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1762.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1762.txt",
+    "relative_path": "1762.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1762.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5270,
+    "mtime": 1782796478.2610166,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "80fec08ce49d8f2e734127817e179dc6ab134b76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

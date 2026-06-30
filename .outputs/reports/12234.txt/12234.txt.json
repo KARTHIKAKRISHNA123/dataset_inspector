@@ -1,0 +1,94 @@
+{
+  "dataset": "12234.txt",
+  "file_name": "12234.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजोपाध्याय प्राचीन नेपालका ब्राह्मण पुरोहितहरू हुन्। उनीहरूलार्इ स्थानीय नेवार भाषामा द्य बाज्या, द्य ब्रह्मु, द्य ब्राह्मण पनि भनिन्छ। प्राचीन नेवार राज्यहरूमा राजा तथा राजपरिवारका गुरू, पुरोहित तथा राजनीतिक, अर्थिक, सामाजिक, कुटनीतिक इत्यादिका मामिलामा राजोपाध्यायहरूले सल्लाहकारको भूमिका समेत निभाएका थिए। राजोपाध्यायहरू विशेषतः नेवार समुदायमा तान्त्रिक गुरूका रूपमा चिनिन्छन्। विश्वमा धेरैजसो ठाउँहरूमा लोप भइसकेको वा लोपोन्मुख अवस्थामा रहेका कतिपय तान्त्रिक परम्पराहरूलार्इ अद्यापि यो समुदायले ",
+    "नेवार संस्कृतिको काठमाडौं उपत्यका लगायतका क्षेत्रहरूमा बलियो जग बसाल्न राजोपाध्याय गुरूहरूको पनि महत्वपूर्ण भूमिका रहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 43,
+    "text_length_max": 649,
+    "text_length_avg": 280.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.925,
+      "Latin": 0.075
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5078,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.925,
+      "Latin": 0.075
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12234.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12234.txt",
+    "relative_path": "12234.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12234.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5078,
+    "mtime": 1782796453.0610628,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8664f953827160c78dc8a1a50e07c9ccfa4f79bf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

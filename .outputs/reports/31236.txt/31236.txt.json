@@ -1,0 +1,92 @@
+{
+  "dataset": "31236.txt",
+  "file_name": "31236.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्रेमेजुङ इलाम जिल्लाको नयाँबजार गा.वि.स. अन्तर्गतको एक गाउँ हो । यो गाउँले गाविसका वडा नं. 2,3 र 5 ओगटेको छ। 2038 सम्म यो गाउँ गोर्खेधाप गाउँ पञ्चायतको 2 नम्बर वडामा पर्दथ्यो। अहिले यो नयाबजार गाविसमा छ ।निगाले र बगाले, चामेटार, काब्राबोटे, गुप्ती, सेतीखोला गाउँ, ढाँडे, रिटाम, जस्ता सानासाना गाउँहरू मिलेर प्रेमेजुङ्ग बनेको छ। शंखाबुङ, गुम्बा गाउँ, गुरुङ गाउँ, भण्डारी गाउँ, लप्सीबोटे, मकर्जुङ, ढोडे, आहाले, आरूबोटे, पान्दाम, ढुंगे, माङचोक, आदि यस गाउँका का छिमेकी गाउँहरू हुन् ।",
+    "यहाँबाट सोयाङ, प्याङ, जोगमाई, सिरिसे, नाम्सालिङ आदि तर्फ जाने गाडी प्रेमेजुङ हुँदै चल्ने गर्दछन्।जोगमाइ खोलाको दायाँपट्टि अवस्थित यस गाउँमा सुँगुरे खोला, सेतीखोला, होर्मे खोला, घट्टे खोला तथा छरछरे, ढाँडे, चिन्ते लगायतका खोल्साहरू रहेका छन्। बेंसीमा सुँगुरे बेंसी, चिउरे, जिम्बुबोटे, होर्मे तथा साँघुबेंसी यस गाउँका मुख्य धानखेत हुने ठाउँहरू हुन्।"
+  ],
+  "statistics": {
+    "records_sampled": 45,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 2019,
+    "text_length_avg": 328.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 39251,
+    "estimated_records": 119
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 119,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31236.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31236.txt",
+    "relative_path": "31236.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31236.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 39251,
+    "mtime": 1782796541.4603534,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "7e4749a291f7c57c7eb13a6f8ff2722bb3832a22",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "36713.txt",
+  "file_name": "36713.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली टाइप गर्न सजिलो छ, तपाईले तल दिएको स्थानमा क्लिक गरेपछि नेपाली लेख्ने ठाउँ भेट्नु हुन्छ त्यसपछि त्यसलाई कपी गरेर तपाईंले चाहेको ठाउँमा पेस्ट गर्नुपर्छ, सर्वप्रथम तपाईंले टाइप गरेर कपी गर्नुहोस् र अभ्यासकोलागि देब्रेपटिको प्रयोगस्थलमा क्लिक गर्नुहोस्, त्यसपछि परिवर्तन लेखेको ठाउँमा क्लिक गरेर त्यहाँ पेस्ट गर्नुहोस् अनि संग्रह गरेर हेर्नुहोस्",
+    "यसरी तपाईंले सजिलै टाइप गर्न र विकिपिडियामा लेखहरू लेख्न सक्नुहुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 18,
+    "text_length_max": 349,
+    "text_length_avg": 103.55,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9347,
+      "Latin": 0.0653
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2954,
+    "estimated_records": 28
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 28,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9347,
+      "Latin": 0.0653
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36713.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36713.txt",
+    "relative_path": "36713.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36713.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2954,
+    "mtime": 1782796566.68968,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "c961563d695aed1b95d4b8f084f62a5a950d86c7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

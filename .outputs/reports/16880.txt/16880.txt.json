@@ -1,0 +1,92 @@
+{
+  "dataset": "16880.txt",
+  "file_name": "16880.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्याडमिन्टन  खेल विश्व प्रसिद्ध खेल मध्ये एक हो।यस खेल सिङ्गल र डबल गरि दुई दंग बाट खेलिन्छ।व्यक्तिमा स्फूर्ति,लचकता,स्थिरता तथा सन्तुलनको विकास गर्न साथै शारीरिक तथा मानसिक स्वस्थ्यता का निम्ति यश ब्याडमिन्टन खेल खेलिन्छ।",
+    "यो खेल मुख्यतः अंग्रेजहरूले प्रचलनमा ल्याएको खेल हो।सन् 1820 तिर भारतको पुनामा समेत खेलिएको भनिएको यो खेल बेलायतका ड्युक अफ वियुफोर्टले पाहुनाको मनोरञ्जनका लागि सन् 1870 मा नियमबद्ध रूपमा खेलाएपछि यो खेलको आधिकारिक सुरुवात भएको थियो ।भने सन् 1934 सम्ममा यश खेलको अन्तर्राष्ट्रिय संघ विश्व ब्याडमिन्टन संघस्थापना भयझ।साथै सन् 1962 मा एसियाली खेलकुद प्रतियोगिता र सन् 1992 देखि ओलम्पिक खेलमा लिइएको थियो ।नेपामा भने ब्याडमिन्टन वि.स.1989 देखिनै खेल्न थालिएता पनि वि.स.2008 सालमा मात्र नेपाल ब्याडमिन्टन"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 523,
+    "text_length_avg": 120.11,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2843,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16880.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16880.txt",
+    "relative_path": "16880.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16880.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2843,
+    "mtime": 1782796474.3863566,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f667ea06437f10c1e612fbc3c6bc984db0c20b35",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

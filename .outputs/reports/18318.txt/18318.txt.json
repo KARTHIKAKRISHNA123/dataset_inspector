@@ -1,0 +1,92 @@
+{
+  "dataset": "18318.txt",
+  "file_name": "18318.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिमरा गोल्डकप नेपालको सिमरामा आयोजित एक वार्षिक फुटबल प्रतियोगिता हो। यो सिमरा फुटबल क्लब द्वारा व्यवस्थित गरिएको छ। हाल यस प्रतियोगितालाई रूस्लान भोड्काले प्रायोजन गरेको छ। यस प्रतियोगिताका विजेताले ट्रफी सहित 6 लाख नगद पुरस्कार र उप-विजेताले 3 लाख नगद, विधागततर्फ उत्कृष्ट हुनेले 20/20 हजार र खेलका उत्कृष्ट खेलाडीलाई 10 हजार नगद रूपैयाँ प्रदान गरिँदै आइरहेको छ।",
+    "ढाँचा:नेपाली फुटबल प्रतियोगिताहरू"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 364,
+    "text_length_avg": 198.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1053,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18318.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18318.txt",
+    "relative_path": "18318.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18318.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1053,
+    "mtime": 1782796481.5284228,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c2f6ad7f34d353bdc3805a6c2900d32057851b54",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

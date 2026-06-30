@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "35006.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एलीसन ली हनिंगन एक अमरीकी अभिनेत्री हुन्। उनी बफी द वेम्पायर स्लेयरमा आफ्नो विलो रोजन्बर्गको भूमिका, अमेरिकन पाई चलचित्रहरूमा मिशेल फ्लाहर्टी र सीबीएसको टेली चलचित्र हाउ आई मेट योर मदरमा लिली एल्ड्रिनको भूमिकाको लागि जनिने गर्छिन्।",
+    "हनिंगनको जन्म वशिंगटन डी. सीमा भएको थियो। उनी एमिली पोस्नर, एक रियल इस्टेट एजंट, र ऐल हनिंगन, एक ट्रक ड्राइवरकी एक्ली छोरी हुन् । हनिंगन आफ्नु बुबाको आयरिश वंशको र आमाको यहूदी हो। जब उनी दुई वर्षकी थिइन् तब उनको माता-पिताको छोड पत्र भएको थियो र उनको लालनपालन उनकी आमाले अटलांटामा गरेकी थिइन्।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 292,
+    "text_length_avg": 195.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9713,
+      "Latin": 0.0287
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1536,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9713,
+      "Latin": 0.0287
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35006.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\35006.txt",
+    "relative_path": "archive (2)\\valid\\valid\\35006.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1536,
+    "mtime": 1782796656.248863,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "2cb4a07987960b0d80afa0eb82e3b5fd6a7a75a4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "13533.txt",
+  "file_name": "13533.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिव ताण्डव स्तोत्र महान् विद्वान एवम् परम शिवभक्त लङ्काधिपति रावणद्वारा रचिएको शिव को स्तोत्र हो । ",
+    "मान्यता छ कि शिवभक्त रावणले कैलासपर्वत उठाएको थियो र जब सबै पर्वत उचालेर लङ्का लैजान उद्यत भयो तब उसलाई आफ्नो बलमाथि घमण्ड भयो । भगवान् शिवलाई उसको यो अहंकार मनपरेन र महादेवले आफ्नो खुट्टाको बुढी औँलाले पर्वतलाई केही दबाउनुभयो र कैलाश आफ्नै ठाउँमा बस्यो । तर शिवको अनन्य भक्त रावणको हात भने च्यापिएर त्यही अड्कियो त्यसैले उ \" भगवान् शंकर ! माफ गर्नुस्\" भन्दै प्रार्थना गर्न थाल्यो । र त्यहीं बसेर गाउन थाल्यो र कालान्तरमा त्यही गीत नै शिव ताण्डव स्तोत्र बन्यो । रावणको यो स्तोत्रबाट आशुतोष भगवान् शिव"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 694,
+    "text_length_avg": 286.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3043,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13533.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13533.txt",
+    "relative_path": "13533.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13533.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3043,
+    "mtime": 1782796459.0016167,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3e283687d3be801e6553c502a2f68d874edcec51",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

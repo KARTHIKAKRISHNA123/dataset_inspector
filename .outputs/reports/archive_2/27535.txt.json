@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "27535.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रियल म्याड्रिड वा रियल म्याड्रिड क्लब डे फुटबल म्याड्रिड, स्पेनमा अवस्थित व्यवसायिक फुटबल क्लब हो। यसको स्थापना 1902 मार्च 6 मा म्याड्रिड फुटबल क्लब नाममा भएको थियो। स्थापनाकालदेखि नै सेतो जर्सी लगाउने यस क्लबलाई लस ब्लान्कस पनि भनिन्छ। स्पेनिस भाषामा रियलको अर्थ रोयल हुन्छ, स्पेनका तत्कालिन राजाले सन 1920 मा म्याड्रिड फुटबल क्लब लाई रोयल उपाधी र निशानी प्रदान गरेका थिए। ",
+    "रियल म्याड्रिड विश्वमा सबैभन्दा धेरै समर्थक भएका खेलका टिमहरु मध्ये एक हो। यो ला लिगाको तीन संस्थापक क्लबहरुमध्ये एक हो। ला लिगामा रियल म्याड्रिड कहिल्यै पनि पहिलो श्रेणीबाट घटुवा भएको छैन । फुटबलमा यस क्लबको केही प्रतिस्पर्धाहरु लामो समयदेखि कायम छन, ती मध्ये एल क्लासिको र म्याड्रिड डर्बी चर्चित छन।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 491,
+    "text_length_avg": 198.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9754,
+      "Latin": 0.0246
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4063,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9754,
+      "Latin": 0.0246
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27535.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\27535.txt",
+    "relative_path": "archive (2)\\valid\\valid\\27535.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4063,
+    "mtime": 1782796641.2478204,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "32684a9bacec6503647017146735fe38928ab608",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

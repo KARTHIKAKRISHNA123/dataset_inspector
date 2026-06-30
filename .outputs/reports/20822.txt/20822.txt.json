@@ -1,0 +1,92 @@
+{
+  "dataset": "20822.txt",
+  "file_name": "20822.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वि.सं 2052 सालबाट सरोद बजाउन थालेकी रूपाले गुरू मोहनसुन्दर जोशीबाट सरोदको कखरा सिकेकी हुन् भने पछि सुरेशराज बज्राचार्यबाट पनि सरोदको थप ज्ञान लिइन्। सानैदेखि शास्त्रीय संगीत रुचाउने रूपा संगीतको मोहका कारण साम्वदेव सापकोटासँग हार्मोनीयम सिकेकी थिइन्। तीन वर्षसम्म कलानिधिमा भोकल सिक्दासिक्दै रूपा वाद्यवादनतर्फ लागिन्। संगीत साधकहरूको सरोदमा लाग्ने सल्लाहअनुसार उनी सरोदवादनमा लागिन्।",
+    "नेपालमा सरोद, ईशराजजस्ता वाद्यवादन मानिस अत्यन्त कम छन्। बजाउन गार्‍हो हुने भएकाले पनि यसो भएको होला भन्ने रूपाको विचार छ। नङ सजाउनेहरूले वाद्यवादन सिक्न सक्दैनन्। आँखाअघि जे देख्यो त्यो लोकप्रिय हुने भएकाले पनि अरू वाद्यवादनको तुलनामा यो अलि पछि परेको उनको अनुमान छ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 267,
+    "text_length_max": 384,
+    "text_length_avg": 325.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1757,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20822.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20822.txt",
+    "relative_path": "20822.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20822.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1757,
+    "mtime": 1782796493.4987843,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "7571e94942e71c0c6d96336485f6adca926a3caa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

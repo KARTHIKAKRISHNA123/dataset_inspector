@@ -1,0 +1,91 @@
+{
+  "dataset": "11666.txt",
+  "file_name": "11666.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल विद्यार्थी संघ हाल क्रियाशील रहेका विद्यार्थी संगठनहरूमध्ये सबैभन्दा पुरानो विद्यार्थी संगठन हो नेपाल विद्यार्थी संघ। तत्कालीन समयमा दलीय राजनीतिलाई प्रतिबन्ध लगाईएको बेलामा नेपाली काँग्रेसले आफ्नो बहुदलीय एजेण्डालाई स्थापना गराउने उद्देश्यले आफ्नो विचारसँग सहमत विद्यार्थीहरूलाई शैक्षिक एजेण्डामा टेकेर विद्रोह गर्न नेपाल विद्यार्थी संघको स्थापना वि सं 2027 सालमा भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 381,
+    "text_length_max": 381,
+    "text_length_avg": 381.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1038,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11666.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11666.txt",
+    "relative_path": "11666.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11666.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1038,
+    "mtime": 1782796450.4432678,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3d7e0f9bd51935a05562b297cc6f95ae902e5a33",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

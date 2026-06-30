@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "1925.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उजीरिसंह थापाले बनाएको यो मन्दिरको छुट्टै विशेषता छ। आफ्ना साना फौजको प्रयोगद्वारा ब्रिटिस इण्डिया कम्पनीलाई पराजित गरेमा मन्दिर बनाउने भाकल गरी युद्धमा होमिएका उजिरिसंह थापाको फौजले तत्कालिन पाल्पाको जीतगढीमा अंग्रेजहरूलाई परास्त गर्न सफल भए पछि बनाइएको यो मन्दिरमा विजयउत्सव कै प्रतिकस्वरूप प्रत्येक बर्ष भाद्र कृष्ण नवमीको दिन विशाल रथयात्रा उत्सव मनाइन्छ। विसं 1990मा पुरानो मन्दिर भत्किकोले यसको पुनः निर्माण गरिएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 424,
+    "text_length_max": 424,
+    "text_length_avg": 424.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1145,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1925.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\1925.txt",
+    "relative_path": "archive (2)\\valid\\valid\\1925.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1145,
+    "mtime": 1782796624.8537395,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "085888aca7bf219d54ea58dfca6fa11fb59cd183",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "27276.txt",
+  "file_name": "27276.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिसेल ओबामा अमेरिकाको 44औ तथा वर्तमान राष्ट्रपति बाराक ओबामाको श्रीमती तथा पहिलो एफ्रो-अमेरिकी प्रथम महिला हुन् । उनी दक्षिणी सिकागोमा हुर्केकी हुन् । उनले आफ्नो स्नातकको पढाई प्रिन्सटन तथा हावर्ड विश्वविद्यालयबाट गरेकी छिन् । उनी सिड्नी अस्टिन नामक कानुनी संघमा कार्य गर्दा समयमा बाराक ओबामा सँग भेटेकी थिइन् । पछी उनले सिकागोका मेयर रिचार्ड डेलीसँग कार्य गरिन तथा सिकागो मेडिकल सेन्टरमा समेत कार्य गरिन ।",
+    "ओबामाको जन्म जनवरी 17, सन् 1964 मा इलनोइसिसमा बाबू रोबिनसन र आमा मारियनका रुपमा भयो । उनकै अनुसार उनी पुरानै शैलीमा हुर्काइईन्, जहाँ आमा घरमा काम गर्छिन् र बाबू काममा । उनका दाजु पूर्व बास्केटबल खेलाडी थिए । उनका अनुसार उनले लैङ्गकि असामनता सुरुका वर्षहरूमा खेपिन् जसमा अरुले उनको दाजुको मात्रै राय लिने गर्थे ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 91,
+    "text_length_max": 406,
+    "text_length_avg": 249.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3266,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27276.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27276.txt",
+    "relative_path": "27276.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27276.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3266,
+    "mtime": 1782796522.9668078,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "a975c290c52bdbfe317c7c7f35adc51eb9615263",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

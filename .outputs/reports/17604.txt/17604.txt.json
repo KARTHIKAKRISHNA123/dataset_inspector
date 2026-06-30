@@ -1,0 +1,91 @@
+{
+  "dataset": "17604.txt",
+  "file_name": "17604.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली साहित्यको कृष्णभक्ति धाराका कविहरूमा इन्दिरस, विद्यारण्यकेशरी अर्याल, वसन्त शर्मा, यदुनाथ पोखर्याल, पतञ्जली गजुर्याल, वीरशाली पन्त, हीनव्याकरणी विद्यापति प्रभृति कविहरूको नाम लिने गरेको पाइन्छ । मूलतः यी कविहरूले संस्कृत धार्मिक ग्रन्थहरूको अध्ययन मनन गरी कविताका माध्यमद्वरा अध्यात्म चेतनाको सन्देश जनमानसमा पुर्याउने काम गरेको देखिन्छ । यी कविका धेरैजसो कृतिहरू संस्कृत ग्रन्थका अनुवाद हुन् । माथिका कविहरूमध्ये इन्दिरस र विद्यारण्यकेशरी जस्ता कविले मूलको शैली र भावको अधिकतम अनुसरण गरेको पा"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 715,
+    "text_length_max": 715,
+    "text_length_avg": 715.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1930,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17604.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17604.txt",
+    "relative_path": "17604.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17604.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1930,
+    "mtime": 1782796478.2020895,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e6b3efd28ad2ff03e92c3a022f74ae308ef640f0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "31326.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शारीरिकी, शारीर या शरीररचना-विज्ञान, जीव विज्ञान र आयुर्विज्ञानको एक शाखा हो जसको अन्तर्गत कुनै जीवित वस्तुको विच्छेदन कर, उनको अंग प्रत्यंगको रचनाको अध्ययन गरिन्छ। अचलमा वनस्पतिजगत तथा चलमा प्राणीजगतको समावेश हुन्छ, र वनस्पति र प्राणीको सन्दर्भमा यसलाई क्रमश: पादप शारीरिकी र जीव शारीरिकी भनिन्छ। जब कुनै विशेष प्राणी अथवा वनस्पतिको शरीररचनाको अध्ययन गरिन्छ, तब यसलाई विशेष शारीरिकी अध्ययन भन्दछन्। जब कुनै प्राणी या वनस्पतिको शरीररचनाको तुलना कुनै दोस्रो प्राणी अथवा वनस्पतिको शरीररचना से गरिन्छ उन",
+    "व्यावहारिक या लौकिक दृष्टि से मानव शरीररचनाको अध्ययन अत्यन्त नै महत्वपूर्ण है। एक चिकित्सकको शरीररचनाको अध्ययन धेरै दृष्टि से गरन हुन्छ, जस्तै रूप, स्थिति, आकार एवं अन्य रचनाहरू से संबंध।"
+  ],
+  "statistics": {
+    "records_sampled": 33,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 629,
+    "text_length_avg": 117.97,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 10352,
+    "estimated_records": 87
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 87,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31326.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\31326.txt",
+    "relative_path": "archive (2)\\valid\\valid\\31326.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 10352,
+    "mtime": 1782796648.7799566,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6b8e442b4c4ba6c2dcd74df1567a2540df8f7c5a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

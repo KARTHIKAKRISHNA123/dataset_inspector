@@ -1,0 +1,91 @@
+{
+  "dataset": "4497.txt",
+  "file_name": "4497.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "वैज्ञानिक माइकल फराडको जन्म सन् 1791 मा बेलायतको न्युविन्गटनमा भएको थियो । उनी जन्मदै साह्रै कमजोर थिए र बिरामी परिरहन्थे । पाँच वर्षको उमेरमा मेन्चेस्टर सहरको स्कुलमा फराडेले पढ्न थाले तर स्कुलको पढाइ राम्रो थिएन । शिक्षकहरु पनि निर्दयी थिए । उनलाई स्कुल जान मन लागेन । तेह्र वर्षकै उमेरमा फराडेले स्कुल जान छाडे । घरको आर्थिक अवस्था कमजोर भएकोले उनी एक पुस्तक पसलमा काम गर्न गए । त्यहाँ उनले किताबमा गाता हाल्ने काम सँगै उनी किताब पनि पढ्थे । विज्ञानका किताबहरु त उनी पाए सम्म पढ्थे।फराडेले किताब प"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1318,
+    "text_length_max": 1318,
+    "text_length_avg": 1318.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3479,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4497.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4497.txt",
+    "relative_path": "4497.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4497.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3479,
+    "mtime": 1782796579.9709458,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c8fc627621a1eacab5335cb6be203e6e38e3d1b9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

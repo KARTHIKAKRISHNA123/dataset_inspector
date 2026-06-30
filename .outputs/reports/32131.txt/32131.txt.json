@@ -1,0 +1,92 @@
+{
+  "dataset": "32131.txt",
+  "file_name": "32131.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पशुपति प्रसाद सन् 2016 को दिपेन्द्र के. खनालद्वारा निर्देशित नेपाली सामाजिक कथानक चलचित्र हो ।",
+    "सिन्धुपाल्चोक घर भएका पशुपति प्रसाद काठमाडौको पशुपति क्षेत्रमा मितबालाई भेट्न आइपुग्छन् । मितबाले नचिनेपछि, पशुपतिको जन्म उनको आमाबाबुले पशुपति क्षेत्रमा दर्शन पश्चात् मात्र जन्म भएकाले उनको नाउँ मितबाले नै पशुपति राखिदिएको कुरा बताउँछन् । उनका मितबाले उनलाई सँगैँ लिएर जान्छन् । भूकम्पमा आमाबाबुको मृत्यु भएको र 50 हजार ऋण तिरेर मात्र मृत आमाबाबुको अस्तु सेलाउने थप कुरा बताउँछन् । आफू विदेश नजाने र गाउँको चियापसल पनि राम्रोसँग नचलेको कुरा पनि मितबालाई बताउँछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 75,
+    "text_length_max": 741,
+    "text_length_avg": 355.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5692,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32131.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32131.txt",
+    "relative_path": "32131.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32131.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5692,
+    "mtime": 1782796545.7093737,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0fbf9b11254d901aa699b7995379e7ee5c8d2d32",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

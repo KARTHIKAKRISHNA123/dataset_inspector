@@ -1,0 +1,92 @@
+{
+  "dataset": "12154.txt",
+  "file_name": "12154.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कैलाली र कंचनपुर सुदूरपश्चिमाञ्चल विकासक्षेत्र नेपालका पाँच विकासक्षेत्रमध्येको एक विकासक्षेत्र हो । यस विकासक्षेत्रमा कैलाली, कंचनपुर, डोटी, डडेल्धुरा जिल्ला, अछाम, बाजुरा, बझांग, दार्चुला र बैतडी गरेर नौ जिल्लाहरू रहेका छन् । 19539 बर्ग किलो मि क्षेत्रफलमा फैलिएको सुदूरपश्चिमाञ्चलको राष्ट्रिय जनगणना 2068 अनुसार 25 लाख 52 हजार 5 सय 17 जनसङ्ख्या छ । विकासको दृष्टिले धेरै पछाडी परेको मानिने यहाँको हिमाली र पहाडी क्षेत्रमा 44 - 49% सम्म गरिबीको रेखामुनी रहेका मानिसहरु बसोबास गर्दछन् । यहाँका हिमाल",
+    "सुदूरपश्चिमको इतिहास पुर्बी नेपालको तराई भन्दा एकदमै फरक छ । यहाँको पौराणिक, पुरातात्विक तथा ऐतिहासिक र आधुनिक बिषयमा बुँदागतरुपमा यहाँ उल्लेख गरिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 4557,
+    "text_length_avg": 1493.91,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 87254,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12154.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12154.txt",
+    "relative_path": "12154.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12154.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 87254,
+    "mtime": 1782796452.6681936,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a66ff46af31b8e81d651dcf6c3e0dc2f475cf5a3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

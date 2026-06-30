@@ -1,0 +1,94 @@
+{
+  "dataset": "18602.txt",
+  "file_name": "18602.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्वकै सबैभन्दा ठूलो र प्रतिष्ठित मानिने 'नोबेल शान्ति पुरस्कार' यस वर्ष अर्थात् सन् 2011 का लागि तीनजना नारीलाई संयुक्त रूपमा प्रदान गरियो । यो पुरस्कारको राशि करिब 10 करोड नेपाली रूपैयाँ बराबर हुन्छ । पुरस्कारको इतिहासमै पहिलो पटक एकैपटक तीनजना महिलालाई नोबेल शान्ति पुरस्कार प्रदान गरिएको यसै वर्ष हो । पुरस्कृत महिलामध्ये एक एलन जोन्सन सर्लिफ लाईबेरियाकी राष्ट्रपति हुन्, अर्की विजेता लेमाह जिबोवी पनि लाईबेरियाकै महिला अधिकारकर्मी एवं सामाजिक-राजनीतिक नेतृ हुन् भने अर्की विजेता यमनकी अत्यन्तै ",
+    "स्मरणीय छ, यसअघि एकपटक मात्र सन् 1994मा सिमोन पेरेज, यित्ज्याक रबिन र यासेर अराफात गरी तीनजनाले संयुक्त रूपमा नोबेल शान्ति पुरस्कार पाएका थिए । उनीहरू तीनैजना पुरुष थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 1213,
+    "text_length_avg": 636.54,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.999,
+      "Latin": 0.001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 22054,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18602.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18602.txt",
+    "relative_path": "18602.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18602.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 22054,
+    "mtime": 1782796482.9223163,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "60acffac82a3e92412cc79458e68fa9e0ff3cb8e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

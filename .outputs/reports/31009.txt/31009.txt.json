@@ -1,0 +1,91 @@
+{
+  "dataset": "31009.txt",
+  "file_name": "31009.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नमस्ते झरना धनकुटाको भेडेटार गाउँ विकास समितिमा रहेको छ। नमस्ते झरना आन्तरिक पर्यटकका लागि आकर्षक गन्तब्य बन्दै गएको छ। पूर्वको प्रमुख पर्यटकीयस्थल भेडेटारभन्दा आठ किलोमिटर टाढा सिम्सुवामा रहेको करिब 80 मिटरको झरना हेर्न आउने आन्तरिक पर्यटकको सख्या वढ्दै गएको छ। धनकुटा, झापा, मोरङ, सुनसरीलगायतका जिल्लाबाट हरेकवर्ष ठूलो संख्यामा मानिसहरु नमस्ते झरना हेर्न पुग्ने गरेका छन्। यो झरना करिव 50 मीटर माथिबाट खस्दछ। यो झरना हेर्न जति नजिक गयो त्यति हराउदै जान्छ कारण यो अग्लो ठाउँबाट झर्ने र त्यसको आसपासम"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1246,
+    "text_length_max": 1246,
+    "text_length_avg": 1246.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3327,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31009.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31009.txt",
+    "relative_path": "31009.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31009.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3327,
+    "mtime": 1782796540.4794943,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3964783b0dbdf88b1cc466a0b6fdf4b8d12998f2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

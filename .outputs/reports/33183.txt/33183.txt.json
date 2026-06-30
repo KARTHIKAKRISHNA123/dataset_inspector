@@ -1,0 +1,92 @@
+{
+  "dataset": "33183.txt",
+  "file_name": "33183.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "झिनाइदह जिल्ला बङ्गलादेशको दक्षिण-पश्चिममा पर्ने एक प्रमुख जिल्ला हो । यो जिल्ला खुल्ना विभागमा पर्छ ।",
+    "प्रशासन ब्रिटिश शासन को शुरुवात मा झिनाइदह एक पुलिस थानाको रुपमा रहेमो थियो भने सन् 1794 मा यो स्थान एक ठूलो कारागारको रुपमा परिणत भएको थियो । झिनाइदह उप विभाजनको स्थापना सन् 1863 मा गरिएको थियो भने सन् 1984 मा एक जिल्लाको रुपमन परिवर्तन भएको थियो । खुल्ना विभागको 10 जिल्ला मध्ये झिनाइदह जिल्ला 5 अौँ स्थानमा पर्छ भने बङ्गलादेशको 64 जिल्ला मध्ये 34 अौँ स्थानमा रहेको छ । यस जिल्लामा रहेको छौटौँ उपजिल्ला मध्ये झिनाइदेह सदर सबैभन्दा ठूलो उपजिल्ला हो जसले 467.75 वर्ग किलोमिटर अोगटेको छ । यस उपजिल्लाल"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 102,
+    "text_length_max": 583,
+    "text_length_avg": 331.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4955,
+    "estimated_records": 14
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 14,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33183.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33183.txt",
+    "relative_path": "33183.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33183.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4955,
+    "mtime": 1782796550.4176147,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c1969e322efd6eff91fe229274bb41d515cc5012",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "36383.txt",
+  "file_name": "36383.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साँखेजुङ इलाम जिल्लाको मध्य-उत्तरी भेकमा अवस्थित एक इलाम नगरपालिका को वडा नंः 1 हो । यश वडाको सदरमुकाम नेपालटार हो । नेपालटार इलाम सदरमुकाम बाट करिब 18 कि मि उत्तरमा पर्छ । यहाको मुख्य आयस्रोत भनेको चिया र दूध हो । यहाका अधिकांश मानिस कृषि पेसामा आबद्ध छन् । यहाँ 2 वटा ठुला चिया प्रशोधन कारखाना छन् लगभग 9 वटा जति साना कारखाना रहेका छन् । यश वडामा 1 माध्यमिक 1 नि. मा. बि. र 2 वटा सामुदायिक बिद्यालय हरु छन् । यस वडामा सदरमुकाम भएर मेची राजमार्ग इलामबाट पाँचथर तर्फ गएको छ । ",
+    "==सन्दर्भ सामग्रीहरू= इलाम जिल्ला रजिस्ट्रार कार्यलय"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 52,
+    "text_length_max": 476,
+    "text_length_avg": 264.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1360,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36383.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36383.txt",
+    "relative_path": "36383.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36383.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1360,
+    "mtime": 1782796565.1656291,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "c45db7bfb18dc3e70164af29708a83aad1e57ba2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

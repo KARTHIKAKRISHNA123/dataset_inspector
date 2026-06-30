@@ -1,0 +1,92 @@
+{
+  "dataset": "810.txt",
+  "file_name": "810.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एकिकृत नेकपा माओवादीको तर्फबाट काभ्रेपलाञ्चोकल क्षेत्र नम्बर 1 बाट विजयी संविधान सभा सदस्य सूर्यमान दोङ पार्टीको सही राजनीतिक विचार धारा र कार्यदिशा नै आफ्नो विजयको कारण भएको मान्नुहुन्छ। ",
+    "2041 सालमा नेकपा को राजनीतिबाट राजनीतिका यात्रा सुरू गरेका दोङ माओवादीका काभ्रे इन्चार्ज पनि हुनुहुन्छ। 2027 साल बैशाख 1 गते काभ्रेको मेच्छेमा जन्मेका दोङ 2052 सालमा माओवादीले जनयुद्ध थालेपछि नै भूमिगत हुनुभएको थियो। सामान्य किसान परिवारमा जन्मेका दोङ राजनीतिमा स्नातकोत्तर तह सम्मको अध्ययन गर्नुभएको छ। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 188,
+    "text_length_max": 358,
+    "text_length_avg": 283.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2281,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "810.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\810.txt",
+    "relative_path": "810.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "810.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2281,
+    "mtime": 1782796597.631189,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7f654e8d59db67302ae4c3ac0cc3c3654a52d38e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "19230.txt",
+  "file_name": "19230.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल्लो वा चाल्ने सिस्नो नेपालको पहाडी भूभागका जङ्गलहरूका खुल्ला स्थान, खोला तथा बाटोको छेउछाउका ओसिलो स्थानमा पाइने वनस्पति हो। बहुवर्षीय पोथ्रा वर्गमा पर्ने यो वनस्पति 3 मिटरसम्म अग्लो हुने गर्दछ। सिस्नो जस्तै देखिए पनि अल्लो 1200 मिटरभन्दा माथि मात्रै पाइन्छ। यो वनस्पतिको जमिन माथिको भाग मसिना तिखा विषालु काँडाहरूले ढाकेको हुन्छ। काण्डको बोक्राबाट प्राप्तहुने रेसा नरम, बलियो र चम्किलो हुने भएकोले यसको रेसा धागो उत्पादनमा प्रयोग गरिन्छ। अल्लो धागोबाट जुत्तादेखि टोपीसम्मका विभिन्न कपडा,झोला आदि ब",
+    "अल्लो नेपालका विभिन्न स्थानमा पुवा, ठूलो सिस्नो, लेकाली सिस्नो, भांग्रे सिस्नो, भल्लो आदि नामले चिनिन्छ भने अङ्ग्रेजीमा जायन्ट हिमालयन नेटल तथा निलगिरी नेटल नामले चिनिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 725,
+    "text_length_avg": 262.7,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9892,
+      "Latin": 0.0108
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7028,
+    "estimated_records": 26
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 26,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9892,
+      "Latin": 0.0108
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19230.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19230.txt",
+    "relative_path": "19230.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19230.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7028,
+    "mtime": 1782796486.0592957,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "4d38b283c61c56ba09c269f04f6a929a26ef5cd5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

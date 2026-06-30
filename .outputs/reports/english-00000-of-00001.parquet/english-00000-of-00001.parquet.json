@@ -1,0 +1,123 @@
+{
+  "dataset": "english-00000-of-00001.parquet",
+  "file_name": "english-00000-of-00001.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "source",
+    "title",
+    "text",
+    "lang"
+  ],
+  "preview": [
+    "Jharkhand (Hindi: Jhārakhaṇḍa, pronounced [d͡ʒʱäːɾᵊkʰəɳɖᵊ]; lit. 'the land of forests') is a state in eastern India. The state shares its border with the states of West Bengal to the east, Chhattisgarh to the west, Uttar Pradesh to the northwest, Bihar to the north and Odisha to the south. It is the 15th largest state by area, and the 14th largest by population. Hindi is the official language of the state. The city of Ranchi is its capital and Dumka its sub-capital. The state is known for its wa",
+    "The term tribe is used in many different contexts to refer to a category of human social group. The predominant worldwide use of the term in English is in the discipline of anthropology. The definition is contested, in part due to conflicting theoretical understandings of social and kinship structures, and also reflecting the problematic application of this concept to extremely diverse human societies. Its concept is often contrasted by anthropologists with other social and kinship groups, being"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 11589,
+    "text_length_max": 44784,
+    "text_length_avg": 28186.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [
+      "en"
+    ],
+    "file_size_bytes": 35493,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "source",
+      "title",
+      "text",
+      "lang"
+    ],
+    "n_columns": 4,
+    "nested": false,
+    "text_column": "text",
+    "language_column": "lang",
+    "source_column": "source",
+    "target_column": null,
+    "metadata_columns": [
+      "title"
+    ],
+    "estimated_records": 2,
+    "raw_schema": {
+      "source": "str",
+      "title": "str",
+      "text": "str",
+      "lang": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.9,
+    "reasoning": "`lang` column holds 1 distinct language value(s): en; corroborated by 1 distinct script(s)",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "en",
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "columns": [
+      "source",
+      "title",
+      "text",
+      "lang"
+    ],
+    "n_columns": 4,
+    "num_rows": 2,
+    "num_row_groups": 1,
+    "arrow_schema": {
+      "source": "string",
+      "title": "string",
+      "text": "string",
+      "lang": "string"
+    }
+  },
+  "meta": {
+    "file_name": "english-00000-of-00001.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\english-00000-of-00001.parquet",
+    "relative_path": "english-00000-of-00001.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "english-00000-of-00001.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 35493,
+    "mtime": 1782736685.1079488,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "eb37e377a41b26f064d6fcd37af536081c32e4e4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

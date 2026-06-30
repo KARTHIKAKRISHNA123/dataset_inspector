@@ -1,0 +1,97 @@
+{
+  "dataset": "Konkani_fem_mono.txt",
+  "file_name": "Konkani_fem_mono.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "kok",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "train_konkanifem_0001\tहे रॅलींत वांटो घेतिल्ल्या स्पर्धकांची निवड कांय म्हयन्यां आदीं ड्रीम ज़ॉब्स येवजणे वरवीं केल्ली . ",
+    "train_konkanifem_0002\tज़ॉनबाबान जंय जंय प्रवेश केला थंय थंय पोटतिडकीन आनी सातत्यान वावर केला . "
+  ],
+  "statistics": {
+    "records_sampled": 7155,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 252,
+    "text_length_avg": 94.3,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7971,
+      "Latin": 0.2029
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1525521,
+    "estimated_records": 15737
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15737,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en",
+      "kok"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "kok",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.799,
+      "Latin": 0.201
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Konkani_fem_mono.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Konkani_fem_mono.txt",
+    "relative_path": "Konkani_fem_mono.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Konkani_fem_mono.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1525521,
+    "mtime": 1782796127.1921544,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7979561790ef6a51d04024ae782f7969312fe6bd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

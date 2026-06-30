@@ -1,0 +1,92 @@
+{
+  "dataset": "19052.txt",
+  "file_name": "19052.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सोनाम ल्होछार तामाङहरूले नयाँ वर्षको आरम्भको रूपमा मनाउने पर्व हो । प्रत्येक वर्ष माघ महिनाको शुक्ल पक्षमा पर्ने प्रतिपदा तिथीको दिन मनाइने सोनाम ल्होछार र चिनिया नयाँ बर्ष एकै दिन मनाइन्छ ।",
+    "'ल्होछार' दुइ शब्द मिलेर बनेको छ । जसको अर्थ 'ल्हो' अर्थात् वर्ष वा साल भन्ने हुन्छ भने 'छार' वा 'सार'को अर्थ नयाँ भन्ने हुन्छ । यसैले ल्होसारको अर्थ 'नयाँ वर्ष वा नयाँ साल भन्ने बुझिन्छ र, यसै अनुरूप यस चाडलाई मनाउने गरिन्छ । ल्होसार मनाउने समुदायले यस्ता 'ल्हो' अर्थात वर्ष बाह्रवटा भएको विश्वास गर्छन् । बाह्र वर्षको नाम पशुपंछी र जीवजन्तुका नामबाट राखिएको हुन्छ । जस्तै : मुसा, गाई, बाघ, बिरालो, गरुड, सर्प, घोडा, भेडा, बाँदर, चरा, कुकुर, सुँगुर वर्ष । यी बाह्र वर्गलाई यो समुदायले बाह्र राशिको र"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 190,
+    "text_length_max": 592,
+    "text_length_avg": 391.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2028,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19052.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19052.txt",
+    "relative_path": "19052.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19052.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2028,
+    "mtime": 1782796485.1973426,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "8be226bb72bbc113e9a174794150e4f7d66b086f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

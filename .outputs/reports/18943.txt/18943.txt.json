@@ -1,0 +1,93 @@
+{
+  "dataset": "18943.txt",
+  "file_name": "18943.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राहुल गान्धी एउटा भारतीय नेता र भारतको संसदका सदस्य हुन, भारतीय संसदको तल्लो सदन लोकसभामा उत्तर प्रदेशमा स्थित अमेठी निर्वाचन क्षेत्रको प्रतिनिधित्व गर्दछन । राहुल गान्धी भारतीय राष्ट्रिय कांग्रेस सँग संबद्ध छन्। राहुल त्यस नेहरू-गान्धी परिवारका सदस्य हुन्, जुन भारतको सबैभन्दा प्रमुख राजनीतिक परिवार हो । राहुललाई सन् 2009 को साधारण निर्वाचनमा कांग्रेसलाई प्राप्त भएको ठूलो जीतको श्रेय दिईएको छ । उनको राजनीतिक रणनीतिमा जमीनी स्तरलाई सक्रियतालाई बल दिनु, ग्रामीण भारतीयसँग गहिरो सम्बन्ध स्थापित गर्न",
+    "राहुल गान्धीको जन्म 19 जून 1970 मा नयाँ दिल्लीमा भएको थियो उनका पिता भारतको पूर्व प्रधानमन्त्री राजीव गान्धी र वर्तमान काँग्रेस अध्यक्ष श्रीमती सोनिया गान्धी हुन् । उनी आफ्नो माता पिताको दुई सन्तानहरूमा ठूलो हुन र प्रियंका गान्धी वाड्राका दाजु हुन । राहुलको हजुरआमा भारतको पूर्व प्रधानमन्त्री ईन्दिरा गान्धी थिईन । "
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 40,
+    "text_length_max": 1801,
+    "text_length_avg": 427.76,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 23698,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18943.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18943.txt",
+    "relative_path": "18943.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18943.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 23698,
+    "mtime": 1782796484.705063,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "60a28e05ba57c339a578ef10c0169bf4b698106d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

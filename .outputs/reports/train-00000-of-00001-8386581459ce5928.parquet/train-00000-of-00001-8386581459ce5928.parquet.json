@@ -1,0 +1,119 @@
+{
+  "dataset": "train-00000-of-00001-8386581459ce5928.parquet",
+  "file_name": "train-00000-of-00001-8386581459ce5928.parquet",
+  "source": "unknown",
+  "file_type": "parquet",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "ta",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "Unnamed: 0",
+    "en",
+    "ta"
+  ],
+  "preview": [
+    "He had a pretty good voice. ",
+    "அவன் இப்போது பாடிக் கொண்டிருந்த பாட்டை இதற்கு முன்பு ஒரே ஒரு முறைதான் கேட்டிருக்கிறான். "
+  ],
+  "statistics": {
+    "records_sampled": 100000,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 1016,
+    "text_length_avg": 114.58,
+    "duplicate_estimate": 291,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Tamil": 0.8847,
+      "Latin": 0.1153
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 98824257,
+    "estimated_records": 506849
+  },
+  "schema": {
+    "columns": [
+      "Unnamed: 0",
+      "en",
+      "ta"
+    ],
+    "n_columns": 3,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": "en",
+    "target_column": null,
+    "metadata_columns": [
+      "Unnamed: 0",
+      "ta"
+    ],
+    "estimated_records": 506849,
+    "raw_schema": {
+      "Unnamed: 0": "int",
+      "en": "str",
+      "ta": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Tamil",
+    "languages_seen": [
+      "ta"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "ta",
+    "dominant_script": "Tamil",
+    "script_distribution": {
+      "Tamil": 0.8859,
+      "Latin": 0.1141
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "columns": [
+      "Unnamed: 0",
+      "en",
+      "ta"
+    ],
+    "n_columns": 3,
+    "num_rows": 506849,
+    "num_row_groups": 507,
+    "arrow_schema": {
+      "Unnamed: 0": "int64",
+      "en": "string",
+      "ta": "string"
+    }
+  },
+  "meta": {
+    "file_name": "train-00000-of-00001-8386581459ce5928.parquet",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\train-00000-of-00001-8386581459ce5928.parquet",
+    "relative_path": "train-00000-of-00001-8386581459ce5928.parquet",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "train-00000-of-00001-8386581459ce5928.parquet",
+    "source": "unknown",
+    "extension": "parquet",
+    "file_type": "parquet",
+    "mime_type": "application/vnd.apache.parquet",
+    "compression": "none",
+    "size_bytes": 98824257,
+    "mtime": 1782737153.1417758,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "217f338e242cb0e7784b0b7d8caca8b695c7dfa2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

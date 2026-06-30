@@ -1,0 +1,94 @@
+{
+  "dataset": "6582.txt",
+  "file_name": "6582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्तरी सिक्किम भारतीय राज्य सिक्किमको एक जिल्ला हो। यसको सदरमुकाम मंगन हो। यो सिक्किमको चार जिल्लाहरूमा सबै भन्दा ठूलो छ। विश्वमा मंगन अलैँची राजधानीको रूपमा पनि जानिन्छ। यहाँ ठूलो मात्रामा विभिन्न प्रकारको अलैँची खेती गर्न जलवायु र भु-प्रदेश एकदमै उपयुक्त छ।",
+    "जनता मुख्यतया नेपाली मूलका छन्। अन्य जातीय समूहहरूमा लेप्चा र भूटिया समुदायहरू शामिल छन्। नेपाली जिल्लामा सबै भन्दा व्यापक रूपले बोलीने भाषा हो। यो पनि जनसङ्ख्या भएको राज्यको क्षेत्रमा पर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 191,
+    "text_length_max": 673,
+    "text_length_avg": 372.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9842,
+      "Latin": 0.0158
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5851,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9842,
+      "Latin": 0.0158
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6582.txt",
+    "relative_path": "6582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6582.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5851,
+    "mtime": 1782796590.3820584,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "9fb48a0eacafc23d25dab7cec13b3346273694a4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

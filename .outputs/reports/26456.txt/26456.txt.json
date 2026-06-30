@@ -1,0 +1,94 @@
+{
+  "dataset": "26456.txt",
+  "file_name": "26456.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोङखा भाषा भूटानमा बोलिने राष्ट्रिय भाषा वा प्रमुख भाषा हो। यो भाषा तिब्बती भाषा साथ निकै मिल्दोजुल्दो रहेको छ। यो भाषाको लागि प्रयोग गर्ने लिपि सम्भोट लिपि हो। तिब्बती व्याकरणको तुलनामा जोङखा व्याकरण नेपाली र हिन्दी व्याकरण जतिकै फरक रहेको देखिन्छ।",
+    "17औं शताब्दी देखि जोङखा भाषा भूटानमा लोकप्रिय संचार-भाषाको रूपमा प्रयोग गरिएको छ। सन् 1971 मा भुटानको तेस्रो राजा जिगमेद दोर्जे वाङछ्युग द्वारा जोङखालाई भुटानको राष्ट्रिय भाषा घोषणा गरे। पहिले पनि जोङखा भाषा औपचारिक लेखनमा प्रतिबद्ध थियो। राष्ट्रिय भाषामा घोषणा भए देखि भुटानको विद्यालयहरूमा एउटा छुट्टै विषयमा राखेर पढाउने सुरुवात गरेको थियो र सन् 1986 मा भुटानको चौथो राजा जिगमेद सेङगे वाङछ्युग द्वारा जोङखाको उन्नतिको लागि एउटा स्वतन्त्र सरकारी कार्यालयको रूपमा जोङखा विकास आयोग को स्थापना पनि गरे"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 31,
+    "text_length_max": 695,
+    "text_length_avg": 325.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9645,
+      "Latin": 0.0355
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2555,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9645,
+      "Latin": 0.0355
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26456.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26456.txt",
+    "relative_path": "26456.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26456.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2555,
+    "mtime": 1782796519.2052054,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "3681f51dccba323d3b18c8e0cc146893c44a77f3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

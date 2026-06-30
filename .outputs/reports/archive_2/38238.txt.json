@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "38238.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोशन अफगानिस्तानको एक अग्रणी दुरसञ्चार प्रदायक हो जसले लगभग 6 मिलियन सक्रिय ग्राहकहरुलाई सेवा दिएको छ । यसको मुख्यालय अफगानिस्तानको काबुलमा अवस्थित छ ।",
+    "जनवरी 2003 मा, रोशनलाई अफगानिस्तानमा दोस्रो, जीएसएम अनुमति पत्रद्वरा सम्मानित गरियो । त्यस बेला 1 दशक लामो गृहयुद्धको कारण अफगानिस्तानमा एकमात्र अर्को मोबाइल फोन सञ्चालक थियो । देशमा दुरसञ्चार पूर्वाधारको अत्यन्त कमी थियो । तालिबानको पतन हुनु भन्दा पहिला, फोन लाइनहरू जनताहरूमा पहुँचयोग्य थिएन, र मानिसहरू अन्तर्राष्ट्रिय कल गर्नको लागी विदेश भ्रमण गर्ने गर्दथे ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 363,
+    "text_length_avg": 223.22,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5286,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38238.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\38238.txt",
+    "relative_path": "archive (2)\\valid\\valid\\38238.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5286,
+    "mtime": 1782796662.638241,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c71e6613d92a48380a1d2035bba4e9af67eba384",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

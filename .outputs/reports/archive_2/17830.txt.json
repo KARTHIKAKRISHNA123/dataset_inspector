@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "17830.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पुष्प नेपाली नेपालका वरिष्ठ गायक, गीतकार तथा संगीतकार हुन्।उनलको वास्तविक नाम पुष्प जोशी हो। ",
+    "पुष्प जोशीको जन्म काठमाडौंमा भएको हो। उनी पृथ्वीलाल र कृष्णकुमारी जोशी का तीन छोरा र चार छोरी मध्ये कान्छा हुन्। उनका पिता पृथ्वीलाल जोशी पनि नेवारी धिमे वाजा बजाउने शिल्पी थिए। पुष्प नेपाली उनका जेठा दाजु उस्ताद विष्णुलाल जोशीको प्रेरणाले संगीतमा लागेका थिए।उनि सानै देखि संगीत, गायन, शव्द रचना तथा नाटकमा पनि अग्रसर भएर। उनी 17 वर्षको उमेरमा भरत गएर नेपालको राणा शासन बिरूद्ध लडेको मुक्तिसेनामा पनि भर्ति भएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 465,
+    "text_length_avg": 243.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3875,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17830.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\17830.txt",
+    "relative_path": "archive (2)\\valid\\valid\\17830.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3875,
+    "mtime": 1782796622.0741403,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b4af1d895c4ae369119d931db4c47a85e8ad88c6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

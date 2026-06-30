@@ -1,0 +1,96 @@
+{
+  "dataset": "10432.txt",
+  "file_name": "10432.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सेभिए एक गाउँ हो । जुन् मेदिना काउन्टी, ओहायो, संयुक्त राज्य अमेरिकामा पर्दछ । 2000 जनगणना अनुसार, यहाँको जन संख्या 2,160 थियो ।",
+    "सेभिएको अवस्थिति 41°0′56″ उत्तर 81°51′52″ पश्चिम / 41.01556° उत्तर 81.86444° पश्चिम / 41.01556; -81.86444Invalid arguments have been passed to the {{#coordinates:}} function रहेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 39,
+    "text_length_max": 418,
+    "text_length_avg": 180.54,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6745,
+      "Latin": 0.3255
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4562,
+    "estimated_records": 25
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 25,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6745,
+      "Latin": 0.3255
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10432.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10432.txt",
+    "relative_path": "10432.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10432.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4562,
+    "mtime": 1782796444.5757093,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "ffb40dd9f9c83b3c21eabcf1fd8ecf0c19718662",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

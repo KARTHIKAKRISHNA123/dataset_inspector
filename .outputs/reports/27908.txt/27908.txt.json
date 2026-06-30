@@ -1,0 +1,94 @@
+{
+  "dataset": "27908.txt",
+  "file_name": "27908.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नवक्लासिकल वा नवशास्त्रीय विचारको प्रतिपादन प्रसिद्ध अर्थशास्त्री अलफ्रेड मार्शलले गरेका हुन् । ",
+    "एड्म स्मिथ र उनका अन्य शास्त्रीय अर्थशास्त्र समर्थकहरुले अर्थशास्त्रको धन सम्बन्धी दिएको परिभाषा धनको विज्ञान ले समाजलाई निकृष्ट र दुखदायी बनाएर समाजका असन्तोष, आर्थिक, असमानता, निराशा र दरिद्रता जस्ता समस्या निम्त्याउने सम्भावना सूचित गर्न थाल्यो । अर्थशास्त्रको यस परिभाषामा मानिसलाई भन्दा धनलाई बढी महत्व दिएको छ । यो परिभाषाले अर्थशास्त्रलाई धेरै घृणित गरायो । यसरी अर्थशास्त्रलाई आलोचनाहरुबाट जोगाउन अलफ्रेड मार्शलले प्रयास गरे । उनले अर्थशास्त्रलाई राजनीतिबाट अलग गर्दै मानवीय व्यवहारको अध्ययनक"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 96,
+    "text_length_max": 1069,
+    "text_length_avg": 463.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9912,
+      "Latin": 0.0088
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11206,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9909,
+      "Latin": 0.0091
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27908.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27908.txt",
+    "relative_path": "27908.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27908.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11206,
+    "mtime": 1782796525.7480617,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0bfcfe7bcf3eb434161946d07deeaf8c899e681e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "23696.txt",
+  "file_name": "23696.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भिक्टर म्यारी ह्युगो फ्रान्सेली कवि, उपन्यासकार र नाटककार थिए । उनी फ्रान्सेली लेखकहरु मध्येका महान् मानिन्छन् । उनका ले कोतँप्लाँसो र ला लजों दे सिएसस् कविता संग्रह उच्च स्तरका मानिन्छन् । फ्रान्स बाहिर उनको ले मिजरबेल र नोथ्र देम दे पेरिस उपन्यास चर्चित छन् । उनका 4000 भन्दा बढी कोरिएका चित्रहरू राम्रा मानिन्छन् । उनी \"मृत्यु दण्ड\" हटाउन मदत गर्ने एक अभियन्ता मानिन्छन् । उनका कला-कृतिहरूले उनको समयको राजनीतिक र सामाजिक विषयहरूलाई छोएका छन् । उनको सम्मानमा फ्रान्सेली मुद्रामा उनको तस्बिर राखिएक",
+    "ह्युगो जोसेफ दम्पतीको तेस्रो छोराका रुपमा सन् 1802 मा जन्मिए । बाबू जोसेफ लियोपोल्ड नेपोलियन पक्षधरका थिए भने आमा सोफि क्याथोलिक थिइन् । ह्युगोको बाल्यकाल फ्रान्सको राजनीतिक उथलपुथलमा रह्यो, ह्युगो जन्मेको 2 वर्षपछि नेपोलियन फ्रान्सको शासक बने । पछि ह्युगो तेह्र वर्षको हुदाँ बोर्बन साम्राज्य पुन: फर्कियो । ह्युगोको बाबू जोसेफ नेपोलियनको सैन्य पदाधिकारी हुनाले ह्युगोले विभिन्न ठाउँहरू घुम्न पाए । बाल्यकालमा ह्युगोले नेप्लस्, मेडिटेरिनियन र रोमहरू घुम्ने अवसर पाए । "
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 72,
+    "text_length_max": 614,
+    "text_length_avg": 350.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8844,
+      "Latin": 0.1156
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6786,
+    "estimated_records": 19
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 19,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8844,
+      "Latin": 0.1156
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23696.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23696.txt",
+    "relative_path": "23696.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23696.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6786,
+    "mtime": 1782796506.362375,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0a87b5253b46737d807646e94a6bc977a598a3ed",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

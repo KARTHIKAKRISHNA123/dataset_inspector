@@ -1,0 +1,94 @@
+{
+  "dataset": "22337.txt",
+  "file_name": "22337.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सियालकोट  पाकिस्तानको पञ्जाब प्रान्तको उत्तर-पर्वी क्षेत्रमा रहेको एक प्रमुख शहर हो । सियालकोट शहर पाकिस्तानको 13 अौँ ठूलो शहर हो भने पाकिस्तानका सबैभन्दा उधोग र कलकारखाना भएको शहर मध्य एक हो । यो नजिकका शहरले गुजराणवाला र गुजरातसँग एक अायात र निर्यातमा सम्झौता गरेको छ जसलाई एक सुनैलो त्रिभुज पनि भन्ने गरिन्छ ।",
+    "सियालकोट पहिला सिगलाको राज्य थियो भन्ने विश्वास गरिन्छ जसलाई ई.पू 326 मा म्यासेडोनियाका राजा अलेक्जेन्डर द ग्रेटदे अाक्रमण गरेर कब्जामा लिएका थिए त्यसपछि मिनन्दर प्रथमले दोस्रो शताब्दीमा यस शहरलाई इन्डो-ग्रिक राज्यको सदरमुकाम बनाएका थिए जुन समयमा शहर व्यापार र बौद्ध विचार को एक प्रमुख केन्द्र को रूपमा विकसित हुन थालेको थियो । सियालकोट एक प्रमुख राजनीतिक केन्द्र बन्ने क्रममा थियो र त्यसपछि ब्रिटिश युगको समयमा शहर फेरि पुनरुत्थान भयो र अहिले पाकिस्तानको सबैभन्दा महत्त्वपूर्ण औद्योगिक केन्द्र रुपमा"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 56,
+    "text_length_max": 511,
+    "text_length_avg": 307.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6518,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22337.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22337.txt",
+    "relative_path": "22337.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22337.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6518,
+    "mtime": 1782796500.326317,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "08cadaff52246e2a9b96726f09d8ed97971c78e8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

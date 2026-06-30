@@ -1,0 +1,92 @@
+{
+  "dataset": "25007.txt",
+  "file_name": "25007.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली पात्रो विक्रम सम्बतमा आधारित नेपालको राष्ट्रिय पात्रो हो। यो पात्रो नेपालको आधिकारिक पात्रो हो। यस अनुसार नयाँ बर्ष बैशाख 1 गते पर्दछ।हरेक बर्ष प्रकाशित हुने पात्रोले बर्षभरिका तिथि मिति, राष्ट्रिय दिवस, सांस्कृतिक दिवस, चाडपर्व, सार्वजनिक विदा लगायतका मितिहरू तय गर्दछ।",
+    "नेपालमा पात्रो अर्थात् क्यालेन्डर निर्माणका लागि पञ्चाङ्ग निर्णायक समिति नामक सरकारी निकाय रहेको छ। हरेक बर्ष यसले क्यालेण्डर गणना गरी पात्रो प्रकाशित गर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 157,
+    "text_length_max": 277,
+    "text_length_avg": 217.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1170,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25007.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25007.txt",
+    "relative_path": "25007.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25007.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1170,
+    "mtime": 1782796512.3179948,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "710bc83aaad1a70b6a5f59ffef1aa138c724cc5f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

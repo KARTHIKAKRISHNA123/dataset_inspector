@@ -1,0 +1,95 @@
+{
+  "dataset": "15442.txt",
+  "file_name": "15442.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एउटा सरल रेखाखण्ड AB मा अर्को बिन्दुबाट खिचिएको रेखाखण्ड CD ले बनाएको आसन्न कोणहरु   x 0   {\\displaystyle x^{0}} र   y 0   {\\displaystyle y^{0}} हुन् ।   x 0   {\\displaystyle x^{0}} +   y 0   {\\displaystyle y^{0}} =   180 0   {\\displaystyle 180^{0}} हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 257,
+    "text_length_max": 257,
+    "text_length_avg": 257.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5168,
+      "Latin": 0.4832
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 412,
+    "estimated_records": 1
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 1,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5168,
+      "Latin": 0.4832
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15442.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15442.txt",
+    "relative_path": "15442.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15442.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 412,
+    "mtime": 1782796467.5983937,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.935,
+    "sha1_quick": "869f9e85cbba9708c508a5ae4afd540ddd3f617d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

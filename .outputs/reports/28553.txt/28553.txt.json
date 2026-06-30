@@ -1,0 +1,92 @@
+{
+  "dataset": "28553.txt",
+  "file_name": "28553.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कालेश्वर महादेवलाई ललितपुरको प्याङ वासि हरू आफ्ना आराध्यदेवका रूपमा लिने गर्दछन्। त्यस्तै, उनीहरू कालेश्वर महादेवलाई कुलदेवताका रूपमा पुज्ने गर्दछन्।",
+    "काठमाडौंका बासिन्दा इन्द्रजात्राको रमाइलोमा रमिरहेका बेला ललितपुर, प्याङ गाउँका स्थानीय बासिन्दा आˆनै मौलिक जात्रामा हराउने गर्दछन्। इन्द्रजात्राको समयमा हुने कालेश्वर महादेवजात्रा नै उनीहरूको ठूलो र आफ्नै जात्रा हो। परम्परागत सांस्व]"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 149,
+    "text_length_max": 234,
+    "text_length_avg": 191.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1050,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28553.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28553.txt",
+    "relative_path": "28553.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28553.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1050,
+    "mtime": 1782796528.7786639,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.99,
+    "sha1_quick": "9a07adbab4d7e047d23eb3157f4ffd80fa2c6a9f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

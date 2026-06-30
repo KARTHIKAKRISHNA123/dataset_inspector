@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "12310.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "महेन्द्रनगर, सुनसरी सुनसरी जिल्लामा अवस्थित एक गाउँ विकास समिति हो। यो गा.बि.स. मा करिब 30 हजार मानिसहरू बसोबास गर्छन् । यस गा.बि.स सुनसरी जिल्लाको उदाउदो ताराको रुपमा चिनिदै अाएको छ । सुनसरी सदरमुकाम ईनरुवा भन्दा बढी जनघनत्वको बोकेको यो गा.बि.स. र आसपासका अन्य गाविसहरू जोडेर अहिले बराह नगरपालिका बनाइएको छ । सरकारले प्रस्ताव गरेका पाँच गा.बि.स. हरूमा भरौल, प्रकाशपुर, मधुवन, बराहक्षेत्र र महेन्द्रनगर लाई मिलाएर \"बराह नगरपालिका\" बनाउने भनि गरिएको प्रस्तावमा बिभिन्न राजनितिक दलहरूबाट सहमति भई प्रकृ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 860,
+    "text_length_max": 860,
+    "text_length_avg": 860.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2247,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12310.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\12310.txt",
+    "relative_path": "archive (2)\\valid\\valid\\12310.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2247,
+    "mtime": 1782796611.0581424,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6f550581d4bfe485525424fe90a8afcd62cbe332",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

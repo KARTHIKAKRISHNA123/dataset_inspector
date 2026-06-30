@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36890.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रामकृष्ण परमहंस भारतका एक महान् सन्त एवं विचारक थिए । उनले सबै धर्महरूको एकतामा जोड दिए। उनलाई बाल्यकालदेखि नै विश्वास थियो ईश्वरकाे दर्शन हुन सक्छ । ईश्वर प्राप्तिका लागि उनले कठोर साधना गर्नुको साथै भक्तिको पथमा जीवन बिताए । स्वामी रामकृष्ण मानवताका पुजारी थिए । साधनाको फलस्वरूप ऊनी यो निष्कर्षमा पुगे कि संसारका सबै धर्महरु सत्य छन् र यिनमा कुनै भिन्नता छैन। ती ईश्वरसम्म पुग्ने भिन्न-भिन्न साधन मात्र हुन्।",
+    "सन्त रामकृष्ण परमहंसको जन्म 18 फेब्रुअरी, 1836 मा बङ्गाल प्रान्त स्थित कामारपुकुरभन्ने गाउँमा भएको थियो। उनको बाल्यकालको नाम गदाधर थियो। उनको बुबाको नाम खूदिराम र आमाका नाम चन्द्रमणी देवी थियो। उनको बालसुलभ सरलता र मन्त्रमुग्ध मुस्कानदेखि जो कोही पनि सम्मोहित हुन्थे।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 117,
+    "text_length_max": 1178,
+    "text_length_avg": 460.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9818,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36890.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36890.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36890.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9818,
+    "mtime": 1782796660.1314929,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "0829ef7df2c78ceefa66ecc7b79d98dba0263da2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

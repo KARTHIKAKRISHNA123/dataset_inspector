@@ -1,0 +1,96 @@
+{
+  "dataset": "8141.txt",
+  "file_name": "8141.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "हरिहर भवन Harihar Bhawan राजधानी पाटन ,नेपाल मा अवस्थित एक राणाकालीन दरबार हो । The palace complex, located west of the Sri Durbar, was incorporated in an impressive and vast array of courtyards, gardens and buildings.",
+    "यो दरबार परिसर काठमाडौँको मुटुमा अवस्थित श्री दरबारको पश्चिममा रहेको छ । यो दरबार चन्द्र शमशेर जंग बहादुर राणाले वि.स 1982 मा आफ्ना महिला छोरा शंकर शमशेर जंग बहादुर राणा का लागि बनाएका थिए । शंकर शमशेर हरिहर भवनमा 2006 सम्म बसे । 2006 मा जब उनलाई बेलायतको राजदुत बने उनी बेलायत गए |2010 सालमा उनलाई राजदुत बाट फिर्ता बोलाइयो, उनले बेलायतमा नै बस्ने निर्णय गरे ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 193,
+    "text_length_max": 361,
+    "text_length_avg": 258.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8473,
+      "Latin": 0.1527
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2437,
+    "estimated_records": 9
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 9,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8473,
+      "Latin": 0.1527
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8141.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8141.txt",
+    "relative_path": "8141.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8141.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2437,
+    "mtime": 1782796597.8067162,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f901c0759ae7a849bf66c9fa9bfa198f31e91fe2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

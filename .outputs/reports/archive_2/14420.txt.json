@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "14420.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "केट बेकिंस्ले एक ब्रिटिश चलचित्र अभिनेत्री हुन, जो अन्डरवर्ल्ड चलचित्र श्रंखलामा आफ्नो किरदार सेलिनको लागि जनिने गर्छ । उनले प्रिन्सेस अफ जुटल्याण्ड, कोल्ड कमफर्डफार्म, इमा ,द गोल्डेन बब्लाउन जस्ता चलचित्रमा अभिनय गरेकि छिन् । उनले अक्सफोर्ड विश्वविधालयमा पठनपाठन गरेकी हुन् ।",
+    "बेकिंस्लेको जन्म 26 जुलाई 1973मा फिन्सबरी पार्क, लण्डन, इंगलयाण्डमा भएको थियो । उनकी आमाको नाम जुडी लोई हो जो एक अभिनेत्री नै हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 64,
+    "text_length_max": 276,
+    "text_length_avg": 157.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9641,
+      "Latin": 0.0359
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1227,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9641,
+      "Latin": 0.0359
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14420.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\14420.txt",
+    "relative_path": "archive (2)\\valid\\valid\\14420.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1227,
+    "mtime": 1782796615.4424195,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "5604670b8601880b8720827626ef6ad5861cc4ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

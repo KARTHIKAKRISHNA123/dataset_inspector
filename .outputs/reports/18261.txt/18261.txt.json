@@ -1,0 +1,94 @@
+{
+  "dataset": "18261.txt",
+  "file_name": "18261.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मोहिनीअट्टम दक्षिण भारतीय शैलीको भारतका केरल प्रान्तको एक शास्त्रीय नृत्य हो। यस मोहक नृत्यलाई नृत्यांगनाहरु एकल रूपमा प्रस्तुत गर्दछ। मोहिनीअट्टम शब्द दुई शब्दहरु \"मोहिनी\" अर्थात मोह लिने \"अट्टम\" अथवा 'मादक मुद्राहरु'लाई मिलाएर बनाएको छ। ",
+    "यस शास्त्रीय नृत्यमा दक्षिणको दुई अत्यन्त सुन्दर नृत्य शैली भरतनाट्यम र कथकलीको सुन्दर संगम हेर्नेलाई मिल्दछ। यस नृत्यमा पहने जाने परिधान साडीका किनारहरुमा सुनौलो जडी लागेको हुन्छ। नृत्यका समय हस्त लक्षणदीपिकामा वर्णित पदहरुका मुद्राहरुका अनुसार नृत्य हुन्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 59,
+    "text_length_max": 1994,
+    "text_length_avg": 908.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9853,
+      "Latin": 0.0147
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11936,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9833,
+      "Latin": 0.0167
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18261.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18261.txt",
+    "relative_path": "18261.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18261.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11936,
+    "mtime": 1782796481.2450953,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "979a2afdff913336481c6395a6429c6f477f008e",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

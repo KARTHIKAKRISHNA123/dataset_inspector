@@ -1,0 +1,92 @@
+{
+  "dataset": "4847.txt",
+  "file_name": "4847.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिकित्सकीय भाषामा मस्तिष्कको विकासका बेला हुने विकारको कारण सामाजिक संबन्ध तथा संचार मा देखिने सुस्तता लाई अटिज्म स्प्रेक्टम डिजअर्डर भनिन्छ । अटिज्म रोग नभएर एउटा अवस्था हो ।",
+    "स्वभावजन्य असामान्यता, सामाजिक अन्तरक्रियामा कमी र सञ्चार/सम्वादमा अभाव अटिज्मका तीन प्रमुख पहिचान हुन् । बच्चामा यस्ता तीनवटै स्वभाव देखिए अटिज्म वा अटिज्म स्प्रेक्टम डिजअर्डर भनिन्छ ।विश्व स्वास्थ्य सङ्गठन का अनुसार प्रत्येक दस हजार बालबालिकामध्ये 21 जना सम्ममा अटिज्म देखिन्छ । अमेरिका स्थित सेन्टर फर डिजिज कन्ट्रोल एन्ड पि्रभेन्सन का अनुसार 88 मध्ये एकजना अटिज्म स्प्रेक्टम डिजअर्डर बाट पीडित हुन्छ । यो आकलन सन् नब्बेको दशकमा गरिएको भन्दा बढी हो । अटिज्मग्रस्त बालबालिकालाई दिनचर्यामा अभिभावकको"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 919,
+    "text_length_avg": 256.38,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5501,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4847.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4847.txt",
+    "relative_path": "4847.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4847.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5501,
+    "mtime": 1782796581.621105,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "4607578a7029d878a445eb73fe86108e409e2890",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

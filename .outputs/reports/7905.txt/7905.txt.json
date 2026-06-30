@@ -1,0 +1,92 @@
+{
+  "dataset": "7905.txt",
+  "file_name": "7905.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लुभू नेपालको बागमती अञ्चलको ललितपुर जिल्लाको एक गाँउ विकास समिति हो। ",
+    "ललितपुको मंगलबजार हुँदै तेटास्तुप चक्रपथ ग्वार्कोबाट छ कि.मी पूर्वको लुभुको बारेमा अनेकौ आख्यान जोडिएको साँस्कृतिक नगर मानिन्छ।धार्मिक, ऐतिहासिक, साँस्कृतिक तथा प्राकृतिक पर्यटकीय दृष्टिकोणले महतत्वपूर्ण रहेको लुभु समुद्री सतहबाट चार हजार दुई सय 26 मिटर उचाइमा रहेको छ। ने.सं. 567 कोयलाछी टोलको नारायण मन्दिरमा रहेको शिलालेख अनुसार राजा यक्ष मल्लको पालामा लुभु कोटनायक ह«दयराम मुल्मीको नेतृत्वमा एउटा बलियो किल्लाको रूपमा रहेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 69,
+    "text_length_max": 818,
+    "text_length_avg": 508.86,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9585,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7905.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7905.txt",
+    "relative_path": "7905.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7905.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9585,
+    "mtime": 1782796596.7283735,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2a1ba914c890efdcbea180bf93fed22299fec7be",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "9236.txt",
+  "file_name": "9236.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टेलिभिजन दॄश्य पर्दा भएको एक उपकरण हो, जसले प्रसारण गरिएको सङ्केत लाई दॄश्य र ध्वनीमा परिवर्तन गर्छ। नेपाली भाषामा यसलाई दुरदर्पण र दॄष्यवाहिनी भनिन्छ, तर यी शब्दहरू सामान्य प्रचलनमा छैनन्, र सामान्यतया टिभि भनिन्छ। टेलिभिजन शब्दको उत्पति टेलि र भिजन बाट भएको हो।",
+    "टेलीभिजन प्रविधिको अविष्कारका धेरै वैज्ञानिकको नाम जोडिएको छ। सन् 1884 मा जर्मनका निप्को भन्ने वैज्ञानिकले –क्याथर्ड रे ) भन्ने एक किसिमको स्क्रिनको आविष्कार गरेका थिए। यसमा तार द्धारा किरणहरू सहित चित्र पठाउन कसिन्थ्यो। यसैबाट टेलिभिजनको सुरु हुने सङ्केत मिलेको थियो। सन् 1923 मा भ्लादिमिर जोरकिनले आरकोनोस्कोप ट्यूबको आविष्कार गरेपछि उनीद्धारा नै तस्बीरको आविष्कार भयो। सन् 1938 मा फोटो सेलद्धारा स्क्यान गर्ने प्रथाको सुरुवात भयो। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 95,
+    "text_length_max": 496,
+    "text_length_avg": 300.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4000,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9236.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9236.txt",
+    "relative_path": "9236.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9236.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4000,
+    "mtime": 1782796603.2700963,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5e244445f5b18eb2001358b6a85c67c0804549aa",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

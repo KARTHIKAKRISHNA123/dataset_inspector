@@ -1,0 +1,92 @@
+{
+  "dataset": "32671.txt",
+  "file_name": "32671.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बाणी बजार कञ्चनपुर जिल्लाको कृष्णपुरनगरपालिकामा पर्दछ। यो बिस्तारै विकास हुदै गइरहेको बजार हो।",
+    "बाणी बजार महेन्द्र राजमार्ग संगै जोडिएको छ।यसको उत्तरमा ग्वालाबारी सामुदायिक बन रहेकोछ। बाणी बजारबाट दक्षिण तर्फ देखतभुली गा.वि.स पर्दछ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 94,
+    "text_length_max": 136,
+    "text_length_avg": 117.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 960,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32671.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32671.txt",
+    "relative_path": "32671.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32671.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 960,
+    "mtime": 1782796548.0626383,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9aae662a580d16678deb2d81dc6603999f5b2416",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

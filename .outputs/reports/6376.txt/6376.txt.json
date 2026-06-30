@@ -1,0 +1,91 @@
+{
+  "dataset": "6376.txt",
+  "file_name": "6376.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "छिन्तापु नेपालको पूर्वाञ्चल विकास क्षेत्रको मेची अञ्चलमा, [[इलाम जिल्लाको उत्तरी भेगमा रहेको पर्यटकीय स्थल हो। माईपोखरी संगै जोडिएको छिन्तापु चुचुरोको उचाई 3200 मिटर छ। जसले महाभारत पर्वत श्रेणी र सिंगलिला पर्वत श्रेणीलाई छुट्याँउदछ। यो क्षेत्र लाली गुराँस, विभिन्न प्रजातीका पुतलीको अध्ययनका लागि महत्वपूर्ण छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 311,
+    "text_length_max": 311,
+    "text_length_avg": 311.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 834,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6376.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6376.txt",
+    "relative_path": "6376.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6376.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 834,
+    "mtime": 1782796589.4498394,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "397c198c292eacfbd3abfc19b5370a9d0b05f681",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

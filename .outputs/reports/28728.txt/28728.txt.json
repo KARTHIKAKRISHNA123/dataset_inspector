@@ -1,0 +1,96 @@
+{
+  "dataset": "28728.txt",
+  "file_name": "28728.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The Asian Football Confederation's 2007 AFC Asian Cup finals were held from 7 to 29 July 2007. For the first time in its history, the competition was co-hosted by four nations: Indonesia, Malaysia, Thailand and Vietnam. For the first time in the nation's history, Iraq won the continental title after it defeated Saudi Arabia 1–0 in the final. As the winner, Iraq represented the AFC in the 2009 FIFA Confederations Cup.",
+    "Before 2007 and every four years, Asia often held its continental tournament from 1956 until China in 2004. With the Summer Olympic Games and the European Football Championship also held in the same year as the Asian Cup, the AFC changed their tradition. Beginning in 2007, Asia will hold its continental tournament a year earlier, and every four years henceforth from that date."
+  ],
+  "statistics": {
+    "records_sampled": 36,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 946,
+    "text_length_avg": 167.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 0.9654,
+      "Devanagari": 0.0346
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6415,
+    "estimated_records": 38
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 38,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 0.9595,
+      "Devanagari": 0.0405
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28728.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28728.txt",
+    "relative_path": "28728.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28728.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6415,
+    "mtime": 1782796529.5634098,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.999,
+    "sha1_quick": "85bd5b56f383b13505ca2012f9bcc1af0f0ecabe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

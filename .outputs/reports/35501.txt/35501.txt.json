@@ -1,0 +1,94 @@
+{
+  "dataset": "35501.txt",
+  "file_name": "35501.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अर्थशास्त्रको केन्द्रीय विषय भनेको मूल्य सिद्धान्त हो । अर्थशास्त्रका बांकी सबै विषय यसैको वरिपरि घुम्छन् । उपभोग, उत्पादन, विनिमय र वितरण मात्र होइन सरकारी वित्तमा समेत मूल्य सिद्धान्तको महत्त्वपूर्ण भूमिका हुन्छ । व्यष्टि अर्थशास्त्र, जुन आधुनिक अर्थशास्त्र विषयको मूल हो, त्यसको अर्को नाम नै मूल्य सिद्धान्त हो । ",
+    "वस्तुको मूल्य निर्धारण माग र पूर्तिका शक्तिले गर्छन् भन्ने आज सामान्य स्वीकृति छ तर सुरुमा अर्थशास्त्रीहरुबीच अर्थशास्त्रको मूल्य निर्धारण कसरी हुन्छ यस विषयमा गम्भीर मतभेद थियो । एक थरी अर्थशास्त्रीहरुका अनुसार, वस्तुको मूल्य त्यसमा लागेको श्रम लागतद्वारा निर्धारित हुन्छ । यस सम्बन्धी प्राथमिक विचार एरिस्टोटल र सेन्ट थोमस अक्विनास जस्ता विद्वानहरुले प्रस्तुत गरेका हुन । कुनै वस्तुको वास्तविक मूल्य त्यसलाई प्राप्त गर्नमा परेको श्रम र कष्ट नै हो । जे बी से र डेभिड रिकार्डोले पनि उतपदनको लागत सिद्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 316,
+    "text_length_max": 712,
+    "text_length_avg": 475.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5071,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35501.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35501.txt",
+    "relative_path": "35501.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35501.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5071,
+    "mtime": 1782796560.946699,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3cba549ab83e189996ac0c3f2fd3735988beeff5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "8544.txt",
+  "file_name": "8544.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिमा / पोर्टल",
+    "बुद्ध धर्म एक अनिश्वरवादी धर्म हो। ऐतिहासिक रुपमा यो धर्म शाक्यमुनि बुद्ध र उनका अनुयायीहरुका शिक्षामा आधारित धर्म हो। बुद्ध धर्मको परम्परामा भने गौतम बुद्धलाई वर्तमान कल्पको चौथो सम्यक सम्बुद्धको रूपमा मानिन्छ । उनी छैंटौं देखि पाँचौं शताब्दी ईसा पूर्व सम्म जीवित थिए । उनी बितेको अर्को पाँच शताब्दीहरूमा बौद्ध धर्म सारा भारतीय उपमहाद्वीपमा फैलियो, र अर्को दुई हजार बर्षहरूमा मध्य, पूर्वी र दक्षिण-पूर्वी जम्बू महाद्वीपमा पनि फैलिन गयो । आज, बौद्ध धर्ममा तीन मुख्य संघ छन्: थेरवाद, महायान र वज्रयान।"
+  ],
+  "statistics": {
+    "records_sampled": 29,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 2897,
+    "text_length_avg": 487.79,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 37671,
+    "estimated_records": 77
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 77,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8544.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8544.txt",
+    "relative_path": "8544.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8544.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 37671,
+    "mtime": 1782796599.8892949,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "e0e292c57f48a21ace92f6a706a45e11296c86f8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

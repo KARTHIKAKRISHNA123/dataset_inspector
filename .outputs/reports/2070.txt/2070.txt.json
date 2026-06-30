@@ -1,0 +1,91 @@
+{
+  "dataset": "2070.txt",
+  "file_name": "2070.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काशी हिन्दू विश्वविद्यालय या वनारस हिन्दू विश्वविद्यालय ) वाराणसीमा अवस्थित एक केन्द्रीय विश्वविद्यालय हो । यो विश्वविद्यालयको स्थापना महामना पण्डित मदन मोहन मालवीय द्वारा सन् 1916 मा वसन्त पञ्चमीको पवित्र दिनमा भएको थियो ।वर्तमानमा यो विश्वविद्यालयको दुई परिसर छन् । मुख्य परिसर मा विस्तृत यो वाराणसीमा अवस्थित छ । मुख्य परिसरमा 3 संस्थान, 14 संकाय र 124 विभाग छन्। विश्वविद्यालयको दोस्रो परिसर भारतको मिर्जापुर जिल्लामा अवस्थित छ । यो एसियाको सबैभन्दा ठुलो विश्वविद्यालय मध्ये एक हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 486,
+    "text_length_max": 486,
+    "text_length_avg": 486.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1284,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2070.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2070.txt",
+    "relative_path": "2070.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2070.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1284,
+    "mtime": 1782796492.9467752,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7996ddc806a1afd68ab996abdb73b3f393d30d14",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

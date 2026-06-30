@@ -1,0 +1,92 @@
+{
+  "dataset": "12343.txt",
+  "file_name": "12343.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गजे घले भिसी भिक्टोरिया क्रस पाउने नेपाली हुन् । यो पदक वीरताको लागि पाइने सबैभन्दा प्रतिष्ठित पुरस्कार हो जसको प्राप्तकर्ता ब्रिटिश र राष्ट्रमण्डल फौजका सैनिकहरू हुन्छन्।गजे घले गोर्खा जिल्लामा पर्ने बार्पाक गाउँमा जन्मिएका हुन्।",
+    "जब उनि 20 बर्षका थिए त्यतिबेला द्वितीय विश्व युद्धकाे दौरानमा भारतीय सेनामा 5 रोयल गोरखा राइफल्सको 2 नम्बर बटालियनमा एक हवलदार थिए । जब निम्नलिखित घटना घट्यो त्यसपछी उनि भिसी द्वारा सम्मानित भए।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 442,
+    "text_length_avg": 239.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2533,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12343.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12343.txt",
+    "relative_path": "12343.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12343.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2533,
+    "mtime": 1782796453.5695662,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.975,
+    "sha1_quick": "1c43e66a48bfaa1e820e245da3ba4a8776d3bcd4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

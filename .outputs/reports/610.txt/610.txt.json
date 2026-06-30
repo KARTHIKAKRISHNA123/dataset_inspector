@@ -1,0 +1,92 @@
+{
+  "dataset": "610.txt",
+  "file_name": "610.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "युनिभर्सल हेल्थ केयर वा सर्वव्यापी स्वास्थ्य सेवा एक प्रकारको स्वास्थ्य सेवा हो जसमा एउटा निश्चित क्षेत्रका सबै वैध नागरिकलाई चिकित्सा, दन्त्य चिकित्सा र मानसिक चिकित्साका सेवाहरू उपलब्ध हुन्छन्। यस्ता सेवाहरूको खर्च धेरै हदसम्म सरकारद्वारा सञ्चालित कार्यक्रमहरूद्वारा हुन्छन्। ",
+    "यस प्रकारको व्यवस्थामा स्वास्थ्य सेवा सरकारको संलग्नता अनुसार भिन्न हुन्छ। बेलायत र स्विडेन जस्ता राष्ट्रहरूमा राष्ट्रिय स्वास्थ्य सेवा तन्त्र छ भने जर्मनी र फ्रान्समा विकेन्द्रीकृत निजी तथा नन प्रोफिट संस्थाहरूको संलग्नता धेरै पाइन्छ। सर्वव्यापी स्वास्थ्य सेवा विकशित राष्ट्रहरूमा संयुक्त राज्य अमेरिका बाहेक अन्य सबै राष्ट्रहरूमा अवलम्बित छन्। साथै यो व्यवस्था धेरै विकासोन्मुख राष्ट्रहरूमा पनि उपलब्ध छ। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 278,
+    "text_length_max": 407,
+    "text_length_avg": 342.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1869,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "610.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\610.txt",
+    "relative_path": "610.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "610.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1869,
+    "mtime": 1782796588.1653132,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "748f1c8149063a0944aee36e8c617e1bb74c15c3",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

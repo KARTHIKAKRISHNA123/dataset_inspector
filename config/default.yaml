@@ -1,0 +1,46 @@
+# dataset-inspector configuration. Every knob the inspector uses lives here.
+
+io:
+  outdir: ./outputs
+  detection_sample_bytes: 65536     # bytes read to sniff type/encoding (O(1) per file)
+  encoding_fallback: utf-8
+  read_chunk_bytes: 1048576         # 1 MiB streaming chunk
+
+logging:
+  level: INFO
+  file: ./outputs/logs/inspector.log
+  json: false
+  log_memory: true
+  heartbeat_files: 200              # progress line every N files
+
+discovery:
+  # Extensions treated as inspectable data (logical formats + container formats).
+  data_extensions: [txt, text, json, jsonl, ndjson, csv, tsv, tab, parquet, pq,
+                    docx, xml, gguf]
+  compression_extensions: [gz, zip]
+  ignore_dirs: [.git, .venv, __pycache__, node_modules, .cache, .ipynb_checkpoints, outputs]
+  expand_archives: true             # enumerate zip members without extracting
+  quick_hash: true                  # sha1 of first detection_sample_bytes (cheap dup signal)
+  compute_full_sha1: false          # full-file sha1 is O(size) I/O — off by default
+  record_permissions: true
+
+preview:
+  n_records: 2                      # "first two records" default
+  max_chars_per_record: 500         # truncate long previews in reports
+
+schema:
+  # candidate field names, in priority order, for auto-detecting the meaningful columns
+  text_fields: [text, sentence, content, body, sentence1, src, source, translation, line, raw]
+  language_fields: [language, lang, lang_id, language_code, locale, lid]
+  source_fields: [source, src, source_text, src_text, en]
+  target_fields: [target, tgt, target_text, tgt_text, translation]
+
+stats:
+  max_records_sampled: 100000       # cap records scanned for distributions (streaming, bounded)
+  sample_chars_for_script: 2000     # chars per record fed to the script histogram
+
+classification:
+  # thresholds for mono/bi/multilingual decision based on observed scripts/fields
+  multilingual_min_scripts: 3
+  bilingual_scripts: 2
+  min_confidence: 0.5

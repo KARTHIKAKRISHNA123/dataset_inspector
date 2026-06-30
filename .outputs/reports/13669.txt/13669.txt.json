@@ -1,0 +1,91 @@
+{
+  "dataset": "13669.txt",
+  "file_name": "13669.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कदमबास नेपालको बागमती अञ्चलको सिन्धुपाल्चोक जिल्लामा अवस्थित एक गाउँ विकास समिति हो । पूर्वमा ब्रम्हयाणी नदी, उत्तरमा कुविण्डे र फु्ल्पिङडाँडा गाविस, दक्षिणमा सुनकोशी नदी पारिका यमुनाडाँडा र कालिका गाविस तथा पश्चिममा साँगाचोक र ईर्खु गाविस रहेको यस गाविसको दक्षिणमा भागबाट अरनिको राजमार्ग गएको छ। भौगोलिक रूपमा उष्ण हावापानी हुने सुनकोशी नदी किनारदेखि ठण्डा हावापानी हुने देउरालीसम्म फैलिएको यस गाविस कृषिजन्य उत्पादनमा अगाडि छ। नगदे तथा अन्नबालीका साथसाथै पशुपालनबाट यस गाविसका मानिसहरू जीवनयापन गरि"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 683,
+    "text_length_max": 683,
+    "text_length_avg": 683.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1845,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13669.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13669.txt",
+    "relative_path": "13669.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13669.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1845,
+    "mtime": 1782796459.6259975,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "773d5d5585f2a74e1849d99a6c2cf28b95855a66",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

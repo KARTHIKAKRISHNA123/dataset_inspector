@@ -1,0 +1,94 @@
+{
+  "dataset": "36850.txt",
+  "file_name": "36850.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धातुबाट बनेका सिक्का वा रूपियाँ पैसालाई मात्र मुद्रा भन्ने चलन छ ।",
+    "मुद्रालाई भनिन्छ । मनी Money शब्द लेटिन भाषाको मोनेटा Moneta शब्द बाट बनेको हो । रोममा स्वर्गकी देवीलाई मोनेटा Moneta भनिन्छ । सबभन्दा पहिले सिक्का मोनेटा देवीको मन्दिरमा बनाइएकाले मुद्रालाई मोनेटा भनियो र पछि मनी भन्न थालियो"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 225,
+    "text_length_avg": 66.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9651,
+      "Latin": 0.0349
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1551,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9651,
+      "Latin": 0.0349
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36850.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36850.txt",
+    "relative_path": "36850.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36850.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1551,
+    "mtime": 1782796567.38458,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "b38ff5102ac418fec2194324724243d28c241786",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

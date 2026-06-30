@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30202.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जेटटिई संस्था सामान्यतया जेटटिई को नामबाट प्रसिद्ध चिनिया बहुराष्ट्रिय दूरसञ्चार उपकरण तथा प्रणाली उत्पादन गर्ने कम्पनी हो यसको मुख्य कार्यालय सेनझेनको गुवांगडोंगमा रहेको थियो ।",
+    "जेटटिईले मुख्यतया तीन व्यवसायिक इकाईहरू सञ्चालन गर्ने गर्दछ । जसमा क्यारियर नेटवर्क 54 प्रतिशत, टर्मिनल्स 29 प्रतिशत तथा दूरसञ्चार 17 प्रतिशत रहेको छ । जेटटिईको मुख्य उत्पादहरू वायरलेस एक्सचेञ्ज, अप्टिकल प्रसारण तथा डाटा सम्बन्धी दूरसञ्चार उपकरणहरू, मोबाईल र दुरसञ्चार सफ्टवेयर रहेको छ । यसले भ्यालु एडेड सेवाहरू सम्बन्धी उत्पादन जस्तै भिडियो अन डिमान्ड तथा स्ट्रिमिंग मिडिया हरू समेत बेच्ने गर्दछ । जेटटिईले आफुले बिक्री गर्ने उत्पादन आफ्नो नाम बिक्री गर्ने गर्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 66,
+    "text_length_max": 467,
+    "text_length_avg": 305.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5656,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30202.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30202.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30202.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5656,
+    "mtime": 1782796646.5822418,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "84c4aecf8bd0dfdb12d8a84b08090396f43be8da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

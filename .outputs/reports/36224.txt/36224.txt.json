@@ -1,0 +1,94 @@
+{
+  "dataset": "36224.txt",
+  "file_name": "36224.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विश्व हिंदू परिषद नेपाल एउटा हिन्दु सङ्गठन हो, जुन हिन्दु स्यमसेवक संघ अर्थात् एचएसएसको अनुषांगिक शाखा हो । यसलाई वीएचपी नेपाल एवं विहिप नेपालको नामले समेत चिनिन्छ । विहिप नेपाल को चिन्ह पिपल को रुख हो तथा यसको नारा, \"धर्मो रक्षति रक्षित:\" अर्थात् जसले धर्म को रक्षा गर्दछ, धर्मले उसको रक्षा गर्छ ।",
+    "विश्व हिंदू परिषद नेपाल को स्थापना कानुनी रुपमा वि.स. 2068 मा भएको हो । नेपालको काठमांडू जिल्ला प्रशासन कार्यालयमा बि.स. 2068 सालमा विश्व हिन्दु परिषद नेपाल नामले दर्ता गरिएको हो । यसको संस्थापकहरुमा डा. शशी थापा, बिन्देश्वर यादव, सुशिल चन्द्र अधिकारी थिए  ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 298,
+    "text_length_avg": 53.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9723,
+      "Latin": 0.0277
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2151,
+    "estimated_records": 39
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 39,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9723,
+      "Latin": 0.0277
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36224.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36224.txt",
+    "relative_path": "36224.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36224.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2151,
+    "mtime": 1782796564.3734076,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "54edc244ac4dc4ba0f9e93c31bcab406b1dc14ea",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

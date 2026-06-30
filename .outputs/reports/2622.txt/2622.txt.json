@@ -1,0 +1,92 @@
+{
+  "dataset": "2622.txt",
+  "file_name": "2622.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तापमापी वा थर्मामीटर त्यो उपकरण छ जो ताप वा तापको प्रवणतालाई नाप्नेका काम आउँछ। तापमापी अनेक सिद्धान्तहरुका आधारमा निर्मित गर्न सकिन्छ। द्रवहरुको आयतन ताप ग्रहण गर्न बढ्न जान्छ तथा आयतनमा हुने यो वृद्धि तापक्रमका समानुपाती हुन्छ। साधारण थर्मामीटर यसै सिद्धान्तमा काम गर्दछन्।",
+    "अन्तर्निहित थर्मोडाइनेमिक नियमहरु र राशिहरुका भौतिक आधारको जानकारीका स्तरका अनुसार तापमापी वा थर्मामीटरलाई दुइ अलग समूहहरुमा वर्गीकृत गर्न सकिन्छ। प्राथमिक तापमापीका लागि, पदार्थको मापित विशेषता यति राम्ररी ज्ञात हुन्छ कि तापमानलाई बिना कुनै अज्ञात परिमाणका परिकलित गर्न सकिन्छ। यसका उदाहरण ती तापमापी छन् जो एक ग्यासको अवस्थाका समीकरणमा, एक ग्यासमा ध्वनिका वेग पर, थर्मल शोर वोल्टेज वा एक विद्युत प्रतिरोधकका प्रवाह मा र एक चुंबकीय क्षेत्रमा केही रेडियोधर्मी नाभिकका गामा किरण उत्सर्जनको कोणीय असमदि"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 275,
+    "text_length_max": 576,
+    "text_length_avg": 425.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2303,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2622.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2622.txt",
+    "relative_path": "2622.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2622.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2303,
+    "mtime": 1782796518.1001647,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b8a0d203eb88b12bda52b4d158fb1dfad627f988",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

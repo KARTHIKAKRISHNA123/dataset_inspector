@@ -1,0 +1,91 @@
+{
+  "dataset": "28069.txt",
+  "file_name": "28069.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्रेन्डन रोजर्स उत्तर आइरीस फुटबल प्रबन्धक र पुर्व फुटबलर हुन जो प्रिमियर लिग क्लब लिभरपुलको प्रबन्धन गर्दछन् । रक्षापंक्तिका खेलाडी रोजर्सले बालीमेना युनाइटेडबाट क्लब जीवन सुरू गरेका थिए । उनी बालीमेना युनाइटेडमा 18 बर्षको उमेर सम्म रहे भने त्यसपछि रिडिङ क्लबले उनलाई हस्ताक्षर गर्यो । तर घुँडाको वंशाणुगत समस्याले उनलाई 20 बर्षको उमेरमै फुटबल छोड्न बाध्य बनायो । तर उनले उक्त क्लब रिडिङलाई नछाडी त्यहाका प्रशिक्षक र त्यसपछि एकेडेमी प्रमुख बनेका थिए भने सोही क्लबमा प्रशिक्षक बनी बाहिरका क्लबबाट लिग"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 798,
+    "text_length_max": 798,
+    "text_length_avg": 798.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2129,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28069.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28069.txt",
+    "relative_path": "28069.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28069.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2129,
+    "mtime": 1782796526.4560468,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "234f4046bd5c7d45f85ad00d93bca7bddb620439",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

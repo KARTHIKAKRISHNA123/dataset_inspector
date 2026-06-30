@@ -1,0 +1,94 @@
+{
+  "dataset": "23664.txt",
+  "file_name": "23664.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बुरुली अल्सर, सिर्यल्स अल्सर, वा डेन्ट्री अल्सर भनेर पनि चिनिने) एउटा सङ्क्रमक रोग हो जुन माइकोब्याक्टेरियम अल्सरन्सको कारणले हुने गर्दछ। यस संक्रमणको प्रारम्भिक अवस्थालाई दुखाई रहित गाँठो वा सुन्निएको क्षेत्र भनि चित्रित गरिएको छ। यो गाँठो अल्सरमा परिणत हुनसक्छ। अल्सर छालाको बाहिरी भागमा भन्दा भित्रि भागमा अझ् ठुलो हुनसक्छ, र वरीपरी सुन्निएको हुनसक्छ। रोग अझ् खराब हुँदै जाँदा, हड्डी पनि संक्रमित हुनसक्छ। बुरुली अल्सरहरू धेरैजसो हात र खुट्टाहरूमा हुने गर्दछ; ज्वरो कहिलेकाहीँ देखा पर्न सक्छ।",
+    "एम्. अल्सरन्सले माइकोल्याक्टोन नामक एउटा विष पैदा गर्दछ, जसले प्रतिरक्षा प्रणाली कार्यक्षमता घटाउँछ र तन्तुको मृत्यु हुने गर्दछ। सोही समूहको ब्याक्टेरियाले पनि क्रमश: क्षयरोग र कुष्ठरोग । रोग कसरी फैलिन्छ भन्ने कुरा थाहा हुँदैन। फैलाउनमा पानीका स्रोतहरूको भूमिका रहन सक्दछ। 2013 सम्ममा कुनै प्रभावकारी खोप थिएन।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 311,
+    "text_length_max": 495,
+    "text_length_avg": 411.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9563,
+      "Latin": 0.0437
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4272,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9563,
+      "Latin": 0.0437
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23664.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23664.txt",
+    "relative_path": "23664.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23664.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4272,
+    "mtime": 1782796506.2410164,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "698b63d12d24326686caca0d209994ebf049f9a1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

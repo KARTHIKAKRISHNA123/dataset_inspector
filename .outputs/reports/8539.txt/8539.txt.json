@@ -1,0 +1,92 @@
+{
+  "dataset": "8539.txt",
+  "file_name": "8539.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काजी गणेश पाँडे राजा द्रव्य शाहका काजी थिए। द्रव्य शाहलाई गोरखाको राजा बनाउन उनले मदत गरेका हुन्। उनले भागीरथ पन्त, नारायण अर्ज्याल, सर्वेश्वर खनाल, केशव बोहोरा, मूर्ति खवास, गङ्गाराम राना, आदि सँग सहकार्य गरेर राजा द्रव्य शाहलाई सत्तामा बसाए । उनका पछिल्ला पुस्ता कालु पाँडे र तुलाराम पाँडे हुन् ।",
+    "रेग्मी, डिल्लीरमण, मोर्डन नेपाल। "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 33,
+    "text_length_max": 298,
+    "text_length_avg": 165.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 873,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8539.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8539.txt",
+    "relative_path": "8539.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8539.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 873,
+    "mtime": 1782796599.826184,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3e69e513ba8b0646dee151eeb05722084226e48d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

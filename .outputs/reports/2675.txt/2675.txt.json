@@ -1,0 +1,92 @@
+{
+  "dataset": "2675.txt",
+  "file_name": "2675.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्षेप्यास्त्र एक प्रकारको यन्त्र हो । यो यन्त्रले हतियारको काम गर्छ । यो हतियार टाढाको लक्ष्य बेधको लागि प्रयोग गरिन्छ। क्षेप्यास्त्रको सहयोगको साथमा, विस्फोटकहरु हजारौं किलोमिटर टाढाको लक्ष्यमा पुग्न सकिन्छ। यसकारण, सबैभन्दा लामो दुश्मन छुटहरू पनि छोटो समयमा नष्ट गर्न सकिन्छ। मिसाइलले रासायनिक विस्फोटक पदार्थबाट परमाणु बममा प्रयोग गर्न सक्दछ।",
+    "सफलतापुर्वक प्रयोगमा आएको क्षेप्यास्त्रहरु नाजी जर्मनीद्वारा दोश्रो विश्व युद्धमा प्रयोग गरिएको क्षेप्यास्त्रको शृंखलाहरु थिए । यी मध्ये सबैभन्दा प्रसिद्ध भी-1 फ्लाइंग बम र भी-2 रकेट थिए । यी दुवैलाई साधारण मेकानिकल अटोपाइलटको सहायताले निश्चित मार्गमा उडाइन्थ्यो । रेडियो सिग्नलबाट नियन्त्रित क्षेप्यास्त्रहरु पनि बनेका थिए । तर पनि यी क्षेप्यास्त्रहरु थोरै संख्यामा मात्र बनाइएका थिए । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 345,
+    "text_length_max": 387,
+    "text_length_avg": 366.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1978,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2675.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2675.txt",
+    "relative_path": "2675.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2675.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1978,
+    "mtime": 1782796520.5412164,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "8fd0e8a8897b2a16af3f266a1b3e03ba2458ca3c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

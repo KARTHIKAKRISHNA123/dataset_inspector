@@ -1,0 +1,94 @@
+{
+  "dataset": "37694.txt",
+  "file_name": "37694.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोम, ल्याटिन: Rōma) सहर इटाली र इटालेली क्षेत्र लाटियमको राजधानी हो। यो टाइबर नदीमा अवस्थित छ र जनसङ्ख्या 28 लाख छ । सबैतिरबाट रोमले घेरेको भ्याटिकन सहर उत्तर-पश्चिममा पर्दछ ।",
+    "किम्बदन्ति अनुसार रोमको स्थापना ईशापूर्व 753, एप्रिल 21मा रोमुलुसले गरका थिए। उनले रेमुस नामको आफ्नो जुम्ल्याहा भाइ रेमुसलाई मारेर रोमका प्रथम राजा भए । उनिहरू दुबैलाई ब्वाँसोले हुर्काएको कथन छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 291,
+    "text_length_avg": 142.43,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9586,
+      "Latin": 0.0414
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2583,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9586,
+      "Latin": 0.0414
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37694.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37694.txt",
+    "relative_path": "37694.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37694.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2583,
+    "mtime": 1782796571.728307,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "08f2e7fe7847c5da2d322b5b4decfa2718b18ba2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "7100.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नयाँ दिल्ली  दिल्लीको एक जिल्ला र भारतको राजधानी क्षेत्र हो । नयाँ दिल्ली भारत सरकारको कार्यकारी, संसदीय र न्यायपालिका शाखाको सदनको रूपमा कार्य गर्दछ । यो दिल्लीको 11 जिल्लाहरू मध्ये एक हो । 1483 वर्ग किलोमीटरमा फैलिएको दिल्ली भारतको तेस्रो सबैभन्दा ठूलो महानगर हो । यहाँको जनसङ्ख्या लगभग 2 करोड 50 लाख रहेको छ । यहाँ बोलिने मुख्य भाषाहरू : हिन्दी, पञ्जाबी, उर्दू र अङ्ग्रेजी हुन । यसको दक्षिण पश्चिममा अरावली पर्वत श्रृखला र पूर्वमा यमुना नदी रहेको छ, जसको किनारमा यो शहर अवस्थित छ । यो प्राचीन समयम",
+    "यो नगरको नाम \"दिल्ली\" कसरी रखियो भन्ने कुराको कुनै निश्चित सन्दर्भ पाईदैन तर व्यापक रूपले यो मानिएको छ कि यो एक प्राचीन राजा \"ढिल्लु\"को नाम सँग सम्बन्धित छ । केही इतिहासकारहरूको यो मान्छन् कि यो देहलीको एक विकृत रूप हो, जसको हिन्दीमा चौखट अर्थ हुन्छ,जुन यो सम्भवतः नगरको सिन्धु-गंगा समभूमिको प्रवेश-द्वार हुनुको सूचक हो । एउटा अझै अर्को अनुमानको अनुसार यस नगरको प्रारम्भिक नाम \"ढिलिका\" थियो । हिन्दी/प्राकृत \"ढीली\" पनि यस क्षेत्रको लागि प्रयोग गरिन्थ्यो जुन अन्तत: 'दिल्ली' बन्यो ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 267,
+    "text_length_max": 2394,
+    "text_length_avg": 1271.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13357,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7100.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\7100.txt",
+    "relative_path": "archive (2)\\valid\\valid\\7100.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13357,
+    "mtime": 1782796669.9215488,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "0febcf0716a3cb41998573ed70d921f0947a1dfe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

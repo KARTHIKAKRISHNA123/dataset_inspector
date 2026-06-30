@@ -1,0 +1,92 @@
+{
+  "dataset": "22582.txt",
+  "file_name": "22582.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मन शरीरको भित्रको त्यो अदृश्य भाग हो जसबाट विचारको उत्पत्ति हुन्छ। यो मस्तिष्कको कार्यशक्तिको द्योतक हो। यो कार्यशक्ति धेरै तरिकाको हुन्छ, जस्तै चिन्तन शक्ति, स्मरण-शक्ति, निर्णय शक्ति, बुद्धि, भाव, इन्द्रियाग्राह्यता, एकाग्रता, व्यवहार, परिज्ञान, इत्यादि।",
+    "फ्रायड नामक मनोवैज्ञानिकको बनावटको अनुसार मनका तीन भागहरूमा वर्गीकृत भएको थियो :"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 80,
+    "text_length_max": 464,
+    "text_length_avg": 239.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7699,
+    "estimated_records": 32
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 32,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22582.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22582.txt",
+    "relative_path": "22582.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22582.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7699,
+    "mtime": 1782796501.4364457,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "80c30deee2624eed5ac92271f024e11dd24c759d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

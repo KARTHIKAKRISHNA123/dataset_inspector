@@ -1,0 +1,91 @@
+{
+  "dataset": "21817.txt",
+  "file_name": "21817.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लर्ड अफ द फ्लईज नोबेल पुरस्कार विजेता, ब्रिटिश लेखक-विलियम गोल्डिङद्वारा सन् 1954मा लेखिएको एक उपन्यास हो। यो किताब ब्रिटिश केटाकेटीहरूको एक समूहमा केन्द्रित छ ।जुन अप्रत्याशित टापुमा फसेका हुन्छन्। उपन्यास सामान्यतया राम्रो छ । यसलाई आधुनिक लाइब्रेरी 100 बेस्ट नोभेल्समा नामकरण गरिएको थियो, सम्पादकको सूचीमा 41 अंक पुग्यो, र पाठकको सूचीमा 25। 2003मा यो उपन्यासलाई बी.बी.सी.को द बिग रिडर सर्वेक्षणमा संख्या 70 मा सूचीबद्ध गरिएको थियो, र सन् 2005 मा टाइम पत्रिकाले सन् 1923देखि सन् 2005सम्मको 100 सर्व"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 566,
+    "text_length_max": 566,
+    "text_length_avg": 566.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1445,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21817.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21817.txt",
+    "relative_path": "21817.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21817.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1445,
+    "mtime": 1782796498.096234,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.986,
+    "sha1_quick": "79c7e921fd6c90c063f3b9287b1afefc1b6f81da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

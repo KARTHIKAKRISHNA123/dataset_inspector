@@ -1,0 +1,92 @@
+{
+  "dataset": "33900.txt",
+  "file_name": "33900.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डिली पूर्वी टिमोर को राजधानी, मुख्य बन्दरगाह, व्यावसायिक केन्द्र तथा सबै भन्दा ठूलो शहर हो । यो लेस्सेर सुन्दाद्वीप समूह को सबै भन्दा पूर्वी द्वीप, टिमोर, को उत्तरी तट मा अवस्थित छ । दिली पूर्वी टिमोर को सबै भन्दा प्रमुख बन्दरगाह र व्यावसायिक केन्द्र रहेको यस शहरमा लगभग 150,000 मानिसहरू बसोबास गर्दछन् ।",
+    "डिली, टिमोर द्वीप, को उत्तरी तट मा अवस्थित छ । यो डेली नगरपालिका प्रशासन को सीट हो । जुन डेली क्षेत्रको प्रशासनिक संस्था हो । यसमा अटाउरो द्वीप र डेली शहर नजिकै का केहि शहरहरू शामिल छन् ।. यस नगरपालिका को एक निर्वाचित मेयर र परिषद छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 117,
+    "text_length_max": 668,
+    "text_length_avg": 368.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4699,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33900.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33900.txt",
+    "relative_path": "33900.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33900.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4699,
+    "mtime": 1782796553.7450686,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "95a3c986011a32d8e01736d2c2ccb0e08b36be6b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

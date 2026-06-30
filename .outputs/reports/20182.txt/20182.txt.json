@@ -1,0 +1,92 @@
+{
+  "dataset": "20182.txt",
+  "file_name": "20182.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रेडियो नेपाल नेपाल सरकारको सूचना तथा सञ्चार मन्त्रालयको स्वामित्वमा सञ्चालित सरकारी रेडियो प्रसारण सेवा हो।यसको स्थापना वि.सं.2007 चैत्र 20 भएको थियो। रेडियो नेपालको प्रसारण अनलाइन, स्थानीय रेडियो स्टेसन र मोबाइल अनुप्रयोग मार्फत उपलब्ध छ। मुलुककै जेठो प्रसारण संस्था रेडियो नेपालले हाल 21 भाषाहरूमा समाचार र 18 भाषाहरूमा कार्यक्रम प्रसारण गर्दै आइरहेको छ। यसले नियमितरूपमा जागरण गीत तथा फूलबारी गीत सम्मेलन आयोजना गरी मुलुकमा कला र संस्कृतिको जर्गेना गर्दै आएको छ।",
+    "रेडियो नेपाल सर्वप्रथम वि. सं 2003 साल मंसिर महिनामा हाल विद्युत् प्राधिकरण रहेको भवनबाट 5 वाटको शक्तिबाट आरम्भ भयो। यो प्रसारण सात-आठ महिनासम्म मात्र सीमित रही बन्द भयो र यस स्थानबाट दिनको 1.30 देखि 3 बजेसम्म प्रसारण हुन्थ्यो। तर पदम शम्शेरको देश निकालासंगै मोहन सम्शेर गद्दीमा आएपछि पहिले प्रशारण भईरहेको प्रसारण बन्द हुन पुग्यो।जहानियाँ राणा शासनको अन्त्य गर्ने उद्देश्यले 2006 सालमा विराटनगरमा एक आकाशवाणी केन्द्रको स्थापना गरिएको थियो। 2007 साल मंसिर 28 गते बिहान 8:30 बजे एकाएक एउटा प्रसार सुनि"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 114,
+    "text_length_max": 2013,
+    "text_length_avg": 820.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8583,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20182.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20182.txt",
+    "relative_path": "20182.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20182.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8583,
+    "mtime": 1782796490.4869,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "93a1a1a2c8f8bb40bca1d9d6bff7fd34057d361f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

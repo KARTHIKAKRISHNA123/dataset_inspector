@@ -1,0 +1,92 @@
+{
+  "dataset": "17034.txt",
+  "file_name": "17034.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "लोकसभाको अध्यक्ष संसदका निम्न सदनको सभापति हुन्छ। त्यसको भूमिका उन अन्य देशहरुका स्पीकरहरुका समान छ जो सरकारको वेस्टमिंस्टर प्रणालीको अनुसरण गर्दछन्। लोकसभा-अध्यक्षको चुनाव लोकसभा चुनावहरुका बाद, लोकसभाको सर्वप्रथम बैठकमा नैं गर्न लिइन्छ, जो कि संसदका सदस्यहरुमा बाट नैं पाँच सालका लागि चुनिन्छ। त्यो भन्दा अपेक्षा गरिन्छ कि उ आफ्नो मूल पार्टीबाट त्यागपत्र दिनेछन् भन्ने, ताकि कार्यवाहीमा निष्पक्षता बनी रहोस्।",
+    "लोकसभा-अध्यक्ष लोकसभाका सत्रहरुको अध्यक्षता गर्दछन्, र सदनका कामकाजको संचालन गर्दछन्। उनीले निर्णय गर्दछन् कि कुनै विधेयक, धन विधेयक हो वा हैन। उनीले सदनको अनुशासन र मर्यादा बनाई राख्दछन् र यसमा बाधा पुर्‍याउने भएका सांसदहरुलाई दण्डित पनि गर्न सक्दछन्। उनी विभिन्न प्रकारका मोशनों र संकल्पहरु, जस्तै अविश्वास प्रस्ताव, स्थगन प्रस्ताव, सेन्सर मोशन,लाई लाने अनुमति दिन्छन् र अटहरुशन नोटिस दिन्छ। अध्यक्ष नैं यो तय गर्दछन् कि सदनको बैठकमा के एजण्डा लिनु पर्ने हो। लोकसभा-अध्यक्षका चुनावको तिथि राष्ट्रपत"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 410,
+    "text_length_max": 519,
+    "text_length_avg": 464.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2495,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "17034.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\17034.txt",
+    "relative_path": "17034.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "17034.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2495,
+    "mtime": 1782796475.0782418,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "61c458bae3345497af7b16e3236d51fc2bd96649",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

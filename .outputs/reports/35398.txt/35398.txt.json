@@ -1,0 +1,92 @@
+{
+  "dataset": "35398.txt",
+  "file_name": "35398.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विलियम बर्क मदन पुरस्कार पाउने पहिलो विदेशी हुन्। उनलाई फादर विलियम बर्क भनेर चिनिन्छ। उनले वि.सं. 2051मा उक्त पुरस्कार पाएका हुन्।",
+    "विलियम बर्क हेलिङ्गयाक्स, क्यानडामा जन्मेका हुन्। उनले बी. ए., बी. कम त्यहाँको सेन्ट मेरिज विश्वविद्यालयमा र एक वर्षसम्म डल्हौजी विश्व विद्यालयमा कानुनको अध्ययन गरेका हुन्। अध्ययन समाप्त भएपछि प्रारम्भमा उनले 12 वर्षजति अध्यापन कार्य गरे। सुरुमा हिन्दी माध्यमको विद्यालयमा अध्यापन गरे भने पछि सन् 1980को दशकमा अर्थात् सन् 1981मा प्राथमिक भाषा नेपाली भएको सेन्ट रोबर्टस उच्च विद्यालय, दार्जीलिङको प्राधानाध्यापक पनि बने।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 119,
+    "text_length_max": 419,
+    "text_length_avg": 223.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1760,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "35398.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\35398.txt",
+    "relative_path": "35398.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "35398.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1760,
+    "mtime": 1782796560.4384382,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "b17ad444c0a4cfb623c34325c6b8dd1d1ca827ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "28571.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बोन धर्म, तिब्बतको प्राचीन र पारम्परिक धार्मिक प्रथा हो। यो प्रथा बौद्ध धर्म भन्दा पहिले देखि तिब्बती संस्कृतिमा प्रचलित रहेको छ। कुनै इतिहासकारहरूको अनुसार बोन धर्मको तत्व तिब्बत मात्रमा सीमित नभई यस धर्मको ऐतिहासिक प्रभाव तिब्बत भन्दा टाढा केहि मध्य एसियाको क्षेत्र सम्म पनि भेटिएको छन्। इतिहासकार बोन धर्मलाई तिब्बती साम्राज्य भन्दा पहिले भएको शङ्शुङ् राज्य बाट पनि सम्बन्धित मानिन्छ।",
+    "कतिपय विद्वानहरूले गरेको टिप्पणी अनुसार बोन धर्म र हिन्दु धर्मको भगवान शिवमा धेरै तीर्थ व अन्य सामन्त रहेको छन्। तिब्बतमा अवस्थित मानसरोवर पोखरी र कैलाश पर्वत दुईटै धर्ममा पवित्र मानिन्छन्। हिन्दुहरूको लागि शिवशंकर र बोनहरूको लागि धार्मिक आस्थाको बिन्दु हुन्। केहि विद्वानहरूको सोचाई मुताविक प्राचीन बोन धर्मको हिन्दु धर्म माथि प्रभाव हुन सक्ने बताएको छन्। अन्यले शायद कश्मीर बाट शिव-उपासकहरू तिब्बत जाने देखि बोन धर्ममा हिन्दु-तत्व सम्मिलित भएको हुनसक्छ भन्ने अनुमान रहेको छन्। कतिपय आर्य-हिन्दु दिव"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 387,
+    "text_length_max": 661,
+    "text_length_avg": 524.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2818,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28571.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\28571.txt",
+    "relative_path": "archive (2)\\valid\\valid\\28571.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2818,
+    "mtime": 1782796643.335683,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cd6709a160f71f92982612cae512c952535e2452",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

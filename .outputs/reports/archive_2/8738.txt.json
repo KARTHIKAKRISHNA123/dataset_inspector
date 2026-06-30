@@ -1,0 +1,96 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "8738.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अरुण Budhathoki  एक नेपाली कवि, कल्पना लेखक र पत्रकार from Kathmandu, Nepal. उनले आफ्नो स्नातक अध्ययन मा Nizam कलेज, हैदराबाद, भारत र पछि लाग्ने मास्टर गरेको डिग्री मा University of Northampton, इङ्गल्याण्ड. उहाँले लिखित छ वटा पुस्तकहरू सम्म । किनभने आफ्नो यायावर प्रकृति, उहाँले रुचि यात्रा वरिपरि । ",
+    "अरुण छ को सह-संस्थापक, नेपाल ट्रिब्यून मीडिया र सम्पादक-मा-मुख्य काठमाडौं ट्रिब्यून. आफ्नो काम मा देखा छन् भारत आज, यो Huffington पोस्ट, दैनिक हे,, कूटनीतिज्ञ, नागरिक, Republica, The Kathmandu Post, एशिया प्यासिफिक दैनिक, ग्लोब र मेल, TRT विश्व, र नयाँ अरब. उहाँले पनि काम गरेको छ रूपमा एक stringer/फिक्सर लागि, ग्लोब र मेलछ । उहाँले थियो नेपाल सम्पादक लागि नागरिक .. उहाँले एक स्तंभकार को लागि यो कूटनीतिज्ञ."
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 70,
+    "text_length_max": 734,
+    "text_length_avg": 342.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7647,
+      "Latin": 0.2353
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3802,
+    "estimated_records": 11
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 11,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7647,
+      "Latin": 0.2353
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8738.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\8738.txt",
+    "relative_path": "archive (2)\\valid\\valid\\8738.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3802,
+    "mtime": 1782796673.1706712,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cb4b787f1068665432fb1daf4e4666e6b42b3536",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

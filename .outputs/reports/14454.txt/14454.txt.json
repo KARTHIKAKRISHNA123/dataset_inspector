@@ -1,0 +1,91 @@
+{
+  "dataset": "14454.txt",
+  "file_name": "14454.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "प्राध्यापक सर टिमोथी जोन बर्नर्स ली, ओएम, टिमबिएलको नामले समेत जानिन्छन । वहाँ एक अङ्ग्रेजी कम्प्युटर वैज्ञानिक र वर्ल्ड वाइड वेबको जनकको रूपमा चिनिने गरिन्छन । वहाँले मार्च 1989 मा जानकारी प्रबन्धन प्रणालीको बारेमा एक प्रस्ताव बनाएका थिए र वहाँले त्यसै वर्षको मध्य नोभेम्बरमा पहिलो पटक एचटिटिपी क्लाइन्ट र सर्भरको बीच इन्टरनेट चलाउन सफलता प्राप्त गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 359,
+    "text_length_max": 359,
+    "text_length_avg": 359.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 953,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14454.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14454.txt",
+    "relative_path": "14454.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14454.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 953,
+    "mtime": 1782796463.0806067,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ee5025e86e746acd8745fc6bf79b1ceb18822f76",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

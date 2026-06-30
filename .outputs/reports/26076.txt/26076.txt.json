@@ -1,0 +1,92 @@
+{
+  "dataset": "26076.txt",
+  "file_name": "26076.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बगाले बगेडी नेपाल तथा भारतमा पाइने एक प्रकारको चराको प्रजाति हो। यो बङ्गलादेशको गङ्गा-ब्रह्मपुत्र उपत्यमा लोप भएको मानिन्छ। अन्तर्राष्ट्रिय प्रकृति संरक्षण सङ्घका अनुसार यस चरा असुरक्षित अवस्थामा रहेको छ। ",
+    "बगाले बगेडीको भालेको कालो अनुहार र कटुस रङ्को छातीपेटी तथा पङ्खढकनीको भित्रीछेउमा सेतो धर्सा भएको । पोथीको टाउको र पिठ्युमा टड्कारो बुट्टा र मध्यढकनीमा सेतो धर्सा भएको हुन्छ । बच्चाको तल्लो भाग ठाडा धर्कापूर्ण । यसको शरीरको लम्बाई 14 देखि 16 सेमी लम्बाई तथा तौल 17 देखि 26 ग्राम हुन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 92,
+    "text_length_max": 325,
+    "text_length_avg": 235.6,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3144,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26076.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26076.txt",
+    "relative_path": "26076.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26076.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3144,
+    "mtime": 1782796517.3501472,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "98bbf544cd18c75ac934c89323420cb1f978ec6c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

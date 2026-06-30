@@ -1,0 +1,94 @@
+{
+  "dataset": "13522.txt",
+  "file_name": "13522.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बिलिबिलि चिनियाँ: 哔哩哔哩; पिनयिन: bīlībīlī; उपनाम B站 चीनमा आधारित भिडियो साझेदारी वेबसाइट हो । एनीमेसन, हास्य र खेल लगायतका लोकप्रिय भिडियो साझेदारी गर्न सुबिधा रहेको यस वेबसाइटमा प्रयोगकर्ताहरूले भिडियोहरू पेश गर्न, अवलोकन गर्न र टिप्पणी युक्त उपशीर्षकहरू थप गर्न सक्दछन् । बिलिबिलीले एडोब फ्ल्यास वा एचटीएमएल 5 को प्रयोग गर्दछ जुन म्यानुअल रूपमा परिवर्तन गर्न सकिन्छ ।",
+    "बिलिबिलीमा छिटो बढ्दो प्रयोगकर्ताहरूको सङ्ख्याले गर्दा, यसले वेबसाइटको कार्यमा विस्तार गर्न निर्णय गर्यो । शक्तिशाली विषयवस्तुहरू बाहेक, बिलिबिलीले सङ्गित, नृत्य, विज्ञान र प्रविधि, मनोरञ्जन, चलचित्र, नाटक, फेसन, दैनिक जीवन र विज्ञापन चलचित्रहरू लगायतका चर्चित भिडियोहरूको सङ्गालो विभिन्न क्षेत्रमा प्रदान गर्दछ । साथै बिलिबिली लाइभ स्ट्रिमिङ सेवा प्रदान गर्दछ जहाँ दर्शकहरूले स्ट्रिमरहरूसँग अन्तरक्रिया गर्न सक्छन् । प्राय यसका विषय एनिमी, सामग्री निर्माण, गेम रणनीति लगायतका कुरामा केन्द्रित हुने ग"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 518,
+    "text_length_avg": 326.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9952,
+      "Latin": 0.0048
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6029,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9952,
+      "Latin": 0.0048
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13522.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13522.txt",
+    "relative_path": "13522.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13522.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6029,
+    "mtime": 1782796458.9537568,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "a600b26a187b74e4e77a0874a26faf096b1425cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

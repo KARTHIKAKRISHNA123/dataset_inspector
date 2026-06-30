@@ -1,0 +1,93 @@
+{
+  "dataset": "15873.txt",
+  "file_name": "15873.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साधारणतया अमिलो स्वाद हुने र पानीमा घुल्दा H+ आयोन दिने पदार्थहरुलाई अम्ल भनिन्छ ।अम्ल दुई प्राकार हुन्छन् ती हुन्ः प्राङ्गारिक र अप्राङ्गारिक। टार्टारिक,साइट्रिक,एसिटिक अादि प्राङ्गारिकका उदाहरण हुन् भने हाइड्रोक्लाेरिक,सल्फ्युरिक,नाइट्रिक जस्ता अम्लहरू अप्राङ्गारिकका उदाहरण हुन्।               प्रायः अम्लहरु अमिला हुन्छन्। तर अमिला हुन्छन् भन्दैमा यिनीहरुलाइ चाख्नु हुँदैन।अम्लहरूले नीलाे लिट्मसकाे रङलाई राताे बनाउँछ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 422,
+    "text_length_max": 422,
+    "text_length_avg": 422.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Latin": 0.0028
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1129,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9972,
+      "Latin": 0.0028
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15873.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15873.txt",
+    "relative_path": "15873.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15873.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1129,
+    "mtime": 1782796469.6030328,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "498e0c20ab47a094479f836d42a46e6892f44acc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

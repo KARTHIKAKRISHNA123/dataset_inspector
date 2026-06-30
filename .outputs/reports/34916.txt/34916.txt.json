@@ -1,0 +1,94 @@
+{
+  "dataset": "34916.txt",
+  "file_name": "34916.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Tigris striatus Severtzov, 1858",
+    "बाघ फेलिडी परिवारको प्यान्थरा वर्ग अन्तर्गत पर्ने \"ठुलो बिरालो\" समुहको सबैभन्दा ठूलो र शक्तिशाली जङ्गली जनावर हो । कुनै समय पश्चिममा टर्कि, उत्तरमा साइबेरिया देखि दक्षिणमा बालीसम्मको भूभागमा शिर्ष शिकारीको रूपमा राजगरेको यो जनावर अहिले पूर्वी र दक्षिणी एसियाका 13 देशहरूमा मात्र सिमित हुन पुगेको छ । करिब 3.3 मिटर लामो शरीर, 300 किलोग्राम तौल र 4 इन्च सम्म लामा तीखा कुकुरदाँत हुने यो जनावर एक भयानक हिंस्रक मांशहारी जनावर हो । विशाल काया र शक्तिका अलावा बाघहरू सेतो वा गाढा सुन्तला रंगको भुत्लाले ढा"
+  ],
+  "statistics": {
+    "records_sampled": 27,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 1276,
+    "text_length_avg": 411.7,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9832,
+      "Latin": 0.0168
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 29089,
+    "estimated_records": 70
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 70,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9871,
+      "Latin": 0.0129
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34916.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34916.txt",
+    "relative_path": "34916.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34916.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 29089,
+    "mtime": 1782796558.2911196,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "ce090d48ec472c490ec576734ac341f5c536ea09",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

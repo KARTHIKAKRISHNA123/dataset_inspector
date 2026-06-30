@@ -1,0 +1,91 @@
+{
+  "dataset": "22692.txt",
+  "file_name": "22692.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2056 साल पुस 13 गते वीरगञ्ज उपमहानगरपालिकामा राजा वीरेन्द्रद्वारा उदघाटित घडीअर्वा तालमा संगीतमय फोहरा र अन्य आकर्षक सजावट एवं संरचना छन्। 23 प्रकारका संगीतसहित रंगिचंगि फोहराहरू 25 मिटर उचाइसम्म जान्छन्। उक्त तालको शिलान्यास 2044 सालमा नेपाली बाबाले गर्नुभएको थियो। ताल निर्माणमा 4 करोड 57 लाख 68 हजार खर्च भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 318,
+    "text_length_max": 318,
+    "text_length_avg": 318.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 819,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22692.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22692.txt",
+    "relative_path": "22692.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22692.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 819,
+    "mtime": 1782796501.906571,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "dce71e32350c879a7637989b577f091424dd45ec",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

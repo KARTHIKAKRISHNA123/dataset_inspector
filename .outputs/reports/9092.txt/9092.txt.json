@@ -1,0 +1,94 @@
+{
+  "dataset": "9092.txt",
+  "file_name": "9092.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भागेश्वर नेपालको सुदूर-पश्चिमाञ्चल विकास क्षेत्र, महाकाली अञ्चलको डडेलधुरा जिल्लामा अवस्थित गाउँ विकास समिति हो ।भागेश्वर देवताको नामले भागेश्वर गाउँ विकास समितिको नामाकरण भएको हो | यहाँ भागेश्वर देवताको बारेमा जान्नु जरुरि भएको कारण भागेश्वरको बिषयमा केही चर्चा र यथार्थता यस्तो छ | ",
+    "भागेश्वर शिवजीका “फुटलिङ्ग” मानिन्छन् । यी डडेल्धुरा जिल्लाका 5 गाउँ विकास समितिको बीचमा रहेको 2002 मिटर अग्लो शिखरमा छन् । यस धुराको पश्चिममा रुपाल गाउँ विकास समिति, पश्चिम उत्तरमा भागेश्वर गाउँ विकास समितिको वार्ड नम्बर 4 उत्तरमा वगरकोट गाउँ विकास समिति, पूर्वमा गाङखेत गाउँ विकास समिति र दक्षिणमा शीर्ष गाउँ विकास समितिको वार्ड नम्बर 2 पर्दछन् । यस स्थानमा 22 पाटा कुमाऊँ 22 मढ तथा 22 गाउँबाट धुपपोखल आएर भागेश्वरको पूजाआजा गर्ने चलन रहेकोछ । 22 गाउँको ढुङ्गा, पाथर, काठ, नगदजिन्सी र मिस्त्री सहित"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 284,
+    "text_length_max": 3216,
+    "text_length_avg": 1750.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9995,
+      "Latin": 0.0005
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9336,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9092.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9092.txt",
+    "relative_path": "9092.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9092.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9336,
+    "mtime": 1782796602.5219824,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "3de532a6f0d06cca96d8f1ccfa29fe3168dbca1a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "16868.txt",
+  "file_name": "16868.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किरण गुरुङ",
+    "विद्यार्थी अवस्थादेखि नै राजनीतिमा होमिएका किरण गुरुङले वामपन्थी आन्दोलनमा लागेर दश वर्ष भूमिगत जीवन बिताइसक्नुभएको छ। उहाँ नेकपा एमालेका केन्द्रीय सदस्य हुनुहुन्छ। तनहुँ क्षेत्र नं. 3 बाट संविधान सभा सभासद निर्वाचित गुरुङ 2048 सालको आम चुनावमा पनि सोही क्षेत्रबाट विजयी हुनुभएको थियो। राजनीति नै एकमात्र पेशा भएका गुरुङले त्यसपछिका दुईवटा संसदीय निर्वाचनमा भने उम्मेदवारी दिनुभएन। निरन्तर जनताको पक्षमा लागेर राजनीति गर्दै आएकाले आफूलाई जनताले संविधानसभामा पुर्‍याएको उहाँको आकलन छ। विज्ञान विषय लिए"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 1071,
+    "text_length_avg": 540.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2925,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16868.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16868.txt",
+    "relative_path": "16868.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16868.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2925,
+    "mtime": 1782796474.3297403,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.983,
+    "sha1_quick": "33d2cbcb9db0a3183f739f8d7899e39fc228ab16",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

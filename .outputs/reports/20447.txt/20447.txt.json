@@ -1,0 +1,94 @@
+{
+  "dataset": "20447.txt",
+  "file_name": "20447.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "आठपहरिया भाषा नेपालमा बोलिने एक प्रमुख भाषा हो। यो भाषा विशेष गरी नेपालको धनकुटा जिल्लामा बोल्ने गरिन्छ। आठपहरियाहरूको बाहुल्य रूपमा धनकुटा नगरपालिका र त्यही नजीकको गाऊहरूमा बसोबास गर्ने गरेको पाईन्छ।",
+    "भाषाहरूको ISO कोड"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 17,
+    "text_length_max": 200,
+    "text_length_avg": 78.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9851,
+      "Latin": 0.0149
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 638,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9851,
+      "Latin": 0.0149
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20447.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20447.txt",
+    "relative_path": "20447.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20447.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 638,
+    "mtime": 1782796491.725752,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4052b41500a7a9dc39b16b9f9b75b1978c86281f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

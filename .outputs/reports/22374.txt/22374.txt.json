@@ -1,0 +1,91 @@
+{
+  "dataset": "22374.txt",
+  "file_name": "22374.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कृष्ण मन्दिर महाकाली अञ्चल, बैतडी जिल्ला, पाटनस्थित पाटन बजारसँगै महाकाली राजमार्गको दक्षिणतिर रहेको छ । यस मन्दिरको स्थापना यस पाटन भेगका बासिन्दाहरूले बि.सं. 2005 सालमा गरेका थिए । यस मन्दिरमा कृष्णजन्माष्टमी, राम नवमी का दिन हिन्दुधर्मावलम्बी भक्तालुजनहरू पूजा पाठ गर्ने गर्दछन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 283,
+    "text_length_max": 283,
+    "text_length_avg": 283.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 750,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "22374.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\22374.txt",
+    "relative_path": "22374.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "22374.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 750,
+    "mtime": 1782796500.521677,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3a917d3eabc6dc2b6c8686cd83c165e043199c2f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "30465.txt",
+  "file_name": "30465.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एड्सन आरान्तेस दो नासिमेन्तो ब्राजिलका पूर्व फुटबल खेलाडी हुन्। उनलाई संसारभरिका मानिसहरू पेले उपनामले चिन्दछन्। उनको जन्म ब्राजिलको त्रेश कोरसोंइसमा अक्टुबर 23, 1940मा भएको थियो। पेलेलाई आफ्नो खेल जीवनमा 'फुटबलको राजा' भनेर पनि चिनिन्थ्यो। अन्तर्राष्ट्रिय ओलिम्पिक समितिले उनलाई सताब्दि-खेलाडी उपाधि दिएको छ। उनी राष्ट्रिय सकर ख्याति-बैठक का सदस्य हुन्।",
+    "आफ्नो देश ब्राजिलमा, खेलमा उनको उपलब्धि र योगदानका कारण, पेलेलाई राष्ट्रिय नायकका रूपमा लिइन्छ। फिफाले आधिकारिक रूपमै विश्वभरका लागि उनलाई फुटबल राजदुत नियुक्त गरेको छ। उनलाई ब्राजिलको सरकारले राष्ट्रिय सम्पति घोषणा गरेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 17,
+    "missing_text": 0,
+    "text_length_min": 173,
+    "text_length_max": 680,
+    "text_length_avg": 362.18,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 16418,
+    "estimated_records": 45
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 45,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9997,
+      "Latin": 0.0003
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30465.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30465.txt",
+    "relative_path": "30465.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30465.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 16418,
+    "mtime": 1782796537.9030387,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "55bfb4e34033912fbd8616f1c52ed5b7eea1c7b8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

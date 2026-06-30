@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "6449.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दिगो विकासका लक्ष्यहरू भविष्यको अन्तर्राष्ट्रिय विकाससँग सम्बन्धित रहेको लक्ष्यहरूको समूह हो । तिनिहरूलाई संयुक्त राष्ट्र संघले सृजना गरेको हो अनि यसलाई दिगो विकासको लागि विश्वव्यापी लक्ष्यहरूको रूपमा प्रवर्द्धन गरिएको हो । तिनिहरूले 2015 को अन्त्यमा समाप्त भएको सहस्राब्दी विकासका लक्ष्यहरूलाई प्रतिस्थापन गरेको थियो । एसडिजीज् 2015 देखि 2030 सम्म चालू रहने छ । ती लक्ष्यहरूको लागि 17 वटा लक्ष्यहरू र 169 खास लक्ष्यहरू छन् । ",
+    "2015 को अगष्टमा 193 राष्ट्रहरूले निम्नलिखित 17 वटा लक्ष्यहरूलाई स्विकार गर्यो:"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 426,
+    "text_length_avg": 252.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1310,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6449.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\6449.txt",
+    "relative_path": "archive (2)\\valid\\valid\\6449.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1310,
+    "mtime": 1782796668.6670072,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "484f709fa28e47a6b77f6b748222a873059cf71f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

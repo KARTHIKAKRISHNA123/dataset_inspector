@@ -1,0 +1,98 @@
+{
+  "dataset": "Nepali_male_mono.txt",
+  "file_name": "Nepali_male_mono.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": "ne",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "train_nepalimale_00001.txt\tपहाड़मा धेरै राजनैतिक पार्टीहरू छन् , प्रत्येक पार्टीको आफ्नै विचारधारा छ अनि आफ्ना बेग्लाबेग्लै मागमा अडिग छन् .",
+    "train_nepalimale_00002.txt\tक्षितिजमा घामका किरणका लालिमा क्षणप्रतिक्षण निःशेष भएर गइरहेको छ ."
+  ],
+  "statistics": {
+    "records_sampled": 3933,
+    "missing_text": 0,
+    "text_length_min": 36,
+    "text_length_max": 338,
+    "text_length_avg": 97.53,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.7633,
+      "Latin": 0.2367,
+      "Gujarati": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 844323,
+    "estimated_records": 8349
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8349,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en",
+      "ne"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "ne",
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.7822,
+      "Latin": 0.2178
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.75
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Nepali_male_mono.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Nepali_male_mono.txt",
+    "relative_path": "Nepali_male_mono.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Nepali_male_mono.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 844323,
+    "mtime": 1782796341.1115599,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.979,
+    "sha1_quick": "aff93dfbc92e1568a66d2ac0161402fbe9685936",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

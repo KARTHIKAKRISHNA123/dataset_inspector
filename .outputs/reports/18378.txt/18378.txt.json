@@ -1,0 +1,91 @@
+{
+  "dataset": "18378.txt",
+  "file_name": "18378.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नवरात्रिको नवौ दिनलाई महा नवमी भनिन्छ । विशेष गरी महालक्ष्मी देवीको पूजाआजा गरिन्छ । यसै दिन बिहान कलपूर्जा, हातहतियारहरू तथा सवारीका साधनहरू आदिलाई बलि दिई विश्वकर्माको पूजा पनि सम्पन्न गरिन्छ । यस दिन अरू पूजाको अतिरिक्त विशेष गरी दुई वर्षदेखि दस वर्षसम्मका नवकन्याहरूको पनि पूजाआजा गरिन्छ । कन्या पूजाका बारेमा लेखिएको छ कि दस वर्षभन्दा बढी उमेर भएकी कन्या रजस्वला हुने हुँदा पूज्नु हुँदैन । चढाएको फल आदि खान र चन्दन आदि बास्नाको स्वाद लिन नजान्ने, एक वर्षकी कन्या पनि पूज्नु हुँदैन । रोग नलागेकी"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 676,
+    "text_length_max": 676,
+    "text_length_avg": 676.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1795,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "18378.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\18378.txt",
+    "relative_path": "18378.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "18378.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1795,
+    "mtime": 1782796481.8196871,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "e4c6a3a715bbc670e828a86c7b5dae4f516f4d0c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

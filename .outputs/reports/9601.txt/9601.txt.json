@@ -1,0 +1,92 @@
+{
+  "dataset": "9601.txt",
+  "file_name": "9601.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चमन पाकिस्तानको बलुचिस्तान प्रान्तमा रहेको किला अब्दुलाहा जिल्लाको सदरमुकाम शहर हो । यो शहर पाकिस्तान र अफगानिस्तानको सिमानाको दक्षिण तर्फ अवस्थित छ र अफगानिस्तानको काँधर प्रदेशको छिमेकी शहर हो । बलुचिस्तान प्रदेशको क्वेटा पछि यो शहर सबैभन्दा दोस्रो ठूलो शहरको रुपमा रहेको छ । ",
+    "चमन शहरमा रेलको सुविधा छ जसले काँधर प्रदेशका साथसाथै अफगानिस्तानमा पनि सेवा पुराँउदै अाएको छ । चमनदेखि क्वेटा सम्म दैनिक एक घरेलु रेल चल्ने गरेको छ । सन् 2008 यो रेलवे लाई विस्तार गरेर अफगानिस्तान र मध्य एसियन सम्म पुराउने प्रस्ताव राखिएको थियो । चमन रेलवे स्टेसन शहरको मध्य भागमा अवस्थिति छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 131,
+    "text_length_max": 471,
+    "text_length_avg": 263.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4801,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9601.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9601.txt",
+    "relative_path": "9601.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9601.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4801,
+    "mtime": 1782796604.8355584,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "beb66a512fd3b097561a0bc52816087079979bac",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

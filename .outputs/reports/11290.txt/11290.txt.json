@@ -1,0 +1,91 @@
+{
+  "dataset": "11290.txt",
+  "file_name": "11290.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "धार्मिक रिति अनुसार ब्रतको अघिल्लो रातमा व्रतालु महिलाले मध्यरात्रिमा उठेर गर्ने भोजनलाई ‘ओटघन’ भनिन्छ। यसअवसरमा व्रतालुका साथै छोराछोरी नातिनातिना समेत बसेर ‘ओटघन’ गर्ने चलन रहेको छ। ओटघनको क्रममा शुद्द् खानेकुराहरू खासगरी च्युरा, दही, केराका साथै मिठाई खाने चलन छ। त्यसरी ओटघन खाएर उठेपछि फेरि पानी वा केही खान पाइँदैन। ओटघनपछि व्रत शुभारम्भ भएको मानिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 357,
+    "text_length_max": 357,
+    "text_length_avg": 357.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 962,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11290.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11290.txt",
+    "relative_path": "11290.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11290.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 962,
+    "mtime": 1782796448.6979432,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ff2c9c9a18b39e2689e032f9d6b8fe190b411406",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

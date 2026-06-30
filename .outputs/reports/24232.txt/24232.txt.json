@@ -1,0 +1,94 @@
+{
+  "dataset": "24232.txt",
+  "file_name": "24232.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उपन्यास तरङ्गिणि एक नेपाली भाषाको पत्रिका हो। यो पत्रिकाको सम्पादन कार्य एस.एस. शर्मा सदाशिव अधिकारीद्वारा भएको छ। यो पत्रिकाको प्रकाशक ढुण्डिराज ऋषिकेश उपाध्याय हो। यसको प्रकाशन वनारसमा मासिक अवधिमा हुन्छ। यसको पहिलो प्रति 1959 साउनमा प्रकाशित भएको थियो।",
+    "बदमास नारायन द्वारा रचित एक उपन्यासपुरा पढ्न मन भए Twitter मा @badmash_nl मा सम्पर्क गर्नुहोला"
+  ],
+  "statistics": {
+    "records_sampled": 240,
+    "missing_text": 0,
+    "text_length_min": 2,
+    "text_length_max": 964,
+    "text_length_avg": 114.94,
+    "duplicate_estimate": 18,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9727,
+      "Latin": 0.0273
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 69868,
+    "estimated_records": 607
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 607,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9768,
+      "Latin": 0.0232
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24232.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24232.txt",
+    "relative_path": "24232.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24232.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 69868,
+    "mtime": 1782796508.835436,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6dbc12ef9c0a39f15405353e5ab290f6846cabd7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

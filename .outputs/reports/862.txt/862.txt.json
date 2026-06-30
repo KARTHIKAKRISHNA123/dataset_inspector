@@ -1,0 +1,92 @@
+{
+  "dataset": "862.txt",
+  "file_name": "862.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2015 क्रिकेट विश्वकपको यो दोश्रो तथा अन्तिम चरण हो जसमा समूह चरणबाट उत्कृष्ट 8 टिमहरू छनौट भएका छन् । प्रत्येक समूहबाट छनौट भएका उत्कृष्ट 4 टिमहरु अगाडिका खेलहरूमा प्रतिस्पर्धा गर्नेछ । यस विश्वकपमा तेश्रो स्थानको लागि खेल हुने छैन । यदि कुनै क्वार्टर फाइनल अथवा सेमिफाइनलको खेल टाई भएमा अथवा बेनातिजा भएमा आफ्नो समूहमा उत्कृष्ट स्थानमा रहेको टिम छनौट हुनेछ । यदि 2015 क्रिकेट विश्वकपको फाइनल खेल टाई भएमा एक ओभर एलिमिनेटरबाट नतिजा निकालिनेछ ।",
+    "समूह ए बाट न्युजिल्यान्ड, अस्ट्रेलिया, श्रीलङ्का, र बङ्गलादेश छनौट भए भने समूह बि बाट भारत, दक्षिण अफ्रिका, पाकिस्तान र वेस्ट इन्डिज छनौट भए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 142,
+    "text_length_max": 443,
+    "text_length_avg": 292.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1534,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "862.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\862.txt",
+    "relative_path": "862.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "862.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1534,
+    "mtime": 1782796600.2631698,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "12ae775d0bcb49d8c6fc42d7eef49208fcc2d38d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

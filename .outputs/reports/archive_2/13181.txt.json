@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13181.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गिदोन सन्डव्याक  - अमेरिकी स्वीडिशएक बिजुली ईन्जिनियर थिए। गिदोन स्वीडिश सबै भन्दा अधिक जिपको विकासमा आफ्नो कामसँग जोडिएका छन्। ",
+    "ओटो फ्रेड्रिक गिदोन सन्डव्याक Ödestugu मा Sonarp यांगचोपिंग काउंटी, Småland, स्वीडनमा, खेतमा जन्मिएका थिए। उनी जोनास ओटो म्याग्नसन सन्डब्याक, एक समृद्ध किसान र उनको पत्नी क्रिस्टीना क्यारोलिना क्लासडटरका पुत्र थिए। स्वीडनमा आफ्नो पढाई पछि, सन्डब्याक जर्मनी, मा उनी Bingen am Rhein बहुशिल्प स्कूलमा1903 मा अध्ययन गर्नको लागि गए, उनले ईन्जिनियर परीक्षा लिए। 1905 मा, उनी संयुक्त राज्य अमेरिका मा प्रवास गए। "
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 128,
+    "text_length_max": 405,
+    "text_length_avg": 255.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9452,
+      "Latin": 0.0548
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1944,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9452,
+      "Latin": 0.0548
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13181.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13181.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13181.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1944,
+    "mtime": 1782796612.791412,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "b9648270dbca61b352e92b2db3ab0ec9a821240b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

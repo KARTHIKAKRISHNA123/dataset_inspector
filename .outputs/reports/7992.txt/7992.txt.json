@@ -1,0 +1,96 @@
+{
+  "dataset": "7992.txt",
+  "file_name": "7992.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाली सैनिक विमान सेवा नेपाली सेनाको एक अंगको रूपमा रहेको विमान सेवा हो। मुख्यत उद्धार तथा यातायात सहजता का लागि यसको स्थापना गरिएको थियो।",
+    "सेनासित एमआई-17 र एकपटक भारतीय राष्ट्रपतिले दिएका चारवटा, हेलिकोप्टरसहित सेनासँग आयरल्याण्ड, पोल्याण्डमा निर्मित अन्य हेलिकोप्टर पनि छन्। अतिविशिष्ट व्यक्ति -राजा)को सवारीका लागि नेपालमा फ्रेन्च कम्पनीको सुपरपुमा हेलिकोप्टर छ। साथै, सेनासँग एभ्रो, स्काई ट्रक र अन्य प्रकरका जहाज छन्। यसबाहेक सेतो रङ पोतिएका सुपरपुमा र बेल हेलिकोप्टर अतिविशिष्ट र विशिष्ट व्यक्तिको उडान भर्न प्रयोग गरिन्छन्। माओवादी सशस्त्र द्वन्द्वकालमा अत्यधिक प्रयोग हेलिकोप्टरको गरिएको थियो। "
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 463,
+    "text_length_avg": 76.7,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8146,
+      "Latin": 0.1854
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3636,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8146,
+      "Latin": 0.1854
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7992.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7992.txt",
+    "relative_path": "7992.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7992.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3636,
+    "mtime": 1782796597.1061163,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.984,
+    "sha1_quick": "203b83054167041d87da92c0fca06bf1b1c103df",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

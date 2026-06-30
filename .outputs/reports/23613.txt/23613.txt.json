@@ -1,0 +1,92 @@
+{
+  "dataset": "23613.txt",
+  "file_name": "23613.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मार्ता अन्जुई अर्दानिज स्पेनकी व्यवसायीक महिला फुटबल खेलाडी हुन्। यिनी हाल बार्सिलोनाको महिला फुटबल टिमबाट क्लब फुटबल खेल्ने गर्दछिन्। मुख्य रूपमा यिनी डिफेन्डिङ मिडफिल्डरका रूपमा मैदान उत्रने गर्दछिन्। हाल उनी बार्सिलोनाको क्याप्टेनको रूपमा खेल्दछिन्।",
+    "यिनी सन् 2006 मा ओसासुना महिला टिमबाट बार्सा आएकि थिइन् जहाँ उनकी दिदी पनि थिइन् । जति बेला उनी बार्सा आएकी थिइन्, उक्त समय बार्सा लिग रेलिगेसनको चपेटामा थियो । उनले क्लबलाई रेलिगेसनबाट बचाउन ठूलो भूमिका निभाउनुका साथै क्लबमा आएकी चार वर्ष पछि नै उनी क्लबको क्याप्टेन भइन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 77,
+    "text_length_max": 274,
+    "text_length_avg": 171.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1841,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23613.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23613.txt",
+    "relative_path": "23613.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23613.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1841,
+    "mtime": 1782796505.9847572,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "40474aedf2a9f989f4aa76ce4b8222b298f22b5f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

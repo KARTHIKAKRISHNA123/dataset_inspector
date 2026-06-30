@@ -1,0 +1,92 @@
+{
+  "dataset": "38104.txt",
+  "file_name": "38104.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुशी वा सुसी जापानी खाद्य परिकार हो । यस परिकारमा भिनेगर मिश्रित चामल 鮨飯 सँग अन्य खाद्य सामग्रीहरू |ネタ, सोय सस, मुलासँग पस्किने गरिन्छ ।",
+    "पहिलो शैलीको सुसी दक्षिणपूर्वी एसियामा सर्वप्रथम बनाइएको थियो । माछामा नुन हाली अम्लिय चामलमा बेरिन्थ्यो । नारे जुसी महिनौंसम्म सुरक्षित राखिन्थ्यो, अम्लिय चामलले माछालाई कुहिनबाट बचाउँथ्यो ।कुहिएको चामललाई फालिन्थ्यो भने माछाको भाग मात्र खाइन्थ्यो । यस प्रकारको सुसी जापानीहरूका लागि प्रोटिनको मुख्य स्रोत बन्न पुग्यो । सुसी शब्दको अर्थ \"अमिलो स्वाददिने\" भन्ने हुन्छ । नारे जुसी हाल सम्म पनि माछालाई चामलले बेरेर बनाइन्छ, यसले माछाको प्रोटिनलाई अमिनो एसिडमा टुक्र्याउँछ : त्यसैले यसको स्वाद अमिलो बन"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 6,
+    "text_length_max": 511,
+    "text_length_avg": 117.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4370,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38104.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38104.txt",
+    "relative_path": "38104.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38104.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4370,
+    "mtime": 1782796573.7472587,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "66d9a8d3959651d82295e401b5bf5295cab0763d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

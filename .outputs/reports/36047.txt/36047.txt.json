@@ -1,0 +1,91 @@
+{
+  "dataset": "36047.txt",
+  "file_name": "36047.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अधिकारपृच्छा भन्नाले कुनै न्यायिक वा अर्धन्यायिक निकाय वा कुनै सार्वजनिक अधिकार पाएको व्यक्तिले अधिकार क्षेत्रको अभावमा कुनै काम कारवाही वा निर्णय गरेमा त्यस्तो काम वा निर्णय गर्ने अधिकार कसरी प्राप्त भयो र कुन कानुन अन्तर्गत त्यस्तो गरियो भनी जवाफ माग गरी जारी भएको रिटलार्इ बुझिन्छ । अनधिकृतरूपमा कसैको अधिकार स्वतन्त्रता वा पद खोसिएमा पीडित पक्षले यस्तो रिटको माग गर्छ । प्राकृतिक न्यायको सिद्धान्त विपरीत निर्णय भएमा भएमा पनि अदालतले यो रिट जारी गर्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 456,
+    "text_length_max": 456,
+    "text_length_avg": 456.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1223,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36047.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36047.txt",
+    "relative_path": "36047.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36047.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1223,
+    "mtime": 1782796563.578298,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "15ce74b2fe8ddc99aea9f72b3a2bcffa5f3da7cc",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

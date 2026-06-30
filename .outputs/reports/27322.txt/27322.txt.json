@@ -1,0 +1,91 @@
+{
+  "dataset": "27322.txt",
+  "file_name": "27322.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पञ्चकन्या हिन्दू धर्मका पाँच आदर्श नारीहरूको समूह हो । हिन्दू धर्मको प्रमुख ग्रन्थ रामायणका अनुसार अहिल्या, द्रौपदी, सीता, तारा र मन्दोदरीको समूहलाई पञ्चकन्या भनिएको छ भने अर्को धार्मिक ग्रन्थ महाभारतका अनुसार सितालाई छोडेर कुन्तीलाई पञ्चकन्याको समूहमा राखिएको छ । वास्तवमा भन्नु पर्दा रामायणको कुरालाई नै आधिकारीक मानिएको छ । किन भने रामायणका अनुसार पञ्चकन्या मानिएका नारीहरूले एक न एक कष्ट भोगेका छन् । हुनत पाण्डवहरूकी माता कुन्तीले पनि कष्ट भोगेकी थिइन् । तर जती रामायणमा उल्लेख गरिएका पञ्चकन्याह"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 599,
+    "text_length_max": 599,
+    "text_length_avg": 599.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1604,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27322.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27322.txt",
+    "relative_path": "27322.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27322.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1604,
+    "mtime": 1782796523.1708832,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "11c16924c47f6892db3b6bd34410eb78d2fa8fef",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

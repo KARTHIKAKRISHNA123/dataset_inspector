@@ -1,0 +1,94 @@
+{
+  "dataset": "21594.txt",
+  "file_name": "21594.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुकरात  प्राचीन ग्रीकका विख्यात दार्शनिक हुन। सुकरातलाई सूफि जस्तै मौलिक शिक्षा र आचार द्वारा उदाहरण दिन नै मन पर्थ्यो। वस्तुत: उनका समसामयिक पनि उनलाई सूफी समझन्थे। सूफिहरू जस्तै साधारण शिक्षा तथा मानव सदाचारमा उनी जोड दिन्थे र उनकै तरिका पुराना रूढिहरूमा प्रहार गर्थे। उनी भन्थे, \"\"साँचो ज्ञान संभव छ तर त्यसको लागि ठीक तरिकामा प्रयत्न गरिए; जुन कुरा हाम्रो दिमागमा आउँछं या हाम्रो अगाडि आएका छन्, त्यसलाई तत्सम्बन्धि घटनाहरूमा हामीले जाच्नु पर्छ, यसरीअनेक परखौं पछि हामी एक सत्यतामा पुग्न सक्छौं। ",
+    "उनको व्याख्या भिन्न-भिन्न लेखक भिन्न-भिन्न ढंगले गर्छन। केही लेखक सुकरातको प्रसन्नमुखता र मर्यादित जीवनयोपभोगलाई देखाएर भन्छन् कि उनी भोगी थिए। दोस्रो लेखक शारीरिक कष्ट तिर हेरि उनको बेपर्वाही तथा आवश्यकता परे पछि जीवनसुखलाई पनि छोडनको लागि तैयार रहने दिखाएर उसलाई सादा जीवनको पक्षपाती बताउँछन्। सुकरातलाई हवाई मन पर्थेन। उनी एथेन्सको धेरै नै गरीब घरमा जन्मिएका थिए। गम्भीर विद्वान् र ख्यातिप्राप्त भए पछि पनि उनले वैवाहिक जीवनको लालसा राखेनन। ज्ञानको संग्रह तथा प्रसार, यो नै उनको जीवनको मुख्य लक्ष्"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 1195,
+    "text_length_avg": 564.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7479,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9966,
+      "Latin": 0.0034
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21594.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21594.txt",
+    "relative_path": "21594.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21594.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7479,
+    "mtime": 1782796497.0772905,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a72fc7748a98aa48227d5a51c98c792f147cbc97",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "32110.txt",
+  "file_name": "32110.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शम्भुप्रसाद ज्ञवाली नेपालका पूर्व महान्यायाधिवक्ता हुनुहुन्छ । कानुनी व्यवस्था भएपछि नियुक्त भएकाले ज्ञवालीलाई नेपालको पहिलो भन्ने पनि गरिन्छ । ",
+    "प्रधान न्यायालय ऐन, 2008 लाई खारेज गरी जारी भएको सर्वोच्च अदालत ऐन, 2013 मा महान्यायाधिवक्तासम्बन्धी कुनै व्यवस्था गरिएको थिएन । सर्वोच्च अदालत खडा भएको केही समयपछि अदालतमा महत्वपूर्ण संवैधानिक विवाद पर्न आएको र सरकारका तर्फबाट बहस एवं प्रतिरक्षा गर्नुपर्ने भएकोले सर्वोच्च अदालत ऐन, 2013 को दफा 21 ले प्रदान गरेको अधिकार प्रयोग गरी गृह मन्त्रालयबाट 2013 साल श्रावण 1 गतेको राजपत्रमा प्रकाशित सूचनाबाट सरकारलाई सरोकार पर्ने मुद्दा मामिलामा आवश्यकतानुसार गभर्मेण्ट एडभोकेटले सर्वोच्च अदालतलगायत नेपालक"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 144,
+    "text_length_max": 887,
+    "text_length_avg": 400.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3141,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "32110.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\32110.txt",
+    "relative_path": "32110.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "32110.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3141,
+    "mtime": 1782796545.6185772,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d4bb8079ce7c929272b7e101c9032e0a4cab4865",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "1543.txt",
+  "file_name": "1543.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किसानको मनोबल उच्च राखी उनीहरूको श्रमको सम्मान गर्ने उद्देश्यले कृषि तथा सहकारी मन्त्रालयले मुलुकभरि असार महिनाको 15 गतेलाई राष्ट्रिय धान दिवसको रूपमा मनाउने परम्परा बसालेको छ । वर्ष 2066 को नारा कृषि भूमिको संरक्षण गरौं, धानको उत्पादन बढाऔं राष्ट्रिय धान दिवस यस दिन कृषि क्षेत्रसँग सम्वन्धित संघ संस्थाले विभिन्न कार्यक्रम गरि मनाउदछन् । यस दिनलाई रोपाई महोत्सवका रुपमा समेत मनाउने गरिन्छ । मानो रोपेर मुरी फलाउने दिनका रुपमा रुपमा यस दिन अधिकांस स्थानमा रोपाई गरि धान दिवस मनाउने गरिन्छ । कृषि मन्",
+    "नेपालले वि. सं 2061 साल देखि असार 15 लाई धान दिवसका रूपामा मनाउँदै आएको छ । कृषिमा परनिर्भरता बढ्दै गएका कारण उत्पादकत्व बढाउने उद्देश्यले नेपालमा धान दिवस मनाउन थालिएको हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 1403,
+    "text_length_avg": 255.18,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7474,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1543.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1543.txt",
+    "relative_path": "1543.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1543.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7474,
+    "mtime": 1782796467.5348701,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "c42564734c8d5c9fe56260af5fbeb24abd64d316",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

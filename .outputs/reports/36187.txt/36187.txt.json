@@ -1,0 +1,91 @@
+{
+  "dataset": "36187.txt",
+  "file_name": "36187.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पर्दा सामान्यतया उज्यालो तथा धुलोलाई छेक्ने उदेश्यले झ्याल तथा ढोकामा लगाइने तथा स्नानघरमा पानी छेक्ने उदेश्यले लगाइने कपडाको टुक्रा हो। साथै पर्दाको प्रयोग कुनै मञ्चमा पृष्ठभूमीलाई दर्शकदिर्घाबाट नदेख्नको लागि पनि गरिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 222,
+    "text_length_max": 222,
+    "text_length_avg": 222.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 607,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36187.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36187.txt",
+    "relative_path": "36187.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36187.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 607,
+    "mtime": 1782796564.2004948,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2d57d2547f9a6e67aea23c18221df25682682ba9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "38295.txt",
+  "file_name": "38295.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तारणीविक्रम शाह नेपालका क्रिकेट खेलसेवी हुन् । टिबी शाहका नामले पनि चिनिने शाह वीरगञ्ज उपमहानगरपालिकाका हुनुहुन्छ । उहाँ छ दशक क्रिकेटमा सक्रिय हुनुहुन्थ्यो । ",
+    "शाहले परिचित शाह वि.सं. 2010 सालबाट खेलाडीका रूपमा सक्रिय हुनुहुन्थ्यो । आफ्नो जमानाका तीब्र गतिका बलर शाह खेलाडी जीवनबाट बिदा भएपछि पनि विभिन्न भूमिकामा क्यानमा संलग्न हुनुहुन्थ्यो । उहाँले क्यानका पूर्वअध्यक्ष जयकुमारनाथ शाहको नेतृत्वमा रहेको योङ म्यान क्रिकेट क्लब बाट लामो समय खेल्नुभयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 99,
+    "text_length_max": 575,
+    "text_length_avg": 311.14,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5789,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38295.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38295.txt",
+    "relative_path": "38295.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38295.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5789,
+    "mtime": 1782796574.5870044,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "6547cdcf5860fc464bcc1b75626a18645eb746a4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

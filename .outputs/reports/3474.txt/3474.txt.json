@@ -1,0 +1,94 @@
+{
+  "dataset": "3474.txt",
+  "file_name": "3474.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भलायो औषधीय गुण भएको रूख वर्गमा पर्ने वनस्पति हो ।",
+    "यसको फल, पात, चोप वा विरुवाको अरु कुनै भागको सम्पर्कमा आएपछि कसै–कसैलाई एलर्जी हुन सक्छ । यसको फल तितो– टर्रो वा खल्लो हुन्छ तर पाकेपछी गुलियो हुन्छ । कलेजोको कार्यलाई दुरुस्त राख्न, यौनशक्ति बढाउन, रगत बग्न नदिन, जीउलाई न्यानो र छालालाई नरम बनाउन, नशा र जोर्नीका रोग, साइटिका, अजीर्ण–अपच, पेटमा अंकुशे जुका परेमा, जीउको आन्तरिक संचालन प्रकृयामा असहजता, छालाको भित्री भागमा गाँठागुँठी आएमा यसको फल भित्रको गुटीको सेवन गरिन्छ । अल्सर, क्यान्सर, जीउमा सेतो दाग, छालामा कत्ला आएमा, गर्भपतन गर्नु परेमा, "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 50,
+    "text_length_max": 733,
+    "text_length_avg": 424.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9928,
+      "Latin": 0.0072
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4461,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9928,
+      "Latin": 0.0072
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3474.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3474.txt",
+    "relative_path": "3474.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3474.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4461,
+    "mtime": 1782796557.5601575,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "38ec8d3daf70bc5659fbd3b561ee21572bc5ad17",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

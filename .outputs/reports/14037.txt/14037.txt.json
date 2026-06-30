@@ -1,0 +1,92 @@
+{
+  "dataset": "14037.txt",
+  "file_name": "14037.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निकोलस् किम कपोला  प्रख्यात रुपमा निकोलस केज अमेरिकी अभिनेता, चलचित्र निर्माता तथा चलचित्र निर्देशक हुन्। हास्य, द्वन्द, नाटक, विज्ञान प्रधान एवम् हास्य-रोमाञ्च विधा जस्ता चलचित्रहरुमा उनको मुख्य भूमिका रहदैँ आएको छ । चलचित्र जीवनको सुरुवातमा उनको भ्याली गर्ल, बर्डी, हनिमुन इन भेगास् जस्ता चलचित्र रहे ।",
+    "केजले एकेडमी अवार्ड, गोल्डेन ग्लोब र स्क्रिन एक्टर्स ग्लोब अवार्ड लिभिङ लस भेगासबाट पाइसकेका छन् जसमा उनको रक्स्याहा हलिउड लेखकको थियो । गोस्ट राइडर, नोइङ जस्ता उनको सफल चलचित्र हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 304,
+    "text_length_avg": 244.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1298,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14037.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14037.txt",
+    "relative_path": "14037.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14037.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1298,
+    "mtime": 1782796461.2101254,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4d231afa7371d63193808d5f7761c9d3e3231a6b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

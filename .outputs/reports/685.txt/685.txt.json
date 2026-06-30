@@ -1,0 +1,92 @@
+{
+  "dataset": "685.txt",
+  "file_name": "685.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जैथक किल्ला भारतको हिमाचल प्रदेशको सिरमौर जिल्लामा अवस्थित गोर्खाली सेना द्वारा निर्मित किल्ला हो । यो किल्ला समुन्द्री सतहबाट 1979 मिटर उचाई रहेको छ ।",
+    "जैथक किल्ला गोर्खाली कमाण्डर रन्जोर सिंह थापा र उनका सैनिकहरूले 1810 मा नाहान किल्लामा आक्रमण गरी ध्वस्त पारेपछि निर्माण गरेका थिए । यो किल्लामा ब्रिटिश सेना र नेपाली गोर्खाली सेना बीच युद्ध भएको थियो । त्यस युद्धमा नेपाली गोर्खाली सेनाको नेतृत्व काजी अमरसिंह थापाले गरेका थिए । त्यो युद्ध 26 डिसेम्बर 1814 देखी 15 मे 1815 सम्म चलेको थियो । उक्त युद्धमा नेपाली गोर्खाली सेनाले सिरमौर सेना र ब्रिटिश सेनाको संयुक्त फौजलाई पराजित गरेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 151,
+    "text_length_max": 439,
+    "text_length_avg": 295.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1534,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "685.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\685.txt",
+    "relative_path": "685.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "685.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1534,
+    "mtime": 1782796591.6912203,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d417086118fa7e9a6f0dafddb6e8c697e3d8c939",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

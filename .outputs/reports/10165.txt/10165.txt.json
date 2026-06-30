@@ -1,0 +1,92 @@
+{
+  "dataset": "10165.txt",
+  "file_name": "10165.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जेजे लालपेक्लुआ एक भारतीय व्यवसायीक फुटबल खेलाडी हुन् । उनी हाल चेन्नाइ एफसीबाट व्यवसायीक फुटबल खेल्दैछन् । उनी वर्तमान समयका भारत राष्ट्रिय फुटबल टोलीका कप्तान सुनिल क्षेत्री पछिका चर्चित अग्रपंक्ति खेलाडी हुन् ।",
+    "जेजेको जन्म एउटा भारतको सानो गाउँमा भएको थियो । उनको परिवार फुटबलमय भएकाले उनलाई फुटबलमा आकर्षित हुन थप हौसला मिलेको थियो । उनका बुबा र दाजु स्थानीय मीरोराम फुटबल क्लब - मोडल स्पोर्टिङ क्लबबाट सन्तोष ट्रफीका खेलहरू खेल्ने गर्दथे । उनले आफ्नो दाजुले क्लब छाडेको लगभग चार महिना पछि मोडल क्लबका लागि फुटबल खेलेका थिए ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 381,
+    "text_length_avg": 262.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5431,
+    "estimated_records": 20
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 20,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10165.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10165.txt",
+    "relative_path": "10165.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10165.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5431,
+    "mtime": 1782796443.3023715,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "83916046e0430d214be883d8bdb79d12a4a4d806",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

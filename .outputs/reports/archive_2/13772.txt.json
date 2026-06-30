@@ -1,0 +1,91 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "13772.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मम्मी एउटा संरक्षित शव लाई भन्छन जसको अङ्ग र छालालाई थाहा पाई वा नपाईकन कुनै विधिबाट संरक्षित गरिन्छ। संरक्षित गर्नको लागि उचित रसायनहरूको प्रयोग, अत्यन्त शीतल वातावरण, धेरै कम आर्द्रता, धेरै कम हावा आदिको प्रविधीमा गरिन्छ। अहिलेसम्म फेलापरेको सबै भन्दा पुरानो 6000 वर्ष पुरानो मम्मी हो जुन सन् 1936मा भेटिएको थियो। मानव र अन्य जानवरहरूको मम्मी पूरै संसारमा यत्र-तत्र पाईने नै गर्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 382,
+    "text_length_max": 382,
+    "text_length_avg": 382.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1002,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13772.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\13772.txt",
+    "relative_path": "archive (2)\\valid\\valid\\13772.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1002,
+    "mtime": 1782796613.9949894,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.995,
+    "sha1_quick": "62388629af4b604e9fe3423c774c480ae86c32fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3342.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "इलेक्ट्रोनिक शुसाशन वा इ-शुसाशन भन्नाले सरकारी सेवा, सुचना प्रवाह, सञ्चारको कारोबार, विभिन्न सुचना प्रणालीको एकिकरण तथा सरकार देखि सेवाग्राही, सरकार देखि व्यवसाय, सरकार देखि सरकार जस्ता कार्यहरूको लागि सुचना तथा सञ्चार प्रविधिको एप्लिकेशनको प्रयोगलाई जनाउँदछ । इ-शुसाशनको माध्यमबाट नागरिकहरूलाई सरकारी सेवाहरू सहज, सरल तथा पारदर्शि रूपमा उपलब्ध गराउन सकिन्छ । सरकारी अवधारणा अनुरूप मुख्य तीन लक्षित समूह सरकार, नागरिक तथा व्यवसायिक समुहहरू हुन्छ भने इ-शुसाशनमा कुनै सामूहिक सिमाहरू हुने गर्दैन । ",
+    "सामान्यतया इ-शुसाशनमा चार आधारभूत मोडेलहरू उपलब्ध छन् - सरकार देखि नागरिक, सरकार देखि कर्मचारी, सरकार देखि सरकार तथा सरकार देखि व्यवसाय ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 137,
+    "text_length_max": 496,
+    "text_length_avg": 316.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1689,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3342.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3342.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3342.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1689,
+    "mtime": 1782796652.9365854,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "5fbba27f1219385ab881374265c1be4a920413a5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

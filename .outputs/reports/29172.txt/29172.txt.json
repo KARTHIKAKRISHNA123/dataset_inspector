@@ -1,0 +1,92 @@
+{
+  "dataset": "29172.txt",
+  "file_name": "29172.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मिया खालिफा, मिया कलिस्टाको रूपमा पनि जानिने एक लेबनानी अमेरिकी सामाजिक सञ्चार माध्यम व्यक्तित्व, खेलकुद टिप्पणीकर्ता र वेबक्यामेरा मोडल, वा अश्लील अभिनेत्री हुन्। अश्लील चलचित्र अभिनेत्रीको रूपमा उनि 2014 देखि 2015 सम्म सक्रिय थिइन्।",
+    "बेरुतमा जन्मिएकी, खफिफा 1992 मा संयुक्त राज्यमा बसाइँसराइ गरेकि थिइन्। उनले अक्टोबर 2014 मा अश्लील चलचित्रमा अभिनय गरेकी थिइन्, र डिसेम्बर 2014 मा पोर्नहब नामक क्यानडेली अश्लील वेबसाइटले उनलाई सङ्ख्या एक प्रस्तुता स्थान दिएको थियो। उनको कर्यकाल बिबादास्पद रहेको थियो, विशेष गरी एक भिडियोको लागि उनले इस्लामी हिजाबमा लगाएर यौन कार्यहरू गरेकि थिइन्। तीन महिनापछि, खलीफाले अश्लील उद्योगलाई छाडेर अन्य हितको पछि लागेकि थिइन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 234,
+    "text_length_max": 421,
+    "text_length_avg": 327.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1721,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "29172.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\29172.txt",
+    "relative_path": "29172.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "29172.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1721,
+    "mtime": 1782796531.7535014,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9e9895fde9a80a15e44dee4f0e4c29fc6ebd3c2c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

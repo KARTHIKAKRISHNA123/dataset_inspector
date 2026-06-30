@@ -1,0 +1,92 @@
+{
+  "dataset": "33382.txt",
+  "file_name": "33382.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "डुङ्ग्राकोट राज्य बैतडी जिल्ला, पाटनमा प्राचिन समयमा अस्तित्वमा रहेको राज्य हो ।",
+    "इतिहास लेखनकार्य त्यति सहज छैन् जति इतिहासलाई विगतको खाली स्मरण मात्र मान्ने गरिन्छ, यदि यसका लागि प्राथमिक स्रोतको संरक्षण नगर्ने हो भने माध्यमिक स्रोतको आधारमा मात्र प्रमाणित गर्न एवम् विश्वासनीय बनाउन गाह्रो हुने मात्र नभई भावि सन्ततीका लागि इतिहास मेटिन पुग्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 80,
+    "text_length_max": 3139,
+    "text_length_avg": 914.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 21895,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33382.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33382.txt",
+    "relative_path": "33382.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33382.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 21895,
+    "mtime": 1782796551.3580458,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "48cbc5b685d16c2fa2239a037ecd6effa4e7dd4c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

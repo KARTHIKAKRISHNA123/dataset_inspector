@@ -1,0 +1,94 @@
+{
+  "dataset": "16232.txt",
+  "file_name": "16232.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "काठमाडौं विश्वविद्यालय वा केयु नेपालको एक निजी स्रोत र साधनबाट सञ्चालित सामुदायिक विश्वविद्यालय हो । यो विश्वविद्यालय काभ्रे जिल्लाको धुलिखेलमा अवस्थित छ। सन् 1991 को डिसेम्बरमा स्थापित नेपालको पहिलो निजी स्रोत र साधनबाट सञ्चालित सामुदायिक विश्वविद्यालयका मुख्य भवन धुलिखेलमा रहेका भए पनि अन्य क्याम्पस तथा सम्बन्धन प्राप्त क्याम्पस देशका अन्य भागमा पनि छन् । मानविकी, व्यवस्थापन, वाणिज्य, विज्ञान, चिकित्साशास्त्र, इन्जिनियरिङ आदिको यो विश्वविद्यालयमा पढाई हुने गरेको छ । हाल काठमाडौं विश्वविद्यालयम",
+    "सन् 1991 मा आदर्श वाक्य \"नेतृत्वको लागि गुणस्तरिय शिक्षा\" अथवा \"Quality Education for Leadership\" सहित केयु स्थापित भएको हो । विश्वविद्यालय आफ्नो सात वटा विद्यालयहरूको माध्यमले धुलिखेल, भक्तपुर र ललितपुरमा चलिरहेको छ।"
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 60,
+    "text_length_max": 1084,
+    "text_length_avg": 351.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.989,
+      "Latin": 0.011
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 13036,
+    "estimated_records": 37
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 37,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9865,
+      "Latin": 0.0135
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "16232.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\16232.txt",
+    "relative_path": "16232.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "16232.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 13036,
+    "mtime": 1782796471.2659843,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "86b303160512ab3628061d2f2e75fdcb3e531afe",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "5504.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निलाम्बर आचार्यको जन्म 2000 सालमा सल्यान जिल्लाको खलंगा गा.बि.स.मा भएको हो। उनले कानुनमा स्नातक र मस्कोबाट पत्रकारितामा एम.ए. गरेका छन्। ",
+    "विद्यार्थी छँदा नै 2019मा राजनीतिमा लागेका आचार्यले 2042 बाट कम्युनिष्ट पार्टीमा प्रवेश गरेका हुन्। उनी वाममोर्चाका तर्फबाट 2047 सालको कृष्णप्रसाद भट्टराई नेतृत्वको अन्तरिम सरकारमा कानुन तथा न्याय मन्त्री बनेका थिए। यिनी 2048मा कम्युनिष्टबाट नेपाली कांग्रेसमा प्रवेश गरे। "
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 71,
+    "text_length_max": 372,
+    "text_length_avg": 208.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2715,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5504.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\5504.txt",
+    "relative_path": "archive (2)\\valid\\valid\\5504.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2715,
+    "mtime": 1782796666.6615272,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "b259483760d255cc83e1da3e7c5c768a31861304",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

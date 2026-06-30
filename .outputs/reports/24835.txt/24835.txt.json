@@ -1,0 +1,92 @@
+{
+  "dataset": "24835.txt",
+  "file_name": "24835.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्भया दिल्लीमा 16 डिसेम्बर 2012को बहुचर्चित बलात्कार र हत्याको आपराधिक घटनाको पीडितलाई समाज र मीडिया द्वारा दिएको नाम हो। भारतीय कानुन र मानवीय सद्भावनाको अनुसार यस प्रकारको मामलामा पीडितको पहिचानलाई उजागर गरिने गर्दैन। ",
+    "कुनै नाम नहुनुको ही शायद यो असर थियो कि भारत भरिका जनताले बिना किसी धर्म, जाति-पातिको चश्माले देख्नु भन्दा निर्भयाको सव्यंसँग जोडिएको महसूस गरिन् र भारतीय नारीको सम्मान मात्रको रक्षाको लागि एक अभूतपूर्व आंदोलन सुरु गरेका थिए। मीडियाले पुरा जोर शोरमा जनताको वकालतको र सरकारकों कटघरामा ल्याई पुराए। सरकारलाई पनि आफ्नु जिम्मेवारीको ज्ञात भयो र उसले व्यवस्थामा परिवर्तनको संकल्प गर्यो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 222,
+    "text_length_max": 381,
+    "text_length_avg": 301.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1611,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24835.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24835.txt",
+    "relative_path": "24835.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24835.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1611,
+    "mtime": 1782796511.5602643,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "cec98e9cd1d6f6c5f51b20f7422450eb9f3c0783",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

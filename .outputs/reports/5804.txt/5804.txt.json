@@ -1,0 +1,91 @@
+{
+  "dataset": "5804.txt",
+  "file_name": "5804.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गोजरी वा गूजरी एक इन्डो-आर्यन भाषा परिवारको भाषा हो। यो उत्तर भारत र पाकिस्तानमा गुर्जर समुदायको धेरै सदस्यद्वारा बोलिने गर्छ। भारतमा यो भाषा राजस्थान,हरियाणा, हिमाचल प्रदेश, जम्मू र कश्मीर, उत्तराखण्ड र पञ्जाब राज्यमा बोलिने गर्छ। पाकिस्तानमा यो पाक-अधिकृत कश्मीर र पञ्जाब मा बोलिने गर्छ। यो भाषाको मूल ढाँचा र शब्दावली दुबै राजस्थानी भाषाको हो तर स्थान अनुसार यसमा पञ्जाबी, डोगरी, कश्मीरी, गुजराती, हिन्दको र पश्तो भाषाहरुको प्रभाव देख्न पाइन्छ। जम्मू-कश्मीर राज्यमा यसलाई आधिकारिक दर्जा प्राप्त छ "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 501,
+    "text_length_max": 501,
+    "text_length_avg": 501.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1330,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5804.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5804.txt",
+    "relative_path": "5804.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5804.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1330,
+    "mtime": 1782796586.771495,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7c5561cd91d680f3d47b38a3d91f83a3ba25d4c2",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

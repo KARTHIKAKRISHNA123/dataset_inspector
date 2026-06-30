@@ -1,0 +1,91 @@
+{
+  "dataset": "1176.txt",
+  "file_name": "1176.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द्वयधारी अथवा बाइनरी संख्यामा '0' र '1' प्रयोग गरिन्छ। विद्युतीय रुपमा सूचना तथा तथ्यांक हरुको प्रतिनिधित्व, भण्डारण तथा प्रशारण को लागि यो संख्या प्रणाली उपयुक्त रहेको छ । विद्युतीय प्रविधि अन्तर्गत कुनै पनि कुरा लाई बिद्युत आपूर्ति रहेको वा नरहेको गरी दुई अवस्थामा विभाजित गर्न सहज र स्वाभाविक हुन्छ । त्यसैगरी सोहि माध्यमबाट चल्ने कम्प्युटर हरुमा पनि सूचना हरु यस्ती विद्युतीय रुपमा राख्दा विद्युत रहेको र नरहेको को रुपमा राख्नुपर्ने हुन्छ । सो को लागि उक्त सूचनाहरुको प्रतिनिधि स्वरूप पनि सोहि अन"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 740,
+    "text_length_max": 740,
+    "text_length_avg": 740.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1948,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "1176.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\1176.txt",
+    "relative_path": "1176.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "1176.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1948,
+    "mtime": 1782796450.879315,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "aac64cc6e6cd7d51754bdfe4080be2e357734710",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

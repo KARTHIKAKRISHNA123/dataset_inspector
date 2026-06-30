@@ -1,0 +1,92 @@
+{
+  "dataset": "6497.txt",
+  "file_name": "6497.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एलोरा अथवा एल्लोरा एक पुरातात्विक स्थल हो, यो स्थल भारतको औरंगाबाद, महाराष्ट्र बाट 30 कि.मि. को दूरिमा अवस्थित छ । यो स्थलाई राष्ट्रकूट वंश को शासकहरूले बनाएको थियो । अफ्नो स्मारक गुफाको लागि प्रसिद्ध, एलोरा युनेस्को द्वारा घोषित एक विश्व सम्पदा क्षेत्र हो ।",
+    "नृत्य गर्दै गरेका नटराज को कैलाश पर्वतप्रतिमा, गुफा संख्या-16.यसमा गरेको रंग रोगन अहिले पनि प्रष्ट देखिन्छ, जुन पहिले पुरा गुफामा लगाएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 7,
+    "text_length_max": 258,
+    "text_length_avg": 72.71,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1336,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6497.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6497.txt",
+    "relative_path": "6497.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6497.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1336,
+    "mtime": 1782796589.957004,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "a9e031754b0cae42f17ad8f17c20c7287f5d4875",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

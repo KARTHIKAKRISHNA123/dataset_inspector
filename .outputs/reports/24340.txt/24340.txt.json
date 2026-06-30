@@ -1,0 +1,92 @@
+{
+  "dataset": "24340.txt",
+  "file_name": "24340.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राजतरंगिणी, कल्हणद्वारा रचित एउटा संस्कृत ग्रन्थ हो। 'राजतरंगिणी' को शाब्दिक अर्थ हो - राजाहरुको नदी, जसको भावार्थ हो - 'राजाहरुको इतिहास वा समय-प्रवाह'। यो कविताको रूपमा छ। यसमा कश्मीरको इतिहास वर्णित गरिएको छ, जो महाभारत कालबाट आरम्भ भएको हो। यसको रचनाकाल सन 1147 देखि 1149 सम्म भनिने गरिएको छ। भारतीय इतिहास-लेखनमा कल्हणको राजतरंगिणी पहिलो प्रामाणिक पुस्तक मानिन्छ। यो पुस्तकको अनुसार कश्मीरको नाम \"कश्यपमेरु\" थियो, जो ब्रह्माको पुत्र ऋषि मरीचिका पुत्र थिए। ",
+    "राजतरंगिणीको प्रथम तरङ्गमा बताइएको छ कि सबभन्दा पहिले कश्मीरमा पाण्डवहरुको सबभन्दा कान्छो भाई सहदेवले राज्यको स्थापना गरेका थिए र त्यो समय कश्मीरमा केवल वैदिक धर्म ही प्रचलित थियो। फेरी सन् 273 ईसा पूर्व कश्मीरमा बौद्ध धर्मको आगमन भयो।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 45,
+    "text_length_max": 461,
+    "text_length_avg": 227.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4825,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24340.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24340.txt",
+    "relative_path": "24340.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24340.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4825,
+    "mtime": 1782796509.339091,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "52a95bd52f60ac7be6edf0cd11385dd4df1a1c6d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

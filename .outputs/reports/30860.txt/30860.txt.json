@@ -1,0 +1,96 @@
+{
+  "dataset": "30860.txt",
+  "file_name": "30860.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "Coix agrestis Lour.Coix arundinacea Lam.Coix exaltata Jacq.Coix lacryma L.",
+    "भिरगौंडी वा गलगौंडी पोथ्रा वर्गमा पर्ने फूल फुल्ने वनस्पति हो । यसको छिप्पिएको फल माला बनाउन प्रयोग गरिन्छ । भिरगौंडीलाई कतै कतै वन जुनेलो पनि भनिन्छ । यो एकदलीय वनस्पति हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 74,
+    "text_length_max": 174,
+    "text_length_avg": 124.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6976,
+      "Latin": 0.3024
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 537,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6976,
+      "Latin": 0.3024
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30860.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30860.txt",
+    "relative_path": "30860.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30860.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 537,
+    "mtime": 1782796539.8359635,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "6438fffafcef7e994cfe47140d2aa4730506dde5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

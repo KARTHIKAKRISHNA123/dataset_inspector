@@ -1,0 +1,92 @@
+{
+  "dataset": "14028.txt",
+  "file_name": "14028.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मित्रसेन थापा मगर नेपाली सङ्गीतका लोक गायक, कवि, नाटककार, निबन्धकार, गीतकार र संगीतकार थिए ।",
+    "मास्टर मित्रसेनको जन्म सन् 1895 डिसेम्बर 29मा भागसू धर्मशाला छाउनी भारतको हिमाचल प्रदेशको काँगडा जिल्लाको सदरमुकामा भएको थियो। उनका बाबु हबल्दार मनवीरसेन थापाले मित्रसेनलाई सानै उमेरदेखि भानुभक्तको रामायण लय हालेर वाचन गर्न सिकाएका थिए । उनको रुचि सुरुदेखि नै गीतिलयमा बसेको हो ।विक्रम संवत् 1952 सालमा भारतको हिमाञ्चल प्रदेशको भाग्सु तोतारानीछेउ छाउनी धाराखोलामा जन्मेका मित्रसेनका हवल्दार मानवीरसेन थापा मगर र राधा थापाका उनी एउटै सन्तान थिए। मित्रसेन जन्मँदा पनि उनका बाबु फर्स्ट गोरखा राइफल्समा क"
+  ],
+  "statistics": {
+    "records_sampled": 22,
+    "missing_text": 0,
+    "text_length_min": 61,
+    "text_length_max": 719,
+    "text_length_avg": 329.23,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 19347,
+    "estimated_records": 58
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 58,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14028.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14028.txt",
+    "relative_path": "14028.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14028.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 19347,
+    "mtime": 1782796461.175367,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "5da7c4bf86176c294d6a3d65cabe55274acc040c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

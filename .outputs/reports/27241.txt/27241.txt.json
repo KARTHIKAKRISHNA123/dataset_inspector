@@ -1,0 +1,96 @@
+{
+  "dataset": "27241.txt",
+  "file_name": "27241.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मलेसिया राष्ट्रिय फुटबल टिम अन्तर्राष्ट्रिय फुटबल प्रतियोगितामा मलेसियाको प्रतिनिधित्व गर्ने पुरुष फुटबल टिम हो । यो मलेसिया फुटबल संघको नियन्त्रणमा रहेकोे छ ।",
+    "उद्दरण त्रुटी: tags exist for a group named \"note\", but no corresponding tag was found, or a closing is missing"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 111,
+    "text_length_max": 159,
+    "text_length_avg": 135.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.6652,
+      "Latin": 0.3348
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 570,
+    "estimated_records": 4
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 4,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.6652,
+      "Latin": 0.3348
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "27241.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\27241.txt",
+    "relative_path": "27241.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "27241.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 570,
+    "mtime": 1782796522.7852397,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "d52a7b27fce983b814bcdd4db1fa49470946a80b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "12902.txt",
+  "file_name": "12902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रिय जनगणना 2068 नेपालमा गरिएको एघारौं जनगणना हो। यो जनगणनाले देशव्यापी रूपमा तथ्याङ्क संकलन गरेको थियो। राष्ट्रिय जनगणनाको अन्तिम रिपोर्ट अनुसार नेपालको जनसङ्ख्या 2 करोड 64 लाख 94 हजार पाँच सय चार पुगेको छ।",
+    "केन्द्रीय तथ्यांक विभागले प्रकाशित गरेको राष्ट्रिय जनगणना 2068को प्रारम्भिक नतीजा अनुसार नेपालको जनसङ्ख्या 2,66,20,809 जना पुगेको देखिन्छ, जुन दश वर्षअघि को जनसङ्ख्या 2,31,51,423को तुलनामा 34,69,386ले बढी देखिन्छ । यसरी दश वर्षमा नेपालको जनसङ्ख्या 14.99 प्रतिशत बढेको देखिन्छ । विगत दश वर्षको सरदर बार्षिक वृद्धिदर 1.40 प्रतिशत देखिन्छ । वि.सं. 2048 देखि 2058 सम्मको दश वर्षमा सरदर वार्षिक जनसङ्ख्या वृद्धिदर 2.25 प्रतिशत रहेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 15,
+    "missing_text": 0,
+    "text_length_min": 20,
+    "text_length_max": 505,
+    "text_length_avg": 100.47,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3664,
+    "estimated_records": 36
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 36,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12902.txt",
+    "relative_path": "12902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12902.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3664,
+    "mtime": 1782796456.2212343,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.981,
+    "sha1_quick": "dfb93ac0fd1bbe05348de0c8eacec755681c4b03",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

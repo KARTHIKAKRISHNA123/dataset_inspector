@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33021.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अलबामा संयुक्त राज्य अमेरिकामा पर्ने एक राज्य हो। यो संयुक्त राज्य अमेरिकाको दक्षिण क्षेत्रमा अवस्थित एक राज्य हो। यो राज्यको सीमा उत्तरमा टेनेसी, दक्षिण पूर्वमा फ्लोरिडा, दक्षिणमा मेक्सिकोको खाडी, पूर्वमा जर्जिया र पश्चिममा मिसिसिपीसंंग जोडिएको छ। अलबामा आकारको आधारमा संयुक्त राज्य अमेरिकाको 30औं ठुलो तथा जनसङ्ख्याको आधारमा 23औं ठुलो राज्य हो। ",
+    "अमेरिकी गृह युद्ध देखि दोस्रो विश्वयुद्ध सम्म, अलबामाले अरु दक्षिणी राज्यहरू सरह आर्थिक चुनौतिहरुको सामना गर्यो। द्वितीय विश्व युद्ध पश्चात अलबामा राज्यको अर्थव्यवस्थामा महत्वपूर्ण सुधार भयो र यो राज्यले उत्पादन, खनिज निष्कर्षण, कृषि क्षेत्रमा धेरै फड्को मार्र्यो। शिक्षा र प्रविधिको रूपमा, र एकाधिक सैन्य प्रतिष्ठानको विस्तार, मुख्य रूपबाट अमेरिकी सेना र अमेरिकी वायुसेनाबाट यो प्रसिद्ध भयो। राज्यले एयरोस्पेस, शिक्षा, स्वास्थ्य हेरचाहमा निवेश गरेको छ, र बैंकिंग, र विभिन्न ऑटोमोबाइल विनिर्माण, खनिज"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 342,
+    "text_length_max": 573,
+    "text_length_avg": 420.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3365,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33021.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33021.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33021.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3365,
+    "mtime": 1782796652.1735764,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "3a5fa09cba7577139bd8ec1ee98e1ab13abb3d5c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

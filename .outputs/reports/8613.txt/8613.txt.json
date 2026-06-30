@@ -1,0 +1,92 @@
+{
+  "dataset": "8613.txt",
+  "file_name": "8613.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोलखा बजारमा दैव्य शक्तिमाथि सत्यको विजयको स्वरुप मनाइने हिपाथामी जात्रा विजयादशमीको दिनदेखि सुरु भई चर्तुदशीका दिन अन्त्य गरिन्छ| ",
+    "यो जात्रालाई नेवारी र थामी समुदायको परम्परागत सास्कृतिक सम्बन्धको रुपमा हेरिन्छ । महानवमीको मध्य रातमा दोलखा बजारका 12 स्थानका शक्तिपिठमा वली चढाएपछि विजय दशमीको विहान टिका ग्रहण गर्नुअघिबाट यो जात्रा प्रारम्भ हुन्छ|विषेश गरी थामी समुदायका नाइके अगुवाईमा वाजा गाजासहित भीमेश्वर मन्दीरमा दानवको प्रतिक हिपाथामी स्नान गरी निस्केपछि त्रिपुरा सुन्दरी मन्दीरमा चढाएको वलीको रगत पिएर जात्रालाई रोचक बनाइन्छ । त्यस्तै राजकुलमा गएर दानवको प्रतिक आगो मुखमा हालेर दानवको उग्ररुप प्रस्तुत गरिन्छ । दोलखाको उत्तर"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 1027,
+    "text_length_avg": 395.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3210,
+    "estimated_records": 8
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 8,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8613.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8613.txt",
+    "relative_path": "8613.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8613.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3210,
+    "mtime": 1782796600.2274399,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b4a07b7e2e3aec420960cf49a8c1d33acf992098",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

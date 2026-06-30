@@ -1,0 +1,94 @@
+{
+  "dataset": "3678.txt",
+  "file_name": "3678.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2014 प्रो कबड्डी लीग प्रो कबड्डी लीगको पहिलो सत्र हो। यो सत्र 26 जुलाई 2014 देखि 31 अगस्ट 2014 सम्म भएको थियो। यो सत्रमा डबल राउन्ड रोबिन म्याच भयो जसको साथमा दुई सेमि फाइनल, तेश्रो स्थान र फाइनल ग्याम थियो। यो सत्रमा 56 म्याच पहिलो राउन्डमा र 4 म्याच प्लेअफ स्टेज मा खेलियो, जस्मा जम्मा 60 म्याच खेलियो। यो सत्रमा जम्मा 8 टीम सहभागि भएका थिए। यो सत्रको पहिलो म्याच जुन 26 मा, यू मुम्बा र जयपुर पिन्क पेन्थर्स बिच भएको थियो र फाइनल 31 अगस्ट मा सरदार वल्लभ भाई पटेल इन्डोर स्टेडियममा भएको थियो। यो सत्",
+    "Source: prokabaddi.com"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 611,
+    "text_length_avg": 234.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9649,
+      "Latin": 0.0351
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1757,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9649,
+      "Latin": 0.0351
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3678.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3678.txt",
+    "relative_path": "3678.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3678.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1757,
+    "mtime": 1782796567.028012,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.997,
+    "sha1_quick": "e266825c731e398ec38ca53128c59e86d101cfd8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "36056.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रातो जूनबकुल्ला नेपाल लगायत भारत, चिन देखि इण्डोनेसियासम्मको क्षेत्रमा पाइने बकुल्ला प्रजातिको एक पंक्षी हो। यो पंक्षीले छोटो दुरीमा बसाइँसराइ गर्ने गर्छ। ",
+    "रातो जुनबकुल्लाको लम्बाई 40 बाट 41 सेमी हुन्छ र यसको एउटा पखेटा देखि अर्को पखेटासम्मको लम्बाई 49.5 सेमी हुन्छ भने यसको तौल 80.5 देखि 164 ग्राम हुन्छ। यस पंक्षीको छोटो घाँटी र चुच्चे लामो हुन्छ। यस प्रजातिको पोथी जाति भाले भन्दा सानो हुन्छ तर पोथीको पछाडिको भाग र टाउको खैरो रङ्गको हुन्छ। यस पंक्षीको चुच्चे पहेँलो र हल्का सुन्तला रङ्गको हुन्छ। यस पंक्षीको आँखाको नानी पहेँलो देखि सुन्तला रङ्गको हुन्छ। यसको टाउको तलको भाग र घाँटी हल्का सेतो हुन्छ। यस पंक्षीको पुच्छर खैरो र खुट्टा पहेँलो र हल्का हरिय"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 109,
+    "text_length_max": 605,
+    "text_length_avg": 311.44,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7396,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9996,
+      "Latin": 0.0004
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36056.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\36056.txt",
+    "relative_path": "archive (2)\\valid\\valid\\36056.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7396,
+    "mtime": 1782796658.5715337,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b40dfabc8eb233ceb7615b9362053c8dbe1e1f44",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "37911.txt",
+  "file_name": "37911.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "2073 सालको दशैं-तिहार-छठको अवसर पारेर विकिमिडिया समुदाय नेपालले 2073 असोज 15 गतेदेखि कार्तिक 21 सम्म पाँचौँ नेपाली विकिथन कार्यक्रम आयोजना गरेको छ ।",
+    "विकिथनमा सहभागी हुन निम्न कुराहरूमा तयार रहनुहोस् :"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 51,
+    "text_length_max": 274,
+    "text_length_avg": 147.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9891,
+      "Latin": 0.0109
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2347,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9891,
+      "Latin": 0.0109
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37911.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37911.txt",
+    "relative_path": "37911.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37911.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2347,
+    "mtime": 1782796572.8439705,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b6aa545e75c9e55fac5e1e8933d21acc3b913971",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

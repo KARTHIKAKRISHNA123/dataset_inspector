@@ -1,0 +1,92 @@
+{
+  "dataset": "2936.txt",
+  "file_name": "2936.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "\"वन्डरल्यान्ड\" अमेरिकी गायिका-गीतकार टेलर स्विफ्ट को गीत हो जुन उनको पाँचौँ स्टुडियो एल्बम 1989 लागि रेकर्ड गराइएको थियो। एल्बमको तेस्रो एकलको रूपमा यस गीत 17 फेब्रुअरी 2015 मा बिग मेसिन रेकर्डस् र रिपब्लिक रेकर्डस् द्वारा सार्वजनिक गरिएको थियो।",
+    "गीतले अमेरिकामा बलियो डिजिटल बिक्री गरेकाले अमेरिकी आधिकारिक चार्ट कम्पनी बिलबोर्ड हट 100मा शीर्ष 51अौँ स्थानमा चार्ट प्रवेश गरेको थियो। गीत क्यानडेली हट 100 मा 59अौँ, एरिया चार्टमा 84 र युकेमा 171अौँ स्थानमा अाउन सफल भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 245,
+    "text_length_avg": 136.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1410,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2936.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2936.txt",
+    "relative_path": "2936.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2936.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1410,
+    "mtime": 1782796532.6620173,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "a85d995a4a0702e8753c66299f8b399c831251da",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

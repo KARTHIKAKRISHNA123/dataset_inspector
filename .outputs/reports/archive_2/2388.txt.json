@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "2388.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रोबर्ट एन्ड्रयु मिलिकन एक अमेरिकी प्रयोग भौतिकशासत्रि हुन् जसलाई1923 मा इलेक्ट्रोनको मुलभुत एकाइ चार्जको नाप र प्रकाश विद्युत प्रभावमा उनको कार्यको लागि भौतिकशास्त्र तर्फको नोबेल पुरस्कार प्रदान गरिएको थियो।",
+    "मिलिकनले ओबर्लिन कलेजबाट 1891 मा स्नातक गरे र 1895 मा कोलम्बिया युनिभर्सिटीबाट डक्टोरेट उपाध हासिल गरे । 1896 मा उनी युनिभर्सिटी अफ सिकागोमा सहायक प्राध्यापक भए जहाँ उनी 1910 मा पुर्ण प्राध्यापक बने । 1909 मा मिलिकनले इलेक्ट्रोनको मुलभुत एकाइ चार्ज पता लगाउन प्रयोगको शृङ्खला सुरु गरे । उनले इलेक्टि्क फिल्डमा चार्जयुक्त पानीको थोपाबाट प्रयोगको थालनी गरे । प्रयोगको नतिजाबाट यो निष्कर्षमा पुगियो क थोपामा रहेको चार्ज मुल इलेक्ट्रोनको चार्जको गुणन हुन्छ, 1910 मा उनले आफ्नो प्रख्यात आयल ड्रप एक्सपेरिप"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 123,
+    "text_length_max": 736,
+    "text_length_avg": 355.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5538,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2388.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\2388.txt",
+    "relative_path": "archive (2)\\valid\\valid\\2388.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5538,
+    "mtime": 1782796634.0431783,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "bd12342d2921fb9d045b7a6b463b2eba57fbde03",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

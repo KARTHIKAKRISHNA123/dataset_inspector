@@ -1,0 +1,94 @@
+{
+  "dataset": "20066.txt",
+  "file_name": "20066.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The Best FIFA Football Awards 2016 एक फिफाले प्रदान गरेको सबैभन्दा ठूलो र महत्त्वपूर्ण फुटबल अवार्ड हो। आफ्नो कट्टर प्रतिद्धन्द्धी बार्सिलोनाका अर्जेन्टिनी स्ट्राइकर लियोनेल मेस्सीलाई पछि पार्दै क्रिस्टियानो रोनाल्डोले फिफा वर्ष खेलाडीको सम्मान प्राप्त गरेका थिए। रियल म्याड्रिडका पोर्चुगिज स्ट्राइकरलाईसन् 2016 को सिजनमा उनले गरेको उत्कृष्ट प्रदर्शनका लागि विश्व फुटबलको उच्च निकाय फिफाले 2017 जनवरी 09 सोमबार राती स्विट्जरल्यान्डको ज्युरिचमा आयोजित विशेष कार्यक्रममा सम्मान गरेको थियो। गत वर्ष आफ्न",
+    "‘मैले धेरै पल्ट बताइसकेको छु, 2016 मेरो खेल जीवनको स्वप्निल समय हो,’ एक महिनाअघि मात्र बालोन डि’ओरबाट चौथो पल्ट सम्मानित भएका 31 वर्षीय रोनाल्डोले प्रतिक्रिया दिएका थिए।"
+  ],
+  "statistics": {
+    "records_sampled": 21,
+    "missing_text": 0,
+    "text_length_min": 35,
+    "text_length_max": 796,
+    "text_length_avg": 207.76,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.993,
+      "Latin": 0.007
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 11553,
+    "estimated_records": 55
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 55,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9924,
+      "Latin": 0.0076
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "20066.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\20066.txt",
+    "relative_path": "20066.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "20066.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 11553,
+    "mtime": 1782796489.9677541,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "6278fe4c03dffb950253f99a2d60ba66920ebb26",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

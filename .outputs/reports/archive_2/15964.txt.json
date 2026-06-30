@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "15964.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "टोक्यो  जापानको राजधानी तथा सबैभन्दा ठुलो सहर हो । यो जापानको होन्शू द्वीपमा रहेको छ र यसको जनसङ्ख्या करिब 86 लाख छ, जबकि टोक्यो क्षेत्रमा 1.28 करोड र उपनगरीय क्षेत्र मिलाएर यहाँ अनुमानित 3.7 करोड मानिसहरू बसोबास गर्छन्, जुन यस देशको सबैभन्दा धेरै जनसङ्ख्या भएको महानगरीय क्षेत्र हो । टोक्यो लगभग 80 किलोमिटरको क्षेत्रमा फैलिएको छ र यो क्षेत्रफलको दृष्टिकोणबाट पनि विश्वको सबैभन्दा ठुलो नगरीय क्षेत्र हो ।",
+    "टोक्यो विश्वको सबैभन्दा विकसित सहरहरू मध्ये एक हो । यो जापानको राजनीतिक, आर्थिक तथा सांस्कृतिक गतिविधिको प्रमुख केन्द्र हुनको साथसाथै विश्वको एक प्रमुख आर्थिक केन्द्र पनि हो । यो विश्वको सबैभन्दा बढी महानगरीय अर्थव्यवस्था पनि हो जसको कुल घरेलु उत्पादन, क्रय शक्तिको आधारमा सन् 2005 मा 1,191 अरब डलर थियो । न्यूयोर्क तथा लण्डनसँग मिलेर यो विश्व अर्थव्यस्थाको सञ्चालन गर्ने इन्जिन हो र यसलाई अल्फा+ नगरको दर्जा प्राप्त छ । विभिन्न संस्थाद्वारा गरिएको सर्वेक्षणमा टोक्योलाई विश्वको लगातार सबैभन्दा महँगो"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 37,
+    "text_length_max": 529,
+    "text_length_avg": 250.42,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7826,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15964.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\15964.txt",
+    "relative_path": "archive (2)\\valid\\valid\\15964.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7826,
+    "mtime": 1782796618.454154,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "dfa987b5f6ebc74fc69326e945252b96559a069d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

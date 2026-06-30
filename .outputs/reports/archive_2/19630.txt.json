@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "19630.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्रिकेट ब्याट र बलले खेल्ने सामुहिक खेल हो। यो हाल संसारकै सबैभन्दा रुचाइएको खेल हो। यस खेलका मुख्यत तीन प्रकार हुन्छन्: पाँच दिनको, एक दिवसीय र 20-20 क्रिकेट । यसको मुख्य नियन्त्रक संस्था अन्तर्राष्ट्रिय क्रिकेट परिषद हो । यो खेल खुला मैदानमा रहेको पिचमा खेलिन्छ । क्रिकेट एंग्लो स्याक्सन काल मानिने पाँचौं शताब्दीदेखि नै बेलायतबाट सुरु भएको मानिन्छ। सडकमा केटाकेटीले भकुन्डोलाई लौराले हानेर खेल्ने खेलबाट सुरु भएको क्रिकेटले सत्रौँ सताब्दीमा आएर मात्र प्रौढहरूको ध्यान खिचेको हो। इतिहासअनुसार भेडा ",
+    "क्रिकेट शब्द डच शव्द क्रिकबाट आएको विश्वास गरिन्छ, जसको अर्थ लट्ठी हुन्छ। क्रिकेट खेलमा ब्याट र विकेटको रूपमा लट्ठीका रूपमै प्रयोग गरिने भएकाले यसको नाम जुरेको हुनसक्छ। "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 133,
+    "text_length_max": 727,
+    "text_length_avg": 352.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5592,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19630.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\19630.txt",
+    "relative_path": "archive (2)\\valid\\valid\\19630.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5592,
+    "mtime": 1782796625.7085605,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.988,
+    "sha1_quick": "470c9736a3e3c0e510e9c2126cfbf67448dc5612",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

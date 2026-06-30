@@ -1,0 +1,92 @@
+{
+  "dataset": "7317.txt",
+  "file_name": "7317.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मत्श्य हिन्दू धर्म अनुसार भगवान श्री विष्णुको अवतार मध्यको प्रथम अवतार हो । मत्स्यावतारमा भगवान बिष्णुले माँछाको रूप लिएका थिए।",
+    "हिन्दू धर्म ग्रन्थका अनुसार प्राचिन कालमा सत्यव्रत नामका एक राजा थिए । उनी ठुला उद्धारवान र भगवानका परम भक्त थिए । एक दिन उनी कृतमाला नदीमा तर्पण गर्न लागेका थिए यसै बेला उनको हातमा एक सानो माँछा आयो । माँछाले राजालाई भने \"हे! महाराज यी नदीका जिव तथा ठुला माँछाहरूले मलाई खान्छन् अत: तपाईँ मेरो रक्षा गर्नु होस् ।\"माँछाको विन्ती सुनेर दयालु राजा सत्यव्रतले माँछालाई आफ्नो कमण्डलुमा राखे । केही छिनमै मत्स्य बढेर कमण्डलुमा न अटाउने भए । यो देखेर उदार वादी सत्यव्रतले मत्स्यलाई एक मट्कामा राखे । केही छ"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 127,
+    "text_length_max": 1095,
+    "text_length_avg": 812.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8546,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "7317.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\7317.txt",
+    "relative_path": "7317.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "7317.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8546,
+    "mtime": 1782796593.896873,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "6e189598f103ab7f424583b08df2c1563729c4d7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

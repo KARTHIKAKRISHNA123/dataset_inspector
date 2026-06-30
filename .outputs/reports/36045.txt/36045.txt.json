@@ -1,0 +1,94 @@
+{
+  "dataset": "36045.txt",
+  "file_name": "36045.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कुल घरेलु उत्पादन अथवा कुल घरेलु आय, एउटा अर्थव्यवस्थाको आर्थिक प्रदर्शनको एउटा भरपर्दो माप हो, यो एक बर्षमा एउटा राष्ट्रको सीमा भित्रमा अन्तिम मालसमान र सेवाहरुको बजार मूल्य हो । कुल घरेलु उत्पादनलाई तीन प्रकारले परिभाषित गर्न सकिन्छ, जसमा सबै अवधारणात्मक रूपले समान रहेको छ । ",
+    "अंग्रेजी पहिलो प्रारम्भिक मध्ययुगीन इङ्गल्याण्ड मा बोली र अब एक वैश्विक Lingua Franca छ भनेर एक पश्चिम Germanic भाषा हो।  अंग्रेजी आधिकारिक भाषा वा लगभग 60 सार्वभौम राज्य अमेरिका मा एउटा सरकारी भाषा या त छ। यो संयुक्त राज्य, संयुक्त राज्य अमेरिका, क्यानाडा, अष्ट्रेलिया, आयरल्याण्ड, र न्यूजील्याण्ड मा सबै भन्दा बोली भाषा हो, र यो व्यापक क्यारेबियन, अफ्रीका, र दक्षिण एसिया को केही क्षेत्रमा बोलिने छ। यो छ तेस्रो सबैभन्दा सामान्य देशी चीनी र स्पेनिश पछि, संसारमा भाषा। यो सबैभन्दा व्यापक सिकेका दोस्"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 278,
+    "text_length_max": 802,
+    "text_length_avg": 541.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9514,
+      "Latin": 0.0486
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5542,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9514,
+      "Latin": 0.0486
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36045.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36045.txt",
+    "relative_path": "36045.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36045.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5542,
+    "mtime": 1782796563.5663638,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "81d30340951c898aaf8cf6b64faba80c34319ac9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

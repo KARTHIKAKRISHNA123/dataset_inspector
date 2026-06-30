@@ -1,0 +1,91 @@
+{
+  "dataset": "24448.txt",
+  "file_name": "24448.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "द सिम्प्सनस् एक एनिमेटेड सिट्कम शृंखला हो । एमी एवार्ड जिती सकेको यो कार्यक्रम म्याट ग्रोनिंगले फक्स ब्रोडकास्टिंग कम्पनिकको लागि बनाएका थिए । यो कार्यक्रम टेलिभिजन जगतको इतिहासमा सबै भन्दा सफल र लोकप्रीय कार्यक्रमहरू मध्य एक हो । यसका प्रमुख पात्रहरू यस प्रकार छन्-"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 266,
+    "text_length_max": 266,
+    "text_length_avg": 266.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 711,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24448.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24448.txt",
+    "relative_path": "24448.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24448.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 711,
+    "mtime": 1782796509.834774,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "424ed4127fdb05470424bd97fcb920efa8d00150",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

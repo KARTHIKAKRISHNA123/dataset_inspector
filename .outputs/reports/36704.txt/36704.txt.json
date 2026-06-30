@@ -1,0 +1,92 @@
+{
+  "dataset": "36704.txt",
+  "file_name": "36704.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "निर्देशाङ्क: 35°7′ उत्तर 79°8′ पूर्व / 35.117° उत्तर 79.133° पूर्व / 35.117; 79.133",
+    "अक्साई चिन या अक्सेचिन चीन, पाकिस्तान र भारतको बिचमा तिब्बती पठारको उत्तरपश्चिममा स्थित एक विवादित क्षेत्र हो। यो कुनलुन पर्वतको ठीक तल छ। ऐतिहासिक रूपमा अक्साई चिन भारतलाई रेशम मार्ग सँग जोडने कारण थियो र भारत र हजारौ सालदेखी मध्य एसियाको पूर्वी इलाका र भारतको बीच संस्कृति, भाषा र व्यापारको बाटो रहेको छ। भारतसँग तुर्किस्तानको व्यापार मार्ग लद्दाख र अक्साई चिनको बाटो हुदै काश्गर सहर जाने गर्द्थे। 1950को दशकदेखी यो क्षेत्र चीन कब्जामा छ तर भारत यसमा अपना दावा जनाउछ र यस जम्मु कश्मीर राज्यको उत्तर"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 83,
+    "text_length_max": 686,
+    "text_length_avg": 444.4,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5726,
+    "estimated_records": 12
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 12,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "36704.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\36704.txt",
+    "relative_path": "36704.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "36704.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5726,
+    "mtime": 1782796566.650179,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "fb52b9789b1e6849d414acbea8efcc1a186fe65f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "31764.txt",
+  "file_name": "31764.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चतराधाम सुनसरी जिल्लाको बराहक्षेत्र गाविसमा पर्दछ। यो ठाउँ धरान देखि करिब 13 किलोमिटर पश्चिममा सप्तकोशी नदीको किनारामा पर्दछ। वराहक्षेत्र जाने बाटोमा पर्ने चतराधाम ज्यादै प्राचीन स्थल मानिन्छ। पहाडको फेदीमा नै रहेको चतराधाममा मुख्यतया दुईवटा धार्मिक स्थलहरू छन। तीनीहरू चतराधामको औलीया बाबा मठ र जगद्गुरु पीठ हरू हुन। यिनीहरू मध्ये यहाँको पुरानो मठ भने औलीया बाबा मठ हो। औलियाबाबाको कहानीसँग जोडिएको यस मठको इतिहास मध्यकाल सम्म पुग्दछ।",
+    "चतराधामको औलिया बाबा मठ क्षेत्रमा भैरव, काली, शिव, शिवगणेश र हनुमान आदिका मूर्ति र मन्दिरहरू छन्। यसवाहेक औलिया बाबाको गुदरी घर पनि यसै भित्र पर्दछ। यहाँको मनमुकुन्देश्र शिवालय, मनमुकुन्द सेनले स्थापना पाएको मानिन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 216,
+    "text_length_max": 1405,
+    "text_length_avg": 597.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6387,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "31764.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\31764.txt",
+    "relative_path": "31764.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "31764.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6387,
+    "mtime": 1782796544.0844836,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "14c61b1325b47b06bdccefea740204ac4ea3e4c1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

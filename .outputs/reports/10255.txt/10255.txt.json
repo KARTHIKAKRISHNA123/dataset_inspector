@@ -1,0 +1,92 @@
+{
+  "dataset": "10255.txt",
+  "file_name": "10255.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्टिफन विलियम हकिङ, विश्व प्रसिद्ध अङ्ग्रेजी भौतिक शास्त्री, लेखक र क्यामब्रिज विश्वविद् हुन् । उनले भौतिक विज्ञान र ब्रह्मण्डविज्ञानमा उल्लेखनीय काम गरेका छन् । उनका पुस्तकहरू सबैका लागि विज्ञान बुझ्न मद्दत गर्दछ । ",
+    "स्टिफनको आमाबाबुको घर उत्तरी बेलायत थियो, तर दोस्रो विश्वयुद्धको समयमा अक्स्फोर्ड सुरक्षित स्थान मानिएकोले बच्चाहरूसँग त्यहाँ गए । उनी आठ वर्ष हुँदा उनको परिवार लन्डनमा 20 किलोमिटर उत्तरमा रहेको शहर अल्बान्टमा गए। एघार वर्षको उमेरमा सेन्ट अल्बान स्कूल गए । उनको बुबाको पुरानो कलेज, अक्स्फोर्डमा स्टिफन गणित अध्ययन गर्न चाहन्थे, यद्यपि उनको बुबाले उनलाई चिकित्सा शास्त्र पढाउन चाहन्थे । अक्स्फोर्ड विश्वविद्यालयमा गणित उपलब्ध थिएन, त्यसैले यसको सट्टा भौतिक विज्ञान अध्ययन गर्न तिर लागे । तीन वर्षपछि उ"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 136,
+    "text_length_max": 937,
+    "text_length_avg": 498.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 7864,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10255.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10255.txt",
+    "relative_path": "10255.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10255.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 7864,
+    "mtime": 1782796443.7075133,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2d0ef3c6c2f3a139af1bb40f962a84ceff137ef8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

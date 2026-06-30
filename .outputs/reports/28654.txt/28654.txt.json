@@ -1,0 +1,94 @@
+{
+  "dataset": "28654.txt",
+  "file_name": "28654.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "क्याल्शियम  एउटा भौतिक तत्त्व हो। यो जीवित प्राणीहरूका लागि अत्यावश्यक हुन्छ। भोजनमा यसको समुचित मात्र हुनुपर्छ। खाने योग्य कॅल्शियम दूध सहित धेरै मल्य पदार्थोमा मिल्दछ। खान-पानका साथ-साथ क्याल्शियमका धेरै औद्योगिक प्रयोग पनि छन् जहां यसको शुद्ध रूप र यसका धेरै यौगिकहरूको प्रयोग गरिन्छ। आवर्त सारिणीमा कॅल्शियमको अणु क्रमांक 20 छ र यसलाई अङ्ग्रेजी शब्दहरू ‘सीए’देखि इंगित गरिएको हो। 1808मा सर हम्फ्री डैवीले यसलाई खोजा थियो। उनले यसलाई कॅल्शियम क्लोराइडदेखि अलग गरेको थियो। कॅल्शियमको नाम लॅटिन भाषा",
+    "आफ्नो शुद्ध रूपमा कॅल्शियम चमकिला रंगको हुन्छ। यो आफ्नो अन्य साथी तत्वहरूका बजाय कम क्रियाशील हुन्छ। जलानमा यसबाट पहेंलो र रातो धुआं उठ्दछ। यसलाई आज पनि कॅल्शियम क्लोराइडदेखि त्यसै प्रक्रियादेखि अलग गरिन्छ जो सर हम्फ्री डैवीले 1808मा प्रयोगको थियो। कॅल्शियमदेखि जोडिएका नैं एउटा अन्य यौगिक, कॅल्शियम कार्बोनेटलाई काँक्रीट, सिमेण्ट, चूना इत्यादि बनाउनको लागि प्रयोग गरिन्छ। अन्य कॅल्शियम कम्पाउण्ड अयस्कहरू, कीटनाशक, डियोड्रहरूट, मल, कपडा उत्पादन, कॉस्मेटिक्स, लाईटिंग इत्यादिमा प्रयोग गरिन्छ। जीवित प"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 10,
+    "text_length_max": 1321,
+    "text_length_avg": 519.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6873,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9902,
+      "Latin": 0.0098
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28654.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28654.txt",
+    "relative_path": "28654.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28654.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6873,
+    "mtime": 1782796529.2518644,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "ff5563e51655069379b2668e8e0915378474f268",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

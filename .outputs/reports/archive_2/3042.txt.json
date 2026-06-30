@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "3042.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "साल्के 04 बुन्डेस लिगा क्लब हो । यो मल्टी स्पोर्ट क्लब हो । 1904 मा स्थापित साल्केले हालसम्म 7 जर्मन च्याम्पियनसिप, 5 डिएफबी-पोकल, 1 डिएफएल-सुपरकप र 1 युइएफए युरोपा लिग जितेको छ ।",
+    "4 मे 1904 मा वेष्टफालिया साल्केको रूपमा स्कुल विद्यार्थी द्वारा स्थापित यस क्लबको पहिले रातो र पहेँलो रङ्गको जर्सी थियो । राष्ट्रिय लिगमा प्रवेश गर्ने पटक पटकको असफल प्रयासपछी 1912 मा साल्कर टर्नभेरिन 1877 नामक जिम्नास्टिक क्लबसँग जोडियो । यो सङ्गठन तब सम्म रह्यो जबसम्म एसभी वेष्टफालिया साल्के पुनर्गठन भएन । अन्तत 1915 मा यो पुनर्गठन भएरै छाड्यो । दुई क्लबको बिछोड छोटो सावित भयो र 1919 मा यी पुन संगठीत भए टर्न-अन्ड स्पोर्टभेरिन साल्के 1877 को रूपमा । साल्के क्रेसलिगा च्याम्पियनको रूपमा नयाँ क्लब"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 736,
+    "text_length_avg": 457.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2323,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3042.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\3042.txt",
+    "relative_path": "archive (2)\\valid\\valid\\3042.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2323,
+    "mtime": 1782796647.0548503,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "b221abe39ecdd6ef1954cddc0cc35ca1cc82708b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

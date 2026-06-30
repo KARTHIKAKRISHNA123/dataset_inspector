@@ -1,0 +1,91 @@
+{
+  "dataset": "2405.txt",
+  "file_name": "2405.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "उत्पत्तिको प्रमाण भन्नाले कुनै पनि वस्तु वा सामान कुन देशमा बनेको, उत्पादन भएको वा विकास भएको भन्ने सम्बन्धी प्रमाण हो । यो प्रमाण पत्र देशको आधिकारिक निकायबाट जारी गरिन्छ । उत्पत्तिको प्रमाण विशेष गरी अन्तराष्ट्रिय व्यापार वा खरिदमा आवश्यक हुने गर्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 254,
+    "text_length_max": 254,
+    "text_length_avg": 254.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 678,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2405.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2405.txt",
+    "relative_path": "2405.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2405.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 678,
+    "mtime": 1782796507.8910408,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "9900dd935db6aecc98f3183b36f17f6f6a4d6861",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

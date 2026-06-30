@@ -1,0 +1,92 @@
+{
+  "dataset": "13684.txt",
+  "file_name": "13684.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "शिवपुरी नागार्जुन राष्ट्रिय निकुञ्जको स्थापना वि.सं. 2058 सालमा गरिएको हो । यस निकुञ्ज नेपालको मध्य पहाडी क्षेत्र काठमाडौंको उत्तरी किनारामापर्दछ । यसको क्षेत्रफल 159 वर्ग कि.मि रहेको छ । यस निकुञ्जले काठमाडौं, नुवाकोट र सिन्धुपाल्चोकको भूभाग ओगटेको छ । नेपालको मध्यपहाडी क्षेत्रमा अवस्थित पारिस्थितिकीय प्रणालीको प्रतिनिधित्व गर्ने एकमात्र राष्ट्रिय निकुञ्ज हो । काठमाडौंको रत्नपार्कदेखि निकुञ्ज मुख्यालय बुढानीलकण्ठ पानीमुहान सम्मको दुरी 12 कि.मि. छ ।",
+    "यस क्षेत्रको संरक्षणको इतिहासलाई हेर्दा सन 1976 मा जलाधार संरक्षण क्षेत्रको रुपमा शिवपुरी जलाधार संरक्षण वोर्डद्वारा संरक्षण सुरु गरि 1978 मा शिवपुरी संरक्षीत जलाधार क्षेत्र कायम भएको पाइन्छ। त्यसैगरी सन 1984 मा शिवपुरी जलाधार तथा वन्यजन्तु आरक्ष घोषणा भएको थियो। यसै नामानुसार यस क्षेत्रको आवस्यक संरक्षण तथा व्यवस्थापनका कार्यहरु हुदै जाँदा यो क्षेत्रको महत्वलाई अझै बढि मूल्याङ्कन गरी सन् 2002 मा नेपाल सरकारबाट शिवपुरी राष्ट्रिय निकुञ्जको रुपमा राजपत्रमा सूचना प्रकाशित भएको थियो। नागार्जुन वनक्ष"
+  ],
+  "statistics": {
+    "records_sampled": 12,
+    "missing_text": 0,
+    "text_length_min": 3,
+    "text_length_max": 839,
+    "text_length_avg": 286.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8984,
+    "estimated_records": 31
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 31,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13684.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13684.txt",
+    "relative_path": "13684.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13684.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8984,
+    "mtime": 1782796459.6888385,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "86ab0bf7aa6a294519644cf92192f2d13a618863",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

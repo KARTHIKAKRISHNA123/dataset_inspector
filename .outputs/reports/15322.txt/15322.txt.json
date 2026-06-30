@@ -1,0 +1,92 @@
+{
+  "dataset": "15322.txt",
+  "file_name": "15322.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किशोर कुमार जन्मनाम आभाष कुमार गांगुली  भारतीय सिनेमाका सबै भन्दा प्रसिद्ध पार्श्वगायक मध्येका एक हुन् । यिनी अभिनेता, गीतकार, संगीतकार, निर्माता, निर्देशक, तथा पटकथा लेखक पनि थिए।  ",
+    "किशोर कुमार को  जन्म 4 अगस्त 1029 मा हाल मध्य प्रदेश मा पर्ने खंडवा शहरमा भएको थियो। किशोर कुमारको वास्तविक नाम आभास कुमार गांगुली थियो। किशोर कुमार माइला सन्तान थिए। उनले आफ्नो जीवन का हरेक क्षणमा खंडवाको सम्झना गर्थे। तिनी जहिलेपनि कुनै सार्वजनिक मंचमा या कुनै समारोहमा आफ्नो कर्यक्रम प्रस्तुत गर्दथे शान सँग भन्थे किशोर कुमार खंडवे वाला।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 182,
+    "text_length_max": 1425,
+    "text_length_avg": 688.89,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15865,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15322.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15322.txt",
+    "relative_path": "15322.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15322.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15865,
+    "mtime": 1782796467.0618541,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7ec272b7f8ddbd2d2472dccf07f39f42b57d50ca",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

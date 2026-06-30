@@ -1,0 +1,96 @@
+{
+  "dataset": "19483.txt",
+  "file_name": "19483.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Bilingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "परीक्षा नियन्त्रण कार्यालयसानोठिमी, भक्तपुर, नेपालफोन: 6630-739, 6630-819, 6630-070फ्याक्स: 977-1-6631146ईमेल: info@soce.gov.np",
+    "www.soce.gov.np/introduction.php"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 127,
+    "text_length_avg": 79.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.5918,
+      "Latin": 0.4082
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 279,
+    "estimated_records": 3
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 3,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Devanagari, Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.5918,
+      "Latin": 0.4082
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19483.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19483.txt",
+    "relative_path": "19483.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19483.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 279,
+    "mtime": 1782796487.2510715,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.975,
+    "sha1_quick": "7c10dbaf4e3d333f885915e9ba0a81093b74cfb7",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

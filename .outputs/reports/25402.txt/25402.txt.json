@@ -1,0 +1,92 @@
+{
+  "dataset": "25402.txt",
+  "file_name": "25402.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जालपा नेपालको सगरमाथा अञ्चलको खोटाङ जिल्लाको एक गाँउ विकास समिति हो। यो ठाउँमा 544 वटा घर छन्।नेपालको पूर्वी पहाडमा रहेको खोटाङ जिल्लाको उत्तरी क्षेत्रमा पर्ने जालपाको पहिचान र परिचय एउटा गाविस क्षेत्रमा सिमित नरहेर यसले त्यस भेगका अन्य गाविसको क्षेत्रलाई पनिसमेट्न थालेको छ । जालपाको विकास प्रयास र गरिमा बृद्धिमा त्यसैले यस भेगका जनताको ब्यापक सहभागिता हुन थालेको छ । त्यसो त 2017 सालमा पञ्चायती ब्यववस्थाको सरुआत भएयता यस गाविसको नाम र आकार पटक पटक परिवर्तन भएको थियो । शुरुमा हंचुर गाविससँग सँगै ",
+    "जालपा र यसका छिमेकीहरु ः पूर्व खार्मी गाविस, पश्चिम हंचुर गाविस, उत्तरमा सप्तेश्वर र माक्पा गाविस र दक्षिणमा हंचुर गाविस यसका छिमेकी गाविसहरु हुन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 93,
+    "text_length_max": 980,
+    "text_length_avg": 407.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4238,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25402.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25402.txt",
+    "relative_path": "25402.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25402.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4238,
+    "mtime": 1782796514.2347634,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8f1c879378863df7a2ab98e5f3ff5df135d27c43",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

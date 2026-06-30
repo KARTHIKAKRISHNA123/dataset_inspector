@@ -1,0 +1,92 @@
+{
+  "dataset": "30813.txt",
+  "file_name": "30813.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अहमदाबाद वा अमदाभादको नामले पनि चिनिन्छ गुजरात प्रदेशको सबैभन्दा ठूलो सहर हो । समस्त भारतमा यो नगर सातौ स्थानमा छ। 63 लाखको जनसङ्ख्या भएको यो सहर, साबरमती नदीको किनारमा अवस्थित छ। पहिला गुजरातको राजधानी पनि यहिँ रहेको थियो, त्यस पछि राजधानी गान्धीनगरमा सारियो। अहमदाबादलाई कर्णावतीको नामबाट पनि जानिन्छ। यस सहरको आधारशिला सन 1411 मा हालिएको थियो। सहरको नाम सुलतान अहमद शाहको नाममा राखिएको छ।",
+    "अहमदाबादको नाम सुल्तान अहमद शाहको नाममा राखिएको छ। सुल्तान अहमद शाहले यो सहरको स्थापना 1411 ईसवीमा गरेका थिए। यो सहरलाई भारतको मेनचेस्टर पनि मानिन्छ। वर्तमान समयमा, अहमदाबादलाई भारतको गुजरात प्रान्तको राजधानी हुनुको साथ साथ यसलाई एउटा प्रमुख औद्योगिक सहरको रूपमा जानीन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 16,
+    "missing_text": 0,
+    "text_length_min": 67,
+    "text_length_max": 450,
+    "text_length_avg": 212.06,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8997,
+    "estimated_records": 42
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 42,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30813.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30813.txt",
+    "relative_path": "30813.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30813.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8997,
+    "mtime": 1782796539.613238,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "cc933cf55a827886cbf5fea13b7a0262c5e463c9",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

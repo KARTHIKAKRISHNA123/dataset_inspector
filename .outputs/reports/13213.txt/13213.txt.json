@@ -1,0 +1,92 @@
+{
+  "dataset": "13213.txt",
+  "file_name": "13213.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "राष्ट्रपतीय शासन प्रणालीमा मुलुकको सम्पूर्ण कार्यकारी शक्ति राष्ट्र प्रमुखमा रहेको हुन्छ| सरकार प्रमुख र राष्ट्र प्रमुख एकै व्यक्ति हुने गर्दछ र ऊ जनताको प्रत्यक्ष मतबाट निर्वाचित भएको हुन्छ। कुनै देशमा भने जनताले सोझै राष्ट्रपतिलाई मत नदिए पनि सोही प्रयोजनका लागि निर्वाचकमण्डललाई निर्वाचित गर्ने खालको पद्धति अपनाइने गरेको पाइन्छ। निर्वाचित निर्वाचकमण्डलको राष्ट्रिय विधायिकासँग कुनै सम्बन्ध हँुदैन। यस खालको निर्वाचन पद्धति अमेरिकाको राष्ट्रपतिको निर्वाचनमा अवलम्बन गरिएको पाइन्छ।राष्ट्र प्रमुख व्",
+    "राष्ट्रपति संसदमा उपस्थित नहुने र त्यहा प्रत्यक्ष पहुच नहुने भएको तथा विधायिकामा राष्ट्रपति भन्दा भिन्न मत का बहुमत हुन सक्ने संभावना रहेकोले नीति निर्माणामा गतिरोध भै रहनु यो प्रणालीको दुर्गुण हो|"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 197,
+    "text_length_max": 1481,
+    "text_length_avg": 839.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4583,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13213.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13213.txt",
+    "relative_path": "13213.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13213.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4583,
+    "mtime": 1782796457.594834,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "26cfc23ec3927ca278180677b6a2925ab70f908f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

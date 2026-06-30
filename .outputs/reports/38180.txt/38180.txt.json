@@ -1,0 +1,92 @@
+{
+  "dataset": "38180.txt",
+  "file_name": "38180.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "दोस्रो पाथीभरा गोल्डकप 2074 ताप्लेजुङ मा आयोजना हुने पाथीभरा गोल्डकपको दोस्रो संस्करण हो।भानु जन मावि,ताप्लेजुङ खेल मैदानमा आयोजना भएको यस फुटबल प्रतियोगिता साउन 22 गतेदेखि 30 गतेसम्म संचालन भएको थियो।",
+    "मोफसलका 10 युवा फुटबल क्लबहरूको सहभागीता रहेको यस प्रतियोगिताको उपाधि भने चर्च ब्वाइज युथ क्लब,काठमाडौंले जितेको थियो।साउन 30 गते सम्पन्न फाइनलमा सगरमाथा युवा क्लबलाई 3-0 गोलअन्तरले पराजित गर्दै चर्च युथ क्लबले उपाधि जितेको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 81,
+    "text_length_max": 229,
+    "text_length_avg": 170.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1352,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "38180.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\38180.txt",
+    "relative_path": "38180.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "38180.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1352,
+    "mtime": 1782796574.0764956,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "91bb853453b602d078a40076c2a52f4579d7c05d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

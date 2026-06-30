@@ -1,0 +1,92 @@
+{
+  "dataset": "33208.txt",
+  "file_name": "33208.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाल्पा जिल्ला नेपालको पश्चिमाञ्चल विकास क्षेत्र, लुम्बिनी अञ्चलमा अवस्थित एक पहाडी जिल्ला हो। यो जिल्लाको सदरमुकाम तानसेन हो।",
+    "इटालीका प्रसिद्ध विद्धान तथा इतिहासकार प्रो. जोशेफ टुचीको भनाई अनुसार यस जिल्लाको अस्तित्व ईसाको पाचौं शताब्दी तिर थियो। त्यस समयमा भारतवर्ष र चीन प्रदेशको ठूलो क्षेत्र मंगोलियाको अधिपत्यमा रहेको अड्कल काटिएको छ। उनको भनाई अनुसार मंगोलियन शव्द \"वाल्वा\" यसको अर्थ \"सीप कला र कालीगढ\"बाट पाल्पा बन्न गएको हो।"
+  ],
+  "statistics": {
+    "records_sampled": 11,
+    "missing_text": 0,
+    "text_length_min": 26,
+    "text_length_max": 1369,
+    "text_length_avg": 503.73,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 14662,
+    "estimated_records": 29
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 29,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33208.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33208.txt",
+    "relative_path": "33208.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33208.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 14662,
+    "mtime": 1782796550.5195107,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.996,
+    "sha1_quick": "eb7484727b8e4b94435973c9057d653abf9b6633",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

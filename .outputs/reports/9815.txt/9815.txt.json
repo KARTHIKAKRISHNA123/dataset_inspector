@@ -1,0 +1,92 @@
+{
+  "dataset": "9815.txt",
+  "file_name": "9815.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पद्म भूषण सम्मान भारत सरकारद्वारा दिइने तेस्रो सर्वोच्च सम्मान हो, जो देशको लागि बहुमूल्य योगदानको निम्ति दिइन्छ। भारत सरकारद्वारा दिइने अन्य प्रतिष्ठित पुरस्कारहरू भारत रत्न, पद्म विभूषण र पद्मश्रीको नाम लिन सकिन्छ।",
+    "26-जनवरी-2009, सम्म 1037 व्यक्तिहरूलाई यो अलंकरण प्रदान गरिएकोछ।"
+  ],
+  "statistics": {
+    "records_sampled": 50,
+    "missing_text": 0,
+    "text_length_min": 27,
+    "text_length_max": 216,
+    "text_length_avg": 33.08,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4061,
+    "estimated_records": 122
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 122,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "9815.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\9815.txt",
+    "relative_path": "9815.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "9815.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4061,
+    "mtime": 1782796605.803911,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.985,
+    "sha1_quick": "e4ec7ccbbf097f1355d859b033db19cbac7f3b4c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

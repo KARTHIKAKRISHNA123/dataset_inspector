@@ -1,0 +1,94 @@
+{
+  "dataset": "8055.txt",
+  "file_name": "8055.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कर्मचारी सञ्चय कोष नेपालको सरकारी, निजी र सार्वजनिक क्षेत्र को कर्मचारीहरु को लागि हितकारी सञ्चयकोष हो। संचय कोष प्रणाली भित्र हाल निजामती, जङ्गी, प्रहरी शिक्षक, सार्वजनिक सस्थान तथा निजि क्षेत्रका कामदार तथा कर्मचारी समेत गरी करिव 5 लाख सञ्चयकर्ताहरू आबद्ध रहेका छन्। ",
+    "कोषले यो सञ्चिति पूर्वाधार लगायतका विभिन्न क्षेत्रहरुमा लगानी पनि गर्दछ "
+  ],
+  "statistics": {
+    "records_sampled": 14,
+    "missing_text": 0,
+    "text_length_min": 49,
+    "text_length_max": 739,
+    "text_length_avg": 221.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9787,
+      "Latin": 0.0213
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 8174,
+    "estimated_records": 36
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 36,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9787,
+      "Latin": 0.0213
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8055.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8055.txt",
+    "relative_path": "8055.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8055.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 8174,
+    "mtime": 1782796597.429297,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b81e717aed2a7f7f8716f68228b3c0fe3a100616",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

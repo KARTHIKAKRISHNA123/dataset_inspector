@@ -1,0 +1,92 @@
+{
+  "dataset": "6860.txt",
+  "file_name": "6860.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जायरा वसीम एक भारतीय चलचित्र अभिनेत्री हुन् । उनले आमिर खान अभिनित चलचित्र दंगलमा अभिनय गरेकी थिइन् । ",
+    "जायराको जन्म श्रीनगरको हवल इलाकामा सन् 2000 अक्टोबर 23 को दिन भएको थियो । जायराका बुवा, जाहिद वासीम, श्रीनगरमा एक बैंक प्रबन्धकको रूपमा काम गर्छन् । उनकी आमा जर्का वसीम, एक कुशल गृहिणी छिन् । जायराले सेन्ट पल अन्तर्राष्ट्रिय एकेडमी, सोनवर, श्रीनगर, जम्मू र कश्मीरबाट कक्षा 10 सम्मको अध्ययन गरेकी थिइन् । विधालय काल देखि नै उनमा अभिनय गर्ने इक्षा रहेको थियो । जायराले सन् 2017 मा कक्षा 10 को परीक्षामा 92% अङ्क ल्याएकी थिइन् । अहिले उनी जम्मूको हेरिटेज उच्च विद्यालयमा कक्षा 11 मा अध्ययन गर्दै छिन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 102,
+    "text_length_max": 499,
+    "text_length_avg": 300.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1543,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6860.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6860.txt",
+    "relative_path": "6860.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6860.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1543,
+    "mtime": 1782796591.7551558,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f8860a3de07e6bdc8959a85b1924244ebc769deb",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

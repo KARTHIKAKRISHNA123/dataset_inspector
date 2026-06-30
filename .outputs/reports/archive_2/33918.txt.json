@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "33918.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "गाजीपुर बङ्गलादेशको मध्यम भागमा पर्ने एक प्रमुख शहर हो । यो शहर गाजीपुर जिल्लामा पर्छ जुन राजधानी ढाका नजिक रहेको छ र यसको शहरको जनसङ्ख्या 32,092,15 रहेको छ । यो शहरमा ढाका इन्जिनियरिङ विश्वविद्यालय र इस्लामी इन्जिनियरिङ विश्वविद्यालय रहेका छन् जुन बङ्थलादेशका दुई मात्र अन्तर्राष्ट्रिय इन्जिनियरिङ विश्वविद्यालय हुन् ।",
+    "सन् 1991 को राष्ट्रिय जनगणना अनुसार एस शहरको 588,540 रहेको थियो भने सन् 2001 को राष्ट्रिय जनगणना अनुसार एस शहरको जनसङ्ख्या वृद्धि भएर 86,65,00 पुगेको थियो । एस भन्दा अधिको राष्ट्रिय जनगणना 1010 का अनुसार एस शहरको जनसङ्ख्या 11,992,15 रहेको छ जुन अहिले सम्मको धेरै जनसङ्ख्या हो । हाल यस शहरको साक्षरता दर 66.52 % रहेको छ । "
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 170,
+    "text_length_max": 442,
+    "text_length_avg": 314.83,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4809,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33918.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\33918.txt",
+    "relative_path": "archive (2)\\valid\\valid\\33918.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4809,
+    "mtime": 1782796653.9120028,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "15da8b74cd01b267bbaa07da64106563d77f4746",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

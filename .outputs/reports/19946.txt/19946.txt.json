@@ -1,0 +1,96 @@
+{
+  "dataset": "19946.txt",
+  "file_name": "19946.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बङ्गलादेश दूरसञ्चार कम्पनी लिमिटेड बङ्गलादेशकै सबैभन्दा ठूलो दूरसंचार कम्पनी हो । कम्पनी 1971 मा बङ्लादेशको स्वतन्त्रता पछि बङ्लादेश टेलिग्राफ र टेलिफोन बोर्ड रूपमा स्थापित गरिएको थियो । 1 जुलाई 2008 मा बीटीटीबी एक सार्वजनिक सीमित कम्पनी भयो र यसलाई बङ्गलादेश दूरसञ्चार कम्पनी लिमिटेड वा बीटीसीएलको नामकरण गरिएको थियो । बङ्गलादेश सरकारले प्रारम्भिक रूपमा सबै बीटीसीएलको शेयरको आफ्नो स्वामित्व राखेको थियो, तर अर्को वर्ष देखि सार्वजनिक रूपमा शेयर बेच्दिने घोषण गरेको थियो । बीटीसीएलको मूल्य अनुमानित ৳",
+    "बीटीसीएलले बङ्लादेशका शहरी क्षेत्रहरूमा ल्याण्ड-लाइन टेलिफोन सेवा प्रदान गर्दछ, जसमा घरेलू लामो लामो दूरीमा कल र अन्तर्राष्ट्रिय सेवाहरूका साथै इन्टरनेट सेवा समेत समावेश छ । सन् 2004 मा, बङ्गलादेश सरकारले निजी कम्पनीहरूमा थुप्रै पिएसटिएन अनुमती पत्र जारी गर्यो, तर तिनीहरू ढाका बजारमा सेवाहरू प्रदान गर्नबाट रोकिएका थिए । अन्य सञ्चालकहरूले 2007 देखि अनुमति पत्र पाएपछि बिटिसिएलको एकाधिकर तोडिएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 263,
+    "text_length_max": 572,
+    "text_length_avg": 361.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9983,
+      "Latin": 0.0011,
+      "Bengali": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5667,
+    "estimated_records": 15
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 15,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9983,
+      "Latin": 0.0011,
+      "Bengali": 0.0006
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19946.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19946.txt",
+    "relative_path": "19946.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19946.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5667,
+    "mtime": 1782796489.3787801,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "262fb08fbf76a892da8334a4b3f71d8145940db8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

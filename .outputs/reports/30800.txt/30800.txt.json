@@ -1,0 +1,92 @@
+{
+  "dataset": "30800.txt",
+  "file_name": "30800.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सुषमा सिंह  भारतकी महिला मुख्य सूचना आयुक्त रहने एक महिला व्यक्तित्व हुन्। उनी यो पद प्राप्त गर्ने वाली भारतकी दोस्रो महिला हुन्।22 मे 2014मा उनको सेवानिवृतिको पछाडि अब यो पदमा राजीव माथुर कार्यरत छन्। ",
+    "सुषमाको जन्म 22 मे 1949मा रांचीमा भएको थियो। उनको प्रारंभि‍क शि‍क्षा रांचीमा नै भयो। उनीले रांची विश्वविद्यालयबाट स्नातक अनर्सको पढाई सम्पन्न गरेपछि पब्लिक एडमिनिस्ट्रेशनमा पीजी डिप्लोमा गरेकी थिइन्। यस पश्चात उनी भारतीय प्रशासनिक सेवाको सदस्य एवं झारखंड केडरको 1972 बेचको आईएएस ‍अधिकारी बनिन्।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 202,
+    "text_length_max": 294,
+    "text_length_avg": 248.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1304,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30800.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30800.txt",
+    "relative_path": "30800.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30800.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1304,
+    "mtime": 1782796539.5547323,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.944,
+    "sha1_quick": "8cc796f5c079aabfe21d027c1aa50a9cf7159de4",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "23689.txt",
+  "file_name": "23689.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मेवा क्यारिकेसी परिवारमा पर्ने एक प्रकारको फल हो। अन्य फलफूलको तुलनामा मेवा निकै स्वस्थ फल मानिन्छ। यो फल पेट तथा मुटु दुबैको लागि निकै लाभदायी हुन्छ। यो बजारमा सहज रुपमा पाइने र गाउँघरमा पनि सहजै फलाउन सकिने सस्तो फल पनि होे । मेवा देख्न र खानमा जति मीठो हुन्छ यो त्यत्तिकै गुणकारी पनि हुन्छ। छालाका लागि मेवा छालाका लागि निकै लाभदायी मानिन्छ, यो फेसप्याकको रुपमा प्रयोग गर्न सकिन्छ । यसले छालाको जलन र संक्रमणबाट मुक्ति दिन्छ। फर्मेन्टेशन गरिएको मेवाको बोक्राले मरेका छालालाई पुनर्जीवन प्रदान गर्दै",
+    "मेवाको उत्पत्ति दक्षिण अमेरिकामा भएको मानिन्छ । मेवाको खेती अमेरिकाबाट, मलेशिया र फिलिपिन्स भई भारत प्रवेश गरेको मानिन्छ; भारतबाट मेवा नेपाल आएको बताइन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 10,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 555,
+    "text_length_avg": 81.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8601,
+      "Latin": 0.1399
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2006,
+    "estimated_records": 24
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 24,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8601,
+      "Latin": 0.1399
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23689.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23689.txt",
+    "relative_path": "23689.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23689.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2006,
+    "mtime": 1782796506.334254,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3d2535897d8eb3e0d0ba2de1d255ae819a289ec5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

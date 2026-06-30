@@ -1,0 +1,91 @@
+{
+  "dataset": "5243.txt",
+  "file_name": "5243.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भगवान विष्णूका दश अवतार मध्ये परशुराम अवतार भएको धाम डडेल्धुरा जिल्लाको शीर्ष गाविस अन्तरगत महाकाली किनारमा रहेको छ । एकातिर चूरे पर्वत श्रृंखला र अर्कोतिर महाभारत पर्वतसँगै भारतको पूर्णागीरी पर्वतको मध्य भागमा रहेको परशुराम धाम डडेलधुराको सदरमुकाम देखि 1 सय किलोमिटर र कञ्चनपुरबाट 39 किलोमिटरको दुरीमा सडक मार्गबाट पुग्न सकिन्छ । स्कन्द पुराणमा उल्लेख भए अनुसार नजीकै रहेको पूर्णागीरी मन्दिर सतिदेवीको पूर्ण अंग पतन पछि भगवान शिवले शशरिर आएर यही धाममा लामो कालखण्ड तपस्या गरेका हुन् । पछि ईश्वरीय अव"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 724,
+    "text_length_max": 724,
+    "text_length_avg": 724.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1935,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "5243.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\5243.txt",
+    "relative_path": "5243.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "5243.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1935,
+    "mtime": 1782796584.0704787,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "20a3929e30b80bb9146ea73872426a843bcfed5d",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

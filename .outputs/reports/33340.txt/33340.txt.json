@@ -1,0 +1,92 @@
+{
+  "dataset": "33340.txt",
+  "file_name": "33340.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "1979 तेल सङ्कट इरानी क्रान्ति पछी विश्वमा घट्दो तेल उत्पादनको कारणले उत्पन्न भएको थियो । वैश्विक तेल उत्पादनमा मात्र करिब 4 % गिरावट आए पनि यसले पुरै विश्वमा हाहाकार मच्चाएको थियो र तेलको मुल्यमा ठुलो चढाव आएको थियो । तेलको मूल्य 39.50 डलर प्रति ब्यारेल बाट 12 महिनाको बीचमा झन्डै दोब्बरले वृद्धि भएको थियो र लामो दुरीको ग्यास स्टेसनहरु फेरी देखा परे; जुन 1973 तेल सङ्कटको समयमा प्रयोगमा आएका थिए ।",
+    "1980 मा ईरान-इराक युद्ध भएपछी इरानले तेल उत्पादन झन्डै झन्डै शुन्यमा पुग्यो र तेल आपूर्तिमा इरानको हिस्सा रोकियो । संयुक्त राज्य अमेरिका र अन्य देशहरुमा आर्थिक मन्दी सुरु भयो । तेलको मुल्यमा 1980 को दशक सम्म कुनै गिरावट आएन ।"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 185,
+    "text_length_max": 439,
+    "text_length_avg": 308.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5552,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "33340.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\33340.txt",
+    "relative_path": "33340.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "33340.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5552,
+    "mtime": 1782796551.1342,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "b100752f8726a2b8220a5bb2ec5b2bd56681fe9a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

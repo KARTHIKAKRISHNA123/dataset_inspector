@@ -1,0 +1,93 @@
+{
+  "dataset": "8420.txt",
+  "file_name": "8420.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "सिलौटामा पिसिएको गहतको दाल र सोस्टा लाई स्थानीय मसलाको धूलोसहितको गहुँको पिठोमा घोलेर डल्लो पारन्िछ। त्यही स-साना डल्लालाई पानीमा उमालेर तेलमा प|mाई गरेपछि गिट्खा तयार हुन्छ। तयार भएको गिट्खालाई मही या दहीसँग फिटेर तातो घिउमा मेथीको पात मिसाएर झानिसकेपछि डुप्का तयार हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 273,
+    "text_length_max": 273,
+    "text_length_avg": 273.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 732,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9957,
+      "Latin": 0.0043
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "8420.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\8420.txt",
+    "relative_path": "8420.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "8420.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 732,
+    "mtime": 1782796599.2342386,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "439e901adfab114f7ba55ed8e7fc6b99c0adf9d6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

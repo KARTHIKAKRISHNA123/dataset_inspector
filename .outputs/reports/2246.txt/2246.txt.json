@@ -1,0 +1,91 @@
+{
+  "dataset": "2246.txt",
+  "file_name": "2246.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "विकिलिक्स एक वेबसाइट हो जुन अनाम रूपले प्रदान गरिएको संवेदनशील दस्तावेजहरूलाई प्रकाशित गर्छ । यो दस्तावेज कुनै सरकारको, कम्पनीको, संस्थाको या कुनै धार्मिक सङ्गठनको हुन सक्छन्। यो दस्तावेजको लीक गरेर उपलब्ध गराउने व्यक्ति या स्रोतको नाम गोप्य रख्न पूरी प्रयास गर्छ। यो 2006को डिसेम्बर महिनामा आरम्भ भए थियो। अहिले सम्म यसले लगभग 12 लाख पत्र उपलब्ध गराएको छ।।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 357,
+    "text_length_max": 357,
+    "text_length_avg": 357.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 942,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "2246.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\2246.txt",
+    "relative_path": "2246.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "2246.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 942,
+    "mtime": 1782796500.9029768,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "b0bc5aab1e696d7aa79e8442b411f75efe049109",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "34429.txt",
+  "file_name": "34429.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जुलियन असान्ज एउटा अस्ट्रेलियन प्रकाशक तथा पत्रकार हुन् । छोटो समयमै ठूलो चर्चा कमाउने व्यक्तिहरूमा जुलियन असान्ज पहिलो नम्बरमा पर्छन् । ",
+    "यद्यपि उनको काम असल हो कि खराब भन्ने विषयमा विश्व दुई ध्रुवमा बाँडिएको छ। अमेरिकाको संस्थापन पक्षको नीति नै असल हो भन्ने मान्नेहरूका लागि असान्ज खलनायक हुन्। कारण उनले विश्वभरि रहेका अमेरिकी दूतावासले गोप्य रूपमा पेन्टागनलाई पठाएका दस्तावेज सार्वजनिक गरिदिए। यद्यपि सूचना सार्वजनिक गर्दा उनले व्यक्तिलाई प्रत्यक्ष हानि हुने कुरालाई भने सम्पादन गरेका छन्। अमेरिकी संस्थापन पक्ष असान्जले असल पत्रकारिता नगरेको मान्छ। अर्कातर्फ अमेरिकी संस्थापन पक्षसँग प्रत्यक्ष सरोकार नराख्ने, लोकतान्त्रिक विधिमा वकाल"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 137,
+    "text_length_max": 670,
+    "text_length_avg": 417.17,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 6767,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "34429.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\34429.txt",
+    "relative_path": "34429.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "34429.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 6767,
+    "mtime": 1782796556.1425495,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "370b183eb24390c25f09d257417020638750363b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

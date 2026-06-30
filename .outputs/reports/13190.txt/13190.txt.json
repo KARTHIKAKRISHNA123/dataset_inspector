@@ -1,0 +1,91 @@
+{
+  "dataset": "13190.txt",
+  "file_name": "13190.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जिलु महाङ्काल महादेव मन्दिर गाउँ दोलखा जिल्ला भिमेश्वर नगरपालिका जिलु गाउँको उत्तर तर्फ अवस्थित एक प्राकृतिक सम्पदाले भरिपूर्ण स्थानमा रहेको मन्दिर हो । यो समुद्री सतहबाट 1300 मिटर उचाईमा रहेको मन्दिर हो । यो मन्दिर आसपासबाट दोलखा बजार, तामाकोशी नदी, गौरीशंकर हिमाल को मनारोम दृश्य देख्न सकिन्छ । जिलु भित्रको सर्किश्वोरा, नागस्थान सापकोटा टोल, डाडागाउँ, मोहेरिया, पिप्ले, सुप्लूँगा, कोलेचौर, दिहि, फसभी र यस मन्दिरलाई कातिके गाउँको इष्ट देवता को रुपमा लिइन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 461,
+    "text_length_max": 461,
+    "text_length_avg": 461.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1217,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "13190.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\13190.txt",
+    "relative_path": "13190.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "13190.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1217,
+    "mtime": 1782796457.463856,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "557e10f7c0ab72df02862af82dbbf0679a567c42",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

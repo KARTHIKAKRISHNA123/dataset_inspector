@@ -1,0 +1,92 @@
+{
+  "dataset": "30483.txt",
+  "file_name": "30483.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चीन मोबाइल पाकिस्तान लिमिटेड जोङ वा चीन मोबाइल पाकिस्तान पाकिस्तानको एक मोबाइल नेटवर्क सञ्चालक हो । जसको मुख्यालय पाकिस्तानको इस्लामाबादमा अवस्थित छ । यसले 2 जी, 3 जी र 4 जी सेवा सुचारु गरेको छ । यसले प्रिपेड र पोस्टपेड गरि 2 वटा नेटवर्कद्वरा सेवा प्रदान गर्दछ । यो चीन मोबाइलको स्वामित्व रहेकोे छ । जोङ चीन मोबाइल को 100% सहायक कम्पनी हो ।",
+    "यो पाकिस्तानको दोस्रो ठूलो जीएसएम मोबाइल सेवा प्रदायक हो र हालैको एक तथ्याङक अनुसार यसका 31 मिलियन सेवाग्राही रहेका छन् र पाकिस्तानमै तेस्रो सबैभन्दा ठूलो मोबाइल सेवा कम्पनी हो । यसले देशमा सेलुलर अपरेटरहरूको 21% को बजार ओगटेको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 9,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 344,
+    "text_length_avg": 217.78,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5077,
+    "estimated_records": 23
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 23,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30483.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\30483.txt",
+    "relative_path": "30483.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "30483.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5077,
+    "mtime": 1782796538.0108788,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "263c2b160ec3ffbe8c15a2434e555288d4e75b7f",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11246.txt",
+  "file_name": "11246.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "याज्ञसेनी सुमन पोखरेलद्वारा लेखिएको एउटा नेपाली नाटक हो । यो नाटक प्रतिभा रायद्वारा उडिया भाषामा लेखिएको सोही शीर्षकको उपन्यासमा आधारित रहेको छ । सुमन पोखरेलले दृष्यमा याज्ञसेनीलाई मात्र ल्याएर उपन्यासलाई सोलो नाटकका रूपमा रूपान्तरण गरेका हुन् । पोखरेलले रायको उपन्यासको मर्मलाई नछोडी नाटकलाई आफ्नो अलग ढङ्गबाट प्रस्तुत गरेका छन् ।",
+    "नाटकमा प्रसिद्ध पौराणिक महाकाव्य महाभारतकी पात्रा याज्ञसेनीका भोगाइ र भावनाहरूको प्रदर्शन रहेको छ । यो नाटकमा महाभारतको कथालाई द्रौपदीका दृष्टीबाट देखाएर नवव्याख्या गरिएको छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 6,
+    "missing_text": 0,
+    "text_length_min": 175,
+    "text_length_max": 495,
+    "text_length_avg": 332.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 5359,
+    "estimated_records": 16
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 16,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11246.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11246.txt",
+    "relative_path": "11246.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11246.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 5359,
+    "mtime": 1782796448.4859133,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "2106dd87a29b61b282ca9ea180a1b19b79629421",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

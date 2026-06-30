@@ -1,0 +1,91 @@
+{
+  "dataset": "6057.txt",
+  "file_name": "6057.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "अल्ट्रालाइट भनेको हल्का किसिमको विमान हो । जसमा एक पल्टमा एक जना यात्री र एक जना विमान चालक गरी दुई जना मात्र बस्न मिल्छ । अल्ट्रालाइट विमान हाल आएर हिमश्रृंखलालाई नजिकबाट नियाल्नको लागि निकै लोकप्रिय भएको पाइन्छ । नेपालमा व्यवसायीक रुपमा पोखरामा अल्ट्रालाइट विमान सन् 1997 बाट नै सुरु भएको हो । पोखरामा आउने नेपाली तथा विदेशी पर्यटकहरु विच लोकप्रिय बन्न सकेको यो अल्ट्रालाइट विमान सवार भएर पोखराका प्रमुख आकर्षण फेवाताल, हिमश्रृंखलाहरु, वनजंगल, पहाड तथा त्यहाँका ग्रामिण भेगको दृष्यावलोकन गर्न रुचाउ"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 507,
+    "text_length_max": 507,
+    "text_length_avg": 507.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1345,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "6057.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\6057.txt",
+    "relative_path": "6057.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "6057.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1345,
+    "mtime": 1782796587.9406657,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cb7f3dbc33ba9d45882b52ef87b24ce2d96ccef8",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

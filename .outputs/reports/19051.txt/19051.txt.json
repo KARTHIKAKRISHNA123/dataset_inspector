@@ -1,0 +1,94 @@
+{
+  "dataset": "19051.txt",
+  "file_name": "19051.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भाषाका शब्दहरूका इतिहासका अध्ययनलाई व्युत्पत्तिशास्त्र भन्दछन्। यसमा विचार गरिन्छ कि कुनै शब्द ती भाषामा कहिले र कसरि प्रविष्ट भयो; कुन स्रोतबाट अथवा भनेँबाट आया; उनको स्वरूप र अर्थ समय सहित कुन तरिका परिवर्तित भएको छ। व्युत्पत्तिशास्त्रमा शब्दका इतिहासका माध्यम भन्दा कुनै पनि राष्ट्र, प्रान्त एवं समाजको भाषिक, सांस्कृतिक, ऐतिहासिक एवं सामाजिक पृष्ठभूमि अभिव्यक्त हुन्छ। ",
+    "'व्युत्पत्ति'को अर्थ छ ‘विशेष उत्पत्ति’। कुनै शब्दका क्रमिक इतिहासको अध्ययन गर्न, व्युत्पत्तिशास्त्रको विषय छ। यसमा शब्दका स्वरूप र उनको अर्थका आधारको अध्ययन गरिन्छ। अङ्ग्रेजीमा व्युत्पत्तिशास्त्रलाई 'Etymology' भन्दछन्। यो शब्द यूनानी भाषाका यथार्थ अर्थमा प्रयुक्त Etum तथा लेखा-जोखाका अर्थमा प्रयुक्त Logosका योगबाट ब्ने छ, जसको आशय शब्दका इतिहासको वास्तविक अर्थ सम्पुष्ट गर्न छ |"
+  ],
+  "statistics": {
+    "records_sampled": 5,
+    "missing_text": 0,
+    "text_length_min": 191,
+    "text_length_max": 479,
+    "text_length_avg": 331.8,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9873,
+      "Latin": 0.0127
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4458,
+    "estimated_records": 13
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 13,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9873,
+      "Latin": 0.0127
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "19051.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\19051.txt",
+    "relative_path": "19051.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "19051.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4458,
+    "mtime": 1782796485.1916509,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "1a8dcb3210ccf5bbf821f5328115606496cde46b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

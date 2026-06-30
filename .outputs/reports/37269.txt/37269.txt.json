@@ -1,0 +1,92 @@
+{
+  "dataset": "37269.txt",
+  "file_name": "37269.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "व्याकरण त्यो विद्या हो जसद्वारा कुनै भाषा शुद्ध बोल्न, शुद्ध पढन र शुद्ध लेख्न सकिन्छ। कुनै पनि विकसित भाषा लेख्न, पढन र बोल्नलाई निश्चित नियम हुन्छन् भाषाको शुद्धता अनि सुन्दरतालाई बनाई राख्नका लागि यी नियमहरूको पालन गर्नु आवश्यक हुन्छ। यी नियम पनि व्याकरणका अन्तर्गत आउँछन्। व्याकरण भाषाका अध्ययनको महत्वपूर्ण भाग हो। जसलाई भाषा विज्ञान भन्दछन्। यो लेख नेपाली भाषाका व्याकरणका विषयमा हो। ",
+    "भाषाविज्ञानका तीन महत्वपूर्ण भाग हुन्छन्:"
+  ],
+  "statistics": {
+    "records_sampled": 18,
+    "missing_text": 0,
+    "text_length_min": 4,
+    "text_length_max": 390,
+    "text_length_avg": 92.56,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4416,
+    "estimated_records": 47
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 47,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37269.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37269.txt",
+    "relative_path": "37269.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37269.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4416,
+    "mtime": 1782796569.4053156,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "146a8037575b4e50bc90b5946b3103d28f1d511c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "37902.txt",
+  "file_name": "37902.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "– the युरोपेली संघमा – the United Kingdomमा ",
+    "उत्तर आयरल्याण्ड ; उत्तर-पूर्वमा संयुक्त अधिराज्यको एक भाग हो, यसलाई देश, प्रदेश वा क्षेत्रको रूपमा वर्णन गरिएको छ । उत्तरी आयरल्यान्डले आयरल्याण्ड गणतन्त्रको साथ दक्षिण र पश्चिममा सीमा जोडेको छ । 2011 मा, यसको जनसंख्या 1,810,863 थियो, टापुको कुल जनसंख्याको लगभग 30% र यूकेको लगभग 3% जनसंख्याको गठन गरेको छ । उत्तरी आयरल्यान्ड ऐन 1998 मा बेलफास्ट सम्झौताको भागको रूपमा स्थापित, उत्तरी आयरल्याण्ड विधानसभामा विभिन्न नीतिगत मामलाहरूको जिम्मेवारी रहेकोे छ, जबकि अन्य क्षेत्रहरू ब्रिटिश सरकारको लागि आरक्"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 44,
+    "text_length_max": 705,
+    "text_length_avg": 286.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.8636,
+      "Latin": 0.1364
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2057,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.8636,
+      "Latin": 0.1364
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "37902.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\37902.txt",
+    "relative_path": "37902.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "37902.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2057,
+    "mtime": 1782796572.8156855,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "e884668a45296ef16031d7c2b93351dd6a2e9fa0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

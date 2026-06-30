@@ -1,0 +1,92 @@
+{
+  "dataset": "3705.txt",
+  "file_name": "3705.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नुवाकोटकै प्रमुख धार्मिक जात्राको परिचय पाएको सिन्दुरे जात्रा 15 दिनसम्म चल्छ। वैशाखपूणिर्माको आसपासमा धामी-धमिनीलाई सिन्दुर हालेर यो जात्रा मनाइन्छ। पूणिर्माको दिन नुवाकोट भैरवीमन्दिरको रथ देविघाटको जालपा देविको मन्दिरमा पुर्‍याएपछि भव्यतासाथ प्रारम्भ हुने यो मेलामा द्वितीयाको दिन भैरवी मन्दिरमा सिन्दुर खेलिन्छ। ",
+    "चैत शुक्ल चतुर्दशीको दिन साततले दरबार सँगै रहेको भैरवी मन्दिरमा हुने सिन्दुरे जात्राको निम्ता स्वरूप बहिनी भैरवीले दिदी जालापादेवीलाई बोलाउन गएको भन्ने किंवदन्ती छ। किंवदन्तीअनुसार जालपादेवी भैरवी मन्दिरमा आएपछि दिदी आएको अवसरमा सिन्दुर जात्रा गरी हर्ष बढाइँ गरिएको हो। जालपादेवीबाट फर्किएका धामी स्थानीय धरमपानीको पाटीबाट बाजागाजासहित भैरवी मन्दिर प्राङ्गणमा पुगेपछि सिन्दूर जात्रा गरिन्छ। सिन्दूर जात्रासहित तलेजु भवानीको मन्दिरमा रथ भित्र्याइन्छ। द्वितीयाको राति धामीले भैरवी परिसरमा रागा र बोकाको"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 315,
+    "text_length_max": 620,
+    "text_length_avg": 467.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2547,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "3705.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\3705.txt",
+    "relative_path": "3705.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "3705.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2547,
+    "mtime": 1782796568.3391705,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "31f348a5b1ec5558d67729a9f0c23362d80d6759",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "21757.txt",
+  "file_name": "21757.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "ascii",
+  "language_hint": "en",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "The 1968 AFC Asian Cup finals were held in Iran between 10 and 19 May. It was organized on a round robin basis, with the home team Iran winning with a perfect record of four wins.",
+    "With 4 goals, Homayoun Behzadi of Iran, Giora Spiegel and Moshe Romano of Israel are the top scorers of the tournament. In total, 32 goals were scored by 19 or 20 different players, with none of them credited as own goal."
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 179,
+    "text_length_max": 221,
+    "text_length_avg": 200.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 409,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Latin",
+    "languages_seen": [
+      "en"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "en",
+    "dominant_script": "Latin",
+    "script_distribution": {
+      "Latin": 1.0
+    },
+    "mixed_language": false,
+    "romanized": true,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "21757.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\21757.txt",
+    "relative_path": "21757.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "21757.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 409,
+    "mtime": 1782796497.8236904,
+    "encoding": "ascii",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ee5516bea052b3cfd2b0e686e88aaaf4c6ef4866",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

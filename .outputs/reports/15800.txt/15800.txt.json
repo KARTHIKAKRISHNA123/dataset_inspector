@@ -1,0 +1,94 @@
+{
+  "dataset": "15800.txt",
+  "file_name": "15800.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "चिली, आधिकारिक नाम गणातन्त्र चिली, Mapudungun: Gulumapu) दक्षिण अमेरिकामा अवस्थित राष्ट्र हो । यसको राजधानी र सबभन्दा ठूलो शहर सान्त्यागो हो। त्यसको पूर्व सिमानामा आन्देस हिमशृङखला पर्छ ।",
+    "चिलीवासीहरूले आफ्नो देशलाई \"कविको देश\" भन्दछन्। चिलेको सबभन्दा प्रसिद्ध कवि पाब्लो नेरुदा सन् 1971मा साहित्यको नोबेल पुरस्कार पाए ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 53,
+    "text_length_max": 187,
+    "text_length_avg": 107.25,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.948,
+      "Latin": 0.052
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1090,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.948,
+      "Latin": 0.052
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15800.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15800.txt",
+    "relative_path": "15800.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15800.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1090,
+    "mtime": 1782796469.2479877,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.991,
+    "sha1_quick": "0d75e582cde26588ab519723e9e1f4c627c6691b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

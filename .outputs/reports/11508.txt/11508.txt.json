@@ -1,0 +1,92 @@
+{
+  "dataset": "11508.txt",
+  "file_name": "11508.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "भरत सिटौला नेपालका पप गायक हुन्।",
+    "ताप्लेजुङ निघुरादीनको भरत सिटौला मध्यमवर्गिय परिवारमा परिवारमा जन्मिनु भएको हो । उहाले सङघर्ष गदै ब्याच्लर सम्मको अध्ययन् गर्नु भएको छ । जिवनमा धेरै संघर्ष गदै अगाडि बढ्दै उहाले आफुलाई अगाडि बढाउनु भएको छ । यसरी अगाडि बढ्ने क्रममा संगित क्षेत्रमा 2058 सालबाट प्रवेश गरि काठ्माडौ आयर संर्घष गदै अगाडि बढ्नुभयो । 20 वर्षको उमेरबाट नै यस क्षेत्रमा अगाडि बढ्नुभएको उहाको रुची सानै बाट गित गाउनुमा थियो । व बोलन नामक गितबाट उहाले आफुलाई त्यसक्षेत्रमा प्रवेश गराउनु भएको थियो भने् मोड द टर्निङ पोइन्ट उहाको"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 32,
+    "text_length_max": 1558,
+    "text_length_avg": 581.33,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 4540,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11508.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11508.txt",
+    "relative_path": "11508.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11508.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 4540,
+    "mtime": 1782796449.6433365,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "7105533c0e004c43a5f1cfea6897d258c26286cf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

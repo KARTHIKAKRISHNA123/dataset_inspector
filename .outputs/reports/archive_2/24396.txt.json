@@ -1,0 +1,94 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "24396.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ढाँचा:ज्ञानसन्दूक रंगनीलो रंग त्यो हो, जसलाई प्रकाश को प्रत्यक्ष वर्णक्रम को 440–490 nm को तरंगदैर्घ्य द्वारा दृश्य गरिन्छ। यो एक संयोजी प्राथमिक रंग हो। यसको सम्पूरक रंग पहेंलो छ, यदि HSL एवं HSV वर्ण चक्र मा हेर्नुभयो भने । परंपरागत वर्णचक्र मा यसको सम्पूरक रंग हो नारंगी। ",
+    "भारत को राष्ट्रीय क्रीडा रंग पनि नीलो नै छ। यसले धर्म-निर्पेक्षता देखाउँछ। "
+  ],
+  "statistics": {
+    "records_sampled": 20,
+    "missing_text": 0,
+    "text_length_min": 11,
+    "text_length_max": 275,
+    "text_length_avg": 65.25,
+    "duplicate_estimate": 2,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9244,
+      "Latin": 0.0756
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3309,
+    "estimated_records": 50
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 50,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9244,
+      "Latin": 0.0756
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24396.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\24396.txt",
+    "relative_path": "archive (2)\\valid\\valid\\24396.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3309,
+    "mtime": 1782796635.1224823,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "a892c6c254bc8b08b263523539286f1af83b8d11",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

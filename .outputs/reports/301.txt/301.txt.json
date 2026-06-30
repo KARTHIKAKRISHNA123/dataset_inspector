@@ -1,0 +1,92 @@
+{
+  "dataset": "301.txt",
+  "file_name": "301.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नैनेल एक मष्टा देवता अन्तर्गत पर्ने देवताको नाम हो।यस देवतालाई पश्चिम नेपालका दैलेख, कालिकोट र अछाम जिल्लाका कर्णाली क्षेत्रका वासिन्दाहरूले पूजा गर्दछन्।यो देवताको उत्पत्ती अछाम जिल्लाको बारला गा.वि.स. अन्तर्गत पर्ने \"रक्तेपानी\" भन्ने स्थानमा भएको हो। भन्ने भनाई रहेको छ। खास गरेर जेठ, श्रावण र पौषको पूर्णिमामा जिव बली दिएर पूजा गर्ने प्रचलन रहेको छ। हुनत पश्चिम नेपालको धेरैजसो स्थानहरूमा नैनेल स्थानहरू स्थापना गरिएको पाईन्छ। कर्णाली राजमार्गको पारीपट्टी अछाम जिल्लाको कालेगाँडा गा.वि.स. अन्तरगत ",
+    "नैनेल पश्चिम कर्णाली क्षेत्रका वासिन्दाहरूको परापूर्व काल देखि पूजा गरिदै आएको एक देवताको नाम हो। यहाँ कर्णाली क्षत्र भन्नाले कर्णाली नदीका तटिय क्षेत्रहरू मानिन्छ। यसमा दैलेख, अछाम, कालिकोट जिल्लाका गाउँहरू मुख्य रूपमा लिइन्छ । यो देवतालाई राक्षसी देवताको रूपमा लगिन्छ । यसको कारण यो देवताको उत्पत्ती इतिहास हो ।"
+  ],
+  "statistics": {
+    "records_sampled": 8,
+    "missing_text": 0,
+    "text_length_min": 14,
+    "text_length_max": 1096,
+    "text_length_avg": 445.12,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 9455,
+    "estimated_records": 21
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 21,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "301.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\301.txt",
+    "relative_path": "301.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "301.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 9455,
+    "mtime": 1782796536.2081766,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "4c3d5b6447052ae63460967d0f644ed1227d3f4b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

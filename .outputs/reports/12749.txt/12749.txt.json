@@ -1,0 +1,93 @@
+{
+  "dataset": "12749.txt",
+  "file_name": "12749.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "रघुवंश वा रघुकुल पौराणिक क्षत्रिय राजवंश मानिन्छ । सूर्यवंशी राजा रघुबाट उत्पत्ति भएका राजाहरूलाई रघुवंशी मानिन्छ । कालिदास रचित रघुवंशम्मा रघुवंशको वंशवृक्ष बनाइनुका साथै विस्तृत वर्णन गरिएको छ । रघुवंशम्मा दिलीप, रघु, दशरथ, राम, कुश र अतिथिको विशेष वर्णन गरिएको छ। ",
+    "आदिकवि वाल्मीकिले रामलाई नायक बनाएर आफ्नो रामायण रचे, जसको अनुसरण विश्वका धेरै कविहरु र लेखकहरुले आ-आफ्ना भाषामा गरे र रामको कथालाई आ-आफ्नो ढंगले प्रस्तुत गरे। कालिदासले यद्यपि रामको कथा रचे परन्तु यस कथामा उनले कुनै एक पात्रलाई नायकका रूपमा देखाएनन्। उनले आफ्नो कृति ‘रघुवंश’मा पूरा वंशको कथा रचे, जो दिलीपदेखि आरम्भ हुन्छ र अग्निवर्णमा समाप्त हुन्छ। अग्निवर्णका मरणोपरान्त त्यसकी गर्भवती पत्नीका राज्यभिषेकका उपरान्त यस महाकाव्यको इतिश्री हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 13,
+    "missing_text": 0,
+    "text_length_min": 12,
+    "text_length_max": 1448,
+    "text_length_avg": 444.54,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9994,
+      "Latin": 0.0006
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 15493,
+    "estimated_records": 34
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 34,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12749.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12749.txt",
+    "relative_path": "12749.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12749.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 15493,
+    "mtime": 1782796455.5099542,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "92d203271088eb6abda2542a1134e5021a2c7d56",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

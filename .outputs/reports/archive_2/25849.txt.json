@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25849.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपालको अन्तरिम शासन विधान 2007 नेपालको पहिलो ऐतिहासिक संविधान हो। राणा शासनको अन्त्यपछि यो संविधान जारी गरिएको थियो। ",
+    "पब्लिक सर्भिस कमिशन का का.मु. अध्यक्ष भगवती प्रसाद सिंह अध्यक्ष तथा होरा प्रसाद जोशीको सदस्य सचिवमा भएको मस्यौदा आयोगको प्रतिवेदन 2007 चैत्र 17 गते मन्त्रिमण्डलले पास गरी राजा त्रिभुवन समक्ष बुझाएकोमा 2007 चैत्र 29 गते अन्तरिम शासन बिधान 2007 राजा त्रिभुवनबाट घोषणा भई नेपालमा सर्बप्रथम ब्यबहारिक एवं बैधानिक रूपमा संवैधानिक ब्यबस्थाको सुरुवात भएको हो । 7 भाग 73 धारा र 1 अनुसुची रहेको उक्त बिधानमा एक सदनात्मक ब्यबस्थापिका सभाको रूपमा सल्लाहकार सभा थियो । लोक सेवा आयोगलाई पब्लिक सर्भिस कमिशनको रूपम"
+  ],
+  "statistics": {
+    "records_sampled": 7,
+    "missing_text": 0,
+    "text_length_min": 22,
+    "text_length_max": 593,
+    "text_length_avg": 125.29,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2271,
+    "estimated_records": 18
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 18,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25849.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25849.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25849.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2271,
+    "mtime": 1782796637.8985167,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.993,
+    "sha1_quick": "0444f25c2d8d8070b6525ef68ffde7a3537656fd",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

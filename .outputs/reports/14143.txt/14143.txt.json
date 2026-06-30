@@ -1,0 +1,92 @@
+{
+  "dataset": "14143.txt",
+  "file_name": "14143.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "स्टेभेन जर्ज जेरार्ड बेलायती फुटबल खेलाडी हुन, जो हाल स्कटल्याण्डको क्लब रेन्जर्स एफसीका प्रबन्धक हुन् । जेरार्ड मध्यपंक्तिमा उत्कृष्ट प्रदर्शन गर्ने खेलाडी हुन् । उनी पेनाल्टी र फ्रि किक विशेषज्ञ मानिन्छन् । पछिल्लो पुस्ताका अब्बल दर्जाका अन्तर्राष्ट्रिय खेलाडीमध्ये पनि जेरार्डलाई सर्वाधिक सटीक मिडफिल्डर मान्ने धेरै छन् । उनी मौका सिर्जना गर्छन, सुन्दर पासहरू निकाल्छन् । गोल गर्न पनि उनी माहिर छन्, 'डेड बल अवस्था' मा उनको जवाफ थिएन् । यस्तोमा पनि उनले लिभरपुलका लागि लिग जित्न सकेनन्, इङ्ल्यान्ड",
+    "उनको जन्म बेलायतको विष्टन, मेर्सिसाइड सहरमा भएको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 55,
+    "text_length_max": 1076,
+    "text_length_avg": 565.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2932,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "14143.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\14143.txt",
+    "relative_path": "14143.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "14143.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2932,
+    "mtime": 1782796461.6781676,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "cb2ab95afa10fde9396177fc438438b79211bf00",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

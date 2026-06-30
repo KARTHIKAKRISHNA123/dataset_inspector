@@ -1,0 +1,91 @@
+{
+  "dataset": "10312.txt",
+  "file_name": "10312.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बेल्जियम यू-17 राष्ट्रिय फुटबल टिम बेल्जियमको 17 भन्दा कम उमेरका खेलाडीहरूको फुटबल टोली हो र यसलाई बेल्जियम फुटबल सङ्घ नियन्त्रण गरेको छ। यो टोली यूईएफए युरोपियन यू-19 च्याम्पियनसिप र फिफा यू-19 विश्वकपमा प्रतिस्पर्धा गर्दछ। उनीहरूको सबैभन्दा ठूलो सफलताहरू 2007-09 अन्तर्राष्ट्रिय च्यालेन्ज उपाधि जितेको थियो ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 310,
+    "text_length_max": 310,
+    "text_length_avg": 310.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 807,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "10312.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\10312.txt",
+    "relative_path": "10312.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "10312.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 807,
+    "mtime": 1782796444.029412,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "95dde05cbaede7b08d5d2c65ead80a713792c4ba",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

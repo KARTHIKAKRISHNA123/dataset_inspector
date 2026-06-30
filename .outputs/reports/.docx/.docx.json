@@ -1,0 +1,113 @@
+{
+  "dataset": "ଓଡ଼ିଆ_ଭାଷା.docx",
+  "file_name": "ଓଡ଼ିଆ_ଭାଷା.docx",
+  "source": "unknown",
+  "file_type": "docx",
+  "compression": "none",
+  "encoding": "binary",
+  "language_hint": "or",
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text",
+    "style"
+  ],
+  "preview": [
+    "ଓଡ଼ିଆ ଭାଷା",
+    "ଓଡ଼ିଆ ଭାଷାର ଉତ୍ପତ୍ତି ଓ କ୍ରମବିକାଶ"
+  ],
+  "statistics": {
+    "records_sampled": 53,
+    "missing_text": 0,
+    "text_length_min": 5,
+    "text_length_max": 2568,
+    "text_length_avg": 280.77,
+    "duplicate_estimate": 1,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Oriya": 0.9822,
+      "Devanagari": 0.0106,
+      "Latin": 0.0072
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 42201,
+    "estimated_records": 150
+  },
+  "schema": {
+    "columns": [
+      "text",
+      "style"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "style"
+    ],
+    "estimated_records": 150,
+    "raw_schema": {
+      "text": "str",
+      "style": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Oriya",
+    "languages_seen": [
+      "or"
+    ]
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": "or",
+    "dominant_script": "Oriya",
+    "script_distribution": {
+      "Oriya": 0.9766,
+      "Latin": 0.0132,
+      "Devanagari": 0.0102
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.9
+  },
+  "format_metadata": {
+    "n_paragraphs": 53,
+    "n_tables": 0,
+    "headings_sample": [
+      "ଓଡ଼ିଆ ଭାଷାର ଉତ୍ପତ୍ତି ଓ କ୍ରମବିକାଶ",
+      "ପ୍ରାଚୀନ ଓଡ଼ିଆର ଲିଖିତ ପ୍ରମାଣ",
+      "୨. ମଧ୍ୟଯୁଗୀୟ ଓଡ଼ିଆ ଭାଷା (ଖ୍ରୀ.ପୂ ୧୩ଶ–୧୬ଶ ଶତାବ୍ଦୀ)",
+      "୩. ରୀତି ଯୁଗୀୟ ଓଡ଼ିଆ ଭାଷା (୧୭ଶ–୧୯ଶ ଶତାବ୍ଦୀ)",
+      "ଭାଷା ଉପରେ ସଂସ୍କୃତର ପ୍ରଭାବ"
+    ]
+  },
+  "meta": {
+    "file_name": "ଓଡ଼ିଆ_ଭାଷା.docx",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\ଓଡ଼ିଆ_ଭାଷା.docx",
+    "relative_path": "ଓଡ଼ିଆ_ଭାଷା.docx",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "ଓଡ଼ିଆ_ଭାଷା.docx",
+    "source": "unknown",
+    "extension": "docx",
+    "file_type": "docx",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "compression": "none",
+    "size_bytes": 42201,
+    "mtime": 1782735863.8801706,
+    "encoding": "binary",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "45ea43b4e01051b4996ee3dadebad6edd456afb1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "4107.txt",
+  "file_name": "4107.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पाथीभरा अङ्ग्रेजी बोर्डिङ स्कुल इटहरी नगरपालिकामा अवस्थित एक उच्च माध्यमिक विद्यालय हो। यो इटहरी नगरपालिकाको वडा नं 4 बउका झोरा रोडमा पर्दछ। यसको स्थापना वि स 2048 सालमा भएको हो।यस विद्यालयमा उच्च माध्यमिक शिक्षा परिषद् अन्तरगत व्यवस्थापन तथा मानविकी विषयमा 10+2 कक्षाको पठन पाठन हुन्छ।"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 286,
+    "text_length_max": 286,
+    "text_length_avg": 286.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 754,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4107.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4107.txt",
+    "relative_path": "4107.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4107.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 754,
+    "mtime": 1782796578.0047853,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "fe3cae052f72f36d301f734ddfd340282372b010",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

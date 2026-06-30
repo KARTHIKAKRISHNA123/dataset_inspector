@@ -1,0 +1,92 @@
+{
+  "dataset": "12291.txt",
+  "file_name": "12291.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "कालिका गाउँपालिका रसुवा जिल्लाको सदरमुकाम धुञ्चेबाट 24 किमी दक्षिण पूर्व अर्थात् रसुवाको दक्षिणी सिमानामा पर्ने फलाँखु खोलादेखि उत्तरतिर अवस्थित लाम्चो र चेप्टो भूवनौटमा फैलिएको साबिक धैबुङ गाउँ विकास समिति, लहरेपौवाको वडा नं 8, राम्चे गाविस र भोर्ले गाविसको वडा नं 1, 6, 8, 9 वडा मिलेर बनेको हो । 5 वटा वडा रहेको यस गाउँपालिकाका मुख्य स्थानहरूमा बेतिनी, धारापानी, कटुञ्जे, कालिकास्थान, धैबुङकोट, धुसेनी, रूप्सेपानी, भदौरे, जिबजिबे, ज्याङलाङ, पराङ्से, गोम्बोडाँडा, राम्चे, ग्राङ र पलेप रहेका छन् ।",
+    "यो गाउँपालिका नेपालको मध्यमाञ्चल विकास क्षेत्र अन्तर्गत समुद्री सतहबाट 950 मिटरदेखि 2200 मिटर उचाईसम्म फैलिएको छ । जसको पूर्वमा नौकुण्ड गाउँपालिका, पश्चिममा उत्तरगया गाउँपालिका, दक्षिणमा फलाँखु खोला र त्रिशुली खोला तथा गोसाईकुण्ड गाउँपालिका अन्तर्गतको लाङटाङ राष्ट्रिय निकुञ्ज पर्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 189,
+    "text_length_max": 497,
+    "text_length_avg": 315.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3252,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12291.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12291.txt",
+    "relative_path": "12291.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12291.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3252,
+    "mtime": 1782796453.338657,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.998,
+    "sha1_quick": "cddff860ca839fe110c77e2fe2af4f8e5ff10da0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

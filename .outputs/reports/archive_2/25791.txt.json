@@ -1,0 +1,93 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "25791.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जोगी जाति नेपालको खस जतिके एक सिमान्तकृत समुदाय हो ।",
+    "जोगी खस जाती के मैध्ये एक जाति हो। येस्को इतिहास सम्वन्धि हालसम्म अध्ययन अनुसन्धानबाट पत्ता लगाईएका तथ्यहरूमा आधारित कुनै लिखित प्रामाणिक इतिहास वा प्रलेख भेटिएको छैन तथापी वुढापाकाहरूका अनसार जोगीहरूको आदिम वसोवासको थलो कुनै निश्चित थिएन र केही पछिको थलो चाहिँ नेपालको तेह्रथुम जिल्ला रहेको मानिन्छ । आदिम अवस्थामा जोगीहरू घुमन्ते 'गण' को रुपमा थिए । उनीहरूको कुनै स्थायी गाउँ वस्ती थिएन । आ-आफ्नो कूलको परिवारका विभिन्न गणको रुपमा जोगीहरूको वसोवास थियो । जङ्गलका प्राकृतिक आहार बटुलेर खाने त्यस युग"
+  ],
+  "statistics": {
+    "records_sampled": 26,
+    "missing_text": 0,
+    "text_length_min": 13,
+    "text_length_max": 3071,
+    "text_length_avg": 724.88,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9999,
+      "Latin": 0.0001
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 50191,
+    "estimated_records": 69
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 69,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25791.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\25791.txt",
+    "relative_path": "archive (2)\\valid\\valid\\25791.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 50191,
+    "mtime": 1782796637.8145337,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "f1fdb0e0ff7b1573f5a6590c6953e293b1cd0d4b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

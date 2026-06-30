@@ -1,0 +1,93 @@
+{
+  "dataset": "81.txt",
+  "file_name": "81.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "जब दुइ हल्का नाभिक परस्पर संयुक्त भएर एउटा भारी तत्वका नाभिकको रचना गर्दछन् त यस प्रक्रियालाई नाभिकीय संलयन भन्दछन्। नाभिकीय संलयनका फलस्वरूप जस नाभिकको निर्माण हुन्छ त्यसका द्रव्यमान संलयनमा भाग लिने दुइटै नाभिकहरूका सम्मिलित द्रव्यमानदेखि कम हुन्छ। द्रव्यमानमा यो कमी ऊर्जामा रूपान्तरित हुन जान्छ। जसलाई अल्बर्ट आइन्स्टाइनका समीकरण E = mc2देखि ज्ञात गर्दछन्। ताराहरूका भित्र यो क्रिया निरन्तर जारी छ। सबैभन्दा सरल संयोजनको प्रक्रिया हो चार हाइड्रोजन परमाणुहरूका संयोजन द्वारा एउटा हिलियम परमाणुको न"
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 1300,
+    "text_length_max": 1300,
+    "text_length_avg": 1300.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9699,
+      "Latin": 0.0301
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3310,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9699,
+      "Latin": 0.0301
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "81.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\81.txt",
+    "relative_path": "81.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "81.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3310,
+    "mtime": 1782796597.6248255,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "ceab4d6a0c533c32e15b56f0b51b0e2583f92722",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

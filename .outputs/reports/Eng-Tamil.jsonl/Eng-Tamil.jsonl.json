@@ -1,0 +1,105 @@
+{
+  "dataset": "Eng-Tamil.jsonl",
+  "file_name": "Eng-Tamil.jsonl",
+  "source": "unknown",
+  "file_type": "jsonl",
+  "compression": "none",
+  "encoding": "utf-8",
+  "language_hint": "ta",
+  "dataset_type": "Bilingual",
+  "columns": [
+    "English",
+    "Tamil"
+  ],
+  "preview": [
+    "﻿",
+    "Ranaviru Sewa Authority"
+  ],
+  "statistics": {
+    "records_sampled": 8947,
+    "missing_text": 47,
+    "text_length_min": 1,
+    "text_length_max": 704,
+    "text_length_avg": 59.51,
+    "duplicate_estimate": 2277,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Tamil": 0.6968,
+      "Latin": 0.3032,
+      "Arabic": 0.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2112033,
+    "estimated_records": 42485
+  },
+  "schema": {
+    "columns": [
+      "English",
+      "Tamil"
+    ],
+    "n_columns": 2,
+    "nested": false,
+    "text_column": null,
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [
+      "English",
+      "Tamil"
+    ],
+    "estimated_records": 42485,
+    "raw_schema": {
+      "English": "str",
+      "Tamil": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Bilingual",
+    "confidence": 0.55,
+    "reasoning": "2 script(s) with ≥15% share: Tamil, Latin",
+    "languages_seen": [
+      "en",
+      "ta"
+    ]
+  },
+  "language_hints": {
+    "path_hint": "ta",
+    "script_hint": "ta",
+    "dominant_script": "Tamil",
+    "script_distribution": {
+      "Tamil": 0.5058,
+      "Latin": 0.4939,
+      "Arabic": 0.0003
+    },
+    "mixed_language": true,
+    "romanized": false,
+    "code_switching": true,
+    "confidence": 0.9
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "Eng-Tamil.jsonl",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\Eng-Tamil.jsonl",
+    "relative_path": "Eng-Tamil.jsonl",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "Eng-Tamil.jsonl",
+    "source": "unknown",
+    "extension": "jsonl",
+    "file_type": "jsonl",
+    "mime_type": "application/x-ndjson",
+    "compression": "none",
+    "size_bytes": 2112033,
+    "mtime": 1782736987.0125315,
+    "encoding": "utf-8",
+    "encoding_confidence": 0.0,
+    "sha1_quick": "8e533fde45a4569e1c99366a35b1d5a56b84cc25",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

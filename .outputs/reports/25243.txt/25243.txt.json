@@ -1,0 +1,92 @@
+{
+  "dataset": "25243.txt",
+  "file_name": "25243.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एनि फ्रेन्क जर्मनी मा जन्मिएकी डायरी लेखिका थिइन् । दोस्रो विश्व युद्धको समयकी उनी एक यहुदी थिइन्; नाजी जर्मनीबाट बच्न उनको परिवारसँग लुक्ने क्रममा उनले लेखिएको डायरीको प्रकाशन पछि उनी चर्चामा आएकी थिइन् । उनको मृत्यु पश्चात् पछि मात्र भएको उनको डायरी प्रकाशन थुप्रै चलचित्र, नाटकहरूका लागि पनि आधार बन्ने गरेको छ ।",
+    "फ्रेंकफर्ट, जर्मनीमा जन्मिएकी भए पनि एनिले आफ्नो जीवनको धेरै समय एम्स्टरडेम, नेदरल्यान्डस् मा बिताइन् । नेदरल्यान्डस्मा उनी सारेँ चार वर्षकी हुदाँ आफ्ना परिवारसँग गएकी थिइन् । उक्त समय जर्मनीको शासन सत्ता नाजीको हातमा पुगेको थियो । जर्मनी मुलकी भए पनि उनी पछि राष्ट्रविहिन भइन् । सन् 1942 बाट एनीकी परिवार लुक्न बाध्य भए, सन् 1944 अगस्ट जब एनीकि परिवार पक्राउ परे : उक्त समय सम्म एनीले जन्मदिनमा पाएकी एक डायरीमा सम्पूर्ण दिनचर्या लेख्ने गर्थिन् । पछि एनीको टाइफाइडद्वारा मृत्यु भएको अनुमान गरिन्छ ।"
+  ],
+  "statistics": {
+    "records_sampled": 3,
+    "missing_text": 0,
+    "text_length_min": 184,
+    "text_length_max": 499,
+    "text_length_avg": 332.67,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2627,
+    "estimated_records": 7
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 7,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "25243.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\25243.txt",
+    "relative_path": "25243.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "25243.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2627,
+    "mtime": 1782796513.4476416,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7babf466115dcf65ab8e79165c3e8c42f6cc0e3a",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

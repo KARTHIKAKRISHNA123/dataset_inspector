@@ -1,0 +1,92 @@
+{
+  "dataset": "15443.txt",
+  "file_name": "15443.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "बलभद्र कुँवर एक बहादुर नेपाली स्वतन्त्रता सेनानी एवम् नेपाली सेनाका कप्तान थिए । 1814 से 1816 को बीचमा चलेको गोरखा युद्ध को पछि उनी प्रसिद्ध हुन पुगेका थिए । उनी नेपालका एक राष्ट्रिय विभूति हुन् ।",
+    "उनको जन्म सुब्बा चन्द्रवीर कुँवर र अम्बिका देवीका कान्छा छोराको रुपमा भयो । उनको बुवापट्टिका हजुरबुवा सरदार जयकृष्ण कुँवर हुन् र मावली हजुरबुवा अमरसिंह थापा हुन् । त्यसैले प्रधानमन्त्री भीमसेन थापा उनका मामा हुन् । "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 141,
+    "text_length_max": 647,
+    "text_length_avg": 299.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3185,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15443.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15443.txt",
+    "relative_path": "15443.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15443.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3185,
+    "mtime": 1782796467.6035569,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "7caa2688e8a3060d9af4e7894b71c22f93de0ca5",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

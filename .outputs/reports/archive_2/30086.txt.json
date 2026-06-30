@@ -1,0 +1,92 @@
+{
+  "dataset": "archive (2)",
+  "file_name": "30086.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "एक पटक निष्कासन भइसकेका प्रतिभूतिहरूको मात्र खरिद बिक्री हुने बजारलाई दोश्रो बजार भनिन्छ । दोश्रो बजारलाई मुख्य रुपमा निम्न तीन भागमा विभाजन गर्न सकिन्छ ।",
+    "प्रतिभूती खरिद वा बिक्री गर्नको लागि लगानीकर्ताले कमिसन, दलाली शुल्क आदिको भार बहन गर्नु पर्नेहुन्छ । यश प्रकारको खर्चको भार कम गर्नु प्रतिभूती बजारको एउटा मुख्य कार्य हो । प्रतिभूतिको खरिद बिक्रीमा लाग्ने शुल्क धितोपत्र बजार वा खरिद बिक्रीमा संलग्न अनौपचारिक सङ्गठनले निर्धारण गरेका हुन्छन् । प्रतिभूती बजारको सञ्चालनसम्बन्धी विभिन्न नियम र आचारसंहिता तयार गरि लागू गरिएका हुन्छन् । यसप्रकारका व्यवस्थाहरुबाट बजार सदस्यहरूले मनोमानी तरिकाबाट कमिशन असुल गर्ने कार्यलाई निरुत्साहित गर्छ, जसको परिणामस्"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 154,
+    "text_length_max": 530,
+    "text_length_avg": 342.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1848,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "30086.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid\\30086.txt",
+    "relative_path": "archive (2)\\valid\\valid\\30086.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads\\archive (2)\\valid\\valid",
+    "dataset": "archive (2)",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1848,
+    "mtime": 1782796646.362669,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "3fbf4b91925fc889dc88b4be766c66fbd04871d1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

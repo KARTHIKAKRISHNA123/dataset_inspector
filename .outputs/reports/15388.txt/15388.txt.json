@@ -1,0 +1,92 @@
+{
+  "dataset": "15388.txt",
+  "file_name": "15388.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "मार्भल कमिक्स एक साधारण नाम साथै मार्भल वर्ल्डवाइड इन्क को एक भात्री संस्था हो जुन साबिक रुपमा मार्भल प्रकाशन इन्क साथै मार्भल कमिक्स समूह को रुपमा चिनिन्थ्यो। यो एक कमिक पुस्तक तथा सम्बन्धित सामग्री प्रकासन गर्ने अमेरिकी प्रकासक हो। सन् 2009 मा, द वाल्ट डिस्नि कम्पनिले मार्भल कमिक्स को मात्री संस्था मार्भल वर्ल्डवाइड इन्क किनेको थियो।",
+    "मार्भल सन् 1939 मा टाइमलि प्रकासन को रुप मा सुरु भएको थियो र सुरुवाती 1950 साल तिर एट्लास कमिक्सको रुपमा चिनिएको थियो। मार्भलको आधुनिक रुप सन् 1961 मा द फ्यानट्यास्टिक फोर साथै अन्य शिर्षकक सुपर हिरो प्रकाशन गरेपछि सुरु भयो। आधुनिक रुप सुरु गर्ने बेलामा मार्भलमा स्ट्यान लि, ज्याक कर्वि, स्टिभ डिक्टो र अन्य धेरैको संग्लग्नता थियो।  "
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 16,
+    "text_length_max": 769,
+    "text_length_avg": 363.75,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 3828,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "15388.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\15388.txt",
+    "relative_path": "15388.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "15388.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 3828,
+    "mtime": 1782796467.3435028,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "2ba8f0073ebf7c90cbc5d8020ba92d1db66fda21",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

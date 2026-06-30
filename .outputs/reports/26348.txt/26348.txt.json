@@ -1,0 +1,92 @@
+{
+  "dataset": "26348.txt",
+  "file_name": "26348.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ह्यारी एड्वड स्टाईल्स एक बेलायती गायक तथा सङ्गीतकार हुन्। ऊनी बिश्वप्रसिद्ध ब्वाइ ब्यान्ड वान डिरेक्सनका सदस्य थिए।",
+    "ह्यारी एडवर्ड स्टाईल्सको जन्म सन् 1994 फेब्रुअरी 1 रिडिच वर्कस्शियरमा भएको थियो। स्टाईल्स होम्स चापलमा हुर्कियका थिय जब उनको बुबा अामा उनको ठुली दिदी गेम्मा संग होम्स चापलमा अाय। स्टाईल्सको अामा बुबाले उनी 7 वर्षको हुँदा सम्बन्ध विक्षेदन गरेका थिय । त्यस पछि उनको अामाले रोबिन टुईस्ट संग बिवहा गरिन् जस्को सन् 2017 मा मृत्यु भयो ।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 115,
+    "text_length_max": 330,
+    "text_length_avg": 222.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1173,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "26348.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\26348.txt",
+    "relative_path": "26348.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "26348.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1173,
+    "mtime": 1782796518.7085752,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a060fa460d7ece27fa55ca4c73659aa1808a565b",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "11598.txt",
+  "file_name": "11598.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "किटू गिडवानी एक भारतीय अभिनेत्री र मोडल हुन्। उनी हिन्दी चलचित्रहरूकी एक अभिनेत्री हुन्। उनीले कुछ चलचित्रहरूमा र भारतीय टेलिभिजनको धेरै कार्यक्रमहरूमा अभिनय गर्ने गर्छिन्। उनी एक टिभी श्रृङ्खला, एयर होस्टेसमा अभिनय गरे पछि लोकप्रिय बनिन्, जसको प्रसारण 1986मा दूरदर्शनमा गर्ने गरिएको थियो। डांस अफ द विन्ड, दीपा मेहताको अर्थ र गोविन्द निहलानीको रुखमावती की हवेली, कमल हसनको अभय र देहम मा उनको भूमिकाहरूको लागि उनको धेरै प्रशंसा गरिएको थियो।",
+    "उनको जन्म 22 अक्टोबर 1967मा भारतको मुम्बईमा भएको थियो।"
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 54,
+    "text_length_max": 440,
+    "text_length_avg": 247.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1302,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "11598.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\11598.txt",
+    "relative_path": "11598.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "11598.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1302,
+    "mtime": 1782796450.1502638,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.992,
+    "sha1_quick": "dac4c19ff803c21f1f1638a1c9411912a2950af0",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

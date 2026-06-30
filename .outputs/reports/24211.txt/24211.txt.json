@@ -1,0 +1,92 @@
+{
+  "dataset": "24211.txt",
+  "file_name": "24211.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "नेपाल लेखामान बोर्ड अर्थात एउटा स्वायत्त तथा सङ्गठनीक निकाय हो, यसको स्थापना सन् 2003 मा नेपाल चार्टर्ड एकाउन्टेन्ट्स ऐन, 2053 मा लेखामान बोर्डको स्थापन तथा सञ्चालन गर्नु पर्ने व्यवस्था संशोधन भए पश्चात नेपाल सरकारले गरेको हो ।  यस संस्थाले नेपालको लागी वित्तीय विवरण तयार गर्दा अपनाउनु पर्ने लेखाका सिध्दान्त तथा मानहरु तयार गर्ने कार्य गर्दछ । यसको प्रमुख कार्य भनेको अन्तराष्ट्रिय वित्तीय प्रस्तुतीकरण मानहरुसँग मेल खाने गरी नेपालमा लागु हुने व्यवसायिक संस्थाहरुको वित्तीय विवरण तयार गर्दा अपनाउनु",
+    "लेखामान बोर्डमा नेपाल सरकारले नियुक्त गर्ने अध्यक्ष गरी 13 सदस्यहरु हुन्छन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 78,
+    "text_length_max": 642,
+    "text_length_avg": 360.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1904,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "24211.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\24211.txt",
+    "relative_path": "24211.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "24211.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1904,
+    "mtime": 1782796508.7261727,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "a4d948ab19e9102872773a1593114ed84486f69c",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

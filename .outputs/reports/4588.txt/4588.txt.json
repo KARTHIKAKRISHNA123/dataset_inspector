@@ -1,0 +1,94 @@
+{
+  "dataset": "4588.txt",
+  "file_name": "4588.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "घरेलु हिंसा परिवारका कुनै सदस्यबाट अन्य वा अर्को कुनै सदस्यमाथि गरिने हिंसा हो। विश्व समुदायमा नै घरेलु हिंसाबाट कुनै वर्ग, जातजाति अछुतो रहन सकेको छैन। घरेलु हिंसा भोगिरहेका मनिसले शारिरीक, मानसिक, यौनिक तथा आर्थिक यातनाहरू सहनुपरेको हुन्छ।",
+    "नेपालको सन्दर्भमा महिलामाथि हिंसा हरेक समुदाय, समाज, संस्कृति, धर्ममा फरक किसिमले भइरहेको पाइन्छ । हिमाल, पहाड देखि तराई सम्म उच्च घरानिया देखि सुकुम्वासी झुपडी सम्म जहाँ सुकै, जो सुकै बाट र जहिले पनि हिंसा हुन सक्ने सम्भावनाको जोसिममा महिलाहरू हुन्छन् ।"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 30,
+    "text_length_max": 254,
+    "text_length_avg": 193.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 0.9655,
+      "Latin": 0.0345
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2012,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 0.9655,
+      "Latin": 0.0345
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "4588.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\4588.txt",
+    "relative_path": "4588.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "4588.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2012,
+    "mtime": 1782796580.399107,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.979,
+    "sha1_quick": "39f4e930a7823a9ae2293f157f99c265579fdbcf",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

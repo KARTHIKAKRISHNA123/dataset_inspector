@@ -1,0 +1,92 @@
+{
+  "dataset": "28041.txt",
+  "file_name": "28041.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "ब्राह्मी एउटा प्राचीन लिपि छ जसदेखि धेरै एसियाई लिपिहरुको विकास भएको हो। देवनागरी सहित अन्य दक्षिण एसियाई, दक्षिण-पूर्व एसियाई, तिब्बती तथा केही मानिसेका अनुसार कोरियाई लिपिको विकास पनि यसैदेखि भएको थियो।अहिलेसम्म मानिन्थ्यो कि चौथीदेखि तेस्रो सदी ईसा पूर्वमा यसको विकास मौर्यहरुले गरेको थियोमा भारतीय पुरातात्विक सर्वेक्षणका ताजा उत्खननदेखि पता लागेकोछ कि तमिलनाडु र श्रीलङ्कामा यो छैटौं सदी ईसा पूर्वदेखि नैं विद्यमान थियो।धेरै विद्वानहरुको मत छ कि यो लिपि प्राचीन सरस्वती लिपि देखि निस्केको, अतः य",
+    "ब्राह्मी लिपिदेखि उद्गम भएको केही लिपिहरु र उनको समानताहरु स्पष्टतया देख्न सकिन्छ। यीबाट धेरै लिपिहरु ईसाका समयका आसनजिक विकसित भएको थियो। इनमा देखि केही यस प्रकार छ-"
+  ],
+  "statistics": {
+    "records_sampled": 4,
+    "missing_text": 0,
+    "text_length_min": 8,
+    "text_length_max": 851,
+    "text_length_avg": 269.5,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 2898,
+    "estimated_records": 10
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 10,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "28041.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\28041.txt",
+    "relative_path": "28041.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "28041.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 2898,
+    "mtime": 1782796526.347493,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "f8e6c8cc3f4ee16f5378619ba229928e894a6aa6",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

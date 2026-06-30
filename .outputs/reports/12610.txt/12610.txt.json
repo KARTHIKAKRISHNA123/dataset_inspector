@@ -1,0 +1,92 @@
+{
+  "dataset": "12610.txt",
+  "file_name": "12610.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "तुलिप जोशी एक भारतीय चलचित्र अभिनेत्री हुन् । उनी हिन्दी, कन्नड, मलायलम र तेलगुको चलचित्रहरुमा आफ्नो अभिनयको लागि प्रशिद्ध छिन् ।",
+    "तुलिप जोशीको जन्म मुम्बई मा 11सेप्टेम्बर 1979 मा भएको हो । उनको बुवा एक गुजराती भारतीय र आमा अर्मेनियन्स हुन् । उनले आफ्नो प्राथमिक र उच्च माध्यमिक सिक्षा मुम्बईको जमनाबती नर्सी स्कुल बाट प्राप्त गरेकी हुन् । "
+  ],
+  "statistics": {
+    "records_sampled": 2,
+    "missing_text": 0,
+    "text_length_min": 129,
+    "text_length_max": 209,
+    "text_length_avg": 169.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 886,
+    "estimated_records": 5
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 5,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "12610.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\12610.txt",
+    "relative_path": "12610.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "12610.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 886,
+    "mtime": 1782796454.806684,
+    "encoding": "utf_8",
+    "encoding_confidence": 0.994,
+    "sha1_quick": "3e72534c47ec05b5d8ab60a89d5cf5f21177c7b1",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}

@@ -1,0 +1,91 @@
+{
+  "dataset": "23479.txt",
+  "file_name": "23479.txt",
+  "source": "unknown",
+  "file_type": "txt",
+  "compression": "none",
+  "encoding": "utf_8",
+  "language_hint": null,
+  "dataset_type": "Monolingual",
+  "columns": [
+    "text"
+  ],
+  "preview": [
+    "पब्लिक कम्पनी भन्नाले कम्तिमा सात जना संस्थापक भई बढीमा जति पनि संस्थापक रहि स्थापना हुने कम्पनीलाई पब्लिक भनिन्छ । साथै जुन कम्पनीको शेयर स्वामित्वलाई साधारण जनतामा बाडिएको र शेयर बजारमा स्वतन्त्र रूपमा शेयरको कारोबार हुने कम्पनीलाई पब्लिक कम्पनी भनिन्छ । पब्लिक कम्पनीको शेयर तथा डिबेन्चर खुलारूपमा विक्रि हुने गर्दछ भने यस्तो कम्पनीको शेयरलाई शेयरधनीले धितोबन्धक राख्न वा अन्य कुनै किसिमले हक छाडी दिन खुला हुने गर्दछ । "
+  ],
+  "statistics": {
+    "records_sampled": 1,
+    "missing_text": 0,
+    "text_length_min": 423,
+    "text_length_max": 423,
+    "text_length_avg": 423.0,
+    "duplicate_estimate": 0,
+    "duplicate_sampler_saturated": false,
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "unicode_replacement_chars": 0,
+    "unicode_control_chars": 0,
+    "encoding_quality": 1.0,
+    "languages_seen": [],
+    "file_size_bytes": 1136,
+    "estimated_records": 2
+  },
+  "schema": {
+    "columns": [
+      "text"
+    ],
+    "n_columns": 1,
+    "nested": false,
+    "text_column": "text",
+    "language_column": null,
+    "source_column": null,
+    "target_column": null,
+    "metadata_columns": [],
+    "estimated_records": 2,
+    "raw_schema": {
+      "text": "str"
+    }
+  },
+  "classification": {
+    "dataset_type": "Monolingual",
+    "confidence": 0.55,
+    "reasoning": "1 script(s) with ≥15% share: Devanagari",
+    "languages_seen": []
+  },
+  "language_hints": {
+    "path_hint": null,
+    "script_hint": null,
+    "dominant_script": "Devanagari",
+    "script_distribution": {
+      "Devanagari": 1.0
+    },
+    "mixed_language": false,
+    "romanized": false,
+    "code_switching": false,
+    "confidence": 0.4
+  },
+  "format_metadata": {},
+  "meta": {
+    "file_name": "23479.txt",
+    "absolute_path": "C:\\Users\\athvi\\Downloads\\23479.txt",
+    "relative_path": "23479.txt",
+    "parent_dir": "C:\\Users\\athvi\\Downloads",
+    "dataset": "23479.txt",
+    "source": "unknown",
+    "extension": "txt",
+    "file_type": "txt",
+    "mime_type": "text/plain",
+    "compression": "none",
+    "size_bytes": 1136,
+    "mtime": 1782796505.3491783,
+    "encoding": "utf_8",
+    "encoding_confidence": 1.0,
+    "sha1_quick": "ff87acb6f770d416c6b6f2518fd7ba2c980d0693",
+    "archive_path": null,
+    "archive_member": null,
+    "permissions": "0o666",
+    "error": null
+  },
+  "errors": []
+}
