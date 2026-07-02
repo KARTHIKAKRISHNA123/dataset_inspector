@@ -1,10 +1,35 @@
+# Python
 __pycache__/
 *.py[cod]
-.venv/
 *.egg-info/
 .pytest_cache/
 .ruff_cache/
+.mypy_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Project-generated output (gigabytes; reports/, master_inventory.*, combined_dataset.*)
 outputs/
 _checkpoints/
+combined_dataset.json
+combined_dataset.jsonl
+token_statistics.json
+token_statistics_fast.json
+*.log
+logs/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS junk
 .DS_Store
 Thumbs.db
+
+# Env / secrets
+.env
+*.token
