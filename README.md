@@ -1,4 +1,4 @@
-# dataset-inspector
+# dataset-inspector for multilingual bpe pipeline
 
 A **standalone, streaming, disk-backed** tool that *inspects and profiles* heterogeneous datasets
 **without preprocessing them**. Point it at a folder of 100+ datasets (HuggingFace dumps, GitHub
